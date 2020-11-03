@@ -22,7 +22,7 @@ def strip_multiple(text: str, strings: List[str]) -> str:
 
 
 def strip_unicode(text: str) -> str:
-    return strip_multiple(text, strings=["\u2009", "\u202f", "\xa0", "\xa2", "\u200b", "\xad"])
+    return strip_multiple(text, strings=["\u2009", "\u202f", "\xa0", "\xa2", "\u200b", "\xad", "\u200d"])
 
 
 def _to_ascii(string: str) -> str:

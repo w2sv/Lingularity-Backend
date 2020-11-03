@@ -1,6 +1,5 @@
 from backend.version import __version__
-from backend.database import MongoDBClient
-from backend import database
+from backend.database import MongoDBClient, instantiate_client as instantiate_database_client
 
 from backend import trainers
 from backend import utils

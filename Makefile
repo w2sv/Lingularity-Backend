@@ -28,3 +28,7 @@ doctest:
 
 mine-metadata:
 	python -m backend.metadata.mine -Mine
+
+# -----------Building-------------
+wheel:
+	python setup.py bdist_wheel --dist-dir ../../dist

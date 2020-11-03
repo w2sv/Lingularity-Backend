@@ -5,7 +5,7 @@ from backend.utils.module_abstraction import abstractmodulemethod
 from . import random, simple, diction_expansion
 
 
-@abstractmodulemethod
+@abstractmodulemethod()
 def filter_sentence_data():
     pass
 

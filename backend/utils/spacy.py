@@ -1,6 +1,6 @@
 """ https://spacy.io/models """
 
-from typing import Any
+from typing import Any, List
 import os
 from enum import Enum, auto
 
@@ -57,12 +57,16 @@ LANGUAGE_2_MODEL_IDENTIFIERS = {
 }
 
 def _assemble_model_name(language: str) -> str:
-    MODEL_SIZE_IDENTIFIER = 'md'
+    MODEL_SIZE_IDENTIFIER = 'sm'
 
     return f'{LANGUAGE_2_MODEL_IDENTIFIERS[language][0]}_core_{LANGUAGE_2_MODEL_IDENTIFIERS[language][1]}_{MODEL_SIZE_IDENTIFIER}'
 
 
 ELIGIBLE_LANGUAGES = set(LANGUAGE_2_MODEL_IDENTIFIERS.keys())
+
+
+def model_names() -> List[str]:
+    return [_assemble_model_name(language) for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys()]
 
 
 if __name__ == '__main__':

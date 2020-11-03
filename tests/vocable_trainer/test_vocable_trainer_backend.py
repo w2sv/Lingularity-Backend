@@ -1,4 +1,4 @@
-from lingularity.backend.trainers.vocable_trainer import VocableTrainerBackend
+from backend.trainers.vocable_trainer import VocableTrainerBackend
 from tests.utils import get_vocable_entries
 
 

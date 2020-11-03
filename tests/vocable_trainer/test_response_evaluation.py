@@ -1,4 +1,4 @@
-from lingularity.backend.trainers.vocable_trainer.response_evaluation import (
+from backend.trainers.vocable_trainer.response_evaluation import (
     get_response_evaluation,
     _n_char_deviations,
     ResponseEvaluation

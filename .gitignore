@@ -10,8 +10,7 @@ logging.txt
 
 # Data
 *.mp3
-/lingularity/backend/data/sentence-data/
-
+/data/sentence-data/
 
 # Envs
 /env/
@@ -22,3 +21,4 @@ logging.txt
 
 # Build
 /build/
+/backend.egg-info/

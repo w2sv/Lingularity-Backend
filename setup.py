@@ -1,5 +1,7 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 from pathlib import Path
+
+from backend.utils import spacy
 
 version = {}
 exec(open(Path(__file__).parent /'backend/version.py').read(), version)
@@ -7,7 +9,7 @@ exec(open(Path(__file__).parent /'backend/version.py').read(), version)
 
 setup(
     name='backend',
-    packages=['backend'],
+    packages=find_packages(),
     version=version['__version__'],
     python_requires='>=3.8',
     install_requires=[
@@ -24,7 +26,8 @@ setup(
         'textacy==0.10.1',
         'spacy',
         'aenum'
-    ],
+    ] + spacy.model_names(),
     author='W2SV',
-    author_email='zangenbergjanek@googlemail.com'
+    author_email='zangenbergjanek@googlemail.com',
+    platform='Linux'
 )

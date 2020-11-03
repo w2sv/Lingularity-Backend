@@ -8,6 +8,6 @@ from . import (
 )
 
 
-@abstractmodulemethod
+@abstractmodulemethod(ignore_modules=['utils'])
 def scrape():
     pass
