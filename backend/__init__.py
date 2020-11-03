@@ -1,5 +1,7 @@
 import os
 import logging
+from .version import __version__
+
 
 _BACKEND_DATA_PATH = f'{os.getcwd()}/backend/data'
 
