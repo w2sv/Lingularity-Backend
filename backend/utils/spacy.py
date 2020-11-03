@@ -68,7 +68,7 @@ ELIGIBLE_LANGUAGES = set(LANGUAGE_2_MODEL_IDENTIFIERS.keys())
 def model_package_links(version: str) -> List[str]:
     def package_link(language):
         model_name = _assemble_model_name(language)
-        return f'https://github.com/explosion/spacy-models/releases/download/{model_name}-{version}/{model_name}-{version}.tar.gz'
+        return f"https://github.com/explosion/spacy-models/releases/download/{model_name}-{version}/{model_name}-{version}.tar.gz"
 
     return [package_link(language) for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys()]
 
@@ -76,6 +76,7 @@ def model_package_links(version: str) -> List[str]:
 if __name__ == '__main__':
     """ Download all available spacy models alongside additional dependencies """
 
+    print(model_package_links('2.3.1'))
 
     def download_models():
         for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys():

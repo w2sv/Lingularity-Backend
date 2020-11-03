@@ -25,8 +25,9 @@ setup(
         'googletrans',
         'textacy==0.10.1',
         'spacy',
-        'aenum'
-    ] + spacy.model_package_links('2.3.1'),
+        'aenum',
+    ],
+    dependency_links=spacy.model_package_links('2.3.1'),
     author='W2SV',
     author_email='zangenbergjanek@googlemail.com',
     platform='Linux'
