@@ -7,7 +7,7 @@ from tqdm import tqdm
 import numpy as np
 from textacy.similarity import levenshtein
 
-from backend import sentence_data_path
+from backend.paths import sentence_data_path
 from backend.ops.data_mining.downloading import download_sentence_data
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
 from backend.utils.iterables import longest_value

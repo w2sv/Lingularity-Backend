@@ -1,18 +1,13 @@
-import logging
-from pathlib import Path
-from .version import __version__
+from backend.version import __version__
+from backend.database import MongoDBClient
+from backend import database
 
+from backend import trainers
+from backend import utils
 
-_BACKEND_DATA_PATH = f'{Path(__file__).parent}/backend/data'
+from backend.utils import string_resources
 
-SENTENCE_DATA_PATH = f'{_BACKEND_DATA_PATH}/sentence-data'
-TOKEN_MAPS_PATH = f'{_BACKEND_DATA_PATH}/token-maps'
-META_DATA_PATH = f'{_BACKEND_DATA_PATH}/meta-data'
-
-
-def sentence_data_path(language: str) -> str:
-    return f'{SENTENCE_DATA_PATH}/{language}.txt'
-
-
-# enable logging
-logging.basicConfig(filename='logging.txt', level=logging.INFO)
+from backend.ops.stemming import STEMMABLE_LANGUAGES
+from backend.ops.google.text_to_speech import TTSABLE_LANGUAGES
+from backend.utils.spacy import ELIGIBLE_LANGUAGES as LEMMATIZABLE_LANGUAGES
+from backend.metadata import language_metadata

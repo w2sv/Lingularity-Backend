@@ -2,7 +2,7 @@ from typing import Optional, List
 import random
 import logging
 
-from backend import META_DATA_PATH
+from ..paths import META_DATA_PATH
 from backend.utils.data import load_json
 from .types import (
     SubstitutionForenamesMap,

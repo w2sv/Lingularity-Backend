@@ -7,7 +7,7 @@ from functools import partial
 from tqdm import tqdm
 from textacy.similarity import levenshtein
 
-from backend import META_DATA_PATH
+from backend.paths import META_DATA_PATH
 from backend.utils import strings, data, string_resources
 from backend.trainers.components import SentenceData
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES

@@ -17,7 +17,7 @@ from .document_types import (
 VocableEntryDictRepr = Dict[str, VocableData]
 
 
-def client_endpoint(host: str, user: str, password: str) -> str:
+def _client_endpoint(host: str, user: str, password: str) -> str:
     """ Employing srv endpoint """
 
     return f'mongodb+srv://{user}:{password}@{host}'
@@ -42,7 +42,7 @@ class MongoDBClient(state_sharing.MonoStatePossessor):
         self._language: Optional[str] = None
 
         self._cluster: pymongo.MongoClient = pymongo.MongoClient(
-            client_endpoint(
+            _client_endpoint(
                 host='cluster0.zthtl.mongodb.net/admin?retryWrites=true&w=majority',
                 user='sickdude69',
                 password='clusterpassword'),

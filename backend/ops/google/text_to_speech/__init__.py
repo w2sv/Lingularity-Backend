@@ -2,6 +2,7 @@ import os
 
 import gtts
 
+from backend.metadata import language_metadata
 from backend.utils import data
 from backend.ops.google import GoogleOp
 
@@ -21,3 +22,4 @@ class GoogleTextToSpeech(GoogleOp):
 
 
 google_tts = GoogleTextToSpeech()
+TTSABLE_LANGUAGES = list(filter(lambda language: google_tts.available_for(language), language_metadata.keys()))

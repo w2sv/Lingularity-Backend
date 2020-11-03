@@ -2,7 +2,7 @@ import pytest
 import os
 import random
 
-from backend import SENTENCE_DATA_PATH
+from backend.paths import SENTENCE_DATA_PATH
 from backend.utils import strings
 from backend.trainers.base import SentenceData
 

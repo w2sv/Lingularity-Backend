@@ -2,8 +2,7 @@ import os
 import warnings
 import zipfile
 
-
-from backend import sentence_data_path, SENTENCE_DATA_PATH
+from backend.paths import SENTENCE_DATA_PATH, sentence_data_path
 from backend.metadata import language_metadata
 from backend.ops.data_mining.scraping.sentence_data_download_links import SENTENCE_DATA_PAGE_URL
 from .utils import patched_urllib

@@ -3,7 +3,7 @@ import collections
 from abc import ABC
 from functools import wraps
 
-from backend import TOKEN_MAPS_PATH
+from backend.paths import TOKEN_MAPS_PATH
 from backend.utils import data, strings
 
 
