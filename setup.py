@@ -26,7 +26,7 @@ setup(
         'textacy==0.10.1',
         'spacy',
         'aenum'
-    ] + spacy.model_names(),
+    ] + spacy.model_package_links('2.3.1'),
     author='W2SV',
     author_email='zangenbergjanek@googlemail.com',
     platform='Linux'
