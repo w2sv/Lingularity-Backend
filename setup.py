@@ -9,7 +9,7 @@ exec(open(Path(__file__).parent /'backend/version.py').read(), version)
 
 setup(
     name='backend',
-    packages=find_packages(),
+    packages=find_packages(exclude=(["*.tests", "*.tests.*", "tests.*", "tests"])),
     version=version['__version__'],
     python_requires='>=3.8',
     install_requires=[
@@ -28,7 +28,8 @@ setup(
         'aenum',
     ],
     dependency_links=spacy.model_package_links('2.3.1'),
+    include_package_data=True,
     author='W2SV',
     author_email='zangenbergjanek@googlemail.com',
-    platform='Linux'
+    platforms=['Linux']
 )

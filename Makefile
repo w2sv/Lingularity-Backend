@@ -31,4 +31,6 @@ mine-metadata:
 
 # -----------Building-------------
 wheel:
-	python setup.py bdist_wheel --dist-dir ../../dist
+	rm -rf backend.egg-info
+	rm -rf build
+	python setup.py bdist_wheel --dist-dir ../dist

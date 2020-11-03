@@ -10,7 +10,7 @@ logging.txt
 
 # Data
 *.mp3
-/data/sentence-data/
+/backend/data/sentence-data/
 
 # Envs
 /env/

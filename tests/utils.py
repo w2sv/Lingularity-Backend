@@ -5,13 +5,10 @@ from backend.database import MongoDBClient
 from backend.trainers.components import VocableEntry
 
 
-def get_mongodb_client() -> MongoDBClient:
-    mongodb = MongoDBClient()
-    mongodb.user = 'janek'
-    mongodb.language = 'Italian'
-
-    return mongodb
+mongodb = MongoDBClient()
+mongodb.user = 'janek'
+mongodb.language = 'Italian'
 
 
 def get_vocable_entries() -> List[VocableEntry]:
-    return list(starmap(VocableEntry, get_mongodb_client().query_vocabulary()))
+    return list(starmap(VocableEntry, MongoDBClient.get_instance().query_vocabulary()))

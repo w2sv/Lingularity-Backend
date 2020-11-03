@@ -1,6 +1,6 @@
 from backend.trainers.base import TrainerBackend
-from . import modes
-from .text_to_speech import TextToSpeech
+from backend.trainers.components.text_to_speech import TextToSpeech
+from backend.trainers.sentence_translation import modes
 
 
 class SentenceTranslationTrainerBackend(TrainerBackend):

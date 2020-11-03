@@ -8,7 +8,7 @@ from backend.trainers.base import SentenceData
 
 
 def _random_language() -> str:
-    return random.choice(os.listdir(SENTENCE_DATA_PATH)).split('.')[0]
+    return random.choice(list(filter(lambda language_candidate: not language_candidate.startswith('.'), os.listdir(SENTENCE_DATA_PATH)))).split('.')[0]
 
 
 @pytest.mark.parametrize('language', [

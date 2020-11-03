@@ -1,6 +1,7 @@
 from typing import Optional, List
-import os
 import time
+import os
+import pathlib
 
 import vlc
 
@@ -12,9 +13,12 @@ from backend.utils.time import get_timestamp
 
 
 class TextToSpeech(MonoStatePossessor):
-    _AUDIO_FILE_PATH = f'{os.getcwd()}/.tts_audio_files'
+    _AUDIO_FILE_DEPOSIT_DIR = f'{pathlib.Path(__file__).parent}/file_deposit'
 
     def __init__(self, language: str):
+        if not os.path.exists(self._AUDIO_FILE_DEPOSIT_DIR):
+            os.mkdir(self._AUDIO_FILE_DEPOSIT_DIR)
+
         super().__init__()
 
         self._mongodb_client: MongoDBClient = MongoDBClient.get_instance()
@@ -160,7 +164,7 @@ class TextToSpeech(MonoStatePossessor):
     def download_audio_file(self, text: str):
         assert self._language_variety is not None
 
-        audio_file_path = f'{self._AUDIO_FILE_PATH}/{get_timestamp()}.mp3'
+        audio_file_path = f'{self._AUDIO_FILE_DEPOSIT_DIR}/{get_timestamp()}.mp3'
         google_tts.get_audio(text, self._language_variety, save_path=audio_file_path)
 
         self._audio_file_path = audio_file_path
@@ -190,5 +194,5 @@ class TextToSpeech(MonoStatePossessor):
     def __del__(self):
         """ Triggers deletion of all audio files on object destruction """
 
-        for audio_file in os.listdir(TextToSpeech._AUDIO_FILE_PATH):
-            os.remove(f'{TextToSpeech._AUDIO_FILE_PATH}/{audio_file}')
+        for audio_file in os.listdir(self._AUDIO_FILE_DEPOSIT_DIR):
+            os.remove(f'{self._AUDIO_FILE_DEPOSIT_DIR}/{audio_file}')

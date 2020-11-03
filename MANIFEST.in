@@ -1,0 +1,2 @@
+graft backend/data
+recursive-include backend *.json
