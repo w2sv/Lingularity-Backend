@@ -10,14 +10,16 @@ from textacy.similarity import levenshtein
 from backend.paths import sentence_data_path
 from backend.ops.data_mining.downloading import download_sentence_data
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
-from backend.utils.iterables import longest_value
+from backend.utils import iterables
 from backend.utils.strings import (
     get_unique_meaningful_tokens,
     is_of_latin_script,
     strip_special_characters,
     continuous_substrings,
     longest_continuous_partial_overlap,
-    strip_unicode
+    strip_unicode,
+    find_quoted_text,
+    strip_multiple
 )
 
 
@@ -46,14 +48,34 @@ class SentenceData(np.ndarray):
     @staticmethod
     def _read_in(_sentence_data_path: str, train_english: bool) -> np.ndarray:
         processed_sentence_data = []
+
         with open(_sentence_data_path, 'r', encoding='utf-8', errors='strict') as sentence_data_file:
             for sentence_pair_line in sentence_data_file.readlines():
                 sentence_pair = strip_unicode(sentence_pair_line[:-1]).split('\t')
+
                 if train_english:
                     sentence_pair = list(reversed(sentence_pair))
+
                 processed_sentence_data.append(sentence_pair)
 
         return np.asarray(processed_sentence_data)
+
+    def strip_bilaterally_present_quotes(self):
+        """ Strips double-quotation mark quote(s) with marks from respective sentence data
+            rows if quote(s) present in both the english and foreign language sentence, possibly
+            with special-sign deviation
+
+            i.e. sentence pair:
+                'They called me the "King of the Road!"' - Mi hanno chiamato il "King of the Road."'
+            would be converted to:
+                'They called me the ' - 'Mi hanno chiamato il ' """
+
+        for i, sentence_pair in enumerate(self):
+            sentence_pair_quotes = map(find_quoted_text, sentence_pair)
+            bilaterally_present_quote_pairs = filter(lambda quote_pair: iterables.contains_singular_unique_element(map(lambda quote: strip_special_characters(quote), quote_pair)), zip(*sentence_pair_quotes))
+
+            for j, (sentence, comprising_quotes) in enumerate(zip(sentence_pair, iterables.unzip(bilaterally_present_quote_pairs))):
+                self[i, j] = strip_multiple(sentence, strings=map(lambda quote: '"' + quote + '"', comprising_quotes))
 
     # -------------------
     # Columns
@@ -78,8 +100,7 @@ class SentenceData(np.ndarray):
                         queried """
 
             # return False if query tokens of different script type than sentences
-            if self.uses_latin_script != is_of_latin_script(''.join(query_tokens),
-                                                            remove_non_alphabetic_characters=False):
+            if self.uses_latin_script != is_of_latin_script(''.join(query_tokens), remove_non_alphabetic_characters=False):
                 return False
 
             query_tokens_set = set(query_tokens)
@@ -90,7 +111,7 @@ class SentenceData(np.ndarray):
                     return True
             return False
 
-        @cached_property
+        @property
         def comprising_characters(self) -> Set[str]:
             characters = set()
 
@@ -111,8 +132,7 @@ class SentenceData(np.ndarray):
     # Translation query
     # -------------------
     def query_translation(self, english_sentence: str, file_max_length_percentage: float = 1.0) -> Optional[str]:
-        """
-            Args:
+        """ Args:
                  english_sentence: complete phrase including punctuation whose translation_field ought to be queried
                  file_max_length_percentage: percentage of sentence_data file length after exceeding which
                     the query process will be stopped for performance optimization purposes """
@@ -131,23 +151,48 @@ class SentenceData(np.ndarray):
     # .Proper Nouns
     # -------------------
     def deduce_proper_nouns(self) -> Set[str]:
-        """ Working principle:
-                for each sentence pair:
-                    - get set of intersection between tokens of english sentence and its translation_field
-                    - add tokens starting on uppercase character being either comprised of at least 2 characters or
-                      non-latin
+        """ Returns:
+                set of lowercase proper nouns, deduced by
+                    title scripture,
+                    length being greater equals 2  (nonexistence of single-character English propernouns),
+                    identical bilateral existence in both sentences of one sentence pair,
+                    nonexistence of respective lowercase word in both language data columns
 
-            Returns:
-                set of lowercase proper nouns """
+            Note:
+                strip_bilaterally_present_quotes to be called before invocation in order to eliminate
+                uppercase tokens originating from quotes
 
-        proper_nouns = set()
+            >>> sorted(SentenceData('Croatian').deduce_proper_nouns())
+            ['android', 'boston', 'braille', 'fi', 'japan', 'john', 'kyoto', 'london', 'louis', 'mama', 'mary', 'new', 'oh', 'sumatra', 'tom', 'tv', 'wi', 'york']
 
-        print('Procuring proper nouns...')
-        for sentence_pair in tqdm(self):
-            proper_noun_candidates = set.intersection(*map(get_unique_meaningful_tokens, sentence_pair))
-            for candidate in proper_noun_candidates:
-                if candidate.istitle() and len(candidate) > 1:
-                    proper_nouns.add(candidate.lower())
+            >>> sorted(SentenceData('Basque').deduce_proper_nouns())
+            ['alexander', 'bell', 'boston', 'graham', 'mary', 'nikon', 'tokyo', 'tom'] """
+
+        lowercase_english_tokens: Set[str] = set()
+        lowercase_foreign_language_tokens: Set[str] = set()
+        uppercase_sentence_pair_tokens_list: List[List[Set[str]]] = []
+
+        # accumulate flat language token sets, uppercase sentence pair tokens
+        # list with maintained sentence index dimension
+        for sentence_pair in tqdm(self._zipped_sentence_iterator, total=len(self)):
+            uppercase_sentence_pair_tokens = []
+            for unique_sentence_tokens, lowercase_tokens_cache in zip(list(map(get_unique_meaningful_tokens, sentence_pair)), [lowercase_english_tokens, lowercase_foreign_language_tokens]):
+                unique_lowercase_tokens = set(filter(lambda token: token.islower(), unique_sentence_tokens))
+
+                lowercase_tokens_cache.update(unique_lowercase_tokens)
+                uppercase_sentence_pair_tokens.append(unique_sentence_tokens - unique_lowercase_tokens)
+
+            uppercase_sentence_pair_tokens_list.append(uppercase_sentence_pair_tokens)
+
+        # add candidates to proper nouns which
+        #   are at least 2 characters long,
+        #   present in both sentences of one sentence pair,
+        #   not present in both language lowercase token caches
+        proper_nouns: Set[str] = set()
+        for non_lowercase_sentence_pair_tokens in uppercase_sentence_pair_tokens_list:
+            bilaterally_present_tokens = filter(lambda token: len(token) > 1, iterables.intersection(non_lowercase_sentence_pair_tokens))
+            bilaterally_present_tokens = map(lambda token: token.lower(), bilaterally_present_tokens)
+            proper_nouns.update(filter(lambda token: token not in lowercase_english_tokens or token not in lowercase_foreign_language_tokens, bilaterally_present_tokens))
 
         return proper_nouns
 
@@ -181,7 +226,7 @@ class SentenceData(np.ndarray):
         candidates = set()
         lowercase_words_cache = set()
 
-        for english_sentence, foreign_language_sentence in self._english_to_foreign_language_sentence_iterator:
+        for english_sentence, foreign_language_sentence in self._zipped_sentence_iterator:
             if proper_noun in get_unique_meaningful_tokens(english_sentence, apostrophe_splitting=True):
                 for token in get_unique_meaningful_tokens(foreign_language_sentence, apostrophe_splitting=True):
                     if token.istitle() and levenshtein(proper_noun, token) >= MIN_CANDIDATE_PN_LEVENSHTEIN:
@@ -204,7 +249,7 @@ class SentenceData(np.ndarray):
         translation_candidates: Set[str] = set()
         translation_candidate_2_n_occurrences: Counter[str] = collections.Counter()
         translation_comprising_sentence_substrings_cache: List[Set[str]] = []
-        for english_sentence, foreign_language_sentence in self._english_to_foreign_language_sentence_iterator:
+        for english_sentence, foreign_language_sentence in self._zipped_sentence_iterator:
             if proper_noun in get_unique_meaningful_tokens(english_sentence, apostrophe_splitting=True):
                 foreign_language_sentence = strip_special_characters(foreign_language_sentence, include_dash=True, include_apostrophe=True).replace(' ', '')
 
@@ -225,7 +270,7 @@ class SentenceData(np.ndarray):
                     sentence_substrings = set(continuous_substrings(foreign_language_sentence))
                     for i, forename_comprising_sentence_substrings in enumerate(translation_comprising_sentence_substrings_cache):
                         if len((substring_intersection := sentence_substrings.intersection(forename_comprising_sentence_substrings))):
-                            forename_translation = longest_value(substring_intersection)
+                            forename_translation = iterables.longest_value(substring_intersection)
                             if translation_candidate_2_n_occurrences[forename_translation] != CANDIDATE_BAN_INDICATION:
                                 translation_candidates.add(forename_translation)
                                 translation_candidate_2_n_occurrences[forename_translation] += 1
@@ -238,7 +283,7 @@ class SentenceData(np.ndarray):
         return self._strip_overlaps(translation_candidates)
 
     @property
-    def _english_to_foreign_language_sentence_iterator(self) -> Iterator[Tuple[str, str]]:
+    def _zipped_sentence_iterator(self) -> Iterator[Tuple[str, str]]:
         return zip(self.english_sentences, self.foreign_language_sentences)
 
     @staticmethod
@@ -256,6 +301,7 @@ if __name__ == '__main__':
     # print(translations)
     # print(time() - t1)
 
-    s = SentenceData('Hungarian')
+    s = SentenceData('Galician')
+    print(len(s))
     print(s.foreign_language_sentences.comprising_characters)
     print(s.english_sentences.comprising_characters)

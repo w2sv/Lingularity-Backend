@@ -5,14 +5,12 @@ import pathlib
 
 import vlc
 
-from backend.utils import either
-from backend.utils.state_sharing import MonoStatePossessor
+from backend.utils import either, time as time_utils, state_sharing
 from backend.database import MongoDBClient
 from backend.ops.google.text_to_speech import google_tts
-from backend.utils.time import get_timestamp
 
 
-class TextToSpeech(MonoStatePossessor):
+class TextToSpeech(state_sharing.MonoStatePossessor):
     _AUDIO_FILE_DEPOSIT_DIR = f'{pathlib.Path(__file__).parent}/file_deposit'
 
     def __init__(self, language: str):
@@ -164,13 +162,16 @@ class TextToSpeech(MonoStatePossessor):
     def download_audio_file(self, text: str):
         assert self._language_variety is not None
 
-        audio_file_path = f'{self._AUDIO_FILE_DEPOSIT_DIR}/{get_timestamp()}.mp3'
+        audio_file_path = f'{self._AUDIO_FILE_DEPOSIT_DIR}/{time_utils.get_timestamp()}.mp3'
         google_tts.get_audio(text, self._language_variety, save_path=audio_file_path)
 
         self._audio_file_path = audio_file_path
 
     @staticmethod
     def _audio_length(audio_file_path: str, bits_per_second=500) -> float:
+        """ Returns:
+                audio length in seconds """
+
         return os.path.getsize(audio_file_path) / 8 / bits_per_second
 
     def play_audio(self):

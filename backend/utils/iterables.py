@@ -6,7 +6,7 @@ def none_stripped(iterable: Iterable[Any]) -> List[Any]:
     return list(filter(lambda el: el is not None, iterable))
 
 
-def iterables_intersection(sets: Iterable[Set[Any]]) -> Set[Any]:
+def intersection(sets: Iterable[Set[Any]]) -> Set[Any]:
     return set.intersection(*sets)
 
 
@@ -28,3 +28,7 @@ def unzip_longest(nested_list: Iterable[Iterable[Any]]):
 
 def contains_index(sequence: Sequence[Any], index: int) -> bool:
     return index <= len(sequence) - 1
+
+
+def contains_singular_unique_element(iterable: Iterable[Any]) -> bool:
+    return len(set(iterable)) == 1

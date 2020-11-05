@@ -65,7 +65,7 @@ class SegmentSentenceIndicesMap(defaultdict, CustomMapping, ABC):
 
         relevance_sorted_sentence_indices = list(map(set, relevance_sorted_sentence_indices))
         while len(relevance_sorted_sentence_indices) > 1:
-            if len((remaining_sentence_indices_list_intersection := iterables.iterables_intersection(relevance_sorted_sentence_indices))):
+            if len((remaining_sentence_indices_list_intersection := iterables.intersection(relevance_sorted_sentence_indices))):
                 return list(remaining_sentence_indices_list_intersection)
             relevance_sorted_sentence_indices.pop()
 

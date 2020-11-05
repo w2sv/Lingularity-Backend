@@ -11,18 +11,22 @@ APOSTROPHES = "'’́́́́́́́́́́́́"
 # ---------------
 # Modification
 # ---------------
-def replace_multiple(text: str, strings: List[str], replacement: str) -> str:
+def replace_multiple(text: str, strings: Iterable[str], replacement: str) -> str:
+    """
+    >>> replace_multiple("That's exactly what i was saying!", strings=["That's", '!'], replacement="Dude")
+    'Dude exactly what i was sayingDude' """
+
     for string in strings:
         text = text.replace(string, replacement)
     return text
 
 
-def strip_multiple(text: str, strings: List[str]) -> str:
+def strip_multiple(text: str, strings: Iterable[str]) -> str:
     return replace_multiple(text, strings, replacement='')
 
 
 def strip_unicode(text: str) -> str:
-    return strip_multiple(text, strings=["\u2009", "\u202f", "\xa0", "\xa2", "\u200b", "\xad", "\u200d", "\x08"])
+    return strip_multiple(text, strings=["\u2009", "\u202f", "\xa0", "\xa2", "\u200b", "\xad", "\u200d", "\x08", "\u3000"])
 
 
 def _to_ascii(string: str) -> str:
@@ -131,6 +135,10 @@ def split_at_uppercase(string: str) -> List[str]:
 
 
 def split_multiple(string: str, delimiters: List[str]) -> List[str]:
+    """
+    >>> split_multiple('wildly,unreasonable:yet,lit!?af', delimiters=list(',:!?'))
+    ['wildly', 'unreasonable', 'yet', 'lit', '', 'af'] """
+
     return replace_multiple(string, delimiters[:-1], delimiters[-1]).split(delimiters[-1])
 
 
@@ -205,6 +213,18 @@ def longest_continuous_partial_overlap(strings: Iterable[str], min_length=1) -> 
     return [None, buffer][len(buffer) > min_length]
 
 
+def find_quoted_text(text: str) -> List[str]:
+    """ Returns:
+            text parts located between double(!) quotation marks without marks themselves
+
+    >>> find_quoted_text('He told me to "bugger off" and called me a "filthy skank", whatever that means.')
+    ['bugger off', 'filthy skank']
+    >>> find_quoted_text("He told me to 'bugger off'")
+    [] """
+
+    return re.findall('"(.*?)"', text)
+
+
 # ---------------
 # Classification
 # ---------------
@@ -235,14 +255,24 @@ def contains_article(noun_candidate: str) -> bool:
     """ Returns:
             True if exactly two distinct tokens present in noun_candidate if split by whitespace
             as well as apostrophes and the first token, that is the article candidate shorter than
-            the second, that is the noun candidate """
+            the second, that is the noun candidate
+
+    >>> contains_article("l'article")
+    True
+    >>> contains_article("c'est-à-dire")
+    False """
 
     return len((tokens := split_multiple(noun_candidate, delimiters=list(APOSTROPHES) + [' ', '-']))) == 2 and len(
         tokens[0]) < len(tokens[1])
 
 
-def contains_escape_sequence(text: str) -> bool:
-    return "\\" in repr(text)
+def contains_unicode(text: str) -> bool:
+    TOLERATED_FOLLOWUP_CHARS = ['t', 'n']
+
+    for i, char in enumerate((text_repr := repr(text))):
+        if '\\' in char and text_repr[i+1] not in TOLERATED_FOLLOWUP_CHARS:
+            return True
+    return False
 
 
 # ---------------
@@ -277,3 +307,7 @@ def _start_including_substrings(string: str) -> Iterator[str]:
 
     for i in range(1, len(string) + 1):
         yield string[:i]
+
+
+if __name__ == '__main__':
+    print(find_quoted_text("'asdf'sd "))

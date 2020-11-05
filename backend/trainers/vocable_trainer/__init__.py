@@ -18,7 +18,7 @@ class VocableTrainerBackend(TrainerBackend):
         self._sentence_data: SentenceData = self._get_sentence_data()
         self._token_2_sentence_indices: SegmentSentenceIndicesMap = get_token_sentence_indices_map(self.language, load_normalizer=True)
 
-        self.synonyms: Dict[str, List[str]] = None  # type: ignore
+        self.paraphrases: Dict[str, List[str]] = None  # type: ignore
         self.new_vocable_entries: Iterator[VocableEntry] = None  # type: ignore
 
     @property
@@ -30,11 +30,11 @@ class VocableTrainerBackend(TrainerBackend):
     # Pre Training
     # ---------------
     def set_item_iterator(self):
-        """ Additionally sets synonyms, new_vocable_entries iterator """
+        """ Additionally sets paraphrases, new_vocable_entries iterator """
 
         vocable_entries_to_be_trained = self._vocable_entries_to_be_trained()
 
-        self.synonyms = self._find_synonyms(vocable_entries_to_be_trained)
+        self.paraphrases = self._find_paraphrases(vocable_entries_to_be_trained)
         self.new_vocable_entries = filter(lambda entry: entry.is_new, vocable_entries_to_be_trained)
         self._set_item_iterator(vocable_entries_to_be_trained)
 
@@ -43,11 +43,11 @@ class VocableTrainerBackend(TrainerBackend):
         return list(starmap(VocableEntry, tokens_with_vocable_data))
 
     @staticmethod
-    def _find_synonyms(vocable_entries: List[VocableEntry]) -> Dict[str, List[str]]:
+    def _find_paraphrases(vocable_entries: List[VocableEntry]) -> Dict[str, List[str]]:
         """ Returns:
                 Dict[english_meaning: [synonym_1, synonym_2, ..., synonym_n]]
 
-                for n >= 2 synonyms contained within retrieved vocable entries possessing the IDENTICAL
+                for n >= 2 paraphrases contained within retrieved vocable entries possessing the IDENTICAL
                 english the-stripped meaning"""
 
         meaning_2_vocables = defaultdict(list)
