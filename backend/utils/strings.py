@@ -142,6 +142,10 @@ def split_multiple(string: str, delimiters: List[str]) -> List[str]:
     return replace_multiple(string, delimiters[:-1], delimiters[-1]).split(delimiters[-1])
 
 
+def substring_occurrence_positions(string: str, substring: str) -> List[int]:
+    return [match.start() for match in re.finditer(pattern=substring, string=string)]
+
+
 def get_meaningful_tokens(text: str, apostrophe_splitting=False) -> List[str]:
     """ Working Principle:
             - strip special characters, unicode remnants

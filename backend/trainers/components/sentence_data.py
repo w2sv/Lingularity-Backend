@@ -72,7 +72,7 @@ class SentenceData(np.ndarray):
 
         for i, sentence_pair in enumerate(self):
             sentence_pair_quotes = map(find_quoted_text, sentence_pair)
-            bilaterally_present_quote_pairs = filter(lambda quote_pair: iterables.contains_singular_unique_element(map(lambda quote: strip_special_characters(quote), quote_pair)), zip(*sentence_pair_quotes))
+            bilaterally_present_quote_pairs = filter(lambda quote_pair: iterables.contains_singular_unique_value(map(lambda quote: strip_special_characters(quote), quote_pair)), zip(*sentence_pair_quotes))
 
             for j, (sentence, comprising_quotes) in enumerate(zip(sentence_pair, iterables.unzip(bilaterally_present_quote_pairs))):
                 self[i, j] = strip_multiple(sentence, strings=map(lambda quote: '"' + quote + '"', comprising_quotes))
@@ -296,12 +296,12 @@ class SentenceData(np.ndarray):
 if __name__ == '__main__':
     from time import time
 
-    # t1 = time()
-    # translations = SentenceData('Hebrew').deduce_forename_translations()
-    # print(translations)
-    # print(time() - t1)
+    t1 = time()
+    translations = SentenceData('Russian').deduce_forename_translations()
+    print(translations)
+    print(time() - t1)
 
-    s = SentenceData('Galician')
-    print(len(s))
-    print(s.foreign_language_sentences.comprising_characters)
-    print(s.english_sentences.comprising_characters)
+    # s = SentenceData('Galician')
+    # print(len(s))
+    # print(s.foreign_language_sentences.comprising_characters)
+    # print(s.english_sentences.comprising_characters)

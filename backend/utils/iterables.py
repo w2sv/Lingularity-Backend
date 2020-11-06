@@ -1,4 +1,4 @@
-from typing import Set, Iterable, Any, List, Tuple, Sequence
+from typing import Set, Iterable, Any, List, Tuple, Sequence, Optional, Iterator, Generator, Callable
 from itertools import tee, islice, zip_longest
 
 
@@ -30,5 +30,17 @@ def contains_index(sequence: Sequence[Any], index: int) -> bool:
     return index <= len(sequence) - 1
 
 
-def contains_singular_unique_element(iterable: Iterable[Any]) -> bool:
+def contains_singular_unique_value(iterable: Iterable[Any]) -> bool:
     return len(set(iterable)) == 1
+
+
+def return_value_capturing_generator(generator: Callable[..., Iterator[Any]]):
+    class WrapperClass:
+        def __init__(self, *args, **kwargs):
+            self.generator: Iterator[Any] = generator(*args, **kwargs)
+            self.return_value: Optional[Any] = None
+
+        def __iter__(self):
+            self.return_value = yield from self.generator
+
+    return WrapperClass
