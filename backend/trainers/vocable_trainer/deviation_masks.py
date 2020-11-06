@@ -1,7 +1,7 @@
 from typing import Iterator, List, Generator, Tuple
 from itertools import zip_longest, islice, starmap, chain, repeat
 
-from backend.utils import iterables
+from backend.utils import iterables, generators
 
 
 _DeviationMask = Iterator[bool]
@@ -26,7 +26,7 @@ def deviation_masks(response: str, ground_truth: str) -> Iterator[_DeviationMask
 _IthCharMask = Tuple[bool, bool]
 
 
-@iterables.return_value_capturing_generator
+@generators.return_value_captor
 def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_start_offset=0) -> Generator[_IthCharMask, None, int]:
     """ Yields:
             ZippedCharMasks, one of which is a mask of 2 boolean values
@@ -48,7 +48,7 @@ def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_star
 
     for i, chars_i in enumerate(zip_longest(response, ground_truth)):
 
-        if iterables.contains_singular_unique_value(chars_i):
+        if iterables.contains_unique_value(chars_i):
             # -----Chars at parity-------
 
             yield False, False
@@ -81,13 +81,13 @@ def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_star
                 yield from chain(repeat([False, True], times=offset), _ith_char_mask_iterator(response, ground_truth[offset:], response_mask_start_offset=offset))
                 return offset
 
-            elif all(map(lambda comparator: iterables.contains_index(comparator, i), comparators)) and (not iterables.length_parity(response, ground_truth) or response[i+1:] != ground_truth[i+1:]):
+            elif all(map(lambda comparator: iterables.comprises_index(comparator, i), comparators)) and (not iterables.length_parity(response, ground_truth) or response[i + 1:] != ground_truth[i + 1:]):
                 # -----Char deviation possibly caused by substring shift-------
 
                 def check_for_superfluous_char() -> Generator[_IthCharMask, None, bool]:
                     """ e.g. response=impiaccio, ground_truth=impiccio """
 
-                    if iterables.contains_index(response, i + 1) and response[i + 1] == ground_truth[i]:
+                    if iterables.comprises_index(response, i + 1) and response[i + 1] == ground_truth[i]:
                         yield from chain([(True, False)], _ith_char_mask_iterator(response[i + 1:], ground_truth[i:], response_mask_start_offset=-1))
                         return True
                     return False
@@ -95,7 +95,7 @@ def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_star
                 def check_for_missing_char() -> Generator[_IthCharMask, None, bool]:
                     """ e.g. response=impicco, ground_truth=impiccio """
 
-                    if iterables.contains_index(ground_truth, i + 1) and response[i] == ground_truth[i + 1]:
+                    if iterables.comprises_index(ground_truth, i + 1) and response[i] == ground_truth[i + 1]:
                         yield from chain([(False, True)], _ith_char_mask_iterator(response[i:], ground_truth[i + 1:], response_mask_start_offset=-1))
                         return True
                     return False

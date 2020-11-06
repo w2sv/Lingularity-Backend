@@ -14,13 +14,11 @@ from backend.utils import iterables
 from backend.utils.strings import (
     get_unique_meaningful_tokens,
     is_of_latin_script,
-    strip_special_characters,
     continuous_substrings,
     longest_continuous_partial_overlap,
-    strip_unicode,
-    find_quoted_text,
-    strip_multiple
+    find_quoted_text
 )
+from backend.utils.strings.modification import strip_multiple, strip_unicode, strip_special_characters
 
 
 class SentenceData(np.ndarray):
@@ -72,7 +70,7 @@ class SentenceData(np.ndarray):
 
         for i, sentence_pair in enumerate(self):
             sentence_pair_quotes = map(find_quoted_text, sentence_pair)
-            bilaterally_present_quote_pairs = filter(lambda quote_pair: iterables.contains_singular_unique_value(map(lambda quote: strip_special_characters(quote), quote_pair)), zip(*sentence_pair_quotes))
+            bilaterally_present_quote_pairs = filter(lambda quote_pair: iterables.contains_unique_value(map(lambda quote: strip_special_characters(quote), quote_pair)), zip(*sentence_pair_quotes))
 
             for j, (sentence, comprising_quotes) in enumerate(zip(sentence_pair, iterables.unzip(bilaterally_present_quote_pairs))):
                 self[i, j] = strip_multiple(sentence, strings=map(lambda quote: '"' + quote + '"', comprising_quotes))

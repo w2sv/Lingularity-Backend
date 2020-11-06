@@ -4,6 +4,7 @@ import pytest
 import os
 import random
 
+import backend.utils.strings.modification
 from backend.paths import SENTENCE_DATA_PATH
 from backend.utils import strings
 from backend.trainers.base import SentenceData
@@ -74,7 +75,7 @@ def _bilaterally_present_strings(
 
     for sentence_pair in sentence_data:
         if special_character_removed:
-            sentence_pair = list(map(strings.strip_special_characters, sentence_pair))
+            sentence_pair = list(map(backend.utils.strings.modification.strip_special_characters, sentence_pair))
 
         for query_string in query_strings:
             if query_string in sentence_pair[0] and query_string in sentence_pair[1]:

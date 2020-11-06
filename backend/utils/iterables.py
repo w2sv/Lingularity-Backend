@@ -1,4 +1,4 @@
-from typing import Set, Iterable, Any, List, Tuple, Sequence, Optional, Iterator, Generator, Callable
+from typing import Set, Iterable, Any, List, Tuple, Sequence
 from itertools import tee, islice, zip_longest
 
 
@@ -19,7 +19,7 @@ def longest_value(iterable: Iterable[Any]) -> Any:
 
 
 def length_parity(*iterable) -> bool:
-    return contains_singular_unique_value(map(len, iterable))
+    return contains_unique_value(map(len, iterable))
 
 
 def unzip(nested_list: Iterable[Iterable[Any]]):
@@ -30,21 +30,9 @@ def unzip_longest(nested_list: Iterable[Iterable[Any]]):
     return zip_longest(*nested_list)
 
 
-def contains_index(sequence: Sequence[Any], index: int) -> bool:
+def comprises_index(sequence: Sequence[Any], index: int) -> bool:
     return index <= len(sequence) - 1
 
 
-def contains_singular_unique_value(iterable: Iterable[Any]) -> bool:
+def contains_unique_value(iterable: Iterable[Any]) -> bool:
     return len(set(iterable)) == 1
-
-
-def return_value_capturing_generator(generator: Callable[..., Iterator[Any]]):
-    class WrapperClass:
-        def __init__(self, *args, **kwargs):
-            self.generator: Iterator[Any] = generator(*args, **kwargs)
-            self.return_value: Optional[Any] = None
-
-        def __iter__(self):
-            self.return_value = yield from self.generator
-
-    return WrapperClass

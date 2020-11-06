@@ -7,6 +7,7 @@ from functools import partial
 from tqdm import tqdm
 from textacy.similarity import levenshtein
 
+import backend.utils.strings.modification
 from backend.paths import META_DATA_PATH
 from backend.utils import strings, data, string_resources
 from backend.trainers.components import SentenceData
@@ -99,7 +100,7 @@ def _mine_and_set_translations(language: str, sentence_data: SentenceData):
 
         # constitution query
         constitution_queries = map(translate, [f"How are you {DEFAULT_FORENAMES[0]}?", f"What's up {DEFAULT_FORENAMES[0]}?"])
-        translation_sub_dict["constitutionQuery"] = list(map(lambda query: strings.replace_multiple(query, strings=sorted(translation_sub_dict["defaultForenames"]["Tom"], key=len, reverse=True) + [DEFAULT_FORENAMES[0]], replacement=FORENAME_PLACEHOLDER), constitution_queries))
+        translation_sub_dict["constitutionQuery"] = list(map(lambda query: backend.utils.strings.modification.replace_multiple(query, strings=sorted(translation_sub_dict["defaultForenames"]["Tom"], key=len, reverse=True) + [DEFAULT_FORENAMES[0]], replacement=FORENAME_PLACEHOLDER), constitution_queries))
 
     language_metadata[language]['translations'] = translation_sub_dict
 

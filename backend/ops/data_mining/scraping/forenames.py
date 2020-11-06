@@ -1,6 +1,6 @@
 from typing import Optional, List
 
-from backend.utils.strings import strip_multiple
+from backend.utils.strings.modification import strip_multiple
 from .utils import read_page_source
 
 

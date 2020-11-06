@@ -4,6 +4,7 @@ from abc import ABC, abstractmethod
 import nltk
 from spacy.tokens import Token
 
+import backend.utils.strings.modification
 from backend.utils import spacy as spacy_utils, strings
 from backend.trainers.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
 
@@ -72,7 +73,8 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
             self._model = spacy_utils.load_model(language)
 
     def tokenize_with_pos_tags(self, sentence: str) -> List[Tuple[str, str]]:
-        filtered_tokens = self._filter_tokens(self._tokenize(strings.strip_special_characters(string=sentence)))
+        filtered_tokens = self._filter_tokens(self._tokenize(
+            backend.utils.strings.modification.strip_special_characters(string=sentence)))
         return list(map(lambda token: (token.lemma_, token.pos_), filtered_tokens))
 
     def tokenize(self, sentence: str) -> List[str]:
