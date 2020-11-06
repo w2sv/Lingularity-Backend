@@ -18,6 +18,10 @@ def longest_value(iterable: Iterable[Any]) -> Any:
     return sorted(iterable, key=len, reverse=True)[0]
 
 
+def length_parity(*iterable) -> bool:
+    return contains_singular_unique_value(map(len, iterable))
+
+
 def unzip(nested_list: Iterable[Iterable[Any]]):
     return zip(*nested_list)
 

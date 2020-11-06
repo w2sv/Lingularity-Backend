@@ -12,7 +12,9 @@ from backend.trainers.vocable_trainer import deviation_masks
     ('scopr', 'scoprare', [False, False, False, False, False], [False, False, False, False, False, True, True, True]),
     ('scaprara', 'scoprare', [False, False, True, False, False, False, False, True], [False, False, True, False, False, False, False, True]),
     ('opare', 'scopare', [False, False, False, False, False], [True, True, False, False, False, False, False]),
-    ('scossare', 'scorsare', [False, False, False, True, False, False, False, False], [False, False, False, True, False, False, False, False])
+    ('scossare', 'scorsare', [False, False, False, True, False, False, False, False], [False, False, False, True, False, False, False, False]),
+    ('scossarae', 'scossare', [False, False, False, False, False, False, False, True, False], [False, False, False, False, False, False, False, False]),
+    ('scossaray', 'scossare', [False, False, False, False, False, False, False, True, True], [False, False, False, False, False, False, False, True])
 ])
 def test_deviation_masks(response, ground_truth, response_mask, ground_truth_mask):
     masks = list(map(list, deviation_masks(response=response, ground_truth=ground_truth)))

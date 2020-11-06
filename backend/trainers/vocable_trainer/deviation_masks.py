@@ -4,16 +4,30 @@ from itertools import zip_longest, islice, starmap, chain, repeat
 from backend.utils import iterables
 
 
-def deviation_masks(response: str, ground_truth: str) -> Iterator[Iterator[bool]]:
-    zipped_deviation_masks = _find_deviations(response, ground_truth)
-    return starmap(lambda mask, corresponding_string, start_offset: islice(mask, start_offset, len(corresponding_string) + start_offset), zip(iterables.unzip(zipped_deviation_masks), [response, ground_truth], [zipped_deviation_masks.return_value, 0]))
+_DeviationMask = Iterator[bool]
 
 
-_ZippedCharMask = Tuple[bool, bool]
+def deviation_masks(response: str, ground_truth: str) -> Iterator[_DeviationMask]:
+    """ Yields:
+            response deviation mask, ground truth deviation mask (to be interpreted as
+            emphasis mask, indicating chars which have been missed) whose lengths are at
+            parity with the one of their underlying string """
+
+    zipped_deviation_mask = _ith_char_mask_iterator(response, ground_truth)
+
+    comparator_masks = iterables.unzip(zipped_deviation_mask)
+    comparators = [response, ground_truth]
+    start_offsets = [zipped_deviation_mask.return_value, 0]
+
+    # unzip ith char masks, indent response by found start offset
+    return starmap(lambda mask, comparator, start_offset: islice(mask, start_offset, len(comparator) + start_offset), zip(comparator_masks, comparators, start_offsets))
+
+
+_IthCharMask = Tuple[bool, bool]
 
 
 @iterables.return_value_capturing_generator
-def _find_deviations(response: str, ground_truth: str, response_mask_start_offset=0) -> Generator[_ZippedCharMask, None, int]:
+def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_start_offset=0) -> Generator[_IthCharMask, None, int]:
     """ Yields:
             ZippedCharMasks, one of which is a mask of 2 boolean values
             representing whether or not the ith chars of response and ground_truth comprise a deviation
@@ -21,13 +35,13 @@ def _find_deviations(response: str, ground_truth: str, response_mask_start_offse
 
             Note:
                 the length of the yielded iterator equals max(len(response), len(ground_truth)),
-                _ZippedCharMask elements corresponding to response/ground_truth indices having
+                _IthCharMask elements corresponding to response/ground_truth indices having
                 exceeded the length of their underlying string are filled with False
 
         Returns:
             response_mask_start_offset: int, index at which actual response mask starts;
                 coming into play on responses missing a prefix of the ground_truth, e.g.
-                _find_deviations(response='ossare', ground_truth='scossare')
+                _ith_char_mask_iterator(response='ossare', ground_truth='scossare')
                  -> response_mask_start_offset = 2 """
 
     comparators = [response, ground_truth]
@@ -62,41 +76,50 @@ def _find_deviations(response: str, ground_truth: str, response_mask_start_offse
             elif not i and not response_mask_start_offset and (offset := ground_truth.find(response[:2])) != -1:
                 # -----Response missing a prefix of the ground truth-------
 
-                yield from chain(repeat([False, True], times=offset), _find_deviations(response, ground_truth[response_mask_start_offset:], response_mask_start_offset=offset))
-                return response_mask_start_offset
+                # yield len(missing_prefix) zipped_char_masks indicating response deviation
+                # and recurse with indented ground_truth
+                yield from chain(repeat([False, True], times=offset), _ith_char_mask_iterator(response, ground_truth[offset:], response_mask_start_offset=offset))
+                return offset
 
-            elif not iterables.contains_singular_unique_value(map(len, comparators)) or not iterables.contains_singular_unique_value(map(lambda string: string[i+1:], comparators)) and all(len(comparator) >= i + 2 for comparator in comparators):
-                def check_for_superfluous_char() -> Generator[_ZippedCharMask, None, bool]:
-                    """ impiaccio <-> impiccio """
+            elif all(map(lambda comparator: iterables.contains_index(comparator, i), comparators)) and (not iterables.length_parity(response, ground_truth) or response[i+1:] != ground_truth[i+1:]):
+                # -----Char deviation possibly caused by substring shift-------
 
-                    if response[i + 1] == ground_truth[i]:
-                        yield from chain([(True, False)], _find_deviations(response[i + 1:], ground_truth[i:], response_mask_start_offset=-1))
+                def check_for_superfluous_char() -> Generator[_IthCharMask, None, bool]:
+                    """ e.g. response=impiaccio, ground_truth=impiccio """
+
+                    if iterables.contains_index(response, i + 1) and response[i + 1] == ground_truth[i]:
+                        yield from chain([(True, False)], _ith_char_mask_iterator(response[i + 1:], ground_truth[i:], response_mask_start_offset=-1))
                         return True
                     return False
 
-                def check_for_missing_char() -> Generator[_ZippedCharMask, None, bool]:
-                    """ impicco <-> impiccio """
+                def check_for_missing_char() -> Generator[_IthCharMask, None, bool]:
+                    """ e.g. response=impicco, ground_truth=impiccio """
 
-                    if response[i] == ground_truth[i + 1]:
-                        yield from chain([(False, True)], _find_deviations(response[i:], ground_truth[i + 1:], response_mask_start_offset=-1))
+                    if iterables.contains_index(ground_truth, i + 1) and response[i] == ground_truth[i + 1]:
+                        yield from chain([(False, True)], _ith_char_mask_iterator(response[i:], ground_truth[i + 1:], response_mask_start_offset=-1))
                         return True
                     return False
 
+                # sort checks wrt comparator length discrepancy since
+                # longer response -> higher probability of superfluous char
                 checks = [check_for_superfluous_char, check_for_missing_char]
                 if len(response) < len(ground_truth):
                     checks = list(reversed(checks))
 
+                # recurse and return if either of the checks successful
                 for check in checks:
                     if (yield from check()):
                         return response_mask_start_offset
 
+            # -----Plain char deviation not caused by substring shift-------
             yield True, True
+
     return response_mask_start_offset
 
 
 if __name__ == '__main__':
     # scossare scorsare
 
-    response_mask, ground_truth_mask = deviation_masks(response='opare', ground_truth='scopare')
-    print(response_mask)
-    print(ground_truth_mask)
+    response_mask, ground_truth_mask = deviation_masks(response='scossaray', ground_truth='scossare')
+    print(list(response_mask))
+    print(list(ground_truth_mask))
