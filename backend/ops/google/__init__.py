@@ -25,8 +25,6 @@ class GoogleOp(ABC):
             Returns:
                 the first matching google language identifier """
 
-        print('Calculating')
-
         # return identifier if query_language is amongst language identifiers as is
         if identifier := self._LANGUAGE_2_IDENTIFIER.get(query_language):
             return identifier

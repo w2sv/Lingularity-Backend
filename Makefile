@@ -1,6 +1,6 @@
 SHELL=/bin/bash
 
-# ----------Installation--------------
+# ----------Installing--------------
 
 install:
 	bash os-dependencies/base.sh

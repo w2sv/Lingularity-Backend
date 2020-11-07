@@ -1,9 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-import backend.ops.lemmatizing
-import backend.ops.lemmatizing._model_downloading
-from backend.utils import spacy
+from backend.ops.normalizing.lemmatizing.model_downloading import model_package_links as spacy_model_package_links, ADDITIONAL_DEPENDENCIES
 
 version = {}
 exec(open(Path(__file__).parent /'backend/version.py').read(), version)
@@ -25,8 +23,7 @@ setup(
         'textacy==0.10.1',
         'spacy',
         'aenum',
-    ],
-    dependency_links=backend.ops.lemmatizing._model_downloading.model_package_links('2.3.1'),
+    ] + spacy_model_package_links(version='2.3.0') + ADDITIONAL_DEPENDENCIES,
     include_package_data=True,
     author='W2SV',
     author_email='zangenbergjanek@googlemail.com',
