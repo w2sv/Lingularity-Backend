@@ -1,25 +1,24 @@
+from typing import Set
 import os
+import subprocess
+from itertools import chain
 
-import gtts
-
-from backend.metadata import language_metadata
-from backend.utils import data
+from backend.utils import data, strings
 from backend.ops.google import GoogleOp
 
 
-class GoogleTextToSpeech(GoogleOp):
-    _IDENTIFIER_DATA_FILE_PATH = f'{os.path.dirname(__file__)}/identifiers'
+_IDENTIFIER_DATA_FILE_PATH: str = f'{os.path.dirname(__file__)}/identifiers'
 
-    def __init__(self):
-        super().__init__(language_2_identifier=data.load_json(self._IDENTIFIER_DATA_FILE_PATH))
+
+class GoogleTextToSpeech(GoogleOp):
+    _LANGUAGE_2_IDENTIFIER = {**data.load_json(_IDENTIFIER_DATA_FILE_PATH), 'Burmese': 'my'}
 
     def get_audio(self, text: str, language: str, save_path: str):
-        gtts.gTTS(text, lang=self._get_identifier(language)).save(save_path)
+        subprocess.run(f"curl 'https://translate.google.com/translate_tts?ie=UTF-8&q="
+                       f"{'%20'.join(text.split(' '))}&tl={self._get_identifier(language)}&client=tw-ob'"
+                       f" -H 'Referer: http://translate.google.com/'"
+                       f" -H 'User-Agent: stagefright/1.2 (Linux;Android 5.0)' > "
+                       f"{save_path}", stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, shell=True)
 
-    @staticmethod
-    def mine_identifier_data():
-        data.write_json({v: k for k, v in gtts.tts.tts_langs().items()}, file_path=GoogleTextToSpeech._IDENTIFIER_DATA_FILE_PATH)
 
-
-google_tts = GoogleTextToSpeech()
-TTSABLE_LANGUAGES = list(filter(lambda language: google_tts.available_for(language), language_metadata.keys()))
+TTS_ABLE_LANGUAGES: Set[str] = set(chain(*map(lambda language_variation: strings.strip_multiple(language_variation, strings=['(', ')']).split(' '), GoogleTextToSpeech._LANGUAGE_2_IDENTIFIER.keys())))

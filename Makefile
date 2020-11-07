@@ -19,10 +19,13 @@ mypy:
 	mypy backend/
 
 pytest:
-	coverage run -m pytest -vv tests/
+	coverage run -m pytest -vv tests/ --ignore=tests/metadata_mining
 
 doctest:
 	python -m pytest -vv --doctest-modules --doctest-continue-on-failure ./backend/
+
+test-metadata-mining:
+	pytest -vv tests/metadata_mining
 
 # ----------Mining--------------
 

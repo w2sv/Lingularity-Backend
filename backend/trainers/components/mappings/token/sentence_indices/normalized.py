@@ -4,8 +4,8 @@ from abc import ABC, abstractmethod
 import nltk
 from spacy.tokens import Token
 
-import backend.utils.strings.modification
-from backend.utils import spacy as spacy_utils, strings
+from backend.utils import strings
+from backend.ops.normalizing import lemmatizing
 from backend.trainers.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
 
 
@@ -59,7 +59,7 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
 
     @staticmethod
     def is_available(language: str) -> bool:
-        return language in spacy_utils.LANGUAGE_2_MODEL_IDENTIFIERS.keys()
+        return language in lemmatizing.LANGUAGE_2_MODEL_IDENTIFIERS.keys()
 
     def __init__(self, language: str, create=False, load_normalizer=True):
         """ Args:
@@ -67,14 +67,13 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
 
         super().__init__(language, create=create)
 
-        self._model: spacy_utils.Model
+        self._model: lemmatizing.Model
 
         if load_normalizer:
-            self._model = spacy_utils.load_model(language)
+            self._model = lemmatizing.load_model(language)
 
     def tokenize_with_pos_tags(self, sentence: str) -> List[Tuple[str, str]]:
-        filtered_tokens = self._filter_tokens(self._tokenize(
-            backend.utils.strings.modification.strip_special_characters(string=sentence)))
+        filtered_tokens = self._filter_tokens(self._tokenize(strings.strip_special_characters(string=sentence)))
         return list(map(lambda token: (token.lemma_, token.pos_), filtered_tokens))
 
     def tokenize(self, sentence: str) -> List[str]:
@@ -101,7 +100,7 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
         if len((pos_set := set((token.pos_ for token in tokens))).intersection(REMOVE_POS_TYPES)) != len(pos_set):
             tokens = list(filter(lambda token: token.pos_ not in REMOVE_POS_TYPES, tokens))
 
-        pos_value_sorted_lemmas = [token.lemma_ for token in sorted(tokens, key=lambda t: spacy_utils.POS_VALUES.get(t.pos_, spacy_utils.PosValue.Null).value)]
+        pos_value_sorted_lemmas = [token.lemma_ for token in sorted(tokens, key=lambda t: lemmatizing.POS_VALUES.get(t.pos_, lemmatizing.PosValue.Null).value)]
         return self._find_best_fit_sentence_indices(relevance_sorted_tokens=pos_value_sorted_lemmas)
 
 

@@ -294,12 +294,12 @@ class SentenceData(np.ndarray):
 if __name__ == '__main__':
     from time import time
 
-    t1 = time()
-    translations = SentenceData('Russian').deduce_forename_translations()
-    print(translations)
-    print(time() - t1)
+    # t1 = time()
+    # translations = SentenceData('Russian').deduce_forename_translations()
+    # print(translations)
+    # print(time() - t1)
 
-    # s = SentenceData('Galician')
-    # print(len(s))
-    # print(s.foreign_language_sentences.comprising_characters)
-    # print(s.english_sentences.comprising_characters)
+    s = SentenceData('Portuguese')
+    print(len(s))
+    print(s.foreign_language_sentences.comprising_characters)
+    print(s.english_sentences.comprising_characters)

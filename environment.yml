@@ -17,8 +17,8 @@ dependencies:
     - dnspython
     - python-vlc==3.0.11115
     - cryptography==3.1  # one application
-    - gTTS
-    - googletrans
+    - gTTS  # dev
+    - googletrans  # dev
     - textacy==0.10.1
     - spacy
     - aenum  # one application

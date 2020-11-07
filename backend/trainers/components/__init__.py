@@ -6,4 +6,3 @@ from .mappings.token import (
     SegmentSentenceIndicesMap,
     TokenOccurrencesMap
 )
-

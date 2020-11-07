@@ -9,11 +9,11 @@ from textacy.similarity import levenshtein
 
 import backend.utils.strings.modification
 from backend.paths import META_DATA_PATH
-from backend.utils import strings, data, string_resources
+from backend.utils import data, string_resources
 from backend.trainers.components import SentenceData
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
 from backend.metadata.types import LanguageMetadata, CountryMetadata
-from backend.ops.google.translation import google_translator
+from backend.ops.google.translation import GoogleTranslator
 from backend.ops.data_mining.scraping import (
     forenames,
     demonym,
@@ -24,6 +24,8 @@ from backend.ops.data_mining.scraping import (
 
 language_metadata: LanguageMetadata = collections.defaultdict(lambda: {})
 country_metadata: CountryMetadata = {}
+
+google_translator = GoogleTranslator()
 
 def _mine_metadata():
     language_2_download_link = sentence_data_download_links.scrape()

@@ -1,17 +1,19 @@
 from typing import Optional, List
 import time
 import os
-import pathlib
 
 import vlc
 
 from backend.utils import either, time as time_utils, state_sharing
 from backend.database import MongoDBClient
-from backend.ops.google.text_to_speech import google_tts
+from backend.ops.google.text_to_speech import GoogleTextToSpeech
+
+
+google_tts = GoogleTextToSpeech()
 
 
 class TextToSpeech(state_sharing.MonoStatePossessor):
-    _AUDIO_FILE_DEPOSIT_DIR = f'{pathlib.Path(__file__).parent}/file_deposit'
+    _AUDIO_FILE_DEPOSIT_DIR = f'{os.path.dirname(__file__)}/file_deposit'
 
     def __init__(self, language: str):
         if not os.path.exists(self._AUDIO_FILE_DEPOSIT_DIR):
@@ -167,12 +169,19 @@ class TextToSpeech(state_sharing.MonoStatePossessor):
 
         self._audio_file_path = audio_file_path
 
-    @staticmethod
-    def _audio_length(audio_file_path: str, bits_per_second=500) -> float:
+    @property
+    def _audio_length(self) -> float:
         """ Returns:
                 audio length in seconds """
 
-        return os.path.getsize(audio_file_path) / 8 / bits_per_second
+        assert self.audio_file is not None
+
+        BITS_PER_SECOND = 500
+
+        return os.path.getsize(self.audio_file) / 8 / BITS_PER_SECOND
+
+    def _playback_duration(self) -> float:
+        return self._audio_length / self._playback_speed - 0.2
 
     def play_audio(self):
         """ Suspends program for playback duration, deletes audio file subsequently """
@@ -183,10 +192,8 @@ class TextToSpeech(state_sharing.MonoStatePossessor):
 
         start_time = time.time()
 
-        assert self.audio_file is not None
-
-        duration = self._audio_length(self.audio_file) / self._playback_speed - 0.2
-        while time.time() - start_time < duration:
+        playback_duration = self._playback_duration()
+        while time.time() - start_time < playback_duration:
             # TODO: let function break on enter stroke by employing threading
             pass
 
@@ -197,3 +204,10 @@ class TextToSpeech(state_sharing.MonoStatePossessor):
 
         for audio_file in os.listdir(self._AUDIO_FILE_DEPOSIT_DIR):
             os.remove(f'{self._AUDIO_FILE_DEPOSIT_DIR}/{audio_file}')
+
+
+if __name__ == '__main__':
+    tts = TextToSpeech('Italian')
+
+    tts.download_audio_file('Il peggiore')
+    tts.play_audio()

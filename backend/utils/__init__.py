@@ -3,7 +3,7 @@ from typing import Optional, Any
 from . import (
     date,
     iterables,
-    module_abstraction,
+    module_interfacing,
     state_sharing,
     strings,
     time

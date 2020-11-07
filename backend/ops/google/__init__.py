@@ -9,53 +9,42 @@ from abc import ABC
 
 
 class GoogleOp(ABC):
-    _language_2_identifier: Dict[str, str]
+    __slots__ = '_LANGUAGE_2_IDENTIFIER'
 
-    def __init__(self, language_2_identifier: Dict[str, str]):
-        """ Args:
-                language_2_identifier: uppercase language to lowercase identifier,
-                    e.g. {'Afrikaans': 'af', 'Albanian': 'sq', ...} """
-
-        if not hasattr(self.__class__, '_language_2_identifier'):
-            self.__class__._language_2_identifier = language_2_identifier
-
-        self._cached_language_repr_2_identifier: Dict[str, str] = {}
+    _LANGUAGE_2_IDENTIFIER: Dict[str, str]  # uppercase language to lowercase identifier,
+    # e.g. {'Afrikaans': 'af', 'Albanian': 'sq', ...}
 
     def available_for(self, language: str) -> bool:
         return self._get_identifier(language) is not None
 
     def _get_identifier(self, query_language: str) -> Optional[str]:
         """ Args:
-                query_language: written out language in english as title,
-                    e.g. Spanish
+                query_language: written out titular language in English,
+                    e.g. 'Spanish'
 
             Returns:
-                in case of several eligible language variations:
-                    first matching google language identifier
-                otherwise:
-                    the one sole corresponding one """
+                the first matching google language identifier """
 
-        if identifier := self._language_2_identifier.get(query_language):
+        print('Calculating')
+
+        # return identifier if query_language is amongst language identifiers as is
+        if identifier := self._LANGUAGE_2_IDENTIFIER.get(query_language):
             return identifier
 
-        elif cached_identifier := self._cached_language_repr_2_identifier.get(query_language):
-            return cached_identifier
-
-        for _language, identifier in self._language_2_identifier.items():
-            if _language.startswith(query_language):
-                self._cached_language_repr_2_identifier[query_language] = identifier
+        # frisk LANGUAGE_2_IDENTIFIER for identifier
+        for _language, identifier in self._LANGUAGE_2_IDENTIFIER.items():
+            if query_language in _language:
                 return identifier
+
         return None
 
     def get_variety_choices(self, query_language: str) -> Optional[List[str]]:
         """ Returns:
-                in case of >= 2 dialects/variations eligible:
-                    {query_language_dialect: identifier}: Dict[str, str]
+                List of available language variations in case of availability of more than 1,
+                otherwise None, e.g.
 
-                    e.g. {'French': 'fr', 'French (Canada)': 'fr-ca', 'French (France)': 'fr-fr'} for TextToSpeech
-                otherwise:
-                    None """
+                TextToSpeech.get_variety_choices('french')
+                    ['French (Canada)', 'French (France)']  """
 
-        if len((dialect_choices := [language for language in self._language_2_identifier.keys() if query_language != language and language.startswith(query_language)])) > 1:
-            return dialect_choices
-        return None
+        dialect_choices = list(filter(lambda language: query_language != language and query_language in language, self._LANGUAGE_2_IDENTIFIER.keys()))
+        return [None, dialect_choices][len(dialect_choices) > 1]

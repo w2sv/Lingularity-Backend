@@ -14,19 +14,19 @@ italian_forename_converter = ForenameConvertor("Italian", train_english=False)
 @pytest.mark.parametrize('sentence_pair,expected_sentence_pair', [
     (
             ["Unfortunately, Toms handy was stuck in Marys flytrap.", "Purtroppo, Toms Handy è rimasto bloccato nella trappola per mosche di Marie."],
-            ['Unfortunately, Noahs handy was stuck in Emmas flytrap.', 'Purtroppo, Noahs Handy è rimasto bloccato nella trappola per mosche di Emma.']
+            ['Unfortunately, Leonardos handy was stuck in Giulias flytrap.', 'Purtroppo, Leonardos Handy è rimasto bloccato nella trappola per mosche di Giulia.']
     ),
     (
             ["Tomorrow, Tom will cut the olive tree.", "Domani Tomás taglierà l'ulivo."],
-            ['Tomorrow, Noah will cut the olive tree.', "Domani Noah taglierà l'ulivo."]
+            ['Tomorrow, Leonardo will cut the olive tree.', "Domani Leonardo taglierà l'ulivo."]
     ),
     (
             ["Tom told Mary that John wanted to ask Alice for a razor.", "Tom disse a Mary che John voleva chiedere ad Alice un rasoio."],
-            ['Noah told Elena that Gabriel wanted to ask Emma for a razor.', 'Noah disse a Elena che Gabriel voleva chiedere ad Emma un rasoio.']
+            ['Leonardo told Aurora that Alessandro wanted to ask Giulia for a razor.', 'Leonardo disse a Aurora che Alessandro voleva chiedere ad Giulia un rasoio.']
     ),
     (
             ["Tom's purpose in college is to get a degree.", "Lo scopo di Tom all'università è laurearsi."],
-            ["Noah's purpose in college is to get a degree.", "Lo scopo di Noah all'università è laurearsi."]
+            ["Leonardo's purpose in college is to get a degree.", "Lo scopo di Leonardo all'università è laurearsi."]
     )
 ])
 def test_forenames_conversion_italian(sentence_pair, expected_sentence_pair):
