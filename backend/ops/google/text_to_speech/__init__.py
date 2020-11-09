@@ -5,6 +5,7 @@ from itertools import chain
 
 from backend.utils import data, strings
 from backend.ops.google import GoogleOp
+from backend.ops.google.text_to_speech import gtts
 
 
 _IDENTIFIER_DATA_FILE_PATH: str = f'{os.path.dirname(__file__)}/identifiers'
@@ -13,14 +14,21 @@ _IDENTIFIER_DATA_FILE_PATH: str = f'{os.path.dirname(__file__)}/identifiers'
 class GoogleTextToSpeech(GoogleOp):
     _LANGUAGE_2_IDENTIFIER = {**data.load_json(_IDENTIFIER_DATA_FILE_PATH), 'Burmese': 'my'}
 
-    def get_audio(self, text: str, language: str, save_path: str, retry=0) -> int:
-        if (download_result := subprocess.call(f"curl 'https://translate.google.com/translate_tts?ie=UTF-8&q="
-                               f"{'%20'.join(text.split(' '))}&tl={self._get_identifier(language)}&client=tw-ob'"
-                               f" -H 'Referer: http://translate.google.com/'"
-                               f" -H 'User-Agent: stagefright/1.2 (Linux;Android 5.0)' > "
-                               f"{save_path}", stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, shell=True)) != 0 and retry < 5:
-            return self.get_audio(text, language, save_path, retry=retry + 1)
-        return download_result
+    def get_audio_curled(self, text: str, language: str, save_path: str):
+        subprocess.call(
+                f"curl 'https://translate.google.com/translate_tts?ie=UTF-8"
+                f"&q={'%20'.join(text.split(' '))}"
+                f"&tl={self._get_identifier(language)}"
+                f"&client=tw-ob'"
+                f" -H 'Referer: http://translate.google.com/'"
+                f" -H 'User-Agent: stagefright/1.2 (Linux;Android 5.0)' > "
+                f"{save_path}", stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, shell=True)
+
+    def get_audio(self, text: str, language: str, save_path: str):
+        language_identifier = self._get_identifier(language)
+        assert language_identifier is not None
+
+        gtts.get_audio(text=text, language_identifier=language_identifier, save_path=save_path)
 
 
 AVAILABLE_LANGUAGES: Set[str] = set(chain(*map(lambda language_variation: strings.strip_multiple(language_variation, strings=['(', ')']).split(' '), GoogleTextToSpeech._LANGUAGE_2_IDENTIFIER.keys())))
@@ -28,4 +36,4 @@ AVAILABLE_LANGUAGES: Set[str] = set(chain(*map(lambda language_variation: string
 
 if __name__ == '__main__':
     tts = GoogleTextToSpeech()
-    tts.get_audio('wassupboi', 'it', f'{os.getcwd()}asdf.mp3')
+    tts.get_audio('wassupboi', 'Italian', f'{os.getcwd()}test.mp3')
