@@ -123,7 +123,3 @@ def find_quoted_text(text: str) -> List[str]:
     [] """
 
     return re.findall('"(.*?)"', text)
-
-
-if __name__ == '__main__':
-    print(get_meaningful_tokens('Marie hatte d””ie –-asfd überwas zur höhle'))
