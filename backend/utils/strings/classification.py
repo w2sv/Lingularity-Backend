@@ -1,5 +1,5 @@
 from backend.utils.strings import modification, extraction
-from backend.utils.strings.utils import _APOSTROPHES
+from backend.utils.strings._utils import _APOSTROPHES
 
 
 def is_digit_free(string: str) -> bool:

@@ -3,7 +3,7 @@ import re
 
 from backend.utils import iterables
 from backend.utils.strings import classification, modification, substrings
-from backend.utils.strings.utils import _APOSTROPHES, _DASHES
+from backend.utils.strings._utils import _APOSTROPHES, _DASHES
 
 
 def get_article_stripped_noun(noun_candidate: str) -> Optional[str]:

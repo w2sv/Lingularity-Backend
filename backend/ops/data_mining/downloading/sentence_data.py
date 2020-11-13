@@ -2,49 +2,52 @@ from typing import Optional
 import os
 import warnings
 import zipfile
+import requests
+import shutil
 
 from backend.paths import SENTENCE_DATA_PATH, sentence_data_path
-from backend.metadata import language_metadata
 from backend.ops.data_mining import SENTENCE_DATA_PAGE_URL
-from ._utils import patched_urllib
+
 
 warnings.filterwarnings('ignore')
 
 
-def download_sentence_data(language: str, zip_file_download_link: Optional[str] = None):
-    """ Downloads and unzips respective sentence data file """
+def download_sentence_data(language: str, download_link_suffix: str):
+    """ Downloads and unzips respective sentence data file
 
-    print('Downloading sentence data...')
-    language, tatoeba_language_identifier = _download_sentence_data(language, zip_file_download_link)
-    _process_zip_file(language, tatoeba_language_identifier)
+        Args:
+            language: titular, written out
+            download_link_suffix: e.g. 'deu-eng.zip' """
+
+    print(f'Downloading {language} sentence data...')
+    _download_zip_file(language, download_link_suffix)
+    _process_zip_file(language, tatoeba_language_identifier=download_link_suffix.split('-')[0])
 
 
 def _zip_file_destination_path(language: str) -> str:
     return f'{SENTENCE_DATA_PATH}/{language}.zip'
 
 
-def _download_sentence_data(language: str, zip_file_download_link: Optional[str]) -> str:
-    """ Returns:
-            absolute zip file save destination path """
+def _download_zip_file(language: str, zip_file_download_link: Optional[str]):
+    HEADERS = {
+        'User-Agent':
+            'Mozilla/5.0 (Windows NT 6.3; WOW64) '
+            'AppleWebKit/537.36 (KHTML, like Gecko) '
+            'Chrome/47.0.2526.69 Safari/537.36'
+    }
 
-    if not zip_file_download_link:
-        zip_file_download_link = [language_metadata[language]["sentenceDataDownloadLinks"]["tatoebaProject"]]
-
-    # download zipfile
-    patched_urllib._urlopener.retrieve(
-        f'{SENTENCE_DATA_PAGE_URL}/{zip_file_download_link}',
-        _zip_file_destination_path(language))  # type: ignore
-
-    return language, zip_file_download_link.split('-')[0]
+    with requests.get(url=f'{SENTENCE_DATA_PAGE_URL}/{zip_file_download_link}', headers=HEADERS) as r:
+        with open(_zip_file_destination_path(language), 'wb') as f:
+            shutil.copyfileobj(r.raw, f)
 
 
-def _process_zip_file(language: str, identifier: str):
+def _process_zip_file(language: str, tatoeba_language_identifier: str):
     """ - unpack zip file
-        - remove _about.txt
+        - remove _about.txt, zip file
         - strip reference appendices from sentence data file
         - rename sentence data file """
 
-    # decompress zip file
+    # unpack zip file
     with zipfile.ZipFile(_zip_file_destination_path(language), 'r') as zip_ref:
         zip_ref.extractall(path=SENTENCE_DATA_PATH)
 
@@ -52,7 +55,8 @@ def _process_zip_file(language: str, identifier: str):
     os.remove(_zip_file_destination_path(language))
     os.remove(f'{SENTENCE_DATA_PATH}/_about.txt')
 
-    _remove_reference_appendices((default_data_file_path := sentence_data_path(identifier)))
+    default_data_file_path = sentence_data_path(tatoeba_language_identifier)
+    _remove_reference_appendices(default_data_file_path)
 
     # rename sentence data file
     os.rename(default_data_file_path, sentence_data_path(language))

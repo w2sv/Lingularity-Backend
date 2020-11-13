@@ -48,7 +48,7 @@ def _mine_metadata():
         language_sub_dict['sentenceDataDownloadLinks']['tatoebaProject'] = download_link
 
         # set generic properties
-        download_sentence_data(language, zip_file_download_link=download_link)
+        download_sentence_data(language, download_link_suffix=download_link)
         sentence_data = SentenceData(language)
 
         language_sub_dict['properties'] = {}

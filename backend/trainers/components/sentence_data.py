@@ -1,5 +1,4 @@
 from typing import Optional, List, Set, Callable, Iterable, Counter, Iterator, Tuple
-import os
 from functools import cached_property
 import collections
 
@@ -8,7 +7,6 @@ import numpy as np
 from textacy.similarity import levenshtein
 
 from backend.paths import sentence_data_path
-from backend.ops.data_mining.downloading import download_sentence_data
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
 from backend.utils import iterables
 from backend.utils.strings import (
@@ -37,11 +35,7 @@ class SentenceData(np.ndarray):
 
         cls._train_english = train_english
 
-        # download sentence data if necessary
-        if not os.path.exists((_sentence_data_path := sentence_data_path(language))):
-            download_sentence_data(language=language)
-
-        return cls._read_in(_sentence_data_path, train_english).view(SentenceData)
+        return cls._read_in(sentence_data_path(language), train_english).view(SentenceData)
 
     @staticmethod
     def _read_in(_sentence_data_path: str, train_english: bool) -> np.ndarray:
