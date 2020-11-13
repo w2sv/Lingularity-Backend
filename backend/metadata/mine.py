@@ -50,6 +50,8 @@ def _mine_metadata():
         language_sub_dict['properties'] = {}
         language_sub_dict['properties']['usesLatinScript'] = sentence_data.foreign_language_sentences.uses_latin_script
 
+        language_sub_dict['nSentences'] = len(sentence_data)
+
         _mine_and_set_forename_conversion_data(language)
         _mine_and_set_translations(language, sentence_data=sentence_data)
 
@@ -103,6 +105,8 @@ def _mine_and_set_translations(language: str, sentence_data: SentenceData):
         # constitution query
         constitution_queries = map(translate, [f"How are you {DEFAULT_FORENAMES[0]}?", f"What's up {DEFAULT_FORENAMES[0]}?"])
         translation_sub_dict["constitutionQuery"] = list(map(lambda query: backend.utils.strings.modification.replace_multiple(query, strings=sorted(translation_sub_dict["defaultForenames"]["Tom"], key=len, reverse=True) + [DEFAULT_FORENAMES[0]], replacement=FORENAME_PLACEHOLDER), constitution_queries))
+    elif lets_go_translation := sentence_data.query_translation("Let's go!"):
+        translation_sub_dict["letsGo"] = lets_go_translation
 
     language_metadata[language]['translations'] = translation_sub_dict
 
@@ -135,6 +139,13 @@ def _sort_dict_by_key(dictionary):
 
 
 if __name__ == '__main__':
+    # language_metadata = data.load_json(file_path=f'{META_DATA_PATH}/language')
+    # for language in language_metadata.keys():
+    #     if language != string_resources.ENGLISH:
+    #         language_metadata[language]['nSentences'] = len(SentenceData(language))
+    #
+    # data.write_json(language_metadata, file_path=f'{META_DATA_PATH}/language')
+
     _mine_metadata()
 
     # sort data for legibility

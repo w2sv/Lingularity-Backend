@@ -33,7 +33,8 @@
                 "Hoe gaan dit met jou {}?",
                 "Wat gaan aan {}?"
             ]
-        }
+        },
+        "nSentences": 807
     },
     "Albanian": {
         "sentenceDataDownloadLinks": {
@@ -79,7 +80,8 @@
                 "Si jeni {}",
                 "Çfarë ka {}?"
             ]
-        }
+        },
+        "nSentences": 451
     },
     "Algerian": {
         "sentenceDataDownloadLinks": {
@@ -89,7 +91,8 @@
             "usesLatinScript": false
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 155
     },
     "Arabic": {
         "sentenceDataDownloadLinks": {
@@ -127,7 +130,8 @@
                 "كيف حالك {}",
                 "ما الأمر يا {}؟"
             ]
-        }
+        },
+        "nSentences": 11446
     },
     "Assamese": {
         "sentenceDataDownloadLinks": {
@@ -139,7 +143,8 @@
         "countriesEmployedIn": [
             "India"
         ],
-        "translations": {}
+        "translations": {},
+        "nSentences": 1655
     },
     "Azerbaijani": {
         "sentenceDataDownloadLinks": {
@@ -179,7 +184,8 @@
                 "{} necesen",
                 "{} nədir?"
             ]
-        }
+        },
+        "nSentences": 2208
     },
     "Basque": {
         "sentenceDataDownloadLinks": {
@@ -219,7 +225,8 @@
                 "Zer moduz zaude {}?",
                 "Zer gertatzen da {}?"
             ]
-        }
+        },
+        "nSentences": 677
     },
     "Belarusian": {
         "sentenceDataDownloadLinks": {
@@ -257,7 +264,8 @@
                 "Як ты {}?",
                 "Што там {}?"
             ]
-        }
+        },
+        "nSentences": 3825
     },
     "Bengali": {
         "sentenceDataDownloadLinks": {
@@ -294,7 +302,8 @@
                 "কেমন আছেন {}?",
                 "কি খবর {}?"
             ]
-        }
+        },
+        "nSentences": 4342
     },
     "Berber": {
         "sentenceDataDownloadLinks": {
@@ -304,7 +313,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 120079
     },
     "Bosnian": {
         "sentenceDataDownloadLinks": {
@@ -344,7 +354,8 @@
                 "Kako si {}",
                 "Šta ima, {}?"
             ]
-        }
+        },
+        "nSentences": 102
     },
     "Bulgarian": {
         "sentenceDataDownloadLinks": {
@@ -381,7 +392,8 @@
                 "Как си {}?",
                 "Какво има, {}?"
             ]
-        }
+        },
+        "nSentences": 14979
     },
     "Burmese": {
         "sentenceDataDownloadLinks": {
@@ -393,7 +405,8 @@
         "countriesEmployedIn": [
             "Myanmar"
         ],
-        "translations": {}
+        "translations": {},
+        "nSentences": 347
     },
     "Cantonese": {
         "sentenceDataDownloadLinks": {
@@ -406,7 +419,8 @@
             "Hong_Kong",
             "Macau"
         ],
-        "translations": {}
+        "translations": {},
+        "nSentences": 3213
     },
     "Catalan": {
         "sentenceDataDownloadLinks": {
@@ -439,7 +453,8 @@
                 "Com estàs {}?",
                 "Què passa {}?"
             ]
-        }
+        },
+        "nSentences": 665
     },
     "Cebuano": {
         "sentenceDataDownloadLinks": {
@@ -471,7 +486,8 @@
                 "Kumusta ka {}?",
                 "Unsa na {}?"
             ]
-        }
+        },
+        "nSentences": 205
     },
     "Central": {
         "sentenceDataDownloadLinks": {
@@ -481,7 +497,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 1521
     },
     "Chavacano": {
         "sentenceDataDownloadLinks": {
@@ -491,7 +508,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 1905
     },
     "Chinese": {
         "sentenceDataDownloadLinks": {
@@ -530,7 +548,8 @@
                 "{}，你好吗？",
                 "{}怎么了？"
             ]
-        }
+        },
+        "nSentences": 23610
     },
     "Chuvash": {
         "sentenceDataDownloadLinks": {
@@ -542,7 +561,8 @@
         "countriesEmployedIn": [
             "Russia"
         ],
-        "translations": {}
+        "translations": {},
+        "nSentences": 192
     },
     "Croatian": {
         "sentenceDataDownloadLinks": {
@@ -590,7 +610,8 @@
                 "Kako si ti {}?",
                 "Što ima, {}?"
             ]
-        }
+        },
+        "nSentences": 1294
     },
     "Czech": {
         "sentenceDataDownloadLinks": {
@@ -644,7 +665,8 @@
                 "Jak se máš {}u?",
                 "Co se děje, {}?"
             ]
-        }
+        },
+        "nSentences": 21571
     },
     "Danish": {
         "sentenceDataDownloadLinks": {
@@ -685,7 +707,8 @@
                 "Hvordan har du det {}?",
                 "Hvad sker der {}?"
             ]
-        }
+        },
+        "nSentences": 21567
     },
     "Dutch": {
         "sentenceDataDownloadLinks": {
@@ -729,7 +752,8 @@
                 "Hoe gaat het, {}?",
                 "Hoe gaat het, {}?"
             ]
-        }
+        },
+        "nSentences": 50204
     },
     "English": {
         "sentenceDataDownloadLinks": {
@@ -795,7 +819,20 @@
                 "Kuidas {} läheb?",
                 "Mis {}ga on?"
             ]
-        }
+        },
+        "nSentences": 1695
+    },
+    "Extremaduran": {
+        "sentenceDataDownloadLinks": {
+            "tatoebaProject": "fin-eng.zip"
+        },
+        "properties": {
+            "usesLatinScript": true
+        },
+        "countriesEmployedIn": [
+            "Spain"
+        ],
+        "translations": {}
     },
     "Finnish": {
         "sentenceDataDownloadLinks": {
@@ -853,7 +890,8 @@
                 "Kuinka voit {}?",
                 "Mitä {} tekee?"
             ]
-        }
+        },
+        "nSentences": 63028
     },
     "French": {
         "sentenceDataDownloadLinks": {
@@ -918,7 +956,8 @@
                 "Comment vas-tu {}?",
                 "Quoi de neuf {}?"
             ]
-        }
+        },
+        "nSentences": 178009
     },
     "Galician": {
         "sentenceDataDownloadLinks": {
@@ -953,7 +992,8 @@
                 "Como estás {}?",
                 "Que pasa {}?"
             ]
-        }
+        },
+        "nSentences": 150
     },
     "Georgian": {
         "sentenceDataDownloadLinks": {
@@ -989,7 +1029,8 @@
                 "როგორ ხარ {}?",
                 "რა ხდება {}?"
             ]
-        }
+        },
+        "nSentences": 141
     },
     "German": {
         "sentenceDataDownloadLinks": {
@@ -1043,7 +1084,8 @@
                 "Wie geht es dir {}?",
                 "Was ist los, {}?"
             ]
-        }
+        },
+        "nSentences": 221533
     },
     "Greek": {
         "sentenceDataDownloadLinks": {
@@ -1078,7 +1120,8 @@
                 "Πώς είσαι ο Τομ;",
                 "Τι συμβαίνει ο Τομ;"
             ]
-        }
+        },
+        "nSentences": 15966
     },
     "Hebrew": {
         "sentenceDataDownloadLinks": {
@@ -1118,7 +1161,8 @@
                 "מה שלומך {}?",
                 "מה קורה {}?"
             ]
-        }
+        },
+        "nSentences": 126372
     },
     "Hindi": {
         "sentenceDataDownloadLinks": {
@@ -1155,7 +1199,8 @@
                 "आप कैसे हैं {}?",
                 "क्या हो रहा है {}?"
             ]
-        }
+        },
+        "nSentences": 2773
     },
     "Hungarian": {
         "sentenceDataDownloadLinks": {
@@ -1218,7 +1263,8 @@
                 "Hogy vagy {}?",
                 "Mi van {}?"
             ]
-        }
+        },
+        "nSentences": 87437
     },
     "Icelandic": {
         "sentenceDataDownloadLinks": {
@@ -1254,7 +1300,8 @@
                 "Hvernig hefurðu það {}?",
                 "Hvað er að {}?"
             ]
-        }
+        },
+        "nSentences": 6504
     },
     "Ilocano": {
         "sentenceDataDownloadLinks": {
@@ -1266,7 +1313,8 @@
         "countriesEmployedIn": [
             "Philippines"
         ],
-        "translations": {}
+        "translations": {},
+        "nSentences": 1670
     },
     "Indonesian": {
         "sentenceDataDownloadLinks": {
@@ -1300,7 +1348,8 @@
                 "Bagaimana kabarmu {}?",
                 "What's up {}?"
             ]
-        }
+        },
+        "nSentences": 7182
     },
     "Italian": {
         "sentenceDataDownloadLinks": {
@@ -1343,7 +1392,8 @@
                 "Come stai {}?",
                 "Che succede {}?"
             ]
-        }
+        },
+        "nSentences": 341554
     },
     "Japanese": {
         "sentenceDataDownloadLinks": {
@@ -1379,7 +1429,8 @@
                 "{}お元気ですか？",
                 "{}はどうしたの？"
             ]
-        }
+        },
+        "nSentences": 55639
     },
     "Kabyle": {
         "sentenceDataDownloadLinks": {
@@ -1389,7 +1440,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 21776
     },
     "Kannada": {
         "sentenceDataDownloadLinks": {
@@ -1423,7 +1475,8 @@
                 "ನೀವು ಟಾಮ್ ಹೇಗಿದ್ದೀರಿ?",
                 "ಟಾಮ್ ಏನಿದೆ?"
             ]
-        }
+        },
+        "nSentences": 153
     },
     "Kapampangan": {
         "sentenceDataDownloadLinks": {
@@ -1433,7 +1486,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 1175
     },
     "Khasi": {
         "sentenceDataDownloadLinks": {
@@ -1443,7 +1497,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 801
     },
     "Khmer": {
         "sentenceDataDownloadLinks": {
@@ -1478,7 +1533,8 @@
                 "តើអ្នកថមសុខយ៉ាងម៉េច?",
                 "តើមានអ្វីកើតឡើងលោក {}?"
             ]
-        }
+        },
+        "nSentences": 473
     },
     "Korean": {
         "sentenceDataDownloadLinks": {
@@ -1520,7 +1576,8 @@
                 "{}은 어때?",
                 "무슨 일이야 {}?"
             ]
-        }
+        },
+        "nSentences": 3638
     },
     "Kurdish": {
         "sentenceDataDownloadLinks": {
@@ -1553,7 +1610,8 @@
                 "Tu çawa yî {}?",
                 "{} çi ye?"
             ]
-        }
+        },
+        "nSentences": 122
     },
     "Latvian": {
         "sentenceDataDownloadLinks": {
@@ -1593,7 +1651,8 @@
                 "Kā tev iet?",
                 "Kas notiek {}?"
             ]
-        }
+        },
+        "nSentences": 738
     },
     "Lithuanian": {
         "sentenceDataDownloadLinks": {
@@ -1634,7 +1693,8 @@
                 "How are you {}?",
                 "Ką {}?"
             ]
-        }
+        },
+        "nSentences": 2037
     },
     "Low": {
         "sentenceDataDownloadLinks": {
@@ -1644,7 +1704,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 3198
     },
     "Macedonian": {
         "sentenceDataDownloadLinks": {
@@ -1687,7 +1748,8 @@
                 "Како си ти {}?",
                 "Што е со {}?"
             ]
-        }
+        },
+        "nSentences": 62551
     },
     "Malay": {
         "sentenceDataDownloadLinks": {
@@ -1718,7 +1780,8 @@
                 "Apa khabar {}?",
                 "Ada apa dengan {}?"
             ]
-        }
+        },
+        "nSentences": 199
     },
     "Malayalam": {
         "sentenceDataDownloadLinks": {
@@ -1755,7 +1818,8 @@
                 "എങ്ങനെയുണ്ട് {}?",
                 "{} എന്താണ്?"
             ]
-        }
+        },
+        "nSentences": 603
     },
     "Maori": {
         "sentenceDataDownloadLinks": {
@@ -1789,7 +1853,8 @@
                 "Kei te pēhea koe?",
                 "Kei te aha a {}?"
             ]
-        }
+        },
+        "nSentences": 203
     },
     "Marathi": {
         "sentenceDataDownloadLinks": {
@@ -1825,7 +1890,8 @@
                 "तू कसा आहेस?",
                 "{} काय चाललंय?"
             ]
-        }
+        },
+        "nSentences": 40188
     },
     "Naga": {
         "sentenceDataDownloadLinks": {
@@ -1835,7 +1901,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 295
     },
     "North": {
         "sentenceDataDownloadLinks": {
@@ -1845,7 +1912,8 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 172
     },
     "Norwegian": {
         "sentenceDataDownloadLinks": {
@@ -1882,7 +1950,8 @@
                 "Hvordan har du det med {}?",
                 "Hva skjer {}?"
             ]
-        }
+        },
+        "nSentences": 5867
     },
     "Persian": {
         "sentenceDataDownloadLinks": {
@@ -1916,7 +1985,8 @@
                 "حال تو چطوره؟",
                 "چه خبر از {}؟"
             ]
-        }
+        },
+        "nSentences": 2252
     },
     "Polish": {
         "sentenceDataDownloadLinks": {
@@ -1969,7 +2039,8 @@
                 "Jak się masz {}?",
                 "Co słychać {}?"
             ]
-        }
+        },
+        "nSentences": 40311
     },
     "Portuguese": {
         "sentenceDataDownloadLinks": {
@@ -2018,7 +2089,8 @@
                 "Como você está {}?",
                 "E aí, {}?"
             ]
-        }
+        },
+        "nSentences": 165114
     },
     "Romani": {
         "sentenceDataDownloadLinks": {
@@ -2052,7 +2124,8 @@
                 "Ce mai faci {}?",
                 "What's up {}?"
             ]
-        }
+        },
+        "nSentences": 558
     },
     "Romanian": {
         "sentenceDataDownloadLinks": {
@@ -2091,7 +2164,8 @@
                 "Ce mai faci {}?",
                 "What's up {}?"
             ]
-        }
+        },
+        "nSentences": 11605
     },
     "Russian": {
         "sentenceDataDownloadLinks": {
@@ -2139,7 +2213,8 @@
                 "How are you {}?",
                 "What's up {}?"
             ]
-        }
+        },
+        "nSentences": 399919
     },
     "Serbian": {
         "sentenceDataDownloadLinks": {
@@ -2179,7 +2254,8 @@
                 "Како си {}",
                 "Шта има, {}?"
             ]
-        }
+        },
+        "nSentences": 23866
     },
     "Slovak": {
         "sentenceDataDownloadLinks": {
@@ -2220,7 +2296,8 @@
                 "Ako sa máš {}?",
                 "Čo sa deje, {}?"
             ]
-        }
+        },
+        "nSentences": 2224
     },
     "Slovenian": {
         "sentenceDataDownloadLinks": {
@@ -2256,7 +2333,8 @@
                 "Kako si {}?",
                 "Kaj je {}?"
             ]
-        }
+        },
+        "nSentences": 299
     },
     "Spanish": {
         "sentenceDataDownloadLinks": {
@@ -2319,7 +2397,8 @@
                 "How are you {}?",
                 "¿Qué pasa {}?"
             ]
-        }
+        },
+        "nSentences": 124547
     },
     "Swedish": {
         "sentenceDataDownloadLinks": {
@@ -2357,7 +2436,8 @@
                 "Hur mår du {}?",
                 "Vad händer {}?"
             ]
-        }
+        },
+        "nSentences": 18207
     },
     "Tagalog": {
         "sentenceDataDownloadLinks": {
@@ -2369,7 +2449,8 @@
         "countriesEmployedIn": [
             "Philippines"
         ],
-        "translations": {}
+        "translations": {},
+        "nSentences": 3657
     },
     "Tamil": {
         "sentenceDataDownloadLinks": {
@@ -2408,7 +2489,8 @@
                 "நீங்கள் எப்படி {}?",
                 "What's up {}?"
             ]
-        }
+        },
+        "nSentences": 201
     },
     "Tatar": {
         "sentenceDataDownloadLinks": {
@@ -2420,7 +2502,8 @@
         "countriesEmployedIn": [
             "Russia"
         ],
-        "translations": {}
+        "translations": {},
+        "nSentences": 535
     },
     "Telugu": {
         "sentenceDataDownloadLinks": {
@@ -2454,7 +2537,8 @@
                 "మీరు ఎలా ఉన్నారు టామ్?",
                 "టామ్ ఏమిటి?"
             ]
-        }
+        },
+        "nSentences": 134
     },
     "Thai": {
         "sentenceDataDownloadLinks": {
@@ -2490,7 +2574,8 @@
                 "เป็นไงบ้าง{}",
                 "ว่าไง{}?"
             ]
-        }
+        },
+        "nSentences": 2887
     },
     "Turkish": {
         "sentenceDataDownloadLinks": {
@@ -2549,7 +2634,8 @@
                 "Nasılsın {}?",
                 "Ne haber {}?"
             ]
-        }
+        },
+        "nSentences": 513345
     },
     "Turkmen": {
         "sentenceDataDownloadLinks": {
@@ -2562,7 +2648,8 @@
             "Afghanistan",
             "Turkmenistan"
         ],
-        "translations": {}
+        "translations": {},
+        "nSentences": 3489
     },
     "Ukrainian": {
         "sentenceDataDownloadLinks": {
@@ -2599,7 +2686,8 @@
                 "Як ти {}е?",
                 "Що там {}е?"
             ]
-        }
+        },
+        "nSentences": 146181
     },
     "Urdu": {
         "sentenceDataDownloadLinks": {
@@ -2635,7 +2723,8 @@
                 "آپ کیسے ہیں {}؟",
                 "{} کیا ہو رہا ہے؟"
             ]
-        }
+        },
+        "nSentences": 1164
     },
     "Uyghur": {
         "sentenceDataDownloadLinks": {
@@ -2669,7 +2758,8 @@
                 "How are you {}?",
                 "{} نېمە بولدى؟"
             ]
-        }
+        },
+        "nSentences": 287
     },
     "Vietnamese": {
         "sentenceDataDownloadLinks": {
@@ -2703,7 +2793,8 @@
                 "How are you {}?",
                 "Chuyện gì vậy {}?"
             ]
-        }
+        },
+        "nSentences": 4083
     },
     "Waray": {
         "sentenceDataDownloadLinks": {
@@ -2713,6 +2804,7 @@
             "usesLatinScript": true
         },
         "countriesEmployedIn": [],
-        "translations": {}
+        "translations": {},
+        "nSentences": 1164
     }
 }
