@@ -4,8 +4,8 @@ import zipfile
 
 from backend.paths import SENTENCE_DATA_PATH, sentence_data_path
 from backend.metadata import language_metadata
-from backend.ops.data_mining.scraping.sentence_data_download_links import SENTENCE_DATA_PAGE_URL
-from .utils import patched_urllib
+from backend.ops.data_mining import SENTENCE_DATA_PAGE_URL
+from ._utils import patched_urllib
 
 warnings.filterwarnings('ignore')
 

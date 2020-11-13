@@ -1,12 +1,14 @@
 from typing import Optional, List
 
 from backend.utils.strings.modification import strip_multiple
-from .utils import read_page_source
+from ._utils import read_page_source
 
 
 _POPULAR_FORENAMES_PAGE_URL = 'http://en.wikipedia.org/wiki/List_of_most_popular_given_names'
 
-popular_forenames_page_source: List[str] = str(read_page_source(_POPULAR_FORENAMES_PAGE_URL)).split('\n')
+
+def _get_popular_forenames_page_source() -> List[str]:
+    return str(read_page_source(_POPULAR_FORENAMES_PAGE_URL)).split('\n')
 
 
 def scrape(country: str) -> Optional[List[List[List[str]]]]:
@@ -27,6 +29,7 @@ def scrape(country: str) -> Optional[List[List[List[str]]]]:
 def _get_forename_block_preceding_row_indices(country: str) -> List[int]:
     forename_block_initiating_row_indices: List[int] = []
 
+    popular_forenames_page_source = _get_popular_forenames_page_source()
     for i, row in enumerate(popular_forenames_page_source):
         if country in row and (row.endswith(f'</a></sup></td>') or popular_forenames_page_source[i - 1] == '<tr>'):
             if len(forename_block_initiating_row_indices):
@@ -45,7 +48,7 @@ def _scrape_forenames(forename_possessing_row_index: int) -> List[List[str]]:
     possesses_foreign_transcription = False
     spelling_kinds: List[List[str]] = [[] for _ in range(2)]
 
-    while all(exit_element not in (row := popular_forenames_page_source[forename_possessing_row_index]) for exit_element in EXIT_ELEMENTS):
+    while all(exit_element not in (row := _get_popular_forenames_page_source()[forename_possessing_row_index]) for exit_element in EXIT_ELEMENTS):
         truncated_row = row[5:] if 'href' in row else row[3:]  # <td><a href... -> a href...
 
         extracted_forename = truncated_row[truncated_row.find('>') + 1:truncated_row.find('<')].split('/')[0]

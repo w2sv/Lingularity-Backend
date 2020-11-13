@@ -88,12 +88,19 @@ class MongoDBClient(state_sharing.MonoStatePossessor):
     # --------------------
     # User specific
     # --------------------
-    def delete_user(self, user: str):
-        self._cluster.drop_database(user)
-
     @property
     def user_data_base(self) -> pymongo.collection.Collection:
         return self._cluster[self._user]
+
+    def remove_user(self):
+        self._cluster.drop_database(self.user)
+
+    def remove_language_data(self, language: str):
+        _filter = {'_id': language}
+
+        self.vocabulary_collection.delete_one(filter=_filter)
+        self.training_chronic_collection.delete_one(filter=_filter)
+        self.language_metadata_collection.delete_one(filter=_filter)
 
     # ------------------
     # Collections

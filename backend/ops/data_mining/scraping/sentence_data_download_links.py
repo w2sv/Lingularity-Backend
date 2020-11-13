@@ -1,9 +1,7 @@
 from typing import Dict
 
-from .utils import read_page_source
-
-
-SENTENCE_DATA_PAGE_URL = 'http://www.manythings.org/anki'
+from ._utils import read_page_source
+from backend.ops.data_mining import SENTENCE_DATA_PAGE_URL
 
 
 def scrape() -> Dict[str, str]:

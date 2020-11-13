@@ -3,6 +3,7 @@
 """ Refactored version of the google text-to-speech token generation algorithm by Boudewijn26
 to be found at https://github.com/Boudewijn26/gTTS-token/blob/master/gtts_token/gtts_token.py """
 
+from typing import Optional
 import calendar
 import math
 import time
@@ -16,7 +17,7 @@ _SALT_1 = "+-a^+6"
 _SALT_2 = "+-3^+b+-f"
 
 
-_MAX_TOKEN_KEY_RETRIEVAL_RETRIES = 7
+_MAX_TOKEN_KEY_RETRIEVAL_RETRIES = 10
 
 
 def _retrieve_token_key(retry=0) -> str:
@@ -48,11 +49,18 @@ def _retrieve_token_key(retry=0) -> str:
     return result
 
 
-token_key: str = _retrieve_token_key()
+_token_key: Optional[str] = None
+
+
+def _get_token_key() -> str:
+    global _token_key
+    if _token_key is None:
+        _token_key = _retrieve_token_key()
+    return _token_key
 
 
 def calculate(text: str) -> str:
-    [first_seed, second_seed] = token_key.split(".")
+    [first_seed, second_seed] = _get_token_key().split(".")
 
     try:
         d = bytearray(text.encode('UTF-8'))

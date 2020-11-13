@@ -4,7 +4,7 @@ from itertools import islice
 from bs4 import BeautifulSoup
 from textacy.similarity import levenshtein
 
-from .utils import read_page_source
+from ._utils import read_page_source
 
 
 def scrape(country_name: str) -> Optional[str]:
