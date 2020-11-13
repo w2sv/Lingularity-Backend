@@ -3,7 +3,7 @@ import re
 
 from backend.utils import iterables
 from backend.utils.strings import classification, modification, substrings
-from backend.utils.strings.utils import _APOSTROPHES
+from backend.utils.strings.utils import _APOSTROPHES, _DASHES
 
 
 def get_article_stripped_noun(noun_candidate: str) -> Optional[str]:
@@ -54,11 +54,11 @@ def get_meaningful_tokens(text: str, apostrophe_splitting=False) -> List[str]:
 
     special_character_stripped = modification.strip_special_characters(text, include_apostrophe=False, include_dash=False)
 
-    split_characters = ' -'
+    split_characters = _DASHES + ' '
     if apostrophe_splitting:
         split_characters += _APOSTROPHES
 
-    tokens = re.split(f"[{split_characters}]", special_character_stripped)
+    tokens = re.split(fr"[{split_characters}]", special_character_stripped)
     return list(filter(lambda token: len(token) and classification.is_digit_free(token), tokens))
 
 
@@ -123,3 +123,7 @@ def find_quoted_text(text: str) -> List[str]:
     [] """
 
     return re.findall('"(.*?)"', text)
+
+
+if __name__ == '__main__':
+    print(get_meaningful_tokens('Marie hatte d””ie –-asfd überwas zur höhle'))

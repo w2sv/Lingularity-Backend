@@ -7,9 +7,15 @@ from ._utils import read_page_source
 _POPULAR_FORENAMES_PAGE_URL = 'http://en.wikipedia.org/wiki/List_of_most_popular_given_names'
 
 
-def _get_popular_forenames_page_source() -> List[str]:
-    return str(read_page_source(_POPULAR_FORENAMES_PAGE_URL)).split('\n')
+_popular_forenames_page_source = None
 
+
+def _get_popular_forenames_page_source() -> List[str]:
+    global _popular_forenames_page_source
+
+    if _popular_forenames_page_source is None:
+        _popular_forenames_page_source = str(read_page_source(_POPULAR_FORENAMES_PAGE_URL)).split('\n')
+    return _popular_forenames_page_source
 
 def scrape(country: str) -> Optional[List[List[List[str]]]]:
     """
@@ -29,9 +35,8 @@ def scrape(country: str) -> Optional[List[List[List[str]]]]:
 def _get_forename_block_preceding_row_indices(country: str) -> List[int]:
     forename_block_initiating_row_indices: List[int] = []
 
-    popular_forenames_page_source = _get_popular_forenames_page_source()
-    for i, row in enumerate(popular_forenames_page_source):
-        if country in row and (row.endswith(f'</a></sup></td>') or popular_forenames_page_source[i - 1] == '<tr>'):
+    for i, row in enumerate(_get_popular_forenames_page_source()):
+        if country in row and (row.endswith(f'</a></sup></td>') or _get_popular_forenames_page_source()[i - 1] == '<tr>'):
             if len(forename_block_initiating_row_indices):
                 if i - forename_block_initiating_row_indices[0] >= 13:
                     forename_block_initiating_row_indices.append(i)

@@ -2,7 +2,7 @@ import unicodedata
 from typing import Iterable
 
 from backend.utils.strings import classification
-from backend.utils.strings.utils import _APOSTROPHES
+from backend.utils.strings.utils import _APOSTROPHES, _DASHES
 
 
 def replace_multiple(text: str, strings: Iterable[str], replacement: str) -> str:
@@ -77,15 +77,15 @@ def strip_accents(string: str) -> str:
 
 def strip_special_characters(string: str, include_apostrophe=False, include_dash=False) -> str:
     """
-    >>> strip_special_characters('''\\wha/Za"„“!#$%&()*+,./:;<=>?@[]^\\_`{|}~»«。¡¿''')
+    >>> strip_special_characters('''\\wha/Za"„“”!#$%&()*+,./:;<=>?@[]^\\_`–{|}~»«。¡¿''')
     'whaZa' """
 
-    special_characters = '"„“!#$%&()*+,./:;<=>?@[]^\\_`{|}~»«。¡¿'
+    special_characters = '"„”“!#$%&()*+,./:;<=>?@[]^\\_`{|}~»«。¡¿'
 
     if include_apostrophe:
         special_characters += _APOSTROPHES
     if include_dash:
-        special_characters += '-'
+        special_characters += _DASHES
 
     return strip_multiple(string, strings=list(special_characters))
 

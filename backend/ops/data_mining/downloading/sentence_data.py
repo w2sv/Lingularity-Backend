@@ -1,3 +1,4 @@
+from typing import Optional
 import os
 import warnings
 import zipfile
@@ -10,47 +11,51 @@ from ._utils import patched_urllib
 warnings.filterwarnings('ignore')
 
 
-def download_sentence_data(language: str):
+def download_sentence_data(language: str, zip_file_download_link: Optional[str] = None):
     """ Downloads and unzips respective sentence data file """
 
     print('Downloading sentence data...')
-    zip_file_path = _download_sentence_data(language)
-    _process_zip_file(zip_file_path, language)
+    language, tatoeba_language_identifier = _download_sentence_data(language, zip_file_download_link)
+    _process_zip_file(language, tatoeba_language_identifier)
 
 
-def _download_sentence_data(language: str) -> str:
+def _zip_file_destination_path(language: str) -> str:
+    return f'{SENTENCE_DATA_PATH}/{language}.zip'
+
+
+def _download_sentence_data(language: str, zip_file_download_link: Optional[str]) -> str:
     """ Returns:
             absolute zip file save destination path """
 
-    # assemble links
-    zip_file_destination_path = f'{SENTENCE_DATA_PATH}/{language}.zip'
-    download_link = f'{SENTENCE_DATA_PAGE_URL}/{language_metadata[language]["sentenceDataDownloadLinks"]["tatoebaProject"]}'
+    if not zip_file_download_link:
+        zip_file_download_link = [language_metadata[language]["sentenceDataDownloadLinks"]["tatoebaProject"]]
 
     # download zipfile
-    patched_urllib._urlopener.retrieve(download_link, zip_file_destination_path)  # type: ignore
+    patched_urllib._urlopener.retrieve(
+        f'{SENTENCE_DATA_PAGE_URL}/{zip_file_download_link}',
+        _zip_file_destination_path(language))  # type: ignore
 
-    return zip_file_destination_path
+    return language, zip_file_download_link.split('-')[0]
 
 
-def _process_zip_file(zip_file_path: str, language: str):
+def _process_zip_file(language: str, identifier: str):
     """ - unpack zip file
         - remove _about.txt
         - strip reference appendices from sentence data file
         - rename sentence data file """
 
-    language_dir_path = zip_file_path[:zip_file_path.rfind(os.sep)]
-
-    with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-        zip_ref.extractall(language_dir_path)
+    # decompress zip file
+    with zipfile.ZipFile(_zip_file_destination_path(language), 'r') as zip_ref:
+        zip_ref.extractall(path=SENTENCE_DATA_PATH)
 
     # remove unpacked zip file, about.txt
-    os.remove(zip_file_path)
-    os.remove(f'{language_dir_path}/_about.txt')
+    os.remove(_zip_file_destination_path(language))
+    os.remove(f'{SENTENCE_DATA_PATH}/_about.txt')
 
-    _remove_reference_appendices((sentence_data_file_path := f'{language_dir_path}/{os.listdir(language_dir_path)[0]}'))
+    _remove_reference_appendices((default_data_file_path := sentence_data_path(identifier)))
 
     # rename sentence data file
-    os.rename(sentence_data_file_path, f'{sentence_data_path(language)}.txt')
+    os.rename(default_data_file_path, sentence_data_path(language))
 
 
 def _remove_reference_appendices(sentence_data_file_path: str):

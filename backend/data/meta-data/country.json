@@ -1669,32 +1669,6 @@
         },
         "demonym": "Montenegrin"
     },
-    "Morocco": {
-        "maleForenames": {
-            "latinSpelling": [
-                "Mohamed"
-            ],
-            "nativeSpelling": [
-                "<br/>"
-            ]
-        },
-        "femaleForenames": {
-            "latinSpelling": [
-                "Salma",
-                "Imane",
-                "Rita",
-                "Zineb",
-                "Sarah",
-                "Yasmine",
-                "Meryem",
-                "Kenza",
-                "Aya",
-                "Lina"
-            ],
-            "nativeSpelling": []
-        },
-        "demonym": "Moroccan"
-    },
     "Mozambique": null,
     "Myanmar": null,
     "Namibia": null,
@@ -2804,5 +2778,6 @@
             "nativeSpelling": []
         },
         "demonym": "Welsh"
-    }
+    },
+    "the_Nordic_Council_2016": null
 }

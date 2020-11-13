@@ -14,6 +14,7 @@ from backend.trainers.components import SentenceData
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
 from backend.metadata.types import LanguageMetadata, CountryMetadata
 from backend.ops.google.translation import GoogleTranslator
+from backend.ops.data_mining.downloading.sentence_data import download_sentence_data
 from backend.ops.data_mining.scraping import (
     forenames,
     demonym,
@@ -29,10 +30,12 @@ google_translator = GoogleTranslator()
 
 def _mine_metadata():
     language_2_download_link = sentence_data_download_links.scrape()
+    print(language_2_download_link)
 
     # add English data
     language_metadata[string_resources.ENGLISH] = data.load_json(f'{META_DATA_PATH}/correction/language')[string_resources.ENGLISH]
     for country in language_metadata[string_resources.ENGLISH]['countriesEmployedIn']:
+        print(country)
         _mine_and_set_forenames(country)
 
     for language, download_link in (progress_bar := tqdm(language_2_download_link.items(), total=len(language_2_download_link))):
@@ -45,6 +48,7 @@ def _mine_metadata():
         language_sub_dict['sentenceDataDownloadLinks']['tatoebaProject'] = download_link
 
         # set generic properties
+        download_sentence_data(language, zip_file_download_link=download_link)
         sentence_data = SentenceData(language)
 
         language_sub_dict['properties'] = {}

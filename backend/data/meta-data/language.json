@@ -6,6 +6,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 807,
         "countriesEmployedIn": [
             "Namibia",
             "South Africa"
@@ -21,8 +22,8 @@
                     "John"
                 ],
                 "Mary": [
-                    "Maria",
                     "Marie",
+                    "Maria",
                     "Mary"
                 ],
                 "Alice": [
@@ -33,8 +34,7 @@
                 "Hoe gaan dit met jou {}?",
                 "Wat gaan aan {}?"
             ]
-        },
-        "nSentences": 807
+        }
     },
     "Albanian": {
         "sentenceDataDownloadLinks": {
@@ -43,15 +43,16 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 451,
         "countriesEmployedIn": [
-            "Albania",
-            "Romania",
-            "Croatia",
             "Kosovo",
-            "Montenegro",
-            "North_Macedonia",
             "Italy",
-            "Serbia"
+            "Montenegro",
+            "Albania",
+            "North_Macedonia",
+            "Serbia",
+            "Croatia",
+            "Romania"
         ],
         "translations": {
             "letsGo": "Shkojme!",
@@ -80,19 +81,18 @@
                 "Si jeni {}",
                 "Çfarë ka {}?"
             ]
-        },
-        "nSentences": 451
+        }
     },
-    "Algerian": {
+    "Algerian Arabic": {
         "sentenceDataDownloadLinks": {
             "tatoebaProject": "arq-eng.zip"
         },
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 155,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 155
+        "translations": {}
     },
     "Arabic": {
         "sentenceDataDownloadLinks": {
@@ -101,6 +101,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 11446,
         "countriesEmployedIn": [
             "Algeria"
         ],
@@ -108,9 +109,9 @@
             "letsGo": "لنذهب!",
             "defaultForenames": {
                 "Tom": [
-                    "توم",
+                    "طوم",
                     "Tom",
-                    "طوم"
+                    "توم"
                 ],
                 "John": [
                     "يوحنا",
@@ -130,8 +131,7 @@
                 "كيف حالك {}",
                 "ما الأمر يا {}؟"
             ]
-        },
-        "nSentences": 11446
+        }
     },
     "Assamese": {
         "sentenceDataDownloadLinks": {
@@ -140,11 +140,11 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 1655,
         "countriesEmployedIn": [
             "India"
         ],
-        "translations": {},
-        "nSentences": 1655
+        "translations": {}
     },
     "Azerbaijani": {
         "sentenceDataDownloadLinks": {
@@ -153,6 +153,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 2208,
         "countriesEmployedIn": [
             "Azerbaijan",
             "Dagestan"
@@ -163,8 +164,8 @@
                 "Tom": [
                     "Tomla",
                     "Tomun",
-                    "Toma",
                     "Tomu",
+                    "Toma",
                     "Tom",
                     "Toy"
                 ],
@@ -173,6 +174,7 @@
                 ],
                 "Mary": [
                     "Məryəm",
+                    "Mariyə",
                     "Mary",
                     "Meri"
                 ],
@@ -184,8 +186,7 @@
                 "{} necesen",
                 "{} nədir?"
             ]
-        },
-        "nSentences": 2208
+        }
     },
     "Basque": {
         "sentenceDataDownloadLinks": {
@@ -194,6 +195,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 677,
         "countriesEmployedIn": [
             "Basque_Country"
         ],
@@ -201,8 +203,8 @@
             "letsGo": "Goazen!",
             "defaultForenames": {
                 "Tom": [
-                    "Tomen",
                     "Tomem",
+                    "Tomen",
                     "Tomek",
                     "Tomi",
                     "Tom"
@@ -225,8 +227,7 @@
                 "Zer moduz zaude {}?",
                 "Zer gertatzen da {}?"
             ]
-        },
-        "nSentences": 677
+        }
     },
     "Belarusian": {
         "sentenceDataDownloadLinks": {
@@ -235,6 +236,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 3825,
         "countriesEmployedIn": [
             "Poland",
             "Belarus"
@@ -243,12 +245,12 @@
             "letsGo": "Пойдзем!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
-                    "Том"
+                    "Том",
+                    "Tom"
                 ],
                 "John": [
-                    "Джон",
-                    "John"
+                    "John",
+                    "Джон"
                 ],
                 "Mary": [
                     "Марыя",
@@ -264,8 +266,7 @@
                 "Як ты {}?",
                 "Што там {}?"
             ]
-        },
-        "nSentences": 3825
+        }
     },
     "Bengali": {
         "sentenceDataDownloadLinks": {
@@ -274,6 +275,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 4342,
         "countriesEmployedIn": [
             "Bangladesh"
         ],
@@ -290,8 +292,8 @@
                     "জন"
                 ],
                 "Mary": [
-                    "মেরি",
-                    "Mary"
+                    "Mary",
+                    "মেরি"
                 ],
                 "Alice": [
                     "Alice",
@@ -302,8 +304,7 @@
                 "কেমন আছেন {}?",
                 "কি খবর {}?"
             ]
-        },
-        "nSentences": 4342
+        }
     },
     "Berber": {
         "sentenceDataDownloadLinks": {
@@ -312,9 +313,11 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 120079,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 120079
+        "translations": {
+            "letsGo": "Ad neddu."
+        }
     },
     "Bosnian": {
         "sentenceDataDownloadLinks": {
@@ -323,14 +326,15 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 102,
         "countriesEmployedIn": [
-            "Slovenia",
-            "Croatia",
             "Kosovo",
             "Bosnia_and_Herzegovina",
             "Montenegro",
             "North_Macedonia",
-            "Serbia"
+            "Serbia",
+            "Croatia",
+            "Slovenia"
         ],
         "translations": {
             "letsGo": "Idemo!",
@@ -343,7 +347,7 @@
                     "John"
                 ],
                 "Mary": [
-                    "Mariji",
+                    "Mariju",
                     "Mary"
                 ],
                 "Alice": [
@@ -354,8 +358,7 @@
                 "Kako si {}",
                 "Šta ima, {}?"
             ]
-        },
-        "nSentences": 102
+        }
     },
     "Bulgarian": {
         "sentenceDataDownloadLinks": {
@@ -364,27 +367,28 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 14979,
         "countriesEmployedIn": [],
         "translations": {
             "letsGo": "Да тръгваме!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
-                    "Том"
+                    "Том",
+                    "Tom"
                 ],
                 "John": [
-                    "Джон",
-                    "John"
+                    "John",
+                    "Джон"
                 ],
                 "Mary": [
                     "Дева Мария",
-                    "Мери",
                     "Mary",
+                    "Мери",
                     "Мари"
                 ],
                 "Alice": [
-                    "Alice",
                     "Алисс",
+                    "Alice",
                     "Алис"
                 ]
             },
@@ -392,8 +396,7 @@
                 "Как си {}?",
                 "Какво има, {}?"
             ]
-        },
-        "nSentences": 14979
+        }
     },
     "Burmese": {
         "sentenceDataDownloadLinks": {
@@ -402,11 +405,35 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 347,
         "countriesEmployedIn": [
             "Myanmar"
         ],
-        "translations": {},
-        "nSentences": 347
+        "translations": {
+            "letsGo": "သွားကြရအောင်!",
+            "defaultForenames": {
+                "Tom": [
+                    "တွမ်",
+                    "Tom"
+                ],
+                "John": [
+                    "John"
+                ],
+                "Mary": [
+                    "မယ်ရီ",
+                    "Mary",
+                    "မာရိ"
+                ],
+                "Alice": [
+                    "အဲလစ်",
+                    "Alice"
+                ]
+            },
+            "constitutionQuery": [
+                "နေကောင်းလား{}",
+                "{}ဘာလဲ"
+            ]
+        }
     },
     "Cantonese": {
         "sentenceDataDownloadLinks": {
@@ -415,12 +442,12 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 3213,
         "countriesEmployedIn": [
             "Hong_Kong",
             "Macau"
         ],
-        "translations": {},
-        "nSentences": 3213
+        "translations": {}
     },
     "Catalan": {
         "sentenceDataDownloadLinks": {
@@ -429,6 +456,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 665,
         "countriesEmployedIn": [],
         "translations": {
             "letsGo": "Som-hi!",
@@ -437,8 +465,8 @@
                     "Tom"
                 ],
                 "John": [
-                    "John",
-                    "Joan"
+                    "Joan",
+                    "John"
                 ],
                 "Mary": [
                     "Maria",
@@ -453,8 +481,7 @@
                 "Com estàs {}?",
                 "Què passa {}?"
             ]
-        },
-        "nSentences": 665
+        }
     },
     "Cebuano": {
         "sentenceDataDownloadLinks": {
@@ -463,6 +490,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 205,
         "countriesEmployedIn": [],
         "translations": {
             "letsGo": "Mangadto ta!",
@@ -486,19 +514,20 @@
                 "Kumusta ka {}?",
                 "Unsa na {}?"
             ]
-        },
-        "nSentences": 205
+        }
     },
-    "Central": {
+    "Central Dusun": {
         "sentenceDataDownloadLinks": {
             "tatoebaProject": "dtp-eng.zip"
         },
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 1521,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 1521
+        "translations": {
+            "letsGo": "Kaino!"
+        }
     },
     "Chavacano": {
         "sentenceDataDownloadLinks": {
@@ -507,9 +536,9 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 1905,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 1905
+        "translations": {}
     },
     "Chinese": {
         "sentenceDataDownloadLinks": {
@@ -518,6 +547,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 23610,
         "countriesEmployedIn": [
             "Taiwan"
         ],
@@ -525,8 +555,8 @@
             "letsGo": "我们走吧！",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
                     "tom",
+                    "Tom",
                     "湯姆",
                     "汤姆"
                 ],
@@ -536,8 +566,8 @@
                 ],
                 "Mary": [
                     "Mary",
-                    "玛丽",
-                    "瑪麗"
+                    "瑪莉",
+                    "玛丽"
                 ],
                 "Alice": [
                     "Alice",
@@ -548,8 +578,7 @@
                 "{}，你好吗？",
                 "{}怎么了？"
             ]
-        },
-        "nSentences": 23610
+        }
     },
     "Chuvash": {
         "sentenceDataDownloadLinks": {
@@ -558,11 +587,11 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 192,
         "countriesEmployedIn": [
             "Russia"
         ],
-        "translations": {},
-        "nSentences": 192
+        "translations": {}
     },
     "Croatian": {
         "sentenceDataDownloadLinks": {
@@ -571,16 +600,17 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 1294,
         "countriesEmployedIn": [
-            "Czech_Republic",
-            "Croatia",
             "Bosnia_and_Herzegovina",
-            "Hungary",
-            "Montenegro",
-            "Austria",
-            "Slovakia",
             "Italy",
-            "Serbia"
+            "Montenegro",
+            "Slovakia",
+            "Austria",
+            "Serbia",
+            "Croatia",
+            "Hungary",
+            "Czech_Republic"
         ],
         "translations": {
             "letsGo": "Idemo!",
@@ -597,8 +627,8 @@
                     "John"
                 ],
                 "Mary": [
-                    "Marynu",
                     "Mariju",
+                    "Marynu",
                     "Marijo",
                     "Mary"
                 ],
@@ -610,8 +640,7 @@
                 "Kako si ti {}?",
                 "Što ima, {}?"
             ]
-        },
-        "nSentences": 1294
+        }
     },
     "Czech": {
         "sentenceDataDownloadLinks": {
@@ -620,20 +649,21 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 21571,
         "countriesEmployedIn": [
-            "Poland",
-            "Czech_Republic",
-            "Croatia",
             "Bosnia_and_Herzegovina",
-            "Austria",
             "Slovakia",
+            "Austria",
+            "Poland",
+            "Croatia",
+            "Czech_Republic",
             "Romania"
         ],
         "translations": {
             "letsGo": "Pojďme!",
             "defaultForenames": {
                 "Tom": [
-                    "Tomově",
+                    "Tomáše",
                     "Tomem",
                     "Tomův",
                     "Tome",
@@ -641,7 +671,8 @@
                     "Tim"
                 ],
                 "John": [
-                    "Johnovu",
+                    "Johnovou",
+                    "Johnově",
                     "Johnův",
                     "Johnem",
                     "Johna",
@@ -649,24 +680,23 @@
                     "Jan"
                 ],
                 "Mary": [
-                    "Maryina",
+                    "Maryinu",
                     "Marií",
-                    "Marii",
                     "Marie",
+                    "Marii",
                     "Mary"
                 ],
                 "Alice": [
-                    "Alicí",
                     "Alici",
-                    "Alice"
+                    "Alice",
+                    "Alicí"
                 ]
             },
             "constitutionQuery": [
                 "Jak se máš {}u?",
                 "Co se děje, {}?"
             ]
-        },
-        "nSentences": 21571
+        }
     },
     "Danish": {
         "sentenceDataDownloadLinks": {
@@ -675,12 +705,13 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 21567,
         "countriesEmployedIn": [
-            "Denmark",
             "Greenland",
-            "Germany",
+            "Denmark",
+            "Nordic_Council_2016",
             "Faroe_Islands",
-            "Nordic_Council_2016"
+            "Germany"
         ],
         "translations": {
             "letsGo": "Lad os gå!",
@@ -707,8 +738,7 @@
                 "Hvordan har du det {}?",
                 "Hvad sker der {}?"
             ]
-        },
-        "nSentences": 21567
+        }
     },
     "Dutch": {
         "sentenceDataDownloadLinks": {
@@ -717,6 +747,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 50204,
         "countriesEmployedIn": [
             "Suriname",
             "Netherlands",
@@ -728,10 +759,10 @@
                 "Tom": [
                     "Tomás",
                     "Tomo",
-                    "Toms",
                     "Tom”",
-                    "Tok",
-                    "Tom"
+                    "Toms",
+                    "Tom",
+                    "Tok"
                 ],
                 "John": [
                     "Johano",
@@ -739,10 +770,10 @@
                     "John"
                 ],
                 "Mary": [
-                    "Maria",
                     "Marie",
-                    "Mari",
-                    "Mary"
+                    "Maria",
+                    "Mary",
+                    "Mari"
                 ],
                 "Alice": [
                     "Alice"
@@ -752,8 +783,7 @@
                 "Hoe gaat het, {}?",
                 "Hoe gaat het, {}?"
             ]
-        },
-        "nSentences": 50204
+        }
     },
     "English": {
         "sentenceDataDownloadLinks": {
@@ -789,6 +819,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 1695,
         "countriesEmployedIn": [
             "Estonia"
         ],
@@ -805,11 +836,11 @@
                 ],
                 "Mary": [
                     "Maarja",
+                    "Marylt",
                     "Maryga",
-                    "Maryt",
                     "Maria",
-                    "Mary",
-                    "Mari"
+                    "Mari",
+                    "Mary"
                 ],
                 "Alice": [
                     "Alice"
@@ -819,20 +850,7 @@
                 "Kuidas {} läheb?",
                 "Mis {}ga on?"
             ]
-        },
-        "nSentences": 1695
-    },
-    "Extremaduran": {
-        "sentenceDataDownloadLinks": {
-            "tatoebaProject": "fin-eng.zip"
-        },
-        "properties": {
-            "usesLatinScript": true
-        },
-        "countriesEmployedIn": [
-            "Spain"
-        ],
-        "translations": {}
+        }
     },
     "Finnish": {
         "sentenceDataDownloadLinks": {
@@ -841,43 +859,42 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 63028,
         "countriesEmployedIn": [
             "Finland",
+            "Russia",
             "Sweden",
-            "Karelia",
-            "Russia"
+            "Karelia"
         ],
         "translations": {
             "letsGo": "Mennään!",
             "defaultForenames": {
                 "Tom": [
-                    "Tommi",
-                    "Tomko",
-                    "Tomii",
-                    "Tomia",
-                    "Tomil",
-                    "”Tom”",
                     "Tomin",
-                    "Tom”",
+                    "”Tom”",
+                    "Tomil",
+                    "Tomii",
+                    "Tomko",
                     "”Tom",
+                    "Tom”",
                     "Tomi",
-                    "Ton",
                     "Tom",
+                    "Ton",
                     "Tim"
                 ],
                 "John": [
                     "Johnille",
-                    "Johnia",
+                    "Johnin",
                     "John"
                 ],
                 "Mary": [
                     "Marylle",
-                    "Maryssa",
                     "Marylta",
-                    "Marin",
-                    "Maryn",
+                    "Maryssa",
+                    "Maryyn",
                     "Marya",
                     "Marjo",
+                    "Maria",
                     "Maryä",
                     "Mary"
                 ],
@@ -888,10 +905,9 @@
             },
             "constitutionQuery": [
                 "Kuinka voit {}?",
-                "Mitä {} tekee?"
+                "Mitä {}?"
             ]
-        },
-        "nSentences": 63028
+        }
     },
     "French": {
         "sentenceDataDownloadLinks": {
@@ -900,36 +916,37 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 178009,
         "countriesEmployedIn": [
-            "Mali",
-            "Seychelles",
-            "Chad",
-            "France",
-            "Senegal",
-            "Congo",
-            "Gabon",
-            "Burundi",
-            "Togo",
+            "DR Congo",
             "Burkina Faso",
-            "Djibouti",
-            "Central African Republic",
-            "Monaco",
-            "Vanuatu",
-            "Rwanda",
-            "Luxembourg",
-            "Canada",
-            "Ivory Coast",
-            "Benin",
-            "Madagascar",
-            "Equatorial Guinea",
+            "Chad",
+            "Togo",
+            "Gabon",
             "Guinea",
+            "Mali",
+            "Senegal",
+            "Cameroon",
+            "Benin",
+            "Rwanda",
+            "Ivory Coast",
+            "Central African Republic",
+            "Equatorial Guinea",
+            "Monaco",
+            "Canada",
+            "Djibouti",
+            "Comoros",
+            "Seychelles",
+            "Congo",
+            "Luxembourg",
+            "Burundi",
+            "Vanuatu",
+            "Madagascar",
+            "France",
             "Haiti",
             "Belgium",
-            "Comoros",
             "Niger",
-            "Cameroon",
-            "Switzerland",
-            "DR Congo"
+            "Switzerland"
         ],
         "translations": {
             "letsGo": "Allons-y!",
@@ -937,15 +954,15 @@
                 "Tom": [
                     "Toma",
                     "Tome",
-                    "Tom",
-                    "À M"
+                    "À M",
+                    "Tom"
                 ],
                 "John": [
                     "John"
                 ],
                 "Mary": [
-                    "Maria",
                     "Marie",
+                    "Maria",
                     "Mary"
                 ],
                 "Alice": [
@@ -956,8 +973,7 @@
                 "Comment vas-tu {}?",
                 "Quoi de neuf {}?"
             ]
-        },
-        "nSentences": 178009
+        }
     },
     "Galician": {
         "sentenceDataDownloadLinks": {
@@ -966,11 +982,12 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 150,
         "countriesEmployedIn": [
             "Galicia"
         ],
         "translations": {
-            "letsGo": "Let's go!",
+            "letsGo": "Imos!",
             "defaultForenames": {
                 "Tom": [
                     "Tom"
@@ -992,8 +1009,7 @@
                 "Como estás {}?",
                 "Que pasa {}?"
             ]
-        },
-        "nSentences": 150
+        }
     },
     "Georgian": {
         "sentenceDataDownloadLinks": {
@@ -1002,6 +1018,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 141,
         "countriesEmployedIn": [
             "Georgia"
         ],
@@ -1017,6 +1034,7 @@
                     "John"
                 ],
                 "Mary": [
+                    "მარიამი",
                     "Mary",
                     "მარი"
                 ],
@@ -1029,8 +1047,7 @@
                 "როგორ ხარ {}?",
                 "რა ხდება {}?"
             ]
-        },
-        "nSentences": 141
+        }
     },
     "German": {
         "sentenceDataDownloadLinks": {
@@ -1039,28 +1056,27 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 221533,
         "countriesEmployedIn": [
-            "Luxembourg",
             "Liechtenstein",
-            "Switzerland",
-            "Germany",
             "Austria",
-            "Belgium"
+            "Germany",
+            "Belgium",
+            "Switzerland",
+            "Luxembourg"
         ],
         "translations": {
             "letsGo": "Lass uns gehen!",
             "defaultForenames": {
                 "Tom": [
-                    "Tomás",
-                    "Tomas",
                     "Tomme",
-                    "Toms",
+                    "Tomás",
                     "Tom–",
-                    "Tomi",
+                    "Toms",
                     "Tomm",
-                    "Tam",
-                    "Rom",
-                    "Tom"
+                    "Tomi",
+                    "Tom",
+                    "Tam"
                 ],
                 "John": [
                     "Johannes",
@@ -1069,11 +1085,12 @@
                     "John"
                 ],
                 "Mary": [
+                    "Marias",
+                    "Marys",
                     "Mary–",
-                    "Party",
                     "Maria",
                     "Marie",
-                    "Marys",
+                    "Party",
                     "Mary"
                 ],
                 "Alice": [
@@ -1084,8 +1101,7 @@
                 "Wie geht es dir {}?",
                 "Was ist los, {}?"
             ]
-        },
-        "nSentences": 221533
+        }
     },
     "Greek": {
         "sentenceDataDownloadLinks": {
@@ -1094,6 +1110,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 15966,
         "countriesEmployedIn": [],
         "translations": {
             "letsGo": "Πάμε!",
@@ -1104,6 +1121,7 @@
                 ],
                 "John": [
                     "Γιάννης",
+                    "Τζον",
                     "John"
                 ],
                 "Mary": [
@@ -1120,8 +1138,7 @@
                 "Πώς είσαι ο Τομ;",
                 "Τι συμβαίνει ο Τομ;"
             ]
-        },
-        "nSentences": 15966
+        }
     },
     "Hebrew": {
         "sentenceDataDownloadLinks": {
@@ -1130,18 +1147,19 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 126372,
         "countriesEmployedIn": [
-            "Poland",
             "Israel",
-            "South Africa"
+            "South Africa",
+            "Poland"
         ],
         "translations": {
             "letsGo": "בוא נלך!",
             "defaultForenames": {
                 "Tom": [
+                    "טום",
                     "Tom",
-                    "תום",
-                    "טום"
+                    "תום"
                 ],
                 "John": [
                     "יוחנן",
@@ -1161,8 +1179,7 @@
                 "מה שלומך {}?",
                 "מה קורה {}?"
             ]
-        },
-        "nSentences": 126372
+        }
     },
     "Hindi": {
         "sentenceDataDownloadLinks": {
@@ -1171,9 +1188,10 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 2773,
         "countriesEmployedIn": [
-            "India",
-            "South Africa"
+            "South Africa",
+            "India"
         ],
         "translations": {
             "letsGo": "चलो चलते हैं!",
@@ -1187,8 +1205,8 @@
                     "जॉन"
                 ],
                 "Mary": [
-                    "मैरी",
-                    "Mary"
+                    "Mary",
+                    "मैरी"
                 ],
                 "Alice": [
                     "Alice",
@@ -1196,11 +1214,10 @@
                 ]
             },
             "constitutionQuery": [
-                "आप कैसे हैं {}?",
+                "तुम कैसे हो {}?",
                 "क्या हो रहा है {}?"
             ]
-        },
-        "nSentences": 2773
+        }
     },
     "Hungarian": {
         "sentenceDataDownloadLinks": {
@@ -1209,51 +1226,51 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 87437,
         "countriesEmployedIn": [
-            "Slovenia",
-            "Vojvodina",
-            "Croatia",
             "Ukraine",
-            "Hungary",
-            "Austria",
             "Slovakia",
-            "Romania",
-            "Serbia"
+            "Vojvodina",
+            "Austria",
+            "Serbia",
+            "Croatia",
+            "Hungary",
+            "Slovenia",
+            "Romania"
         ],
         "translations": {
             "letsGo": "Gyerünk!",
             "defaultForenames": {
                 "Tom": [
-                    "Tomba",
-                    "Tomon",
-                    "Tomié",
                     "Tomin",
                     "Tomot",
+                    "Tomié",
+                    "Tomon",
+                    "Tomra",
+                    "Tomba",
                     "Tomé",
                     "Tom"
                 ],
                 "John": [
-                    "Johnnak",
+                    "Johnnal",
                     "Johnra",
                     "János",
                     "Johnt",
                     "John"
                 ],
                 "Mary": [
-                    "Maryben",
-                    "Maryvel",
                     "Maryhez",
+                    "Maryvel",
                     "Marynek",
-                    "Maryből",
-                    "Maryre",
+                    "Marybe",
                     "Marin",
-                    "Maryt",
-                    "Marit",
                     "Marié",
                     "Maryé",
+                    "Marit",
+                    "Maryt",
                     "Mári",
-                    "Mary",
-                    "Mari"
+                    "Mari",
+                    "Mary"
                 ],
                 "Alice": [
                     "Alice"
@@ -1263,8 +1280,7 @@
                 "Hogy vagy {}?",
                 "Mi van {}?"
             ]
-        },
-        "nSentences": 87437
+        }
     },
     "Icelandic": {
         "sentenceDataDownloadLinks": {
@@ -1273,6 +1289,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 6504,
         "countriesEmployedIn": [
             "Iceland"
         ],
@@ -1288,8 +1305,8 @@
                     "John"
                 ],
                 "Mary": [
-                    "Maríu",
                     "María",
+                    "Maríu",
                     "Mary"
                 ],
                 "Alice": [
@@ -1300,8 +1317,7 @@
                 "Hvernig hefurðu það {}?",
                 "Hvað er að {}?"
             ]
-        },
-        "nSentences": 6504
+        }
     },
     "Ilocano": {
         "sentenceDataDownloadLinks": {
@@ -1310,11 +1326,13 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 1670,
         "countriesEmployedIn": [
             "Philippines"
         ],
-        "translations": {},
-        "nSentences": 1670
+        "translations": {
+            "letsGo": "Intayon!"
+        }
     },
     "Indonesian": {
         "sentenceDataDownloadLinks": {
@@ -1323,6 +1341,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 7182,
         "countriesEmployedIn": [
             "Indonesia"
         ],
@@ -1346,10 +1365,9 @@
             },
             "constitutionQuery": [
                 "Bagaimana kabarmu {}?",
-                "What's up {}?"
+                "Ada apa {}?"
             ]
-        },
-        "nSentences": 7182
+        }
     },
     "Italian": {
         "sentenceDataDownloadLinks": {
@@ -1358,11 +1376,12 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 341554,
         "countriesEmployedIn": [
-            "Vatican City",
-            "Italy",
+            "San Marino",
             "Switzerland",
-            "San Marino"
+            "Italy",
+            "Vatican City"
         ],
         "translations": {
             "letsGo": "Andiamo!",
@@ -1389,11 +1408,10 @@
                 ]
             },
             "constitutionQuery": [
-                "Come stai {}?",
+                "How are you {}?",
                 "Che succede {}?"
             ]
-        },
-        "nSentences": 341554
+        }
     },
     "Japanese": {
         "sentenceDataDownloadLinks": {
@@ -1402,6 +1420,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 55639,
         "countriesEmployedIn": [
             "Japan"
         ],
@@ -1417,8 +1436,8 @@
                     "ジョン"
                 ],
                 "Mary": [
-                    "メアリー",
-                    "Mary"
+                    "Mary",
+                    "メアリー"
                 ],
                 "Alice": [
                     "Alice",
@@ -1429,8 +1448,7 @@
                 "{}お元気ですか？",
                 "{}はどうしたの？"
             ]
-        },
-        "nSentences": 55639
+        }
     },
     "Kabyle": {
         "sentenceDataDownloadLinks": {
@@ -1439,9 +1457,9 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 21776,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 21776
+        "translations": {}
     },
     "Kannada": {
         "sentenceDataDownloadLinks": {
@@ -1450,6 +1468,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 153,
         "countriesEmployedIn": [
             "India"
         ],
@@ -1457,26 +1476,27 @@
             "letsGo": "ಹೋಗೋಣ!",
             "defaultForenames": {
                 "Tom": [
+                    "ಟಾಮ್",
                     "Tom"
                 ],
                 "John": [
-                    "ಜಾನ್",
-                    "John"
+                    "John",
+                    "ಜಾನ್"
                 ],
                 "Mary": [
-                    "Mary"
+                    "Mary",
+                    "ಮೇರಿ"
                 ],
                 "Alice": [
-                    "Alice",
-                    "ಆಲಿಸ್"
+                    "ಆಲಿಸ್",
+                    "Alice"
                 ]
             },
             "constitutionQuery": [
-                "ನೀವು ಟಾಮ್ ಹೇಗಿದ್ದೀರಿ?",
-                "ಟಾಮ್ ಏನಿದೆ?"
+                "ನೀವು {} ಹೇಗಿದ್ದೀರಿ?",
+                "{} ಏನಿದೆ?"
             ]
-        },
-        "nSentences": 153
+        }
     },
     "Kapampangan": {
         "sentenceDataDownloadLinks": {
@@ -1485,9 +1505,11 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 1175,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 1175
+        "translations": {
+            "letsGo": "Makó tána!"
+        }
     },
     "Khasi": {
         "sentenceDataDownloadLinks": {
@@ -1496,9 +1518,9 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 801,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 801
+        "translations": {}
     },
     "Khmer": {
         "sentenceDataDownloadLinks": {
@@ -1507,6 +1529,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 473,
         "countriesEmployedIn": [
             "Cambodia"
         ],
@@ -1514,11 +1537,13 @@
             "letsGo": "តោះ​ទៅ!",
             "defaultForenames": {
                 "Tom": [
+                    "ថម។",
                     "Tom",
-                    "ថម។"
+                    "ថម"
                 ],
                 "John": [
-                    "John"
+                    "John",
+                    "ចន"
                 ],
                 "Mary": [
                     "ម៉ារី",
@@ -1530,11 +1555,10 @@
                 ]
             },
             "constitutionQuery": [
-                "តើអ្នកថមសុខយ៉ាងម៉េច?",
+                "How are you {}?",
                 "តើមានអ្វីកើតឡើងលោក {}?"
             ]
-        },
-        "nSentences": 473
+        }
     },
     "Korean": {
         "sentenceDataDownloadLinks": {
@@ -1543,25 +1567,25 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 3638,
         "countriesEmployedIn": [
             "China",
+            "Russia",
             "North_Korea",
-            "South_Korea",
-            "Russia"
+            "South_Korea"
         ],
         "translations": {
             "letsGo": "가자!",
             "defaultForenames": {
                 "Tom": [
                     "Tom",
-                    "톰을",
                     "톰의",
                     "톰이",
-                    "톰"
+                    "톰아",
+                    "톰을"
                 ],
                 "John": [
-                    "John",
-                    "남자"
+                    "John"
                 ],
                 "Mary": [
                     "Mary",
@@ -1573,11 +1597,10 @@
                 ]
             },
             "constitutionQuery": [
-                "{}은 어때?",
+                "톰은 어때?",
                 "무슨 일이야 {}?"
             ]
-        },
-        "nSentences": 3638
+        }
     },
     "Kurdish": {
         "sentenceDataDownloadLinks": {
@@ -1586,11 +1609,12 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 122,
         "countriesEmployedIn": [
             "Iraq"
         ],
         "translations": {
-            "letsGo": "Let's go!",
+            "letsGo": "De em herin!",
             "defaultForenames": {
                 "Tom": [
                     "Tom"
@@ -1610,8 +1634,7 @@
                 "Tu çawa yî {}?",
                 "{} çi ye?"
             ]
-        },
-        "nSentences": 122
+        }
     },
     "Latvian": {
         "sentenceDataDownloadLinks": {
@@ -1620,6 +1643,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 738,
         "countriesEmployedIn": [
             "Latvia"
         ],
@@ -1638,7 +1662,6 @@
                     "John"
                 ],
                 "Mary": [
-                    "Mariju",
                     "Marija",
                     "Mary"
                 ],
@@ -1651,8 +1674,7 @@
                 "Kā tev iet?",
                 "Kas notiek {}?"
             ]
-        },
-        "nSentences": 738
+        }
     },
     "Lithuanian": {
         "sentenceDataDownloadLinks": {
@@ -1661,9 +1683,10 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 2037,
         "countriesEmployedIn": [
-            "Poland",
-            "Lithuania"
+            "Lithuania",
+            "Poland"
         ],
         "translations": {
             "letsGo": "Eime!",
@@ -1671,8 +1694,8 @@
                 "Tom": [
                     "Tomas",
                     "Tomui",
-                    "Tomu",
                     "Tomo",
+                    "Tomu",
                     "Tomą",
                     "Tom"
                 ],
@@ -1690,22 +1713,23 @@
                 ]
             },
             "constitutionQuery": [
-                "How are you {}?",
+                "Kaip tu {}?",
                 "Ką {}?"
             ]
-        },
-        "nSentences": 2037
+        }
     },
-    "Low": {
+    "Low Saxon": {
         "sentenceDataDownloadLinks": {
             "tatoebaProject": "nds-eng.zip"
         },
         "properties": {
             "usesLatinScript": true
         },
-        "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 3198
+        "nSentences": 3198,
+        "countriesEmployedIn": [
+            "Germany"
+        ],
+        "translations": {}
     },
     "Macedonian": {
         "sentenceDataDownloadLinks": {
@@ -1714,19 +1738,20 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 62551,
         "countriesEmployedIn": [
-            "Albania",
             "Bosnia_and_Herzegovina",
+            "Albania",
             "North_Macedonia",
-            "Romania",
-            "Serbia"
+            "Serbia",
+            "Romania"
         ],
         "translations": {
             "letsGo": "Да одиме!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
-                    "Том"
+                    "Том",
+                    "Tom"
                 ],
                 "John": [
                     "John",
@@ -1734,22 +1759,20 @@
                     "Он"
                 ],
                 "Mary": [
-                    "Марија",
-                    "Мери",
                     "Mary",
+                    "Мери",
                     "Мари"
                 ],
                 "Alice": [
-                    "Alice",
-                    "Алиса"
+                    "Алиса",
+                    "Alice"
                 ]
             },
             "constitutionQuery": [
                 "Како си ти {}?",
                 "Што е со {}?"
             ]
-        },
-        "nSentences": 62551
+        }
     },
     "Malay": {
         "sentenceDataDownloadLinks": {
@@ -1758,6 +1781,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 199,
         "countriesEmployedIn": [],
         "translations": {
             "letsGo": "Mari pergi!",
@@ -1780,8 +1804,7 @@
                 "Apa khabar {}?",
                 "Ada apa dengan {}?"
             ]
-        },
-        "nSentences": 199
+        }
     },
     "Malayalam": {
         "sentenceDataDownloadLinks": {
@@ -1790,11 +1813,12 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 603,
         "countriesEmployedIn": [
             "India"
         ],
         "translations": {
-            "letsGo": "Let's go!",
+            "letsGo": "നമുക്ക് പോകാം!",
             "defaultForenames": {
                 "Tom": [
                     "Tom",
@@ -1806,20 +1830,18 @@
                     "ജോൺ"
                 ],
                 "Mary": [
-                    "മേരി",
-                    "Mary"
+                    "Mary",
+                    "മേരി"
                 ],
                 "Alice": [
-                    "Alice",
-                    "ആലീസ്"
+                    "Alice"
                 ]
             },
             "constitutionQuery": [
                 "എങ്ങനെയുണ്ട് {}?",
                 "{} എന്താണ്?"
             ]
-        },
-        "nSentences": 603
+        }
     },
     "Maori": {
         "sentenceDataDownloadLinks": {
@@ -1828,6 +1850,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 203,
         "countriesEmployedIn": [
             "New Zealand"
         ],
@@ -1853,8 +1876,7 @@
                 "Kei te pēhea koe?",
                 "Kei te aha a {}?"
             ]
-        },
-        "nSentences": 203
+        }
     },
     "Marathi": {
         "sentenceDataDownloadLinks": {
@@ -1863,6 +1885,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 40188,
         "countriesEmployedIn": [
             "India"
         ],
@@ -1878,20 +1901,21 @@
                     "जॉन"
                 ],
                 "Mary": [
-                    "मेरी",
-                    "Mary"
+                    "Mary",
+                    "मॅरी",
+                    "मेरी"
                 ],
                 "Alice": [
+                    "आणिअॅलिस",
                     "Iceलिस",
                     "Alice"
                 ]
             },
             "constitutionQuery": [
                 "तू कसा आहेस?",
-                "{} काय चाललंय?"
+                "What's up {}?"
             ]
-        },
-        "nSentences": 40188
+        }
     },
     "Naga": {
         "sentenceDataDownloadLinks": {
@@ -1900,20 +1924,22 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 295,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 295
+        "translations": {
+            "letsGo": "Kiz rawngx phä!"
+        }
     },
-    "North": {
+    "North Moluccan Malay": {
         "sentenceDataDownloadLinks": {
             "tatoebaProject": "max-eng.zip"
         },
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 172,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 172
+        "translations": {}
     },
     "Norwegian": {
         "sentenceDataDownloadLinks": {
@@ -1922,6 +1948,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 5867,
         "countriesEmployedIn": [
             "Norway"
         ],
@@ -1950,8 +1977,7 @@
                 "Hvordan har du det med {}?",
                 "Hva skjer {}?"
             ]
-        },
-        "nSentences": 5867
+        }
     },
     "Persian": {
         "sentenceDataDownloadLinks": {
@@ -1960,13 +1986,14 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 2252,
         "countriesEmployedIn": [],
         "translations": {
             "letsGo": "بیا بریم!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
-                    "تام"
+                    "تام",
+                    "Tom"
                 ],
                 "John": [
                     "John",
@@ -1985,8 +2012,7 @@
                 "حال تو چطوره؟",
                 "چه خبر از {}؟"
             ]
-        },
-        "nSentences": 2252
+        }
     },
     "Polish": {
         "sentenceDataDownloadLinks": {
@@ -1995,22 +2021,23 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 40311,
         "countriesEmployedIn": [
-            "Poland",
-            "Czech_Republic",
-            "Ukraine",
-            "Hungary",
             "Lithuania",
-            "Slovakia"
+            "Ukraine",
+            "Slovakia",
+            "Poland",
+            "Hungary",
+            "Czech_Republic"
         ],
         "translations": {
             "letsGo": "Chodźmy!",
             "defaultForenames": {
                 "Tom": [
-                    "Tomem",
                     "Tomie",
-                    "Tomku",
+                    "Tomem",
                     "Tomka",
+                    "Tomku",
                     "Tomek",
                     "Tom"
                 ],
@@ -2023,11 +2050,11 @@
                     "Jan"
                 ],
                 "Mary": [
-                    "Marysia",
+                    "Marysią",
                     "Marię",
                     "Marią",
-                    "Marii",
                     "Maria",
+                    "Marii",
                     "Mary"
                 ],
                 "Alice": [
@@ -2039,8 +2066,7 @@
                 "Jak się masz {}?",
                 "Co słychać {}?"
             ]
-        },
-        "nSentences": 40311
+        }
     },
     "Portuguese": {
         "sentenceDataDownloadLinks": {
@@ -2049,16 +2075,17 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 165114,
         "countriesEmployedIn": [
-            "Portugal",
-            "Brazil",
-            "Angola",
             "Cape Verde",
+            "Portugal",
             "Mozambique",
-            "Equatorial Guinea",
             "São Tomé and Príncipe",
-            "Guinea-Bissau",
-            "East Timor"
+            "Equatorial Guinea",
+            "Angola",
+            "Brazil",
+            "East Timor",
+            "Guinea-Bissau"
         ],
         "translations": {
             "letsGo": "Vamos!",
@@ -2069,17 +2096,17 @@
                     "Tom"
                 ],
                 "John": [
-                    "João",
-                    "John"
+                    "John",
+                    "João"
                 ],
                 "Mary": [
                     "Marilyn",
                     "Marry",
                     "Maria",
                     "Marie",
+                    "Mari",
                     "Mark",
-                    "Mary",
-                    "Mari"
+                    "Mary"
                 ],
                 "Alice": [
                     "Alice"
@@ -2089,8 +2116,7 @@
                 "Como você está {}?",
                 "E aí, {}?"
             ]
-        },
-        "nSentences": 165114
+        }
     },
     "Romani": {
         "sentenceDataDownloadLinks": {
@@ -2099,6 +2125,7 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 558,
         "countriesEmployedIn": [],
         "translations": {
             "letsGo": "Sa mergem!",
@@ -2109,8 +2136,8 @@
                 ],
                 "John": [
                     "Johnes",
-                    "Ioan",
-                    "John"
+                    "John",
+                    "Ioan"
                 ],
                 "Mary": [
                     "Maria",
@@ -2122,10 +2149,9 @@
             },
             "constitutionQuery": [
                 "Ce mai faci {}?",
-                "What's up {}?"
+                "Ce-i cu {}?"
             ]
-        },
-        "nSentences": 558
+        }
     },
     "Romanian": {
         "sentenceDataDownloadLinks": {
@@ -2134,11 +2160,14 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 11605,
         "countriesEmployedIn": [
-            "Vojvodina",
             "Ukraine",
-            "Hungary",
+            "Bosnia_and_Herzegovina",
+            "Vojvodina",
             "Moldova",
+            "Serbia",
+            "Hungary",
             "Romania"
         ],
         "translations": {
@@ -2148,8 +2177,8 @@
                     "Tom"
                 ],
                 "John": [
-                    "Ioan",
-                    "John"
+                    "John",
+                    "Ioan"
                 ],
                 "Mary": [
                     "Mariei",
@@ -2162,10 +2191,9 @@
             },
             "constitutionQuery": [
                 "Ce mai faci {}?",
-                "What's up {}?"
+                "Ce-i cu {}?"
             ]
-        },
-        "nSentences": 11605
+        }
     },
     "Russian": {
         "sentenceDataDownloadLinks": {
@@ -2174,47 +2202,49 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 399919,
         "countriesEmployedIn": [
-            "Autonomous Republic of Crimea",
-            "Kyrgyzstan",
-            "Belarus",
-            "Kazakhstan",
-            "Russia",
-            "Gagauzia",
             "Ukraine",
-            "Turkmenistan",
+            "Russia",
             "Moldova",
+            "Turkmenistan",
+            "Belarus",
+            "Tajikistan",
+            "Kyrgyzstan",
+            "Kazakhstan",
             "Transnistria",
-            "Uzbekistan",
-            "Tajikistan"
+            "Gagauzia",
+            "Autonomous Republic of Crimea",
+            "Estonia",
+            "Uzbekistan"
         ],
         "translations": {
             "letsGo": "Пошли!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
-                    "Том"
+                    "Том",
+                    "Tom"
                 ],
                 "John": [
-                    "Джон",
-                    "John"
+                    "John",
+                    "Джон"
                 ],
                 "Mary": [
                     "Mary",
                     "Мэри"
                 ],
                 "Alice": [
-                    "Alice",
                     "Алиса",
-                    "Алис"
+                    "Alice",
+                    "Алис",
+                    "Элис"
                 ]
             },
             "constitutionQuery": [
-                "How are you {}?",
-                "What's up {}?"
+                "Как ты {}?",
+                "Что случилось, {}?"
             ]
-        },
-        "nSentences": 399919
+        }
     },
     "Serbian": {
         "sentenceDataDownloadLinks": {
@@ -2223,6 +2253,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 23866,
         "countriesEmployedIn": [
             "Serbia"
         ],
@@ -2230,23 +2261,23 @@
             "letsGo": "Идемо!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
+                    "Том",
                     "том",
-                    "Том"
+                    "Tom"
                 ],
                 "John": [
-                    "Јохн",
-                    "John",
-                    "Džon"
+                    "Džon",
+                    "John"
                 ],
                 "Mary": [
                     "Marij",
-                    "Мери",
                     "Мари",
                     "Meri",
-                    "Mary"
+                    "Mary",
+                    "Мери"
                 ],
                 "Alice": [
+                    "Алице",
                     "Alice"
                 ]
             },
@@ -2254,8 +2285,7 @@
                 "Како си {}",
                 "Шта има, {}?"
             ]
-        },
-        "nSentences": 23866
+        }
     },
     "Slovak": {
         "sentenceDataDownloadLinks": {
@@ -2264,40 +2294,41 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 2224,
         "countriesEmployedIn": [
-            "Poland",
+            "Slovakia",
             "Vojvodina",
-            "Czech_Republic",
+            "Poland",
             "Hungary",
-            "Slovakia"
+            "Czech_Republic"
         ],
         "translations": {
-            "letsGo": "Let's go!",
+            "letsGo": "Poďme!",
             "defaultForenames": {
                 "Tom": [
-                    "Tomáš",
+                    "Tomáša",
                     "Tomom",
                     "Tom"
                 ],
                 "John": [
-                    "John"
+                    "John",
+                    "Ján"
                 ],
                 "Mary": [
                     "Marynej",
-                    "Maryno",
+                    "Maryna",
                     "Mary"
                 ],
                 "Alice": [
-                    "Alica",
-                    "Alice"
+                    "Alice",
+                    "Alica"
                 ]
             },
             "constitutionQuery": [
                 "Ako sa máš {}?",
                 "Čo sa deje, {}?"
             ]
-        },
-        "nSentences": 2224
+        }
     },
     "Slovenian": {
         "sentenceDataDownloadLinks": {
@@ -2306,9 +2337,10 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 299,
         "countriesEmployedIn": [
-            "Italy",
             "Austria",
+            "Italy",
             "Slovenia"
         ],
         "translations": {
@@ -2333,8 +2365,7 @@
                 "Kako si {}?",
                 "Kaj je {}?"
             ]
-        },
-        "nSentences": 299
+        }
     },
     "Spanish": {
         "sentenceDataDownloadLinks": {
@@ -2343,50 +2374,50 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 124547,
         "countriesEmployedIn": [
             "Honduras",
             "Panama",
+            "Uruguay",
             "Peru",
             "Chile",
+            "Cuba",
             "Dominican Republic",
             "Nicaragua",
-            "Argentina",
-            "Venezuela",
-            "Morocco",
             "Bolivia",
-            "El Salvador",
-            "Costa Rica",
-            "Ecuador",
-            "Guatemala",
-            "Paraguay",
-            "Equatorial Guinea",
-            "Spain",
-            "Cuba",
             "Mexico",
-            "Colombia",
-            "Uruguay"
+            "Equatorial Guinea",
+            "Ecuador",
+            "Venezuela",
+            "Spain",
+            "Guatemala",
+            "El Salvador",
+            "Argentina",
+            "Paraguay",
+            "Costa Rica",
+            "Colombia"
         ],
         "translations": {
             "letsGo": "¡Vamonos!",
             "defaultForenames": {
                 "Tom": [
                     "Tomo",
-                    "Tom",
+                    "Tum",
                     "Ton",
-                    "Tum"
+                    "Tom"
                 ],
                 "John": [
-                    "John",
-                    "Juan"
+                    "Juan",
+                    "John"
                 ],
                 "Mary": [
                     "Marilyn",
                     "María",
                     "Maria",
                     "Marie",
-                    "Maru",
+                    "Mari",
                     "Mary",
-                    "Mari"
+                    "Maru"
                 ],
                 "Alice": [
                     "Alicia",
@@ -2394,11 +2425,10 @@
                 ]
             },
             "constitutionQuery": [
-                "How are you {}?",
+                "¿Cómo estás {}?",
                 "¿Qué pasa {}?"
             ]
-        },
-        "nSentences": 124547
+        }
     },
     "Swedish": {
         "sentenceDataDownloadLinks": {
@@ -2407,10 +2437,11 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 18207,
         "countriesEmployedIn": [
+            "the_Nordic_Council_2016",
             "Finland",
-            "Sweden",
-            "Nordic_Council_2016"
+            "Sweden"
         ],
         "translations": {
             "letsGo": "Nu går vi!",
@@ -2436,8 +2467,7 @@
                 "Hur mår du {}?",
                 "Vad händer {}?"
             ]
-        },
-        "nSentences": 18207
+        }
     },
     "Tagalog": {
         "sentenceDataDownloadLinks": {
@@ -2446,11 +2476,13 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 3657,
         "countriesEmployedIn": [
             "Philippines"
         ],
-        "translations": {},
-        "nSentences": 3657
+        "translations": {
+            "letsGo": "Tara!"
+        }
     },
     "Tamil": {
         "sentenceDataDownloadLinks": {
@@ -2459,13 +2491,14 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 201,
         "countriesEmployedIn": [
+            "Singapore",
             "India",
-            "Sri_Lanka",
-            "Singapore"
+            "Sri_Lanka"
         ],
         "translations": {
-            "letsGo": "Let's go!",
+            "letsGo": "போகலாம்!",
             "defaultForenames": {
                 "Tom": [
                     "டாம்",
@@ -2478,10 +2511,11 @@
                 ],
                 "Mary": [
                     "்மேரிய",
-                    "மேரி",
-                    "Mary"
+                    "Mary",
+                    "மேரி"
                 ],
                 "Alice": [
+                    "ஆலிஸ்",
                     "Alice"
                 ]
             },
@@ -2489,8 +2523,7 @@
                 "நீங்கள் எப்படி {}?",
                 "What's up {}?"
             ]
-        },
-        "nSentences": 201
+        }
     },
     "Tatar": {
         "sentenceDataDownloadLinks": {
@@ -2499,11 +2532,13 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 535,
         "countriesEmployedIn": [
             "Russia"
         ],
-        "translations": {},
-        "nSentences": 535
+        "translations": {
+            "letsGo": "Әйдәгез!"
+        }
     },
     "Telugu": {
         "sentenceDataDownloadLinks": {
@@ -2512,6 +2547,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 134,
         "countriesEmployedIn": [
             "India"
         ],
@@ -2519,6 +2555,7 @@
             "letsGo": "వెళ్దాం!",
             "defaultForenames": {
                 "Tom": [
+                    "టామ్",
                     "Tom"
                 ],
                 "John": [
@@ -2526,19 +2563,19 @@
                     "జాన్"
                 ],
                 "Mary": [
-                    "మేరీ",
-                    "Mary"
+                    "Mary",
+                    "మేరీ"
                 ],
                 "Alice": [
+                    "ఆలిస్",
                     "Alice"
                 ]
             },
             "constitutionQuery": [
-                "మీరు ఎలా ఉన్నారు టామ్?",
-                "టామ్ ఏమిటి?"
+                "మీరు ఎలా ఉన్నారు {}?",
+                "{} ఏమిటి?"
             ]
-        },
-        "nSentences": 134
+        }
     },
     "Thai": {
         "sentenceDataDownloadLinks": {
@@ -2547,15 +2584,16 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 2887,
         "countriesEmployedIn": [
             "Thailand"
         ],
         "translations": {
-            "letsGo": "Let's go!",
+            "letsGo": "ไปกันเถอะ!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
-                    "ทอม"
+                    "ทอม",
+                    "Tom"
                 ],
                 "John": [
                     "จอห์น",
@@ -2574,8 +2612,7 @@
                 "เป็นไงบ้าง{}",
                 "ว่าไง{}?"
             ]
-        },
-        "nSentences": 2887
+        }
     },
     "Turkish": {
         "sentenceDataDownloadLinks": {
@@ -2584,24 +2621,24 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 513345,
         "countriesEmployedIn": [
-            "Turkish_Republic_of_Northern_Cyprus",
+            "Turkey",
             "Cyprus",
-            "Turkey"
+            "Turkish_Republic_of_Northern_Cyprus"
         ],
         "translations": {
             "letsGo": "Hadi gidelim!",
             "defaultForenames": {
                 "Tom": [
-                    "Tomla",
                     "Tomve",
-                    "Tomas",
+                    "Tomla",
                     "Tomun",
-                    "Toma",
                     "Tomu",
-                    "Tomû",
+                    "Toma",
                     "Toom",
                     "Tomi",
+                    "Tomû",
                     "Tom",
                     "Yom",
                     "Tm"
@@ -2611,20 +2648,20 @@
                     "John"
                 ],
                 "Mary": [
+                    "Maryonu",
                     "Marynin",
                     "Marilyn",
-                    "Maryonu",
+                    "Maryyi",
                     "Meryem",
-                    "Maryye",
+                    "Meary",
+                    "Merry",
                     "Marry",
                     "Maria",
-                    "Merry",
-                    "Meary",
                     "Macy",
-                    "Mary",
                     "Mery",
-                    "May",
-                    "Mar"
+                    "Mary",
+                    "Mar",
+                    "May"
                 ],
                 "Alice": [
                     "Alice"
@@ -2634,8 +2671,7 @@
                 "Nasılsın {}?",
                 "Ne haber {}?"
             ]
-        },
-        "nSentences": 513345
+        }
     },
     "Turkmen": {
         "sentenceDataDownloadLinks": {
@@ -2644,12 +2680,12 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 3489,
         "countriesEmployedIn": [
             "Afghanistan",
             "Turkmenistan"
         ],
-        "translations": {},
-        "nSentences": 3489
+        "translations": {}
     },
     "Ukrainian": {
         "sentenceDataDownloadLinks": {
@@ -2658,36 +2694,37 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 146181,
         "countriesEmployedIn": [
             "Ukraine"
         ],
         "translations": {
-            "letsGo": "Let's go!",
+            "letsGo": "Ходімо!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
-                    "Том"
+                    "Том",
+                    "Tom"
                 ],
                 "John": [
-                    "Джон",
-                    "John"
+                    "John",
+                    "Джон"
                 ],
                 "Mary": [
-                    "Марі",
+                    "Mary",
                     "Мері",
-                    "Mary"
+                    "Марі"
                 ],
                 "Alice": [
                     "Alice",
-                    "Аліса"
+                    "Аліса",
+                    "Еліс"
                 ]
             },
             "constitutionQuery": [
                 "Як ти {}е?",
                 "Що там {}е?"
             ]
-        },
-        "nSentences": 146181
+        }
     },
     "Urdu": {
         "sentenceDataDownloadLinks": {
@@ -2696,6 +2733,7 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 1164,
         "countriesEmployedIn": [
             "Pakistan"
         ],
@@ -2703,8 +2741,8 @@
             "letsGo": "چلو!",
             "defaultForenames": {
                 "Tom": [
-                    "Tom",
-                    "ٹام"
+                    "ٹام",
+                    "Tom"
                 ],
                 "John": [
                     "John",
@@ -2720,11 +2758,10 @@
                 ]
             },
             "constitutionQuery": [
-                "آپ کیسے ہیں {}؟",
+                "How are you {}?",
                 "{} کیا ہو رہا ہے؟"
             ]
-        },
-        "nSentences": 1164
+        }
     },
     "Uyghur": {
         "sentenceDataDownloadLinks": {
@@ -2733,20 +2770,22 @@
         "properties": {
             "usesLatinScript": false
         },
+        "nSentences": 287,
         "countriesEmployedIn": [
             "China"
         ],
         "translations": {
-            "letsGo": "Let's go!",
+            "letsGo": "ماڭايلى!",
             "defaultForenames": {
                 "Tom": [
-                    "توم",
-                    "Tom"
+                    "Tom",
+                    "توم"
                 ],
                 "John": [
                     "John"
                 ],
                 "Mary": [
+                    "مارىيە",
                     "مەريەم",
                     "Mary"
                 ],
@@ -2755,11 +2794,10 @@
                 ]
             },
             "constitutionQuery": [
-                "How are you {}?",
+                "{} قانداقراق؟",
                 "{} نېمە بولدى؟"
             ]
-        },
-        "nSentences": 287
+        }
     },
     "Vietnamese": {
         "sentenceDataDownloadLinks": {
@@ -2768,11 +2806,12 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 4083,
         "countriesEmployedIn": [
             "Vietnam"
         ],
         "translations": {
-            "letsGo": "Đi nào!",
+            "letsGo": "Let's go!",
             "defaultForenames": {
                 "Tom": [
                     "Tom"
@@ -2781,8 +2820,8 @@
                     "John"
                 ],
                 "Mary": [
-                    "Maria",
                     "Marry",
+                    "Maria",
                     "Mary"
                 ],
                 "Alice": [
@@ -2793,8 +2832,7 @@
                 "How are you {}?",
                 "Chuyện gì vậy {}?"
             ]
-        },
-        "nSentences": 4083
+        }
     },
     "Waray": {
         "sentenceDataDownloadLinks": {
@@ -2803,8 +2841,19 @@
         "properties": {
             "usesLatinScript": true
         },
+        "nSentences": 1164,
         "countriesEmployedIn": [],
-        "translations": {},
-        "nSentences": 1164
+        "translations": {}
+    },
+    "Zaza": {
+        "sentenceDataDownloadLinks": {
+            "tatoebaProject": "zza-eng.zip"
+        },
+        "properties": {
+            "usesLatinScript": true
+        },
+        "nSentences": 335,
+        "countriesEmployedIn": [],
+        "translations": {}
     }
 }

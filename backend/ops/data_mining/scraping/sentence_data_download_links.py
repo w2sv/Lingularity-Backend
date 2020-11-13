@@ -15,5 +15,5 @@ def scrape() -> Dict[str, str]:
         data_link_text = data_link_text.strip('\t')
         language = data_link_text[:data_link_text.find('-')-1].split(' (')[0]
 
-        language_2_zip_link[language] = re.finditer(ZIP_LINK_PATTERN, data_link_text)[0]
+        language_2_zip_link[language] = re.findall(ZIP_LINK_PATTERN, data_link_text)[0]
     return language_2_zip_link
