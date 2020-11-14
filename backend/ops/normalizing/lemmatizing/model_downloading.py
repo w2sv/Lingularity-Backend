@@ -2,12 +2,12 @@ from typing import List
 import os
 import subprocess
 
-from backend.ops.normalizing.lemmatizing import _assemble_model_name, LANGUAGE_2_MODEL_IDENTIFIERS
+from backend.ops.normalizing.lemmatizing import _model_name, LANGUAGE_2_MODEL_IDENTIFIERS
 
 
 def model_package_links(version: str) -> List[str]:
     def package_link(language):
-        model_name = _assemble_model_name(language)
+        model_name = _model_name(language)
         return f"{model_name} @ https://github.com/explosion/spacy-models/releases/download/{model_name}-{version}/{model_name}-{version}.tar.gz"
 
     return [package_link(language) for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys()]
@@ -25,7 +25,7 @@ if __name__ == '__main__':
 
     def download_models():
         for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys():
-            subprocess.run(f'python -m spacy download {_assemble_model_name(language=language)}', shell=True)
+            subprocess.run(f'python -m spacy download {_model_name(language=language)}', shell=True)
             _install_os_dependencies_if_required(language)
 
 

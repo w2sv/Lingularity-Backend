@@ -7,9 +7,9 @@ from .normalized import (
 )
 
 
-def get_token_sentence_indices_map(language: str, load_normalizer=True) -> SegmentSentenceIndicesMap:
+def get_token_sentence_indices_map(language: str, create=False, load_normalizer=True) -> SegmentSentenceIndicesMap:
     for cls in [LemmaSentenceIndicesMap, StemSentenceIndicesMap]:
         if cls.is_available(language):  # type: ignore
-            return cls(language, load_normalizer=load_normalizer)
+            return cls(language, create=create, load_normalizer=load_normalizer)
 
-    return TokenSentenceIndicesMap(language)
+    return TokenSentenceIndicesMap(language, create=create)

@@ -1,18 +1,21 @@
 SHELL=/bin/bash
 
-# ----------Installing--------------
-
+# --------------
+# Installing
+# --------------
 install:
 	bash os-dependencies/base.sh
 
 	rm -rf env
 	conda env create -f environment.yml --prefix ./env
 
-download-spacy-models:
-	python -m backend.utils.spacy
+install-spacy-models:
+	python -m backend.ops.normalizing.lemmatizing.model_downloading
 
-# ----------Testing----------
 
+# --------------
+# Testing
+# --------------
 test: mypy pytest doctest  # run with -k flag in order to continue in case of recipe failure
 
 mypy:
@@ -27,12 +30,23 @@ doctest:
 test-metadata-mining:
 	pytest -vv tests/metadata_mining
 
-# ----------Mining--------------
+
+# --------------
+# Mining
+# --------------
+download-sentence-data:
+	python -m backend.ops.downloading.sentence_data
+
+create-token-maps:
+	python -m backend.trainers.components.mappings.token.create
 
 mine-metadata:
 	python -m backend.metadata.mine -Mine
 
-# -----------Building-------------
+
+# --------------
+# Building
+# --------------
 wheel:
 	rm -rf backend.egg-info
 	rm -rf build

@@ -28,7 +28,7 @@ def _zip_file_destination_path(language: str) -> str:
     return f'{SENTENCE_DATA_PATH}/{language}.zip'
 
 
-def _download_zip_file(language: str, zip_file_download_link: Optional[str]):
+def _download_zip_file(language: str, download_link_suffix: Optional[str]):
     HEADERS = {
         'User-Agent':
             'Mozilla/5.0 (Windows NT 6.3; WOW64) '
@@ -36,7 +36,7 @@ def _download_zip_file(language: str, zip_file_download_link: Optional[str]):
             'Chrome/47.0.2526.69 Safari/537.36'
     }
 
-    with requests.get(url=f'{SENTENCE_DATA_PAGE_URL}/{zip_file_download_link}', headers=HEADERS) as r:
+    with requests.get(url=f'{SENTENCE_DATA_PAGE_URL}/{download_link_suffix}', headers=HEADERS) as r:
         with open(_zip_file_destination_path(language), 'wb') as f:
             shutil.copyfileobj(r.raw, f)
 
@@ -68,3 +68,10 @@ def _remove_reference_appendices(sentence_data_file_path: str):
 
     with open(sentence_data_file_path, 'w', encoding='utf-8') as sentence_data_file:
         sentence_data_file.writelines(processed_sentence_data)
+
+
+if __name__ == '__main__':
+    from backend.ops.data_mining.scraping import sentence_data_download_links
+
+    for language, download_link_suffix in sentence_data_download_links.scrape().items():
+        download_sentence_data(language, download_link_suffix=download_link_suffix)

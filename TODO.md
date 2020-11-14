@@ -13,7 +13,7 @@
         - [ ] sentence data -> translation deduction
         - [ ] forename conversion
         - [ ] forename scraping
-        - [ ] deviation masks
+        - [x] deviation masks
    
 ## VOCABLE TRAINER:
     - [ ] refactor training loop
@@ -26,7 +26,7 @@
     - [ ] override lets go translation row on first streak occurrence
     - [ ] enable display of first vocable char on vocables user struggling with
     - [ ] tts output vocables no response was given to
-    - [ ] block training loop after option entrance
+    - [x] block training loop after option entrance
     - [ ] improve sentence index query
     - [ ] display rectification proposals on adding of supposedly incorrect vocables
     - [ ] enable lemma query

@@ -1,9 +1,9 @@
-from typing import *
+from typing import Tuple
 import os
 
 from tqdm import tqdm
 
-from .foundations import token_maps_foundations
+from backend.paths import TOKEN_MAPS_PATH
 from backend.metadata import language_metadata
 from backend.utils import data, string_resources
 from backend.trainers.components.sentence_data import SentenceData
@@ -16,12 +16,13 @@ from backend.trainers.components.mappings.token.occurrences import (
     TokenOccurrencesMap,
     create_token_occurrences_map
 )
+from .foundations import token_maps_foundations
 
 
 def create_token_maps(language: str) -> Tuple[SegmentSentenceIndicesMap, TokenOccurrencesMap]:
     sentence_data = SentenceData(language=language)
 
-    token_sentence_indices_map = get_token_sentence_indices_map(language=language)
+    token_sentence_indices_map = get_token_sentence_indices_map(language=language, create=True)
 
     # procure token maps foundations
     sentence_indices_map_foundation, occurrence_map_foundations = token_maps_foundations(
@@ -41,17 +42,15 @@ def create_token_maps(language: str) -> Tuple[SegmentSentenceIndicesMap, TokenOc
 
 
 def __call__():
-    SAVE_DIR = f'{os.getcwd()}/lingularity/backend/data/token-maps'
-
     for language in (progress_bar := tqdm(language_metadata.keys(), total=len(language_metadata))):
-        if language not in os.listdir(SAVE_DIR) and language != string_resources.ENGLISH:
+        if language not in os.listdir(TOKEN_MAPS_PATH) and language != string_resources.ENGLISH:
             progress_bar.set_description(f'Creating {language} maps...', refresh=True)
 
             # create maps
             token_sentence_indices_map, token_occurrences_map = create_token_maps(language=language)
 
             # create language-specific subdir
-            language_dir = f'{SAVE_DIR}/{language}'
+            language_dir = f'{TOKEN_MAPS_PATH}/{language}'
             os.mkdir(language_dir)
 
             # save maps

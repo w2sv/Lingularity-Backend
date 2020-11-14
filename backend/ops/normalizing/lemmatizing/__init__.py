@@ -7,14 +7,6 @@ from typing import Any
 import spacy
 
 
-Model = Any
-
-
-def load_model(language: str) -> Model:
-    print('Loading model...')
-    return spacy.load(_assemble_model_name(language=language))
-
-
 # ---------------
 # POS Values
 # ---------------
@@ -33,8 +25,20 @@ POS_VALUES = {
 
 
 # ---------------
-# Model Name Assembly
+# Model Name Assembly/Loading
 # ---------------
+Model = Any
+
+
+def load_model(language: str) -> Model:
+    print('Loading model...')
+    return spacy.load(_model_name(language=language))
+
+
+def _model_name(language: str, model_size='sm') -> str:
+    return f'{LANGUAGE_2_MODEL_IDENTIFIERS[language][0]}_core_{LANGUAGE_2_MODEL_IDENTIFIERS[language][1]}_{model_size}'
+
+
 _WEB, _NEWS = 'web', 'news'
 
 
@@ -55,12 +59,6 @@ LANGUAGE_2_MODEL_IDENTIFIERS = {
     'Romanian': ['ro', _NEWS],
     'Spanish': ['es', _NEWS]
 }
-
-
-def _assemble_model_name(language: str) -> str:
-    MODEL_SIZE_IDENTIFIER = 'sm'
-
-    return f'{LANGUAGE_2_MODEL_IDENTIFIERS[language][0]}_core_{LANGUAGE_2_MODEL_IDENTIFIERS[language][1]}_{MODEL_SIZE_IDENTIFIER}'
 
 
 AVAILABLE_LANGUAGES = set(LANGUAGE_2_MODEL_IDENTIFIERS.keys())
