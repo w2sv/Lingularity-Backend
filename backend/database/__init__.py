@@ -1,6 +1,7 @@
 from typing import Optional, Tuple, List, Any, Iterator, Set, Dict
 
 import pymongo
+from pymongo import errors
 
 
 from backend.utils import state_sharing, date, string_resources
@@ -23,15 +24,15 @@ def _client_endpoint(host: str, user: str, password: str) -> str:
     return f'mongodb+srv://{user}:{password}@{host}'
 
 
-def instantiate_client() -> bool:
+def instantiate_client() -> Optional[errors.PyMongoError]:
     """ Returns:
-            instantiation_success: bool """
+            instantiation_error: errors.PyMongoError in case of existence, otherwise None """
 
     try:
         MongoDBClient()
-    except (pymongo.errors.ConfigurationError, pymongo.errors.ServerSelectionTimeoutError):
-        return False
-    return True
+    except (errors.ConfigurationError, errors.ServerSelectionTimeoutError) as error:
+        return type(error)
+    return None
 
 
 class MongoDBClient(state_sharing.MonoStatePossessor):
