@@ -138,8 +138,12 @@ class TextToSpeech(state_sharing.MonoStatePossessor):
             self._mongodb_client.set_playback_speed(self._language_variety, self._playback_speed)
 
     @staticmethod
-    def is_valid_playback_speed(playback_speed: float) -> bool:
-        return 0.1 < playback_speed < 3
+    def is_valid_playback_speed(playback_speed_input: str) -> bool:
+        try:
+            return 0.1 <= float(playback_speed_input) <= 3
+
+        except ValueError:
+            return False
 
     # -----------------
     # Usage
