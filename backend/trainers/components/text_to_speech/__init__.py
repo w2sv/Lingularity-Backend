@@ -140,7 +140,7 @@ class TextToSpeech(state_sharing.MonoStatePossessor):
     @staticmethod
     def is_valid_playback_speed(playback_speed_input: str) -> bool:
         try:
-            return 0.1 <= float(playback_speed_input) <= 3
+            return 0.5 <= float(playback_speed_input) <= 2
 
         except ValueError:
             return False
