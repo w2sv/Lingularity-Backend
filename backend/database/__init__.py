@@ -24,19 +24,19 @@ def _client_endpoint(host: str, user: str, password: str) -> str:
     return f'mongodb+srv://{user}:{password}@{host}'
 
 
-def instantiate_client() -> Optional[errors.PyMongoError]:
+def instantiate_client(server_selection_timeout: float = 1_000) -> Optional[errors.PyMongoError]:
     """ Returns:
             instantiation_error: errors.PyMongoError in case of existence, otherwise None """
 
     try:
-        MongoDBClient()
+        MongoDBClient(server_selection_timeout=server_selection_timeout).assert_connection()
     except (errors.ConfigurationError, errors.ServerSelectionTimeoutError) as error:
         return type(error)
     return None
 
 
 class MongoDBClient(state_sharing.MonoStatePossessor):
-    def __init__(self):
+    def __init__(self, server_selection_timeout: float):
         super().__init__()
 
         self._user: Optional[str] = None
@@ -47,8 +47,14 @@ class MongoDBClient(state_sharing.MonoStatePossessor):
                 host='cluster0.zthtl.mongodb.net/admin?retryWrites=true&w=majority',
                 user='sickdude69',
                 password='clusterpassword'),
-            serverSelectionTimeoutMS=1_000
+            serverSelectionTimeoutMS=server_selection_timeout
         )
+
+    def assert_connection(self):
+        """ Triggers errors.ServerSelectionTimeoutError in case of its
+            foundation being present """
+
+        self.query_password('janek')
 
     @property
     def user(self) -> Optional[str]:
