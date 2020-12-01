@@ -222,6 +222,16 @@ class MongoDBClient(state_sharing.MonoStatePossessor):
 
         return self.user_data_base['training_chronic']
 
+    def insert_dummy_entry(self, language: str):
+        """ In order to persist language after selection however without having
+            actually conducted any training actions on it yet """
+
+        self.training_chronic_collection.update_one(
+            filter={'_id': language},
+            update={'$set': {f'{str(date.today)}': None}},
+            upsert=True
+        )
+
     def query_languages(self) -> List[str]:
         return self._get_ids(self.training_chronic_collection)
 
