@@ -1,9 +1,9 @@
 # PROGRESS DOCUMENTATION
 
-- [x] enable modification of last vocabulary file appension
+- [x] enable modification of latest created vocable entry
 - [x] only keep the last 5 shown sentences on screen
 - [x] upload user data (vocabulary, vocabulary statistics, trainer usage data) to global data base
-- [x] welcome translation after __call__
+- [x] welcome translation after program initialization
 - [x] enhancement of mode selection screen
 - [x] mode/language specific dynamic occurrence frequency limits
 - [x] related word inference elaboration by means of word family data and some kind of english infinitiv deduction model/dataset

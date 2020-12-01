@@ -1,19 +1,24 @@
 # TODO
 
 ## GENERIC:
-    - [x] clean up options
+    - [ ] alter SentenceData datastructure such being indexable mapping 
+            of english sentence -> translation manners
+    - [ ] set up jenkins pipeline, docker system tests
     - [ ] do something about repetitive entering of 'to' when adding 
           english verb meanings
     - [ ] incentivise entering of noun with article if applicable,
           entering of adjectives in consistent gender flection
+    - [x] clean up options
 
     - write impending tests:
         - [ ] token maps
         - [ ] sentence index query
         - [ ] sentence data -> translation deduction
-        - [ ] forename conversion
-        - [ ] forename scraping
+        - [x] forename conversion
+        - [x] forename scraping
         - [x] deviation masks
+    - [] abort remaining metadata related issues regarding
+            forename conversion/constitution query etc.
    
 ## VOCABLE TRAINER:
     - [ ] refactor training loop
@@ -40,6 +45,8 @@
         - [ ] random old vocables
 
 ## SENTENCE TRAINER:
+    - [ ] enable input and correction of sentences if desired  
+
     - SET UP MODES:
         - tenses:
             - [ ] simple past
