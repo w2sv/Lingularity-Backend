@@ -22,3 +22,4 @@ logging.txt
 # Build
 /build/
 /backend.egg-info/
+/dist/
