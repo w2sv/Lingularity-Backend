@@ -6,11 +6,12 @@ from typing import Any
 
 import spacy
 
+from spacy_models import model_name
+
 
 # ---------------
 # POS Values
 # ---------------
-from backend.spacy_models import model_name
 
 
 class PosValue(Enum):

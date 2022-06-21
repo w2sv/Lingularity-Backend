@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-from backend.ops.normalizing.lemmatizing.model_downloading import model_package_links as spacy_model_package_links
+from model_downloading import model_package_links
 
 version = {}
 exec(open(Path(__file__).parent /'backend/version.py').read(), version)
@@ -22,7 +22,7 @@ setup(
         'textacy==0.10.1',
         'spacy',
         'aenum',
-    ] + spacy_model_package_links(version='2.3.0'),
+    ] + model_package_links(version='2.3.0'),
     include_package_data=True,
     author='W2SV',
     author_email='zangenbergjanek@googlemail.com',

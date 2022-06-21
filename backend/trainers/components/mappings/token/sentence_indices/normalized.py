@@ -4,7 +4,7 @@ from abc import ABC, abstractmethod
 import nltk
 from spacy.tokens import Token
 
-import backend.spacy_models
+import spacy_models
 from backend.utils import strings
 from backend.ops.normalizing import lemmatizing
 from backend.trainers.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
@@ -60,7 +60,7 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
 
     @staticmethod
     def is_available(language: str) -> bool:
-        return language in backend.spacy_models.LANGUAGE_2_MODEL_IDENTIFIERS.keys()
+        return language in spacy_models.LANGUAGE_2_MODEL_IDENTIFIERS.keys()
 
     def __init__(self, language: str, create=False, load_normalizer=True):
         """ Args:

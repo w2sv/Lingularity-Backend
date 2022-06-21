@@ -2,7 +2,7 @@ from typing import List
 import os
 import subprocess
 
-from backend.spacy_models import LANGUAGE_2_MODEL_IDENTIFIERS, model_name
+from spacy_models import LANGUAGE_2_MODEL_IDENTIFIERS, model_name
 
 
 def model_package_links(version: str) -> List[str]:
