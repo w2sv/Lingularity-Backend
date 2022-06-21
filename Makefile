@@ -7,7 +7,7 @@ install:
 	bash os-dependencies/base.sh
 
 	rm -rf env
-	conda env create -f environment.yml --prefix ./env
+	mamba env create -f environment.yml --prefix ./env
 
 install-spacy-models:
 	python -m backend.ops.normalizing.lemmatizing.model_downloading

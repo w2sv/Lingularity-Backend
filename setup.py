@@ -1,11 +1,10 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-from backend.ops.normalizing.lemmatizing.model_downloading import model_package_links as spacy_model_package_links, ADDITIONAL_DEPENDENCIES
+from backend.ops.normalizing.lemmatizing.model_downloading import model_package_links as spacy_model_package_links
 
 version = {}
 exec(open(Path(__file__).parent /'backend/version.py').read(), version)
-
 
 setup(
     name='backend',
