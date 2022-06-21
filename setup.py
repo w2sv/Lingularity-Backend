@@ -3,6 +3,7 @@ from pathlib import Path
 
 from model_downloading import model_package_links
 
+
 version = {}
 exec(open(Path(__file__).parent /'backend/version.py').read(), version)
 

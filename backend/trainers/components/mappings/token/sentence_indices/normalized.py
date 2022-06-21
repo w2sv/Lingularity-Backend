@@ -4,7 +4,7 @@ from abc import ABC, abstractmethod
 import nltk
 from spacy.tokens import Token
 
-import spacy_models
+from backend.ops.normalizing.lemmatizing import spacy_models
 from backend.utils import strings
 from backend.ops.normalizing import lemmatizing
 from backend.trainers.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap

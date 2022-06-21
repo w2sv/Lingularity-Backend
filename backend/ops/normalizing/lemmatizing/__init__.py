@@ -6,7 +6,7 @@ from typing import Any
 
 import spacy
 
-from spacy_models import model_name
+from backend.ops.normalizing.lemmatizing.spacy_models import model_name
 
 
 # ---------------
