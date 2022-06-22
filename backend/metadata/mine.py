@@ -9,7 +9,7 @@ from textacy.similarity import levenshtein
 
 import backend.utils.strings.modification
 from backend.paths import META_DATA_PATH
-from backend.utils import data, string_resources
+from backend.utils import io, string_resources
 from backend.trainers.components import SentenceData
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
 from backend.metadata.types import LanguageMetadata, CountryMetadata
@@ -48,7 +48,7 @@ def _mine_metadata():
         language_sub_dict['sentenceDataDownloadLinks']['tatoebaProject'] = download_link
 
         # set generic properties
-        download_sentence_data(language, download_link_suffix=download_link)
+        download_sentence_data(language, download_url_suffix=download_link)
         sentence_data = SentenceData(language)
 
         language_sub_dict['properties'] = {}

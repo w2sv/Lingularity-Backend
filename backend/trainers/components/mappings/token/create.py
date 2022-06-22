@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 from backend.paths import TOKEN_MAPS_PATH
 from backend.metadata import language_metadata
-from backend.utils import data, string_resources
+from backend.utils import io, string_resources
 from backend.trainers.components.sentence_data import SentenceData
 from backend.trainers.components.mappings.token.sentence_indices import (
     get_token_sentence_indices_map,

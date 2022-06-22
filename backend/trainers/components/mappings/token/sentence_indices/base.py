@@ -15,7 +15,7 @@ class SegmentSentenceIndicesMap(defaultdict, CustomMapping, ABC):
           unique, LOWERCASE and RELEVANT tokens (unnormalized/normalized): str
                 to the
           sentence indices corresponding to the bilateral sentence data in
-          which they occur, in either an inflected form (NormalizedTokenMaps)
+          which they occur, in either_or an inflected form (NormalizedTokenMaps)
           or as they are(TokenSentenceIndicesMap): List[int] """
 
     _Type = Dict[str, List[int]]

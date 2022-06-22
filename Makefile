@@ -4,7 +4,7 @@ SHELL=/bin/bash
 # Installing
 # --------------
 install:
-	bash os-dependencies/base.sh
+	bash os-dependencies/install-linux-dependencies.sh
 
 	rm -rf env
 	mamba env create -f environment.yml --prefix ./env
@@ -12,6 +12,17 @@ install:
 install-spacy-models:
 	python -m backend.ops.normalizing.lemmatizing.model_downloading
 
+# --------------
+# Mining
+# --------------
+download-sentence-data:
+	python -m backend.ops.data_mining.downloading.sentence_data
+
+create-token-maps:
+	python -m backend.trainers.components.mappings.token.create
+
+mine-metadata:
+	python -m backend.metadata.mine -Mine
 
 # --------------
 # Testing
@@ -29,20 +40,6 @@ doctest:
 
 test-metadata-mining:
 	pytest -vv tests/metadata_mining
-
-
-# --------------
-# Mining
-# --------------
-download-sentence-data:
-	python -m backend.ops.downloading.sentence_data
-
-create-token-maps:
-	python -m backend.trainers.components.mappings.token.create
-
-mine-metadata:
-	python -m backend.metadata.mine -Mine
-
 
 # --------------
 # Building

@@ -3,7 +3,7 @@ import random
 import logging
 
 from ..paths import META_DATA_PATH
-from backend.utils.data import load_json
+from backend.utils.io import load_json
 from .types import (
     SubstitutionForenamesMap,
     LanguageMetadata,

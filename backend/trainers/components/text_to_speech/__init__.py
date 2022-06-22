@@ -4,7 +4,7 @@ import os
 
 import vlc
 
-from backend.utils import either, time as time_utils, state_sharing
+from backend.utils import either_or, time as time_utils, state_sharing
 from backend.database import MongoDBClient
 from backend.ops.google.text_to_speech import GoogleTextToSpeech
 
@@ -90,7 +90,7 @@ class TextToSpeech(state_sharing.MonoStatePossessor):
                 previously stored enablement corresponding to language if existent,
                 otherwise default of True """
 
-        return either(self._mongodb_client.query_tts_enablement(), True)
+        return either_or(self._mongodb_client.query_tts_enablement(), True)
 
     @property
     def enabled(self) -> bool:

@@ -10,7 +10,7 @@ from . import (
 )
 
 
-def either(value: Optional[Any], default: Any) -> Any:
+def either_or(value: Optional[Any], default: Any) -> Any:
     """ Returns:
             value if != None, else default """
 

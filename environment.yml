@@ -12,6 +12,8 @@ dependencies:
   - unidecode=1.1.1
   - nltk=3.4.5
   - pymongo=3.9.0
+  - tqdm
+  - requests
   - pip:
     - bs4==0.0.1  # dev
     - dnspython
@@ -19,8 +21,8 @@ dependencies:
     - cryptography==3.1  # one application
     - gTTS  # dev
     - googletrans  # dev
-    - textacy==0.10.1
+    - textacy
     - spacy
     - aenum  # one application
     - coverage  # dev
-    - pyinstaller  # dev
+    - pyzipper

@@ -106,7 +106,7 @@ def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_star
                 if len(response) < len(ground_truth):
                     checks = list(reversed(checks))
 
-                # recurse and return if either of the checks successful
+                # recurse and return if either_or of the checks successful
                 for check in checks:
                     if (yield from check()):
                         return response_mask_start_offset
