@@ -1,3 +1,4 @@
+from pathlib import Path
 from typing import Any, Dict, Iterator, List, Optional, Set, Tuple
 
 from monostate import MonoStateOwner
@@ -10,7 +11,7 @@ from .document_types import (
     TrainingChronic,
     VocableData
 )
-
+from backend.utils.io import load_config
 
 # TODO: change vocable data keywords in database, user collection names
 
@@ -24,7 +25,7 @@ def _client_endpoint(host: str, user: str, password: str) -> str:
     return f'mongodb+srv://{user}:{password}@{host}'
 
 
-def instantiate_database_client(server_selection_timeout: float = 1_000) -> Optional[errors.PyMongoError]:
+def instantiate_database_client(server_selection_timeout=1_000) -> Optional[errors.PyMongoError]:
     """ Returns:
             instantiation_error: errors.PyMongoError in case of existence, otherwise None """
 
@@ -36,17 +37,21 @@ def instantiate_database_client(server_selection_timeout: float = 1_000) -> Opti
 
 
 class MongoDBClient(MonoStateOwner):
-    def __init__(self, server_selection_timeout: float):
+    def __init__(self, server_selection_timeout=1_000):
         super().__init__()
 
         self._user: Optional[str] = None
         self._language: Optional[str] = None
 
+        credentials = load_config(Path.cwd() / 'mongodb-credentials.ini')
+        section = 'DEFAULT'
+
         self._cluster: pymongo.MongoClient = pymongo.MongoClient(
             _client_endpoint(
-                host='cluster0.zthtl.mongodb.net/admin?retryWrites=true&w=majority',
-                user='sickdude69',
-                password='clusterpassword'),
+                host=credentials[section]['host'],
+                user=credentials[section]['user'],
+                password=credentials[section]['password']
+            ),
             serverSelectionTimeoutMS=server_selection_timeout
         )
 

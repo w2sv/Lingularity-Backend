@@ -57,7 +57,7 @@ class ForenameConvertor:
     def __call__(self, sentence_pair: List[str]) -> List[str]:
 
         # invert order of sentence pair in order to line indices up with those of
-        # replacement forenames, default forename translations in case of English training
+        # replacement forenames, fallback forename translations in case of English training
         if self._train_english:
             return list(reversed(self._convert_sentence_pair(reversed(sentence_pair))))
         else:
@@ -65,7 +65,7 @@ class ForenameConvertor:
 
     def _convert_sentence_pair(self, sentence_pair: Iterable[str]) -> List[str]:
         forename_index_blacklist: List[Optional[int]] = [None, None]  # for prevention of usage of same replacement
-        # forename for two different default forenames of same gender
+        # forename for two different fallback forenames of same gender
 
         sentence_pair_fragments: List[List[str]] = [sentence.split(' ') for sentence in sentence_pair]
 
@@ -103,7 +103,7 @@ class ForenameConvertor:
     def _contained_default_forename_pairs_with_gender(self, sentence_pair_fragments: List[List[str]]) -> Iterator[Tuple[Tuple[str, str], bool]]:
         """ Returns:
                 Iterator of
-                    default forename pairs contained in sentence pair fragments: Tuple[str, str]
+                    fallback forename pairs contained in sentence pair fragments: Tuple[str, str]
                         first of which is the english forename, second the corresponding foreign language translation_field
                     with corresponding is_female_forename flag: bool
 

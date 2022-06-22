@@ -3,14 +3,13 @@ from typing import Any, Optional
 from . import (
     date,
     iterables,
-    module_interfacing,
     strings,
     time
 )
 
 
-def either_or(value: Optional[Any], default: Any) -> Any:
+def either_or(value: Optional[Any], fallback: Any) -> Any:
     """ Returns:
-            value if != None, else default """
+            value if != None, else fallback """
 
-    return [value, default][value is None]
+    return [value, fallback][value is None]

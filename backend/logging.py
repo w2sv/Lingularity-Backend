@@ -6,7 +6,7 @@ def enable_backend_logging(file_path: str):
     handler = logging.FileHandler(file_path, encoding='utf-8')
     handler.setFormatter(logging.Formatter(f'{_now_until_seconds()}:Backend:%(message)s'))
 
-    logger = logging.getLogger('default')
+    logger = logging.getLogger('fallback')
     logger.addHandler(handler)
     logger.setLevel(level=logging.INFO)
 
@@ -16,5 +16,5 @@ def _now_until_seconds() -> str:
 
 
 def log(msg: str):
-    logger = logging.getLogger('default')
+    logger = logging.getLogger('fallback')
     logger.info(msg=msg)

@@ -89,7 +89,7 @@ class TextToSpeech:
     def _get_enablement(self) -> bool:
         """ Returns:
                 previously stored enablement corresponding to language if existent,
-                otherwise default of True """
+                otherwise fallback of True """
 
         return either_or(self._mongodb_client.query_tts_enablement(), True)
 
@@ -119,7 +119,7 @@ class TextToSpeech:
     def _get_playback_speed(self, language_variety: Optional[str]) -> float:
         """" Returns:
                 previously stored playback speed corresponding to language_variety if existent
-                    otherwise default of 1.0 """
+                    otherwise fallback of 1.0 """
 
         if language_variety is not None and (stored_playback_speed := self._mongodb_client.query_playback_speed(language_variety)) is not None:
             return stored_playback_speed

@@ -1,7 +1,13 @@
+from configparser import ConfigParser
 import json
+import os.path
+from pathlib import Path
 import pickle
 import sys
-from typing import Any, Dict
+from typing import Any, Dict, TypeVar
+
+
+PathLike = TypeVar("PathLike", str, Path, None)
 
 
 def write_json(data: Dict[Any, Any], file_path: str):
@@ -25,3 +31,12 @@ def write_pickle(data: Any, file_path: str):
 
 def load_pickle(file_path: str) -> Any:
     return pickle.load(open(file_path, 'rb'))
+
+
+def load_config(file_path: PathLike) -> ConfigParser:
+    if not os.path.exists(file_path):
+        raise ValueError(f'{file_path} does not exist')
+
+    config = ConfigParser()
+    config.read(file_path)
+    return config

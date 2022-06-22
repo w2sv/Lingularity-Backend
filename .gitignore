@@ -22,3 +22,5 @@ logging.txt
 /build/
 /backend.egg-info/
 /dist/
+
+/mongodb-credentials.ini
