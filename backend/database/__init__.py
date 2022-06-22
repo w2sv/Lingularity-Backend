@@ -25,7 +25,7 @@ def _client_endpoint(host: str, user: str, password: str) -> str:
     return f'mongodb+srv://{user}:{password}@{host}'
 
 
-def instantiate_client(server_selection_timeout: float = 1_000) -> Optional[errors.PyMongoError]:
+def instantiate_database_client(server_selection_timeout: float = 1_000) -> Optional[errors.PyMongoError]:
     """ Returns:
             instantiation_error: errors.PyMongoError in case of existence, otherwise None """
 

@@ -33,7 +33,8 @@ def _mine_metadata():
     print(language_2_download_link)
 
     # add English data
-    language_metadata[string_resources.ENGLISH] = data.load_json(f'{META_DATA_PATH}/correction/language')[string_resources.ENGLISH]
+    language_metadata[string_resources.ENGLISH] = io.load_json(f'{META_DATA_PATH}/correction/language')[
+        string_resources.ENGLISH]
     for country in language_metadata[string_resources.ENGLISH]['countriesEmployedIn']:
         print(country)
         _mine_and_set_forenames(country)
@@ -129,7 +130,7 @@ def _get_default_forename_translations(sentence_data: SentenceData, language: st
 
 
 def _correct_metadata(metadata: Union[LanguageMetadata, CountryMetadata], file_name: str):
-    correction_data = data.load_json(f'{META_DATA_PATH}/correction/{file_name}')
+    correction_data = io.load_json(f'{META_DATA_PATH}/correction/{file_name}')
     for meta_key, sub_dict in correction_data.items():
         for sub_key, value in sub_dict.items():
             if isinstance(value, collections.abc.Mapping):
@@ -159,5 +160,5 @@ if __name__ == '__main__':
     # correct country data
     _correct_metadata(country_metadata, 'country')
 
-    data.write_json(language_metadata, file_path=f'{META_DATA_PATH}/language')
-    data.write_json(country_metadata, file_path=f'{META_DATA_PATH}/country')
+    io.write_json(language_metadata, file_path=f'{META_DATA_PATH}/language')
+    io.write_json(country_metadata, file_path=f'{META_DATA_PATH}/country')
