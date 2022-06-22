@@ -1,6 +1,6 @@
 from typing import Callable
 
-from backend.trainers.components import SentenceData
+from backend.components import SentenceData
 from . import diction_expansion, random, simple
 
 

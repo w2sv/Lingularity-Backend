@@ -1,4 +1,4 @@
-from backend.trainers.components import SentenceData
+from backend.components import SentenceData
 
 
 def filter_sentence_data(sentence_data: SentenceData, language: str) -> SentenceData:

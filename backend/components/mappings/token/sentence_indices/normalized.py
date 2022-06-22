@@ -6,7 +6,7 @@ from spacy.tokens import Token
 
 from backend.ops.normalizing import lemmatizing
 from backend.ops.normalizing.lemmatizing import spacy_models
-from backend.trainers.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
+from backend.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
 from backend.utils import strings
 
 

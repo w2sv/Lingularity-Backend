@@ -1,8 +1,8 @@
 from collections import defaultdict
 from typing import *
 
-from backend.trainers.components import SentenceData
-from backend.trainers.components.mappings.token import (get_token_maps, SegmentSentenceIndicesMap, TokenOccurrencesMap)
+from backend.components import SentenceData
+from backend.components.mappings.token import (get_token_maps, SegmentSentenceIndicesMap, TokenOccurrencesMap)
 from backend.utils import iterables
 
 

@@ -5,7 +5,7 @@ from typing import *
 import numpy as np
 from tqdm import tqdm
 
-from backend.trainers.components.mappings.base import _display_creation_kickoff_message, CustomMapping
+from backend.components.mappings.base import _display_creation_kickoff_message, CustomMapping
 
 
 ParaphrasesTokens = List[List[str]]

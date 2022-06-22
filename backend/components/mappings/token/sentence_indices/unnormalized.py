@@ -1,6 +1,6 @@
 from typing import List, Optional
 
-from backend.trainers.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
+from backend.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
 from backend.utils.strings import get_meaningful_tokens
 
 

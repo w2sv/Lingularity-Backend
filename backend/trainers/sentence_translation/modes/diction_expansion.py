@@ -1,8 +1,8 @@
 from itertools import chain
 from typing import *
 
-from backend.trainers.components import SentenceData
-from backend.trainers.components.mappings.token import get_token_maps
+from backend.components import SentenceData
+from backend.components.mappings.token import get_token_maps
 
 
 def filter_sentence_data(sentence_data: SentenceData, language: str) -> SentenceData:

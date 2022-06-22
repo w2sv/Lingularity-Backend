@@ -6,6 +6,7 @@ from typing import Set
 from backend.ops.google import GoogleOp
 from backend.ops.google.text_to_speech import gtts
 from backend.utils import io, strings
+from backend.utils.io import PathLike
 
 
 _IDENTIFIER_DATA_FILE_PATH: str = f'{os.path.dirname(__file__)}/identifiers'
@@ -24,7 +25,7 @@ class GoogleTextToSpeech(GoogleOp):
                 f" -H 'User-Agent: stagefright/1.2 (Linux;Android 5.0)' > "
                 f"{save_path}", stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, shell=True)
 
-    def get_audio(self, text: str, language: str, save_path: str):
+    def get_audio(self, text: str, language: str, save_path: PathLike):
         language_identifier = self._get_identifier(language)
         assert language_identifier is not None
 

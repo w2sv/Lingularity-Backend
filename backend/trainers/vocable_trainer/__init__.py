@@ -5,8 +5,8 @@ from typing import Dict, Iterator, List, Sequence, Tuple
 import numpy as np
 
 from backend.trainers.base import TrainerBackend
-from backend.trainers.components import get_token_sentence_indices_map, SegmentSentenceIndicesMap, SentenceData
-from backend.trainers.components.vocable_entry import VocableData, VocableEntry
+from backend.components import get_token_sentence_indices_map, SegmentSentenceIndicesMap, SentenceData
+from backend.components import VocableData, VocableEntry
 from .deviation_masks import deviation_masks
 from .response_evaluation import get_response_evaluation, ResponseEvaluation
 

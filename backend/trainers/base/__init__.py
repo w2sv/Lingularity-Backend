@@ -4,7 +4,7 @@ from typing import Any, Iterator, Optional, Sequence, Union
 import numpy as np
 
 from backend.database import MongoDBClient
-from backend.trainers.components import ForenameConvertor, SentenceData
+from backend.components import ForenameConvertor, SentenceData
 from backend.utils import string_resources
 
 

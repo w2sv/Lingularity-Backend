@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 import time
 from typing import List, Optional
 
@@ -12,13 +13,13 @@ from backend.utils import either_or, time as time_utils
 _google_tts = GoogleTextToSpeech()
 
 
+_AUDIO_FILE_DIR = Path('~/.cache/lingularity')
+_AUDIO_FILE_DIR.mkdir(exist_ok=True)
+
+
 class TextToSpeech:
-    _AUDIO_FILE_DEPOSIT_DIR = f'{os.path.dirname(__file__)}/file_deposit'
 
     def __init__(self, language: str):
-        if not os.path.exists(self._AUDIO_FILE_DEPOSIT_DIR):
-            os.mkdir(self._AUDIO_FILE_DEPOSIT_DIR)
-
         super().__init__()
 
         self._mongodb_client: MongoDBClient = MongoDBClient.instance()
@@ -142,7 +143,6 @@ class TextToSpeech:
     def is_valid_playback_speed(playback_speed_input: str) -> bool:
         try:
             return 0.5 <= float(playback_speed_input) <= 2
-
         except ValueError:
             return False
 
@@ -169,7 +169,7 @@ class TextToSpeech:
     def download_audio_file(self, text: str):
         assert self._language_variety is not None
 
-        audio_file_path = f'{self._AUDIO_FILE_DEPOSIT_DIR}/{time_utils.get_timestamp()}.mp3'
+        audio_file_path = _AUDIO_FILE_DIR/f'{time_utils.get_timestamp()}.mp3'
         _google_tts.get_audio(text, self._language_variety, save_path=audio_file_path)
 
         self._audio_file_path = audio_file_path
@@ -210,5 +210,5 @@ class TextToSpeech:
     def __del__(self):
         """ Triggers deletion of all audio files on object destruction """
 
-        for audio_file in os.listdir(self._AUDIO_FILE_DEPOSIT_DIR):
-            os.remove(f'{self._AUDIO_FILE_DEPOSIT_DIR}/{audio_file}')
+        for audio_file in _AUDIO_FILE_DIR.iterdir():
+            audio_file.unlink()

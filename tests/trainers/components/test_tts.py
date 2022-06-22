@@ -1,4 +1,4 @@
-from backend.trainers.components.text_to_speech import TextToSpeech
+from backend.components.text_to_speech import TextToSpeech
 
 
 def test_text_to_speech():

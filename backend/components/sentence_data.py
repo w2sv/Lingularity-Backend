@@ -7,7 +7,7 @@ from textacy.similarity import levenshtein
 from tqdm import tqdm
 
 from backend.paths import sentence_data_path
-from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
+from backend.components.forename_conversion import DEFAULT_FORENAMES
 from backend.utils import iterables
 from backend.utils.strings import (
     continuous_substrings,
