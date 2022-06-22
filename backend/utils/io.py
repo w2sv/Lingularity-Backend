@@ -3,11 +3,10 @@ import json
 import os.path
 from pathlib import Path
 import pickle
-import sys
 from typing import Any, Dict, TypeVar
 
 
-PathLike = TypeVar("PathLike", str, Path, None)
+PathLike = TypeVar("PathLike", str, Path)
 
 
 def write_json(data: Dict[Any, Any], file_path: str):
@@ -16,10 +15,6 @@ def write_json(data: Dict[Any, Any], file_path: str):
 
 
 def load_json(file_path: str):
-    # abort loading when triggered during mining commencement
-    if '-Mine' in sys.argv and 'correction' not in file_path:
-        return {}
-
     with open(f'{file_path}.json', 'r', encoding='utf-8') as read_file:
         return json.load(read_file)
 
