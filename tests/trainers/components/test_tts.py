@@ -1,7 +1,10 @@
+from backend import MongoDBClient
 from backend.trainers.components.text_to_speech import TextToSpeech
 
 
 def test_text_to_speech():
+    MongoDBClient(1000)
+
     tts = TextToSpeech('Italian')
 
     tts.download_audio_file(text='Z!')

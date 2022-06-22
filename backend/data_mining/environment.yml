@@ -1,7 +1,0 @@
-name: backend
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - pyzipper
-  - bs4==0.0.1

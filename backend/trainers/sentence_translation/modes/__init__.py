@@ -1,13 +1,7 @@
 from typing import Callable
 
 from backend.trainers.components import SentenceData
-from backend.utils.module_interfacing import abstractmodulemethod
 from . import diction_expansion, random, simple
-
-
-@abstractmodulemethod()
-def filter_sentence_data():
-    pass
 
 
 SentenceDataFilter = Callable[[SentenceData, str], SentenceData]

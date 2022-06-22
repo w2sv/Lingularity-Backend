@@ -103,7 +103,6 @@ def _bilaterally_present_strings(
     ('Spanish', True),
     ('Croatian', True),
     ('Japanese', False),
-    ('Chinese', False),
     ('Russian', False),
     ('Arabic', False),
     ('Serbian', False)
@@ -113,7 +112,6 @@ def test_employs_latin_script(language, expected):
 
 
 @pytest.mark.parametrize('language,tokens,expected', [
-    ('Chinese', ['Tom', 'Mary'], False),
     ('German', ["c'est-à-dire"], False),
     ('French', ['Tom', 'Mary'], True),
     ('Italian', ['faccia', 'prigione', 'abbraccerà'], True),
@@ -129,7 +127,6 @@ def test_comprises_tokens(language, tokens, expected):
 @pytest.mark.parametrize('language,expected', [
     ('French', [['Tom', 'Toma', 'Tomas', 'Tome'], ['Jean', 'John'], ['Maria', 'Marion', 'Mary'], ['Alice']]),
     ('Danish', [['Rom', 'Thomas', 'Toms'], ['John', 'Johns'], ['Maria', 'Mary', 'Marys'], ['Alices']]),
-    ('Chinese', [['Tom', 'tom', '汤姆', '湯姆'], ['John比我大两岁'], ['Mary', '玛丽', '瑪莉', '瑪麗'], []]),
     ('Japanese', [['トム', '彼は'], ['ジョン'], ['メアリー'], []]),
     ('Basque', [['Tomek', 'Tomem', 'Tomen', 'Tomeri', 'Tomi'], ['Johnekin'], ['Maria', 'Marik', 'Mary', 'Maryk', 'Maryri'], []])
 ])

@@ -7,7 +7,7 @@ class SentenceTranslationTrainerBackend(TrainerBackend):
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 
-        TextToSpeech(self.language)
+        self.tts = TextToSpeech(self.language)
         self._sentence_data_filter: modes.SentenceDataFilter = None  # type: ignore
 
     @property

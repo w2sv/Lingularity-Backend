@@ -2,7 +2,6 @@ import os
 import time
 from typing import List, Optional
 
-from monostate import MonoStateOwner
 import vlc
 
 from backend.database import MongoDBClient
@@ -10,10 +9,10 @@ from backend.ops.google.text_to_speech import GoogleTextToSpeech
 from backend.utils import either_or, time as time_utils
 
 
-google_tts = GoogleTextToSpeech()
+_google_tts = GoogleTextToSpeech()
 
 
-class TextToSpeech(MonoStateOwner):
+class TextToSpeech:
     _AUDIO_FILE_DEPOSIT_DIR = f'{os.path.dirname(__file__)}/file_deposit'
 
     def __init__(self, language: str):
@@ -24,7 +23,7 @@ class TextToSpeech(MonoStateOwner):
 
         self._mongodb_client: MongoDBClient = MongoDBClient.instance()
 
-        self.language_variety_choices: Optional[List[str]] = google_tts.get_variety_choices(language)
+        self.language_variety_choices: Optional[List[str]] = _google_tts.get_variety_choices(language)
         self._language_variety: Optional[str] = self._get_language_variety(language)
 
         if self.available:
@@ -37,6 +36,7 @@ class TextToSpeech(MonoStateOwner):
     def available(self) -> bool:
         return any([self.language_variety_choices, self._language_variety])
 
+    @property
     def employ(self) -> bool:
         return self.available and self.enabled
 
@@ -51,7 +51,7 @@ class TextToSpeech(MonoStateOwner):
                     None if not """
 
         if self.language_variety_choices is None:
-            return [None, language][google_tts.available_for(language)]
+            return [None, language][_google_tts.available_for(language)]
 
         return self._mongodb_client.query_language_variety()
 
@@ -170,7 +170,7 @@ class TextToSpeech(MonoStateOwner):
         assert self._language_variety is not None
 
         audio_file_path = f'{self._AUDIO_FILE_DEPOSIT_DIR}/{time_utils.get_timestamp()}.mp3'
-        google_tts.get_audio(text, self._language_variety, save_path=audio_file_path)
+        _google_tts.get_audio(text, self._language_variety, save_path=audio_file_path)
 
         self._audio_file_path = audio_file_path
 
@@ -191,28 +191,24 @@ class TextToSpeech(MonoStateOwner):
     def play_audio(self):
         """ Suspends program for playback duration, deletes audio file subsequently """
 
-        player = vlc.MediaPlayer(self.audio_file)
-        player.set_rate(self._playback_speed)
-        player.play()
+        if self.audio_file is not None:
+            player = vlc.MediaPlayer(self.audio_file)
+            player.set_rate(self._playback_speed)
+            player.play()
 
+            self._suspend_program_for_play_duration()
+
+            del self.audio_file
+
+    def _suspend_program_for_play_duration(self):
         start_time = time.time()
 
         playback_duration = self._playback_duration()
         while time.time() - start_time < playback_duration:
-            # TODO: let function break on enter stroke by employing threading
             pass
-
-        del self.audio_file
 
     def __del__(self):
         """ Triggers deletion of all audio files on object destruction """
 
         for audio_file in os.listdir(self._AUDIO_FILE_DEPOSIT_DIR):
             os.remove(f'{self._AUDIO_FILE_DEPOSIT_DIR}/{audio_file}')
-
-
-if __name__ == '__main__':
-    tts = TextToSpeech('Italian')
-
-    tts.download_audio_file('Il peggiore')
-    tts.play_audio()
