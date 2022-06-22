@@ -25,5 +25,4 @@ dependencies:
     - aenum  # one application
     - coverage  # dev
     - monostate
-    - types-six  # dev
     - types-requests  # dev

@@ -24,7 +24,8 @@ setup(
         'textacy',
         'spacy',
         'aenum',
-        'monostate'
+        'monostate',
+        'gtts'
     ] + model_package_links(version='2.3.0'),
     include_package_data=True,
     author='W2SV',

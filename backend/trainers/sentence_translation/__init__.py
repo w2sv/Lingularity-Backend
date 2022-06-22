@@ -1,5 +1,5 @@
 from backend.trainers.base import TrainerBackend
-from backend.components.text_to_speech import TextToSpeech
+from backend.components.text_to_speech import TTSClient
 from backend.trainers.sentence_translation import modes
 
 
@@ -7,7 +7,7 @@ class SentenceTranslationTrainerBackend(TrainerBackend):
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 
-        self.tts = TextToSpeech(self.language)
+        self.tts = TTSClient(self.language)
         self._sentence_data_filter: modes.SentenceDataFilter = None  # type: ignore
 
     @property

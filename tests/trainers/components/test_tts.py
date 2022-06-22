@@ -1,8 +1,8 @@
-from backend.components.text_to_speech import TextToSpeech
+from backend.components.text_to_speech import TTSClient
 
 
 def test_text_to_speech():
-    tts = TextToSpeech('Italian')
+    tts = TTSClient('Italian')
 
     tts.download_audio_file(text='Z!')
     tts.download_audio_file(text='Z!')

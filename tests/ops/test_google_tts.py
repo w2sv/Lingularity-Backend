@@ -1,9 +1,13 @@
+from pathlib import Path
+
 import pytest
 
-from backend.ops.google.text_to_speech import GoogleTextToSpeech
+from backend.ops.google.text_to_speech import GoogleTTSClient
 
 
-google_tts = GoogleTextToSpeech()
+@pytest.fixture(scope='module')
+def google_tts_client() -> GoogleTTSClient:
+    return GoogleTTSClient()
 
 
 @pytest.mark.parametrize('language,variety_choices', [
@@ -14,8 +18,8 @@ google_tts = GoogleTextToSpeech()
     ('Portuguese', ["Portuguese (Brazil)", "Portuguese (Portugal)"]),
     ('Croatian', None)
 ])
-def test_variety_choices(language, variety_choices):
-    assert google_tts.get_variety_choices(language) == variety_choices
+def test_variety_choices(language, variety_choices, google_tts_client):
+    assert google_tts_client.get_variety_choices(language) == variety_choices
 
 
 @pytest.mark.parametrize('language,identifier', [
@@ -26,9 +30,25 @@ def test_variety_choices(language, variety_choices):
     ('Vietnamese', 'vi'),
     ('Esperanto', 'eo')
 ])
-def test_get_language_identifier(language, identifier):
-    assert google_tts._get_identifier(language) == identifier
+def test_get_language_identifier(language, identifier, google_tts_client):
+    assert google_tts_client._get_identifier(language) == identifier
 
 
-def test_available_for():
-    assert google_tts.available_for('Khmer') is True
+def test_available_for(google_tts_client):
+    assert google_tts_client.available_for('Khmer') is True
+
+
+_temp_file_path = Path(__file__).parent/'temp.mp3'
+
+
+def test_get_audio(google_tts_client):
+    google_tts_client.get_audio('Mamma mia!', language='Italian', save_path=_temp_file_path)
+
+    assert _temp_file_path.exists()
+    assert _temp_file_path.stat().st_size != 0
+
+
+@pytest.fixture(autouse=True)
+def cleanup():
+    yield
+    _temp_file_path.unlink(missing_ok=True)

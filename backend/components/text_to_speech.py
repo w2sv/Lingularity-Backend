@@ -6,19 +6,19 @@ from typing import List, Optional
 import vlc
 
 from backend.database import MongoDBClient
-from backend.ops.google.text_to_speech import GoogleTextToSpeech
+from backend.ops.google.text_to_speech import GoogleTTSClient
 from backend.utils import either_or, time as time_utils
+from backend.utils.io import PathLike
 
 
-_google_tts = GoogleTextToSpeech()
+_google_tts = GoogleTTSClient()
 
 
 _AUDIO_FILE_DIR = Path('~/.cache/lingularity')
 _AUDIO_FILE_DIR.mkdir(exist_ok=True)
 
 
-class TextToSpeech:
-
+class TTSClient:
     def __init__(self, language: str):
         super().__init__()
 
@@ -31,7 +31,7 @@ class TextToSpeech:
             self._playback_speed: float = self._get_playback_speed(self._language_variety)
             self._enabled: bool = self._get_enablement()
 
-        self._audio_file_path: Optional[str] = None
+        self._audio_file_path: Optional[PathLike] = None
 
     @property
     def available(self) -> bool:
@@ -169,7 +169,7 @@ class TextToSpeech:
     def download_audio_file(self, text: str):
         assert self._language_variety is not None
 
-        audio_file_path = _AUDIO_FILE_DIR/f'{time_utils.get_timestamp()}.mp3'
+        audio_file_path = _AUDIO_FILE_DIR / f'{time_utils.get_timestamp()}.mp3'
         _google_tts.get_audio(text, self._language_variety, save_path=audio_file_path)
 
         self._audio_file_path = audio_file_path
