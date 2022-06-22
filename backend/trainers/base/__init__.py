@@ -1,4 +1,4 @@
-from typing import Optional, Iterator, Any, Sequence
+from typing import Optional, Iterator, Any, Sequence, Union
 from abc import ABC, abstractmethod
 
 import numpy as np
@@ -8,12 +8,15 @@ from backend.database import MongoDBClient
 from backend.trainers.components import ForenameConvertor, SentenceData
 
 
+_TrainingItems = Union[np.ndarray, Sequence]
+
+
 class TrainerBackend(ABC):
     def __init__(self, non_english_language: str, train_english: bool):
         self._non_english_language = non_english_language
         self._train_english = train_english
 
-        self.mongodb_client = MongoDBClient.get_instance()
+        self.mongodb_client = MongoDBClient.instance()
         self.mongodb_client.language = self.language
 
         self._item_iterator: Iterator[Any]
@@ -38,14 +41,14 @@ class TrainerBackend(ABC):
         """ Sets item iterator, n training items """
         pass
 
-    def _set_item_iterator(self, training_items: Sequence[Any]):
-        self.n_training_items = len(training_items)
-        self._item_iterator = self._get_item_iterator(training_items)
+    def _set_item_iterator(self, items: _TrainingItems):
+        self.n_training_items = len(items)
+        self._item_iterator = self._get_item_iterator(items)
 
     @staticmethod
-    def _get_item_iterator(item_list: Sequence[Any]) -> Iterator[Any]:
-        np.random.shuffle(item_list)
-        return iter(item_list)
+    def _get_item_iterator(items: _TrainingItems) -> Iterator:
+        np.random.shuffle(items)
+        return iter(items)
 
     def _get_sentence_data(self) -> SentenceData:
         return SentenceData(self._non_english_language, self._train_english)

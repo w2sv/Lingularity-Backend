@@ -4,7 +4,6 @@ from . import (
     date,
     iterables,
     module_interfacing,
-    state_sharing,
     strings,
     time
 )

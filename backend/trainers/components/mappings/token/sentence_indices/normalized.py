@@ -44,7 +44,7 @@ class StemSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
     def tokenize(self, sentence: str) -> List[str]:
         return self._normalize(self._tokenize(sentence))
 
-    def _tokenize(self, text: str) -> List[str]:
+    def _tokenize(self, text: str) -> List[str]:  # type: ignore
         return strings.get_meaningful_tokens(text=text, apostrophe_splitting=True)
 
     def _normalize(self, tokens: List[str]) -> List[str]:
@@ -80,13 +80,13 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
     def tokenize(self, sentence: str) -> List[str]:
         return self._normalize(self._filter_tokens(self._tokenize(sentence)))
 
-    def _normalize(self, tokens: List[Token]) -> List[str]:
+    def _normalize(self, tokens: List[Token]) -> List[str]:  # type: ignore
         return [token.lemma_ for token in tokens]
 
     def _filter_tokens(self, tokens: List[Token]) -> List[Token]:
         return list(filter(lambda token: token.pos_ not in self._IGNORE_POS_TYPES, tokens))
 
-    def _tokenize(self, text: str) -> List[Token]:
+    def _tokenize(self, text: str) -> List[Token]:  # type: ignore
         return self._model(text)
 
     # ------------------

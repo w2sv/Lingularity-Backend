@@ -25,4 +25,4 @@ class SentenceTranslationTrainerBackend(TrainerBackend):
         # get mode filtered sentence data
         filtered_sentence_data = self._sentence_data_filter(sentence_data, self._non_english_language)
 
-        self._set_item_iterator(training_items=filtered_sentence_data)
+        self._set_item_iterator(items=filtered_sentence_data)

@@ -2,9 +2,10 @@ from typing import Optional, Tuple, List, Any, Iterator, Set, Dict
 
 import pymongo
 from pymongo import errors
+from monostate import MonoStateOwner
 
 
-from backend.utils import state_sharing, date, string_resources
+from backend.utils import date, string_resources
 from .document_types import (
     LastSessionStatistics,
     TrainingChronic,
@@ -35,7 +36,7 @@ def instantiate_client(server_selection_timeout: float = 1_000) -> Optional[erro
     return None
 
 
-class MongoDBClient(state_sharing.MonoStatePossessor):
+class MongoDBClient(MonoStateOwner):
     def __init__(self, server_selection_timeout: float):
         super().__init__()
 

@@ -1,7 +1,8 @@
 from typing import Iterator, List, Generator, Tuple
 from itertools import zip_longest, islice, starmap, chain, repeat
 
-from backend.utils import iterables, generators
+from backend.utils import iterables
+from backend.utils.generators import return_value_capturing_generator
 
 
 _DeviationMask = Iterator[bool]
@@ -26,7 +27,7 @@ def deviation_masks(response: str, ground_truth: str) -> Iterator[_DeviationMask
 _IthCharMask = Tuple[bool, bool]
 
 
-@generators.return_value_captor
+@return_value_capturing_generator
 def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_start_offset=0) -> Generator[_IthCharMask, None, int]:
     """ Yields:
             ZippedCharMasks, one of which is a mask of 2 boolean values

@@ -7,7 +7,7 @@ from tests.utils import instantiate_database
 
 
 def get_vocable_entries() -> List[VocableEntry]:
-    return list(starmap(VocableEntry, MongoDBClient.get_instance().query_vocabulary()))
+    return list(starmap(VocableEntry, MongoDBClient.instance().query_vocabulary()))
 
 
 def test_find_paraphrases():

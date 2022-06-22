@@ -1,18 +1,18 @@
-from typing import Set
+from itertools import chain
 import os
 import subprocess
-from itertools import chain
+from typing import Set
 
-from backend.utils import io, strings
 from backend.ops.google import GoogleOp
 from backend.ops.google.text_to_speech import gtts
+from backend.utils import io, strings
 
 
 _IDENTIFIER_DATA_FILE_PATH: str = f'{os.path.dirname(__file__)}/identifiers'
 
 
 class GoogleTextToSpeech(GoogleOp):
-    _LANGUAGE_2_IDENTIFIER = {**data.load_json(_IDENTIFIER_DATA_FILE_PATH), 'Burmese': 'my'}
+    _LANGUAGE_2_IDENTIFIER = {**io.load_json(_IDENTIFIER_DATA_FILE_PATH), 'Burmese': 'my'}
 
     def get_audio_curled(self, text: str, language: str, save_path: str):
         subprocess.call(

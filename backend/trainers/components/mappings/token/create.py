@@ -1,21 +1,18 @@
-from typing import Tuple
 import os
+from typing import Tuple
 
 from tqdm import tqdm
 
-from backend.paths import TOKEN_MAPS_PATH
 from backend.metadata import language_metadata
-from backend.utils import io, string_resources
-from backend.trainers.components.sentence_data import SentenceData
+from backend.paths import TOKEN_MAPS_PATH
+from backend.trainers.components.mappings.token.occurrences import (create_token_occurrences_map, TokenOccurrencesMap)
 from backend.trainers.components.mappings.token.sentence_indices import (
     get_token_sentence_indices_map,
     LemmaSentenceIndicesMap,
     SegmentSentenceIndicesMap
 )
-from backend.trainers.components.mappings.token.occurrences import (
-    TokenOccurrencesMap,
-    create_token_occurrences_map
-)
+from backend.trainers.components.sentence_data import SentenceData
+from backend.utils import io, string_resources
 from .foundations import token_maps_foundations
 
 
@@ -54,8 +51,8 @@ def __call__():
             os.mkdir(language_dir)
 
             # save maps
-            data.write_pickle(token_sentence_indices_map.data, file_path=f'{language_dir}/sentence-indices-map')
-            data.write_pickle(token_occurrences_map.data, file_path=f'{language_dir}/occurrences-map')
+            io.write_pickle(token_sentence_indices_map.data, file_path=f'{language_dir}/sentence-indices-map')
+            io.write_pickle(token_occurrences_map.data, file_path=f'{language_dir}/occurrences-map')
 
 
 if __name__ == '__main__':

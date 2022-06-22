@@ -26,3 +26,6 @@ dependencies:
     - aenum  # one application
     - coverage  # dev
     - pyzipper
+    - monostate
+    - types-six  # dev
+    - types-requests  # dev

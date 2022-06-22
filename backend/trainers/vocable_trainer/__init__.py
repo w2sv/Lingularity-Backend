@@ -64,9 +64,9 @@ class VocableTrainerBackend(TrainerBackend):
         if (sentence_indices := self._token_2_sentence_indices.query_sentence_indices(entry)) is None:
             return []
 
-        sentence_indices = np.asarray(sentence_indices)
-        np.random.shuffle(sentence_indices)
+        nd_sentence_indices = np.asarray(sentence_indices)
+        np.random.shuffle(nd_sentence_indices)
 
-        assert sentence_indices is not None
+        assert nd_sentence_indices is not None
 
-        return self._sentence_data[sentence_indices[:n]]
+        return self._sentence_data[nd_sentence_indices[:n]]

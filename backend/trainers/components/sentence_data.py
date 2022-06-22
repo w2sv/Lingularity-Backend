@@ -183,8 +183,8 @@ class SentenceData(np.ndarray):
         proper_nouns: Set[str] = set()
         for non_lowercase_sentence_pair_tokens in uppercase_sentence_pair_tokens_list:
             bilaterally_present_tokens = filter(lambda token: len(token) > 1, iterables.intersection(non_lowercase_sentence_pair_tokens))
-            bilaterally_present_tokens = map(lambda token: token.lower(), bilaterally_present_tokens)
-            proper_nouns.update(filter(lambda token: token not in lowercase_english_tokens or token not in lowercase_foreign_language_tokens, bilaterally_present_tokens))
+            lowered_bilaterally_present_tokens = map(lambda token: token.lower(), bilaterally_present_tokens)
+            proper_nouns.update(filter(lambda token: token not in lowercase_english_tokens or token not in lowercase_foreign_language_tokens, lowered_bilaterally_present_tokens))
 
         return proper_nouns
 

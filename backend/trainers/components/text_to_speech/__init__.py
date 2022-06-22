@@ -1,18 +1,19 @@
-from typing import Optional, List
-import time
 import os
+import time
+from typing import List, Optional
 
+from monostate import MonoStateOwner
 import vlc
 
-from backend.utils import either_or, time as time_utils, state_sharing
 from backend.database import MongoDBClient
 from backend.ops.google.text_to_speech import GoogleTextToSpeech
+from backend.utils import either_or, time as time_utils
 
 
 google_tts = GoogleTextToSpeech()
 
 
-class TextToSpeech(state_sharing.MonoStatePossessor):
+class TextToSpeech(MonoStateOwner):
     _AUDIO_FILE_DEPOSIT_DIR = f'{os.path.dirname(__file__)}/file_deposit'
 
     def __init__(self, language: str):
@@ -21,7 +22,7 @@ class TextToSpeech(state_sharing.MonoStatePossessor):
 
         super().__init__()
 
-        self._mongodb_client: MongoDBClient = MongoDBClient.get_instance()
+        self._mongodb_client: MongoDBClient = MongoDBClient.instance()
 
         self.language_variety_choices: Optional[List[str]] = google_tts.get_variety_choices(language)
         self._language_variety: Optional[str] = self._get_language_variety(language)
