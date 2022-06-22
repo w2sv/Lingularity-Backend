@@ -1,5 +1,5 @@
-from typing import Optional, Dict
 from functools import cached_property
+from typing import Dict, Optional
 
 from backend.database.document_types import VocableData
 from backend.utils.date import n_days_ago

@@ -38,7 +38,7 @@ def create_token_maps(language: str) -> Tuple[SegmentSentenceIndicesMap, TokenOc
     return token_sentence_indices_map, token_occurrences_map
 
 
-def __call__():
+if __name__ == '__main__':
     for language in (progress_bar := tqdm(language_metadata.keys(), total=len(language_metadata))):
         if language not in os.listdir(TOKEN_MAPS_PATH) and language != string_resources.ENGLISH:
             progress_bar.set_description(f'Creating {language} maps...', refresh=True)
@@ -53,7 +53,3 @@ def __call__():
             # save maps
             io.write_pickle(token_sentence_indices_map.data, file_path=f'{language_dir}/sentence-indices-map')
             io.write_pickle(token_occurrences_map.data, file_path=f'{language_dir}/occurrences-map')
-
-
-if __name__ == '__main__':
-    __call__()

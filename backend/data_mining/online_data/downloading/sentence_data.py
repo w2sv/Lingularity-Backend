@@ -1,12 +1,12 @@
-from typing import Optional, Dict
 import os
+from typing import Dict, Optional
 import warnings
 
+from backend.data_mining.data_mining import SENTENCE_DATA_DOWNLOAD_PAGE_URL
 import pyzipper
 import requests
 
 from backend.paths import SENTENCE_DATA_PATH, sentence_data_path
-from backend.ops.data_mining import SENTENCE_DATA_PAGE_URL
 
 
 warnings.filterwarnings('ignore')
@@ -46,7 +46,7 @@ def _download_zip_file(language: str, download_link_suffix: Optional[str]) -> st
     zip_file_path = _zip_file_path(language)
 
     _download_url(
-        url=f'{SENTENCE_DATA_PAGE_URL}{download_link_suffix}',
+        url=f'{SENTENCE_DATA_DOWNLOAD_PAGE_URL}{download_link_suffix}',
         save_path=zip_file_path,
         headers={
             'User-Agent':
@@ -98,7 +98,7 @@ def _remove_reference_appendices(sentence_data_file_path: str):
 
 
 if __name__ == '__main__':
-    from backend.ops.data_mining.scraping import sentence_data_download_links
+    from backend.data_mining.online_data.scraping import sentence_data_download_links
     from tqdm import tqdm
 
     language_2_download_link_suffix = sentence_data_download_links.scrape()

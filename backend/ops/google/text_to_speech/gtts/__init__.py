@@ -1,8 +1,8 @@
 """ Optimized version of https://github.com/pndurette/gTTS/blob/master/gtts/tts.py """
 
+import requests
 from six.moves import urllib
 import urllib3
-import requests
 
 from backend.ops.google.text_to_speech.gtts import _token
 

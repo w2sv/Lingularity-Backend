@@ -1,4 +1,4 @@
-from typing import List, Optional, Dict, DefaultDict
+from typing import DefaultDict, Dict, List, Optional
 
 from mypy_extensions import TypedDict
 

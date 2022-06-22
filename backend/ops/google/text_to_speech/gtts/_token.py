@@ -3,12 +3,13 @@
 """ Refactored version of the google text-to-speech token generation algorithm by Boudewijn26
 to be found at https://github.com/Boudewijn26/gTTS-token/blob/master/gtts_token/gtts_token.py """
 
-from typing import Optional
 import calendar
 import math
-import time
-import requests
 import re
+import time
+from typing import Optional
+
+import requests
 
 from backend.logging import log
 

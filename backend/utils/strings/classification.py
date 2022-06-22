@@ -1,4 +1,4 @@
-from backend.utils.strings import modification, extraction
+from backend.utils.strings import extraction, modification
 from backend.utils.strings._utils import _APOSTROPHES
 
 

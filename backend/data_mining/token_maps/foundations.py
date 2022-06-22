@@ -1,17 +1,17 @@
-from typing import *
 from collections import defaultdict
+from typing import *
 
 from tqdm import tqdm
 
-from backend.utils import iterables, strings
-from backend.trainers.components.sentence_data import SentenceData
 from backend.trainers.components.mappings.base import _display_creation_kickoff_message
-from backend.trainers.components.mappings.token.sentence_indices.base import SentenceIndex2UniqueTokens
 from backend.trainers.components.mappings.token.occurrences import (
-    ParaphrasesTokensList,
-    ParaphrasesTokens,
     ParaphrasesPOSTagsList,
+    ParaphrasesTokens,
+    ParaphrasesTokensList
 )
+from backend.trainers.components.mappings.token.sentence_indices.base import SentenceIndex2UniqueTokens
+from backend.trainers.components.sentence_data import SentenceData
+from backend.utils import iterables, strings
 
 
 def token_maps_foundations(

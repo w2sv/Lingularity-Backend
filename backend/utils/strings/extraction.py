@@ -1,5 +1,5 @@
-from typing import Optional, List, Set, Iterable
 import re
+from typing import Iterable, List, Optional, Set
 
 from backend.utils import iterables
 from backend.utils.strings import classification, modification, substrings

@@ -1,5 +1,4 @@
-from backend.trainers.sentence_translation import SentenceTranslationTrainerBackend
-from backend.trainers.sentence_translation import modes
+from backend.trainers.sentence_translation import modes, SentenceTranslationTrainerBackend
 
 
 def test_sentence_translation_trainer():

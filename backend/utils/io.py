@@ -1,7 +1,7 @@
-from typing import Any, Dict
-import sys
 import json
 import pickle
+import sys
+from typing import Any, Dict
 
 
 def write_json(data: Dict[Any, Any], file_path: str):

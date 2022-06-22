@@ -1,15 +1,10 @@
-from typing import Optional, List
-import random
 import logging
+import random
+from typing import List, Optional
 
-from ..paths import META_DATA_PATH
 from backend.utils.io import load_json
-from .types import (
-    SubstitutionForenamesMap,
-    LanguageMetadata,
-    CountryMetadata,
-    DefaultForenamesTranslations
-)
+from .types import (CountryMetadata, DefaultForenamesTranslations, LanguageMetadata, SubstitutionForenamesMap)
+from ..paths import META_DATA_PATH
 
 
 language_metadata: LanguageMetadata = load_json(f'{META_DATA_PATH}/language')

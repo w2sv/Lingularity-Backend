@@ -1,14 +1,14 @@
-from typing import Optional, List, Iterator, Tuple, Iterable
-import random
 from collections.abc import Mapping
+import random
+from typing import Iterable, Iterator, List, Optional, Tuple
 
-from backend.utils import string_resources, strings
 from backend.metadata import (
-    SubstitutionForenamesMap,
+    data_beset_countries_language_employed_in,
     get_substitution_forenames_map,
     language_metadata,
-    data_beset_countries_language_employed_in
+    SubstitutionForenamesMap
 )
+from backend.utils import string_resources, strings
 
 
 DEFAULT_FORENAMES = ('Tom', 'John', 'Mary', 'Alice')  # _DEFAULT_SURNAME = 'Jackson'

@@ -1,11 +1,11 @@
-from typing import Optional, Iterator, Any, Sequence, Union
 from abc import ABC, abstractmethod
+from typing import Any, Iterator, Optional, Sequence, Union
 
 import numpy as np
 
-from backend.utils import string_resources
 from backend.database import MongoDBClient
 from backend.trainers.components import ForenameConvertor, SentenceData
+from backend.utils import string_resources
 
 
 _TrainingItems = Union[np.ndarray, Sequence]

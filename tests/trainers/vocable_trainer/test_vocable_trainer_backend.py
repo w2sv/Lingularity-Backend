@@ -1,9 +1,8 @@
-from typing import List
 from itertools import starmap
+from typing import List
 
 from backend.database import MongoDBClient
-from backend.trainers.vocable_trainer import VocableTrainerBackend, VocableEntry
-from tests.utils import instantiate_database
+from backend.trainers.vocable_trainer import VocableEntry, VocableTrainerBackend
 
 
 def get_vocable_entries() -> List[VocableEntry]:

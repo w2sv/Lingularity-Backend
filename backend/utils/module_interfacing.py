@@ -1,7 +1,7 @@
-from typing import List, Optional, Callable, Any, Iterator, Tuple
-import sys
 from functools import partial
+import sys
 from types import ModuleType
+from typing import Any, Callable, Iterator, List, Optional, Tuple
 
 
 def abstractmodulemethod(ignore_modules: Optional[List[str]] = None):

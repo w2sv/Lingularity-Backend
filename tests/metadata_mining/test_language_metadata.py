@@ -1,5 +1,5 @@
+from backend.data_mining.online_data.scraping import sentence_data_download_links
 from backend.metadata import language_metadata
-from backend.ops.data_mining.scraping import sentence_data_download_links
 
 
 def test_download_link_currency():

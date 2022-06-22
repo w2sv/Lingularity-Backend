@@ -1,11 +1,11 @@
-from typing import *
 import collections
 from functools import cached_property
+from typing import *
 
 import numpy as np
 from tqdm import tqdm
 
-from backend.trainers.components.mappings.base import CustomMapping, _display_creation_kickoff_message
+from backend.trainers.components.mappings.base import _display_creation_kickoff_message, CustomMapping
 
 
 ParaphrasesTokens = List[List[str]]

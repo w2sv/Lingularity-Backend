@@ -1,7 +1,7 @@
 """ https://spacy.io/models """
 
 
-from enum import Enum, auto
+from enum import auto, Enum
 from typing import Any
 
 import spacy

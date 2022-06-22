@@ -1,26 +1,21 @@
 # type: ignore
 
-from typing import Dict, Union, List
 import collections
 from functools import partial
+from typing import Dict, List, Union
 
-from tqdm import tqdm
 from textacy.similarity import levenshtein
+from tqdm import tqdm
 
-import backend.utils.strings.modification
+from backend.data_mining.online_data.downloading.sentence_data import download_sentence_data
+from backend.data_mining.online_data.scraping import countries, demonym, forenames, sentence_data_download_links
+from backend.metadata.types import CountryMetadata, LanguageMetadata
+from backend.ops.google.translation import GoogleTranslator
 from backend.paths import META_DATA_PATH
-from backend.utils import io, string_resources
 from backend.trainers.components import SentenceData
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
-from backend.metadata.types import LanguageMetadata, CountryMetadata
-from backend.ops.google.translation import GoogleTranslator
-from backend.ops.data_mining.downloading.sentence_data import download_sentence_data
-from backend.ops.data_mining.scraping import (
-    forenames,
-    demonym,
-    countries,
-    sentence_data_download_links
-)
+from backend.utils import io, string_resources
+import backend.utils.strings.modification
 
 
 language_metadata: LanguageMetadata = collections.defaultdict(lambda: {})
@@ -133,7 +128,7 @@ def _correct_metadata(metadata: Union[LanguageMetadata, CountryMetadata], file_n
     correction_data = io.load_json(f'{META_DATA_PATH}/correction/{file_name}')
     for meta_key, sub_dict in correction_data.items():
         for sub_key, value in sub_dict.items():
-            if isinstance(value, collections.abc.Mapping):
+            if isinstance(value, collections.Mapping):
                 metadata[meta_key][sub_key] = {**(metadata[meta_key][sub_key] or {}), **value}
             else:
                 metadata[meta_key][sub_key] = value

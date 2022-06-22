@@ -1,7 +1,6 @@
-from backend.database import MongoDBClient, instantiate_database_client
-
-from backend.utils import string_resources
+from backend.database import instantiate_database_client, MongoDBClient
 from backend.metadata import language_metadata
+from backend.utils import string_resources
 
 
 __version__ = '0.1.3'

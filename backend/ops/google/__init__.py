@@ -4,8 +4,8 @@
              German -> de
              French -> fr """
 
-from typing import Optional, Dict, List
 from abc import ABC
+from typing import Dict, List, Optional
 
 
 class GoogleOp(ABC):

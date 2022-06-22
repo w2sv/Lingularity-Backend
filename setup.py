@@ -14,6 +14,7 @@ setup(
     python_requires='>=3.8',
     install_requires=[
         'numpy',
+        'tqdm',
         'unidecode==1.1.1',
         'nltk==3.4.5',
         'pymongo==3.9.0',

@@ -2,7 +2,7 @@ from typing import Callable
 
 from backend.trainers.components import SentenceData
 from backend.utils.module_interfacing import abstractmodulemethod
-from . import random, simple, diction_expansion
+from . import diction_expansion, random, simple
 
 
 @abstractmodulemethod()

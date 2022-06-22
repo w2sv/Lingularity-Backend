@@ -1,4 +1,4 @@
-from typing import Callable, Iterator, Any, Optional
+from typing import Any, Callable, Iterator, Optional
 
 
 def return_value_capturing_generator(generator: Callable[..., Iterator[Any]]):

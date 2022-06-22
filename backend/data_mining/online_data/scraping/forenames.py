@@ -1,4 +1,4 @@
-from typing import Optional, List
+from typing import List, Optional
 
 from backend.utils.strings.modification import strip_multiple
 from ._utils import read_page_source

@@ -1,5 +1,5 @@
 import re
-from typing import Optional, List, Set
+from typing import List, Optional, Set
 
 from ._utils import read_page_source
 
@@ -28,8 +28,7 @@ def _rectify_country_names(country_list: List[str]) -> Set[str]:
 
 
 def scrape(language: str) -> Optional[Set[str]]:
-    """
-        Args:
+    """ Args:
             language: uppercase """
 
     language_page_url = f'http://en.wikipedia.org/wiki/{language}_language'

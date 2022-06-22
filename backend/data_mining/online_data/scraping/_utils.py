@@ -1,6 +1,5 @@
-import requests
-
 from bs4 import BeautifulSoup
+import requests
 
 
 def read_page_source(page_url: str) -> BeautifulSoup:

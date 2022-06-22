@@ -1,5 +1,5 @@
-from typing import Iterable, Iterator, Optional
 from itertools import chain
+from typing import Iterable, Iterator, Optional
 
 from backend.utils import iterables
 

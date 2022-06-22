@@ -1,9 +1,8 @@
-from typing import Optional, Tuple, List, Any, Iterator, Set, Dict
+from typing import Any, Dict, Iterator, List, Optional, Set, Tuple
 
+from monostate import MonoStateOwner
 import pymongo
 from pymongo import errors
-from monostate import MonoStateOwner
-
 
 from backend.utils import date, string_resources
 from .document_types import (

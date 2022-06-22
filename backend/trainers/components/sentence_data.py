@@ -1,22 +1,22 @@
-from typing import Optional, List, Set, Callable, Iterable, Counter, Iterator, Tuple
-from functools import cached_property
 import collections
+from functools import cached_property
+from typing import Callable, Counter, Iterable, Iterator, List, Optional, Set, Tuple
 
-from tqdm import tqdm
 import numpy as np
 from textacy.similarity import levenshtein
+from tqdm import tqdm
 
 from backend.paths import sentence_data_path
 from backend.trainers.components.forename_conversion import DEFAULT_FORENAMES
 from backend.utils import iterables
 from backend.utils.strings import (
+    continuous_substrings,
+    find_quoted_text,
     get_unique_meaningful_tokens,
     is_of_latin_script,
-    continuous_substrings,
-    longest_continuous_partial_overlap,
-    find_quoted_text
+    longest_continuous_partial_overlap
 )
-from backend.utils.strings.modification import strip_multiple, strip_unicode, strip_special_characters
+from backend.utils.strings.modification import strip_multiple, strip_special_characters, strip_unicode
 
 
 class SentenceData(np.ndarray):
@@ -286,7 +286,6 @@ class SentenceData(np.ndarray):
 
 
 if __name__ == '__main__':
-    from time import time
 
     # t1 = time()
     # translations = SentenceData('Russian').deduce_forename_translations()

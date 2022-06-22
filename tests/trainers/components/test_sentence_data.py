@@ -1,13 +1,13 @@
+import os
+import random
 from typing import List
 
 import pytest
-import os
-import random
 
-import backend.utils.strings.modification
 from backend.paths import SENTENCE_DATA_PATH
-from backend.utils import strings
 from backend.trainers.base import SentenceData
+from backend.utils import strings
+import backend.utils.strings.modification
 
 
 # ----------------

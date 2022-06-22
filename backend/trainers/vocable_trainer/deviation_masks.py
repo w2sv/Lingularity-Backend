@@ -1,5 +1,5 @@
-from typing import Iterator, List, Generator, Tuple
-from itertools import zip_longest, islice, starmap, chain, repeat
+from itertools import chain, islice, repeat, starmap, zip_longest
+from typing import Generator, Iterator, List, Tuple
 
 from backend.utils import iterables
 from backend.utils.generators import return_value_capturing_generator

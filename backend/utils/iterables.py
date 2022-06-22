@@ -1,5 +1,5 @@
-from typing import Set, Iterable, Any, List, Tuple, Sequence
-from itertools import tee, islice, zip_longest
+from itertools import islice, tee, zip_longest
+from typing import Any, Iterable, List, Sequence, Set, Tuple
 
 
 def none_stripped(iterable: Iterable[Any]) -> List[Any]:

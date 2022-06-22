@@ -1,5 +1,5 @@
-import unicodedata
 from typing import Iterable
+import unicodedata
 
 from backend.utils.strings import classification
 from backend.utils.strings._utils import _APOSTROPHES, _DASHES

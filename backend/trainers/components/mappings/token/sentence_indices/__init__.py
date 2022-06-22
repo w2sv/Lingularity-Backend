@@ -1,10 +1,6 @@
 from .base import SegmentSentenceIndicesMap
+from .normalized import (LemmaSentenceIndicesMap, NormalizedTokenSentenceIndicesMap, StemSentenceIndicesMap)
 from .unnormalized import TokenSentenceIndicesMap
-from .normalized import (
-    NormalizedTokenSentenceIndicesMap,
-    StemSentenceIndicesMap,
-    LemmaSentenceIndicesMap
-)
 
 
 def get_token_sentence_indices_map(language: str, create=False, load_normalizer=True) -> SegmentSentenceIndicesMap:

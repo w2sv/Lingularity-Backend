@@ -1,5 +1,5 @@
-from typing import Optional
 from itertools import islice
+from typing import Optional
 
 from bs4 import BeautifulSoup
 from textacy.similarity import levenshtein

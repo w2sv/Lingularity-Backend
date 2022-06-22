@@ -1,21 +1,21 @@
-from .substrings import continuous_substrings, start_including_substrings
-from .classification import is_of_latin_script, contains_article, is_digit_free, contains_unicode
+from .classification import contains_article, contains_unicode, is_digit_free, is_of_latin_script
 from .extraction import (
-    get_article_stripped_noun,
-    longest_continuous_partial_overlap,
-    substring_occurrence_positions,
-    get_unique_meaningful_tokens,
-    get_meaningful_tokens,
     common_start,
-    split_multiple,
+    find_quoted_text,
+    get_article_stripped_noun,
+    get_meaningful_tokens,
+    get_unique_meaningful_tokens,
+    longest_continuous_partial_overlap,
     split_at_uppercase,
-    find_quoted_text
+    split_multiple,
+    substring_occurrence_positions
 )
 from .modification import (
+    replace_multiple,
     snake_case_to_title,
     strip_accents,
-    replace_multiple,
-    strip_unicode,
+    strip_multiple,
     strip_special_characters,
-    strip_multiple
+    strip_unicode
 )
+from .substrings import continuous_substrings, start_including_substrings

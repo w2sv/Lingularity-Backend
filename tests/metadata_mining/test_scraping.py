@@ -1,11 +1,8 @@
-import pytest
 from collections import Counter
 
-from backend.ops.data_mining.scraping import (
-    demonym,
-    sentence_data_download_links,
-    countries
-)
+import pytest
+
+from backend.data_mining.online_data.scraping import countries, demonym, sentence_data_download_links
 
 
 def test_zip_download_link_parsing():

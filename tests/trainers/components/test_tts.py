@@ -1,5 +1,3 @@
-import os
-
 from backend.trainers.components.text_to_speech import TextToSpeech
 
 

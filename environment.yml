@@ -15,7 +15,6 @@ dependencies:
   - tqdm
   - requests
   - pip:
-    - bs4==0.0.1  # dev
     - dnspython
     - python-vlc==3.0.11115
     - cryptography==3.1  # one application
@@ -25,7 +24,6 @@ dependencies:
     - spacy
     - aenum  # one application
     - coverage  # dev
-    - pyzipper
     - monostate
     - types-six  # dev
     - types-requests  # dev

@@ -1,7 +1,7 @@
-from typing import Mapping, Any
-import collections
 from abc import ABC
+import collections
 from functools import wraps
+from typing import Any, Mapping
 
 from backend.paths import TOKEN_MAPS_PATH
 from backend.utils import io, strings

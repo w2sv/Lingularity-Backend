@@ -1,14 +1,9 @@
+from collections import defaultdict
 from typing import *
 
-from collections import defaultdict
-
-from backend.utils import iterables
 from backend.trainers.components import SentenceData
-from backend.trainers.components.mappings.token import (
-    get_token_maps,
-    TokenOccurrencesMap,
-    SegmentSentenceIndicesMap
-)
+from backend.trainers.components.mappings.token import (get_token_maps, SegmentSentenceIndicesMap, TokenOccurrencesMap)
+from backend.utils import iterables
 
 
 def filter_sentence_data(sentence_data: SentenceData, language: str) -> SentenceData:
