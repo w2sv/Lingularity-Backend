@@ -1,3 +1,2 @@
-graft backend/data
-recursive-include backend *.json
+graft data
 recursive-include backend *.ini
