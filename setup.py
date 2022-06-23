@@ -5,7 +5,7 @@ from model_downloading import model_package_links
 
 
 version = {}
-exec(open(Path(__file__).parent /'backend/version.py').read(), version)
+exec(open(Path(__file__).parent / 'backend' '/version.py').read(), version)
 
 setup(
     name='backend',
@@ -23,7 +23,6 @@ setup(
         'cryptography==3.1',
         'textacy',
         'spacy',
-        'aenum',
         'monostate',
         'gtts'
     ] + model_package_links(version='2.3.0'),

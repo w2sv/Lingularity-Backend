@@ -1,39 +1,41 @@
-from itertools import chain
-import os
 from tempfile import NamedTemporaryFile
-from typing import Set
+from typing import Dict, List, Optional, Set
 
-from gtts import gTTS
+from gtts import gTTS, lang
 
 from backend.ops.google import GoogleOperation
-from backend.utils import io, strings
+from backend.paths import DATA_DIR_PATH
+from backend.utils import dictionary, io
 
 
-_IDENTIFIER_DATA_FILE_PATH: str = f'{os.path.dirname(__file__)}/identifiers'
-_LANGUAGE_2_IDENTIFIER = {**io.load_json(_IDENTIFIER_DATA_FILE_PATH), 'Burmese': 'my'}
+_LANGUAGE_2_IETF_TAG = dictionary.reversed(lang.tts_langs())
+_LANGUAGE_2_ACCENT_2_TLD: Dict[str, Dict[str, str]] = io.load_json(DATA_DIR_PATH / 'google-tts-accents.json')
 
 
 class GoogleTTSClient(GoogleOperation):
-    def __init__(self):
-        super().__init__(language_2_identifier=_LANGUAGE_2_IDENTIFIER)
+    AVAILABLE_LANGUAGES: Set[str] = set(_LANGUAGE_2_IETF_TAG.keys())
 
-    def get_audio(self, text: str, language: str, domain='com'):
+    def __init__(self):
+        super().__init__(language_2_ietf_tag=_LANGUAGE_2_IETF_TAG)
+
+    def get_audio(self, text: str, language: str, variety: Optional[str] = None):
         language_identifier = self._get_identifier(language)
         assert language_identifier is not None
 
         temp_file = NamedTemporaryFile()
-        gTTS(text, lang=language_identifier, lang_check=False, tld=domain).write_to_fp(temp_file)
+
+        gTTS(
+            text,
+            lang=language_identifier,
+            lang_check=False,
+            tld='com' if variety is None else _LANGUAGE_2_ACCENT_2_TLD[language][variety]
+        )\
+            .write_to_fp(temp_file)
+
         return temp_file
 
-
-AVAILABLE_LANGUAGES: Set[str] = set(
-    chain(
-        *map(
-            lambda language_variation: strings.strip_multiple(
-                language_variation,
-                strings=['(', ')']
-            ).split(' '),
-            _LANGUAGE_2_IDENTIFIER.keys()
-        )
-    )
-)
+    def get_variety_choices(self, query_language: str) -> Optional[List[str]]:
+        try:
+            return list(_LANGUAGE_2_ACCENT_2_TLD[query_language].keys())
+        except KeyError:
+            return None

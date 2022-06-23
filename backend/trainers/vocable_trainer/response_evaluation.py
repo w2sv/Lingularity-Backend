@@ -1,19 +1,30 @@
 from typing import Tuple
 
-from aenum import NoAliasEnum
+from enum import Enum, auto
 from unidecode import unidecode
 
 from backend.utils.strings import get_article_stripped_noun
 
 
-class ResponseEvaluation(NoAliasEnum):
-    NoResponse = 0.0
-    Wrong = 0.0
-    MissingArticle = 0.5
-    WrongArticle = 0.5
-    AlmostCorrect = 0.5
-    AccentError = 0.75
-    Correct = 1.0
+class ResponseEvaluation(Enum):
+    NoResponse = auto()
+    Wrong = auto()
+    MissingArticle = auto()
+    WrongArticle = auto()
+    AlmostCorrect = auto()
+    AccentError = auto()
+    Correct = auto()
+
+
+EVALUATION_2_SCORE = {
+    ResponseEvaluation.NoResponse: 0.0,
+    ResponseEvaluation.Wrong: 0.0,
+    ResponseEvaluation.MissingArticle: 0.5,
+    ResponseEvaluation.WrongArticle: 0.5,
+    ResponseEvaluation.AlmostCorrect: 0.5,
+    ResponseEvaluation.AccentError: 0.75,
+    ResponseEvaluation.Correct: 1.0
+}
 
 
 def get_response_evaluation(response: str, ground_truth: str, vocable_identification_aid='') -> Tuple[str, ResponseEvaluation]:
@@ -42,7 +53,7 @@ def get_response_evaluation(response: str, ground_truth: str, vocable_identifica
         else:
             evaluation = ResponseEvaluation.Wrong
 
-    return response, evaluation  # type: ignore
+    return response, evaluation
 
 
 # ---------------

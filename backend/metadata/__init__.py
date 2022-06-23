@@ -4,11 +4,11 @@ from typing import List, Optional
 
 from backend.utils.io import load_json
 from .types import (CountryMetadata, DefaultForenamesTranslations, LanguageMetadata, SubstitutionForenamesMap)
-from ..paths import META_DATA_PATH
+from ..paths import META_DATA_DIR_PATH
 
 
-language_metadata: LanguageMetadata = load_json(f'{META_DATA_PATH}/language')
-_country_metadata: CountryMetadata = load_json(f'{META_DATA_PATH}/country')
+language_metadata: LanguageMetadata = load_json(f'{META_DATA_DIR_PATH}/language')
+_country_metadata: CountryMetadata = load_json(f'{META_DATA_DIR_PATH}/country')
 
 
 def get_substitution_forenames_map(language: str) -> SubstitutionForenamesMap:

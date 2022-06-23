@@ -75,11 +75,11 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
             self._model = lemmatizing.load_model(language)
 
     def tokenize_with_pos_tags(self, sentence: str) -> List[Tuple[str, str]]:
-        filtered_tokens = self._filter_tokens(self._tokenize(strings.strip_special_characters(string=sentence)))
+        filtered_tokens = self._filter_tokens(self._tokenize(strings.strip_special_characters(string=sentence)))  # type: ignore
         return list(map(lambda token: (token.lemma_, token.pos_), filtered_tokens))
 
     def tokenize(self, sentence: str) -> List[str]:
-        return self._normalize(self._filter_tokens(self._tokenize(sentence)))
+        return self._normalize(self._filter_tokens(self._tokenize(sentence)))  # type: ignore
 
     def _normalize(self, tokens: List[Token]) -> List[str]:  # type: ignore
         return [token.lemma_ for token in tokens]
@@ -100,7 +100,7 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
 
         # remove tokens of REMOVE_POS_TYPE if tokens not solely comprised of them
         if len((pos_set := set((token.pos_ for token in tokens))).intersection(REMOVE_POS_TYPES)) != len(pos_set):
-            tokens = list(filter(lambda token: token.pos_ not in REMOVE_POS_TYPES, tokens))
+            tokens = list(filter(lambda token: token.pos_ not in REMOVE_POS_TYPES, tokens))  # type: ignore
 
         pos_value_sorted_lemmas = [token.lemma_ for token in sorted(tokens, key=lambda t: lemmatizing.POS_VALUES.get(t.pos_, lemmatizing.PosValue.Null).value)]
         return self._find_best_fit_sentence_indices(relevance_sorted_tokens=pos_value_sorted_lemmas)

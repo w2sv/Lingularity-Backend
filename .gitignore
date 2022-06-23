@@ -9,9 +9,6 @@ logging.txt
 /.coverage
 /htmlcov/
 
-# Data
-*.mp3
-
 # Envs
 /env/
 

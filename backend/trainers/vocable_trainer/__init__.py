@@ -7,8 +7,6 @@ import numpy as np
 from backend.trainers.base import TrainerBackend
 from backend.components import get_token_sentence_indices_map, SegmentSentenceIndicesMap, SentenceData
 from backend.components.vocable_entry import VocableData, VocableEntry
-from .deviation_masks import deviation_masks
-from .response_evaluation import get_response_evaluation, ResponseEvaluation
 
 
 class VocableTrainerBackend(TrainerBackend):

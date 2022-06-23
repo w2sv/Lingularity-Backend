@@ -9,22 +9,22 @@ from typing import Any, Dict, TypeVar
 PathLike = TypeVar("PathLike", str, Path)
 
 
-def write_json(data: Dict[Any, Any], file_path: str):
+def write_json(data: Dict[Any, Any], file_path: PathLike):
     with open(f'{file_path}.json', 'w', encoding='utf-8') as write_file:
         json.dump(data, write_file, ensure_ascii=False, indent=4)
 
 
-def load_json(file_path: str):
+def load_json(file_path: PathLike):
     with open(f'{file_path}.json', 'r', encoding='utf-8') as read_file:
         return json.load(read_file)
 
 
-def write_pickle(data: Any, file_path: str):
+def write_pickle(data: Any, file_path: PathLike):
     with open(file_path, 'wb') as handle:
         pickle.dump(data, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 
-def load_pickle(file_path: str) -> Any:
+def load_pickle(file_path: PathLike) -> Any:
     return pickle.load(open(file_path, 'rb'))
 
 

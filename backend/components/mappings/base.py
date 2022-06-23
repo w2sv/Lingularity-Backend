@@ -3,7 +3,7 @@ import collections
 from functools import wraps
 from typing import Any, Mapping
 
-from backend.paths import TOKEN_MAPS_PATH
+from backend.paths import TOKEN_MAPS_DIR_PATH
 from backend.utils import io, strings
 
 
@@ -25,7 +25,7 @@ class CustomMapping(ABC, collections.Mapping):
         return {} if create else self._load_data(language=language)
 
     def _load_data(self, language: str) -> _Type:
-        return io.load_pickle(file_path=f'{TOKEN_MAPS_PATH}/{language}/{self.data_file_name}')
+        return io.load_pickle(file_path=f'{TOKEN_MAPS_DIR_PATH}/{language}/{self.data_file_name}')
 
     @property
     def data(self) -> _Type:

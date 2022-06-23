@@ -4,7 +4,7 @@ from typing import List
 
 import pytest
 
-from backend.paths import SENTENCE_DATA_PATH
+from backend.paths import SENTENCE_DATA_DIR_PATH
 from backend.trainers.base import SentenceData
 from backend.utils import strings
 import backend.utils.strings.modification
@@ -14,7 +14,7 @@ import backend.utils.strings.modification
 # Basic
 # ----------------
 def _random_language() -> str:
-    return random.choice(list(filter(lambda language_candidate: not language_candidate.startswith('.'), os.listdir(SENTENCE_DATA_PATH)))).split('.')[0]
+    return random.choice(list(filter(lambda language_candidate: not language_candidate.startswith('.'), os.listdir(SENTENCE_DATA_DIR_PATH)))).split('.')[0]
 
 
 @pytest.mark.parametrize('language', [

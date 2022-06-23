@@ -1,17 +1,14 @@
-import logging
 from pathlib import Path
 
-
-# enable logging
-logging.basicConfig(filename='logging.txt', level=logging.INFO)
+from backend.utils.io import PathLike
 
 
-_DATA_PATH = f'{Path(__file__).parent}/data'
+DATA_DIR_PATH = Path(__file__).parent / 'data'
 
-SENTENCE_DATA_PATH = f'{_DATA_PATH}/sentence-data'
-TOKEN_MAPS_PATH = f'{_DATA_PATH}/token-maps'
-META_DATA_PATH = f'{_DATA_PATH}/meta-data'
+SENTENCE_DATA_DIR_PATH = DATA_DIR_PATH / 'sentence-data'
+TOKEN_MAPS_DIR_PATH = DATA_DIR_PATH / 'token-maps'
+META_DATA_DIR_PATH = DATA_DIR_PATH / 'meta-data'
 
 
-def sentence_data_path(language: str) -> str:
-    return f'{SENTENCE_DATA_PATH}/{language}.txt'
+def sentence_data_path(language: str) -> PathLike:
+    return SENTENCE_DATA_DIR_PATH / f'{language}.txt'  # type: ignore
