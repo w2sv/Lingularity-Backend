@@ -1,21 +1,14 @@
-import os
-from pathlib import Path
-import time
+from io import BytesIO
 from typing import List, Optional
 
-import vlc
+from playsound import playsound
 
 from backend.database import MongoDBClient
 from backend.ops.google.text_to_speech import GoogleTTSClient
-from backend.utils import either_or, time as time_utils
-from backend.utils.io import PathLike
+from backend.utils import either_or
 
 
 _google_tts = GoogleTTSClient()
-
-
-_AUDIO_FILE_DIR = Path('~/.cache/lingularity')
-_AUDIO_FILE_DIR.mkdir(exist_ok=True)
 
 
 class TTSClient:
@@ -27,11 +20,10 @@ class TTSClient:
         self.language_variety_choices: Optional[List[str]] = _google_tts.get_variety_choices(language)
         self._language_variety: Optional[str] = self._get_language_variety(language)
 
-        if self.available:
-            self._playback_speed: float = self._get_playback_speed(self._language_variety)
-            self._enabled: bool = self._get_enablement()
+        self._playback_speed: float = self._get_playback_speed(self._language_variety)
+        self._enabled: bool = self._get_enablement()
 
-        self._audio_file_path: Optional[PathLike] = None
+        self.audio: Optional[BytesIO] = None
 
     @property
     def available(self) -> bool:
@@ -79,11 +71,6 @@ class TTSClient:
             # set usage of new variety to True in database
             self._mongodb_client.set_language_variety_usage(self._language_variety, True)
 
-            # delete possibly downloaded audio file pertaining to old variety in order to
-            # trigger download of file pertaining to new one in subsequent training loop iteration
-            if self.audio_file is not None:
-                del self.audio_file
-
     # -----------------
     # Enablement
     # -----------------
@@ -106,10 +93,6 @@ class TTSClient:
         # avoid unnecessary database calls
         if enable != self._enabled:
             self._enabled = enable
-
-            # delete audio file if tts getting disabled
-            if not self._enabled:
-                del self.audio_file
 
             # enter change into database
             self._mongodb_client.set_tts_enablement(self._enabled)
@@ -146,69 +129,17 @@ class TTSClient:
         except ValueError:
             return False
 
-    # -----------------
-    # Usage
-    # -----------------
-    @property
-    def audio_file(self) -> Optional[str]:
-        return self._audio_file_path
-
-    @audio_file.setter
-    def audio_file(self, file_path: str):
-        self._audio_file_path = file_path
-
-    @audio_file.deleter
-    def audio_file(self):
-        """ Deletes audio file, sets audio_file_path to None """
-
-        if self._audio_file_path is not None:
-            os.remove(self._audio_file_path)
-
-        self._audio_file_path = None
-
-    def download_audio_file(self, text: str):
+    # -----------------------
+    # Downloading / Playing
+    # -----------------------
+    def download_audio(self, text: str):
         assert self._language_variety is not None
 
-        audio_file_path = _AUDIO_FILE_DIR / f'{time_utils.get_timestamp()}.mp3'
-        _google_tts.get_audio(text, self._language_variety, save_path=audio_file_path)
+        self.audio = _google_tts.get_audio(text, self._language_variety)
 
-        self._audio_file_path = audio_file_path
-
-    @property
-    def _audio_length(self) -> float:
-        """ Returns:
-                audio length in seconds """
-
-        assert self.audio_file is not None
-
-        BITS_PER_SECOND = 500
-
-        return os.path.getsize(self.audio_file) / 8 / BITS_PER_SECOND
-
-    def _playback_duration(self) -> float:
-        return self._audio_length / self._playback_speed - 0.2
-
-    def play_audio(self):
+    def play_audio(self, suspend_for_playback_duration=True):
         """ Suspends program for playback duration, deletes audio file subsequently """
 
-        if self.audio_file is not None:
-            player = vlc.MediaPlayer(self.audio_file)
-            player.set_rate(self._playback_speed)
-            player.play()
-
-            self._suspend_program_for_play_duration()
-
-            del self.audio_file
-
-    def _suspend_program_for_play_duration(self):
-        start_time = time.time()
-
-        playback_duration = self._playback_duration()
-        while time.time() - start_time < playback_duration:
-            pass
-
-    def __del__(self):
-        """ Triggers deletion of all audio files on object destruction """
-
-        for audio_file in _AUDIO_FILE_DIR.iterdir():
-            audio_file.unlink()
+        if self.audio is not None:
+            playsound(self.audio.name, block=suspend_for_playback_duration)
+            self.audio.close()

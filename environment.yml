@@ -16,7 +16,7 @@ dependencies:
   - requests
   - pip:
     - dnspython
-    - python-vlc==3.0.11115
+    - playsound
     - cryptography==3.1  # one application
     - gTTS  # dev
     - googletrans  # dev

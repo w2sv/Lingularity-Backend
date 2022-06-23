@@ -2,7 +2,6 @@
 
 
 from enum import auto, Enum
-from typing import Any
 
 import spacy
 
@@ -12,7 +11,6 @@ from backend.ops.normalizing.lemmatizing.spacy_models import model_name
 # ---------------
 # POS Values
 # ---------------
-
 
 class PosValue(Enum):
     Null = 0
@@ -31,9 +29,7 @@ POS_VALUES = {
 # ---------------
 # Model Name Assembly/Loading
 # ---------------
-Model = Any
 
-
-def load_model(language: str) -> Model:
+def load_model(language: str) -> spacy.Language:
     print('Loading model...')
     return spacy.load(model_name(language=language))

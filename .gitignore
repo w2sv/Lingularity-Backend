@@ -25,4 +25,4 @@ logging.txt
 /dist/
 
 # Credentials
-/mongodb-credentials.ini
+/backend/database/credentials.ini

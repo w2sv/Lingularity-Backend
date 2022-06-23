@@ -43,7 +43,7 @@ class MongoDBClient(MonoStateOwner):
         self._user: Optional[str] = None
         self._language: Optional[str] = None
 
-        credentials = load_config(Path.cwd() / 'mongodb-credentials.ini')
+        credentials = load_config(Path(__file__).parent / 'credentials.ini')
         section = 'DEFAULT'
 
         self._cluster: pymongo.MongoClient = pymongo.MongoClient(

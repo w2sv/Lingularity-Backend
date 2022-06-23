@@ -1,6 +1,8 @@
 from pathlib import Path
 
+import pygame.mixer
 import pytest
+import vlc
 
 from backend.ops.google.text_to_speech import GoogleTTSClient
 
@@ -42,13 +44,15 @@ _temp_file_path = Path(__file__).parent/'temp.mp3'
 
 
 def test_get_audio(google_tts_client):
-    google_tts_client.get_audio('Mamma mia!', language='Italian', save_path=_temp_file_path)
-
-    assert _temp_file_path.exists()
-    assert _temp_file_path.stat().st_size != 0
+    audio = google_tts_client.get_audio('Mamma mia!', language='Italian', save_path=_temp_file_path)
+    # audio.seek(0)
+    #
+    # pygame.mixer.init()
+    # pygame.mixer.music.load(audio)
+    # pygame.mixer.music.play()
 
 
 @pytest.fixture(autouse=True)
-def cleanup():
+def teardown():
     yield
     _temp_file_path.unlink(missing_ok=True)

@@ -8,5 +8,3 @@ def instantiate_database():
     mongodb = MongoDBClient()
     mongodb.user = 'janek'
     mongodb.language = 'Italian'
-
-    yield None

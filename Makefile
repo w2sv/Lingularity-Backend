@@ -4,8 +4,6 @@ SHELL=/bin/bash
 # Installing
 # --------------
 install:
-	bash os-dependencies/install-linux-dependencies.sh
-
 	rm -rf env
 	mamba env create -f environment.yml --prefix ./env
 

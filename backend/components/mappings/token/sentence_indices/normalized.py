@@ -2,11 +2,12 @@ from abc import ABC, abstractmethod
 from typing import List, Optional, Tuple, Union
 
 import nltk
-from spacy.tokens import Token
+import spacy
+from spacy.tokens import Doc, Token
 
+from backend.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
 from backend.ops.normalizing import lemmatizing
 from backend.ops.normalizing.lemmatizing import spacy_models
-from backend.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
 from backend.utils import strings
 
 
@@ -68,7 +69,7 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
 
         super().__init__(language, create=create)
 
-        self._model: lemmatizing.Model
+        self._model: spacy.Language
 
         if load_normalizer:
             self._model = lemmatizing.load_model(language)
@@ -86,7 +87,7 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
     def _filter_tokens(self, tokens: List[Token]) -> List[Token]:
         return list(filter(lambda token: token.pos_ not in self._IGNORE_POS_TYPES, tokens))
 
-    def _tokenize(self, text: str) -> List[Token]:  # type: ignore
+    def _tokenize(self, text: str) -> Doc:  # type: ignore
         return self._model(text)
 
     # ------------------

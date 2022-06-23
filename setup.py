@@ -19,7 +19,7 @@ setup(
         'nltk==3.4.5',
         'pymongo==3.9.0',
         'dnspython',
-        'python-vlc==3.0.11115',
+        'playsound',
         'cryptography==3.1',
         'textacy',
         'spacy',
