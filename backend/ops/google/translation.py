@@ -12,7 +12,7 @@
 #
 # class GoogleTranslator(GoogleOperation):
 #     def __init__(self):
-#         super().__init__(language_2_ietf_tag={v.title(): k for k, v in LANGUAGES.items()})
+#         super().__init__(_LANGUAGE_2_IETF_TAG={v.title(): k for k, v in LANGUAGES.items()})
 #
 #     def translate(self, text: str, dest: str, src: str) -> str:
 #         """ Args:

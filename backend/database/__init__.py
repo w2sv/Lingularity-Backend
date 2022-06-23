@@ -258,18 +258,18 @@ class MongoDBClient(MonoStateOwner):
     @property
     def language_metadata_collection(self) -> pymongo.collection.Collection:
         """ {_id: $language,
-            variety: {$language_variety: {playbackSpeed: float
+            accent: {$language_variety: {playbackSpeed: float
                                           use: bool}}
             ttsEnabled: bool} """
 
         return self.user_data_base['language_metadata']
 
     # ------------------
-    # ..language variety usage
+    # ..language accent usage
     # ------------------
     def set_language_variety_usage(self, variety_identifier: str, value: bool):
         self.language_metadata_collection.update_one(filter={'_id': self._language},
-                                                     update={'$set': {f'variety.{variety_identifier}.use': value}},
+                                                     update={'$set': {f'accent.{variety_identifier}.use': value}},
                                                      upsert=True)
 
     def query_language_variety(self) -> Optional[str]:
@@ -279,7 +279,7 @@ class MongoDBClient(MonoStateOwner):
         if (language_metadata := self.language_metadata_collection.find_one(filter={'_id': self._language})) is None:
             return None
 
-        elif variety_2_usage := language_metadata.get('variety'):
+        elif variety_2_usage := language_metadata.get('accent'):
             for identifier, value_dict in variety_2_usage.items():
                 if value_dict['use']:
                     return identifier
@@ -291,12 +291,12 @@ class MongoDBClient(MonoStateOwner):
     # ------------------
     def set_playback_speed(self, variety: str, playback_speed: float):
         self.language_metadata_collection.update_one(filter={'_id': self._language},
-                                                     update={'$set': {f'variety.{variety}.playbackSpeed': playback_speed}},
+                                                     update={'$set': {f'accent.{variety}.playbackSpeed': playback_speed}},
                                                      upsert=True)
 
     def query_playback_speed(self, variety: str) -> Optional[float]:
         try:
-            return self.language_metadata_collection.find_one(filter={'_id': self._language})['variety'][variety]['playbackSpeed']
+            return self.language_metadata_collection.find_one(filter={'_id': self._language})['accent'][variety]['playbackSpeed']
         except (AttributeError, KeyError, TypeError):
             return None
 

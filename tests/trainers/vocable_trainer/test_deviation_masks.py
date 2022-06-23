@@ -1,6 +1,6 @@
 import pytest
 
-from backend.trainers.vocable_trainer import deviation_masks
+from backend.trainers.vocable_trainer.deviation_masks import deviation_masks
 
 
 @pytest.mark.parametrize('response,ground_truth,response_mask,ground_truth_mask', [

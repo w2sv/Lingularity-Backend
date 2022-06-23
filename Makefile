@@ -20,6 +20,7 @@ mypy:
 
 pytest:
 	coverage run -m pytest -vv tests/
+	coverage report
 
 doctest:
 	python -m pytest -vv --doctest-modules --doctest-continue-on-failure ./backend/

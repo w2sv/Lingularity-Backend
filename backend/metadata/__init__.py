@@ -7,8 +7,8 @@ from .types import (CountryMetadata, DefaultForenamesTranslations, LanguageMetad
 from ..paths import META_DATA_DIR_PATH
 
 
-language_metadata: LanguageMetadata = load_json(f'{META_DATA_DIR_PATH}/language')
-_country_metadata: CountryMetadata = load_json(f'{META_DATA_DIR_PATH}/country')
+language_metadata: LanguageMetadata = load_json(META_DATA_DIR_PATH / 'language.json')
+_country_metadata: CountryMetadata = load_json(META_DATA_DIR_PATH / 'country.json')
 
 
 def get_substitution_forenames_map(language: str) -> SubstitutionForenamesMap:

@@ -1,51 +1,44 @@
-from io import BytesIO
-from typing import List, Optional
+from tempfile import _TemporaryFileWrapper
+from typing import Optional
 
 from playsound import playsound
 
+from backend.components.tts._google_client import GoogleTTSClient
 from backend.database import MongoDBClient
-from backend.ops.google.text_to_speech import GoogleTTSClient
 from backend.utils import either_or
 
 
-_google_tts = GoogleTTSClient()
+class TTS:
+    @staticmethod
+    def available_for(language: str) -> bool:
+        return GoogleTTSClient.available_for(language)
 
-
-class TTSClient:
     def __init__(self, language: str):
         super().__init__()
 
         self._mongodb_client: MongoDBClient = MongoDBClient.instance()
+        self._google_tts_client = GoogleTTSClient(language)
 
-        self.language_variety_choices: Optional[List[str]] = _google_tts.get_variety_choices(language)
-        self._language_variety: Optional[str] = self._get_language_variety(language)
+        self._language_variety: Optional[str] = self._retrieve_previously_set_language_variety()
 
-        self._playback_speed: float = self._get_playback_speed(self._language_variety)
+        self._playback_speed: float = self._get_playback_speed(self._language_variety)  # TODO
         self._enabled: bool = self._get_enablement()
 
-        self.audio: Optional[BytesIO] = None
+        self._audio: Optional[_TemporaryFileWrapper] = None
 
     @property
-    def available(self) -> bool:
-        return any([self.language_variety_choices, self._language_variety])
+    def audio_playable(self) -> bool:
+        return self._audio is not None
 
-    @property
-    def employ(self) -> bool:
-        return self.available and self.enabled
+    def __getattr__(self, item):
+        return getattr(self._google_tts_client, item)
 
     # -----------------
     # Language Variety
     # -----------------
-    def _get_language_variety(self, language: str) -> Optional[str]:
-        """ Returns:
-                language if no variety choices available,
-                otherwise:
-                    variety with enablement being set to True in database if language has already been used,
-                    None if not """
-
-        if self.language_variety_choices is None:
-            return [None, language][_google_tts.available_for(language)]
-
+    def _retrieve_previously_set_language_variety(self) -> Optional[str]:
+        if not self._google_tts_client.language_variety_choices:
+            return None
         return self._mongodb_client.query_language_variety()
 
     @property
@@ -57,18 +50,17 @@ class TTSClient:
         """ Args:
                 variety: element of language_variety_choices, e.g. 'Spanish (Spain)'
 
-            Enters change into database, deletes audio file of old variety """
+            Enters change into database, deletes _audio file of old accent """
 
         # avoid unnecessary database calls
         if variety != self._language_variety:
+            self._language_variety = variety
 
-            # set usage of current variety to False in database if already assigned
+            # set usage of current accent to False in database if already assigned
             if self._language_variety is not None:
                 self._mongodb_client.set_language_variety_usage(self._language_variety, False)
 
-            self._language_variety = variety
-
-            # set usage of new variety to True in database
+            # set usage of new accent to True in database
             self._mongodb_client.set_language_variety_usage(self._language_variety, True)
 
     # -----------------
@@ -87,7 +79,7 @@ class TTSClient:
 
     @enabled.setter
     def enabled(self, enable: bool):
-        """ Triggers deletion of audio file if switching from enabled to disabled,
+        """ Triggers deletion of _audio file if switching from enabled to disabled,
             enters change into database """
 
         # avoid unnecessary database calls
@@ -135,11 +127,11 @@ class TTSClient:
     def download_audio(self, text: str):
         assert self._language_variety is not None
 
-        self.audio = _google_tts.get_audio(text, self._language_variety)
+        self._audio = self._google_tts_client.get_audio(text, self._language_variety)
 
     def play_audio(self, suspend_for_playback_duration=True):
-        """ Suspends program for playback duration, deletes audio file subsequently """
+        """ Suspends program for playback duration, deletes _audio file subsequently """
 
-        if self.audio is not None:
-            playsound(self.audio.name, block=suspend_for_playback_duration)
-            self.audio.close()
+        if self._audio is not None:
+            playsound(self._audio.name, block=suspend_for_playback_duration)
+            self._audio.close()

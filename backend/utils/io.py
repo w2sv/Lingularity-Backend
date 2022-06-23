@@ -10,12 +10,12 @@ PathLike = TypeVar("PathLike", str, Path)
 
 
 def write_json(data: Dict[Any, Any], file_path: PathLike):
-    with open(f'{file_path}.json', 'w', encoding='utf-8') as write_file:
+    with open(file_path, 'w', encoding='utf-8') as write_file:
         json.dump(data, write_file, ensure_ascii=False, indent=4)
 
 
 def load_json(file_path: PathLike):
-    with open(f'{file_path}.json', 'r', encoding='utf-8') as read_file:
+    with open(file_path, 'r', encoding='utf-8') as read_file:
         return json.load(read_file)
 
 

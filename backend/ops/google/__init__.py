@@ -3,53 +3,62 @@
         e.g. Spanish -> es
              German -> de
              French -> fr """
+
 import abc
 from abc import ABC
 from typing import Dict, List, Optional
 
 
 class GoogleOperation(ABC):
-    def __init__(self, language_2_ietf_tag: Dict[str, str]):
-        self.language_2_ietf_tag = language_2_ietf_tag  # uppercase language to lowercase identifier,
-                                                        # e.g. {'Afrikaans': 'af', 'Albanian': 'sq', ...}
+    # uppercase language to lowercase identifier,
+    # e.g. {'Afrikaans': 'af', 'Albanian': 'sq', ...}
+    _LANGUAGE_2_IETF_TAG: Dict[str, str]
 
-    def available_for(self, language: str) -> bool:
-        return self._get_identifier(language) is not None
+    @classmethod
+    def available_for(cls, language: str) -> bool:
+        return cls._get_identifier(language) is not None
 
-    def _get_identifier(self, query_language: str) -> Optional[str]:
+    @classmethod
+    def _get_identifier(cls, language: str) -> Optional[str]:
         """ Args:
-                query_language: written out titular language in English,
+                language: written out titular language in English,
                     e.g. 'Spanish'
 
             Returns:
                 the first matching google language identifier """
 
         # return identifier if query_language is amongst language identifiers as is
-        if identifier := self.language_2_ietf_tag.get(query_language):
+        if identifier := cls._LANGUAGE_2_IETF_TAG.get(language):
             return identifier
 
         # frisk _LANGUAGE_2_IDENTIFIER for identifier
-        for _language, identifier in self.language_2_ietf_tag.items():
-            if query_language in _language:
+        for _language, identifier in cls._LANGUAGE_2_IETF_TAG.items():
+            if language in _language:
                 return identifier
 
         return None
 
+    def __init__(self, language: str):
+        self.language = language
+        self.language_variety_choices: List[str] = self._get_variety_choices()
+
     @abc.abstractmethod
-    def get_variety_choices(self, query_language: str) -> Optional[List[str]]:
+    def _get_variety_choices(self) -> List[str]:
         """  """
 
-    def _deduced_variety_choices(self, query_language: str) -> Optional[List[str]]:
+    def _deduced_variety_choices(self) -> List[str]:
         """ Returns:
                 List of available language variations in case of availability of more than 1,
                 otherwise None, e.g.
 
-                TTSClient.get_variety_choices('french')
-                    ['French (Canada)', 'French (France)']  """
+                TTS._get_variety_choices('french')
+                    ['French (Canada)', 'French (France)']
+
+            TODO: reintegrate for chinese regarding tts """
 
         return list(
             filter(
-                lambda language: query_language != language and query_language in language,
-                self.language_2_ietf_tag.keys()
+                lambda language: self.language != language and self.language in language,
+                self._LANGUAGE_2_IETF_TAG.keys()
             )
-        ) or None
+        )

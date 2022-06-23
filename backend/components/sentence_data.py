@@ -18,6 +18,7 @@ from backend.utils.strings import (
 )
 from backend.utils.strings.modification import strip_multiple, strip_special_characters, strip_unicode
 
+# TODO: move mining related stuff to Miner
 
 class SentenceData(np.ndarray):
     """ Abstraction of sentence pair data
@@ -35,10 +36,10 @@ class SentenceData(np.ndarray):
 
         cls._train_english = train_english
 
-        return cls._read_in(sentence_data_path(language), train_english).view(SentenceData)
+        return cls._load(sentence_data_path(language), train_english).view(SentenceData)
 
     @staticmethod
-    def _read_in(_sentence_data_path: str, train_english: bool) -> np.ndarray:
+    def _load(_sentence_data_path: str, train_english: bool) -> np.ndarray:
         processed_sentence_data = []
 
         with open(_sentence_data_path, 'r', encoding='utf-8', errors='strict') as sentence_data_file:
@@ -227,7 +228,7 @@ class SentenceData(np.ndarray):
                         lowercase_words_cache.add(token)
 
         filtered_candidates: Set[str] = set()
-        for candidate in filter(lambda candidate: candidate.lower() not in lowercase_words_cache, candidates):
+        for candidate in filter(lambda c: c.lower() not in lowercase_words_cache, candidates):
             if all(levenshtein_score <= MAX_FILTERED_CANDIDATE_CONFIRMED_TRANSLATION_LEVENSHTEIN for levenshtein_score in map(lambda filtered_candidate: levenshtein(filtered_candidate, candidate), filtered_candidates)):
                 filtered_candidates.add(candidate)
 

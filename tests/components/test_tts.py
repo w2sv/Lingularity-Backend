@@ -1,11 +1,10 @@
 from time import time
 
-from backend.components.text_to_speech import TTSClient
-from tests.config import instantiate_database
+from backend.components.tts import TTS
 
 
 def test_text_to_speech():
-    tts = TTSClient('Italian')
+    tts = TTS('Italian')
 
     tts.download_audio(text="Ma?")
 
