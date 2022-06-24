@@ -1,7 +1,7 @@
 from itertools import chain
 from typing import Iterable, Iterator, Optional
 
-from backend.utils import iterables
+from more_itertools import windowed
 
 
 def continuous_substrings(string: str, lengths: Optional[Iterable[int]] = None, min_length=2) -> Iterator[str]:
@@ -24,7 +24,7 @@ def continuous_substrings(string: str, lengths: Optional[Iterable[int]] = None, 
     else:
         lengths = filter(lambda val: val >= min_length, lengths)
 
-    return map(''.join, chain.from_iterable(map(lambda length: iterables.windowed(string, length), lengths)))
+    return map(str().join, chain.from_iterable(map(lambda length: windowed(string, length), lengths)))  # type: ignore
 
 
 def start_including_substrings(string: str) -> Iterator[str]:

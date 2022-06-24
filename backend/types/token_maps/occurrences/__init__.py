@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import collections
+from collections import Counter, defaultdict
 from functools import cached_property
 from typing import Iterable
 
@@ -17,7 +17,7 @@ ParaphrasesTokensList = list[ParaphrasesTokens]
 ParaphrasesPOSTagsList = ParaphrasesTokensList
 
 
-class TokenOccurrencesMap(collections.defaultdict, CustomMapping):
+class TokenOccurrencesMap(defaultdict[str, int], CustomMapping):
     """ _Type = DefaultDict[str, int] """
 
     _INCLUSION_POS_TYPES = {'VERB', 'NOUN', 'ADJ', 'ADV', 'ADP', 'INTJ'}
@@ -56,10 +56,10 @@ class TokenOccurrencesMap(collections.defaultdict, CustomMapping):
             self[token] += occurrences
 
     @staticmethod
-    def _inter_paraphrases_duplicate_stripped_tokens(paraphrases_tokens: Iterable[Iterable[str]]) -> collections.Counter[str]:
-        token_counter: collections.Counter[str] = collections.Counter()
+    def _inter_paraphrases_duplicate_stripped_tokens(paraphrases_tokens: Iterable[Iterable[str]]) -> Counter[str]:
+        token_counter: Counter[str] = Counter()
         for tokens in paraphrases_tokens:
-            token_counter += collections.Counter(tokens) - token_counter
+            token_counter += Counter(tokens) - token_counter
         return token_counter
 
     # ----------------

@@ -1,6 +1,8 @@
 from itertools import chain, islice, repeat, starmap, zip_longest
 from typing import Generator, Iterator, List, Tuple
 
+from more_itertools import unzip
+
 from backend.utils import iterables
 from backend.utils.generators import return_value_capturing_generator
 
@@ -16,7 +18,7 @@ def deviation_masks(response: str, ground_truth: str) -> Iterator[_DeviationMask
 
     zipped_deviation_mask = _ith_char_mask_iterator(response, ground_truth)
 
-    comparator_masks = iterables.unzip(zipped_deviation_mask)
+    comparator_masks = unzip(zipped_deviation_mask)
     comparators = [response, ground_truth]
     start_offsets = [zipped_deviation_mask.return_value, 0]
 

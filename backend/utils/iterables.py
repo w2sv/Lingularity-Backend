@@ -1,4 +1,4 @@
-from itertools import islice, tee, zip_longest
+from itertools import zip_longest
 from typing import Iterable, Sequence, TypeVar
 
 
@@ -13,20 +13,12 @@ def intersection(sets: Iterable[set[T]]) -> set[T]:
     return set.intersection(*sets)
 
 
-def windowed(iterable: Iterable[T], n: int) -> Iterable[tuple[T]]:
-    return zip(*(islice(vert_iterable, i, None) for i, vert_iterable in enumerate(tee(iterable, n))))
-
-
 def longest_value(iterable: Iterable[T]) -> T:
-    return next(iter(sorted(iterable, key=len, reverse=True)))
+    return next(iter(sorted(iterable, key=len, reverse=True)))  # type: ignore
 
 
 def length_parity(*iterable) -> bool:
     return contains_unique_value(map(len, iterable))
-
-
-def unzip(nested_list: Iterable[Iterable[T]]):
-    return zip(*nested_list)
 
 
 def unzip_longest(nested_list: Iterable[Iterable[T]]):

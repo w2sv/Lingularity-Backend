@@ -4,6 +4,7 @@ import collections
 from functools import cached_property
 from typing import Callable, Counter, Iterable, Iterator
 
+from more_itertools import unzip
 import numpy as np
 from textacy.similarity import levenshtein
 from tqdm import tqdm
@@ -74,7 +75,7 @@ class Corpus(np.ndarray):
             sentence_pair_quotes = map(find_quoted_text, sentence_pair)
             bilaterally_present_quote_pairs = filter(lambda quote_pair: iterables.contains_unique_value(map(lambda quote: strip_special_characters(quote), quote_pair)), zip(*sentence_pair_quotes))
 
-            for j, (sentence, comprising_quotes) in enumerate(zip(sentence_pair, iterables.unzip(bilaterally_present_quote_pairs))):
+            for j, (sentence, comprising_quotes) in enumerate(zip(sentence_pair, unzip(bilaterally_present_quote_pairs))):
                 self[i, j] = strip_multiple(sentence, strings=map(lambda quote: '"' + quote + '"', comprising_quotes))
 
     # -------------------
