@@ -5,7 +5,7 @@ import random
 
 from backend.metadata.types import CountryMetadata, LanguageMetadata, SubstitutionForenamesMap
 from backend.utils.io import load_json
-from backend.metadata.paths import META_DATA_DIR_PATH
+from backend.paths import META_DATA_DIR_PATH
 
 
 language_metadata: LanguageMetadata = load_json(META_DATA_DIR_PATH / 'language.json')

@@ -9,9 +9,10 @@ from textacy.similarity import levenshtein
 from tqdm import tqdm
 from typing_extensions import TypeAlias
 
-from backend.metadata.paths import sentence_data_path
 from backend.components.forename_convertor import DEFAULT_FORENAMES
+from backend.paths import corpus_path
 from backend.utils import iterables
+from backend.utils.io import PathLike
 from backend.utils.strings import (
     continuous_substrings,
     find_quoted_text,
@@ -20,6 +21,7 @@ from backend.utils.strings import (
     longest_continuous_partial_overlap
 )
 from backend.utils.strings.modification import strip_multiple, strip_special_characters, strip_unicode
+
 
 # TODO: move mining related stuff to Miner
 
@@ -41,10 +43,10 @@ class Corpus(np.ndarray):
 
         cls._train_english = train_english
 
-        return cls._load(sentence_data_path(language), train_english).view(Corpus)
+        return cls._load(corpus_path(language), train_english).view(Corpus)
 
     @staticmethod
-    def _load(_sentence_data_path: str, train_english: bool) -> np.ndarray:
+    def _load(_sentence_data_path: PathLike, train_english: bool) -> np.ndarray:
         processed_sentence_data = []
 
         with open(_sentence_data_path, 'r', encoding='utf-8', errors='strict') as sentence_data_file:
@@ -289,16 +291,3 @@ class Corpus(np.ndarray):
         if longest_partial_overlap := longest_continuous_partial_overlap(translation_candidates, min_length=2):
             return Corpus._strip_overlaps(list(filter(lambda candidate: longest_partial_overlap not in candidate, translation_candidates)) + [longest_partial_overlap])  # type: ignore
         return set(translation_candidates)
-
-
-if __name__ == '__main__':
-
-    # t1 = time()
-    # translations = Corpus('Russian').deduce_forename_translations()
-    # print(translations)
-    # print(time() - t1)
-
-    s = Corpus('Portuguese')
-    print(len(s))
-    print(s.foreign_language_sentences.comprising_characters)
-    print(s.english_sentences.comprising_characters)

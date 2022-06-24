@@ -8,7 +8,7 @@ import numpy as np
 
 from backend.components.forename_convertor import ForenameConvertor
 from backend.database import MongoDBClient
-from backend.metadata.string_resources import string_resources
+from backend.string_resources import string_resources
 from backend.types.corpus import Corpus, SentencePair
 from backend.types.vocable_entry import VocableEntry
 

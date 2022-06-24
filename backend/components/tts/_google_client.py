@@ -5,7 +5,7 @@ from gtts import gTTS, lang
 from gtts.tokenizer import Tokenizer
 
 from backend.ops.google import GoogleOperationClient
-from backend.metadata.paths import DATA_DIR_PATH
+from backend.paths import DATA_DIR_PATH
 from backend.utils import dictionary, io
 
 

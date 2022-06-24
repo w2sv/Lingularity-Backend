@@ -10,7 +10,7 @@ from backend.metadata import (
     language_metadata,
     SubstitutionForenamesMap
 )
-from backend.metadata.string_resources import string_resources
+from backend.string_resources import string_resources
 from backend.utils import strings
 
 

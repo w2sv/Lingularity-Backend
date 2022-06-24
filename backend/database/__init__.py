@@ -15,7 +15,7 @@ from .document_types import (
     TrainingChronic,
     VocableData
 )
-from backend.metadata.string_resources import string_resources
+from backend.string_resources import string_resources
 
 
 # TODO: change vocable data keywords in database, user collection names
@@ -172,9 +172,9 @@ class MongoDBClient(MonoState):
 
     def query_vocabulary(self) -> Iterator[tuple[str, VocableData]]:
         vocable_entries = self.vocabulary_collection.find_one(self.language)
-        # assert vocable_entries is not None
-        vocable_entries.pop('_id')  # type: ignore
-        return iter(vocable_entries.items())  # type: ignore
+        assert vocable_entries is not None
+        vocable_entries.pop('_id')
+        return iter(vocable_entries.items())
 
     def insert_vocable_entry(self, vocable_entry: VocableEntryDictRepr):
         self.vocabulary_collection.update_one(

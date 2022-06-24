@@ -1,7 +1,7 @@
 from abc import ABC
 from collections.abc import Mapping
 
-from backend.metadata.paths import TOKEN_MAPS_DIR_PATH
+from backend.paths import TOKEN_MAPS_DIR_PATH
 from backend.utils import io, strings
 
 

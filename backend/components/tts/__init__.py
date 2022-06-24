@@ -13,12 +13,13 @@ class TTS:
     def available_for(language: str) -> bool:
         return GoogleTTSClient.available_for(language)
 
-    def __init__(self, language: str):
+    @MongoDBClient.receiver
+    def __init__(self, language: str, mongodb_client: MongoDBClient):
         super().__init__()
 
         self._language = language
 
-        self._mongodb_client: MongoDBClient = MongoDBClient.instance()
+        self._mongodb_client: MongoDBClient = mongodb_client
         self._google_tts_client = GoogleTTSClient(language)
 
         self._accent: Optional[str] = self._retrieve_previously_set_language_variety()
