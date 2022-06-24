@@ -8,7 +8,6 @@ from ..paths import META_DATA_DIR_PATH
 
 
 language_metadata: LanguageMetadata = load_json(META_DATA_DIR_PATH / 'language.json')
-_country_metadata: CountryMetadata = load_json(META_DATA_DIR_PATH / 'country.json')
 
 
 def get_substitution_forenames_map(language: str) -> SubstitutionForenamesMap:
@@ -45,3 +44,6 @@ def data_beset_countries_language_employed_in(language: str) -> Optional[List[st
 
     data_beset_countries = list(filter(contains_applicable_data, countries_language_employed_in))
     return [None, data_beset_countries][bool(data_beset_countries)]
+
+
+_country_metadata: CountryMetadata = load_json(META_DATA_DIR_PATH / 'country.json')

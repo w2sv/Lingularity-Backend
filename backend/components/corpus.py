@@ -20,13 +20,13 @@ from backend.utils.strings.modification import strip_multiple, strip_special_cha
 
 # TODO: move mining related stuff to Miner
 
-class SentenceData(np.ndarray):
+class Corpus(np.ndarray):
     """ Abstraction of sentence pair data
 
         equals np.ndarray[List[List[str]], i.e. ndim == 2,
         with, in case of _train_english being False:
-            SentenceData[:, 0] = english sentences,
-            SentenceData[:, 1] = translations
+            Corpus[:, 0] = english sentences,
+            Corpus[:, 1] = translations
         otherwise vice-versa """
 
     _train_english: bool = False
@@ -36,7 +36,7 @@ class SentenceData(np.ndarray):
 
         cls._train_english = train_english
 
-        return cls._load(sentence_data_path(language), train_english).view(SentenceData)
+        return cls._load(sentence_data_path(language), train_english).view(Corpus)
 
     @staticmethod
     def _load(_sentence_data_path: str, train_english: bool) -> np.ndarray:
@@ -79,7 +79,7 @@ class SentenceData(np.ndarray):
             equals: np.ndarray[str] """
 
         def __new__(cls, sentence_data_column: np.ndarray):
-            return sentence_data_column.view(SentenceData.Column)
+            return sentence_data_column.view(Corpus.Column)
 
         @cached_property
         def uses_latin_script(self) -> bool:
@@ -155,10 +155,11 @@ class SentenceData(np.ndarray):
                 strip_bilaterally_present_quotes to be called before invocation in order to eliminate
                 uppercase tokens originating from quotes
 
-            >>> sorted(SentenceData('Croatian').deduce_proper_nouns())
-            ['android', 'boston', 'braille', 'fi', 'japan', 'john', 'kyoto', 'london', 'louis', 'mama', 'mary', 'new', 'oh', 'sumatra', 'tom', 'tv', 'wi', 'york']
+            >>> sorted(Corpus('Croatian').deduce_proper_nouns())
+            ['android', 'boston', 'braille', 'fi', 'japan', 'john', 'kyoto', 'london', 'louis', 'mama', 'mary',
+            'new', 'oh', 'sumatra', 'tom', 'tv', 'wi', 'york']
 
-            >>> sorted(SentenceData('Basque').deduce_proper_nouns())
+            >>> sorted(Corpus('Basque').deduce_proper_nouns())
             ['alexander', 'bell', 'boston', 'graham', 'mary', 'nikon', 'tokyo', 'tom'] """
 
         lowercase_english_tokens: Set[str] = set()
@@ -282,18 +283,18 @@ class SentenceData(np.ndarray):
     @staticmethod
     def _strip_overlaps(translation_candidates: Iterable[str]) -> Set[str]:
         if longest_partial_overlap := longest_continuous_partial_overlap(translation_candidates, min_length=2):
-            return SentenceData._strip_overlaps(list(filter(lambda candidate: longest_partial_overlap not in candidate, translation_candidates)) + [longest_partial_overlap])  # type: ignore
+            return Corpus._strip_overlaps(list(filter(lambda candidate: longest_partial_overlap not in candidate, translation_candidates)) + [longest_partial_overlap])  # type: ignore
         return set(translation_candidates)
 
 
 if __name__ == '__main__':
 
     # t1 = time()
-    # translations = SentenceData('Russian').deduce_forename_translations()
+    # translations = Corpus('Russian').deduce_forename_translations()
     # print(translations)
     # print(time() - t1)
 
-    s = SentenceData('Portuguese')
+    s = Corpus('Portuguese')
     print(len(s))
     print(s.foreign_language_sentences.comprising_characters)
     print(s.english_sentences.comprising_characters)

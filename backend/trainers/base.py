@@ -4,7 +4,7 @@ from typing import Any, Iterator, Optional, Sequence, Union
 import numpy as np
 
 from backend.database import MongoDBClient
-from backend.components import ForenameConvertor, SentenceData
+from backend.components import ForenameConvertor, Corpus
 from backend.utils import string_resources
 
 
@@ -50,8 +50,8 @@ class TrainerBackend(ABC):
         np.random.shuffle(items)
         return iter(items)
 
-    def _get_sentence_data(self) -> SentenceData:
-        return SentenceData(self._non_english_language, self._train_english)
+    def _get_sentence_data(self) -> Corpus:
+        return Corpus(self._non_english_language, self._train_english)
 
     # -----------------
     # Training

@@ -1,7 +1,7 @@
 # TODO
 
 ## GENERIC:
-    - [ ] alter SentenceData datastructure such being indexable mapping 
+    - [ ] alter Corpus datastructure such being indexable mapping 
             of english sentence -> translation manners
     - [ ] set up jenkins pipeline, docker system tests
     - [ ] do something about repetitive entering of 'to' when adding 

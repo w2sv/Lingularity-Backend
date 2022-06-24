@@ -5,7 +5,7 @@ from typing import List
 import pytest
 
 from backend.paths import SENTENCE_DATA_DIR_PATH
-from backend.trainers.base import SentenceData
+from backend.trainers.base import Corpus
 from backend.utils import strings
 import backend.utils.strings.modification
 
@@ -25,7 +25,7 @@ def _random_language() -> str:
     (_random_language())
 ])
 def test_reading_in(language):
-    sentence_data = SentenceData(language)
+    sentence_data = Corpus(language)
 
     for column in [sentence_data.english_sentences, sentence_data.foreign_language_sentences]:
         assert all(map(lambda character: not strings.contains_unicode(character), column.comprising_characters))
@@ -36,7 +36,7 @@ def test_reading_in(language):
     False
 ])
 def test_language_assignment(train_english):
-    sentence_data = SentenceData('Czech', train_english=train_english)
+    sentence_data = Corpus('Czech', train_english=train_english)
     assert sentence_data.foreign_language_sentences[0] == 'Ahoj!'
 
 
@@ -60,14 +60,14 @@ def test_language_assignment(train_english):
         '"Jingle Bells"'])
 ])
 def test_bilaterally_present_quote_stripping(language, stripped_bilateral_quotes):
-    sentence_data: SentenceData = SentenceData('Italian')
+    sentence_data: Corpus = Corpus('Italian')
     sentence_data.strip_bilaterally_present_quotes()
 
     assert _bilaterally_present_strings(sentence_data, query_strings=stripped_bilateral_quotes, special_character_removed=True) == []
 
 
 def _bilaterally_present_strings(
-        sentence_data: SentenceData,
+        sentence_data: Corpus,
         query_strings: List[str],
         special_character_removed: bool) -> List[str]:
 
@@ -85,7 +85,7 @@ def _bilaterally_present_strings(
     return bilaterally_present_strings
 
 
-# def find_sentences_comprising_string_bilaterally(sentence_data: SentenceData, string: str) -> List[str]:
+# def find_sentences_comprising_string_bilaterally(sentence_data: Corpus, string: str) -> List[str]:
 #     sentences = []
 #
 #     for english_sentence, foreign_language_sentence in sentence_data._zipped_sentence_iterator:
@@ -108,7 +108,7 @@ def _bilaterally_present_strings(
     ('Serbian', False)
 ])
 def test_employs_latin_script(language, expected):
-    assert SentenceData(language).foreign_language_sentences.uses_latin_script == expected
+    assert Corpus(language).foreign_language_sentences.uses_latin_script == expected
 
 
 @pytest.mark.parametrize('language,tokens,expected', [
@@ -118,7 +118,7 @@ def test_employs_latin_script(language, expected):
     ('Korean', ['고마워', '잡아'], True)
 ])
 def test_comprises_tokens(language, tokens, expected):
-    assert SentenceData(language).foreign_language_sentences.comprises_tokens(query_tokens=tokens) == expected
+    assert Corpus(language).foreign_language_sentences.comprises_tokens(query_tokens=tokens) == expected
 
 
 # ----------------
@@ -131,4 +131,4 @@ def test_comprises_tokens(language, tokens, expected):
 #     ('Basque', [['Tomek', 'Tomem', 'Tomen', 'Tomeri', 'Tomi'], ['Johnekin'], ['Maria', 'Marik', 'Mary', 'Maryk', 'Maryri'], []])
 # ])
 # def test_deduce_default_forenames_translations(language, expected):
-#     assert list(map(sorted, SentenceData(language).deduce_forename_translations())) == expected
+#     assert list(map(sorted, Corpus(language).deduce_forename_translations())) == expected

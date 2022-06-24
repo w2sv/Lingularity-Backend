@@ -1,7 +1,7 @@
 from pathlib import Path
 from typing import Any, Dict, Iterator, List, Optional, Set, Tuple
 
-from monostate import MonoStateOwner
+from monostate import MonoState
 import pymongo
 from pymongo import errors
 
@@ -36,7 +36,7 @@ def instantiate_database_client(server_selection_timeout=1_000) -> Optional[erro
     return None
 
 
-class MongoDBClient(MonoStateOwner):
+class MongoDBClient(MonoState):
     def __init__(self, server_selection_timeout=1_000):
         super().__init__()
 

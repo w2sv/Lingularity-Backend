@@ -1,4 +1,3 @@
-from functools import cached_property
 from typing import Dict, Optional
 
 from backend.database.document_types import VocableData
@@ -11,11 +10,17 @@ class VocableEntry:
 
     @classmethod
     def new(cls, vocable: str, translation: str):
-        return cls(vocable, {
-            't': translation,
-            'tf': 0,
-            's': 0.0,
-            'lfd': None})
+        return cls(
+            vocable,
+            data=VocableData(
+                {
+                    't': translation,
+                    'tf': 0,
+                    's': 0.0,
+                    'lfd': None
+                }
+            )
+        )
 
     def __init__(self, vocable: str, data: VocableData):
         self.vocable: str = vocable
@@ -32,9 +37,9 @@ class VocableEntry:
     def meaning(self) -> str:
         return self._data['t']
 
-    @cached_property
+    @property
     def the_stripped_meaning(self):
-        return self._data['t'].lstrip('the ')
+        return self.meaning.lstrip('the ')
 
     def __str__(self) -> str:
         """ Returns:
@@ -45,11 +50,6 @@ class VocableEntry:
     def alter(self, new_vocable: str, new_meaning: str):
         self.vocable = new_vocable
         self._data['t'] = new_meaning
-
-        try:
-            del self.the_stripped_meaning
-        except AttributeError:
-            pass
 
     # ----------------
     # Last Faced Date

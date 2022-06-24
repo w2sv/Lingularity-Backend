@@ -5,7 +5,7 @@ from typing import Dict, Iterator, List, Sequence, Tuple
 import numpy as np
 
 from backend.trainers.base import TrainerBackend
-from backend.components import get_token_sentence_indices_map, SegmentSentenceIndicesMap, SentenceData
+from backend.components import get_token_sentence_indices_map, SegmentSentenceIndicesMap, Corpus
 from backend.components.vocable_entry import VocableData, VocableEntry
 
 
@@ -13,7 +13,7 @@ class VocableTrainerBackend(TrainerBackend):
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 
-        self._sentence_data: SentenceData = self._get_sentence_data()
+        self._sentence_data: Corpus = self._get_sentence_data()
         self._token_2_sentence_indices: SegmentSentenceIndicesMap = get_token_sentence_indices_map(self.language, load_normalizer=True)
 
         self.paraphrases: Dict[str, List[str]] = None  # type: ignore

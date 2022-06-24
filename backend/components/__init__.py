@@ -4,5 +4,5 @@ from .mappings.token import (
     SegmentSentenceIndicesMap,
     TokenOccurrencesMap
 )
-from .sentence_data import SentenceData
+from .corpus import Corpus
 from .vocable_entry import VocableEntry
