@@ -1,22 +1,26 @@
+from __future__ import annotations
+
 from pathlib import Path
-from typing import Any, Dict, Iterator, List, Optional, Set, Tuple
+from typing import Iterator, Type
 
 from monostate import MonoState
 import pymongo
-from pymongo import errors
+from pymongo.database import Database
+from pymongo.errors import ConfigurationError, ServerSelectionTimeoutError
 
 from backend.utils import date, string_resources
+from backend.utils.io import load_config
 from .document_types import (
     LastSessionStatistics,
     TrainingChronic,
     VocableData
 )
-from backend.utils.io import load_config
+
 
 # TODO: change vocable data keywords in database, user collection names
 
 
-VocableEntryDictRepr = Dict[str, VocableData]
+VocableEntryDictRepr = dict[str, VocableData]
 
 
 def _client_endpoint(host: str, user: str, password: str) -> str:
@@ -25,13 +29,13 @@ def _client_endpoint(host: str, user: str, password: str) -> str:
     return f'mongodb+srv://{user}:{password}@{host}'
 
 
-def instantiate_database_client(server_selection_timeout=1_000) -> Optional[errors.PyMongoError]:
+def instantiate_database_client(server_selection_timeout=1_000) -> Type[ConfigurationError] | Type[ServerSelectionTimeoutError] | None:
     """ Returns:
             instantiation_error: errors.PyMongoError in case of existence, otherwise None """
 
     try:
         MongoDBClient(server_selection_timeout=server_selection_timeout).assert_connection()
-    except (errors.ConfigurationError, errors.ServerSelectionTimeoutError) as error:
+    except (ConfigurationError, ServerSelectionTimeoutError) as error:
         return type(error)
     return None
 
@@ -40,8 +44,8 @@ class MongoDBClient(MonoState):
     def __init__(self, server_selection_timeout=1_000):
         super().__init__()
 
-        self._user: Optional[str] = None
-        self._language: Optional[str] = None
+        self._user: str | None = None
+        self._language: str | None = None
 
         credentials = load_config(Path(__file__).parent / 'credentials.ini')
         section = 'DEFAULT'
@@ -62,7 +66,7 @@ class MongoDBClient(MonoState):
         self.query_password('janek')
 
     @property
-    def user(self) -> Optional[str]:
+    def user(self) -> str | None:
         return self._user
 
     @user.setter
@@ -74,7 +78,7 @@ class MongoDBClient(MonoState):
         return self.user is not None
 
     @property
-    def language(self) -> Optional[str]:
+    def language(self) -> str | None:
         return self._language
 
     @language.setter
@@ -86,13 +90,13 @@ class MongoDBClient(MonoState):
     # --------------------
     @property
     def mail_addresses(self) -> Iterator[str]:
-        return (self._cluster[user_name]['general'].find_one(filter={'_id': 'unique'})['emailAddress'] for user_name in self.usernames)
+        return (self._cluster[user_name]['general'].find_one(filter={'_id': 'unique'})['emailAddress'] for user_name in self.usernames)  # type: ignore
 
     def mail_address_taken(self, mail_address: str) -> bool:
         return mail_address in self.mail_addresses
 
     @property
-    def usernames(self) -> List[str]:
+    def usernames(self) -> list[str]:
         """ Equals databases """
 
         return self._cluster.list_database_names()
@@ -101,10 +105,12 @@ class MongoDBClient(MonoState):
     # User specific
     # --------------------
     @property
-    def user_data_base(self) -> pymongo.collection.Collection:
+    def user_data_base(self) -> Database:
+        assert self._user is not None
         return self._cluster[self._user]
 
     def remove_user(self):
+        assert self.user is not None
         self._cluster.drop_database(self.user)
 
     def remove_language_data(self, language: str):
@@ -118,7 +124,7 @@ class MongoDBClient(MonoState):
     # Collections
     # ------------------
     @staticmethod
-    def _get_ids(collection: pymongo.collection.Collection) -> List[Any]:
+    def _get_ids(collection: pymongo.collection.Collection) -> list:
         return list(collection.find().distinct('_id'))
 
     # ------------------
@@ -154,13 +160,13 @@ class MongoDBClient(MonoState):
 
     def query_password(self, username: str) -> str:
         self._user = username
-        password = self.general_collection.find_one({'_id': 'unique'})['password']
+        password = self.general_collection.find_one({'_id': 'unique'})['password']  # type: ignore
         self._user = None
         return password
 
-    def query_last_session_statistics(self) -> Optional[LastSessionStatistics]:
+    def query_last_session_statistics(self) -> LastSessionStatistics | None:
         try:
-            return self.general_collection.find_one({'_id': 'unique'})['lastSession']
+            return self.general_collection.find_one({'_id': 'unique'})['lastSession']  # type: ignore
         except KeyError:
             return None
 
@@ -177,11 +183,12 @@ class MongoDBClient(MonoState):
 
         return self.user_data_base['vocabulary']
 
-    def query_vocabulary_possessing_languages(self) -> Set[str]:
+    def query_vocabulary_possessing_languages(self) -> set[str]:
         return set(self._get_ids(self.vocabulary_collection))
 
-    def query_vocabulary(self) -> Iterator[Tuple[str, VocableData]]:
+    def query_vocabulary(self) -> Iterator[tuple[str, VocableData]]:
         vocable_entries = self.vocabulary_collection.find_one(self._language)
+        assert vocable_entries is not None
         vocable_entries.pop('_id')
         return iter(vocable_entries.items())
 
@@ -237,7 +244,7 @@ class MongoDBClient(MonoState):
             upsert=True
         )
 
-    def query_languages(self) -> List[str]:
+    def query_languages(self) -> list[str]:
         return self._get_ids(self.training_chronic_collection)
 
     def inject_session_statistics(self, trainer_abbreviation: str, n_faced_items: int):
@@ -272,7 +279,7 @@ class MongoDBClient(MonoState):
                                                      update={'$set': {f'accent.{variety_identifier}.use': value}},
                                                      upsert=True)
 
-    def query_language_variety(self) -> Optional[str]:
+    def query_language_variety(self) -> str | None:
         """ assumes existence of varietyIdentifier sub dict in case of
             existence of language related collection """
 
@@ -294,9 +301,9 @@ class MongoDBClient(MonoState):
                                                      update={'$set': {f'accent.{variety}.playbackSpeed': playback_speed}},
                                                      upsert=True)
 
-    def query_playback_speed(self, variety: str) -> Optional[float]:
+    def query_playback_speed(self, variety: str) -> float | None:
         try:
-            return self.language_metadata_collection.find_one(filter={'_id': self._language})['accent'][variety]['playbackSpeed']
+            return self.language_metadata_collection.find_one(filter={'_id': self._language})['accent'][variety]['playbackSpeed']  # type: ignore
         except (AttributeError, KeyError, TypeError):
             return None
 
@@ -311,7 +318,7 @@ class MongoDBClient(MonoState):
 
     def query_tts_enablement(self):
         try:
-            return self.language_metadata_collection.find_one(filter={'_id': self._language}).get('ttsEnabled')
+            return self.language_metadata_collection.find_one(filter={'_id': self._language}).get('ttsEnabled')  # type: ignore
         except AttributeError:
             return None
 
@@ -324,8 +331,8 @@ class MongoDBClient(MonoState):
                                                          f'referenceLanguage': reference_language}},
                                                      upsert=True)
 
-    def query_reference_language(self) -> Optional[str]:
+    def query_reference_language(self) -> str | None:
         try:
-            return self.language_metadata_collection.find_one(filter={'_id': string_resources.ENGLISH})['referenceLanguage']
+            return self.language_metadata_collection.find_one(filter={'_id': string_resources.ENGLISH})['referenceLanguage']  # type: ignore
         except TypeError:
             return None

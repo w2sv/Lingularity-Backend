@@ -1,6 +1,8 @@
+from __future__ import annotations
+
 import collections
 from functools import cached_property
-from typing import Callable, Counter, Iterable, Iterator, List, Optional, Set, Tuple
+from typing import Callable, Counter, Iterable, Iterator
 
 import numpy as np
 from textacy.similarity import levenshtein
@@ -53,6 +55,9 @@ class Corpus(np.ndarray):
 
         return np.asarray(processed_sentence_data)
 
+    def __getitem__(self, item) -> Corpus:
+        return super().__getitem__(item).astype(self.__class__)
+
     def strip_bilaterally_present_quotes(self):
         """ Strips double-quotation mark quote(s) with marks from respective sentence data
             rows if quote(s) present in both the english and foreign language sentence, possibly
@@ -85,7 +90,7 @@ class Corpus(np.ndarray):
         def uses_latin_script(self) -> bool:
             return is_of_latin_script(self[-1], remove_non_alphabetic_characters=True)
 
-        def comprises_tokens(self, query_tokens: List[str], query_length_percentage=1.0) -> bool:
+        def comprises_tokens(self, query_tokens: list[str], query_length_percentage=1.0) -> bool:
             """ Args:
                     query_tokens: tokens which have to be comprised by sentence data in order for method to
                         return True
@@ -105,7 +110,7 @@ class Corpus(np.ndarray):
             return False
 
         @property
-        def comprising_characters(self) -> Set[str]:
+        def comprising_characters(self) -> set[str]:
             characters = set()
 
             for sentence in self:
@@ -124,7 +129,7 @@ class Corpus(np.ndarray):
     # -------------------
     # Translation query
     # -------------------
-    def query_translation(self, english_sentence: str, file_max_length_percentage: float = 1.0) -> Optional[str]:
+    def query_translation(self, english_sentence: str, file_max_length_percentage: float = 1.0) -> str | None:
         """ Args:
                  english_sentence: complete phrase including punctuation whose translation_field ought to be queried
                  file_max_length_percentage: percentage of sentence_data file length after exceeding which
@@ -133,7 +138,7 @@ class Corpus(np.ndarray):
         for content, i in ((sentence_pair[0], i) for i, sentence_pair in
                            enumerate(self[:int(len(self) * file_max_length_percentage)])):
             if content == english_sentence:
-                return self[i][1]
+                return self[i, 1]  # type: ignore
         return None
 
     # -------------------
@@ -143,7 +148,7 @@ class Corpus(np.ndarray):
     # -------------------
     # .Proper Nouns
     # -------------------
-    def deduce_proper_nouns(self) -> Set[str]:
+    def deduce_proper_nouns(self) -> set[str]:
         """ Returns:
                 set of lowercase proper nouns, deduced by
                     title scripture,
@@ -162,9 +167,9 @@ class Corpus(np.ndarray):
             >>> sorted(Corpus('Basque').deduce_proper_nouns())
             ['alexander', 'bell', 'boston', 'graham', 'mary', 'nikon', 'tokyo', 'tom'] """
 
-        lowercase_english_tokens: Set[str] = set()
-        lowercase_foreign_language_tokens: Set[str] = set()
-        uppercase_sentence_pair_tokens_list: List[List[Set[str]]] = []
+        lowercase_english_tokens: set[str] = set()
+        lowercase_foreign_language_tokens: set[str] = set()
+        uppercase_sentence_pair_tokens_list: list[list[set[str]]] = []
 
         # accumulate flat language token sets, uppercase sentence pair tokens
         # list with maintained sentence index dimension
@@ -182,7 +187,7 @@ class Corpus(np.ndarray):
         #   are at least 2 characters long,
         #   present in both sentences of one sentence pair,
         #   not present in both language lowercase token caches
-        proper_nouns: Set[str] = set()
+        proper_nouns: set[str] = set()
         for non_lowercase_sentence_pair_tokens in uppercase_sentence_pair_tokens_list:
             bilaterally_present_tokens = filter(lambda token: len(token) > 1, iterables.intersection(non_lowercase_sentence_pair_tokens))
             lowered_bilaterally_present_tokens = map(lambda token: token.lower(), bilaterally_present_tokens)
@@ -193,8 +198,8 @@ class Corpus(np.ndarray):
     # -------------------
     # .Forename Translations
     # -------------------
-    def deduce_forename_translations(self) -> List[Set[str]]:
-        candidates_list: List[Set[str]] = []
+    def deduce_forename_translations(self) -> list[set[str]]:
+        candidates_list: list[set[str]] = []
 
         for default_forename in DEFAULT_FORENAMES:
             candidates_list.append(self._deduce_proper_noun_translation(default_forename))
@@ -208,12 +213,12 @@ class Corpus(np.ndarray):
         return candidates_list
 
     @property
-    def _deduce_proper_noun_translation(self) -> Callable[[str], Set[str]]:
+    def _deduce_proper_noun_translation(self) -> Callable[[str], set[str]]:
         if self.foreign_language_sentences.uses_latin_script:
             return self._deduce_proper_noun_translations_latin_script_language
         return self._deduce_proper_noun_translations_non_latin_script_language
 
-    def _deduce_proper_noun_translations_latin_script_language(self, proper_noun: str) -> Set[str]:
+    def _deduce_proper_noun_translations_latin_script_language(self, proper_noun: str) -> set[str]:
         MIN_CANDIDATE_PN_LEVENSHTEIN = 0.5
         MAX_FILTERED_CANDIDATE_CONFIRMED_TRANSLATION_LEVENSHTEIN = 0.8
 
@@ -228,21 +233,21 @@ class Corpus(np.ndarray):
                     elif token.islower():
                         lowercase_words_cache.add(token)
 
-        filtered_candidates: Set[str] = set()
+        filtered_candidates: set[str] = set()
         for candidate in filter(lambda c: c.lower() not in lowercase_words_cache, candidates):
             if all(levenshtein_score <= MAX_FILTERED_CANDIDATE_CONFIRMED_TRANSLATION_LEVENSHTEIN for levenshtein_score in map(lambda filtered_candidate: levenshtein(filtered_candidate, candidate), filtered_candidates)):
                 filtered_candidates.add(candidate)
 
         return filtered_candidates
 
-    def _deduce_proper_noun_translations_non_latin_script_language(self, proper_noun: str) -> Set[str]:
+    def _deduce_proper_noun_translations_non_latin_script_language(self, proper_noun: str) -> set[str]:
         CANDIDATE_BAN_INDICATION = -1
         MIN_CANDIDATE_CONFIRMATION_OCCURRENCE = 20
         MAGIC_NUMBER = 3
 
-        translation_candidates: Set[str] = set()
+        translation_candidates: set[str] = set()
         translation_candidate_2_n_occurrences: Counter[str] = collections.Counter()
-        translation_comprising_sentence_substrings_cache: List[Set[str]] = []
+        translation_comprising_sentence_substrings_cache: list[set[str]] = []
         for english_sentence, foreign_language_sentence in self._zipped_sentence_iterator:
             if proper_noun in get_unique_meaningful_tokens(english_sentence, apostrophe_splitting=True):
                 foreign_language_sentence = strip_special_characters(foreign_language_sentence, include_dash=True, include_apostrophe=True).replace(' ', '')
@@ -277,11 +282,11 @@ class Corpus(np.ndarray):
         return self._strip_overlaps(translation_candidates)
 
     @property
-    def _zipped_sentence_iterator(self) -> Iterator[Tuple[str, str]]:
+    def _zipped_sentence_iterator(self) -> Iterator[tuple[str, str]]:
         return zip(self.english_sentences, self.foreign_language_sentences)
 
     @staticmethod
-    def _strip_overlaps(translation_candidates: Iterable[str]) -> Set[str]:
+    def _strip_overlaps(translation_candidates: Iterable[str]) -> set[str]:
         if longest_partial_overlap := longest_continuous_partial_overlap(translation_candidates, min_length=2):
             return Corpus._strip_overlaps(list(filter(lambda candidate: longest_partial_overlap not in candidate, translation_candidates)) + [longest_partial_overlap])  # type: ignore
         return set(translation_candidates)

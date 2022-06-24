@@ -1,5 +1,5 @@
 from itertools import chain
-from typing import *
+from typing import Iterator
 
 from backend.components import Corpus
 from backend.components.mappings.token import get_token_maps

@@ -1,5 +1,5 @@
 from collections import defaultdict
-from typing import *
+from typing import Iterator
 
 from backend.components import Corpus
 from backend.components.mappings.token import (get_token_maps, SegmentSentenceIndicesMap, TokenOccurrencesMap)
@@ -15,9 +15,9 @@ def filter_sentence_data(sentence_data: Corpus, language: str) -> Corpus:
 
 
 def _sentence_indices_with_comprising_tokens(sentence_indices_map: SegmentSentenceIndicesMap,
-                                             occurrences_map: TokenOccurrencesMap) -> Iterator[Tuple[int, Iterator[int]]]:
+                                             occurrences_map: TokenOccurrencesMap) -> Iterator[tuple[int, Iterator[int]]]:
 
-    sentence_index_2_comprising_tokens: Dict[int, Set[str]] = defaultdict(set)
+    sentence_index_2_comprising_tokens: dict[int, set[str]] = defaultdict(set)
     for token, sentence_indices in sentence_indices_map.items():
         for sentence_index in sentence_indices:
             sentence_index_2_comprising_tokens[sentence_index].add(token)
