@@ -4,7 +4,7 @@ from typing import Dict, List, Optional, Set
 from gtts import gTTS, lang
 
 from backend.ops.google import GoogleOperation
-from backend.paths import DATA_DIR_PATH
+from backend.data_paths import DATA_DIR_PATH
 from backend.utils import dictionary, io
 
 

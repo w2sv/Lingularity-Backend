@@ -3,7 +3,7 @@ import collections
 from functools import wraps
 from typing import Any, Mapping
 
-from backend.paths import TOKEN_MAPS_DIR_PATH
+from backend.data_paths import TOKEN_MAPS_DIR_PATH
 from backend.utils import io, strings
 
 

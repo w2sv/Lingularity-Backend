@@ -4,7 +4,7 @@ from typing import List, Optional
 
 from backend.utils.io import load_json
 from .types import (CountryMetadata, DefaultForenamesTranslations, LanguageMetadata, SubstitutionForenamesMap)
-from ..paths import META_DATA_DIR_PATH
+from ..data_paths import META_DATA_DIR_PATH
 
 
 language_metadata: LanguageMetadata = load_json(META_DATA_DIR_PATH / 'language.json')

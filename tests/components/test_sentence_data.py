@@ -4,7 +4,7 @@ from typing import List
 
 import pytest
 
-from backend.paths import SENTENCE_DATA_DIR_PATH
+from backend.data_paths import SENTENCE_DATA_DIR_PATH
 from backend.trainers.base import Corpus
 from backend.utils import strings
 import backend.utils.strings.modification

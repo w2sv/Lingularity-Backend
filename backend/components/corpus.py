@@ -6,7 +6,7 @@ import numpy as np
 from textacy.similarity import levenshtein
 from tqdm import tqdm
 
-from backend.paths import sentence_data_path
+from backend.data_paths import sentence_data_path
 from backend.components.forename_conversion import DEFAULT_FORENAMES
 from backend.utils import iterables
 from backend.utils.strings import (
