@@ -1,19 +1,12 @@
 from abc import ABC
-import collections
+from collections.abc import Mapping
 from functools import wraps
-from typing import Any, Mapping
 
 from backend.data_paths import TOKEN_MAPS_DIR_PATH
 from backend.utils import io, strings
 
 
-class CustomMapping(ABC, collections.Mapping):
-    _Type = Mapping[Any, Any]
-
-    def __init_subclass__(cls):
-        if CustomMapping._Type is cls._Type:
-            raise NotImplementedError("CustomMapping subclass required to override _Type")
-
+class CustomMapping(ABC, Mapping):
     @property
     def data_file_name(self) -> str:
         """ Returns:
@@ -21,14 +14,14 @@ class CustomMapping(ABC, collections.Mapping):
 
         return '-'.join(map(lambda string: string.lower(), strings.split_at_uppercase(self.__class__.__name__)[1:]))
 
-    def _data(self, language: str, create: bool) -> _Type:
+    def _data(self, language: str, create: bool):
         return {} if create else self._load_data(language=language)
 
-    def _load_data(self, language: str) -> _Type:
+    def _load_data(self, language: str):
         return io.load_pickle(file_path=f'{TOKEN_MAPS_DIR_PATH}/{language}/{self.data_file_name}')
 
     @property
-    def data(self) -> _Type:
+    def data(self):
         return {**self}
 
 
