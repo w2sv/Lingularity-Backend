@@ -11,7 +11,7 @@ def filter_sentence_data(sentence_data: Corpus, language: str) -> Corpus:
 
     sentence_indices_with_comprising_occurrences = _sentence_indices_with_comprising_tokens(sentence_indices_map, occurrences_map)
     sentence_indices = (sentence_index for sentence_index, comprising_occurrences in sentence_indices_with_comprising_occurrences if all((occurrence >= occurrences_map.occurrence_mean for occurrence in comprising_occurrences)))
-    return sentence_data[list(sentence_indices)]
+    return sentence_data[list(sentence_indices)]  # type: ignore
 
 
 def _sentence_indices_with_comprising_tokens(sentence_indices_map: SegmentSentenceIndicesMap,

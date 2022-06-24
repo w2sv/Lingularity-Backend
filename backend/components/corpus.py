@@ -55,9 +55,6 @@ class Corpus(np.ndarray):
 
         return np.asarray(processed_sentence_data)
 
-    def __getitem__(self, item) -> Corpus:
-        return super().__getitem__(item).astype(self.__class__)
-
     def strip_bilaterally_present_quotes(self):
         """ Strips double-quotation mark quote(s) with marks from respective sentence data
             rows if quote(s) present in both the english and foreign language sentence, possibly
@@ -138,7 +135,7 @@ class Corpus(np.ndarray):
         for content, i in ((sentence_pair[0], i) for i, sentence_pair in
                            enumerate(self[:int(len(self) * file_max_length_percentage)])):
             if content == english_sentence:
-                return self[i, 1]  # type: ignore
+                return self[i, 1]
         return None
 
     # -------------------

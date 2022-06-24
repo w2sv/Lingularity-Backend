@@ -1,20 +1,17 @@
-import random
-
 import pytest
 
 from backend.trainers.base import ForenameConvertor
 
 
-SEED = 69
-
-
-italian_forename_converter = ForenameConvertor("Italian", train_english=False)
+@pytest.fixture
+def italian_forename_converter():
+    return ForenameConvertor("Italian", train_english=False)
 
 
 @pytest.mark.parametrize('sentence_pair,expected_sentence_pair', [
     (
             ["Unfortunately, Toms handy was stuck in Marys flytrap.", "Purtroppo, Toms Handy è rimasto bloccato nella trappola per mosche di Marie."],
-            ['Unfortunately, Noahs handy was stuck in Emmas flytrap.', 'Purtroppo, Noah Handy è rimasto bloccato '
+            ['Unfortunately, Noahs handy was stuck in Emmas flytrap.', 'Purtroppo, Noahs Handy è rimasto bloccato '
                                                                      'nella trappola per mosche di Emma.']
     ),
     (
@@ -31,13 +28,14 @@ italian_forename_converter = ForenameConvertor("Italian", train_english=False)
             ["Noah's purpose in college is to get a degree.", "Lo scopo di Noah all'università è laurearsi."]
     )
 ])
-def test_forenames_conversion_italian(sentence_pair, expected_sentence_pair):
-    random.seed(SEED)
+def test_forenames_conversion_italian(sentence_pair, expected_sentence_pair, italian_forename_converter):
     for converted, expected in zip(italian_forename_converter(sentence_pair), expected_sentence_pair):
         assert converted == expected
 
 
-chinese_forename_converter = ForenameConvertor("Chinese", train_english=False)
+@pytest.fixture
+def chinese_forename_converter():
+    return ForenameConvertor("Chinese", train_english=False)
 
 
 @pytest.mark.parametrize('sentence_pair,expected_sentence_pair', [
@@ -66,7 +64,6 @@ chinese_forename_converter = ForenameConvertor("Chinese", train_english=False)
             ["I don't believe Chia-hao's version of the story.", '我不相信家豪的说法。']
     )
 ])
-def test_forenames_conversion_chinese(sentence_pair, expected_sentence_pair):
-    random.seed(SEED)
+def test_forenames_conversion_chinese(sentence_pair, expected_sentence_pair, chinese_forename_converter):
     for converted, expected in zip(chinese_forename_converter(sentence_pair), expected_sentence_pair):
         assert converted == expected

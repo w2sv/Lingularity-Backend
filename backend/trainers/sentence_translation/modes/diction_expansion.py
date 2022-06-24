@@ -9,4 +9,4 @@ def filter_sentence_data(sentence_data: Corpus, language: str) -> Corpus:
     sentence_indices_map, occurrences_map = get_token_maps(language)
 
     tokens: Iterator[str] = (token for token, n_occurrences in occurrences_map.items() if n_occurrences <= occurrences_map.occurrence_mean)
-    return sentence_data[list(set(chain.from_iterable(map(sentence_indices_map.__getitem__, tokens))))]
+    return sentence_data[list(set(chain.from_iterable(map(sentence_indices_map.__getitem__, tokens))))]  # type: ignore
