@@ -1,7 +1,7 @@
 from pathlib import Path
 
 
-_ROOT = Path(__file__).parent.parent.parent
+_ROOT = Path(__file__).parent.parent
 
 DATA_DIR_PATH = _ROOT / 'data'
 
