@@ -1,2 +1,0 @@
-graft data
-recursive-include backend *.ini

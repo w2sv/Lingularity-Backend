@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.1"
+description = "Lingularity Backend"
+authors = ["Janek Zangenberg <zangenbergjanek@googlemail.com>"]
+license = "GPL-3.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "*"
+unidecode = "*"
+nltk = "*"
+pymongo = "*"
+tqdm = "*"
+dnspython = "*"
+playsound = "*"
+cryptography = "3.1"
+gTTS = "*"
+spacy = "*"
+monostate = "*"
+textacy = "*"  # mining
+
+[tool.poetry.dev-dependencies]
+mypy = "*"
+pytest = "*"
+coverage = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
