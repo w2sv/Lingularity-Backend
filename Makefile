@@ -15,14 +15,17 @@ mypy:
 	mypy backend/
 
 pytest:
-	coverage run -m pytest -vv tests/
+	coverage run -m pytest -vv tests/ --randomly-seed=69
 
 coverage-report:
 	coverage xml
 	coverage report
 
 doctest:
-	python -m pytest -vv --doctest-modules --doctest-continue-on-failure ./backend/
+	python -m pytest \
+				-vv \
+				--doctest-modules \
+				--doctest-continue-on-failure ./backend/
 
 ##############
 # Publishing #

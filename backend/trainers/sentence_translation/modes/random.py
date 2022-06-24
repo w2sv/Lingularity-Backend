@@ -1,4 +1,4 @@
-from backend.components import Corpus
+from backend.types.corpus import Corpus
 
 
 def filter_sentence_data(sentence_data: Corpus, language: str) -> Corpus:

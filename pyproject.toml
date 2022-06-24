@@ -6,7 +6,7 @@ authors = ["Janek Zangenberg <zangenbergjanek@googlemail.com>"]
 license = "GPL-3.0"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 numpy = "*"
 unidecode = "*"
 nltk = "*"
@@ -24,6 +24,7 @@ textacy = "*"  # mining
 mypy = "*"
 pytest = "*"
 coverage = "*"
+pytest-randomly = "*"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

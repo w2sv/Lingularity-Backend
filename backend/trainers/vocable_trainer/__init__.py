@@ -1,12 +1,14 @@
 from collections import defaultdict
 from itertools import starmap, tee
-from typing import Dict, Iterator, List, Sequence, Tuple
+from typing import Iterator
 
 import numpy as np
 
+from backend.database import VocableData
 from backend.trainers.base import TrainerBackend
-from backend.components import get_token_sentence_indices_map, SegmentSentenceIndicesMap, Corpus
-from backend.components.vocable_entry import VocableData, VocableEntry
+from backend.types.corpus import Corpus
+from backend.types.token_maps import get_token_sentence_indices_map, SegmentSentenceIndicesMap
+from backend.types.vocable_entry import VocableEntry
 
 
 class VocableTrainerBackend(TrainerBackend):
@@ -16,7 +18,7 @@ class VocableTrainerBackend(TrainerBackend):
         self._sentence_data: Corpus = self._get_sentence_data()
         self._token_2_sentence_indices: SegmentSentenceIndicesMap = get_token_sentence_indices_map(self.language, load_normalizer=True)
 
-        self.paraphrases: Dict[str, List[str]] = None  # type: ignore
+        self.paraphrases: dict[str, list[str]] = None  # type: ignore
         self.new_vocable_entries: Iterator[VocableEntry] = None  # type: ignore
 
     @property
@@ -36,12 +38,15 @@ class VocableTrainerBackend(TrainerBackend):
         self.new_vocable_entries = filter(lambda entry: entry.is_new, vocable_entries_to_be_trained)
         self._set_item_iterator(vocable_entries_to_be_trained)
 
-    def _vocable_entries_to_be_trained(self) -> List[VocableEntry]:
-        tokens_with_vocable_data: Iterator[Tuple[str, VocableData]] = filter(lambda token_with_data: not VocableEntry.is_perfected(data=token_with_data[1]), self.mongodb_client.query_vocabulary())
+    def _vocable_entries_to_be_trained(self) -> list[VocableEntry]:
+        tokens_with_vocable_data: Iterator[tuple[str, VocableData]] = filter(
+            lambda token_with_data: not VocableEntry.is_perfected(data=token_with_data[1]),
+            self.mongodb_client.query_vocabulary()
+        )
         return list(starmap(VocableEntry, tokens_with_vocable_data))
 
     @staticmethod
-    def _find_paraphrases(vocable_entries: List[VocableEntry]) -> Dict[str, List[str]]:
+    def _find_paraphrases(vocable_entries: list[VocableEntry]) -> dict[str, list[str]]:
         """ Returns:
                 Dict[english_meaning: [synonym_1, synonym_2, ..., synonym_n]]
 
@@ -58,7 +63,7 @@ class VocableTrainerBackend(TrainerBackend):
     # ---------------
     # Training
     # ---------------
-    def related_sentence_pairs(self, entry: str, n: int) -> Sequence[Sequence[str]]:
+    def related_sentence_pairs(self, entry: str, n: int) -> list[tuple[str, str]]:
         if (sentence_indices := self._token_2_sentence_indices.query_sentence_indices(entry)) is None:
             return []
 
@@ -67,4 +72,4 @@ class VocableTrainerBackend(TrainerBackend):
 
         assert nd_sentence_indices is not None
 
-        return self._sentence_data[nd_sentence_indices[:n]]
+        return self._sentence_data[nd_sentence_indices[:n]].tolist()
