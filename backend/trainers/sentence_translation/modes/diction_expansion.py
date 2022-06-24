@@ -1,8 +1,8 @@
 from itertools import chain
 from typing import Iterator
 
-from backend.components import Corpus
-from backend.components.mappings.token import get_token_maps
+from backend.types.corpus import Corpus
+from backend.types.token_maps import get_token_maps
 
 
 def filter_sentence_data(sentence_data: Corpus, language: str) -> Corpus:

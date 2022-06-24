@@ -3,7 +3,8 @@ from collections import defaultdict
 from itertools import repeat
 from typing import *
 
-from backend.components.mappings.base import _display_creation_kickoff_message, CustomMapping
+from backend.types.token_maps.custom_mapping import CustomMapping
+from backend.types.token_maps.utils import display_creation_kickoff_message
 from backend.utils import iterables, strings
 
 
@@ -23,7 +24,7 @@ class SegmentSentenceIndicesMap(defaultdict, CustomMapping, ABC):
     def __init__(self, language: str, create: bool):
         super().__init__(list, self._data(language, create=create))
 
-    @_display_creation_kickoff_message('Creating {}...')
+    @display_creation_kickoff_message('Creating {}...')
     def create(self, sentence_index_2_unique_tokens: SentenceIndex2UniqueTokens):
         for sentence_index, tokens in sentence_index_2_unique_tokens.items():
             for token in tokens:

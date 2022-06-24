@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from backend.trainers.base import TrainerBackend
 from backend.components.tts import TTS
 from backend.trainers.sentence_translation import modes
@@ -7,8 +9,12 @@ class SentenceTranslationTrainerBackend(TrainerBackend):
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 
-        self.tts = TTS(self.language)
+        self.tts: TTS | None = TTS(self.language) if TTS.available_for(self.language) else None
         self._sentence_data_filter: modes.SentenceDataFilter = None  # type: ignore
+
+    @property
+    def tts_available(self) -> bool:
+        return self.tts is not None
 
     @property
     def sentence_data_filter(self) -> modes.SentenceDataFilter:

@@ -4,9 +4,11 @@ from typing import Iterator
 
 import numpy as np
 
-from backend.components import Corpus, get_token_sentence_indices_map, SegmentSentenceIndicesMap
-from backend.components.vocable_entry import VocableData, VocableEntry
+from backend.database import VocableData
 from backend.trainers.base import TrainerBackend
+from backend.types.corpus import Corpus
+from backend.types.token_maps import get_token_sentence_indices_map, SegmentSentenceIndicesMap
+from backend.types.vocable_entry import VocableEntry
 
 
 class VocableTrainerBackend(TrainerBackend):

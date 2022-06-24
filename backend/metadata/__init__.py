@@ -1,10 +1,11 @@
+from __future__ import annotations
+
 import logging
 import random
-from typing import List, Optional
 
+from backend.metadata.types import CountryMetadata, LanguageMetadata, SubstitutionForenamesMap
 from backend.utils.io import load_json
-from .types import (CountryMetadata, DefaultForenamesTranslations, LanguageMetadata, SubstitutionForenamesMap)
-from ..data_paths import META_DATA_DIR_PATH
+from backend.metadata.paths import META_DATA_DIR_PATH
 
 
 language_metadata: LanguageMetadata = load_json(META_DATA_DIR_PATH / 'language.json')
@@ -30,7 +31,7 @@ def get_substitution_forenames_map(language: str) -> SubstitutionForenamesMap:
     return substitution_forenames_map
 
 
-def data_beset_countries_language_employed_in(language: str) -> Optional[List[str]]:
+def data_beset_countries_language_employed_in(language: str) -> list[str] | None:
     uses_latin_script = language_metadata[language]['properties']['usesLatinScript']
     countries_language_employed_in = language_metadata[language]['countriesEmployedIn']
 

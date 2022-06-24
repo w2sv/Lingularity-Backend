@@ -22,7 +22,8 @@ coverage-report:
 	coverage report
 
 doctest:
-	python -m pytest -vv \
+	python -m pytest \
+				-vv \
 				--doctest-modules \
 				--doctest-continue-on-failure ./backend/
 

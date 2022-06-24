@@ -1,8 +1,8 @@
 from collections import defaultdict
 from typing import Iterator
 
-from backend.components import Corpus
-from backend.components.mappings.token import (get_token_maps, SegmentSentenceIndicesMap, TokenOccurrencesMap)
+from backend.types.corpus import Corpus
+from backend.types.token_maps import get_token_maps, SegmentSentenceIndicesMap, TokenOccurrencesMap
 from backend.utils import iterables
 
 

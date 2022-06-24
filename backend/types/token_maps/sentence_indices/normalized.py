@@ -5,7 +5,7 @@ import nltk
 import spacy
 from spacy.tokens import Doc, Token
 
-from backend.components.mappings.token.sentence_indices.base import SegmentSentenceIndicesMap
+from backend.types.token_maps.sentence_indices import SegmentSentenceIndicesMap
 from backend.ops.normalizing import lemmatizing
 from backend.ops.normalizing.lemmatizing import spacy_models
 from backend.utils import strings
@@ -104,9 +104,3 @@ class LemmaSentenceIndicesMap(NormalizedTokenSentenceIndicesMap):
 
         pos_value_sorted_lemmas = [token.lemma_ for token in sorted(tokens, key=lambda t: lemmatizing.POS_VALUES.get(t.pos_, lemmatizing.PosValue.Null).value)]
         return self._find_best_fit_sentence_indices(relevance_sorted_tokens=pos_value_sorted_lemmas)
-
-
-if __name__ == '__main__':
-    _map = LemmaSentenceIndicesMap('Italian')
-    print(list(_map.keys()))
-    print(len(_map))

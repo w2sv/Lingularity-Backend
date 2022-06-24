@@ -1,21 +1,25 @@
+from __future__ import annotations
+
 import collections
 from functools import cached_property
-from typing import *
+from typing import Iterable
 
 import numpy as np
 from tqdm import tqdm
 
-from backend.components.mappings.base import _display_creation_kickoff_message, CustomMapping
+from backend.types.token_maps.custom_mapping import CustomMapping
+from backend.types.token_maps.utils import display_creation_kickoff_message
 
 
-ParaphrasesTokens = List[List[str]]
-ParaphrasesTokensList = List[ParaphrasesTokens]
+ParaphrasesTokens = list[list[str]]
+ParaphrasesTokensList = list[ParaphrasesTokens]
 
 ParaphrasesPOSTagsList = ParaphrasesTokensList
 
 
 class TokenOccurrencesMap(collections.defaultdict, CustomMapping):
-    _Type = DefaultDict[str, int]
+    """ _Type = DefaultDict[str, int] """
+
     _INCLUSION_POS_TYPES = {'VERB', 'NOUN', 'ADJ', 'ADV', 'ADP', 'INTJ'}
 
     def __init__(self, language: str, create=False):
@@ -26,19 +30,19 @@ class TokenOccurrencesMap(collections.defaultdict, CustomMapping):
     # ----------------
     def create(self,
                paraphrases_tokens_list: ParaphrasesTokensList,
-               paraphrases_pos_tags_list: Optional[ParaphrasesPOSTagsList]):
+               paraphrases_pos_tags_list: ParaphrasesPOSTagsList | None):
 
         if paraphrases_pos_tags_list is not None:
             self._create_with_pos_tags(paraphrases_tokens_list, paraphrases_pos_tags_list)
         else:
             self._create_without_pos_tags(paraphrases_tokens_list)
 
-    @_display_creation_kickoff_message('Creating {} without POS tags...')
+    @display_creation_kickoff_message('Creating {} without POS tags...')
     def _create_without_pos_tags(self, paraphrases_tokens_list: ParaphrasesTokensList):
         for paraphrases_tokens in tqdm(paraphrases_tokens_list):
             self._insert_paraphrases_tokens(paraphrases_tokens)
 
-    @_display_creation_kickoff_message('Creating {} POS tags...')
+    @display_creation_kickoff_message('Creating {} POS tags...')
     def _create_with_pos_tags(self,
                               paraphrases_tokens_list: ParaphrasesTokensList,
                               paraphrases_pos_tags_list: ParaphrasesPOSTagsList):
@@ -52,8 +56,8 @@ class TokenOccurrencesMap(collections.defaultdict, CustomMapping):
             self[token] += occurrences
 
     @staticmethod
-    def _inter_paraphrases_duplicate_stripped_tokens(paraphrases_tokens: Iterable[Iterable[str]]) -> Counter[str]:
-        token_counter: Counter[str] = collections.Counter()
+    def _inter_paraphrases_duplicate_stripped_tokens(paraphrases_tokens: Iterable[Iterable[str]]) -> collections.Counter[str]:
+        token_counter: collections.Counter[str] = collections.Counter()
         for tokens in paraphrases_tokens:
             token_counter += collections.Counter(tokens) - token_counter
         return token_counter
@@ -71,14 +75,9 @@ class TokenOccurrencesMap(collections.defaultdict, CustomMapping):
 
 
 def create_token_occurrences_map(paraphrases_tokens_list: ParaphrasesTokensList,
-                                 paraphrases_pos_tags_list: Optional[ParaphrasesPOSTagsList]) -> TokenOccurrencesMap:
+                                 paraphrases_pos_tags_list: ParaphrasesPOSTagsList | None) -> TokenOccurrencesMap:
 
     token_occurrences_map = TokenOccurrencesMap('', create=True)
     token_occurrences_map.create(paraphrases_tokens_list=paraphrases_tokens_list,
                                  paraphrases_pos_tags_list=paraphrases_pos_tags_list)
     return token_occurrences_map
-
-
-if __name__ == '__main__':
-    _map = TokenOccurrencesMap('Italian')
-    print(_map)

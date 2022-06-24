@@ -7,9 +7,10 @@ from typing import Callable, Counter, Iterable, Iterator
 import numpy as np
 from textacy.similarity import levenshtein
 from tqdm import tqdm
+from typing_extensions import TypeAlias
 
-from backend.data_paths import sentence_data_path
-from backend.components.forename_conversion import DEFAULT_FORENAMES
+from backend.metadata.paths import sentence_data_path
+from backend.components.forename_convertor import DEFAULT_FORENAMES
 from backend.utils import iterables
 from backend.utils.strings import (
     continuous_substrings,
@@ -21,6 +22,8 @@ from backend.utils.strings import (
 from backend.utils.strings.modification import strip_multiple, strip_special_characters, strip_unicode
 
 # TODO: move mining related stuff to Miner
+
+SentencePair: TypeAlias = tuple[str, str]
 
 class Corpus(np.ndarray):
     """ Abstraction of sentence pair data
@@ -158,11 +161,10 @@ class Corpus(np.ndarray):
                 uppercase tokens originating from quotes
 
             >>> sorted(Corpus('Croatian').deduce_proper_nouns())
-            ['android', 'boston', 'braille', 'fi', 'japan', 'john', 'kyoto', 'london', 'louis', 'mama', 'mary',
-            'new', 'oh', 'sumatra', 'tom', 'tv', 'wi', 'york']
+             ['android', 'boston', 'braille', 'fi', 'japan', 'john', 'london', 'los', 'louis', 'mama', 'mary', 'new', 'oh', 'sumatra', 'tom', 'tv', 'wi', 'york']
 
             >>> sorted(Corpus('Basque').deduce_proper_nouns())
-            ['alexander', 'bell', 'boston', 'graham', 'mary', 'nikon', 'tokyo', 'tom'] """
+            ['alexander', 'bell', 'boston', 'graham', 'mary', 'tokyo', 'tom'] """
 
         lowercase_english_tokens: set[str] = set()
         lowercase_foreign_language_tokens: set[str] = set()

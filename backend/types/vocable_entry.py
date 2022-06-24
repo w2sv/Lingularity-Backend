@@ -1,4 +1,4 @@
-from typing import Dict, Optional
+from __future__ import annotations
 
 from backend.database.document_types import VocableData
 from backend.utils.date import n_days_ago
@@ -27,7 +27,7 @@ class VocableEntry:
         self._data: VocableData = data
 
     @property
-    def as_dict(self) -> Dict[str, VocableData]:
+    def as_dict(self) -> dict[str, VocableData]:
         return {self.vocable: self._data}
 
     # ----------------
@@ -55,7 +55,7 @@ class VocableEntry:
     # Last Faced Date
     # ----------------
     @property
-    def last_faced_date(self) -> Optional[str]:
+    def last_faced_date(self) -> str | None:
         return self._data['lfd']
 
     @property

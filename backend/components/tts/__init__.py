@@ -16,15 +16,21 @@ class TTS:
     def __init__(self, language: str):
         super().__init__()
 
+        self._language = language
+
         self._mongodb_client: MongoDBClient = MongoDBClient.instance()
         self._google_tts_client = GoogleTTSClient(language)
 
-        self._language_variety: Optional[str] = self._retrieve_previously_set_language_variety()
+        self._accent: Optional[str] = self._retrieve_previously_set_language_variety()
 
-        self._playback_speed: float = self._get_playback_speed(self._language_variety)  # TODO
+        self._playback_speed: float = self._get_playback_speed(self._accent)  # TODO
         self._enabled: bool = self._get_enablement()
 
         self._audio: Optional[_TemporaryFileWrapper] = None
+
+    @property
+    def _language_identifier(self) -> str:
+        return self._language + (self._accent or str())
 
     @property
     def audio_playable(self) -> bool:
@@ -43,7 +49,7 @@ class TTS:
 
     @property
     def language_variety(self) -> Optional[str]:
-        return self._language_variety
+        return self._accent
 
     @language_variety.setter
     def language_variety(self, variety: str):
@@ -53,15 +59,15 @@ class TTS:
             Enters change into database, deletes _audio file of old accent """
 
         # avoid unnecessary database calls
-        if variety != self._language_variety:
-            self._language_variety = variety
+        if variety != self._accent:
+            self._accent = variety
 
             # set usage of current accent to False in database if already assigned
-            if self._language_variety is not None:
-                self._mongodb_client.set_language_variety_usage(self._language_variety, False)
+            if self._accent is not None:
+                self._mongodb_client.set_language_variety_usage(self._accent, False)
 
             # set usage of new accent to True in database
-            self._mongodb_client.set_language_variety_usage(self._language_variety, True)
+            self._mongodb_client.set_language_variety_usage(self._accent, True)
 
     # -----------------
     # Enablement
@@ -107,12 +113,10 @@ class TTS:
 
     @playback_speed.setter
     def playback_speed(self, value: float):
-        assert self._language_variety is not None
-
         # avoid unnecessary database calls
         if value != self._playback_speed:
             self._playback_speed = value
-            self._mongodb_client.set_playback_speed(self._language_variety, self._playback_speed)
+            self._mongodb_client.set_playback_speed(self._language_identifier, self._playback_speed)
 
     @staticmethod
     def is_valid_playback_speed(playback_speed_input: str) -> bool:
@@ -125,9 +129,7 @@ class TTS:
     # Downloading / Playing
     # -----------------------
     def download_audio(self, text: str):
-        assert self._language_variety is not None
-
-        self._audio = self._google_tts_client.get_audio(text, self._language_variety)
+        self._audio = self._google_tts_client.get_audio(text, self._accent)
 
     def play_audio(self, suspend_for_playback_duration=True):
         """ Suspends program for playback duration, deletes _audio file subsequently """
