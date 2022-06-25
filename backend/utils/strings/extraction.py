@@ -1,12 +1,14 @@
+from __future__ import annotations
+
 import re
-from typing import Iterable, List, Optional, Set
+from typing import Iterable
 
 from backend.utils import iterables
 from backend.utils.strings import classification, modification, substrings
 from backend.utils.strings._utils import _APOSTROPHES, _DASHES
 
 
-def get_article_stripped_noun(noun_candidate: str) -> Optional[str]:
+def get_article_stripped_noun(noun_candidate: str) -> str | None:
     """ Returns:
             None in case of article identification inability
 
@@ -26,11 +28,11 @@ def get_article_stripped_noun(noun_candidate: str) -> Optional[str]:
     return None
 
 
-def split_at_uppercase(string: str) -> List[str]:
+def split_at_uppercase(string: str) -> list[str]:
     return re.findall('[A-Z][a-z]*', string)
 
 
-def split_multiple(string: str, delimiters: List[str]) -> List[str]:
+def split_multiple(string: str, delimiters: list[str]) -> list[str]:
     """
     >>> split_multiple('wildly,unreasonable:yet,lit!?af', delimiters=list(',:!?'))
     ['wildly', 'unreasonable', 'yet', 'lit', '', 'af'] """
@@ -38,19 +40,18 @@ def split_multiple(string: str, delimiters: List[str]) -> List[str]:
     return modification.replace_multiple(string, delimiters[:-1], delimiters[-1]).split(delimiters[-1])
 
 
-def substring_occurrence_positions(string: str, substring: str) -> List[int]:
+def substring_occurrence_positions(string: str, substring: str) -> list[int]:
     return [match.start() for match in re.finditer(pattern=substring, string=string)]
 
 
-def get_meaningful_tokens(text: str, apostrophe_splitting=False) -> List[str]:
-    """ Working Principle:
-            - strip special characters, unicode remnants
-            - break text into distinct tokens
-            - remove tokens containing digit(s)
+def meaningful_tokens(text: str, apostrophe_splitting=False) -> list[str]:
+    """ - strip special characters & unicode remnants
+        - break text into distinct types
+        - remove types containing digit(s)
 
-        >>> meaningful_tokens = get_meaningful_tokens("Parce que il n'avait rien à foutre avec ces 3 saloppes qu'il avait rencontrées dans le Bonn17, disait dieu.", apostrophe_splitting=True)
-        >>> meaningful_tokens
-        ['Parce', 'que', 'il', 'n', 'avait', 'rien', 'à', 'foutre', 'avec', 'ces', 'saloppes', 'qu', 'il', 'avait', 'rencontrées', 'dans', 'le', 'disait', 'dieu'] """
+        >>> meaningful_tokens("Parce qu'il n'avait rien à foutre avec ces 3 saloppes, qu'il avait rencontrées dans le Bonn17, disait dieu.", apostrophe_splitting=True)
+        ['Parce', 'qu', 'il', 'n', 'avait', 'rien', 'à', 'foutre', 'avec', 'ces', 'saloppes', 'qu', 'il', 'avait',
+        'rencontrées', 'dans', 'le', 'disait', 'dieu'] """
 
     special_character_stripped = modification.strip_special_characters(text, include_apostrophe=False, include_dash=False)
 
@@ -62,24 +63,23 @@ def get_meaningful_tokens(text: str, apostrophe_splitting=False) -> List[str]:
     return list(filter(lambda token: len(token) and classification.is_digit_free(token), tokens))
 
 
-def get_unique_meaningful_tokens(text: str, apostrophe_splitting=False) -> Set[str]:
+def meaningful_types(text: str, apostrophe_splitting=False) -> set[str]:
     """
-    >>> unique_meaningful_tokens = get_unique_meaningful_tokens("Parce que il n'avait rien à foutre avec ces 3 saloppes qu'il avait rencontrées dans le Bonn17, disait dieu.", apostrophe_splitting=True)
-    >>> sorted(unique_meaningful_tokens)
+    >>> sorted(meaningful_types("Parce que il n'avait rien à foutre avec ces 3 saloppes qu'il avait rencontrées dans le Bonn17, disait dieu.", apostrophe_splitting=True))
     ['Parce', 'avait', 'avec', 'ces', 'dans', 'dieu', 'disait', 'foutre', 'il', 'le', 'n', 'qu', 'que', 'rencontrées', 'rien', 'saloppes', 'à'] """
 
-    return set(get_meaningful_tokens(text, apostrophe_splitting=apostrophe_splitting))
+    return set(meaningful_tokens(text, apostrophe_splitting=apostrophe_splitting))
 
 
-def common_start(strings: Iterable[str]) -> str:
+def longest_common_prefix(strings: Iterable[str]) -> str:
     """ Returns:
             empty string in case of strings not possessing common start
 
-        >>> common_start(['spaventare', 'spaventoso', 'spazio'])
+        >>> longest_common_prefix(['spaventare', 'spaventoso', 'spazio'])
         'spa'
-        >>> common_start(['avventura', 'avventurarsi'])
+        >>> longest_common_prefix(['avventura', 'avventurarsi'])
         'avventura'
-        >>> common_start(['nascondersi', 'incolpare'])
+        >>> longest_common_prefix(['nascondersi', 'incolpare'])
         '' """
 
     buffer = ''
@@ -91,7 +91,7 @@ def common_start(strings: Iterable[str]) -> str:
     return buffer
 
 
-def longest_continuous_partial_overlap(strings: Iterable[str], min_length=1) -> Optional[str]:
+def longest_continuous_partial_overlap(strings: Iterable[str], min_length=1) -> str | None:
     """ Returns:
             longest retrievable substring of length >= min_length present in at least
             two strings at any position respectively, None if no such substring being
@@ -113,7 +113,7 @@ def longest_continuous_partial_overlap(strings: Iterable[str], min_length=1) -> 
     return [None, buffer][len(buffer) > min_length]
 
 
-def find_quoted_text(text: str) -> List[str]:
+def find_quoted_text(text: str) -> list[str]:
     """ Returns:
             text parts located between double(!) quotation marks without marks themselves
 

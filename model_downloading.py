@@ -1,6 +1,7 @@
-from typing import List
-import os
-import subprocess
+""" https://spacy.io/usage/models
+
+    TODO: extend by newly added models and create respective token maps """
+
 
 def model_name(language: str, model_size='sm') -> str:
     return f'{LANGUAGE_2_MODEL_IDENTIFIERS[language][0]}_core_{LANGUAGE_2_MODEL_IDENTIFIERS[language][1]}_{model_size}'
@@ -25,40 +26,20 @@ LANGUAGE_2_MODEL_IDENTIFIERS = {
 }
 
 
-def model_package_links(version: str) -> List[str]:
-    def package_link(language):
-        _model_name = model_name(language)
-        return f"{_model_name} @ https://github.com/explosion/spacy-models/releases/download/{_model_name}-{version}/{_model_name}-{version}.tar.gz"
+import os
+import subprocess
 
-    return [package_link(language) for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys()]
+import spacy
 
 
-ADDITIONAL_DEPENDENCIES = [
-            'sudachipy sudachidict_core',
-            'jieba'
-        ]
+def download_models():
+    for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys():
+        spacy.cli.download(model_name(language=language))
+        # _install_os_dependencies_if_required(language)
 
 
-if __name__ == '__main__':
-    """ Download all available spacy models alongside additional dependencies """
+def _install_os_dependencies_if_required(language: str):
+    relative_os_dependency_installation_file_path = f'os-dependencies/languages/{language}.sh'
 
-
-    def download_models():
-        for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys():
-            subprocess.run(f'python -m spacy download {model_name(language=language)}', shell=True)
-            _install_os_dependencies_if_required(language)
-
-
-    def _install_os_dependencies_if_required(language: str):
-        relative_os_dependency_installation_file_path = f'os-dependencies/languages/{language}.sh'
-
-        if os.path.exists(f'{os.getcwd()}/{relative_os_dependency_installation_file_path}'):
-            subprocess.run(f'bash {relative_os_dependency_installation_file_path}', shell=True)
-
-
-    def install_additional_dependencies():
-        for dependency in ADDITIONAL_DEPENDENCIES:
-            subprocess.run(f'pip install {dependency}')
-
-    download_models()
-    install_additional_dependencies()
+    if os.path.exists(f'{os.getcwd()}/{relative_os_dependency_installation_file_path}'):
+        subprocess.run(f'bash {relative_os_dependency_installation_file_path}', shell=True)

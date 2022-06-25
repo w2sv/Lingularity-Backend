@@ -7,7 +7,7 @@ import numpy as np
 from backend.database import VocableData
 from backend.trainers.base import TrainerBackend
 from backend.types.corpus import Corpus
-from backend.types.token_maps import get_token_sentence_indices_map, SegmentSentenceIndicesMap
+from backend.types.token_maps import get_token_sentence_indices_map, Token2ComprisingSentenceIndices
 from backend.types.vocable_entry import VocableEntry
 
 
@@ -16,7 +16,7 @@ class VocableTrainerBackend(TrainerBackend):
         super().__init__(non_english_language, train_english)
 
         self._sentence_data: Corpus = self._get_sentence_data()
-        self._token_2_sentence_indices: SegmentSentenceIndicesMap = get_token_sentence_indices_map(self.language, load_normalizer=True)
+        self._token_2_sentence_indices: Token2ComprisingSentenceIndices = get_token_sentence_indices_map(self.language, load_normalizer=True)
 
         self.paraphrases: dict[str, list[str]] = None  # type: ignore
         self.new_vocable_entries: Iterator[VocableEntry] = None  # type: ignore
@@ -64,7 +64,7 @@ class VocableTrainerBackend(TrainerBackend):
     # Training
     # ---------------
     def related_sentence_pairs(self, entry: str, n: int) -> list[tuple[str, str]]:
-        if (sentence_indices := self._token_2_sentence_indices.query_sentence_indices(entry)) is None:
+        if (sentence_indices := self._token_2_sentence_indices.comprising_sentence_indices(entry)) is None:
             return []
 
         nd_sentence_indices = np.asarray(sentence_indices)

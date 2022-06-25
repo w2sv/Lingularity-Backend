@@ -1,10 +1,10 @@
 from .classification import contains_article, contains_unicode, is_digit_free, is_of_latin_script
 from .extraction import (
-    common_start,
+    longest_common_prefix,
     find_quoted_text,
     get_article_stripped_noun,
-    get_meaningful_tokens,
-    get_unique_meaningful_tokens,
+    meaningful_tokens,
+    meaningful_types,
     longest_continuous_partial_overlap,
     split_at_uppercase,
     split_multiple,

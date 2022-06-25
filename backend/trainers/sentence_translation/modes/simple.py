@@ -2,7 +2,7 @@ from collections import defaultdict
 from typing import Iterator
 
 from backend.types.corpus import Corpus
-from backend.types.token_maps import get_token_maps, SegmentSentenceIndicesMap, TokenOccurrencesMap
+from backend.types.token_maps import get_token_maps, Token2ComprisingSentenceIndices, TokenOccurrencesMap
 from backend.utils import iterables
 
 
@@ -14,7 +14,7 @@ def filter_sentence_data(sentence_data: Corpus, language: str) -> Corpus:
     return sentence_data[list(sentence_indices)]  # type: ignore
 
 
-def _sentence_indices_with_comprising_tokens(sentence_indices_map: SegmentSentenceIndicesMap,
+def _sentence_indices_with_comprising_tokens(sentence_indices_map: Token2ComprisingSentenceIndices,
                                              occurrences_map: TokenOccurrencesMap) -> Iterator[tuple[int, Iterator[int]]]:
 
     sentence_index_2_comprising_tokens: dict[int, set[str]] = defaultdict(set)

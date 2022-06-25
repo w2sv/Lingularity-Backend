@@ -1,20 +1,22 @@
-from typing import List, Optional
+from __future__ import annotations
 
-from backend.types.token_maps.sentence_indices import SegmentSentenceIndicesMap
-from backend.utils.strings import get_meaningful_tokens
+from backend.types.token_maps.sentence_indices import Token2ComprisingSentenceIndices
+from backend.utils.strings import meaningful_types
 
 
-class TokenSentenceIndicesMap(SegmentSentenceIndicesMap):
-    """ keys: punctuation-stripped, proper noun-stripped, digit-free tokens """
+class Token2SentenceIndicesMap(Token2ComprisingSentenceIndices):
+    """ Tokens: punctuation-stripped, proper noun-stripped, digit-free types """
 
-    def __init__(self, language: str, create=False):
-        super().__init__(language, create=create)
+    @staticmethod
+    def is_available_for(language: str) -> bool:
+        return True
 
-    def tokenize(self, sentence: str) -> List[str]:
-        return get_meaningful_tokens(sentence, apostrophe_splitting=True)
+    def best_possibly_normalized_meaningful_types(self, sentence: str) -> set[str]:
+        return meaningful_types(sentence, apostrophe_splitting=True)
 
     # ----------------
     # Query
     # ----------------
-    def query_sentence_indices(self, vocable_entry: str) -> Optional[List[int]]:
-        return self._find_best_fit_sentence_indices(relevance_sorted_tokens=self._get_length_sorted_meaningful_tokens(vocable_entry))
+    def comprising_sentence_indices(self, vocable: str) -> list[int] | None:
+        return self._find_best_fit_sentence_indices(
+            relevance_sorted_types=self._length_sorted_meaningful_types(vocable))

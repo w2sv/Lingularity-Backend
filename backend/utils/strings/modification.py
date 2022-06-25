@@ -56,7 +56,7 @@ def _to_ascii(string: str) -> str:
 def strip_accents(string: str) -> str:
     """ Returns:
             original string in case of string not being of latin script,
-            otherwise accent stripped string"
+            otherwise accent stripped string
 
         Special characters have no impact of the working of this function whatsoever and are returned
             as are
@@ -77,7 +77,7 @@ def strip_accents(string: str) -> str:
 
 def strip_special_characters(string: str, include_apostrophe=False, include_dash=False) -> str:
     """
-    >>> strip_special_characters('\\wha/Za"„“”!#$%&()*+,./:;<=>?@[]^\\_`{|}~»«。¡¿')
+    >>> strip_special_characters(r'\\wha/Za"„“”!#$%&()*+,./:;<=>?@[]^\\_`{|}~»«。¡¿')
     'whaZa'
     >>> strip_special_characters('–wha/Za' + _APOSTROPHES + _DASHES, include_dash=True, include_apostrophe=True)
     'whaZa' """

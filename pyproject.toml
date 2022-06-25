@@ -19,6 +19,10 @@ gTTS = "*"
 spacy = "*"
 monostate = "*"
 textacy = "*"  # mining
+more_itertools = "*"
+
+[tool.poetry.scripts]
+download-spacy-models = "model_downloading:download_models"
 
 [tool.poetry.dev-dependencies]
 mypy = "*"

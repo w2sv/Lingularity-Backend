@@ -17,7 +17,7 @@ from backend.utils.io import PathLike
 from backend.utils.strings import (
     continuous_substrings,
     find_quoted_text,
-    get_unique_meaningful_tokens,
+    meaningful_types,
     is_of_latin_script,
     longest_continuous_partial_overlap
 )
@@ -95,18 +95,18 @@ class Corpus(np.ndarray):
 
         def comprises_tokens(self, query_tokens: list[str], query_length_percentage=1.0) -> bool:
             """ Args:
-                    query_tokens: tokens which have to be comprised by sentence data in order for method to
+                    query_tokens: types which have to be comprised by sentence data in order for method to
                         return True
-                    query_length_percentage: sentence data max length up to which presence of query tokens will be
+                    query_length_percentage: sentence data max length up to which presence of query types will be
                         queried """
 
-            # return False if query tokens of different script type than sentences
+            # return False if query types of different script type than sentences
             if self.uses_latin_script != is_of_latin_script(''.join(query_tokens), remove_non_alphabetic_characters=False):
                 return False
 
             query_tokens_set = set(query_tokens)
             for sentence in self[:int(len(self) * query_length_percentage)]:
-                meaningful_tokens = get_unique_meaningful_tokens(sentence, apostrophe_splitting=False)
+                meaningful_tokens = meaningful_types(sentence, apostrophe_splitting=False)
                 query_tokens_set -= meaningful_tokens
                 if not len(query_tokens_set):
                     return True
@@ -161,7 +161,7 @@ class Corpus(np.ndarray):
 
             Note:
                 strip_bilaterally_present_quotes to be called before invocation in order to eliminate
-                uppercase tokens originating from quotes
+                uppercase types originating from quotes
 
             >>> sorted(Corpus('Croatian').deduce_proper_nouns())
              ['android', 'boston', 'braille', 'fi', 'japan', 'john', 'london', 'los', 'louis', 'mama', 'mary', 'new', 'oh', 'sumatra', 'tom', 'tv', 'wi', 'york']
@@ -173,11 +173,11 @@ class Corpus(np.ndarray):
         lowercase_foreign_language_tokens: set[str] = set()
         uppercase_sentence_pair_tokens_list: list[list[set[str]]] = []
 
-        # accumulate flat language token sets, uppercase sentence pair tokens
+        # accumulate flat language token sets, uppercase sentence pair types
         # list with maintained sentence index dimension
         for sentence_pair in tqdm(self._zipped_sentence_iterator, total=len(self)):
             uppercase_sentence_pair_tokens = []
-            for unique_sentence_tokens, lowercase_tokens_cache in zip(list(map(get_unique_meaningful_tokens, sentence_pair)), [lowercase_english_tokens, lowercase_foreign_language_tokens]):
+            for unique_sentence_tokens, lowercase_tokens_cache in zip(list(map(meaningful_types, sentence_pair)), [lowercase_english_tokens, lowercase_foreign_language_tokens]):
                 unique_lowercase_tokens = set(filter(lambda token: token.islower(), unique_sentence_tokens))
 
                 lowercase_tokens_cache.update(unique_lowercase_tokens)
@@ -228,8 +228,8 @@ class Corpus(np.ndarray):
         lowercase_words_cache = set()
 
         for english_sentence, foreign_language_sentence in self._zipped_sentence_iterator:
-            if proper_noun in get_unique_meaningful_tokens(english_sentence, apostrophe_splitting=True):
-                for token in get_unique_meaningful_tokens(foreign_language_sentence, apostrophe_splitting=True):
+            if proper_noun in meaningful_types(english_sentence, apostrophe_splitting=True):
+                for token in meaningful_types(foreign_language_sentence, apostrophe_splitting=True):
                     if token.istitle() and levenshtein(proper_noun, token) >= MIN_CANDIDATE_PN_LEVENSHTEIN:
                         candidates.add(token)
                     elif token.islower():
@@ -251,7 +251,7 @@ class Corpus(np.ndarray):
         translation_candidate_2_n_occurrences: Counter[str] = collections.Counter()
         translation_comprising_sentence_substrings_cache: list[set[str]] = []
         for english_sentence, foreign_language_sentence in self._zipped_sentence_iterator:
-            if proper_noun in get_unique_meaningful_tokens(english_sentence, apostrophe_splitting=True):
+            if proper_noun in meaningful_types(english_sentence, apostrophe_splitting=True):
                 foreign_language_sentence = strip_special_characters(foreign_language_sentence, include_dash=True, include_apostrophe=True).replace(' ', '')
 
                 # skip sentences possessing substring already being present in candidates list

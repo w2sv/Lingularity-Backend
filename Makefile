@@ -3,8 +3,13 @@ SHELL=/bin/bash
 # --------------
 # Installing
 # --------------
+install: _install install-spacy-models
+
+_install:
+	poetry install
+
 install-spacy-models:
-	python -m model_downloading
+	poetry run download-spacy-models
 
 # --------------
 # Testing

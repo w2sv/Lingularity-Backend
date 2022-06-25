@@ -1,7 +1,5 @@
 from itertools import chain, islice, repeat, starmap, zip_longest
-from typing import Generator, Iterator, List, Tuple
-
-from more_itertools import unzip
+from typing import Generator, Iterator
 
 from backend.utils import iterables
 from backend.utils.generators import return_value_capturing_generator
@@ -18,22 +16,33 @@ def deviation_masks(response: str, ground_truth: str) -> Iterator[_DeviationMask
 
     zipped_deviation_mask = _ith_char_mask_iterator(response, ground_truth)
 
-    comparator_masks = unzip(zipped_deviation_mask)
+    comparator_masks = zip(*zipped_deviation_mask)
     comparators = [response, ground_truth]
     start_offsets = [zipped_deviation_mask.return_value, 0]
 
     # unzip ith char masks, indent response by found start offset
-    return starmap(lambda mask, comparator, start_offset: islice(mask, start_offset, len(comparator) + start_offset), zip(comparator_masks, comparators, start_offsets))
+    return starmap(
+        lambda mask, comparator, start_offset: islice(
+            mask,
+            start_offset,
+            len(comparator) + start_offset
+        ),
+        zip(
+            comparator_masks,
+            comparators,
+            start_offsets
+        )
+    )
 
 
-_IthCharMask = Tuple[bool, bool]
+_IthCharMask = tuple[bool, bool]
 
 
 @return_value_capturing_generator
 def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_start_offset=0) -> Generator[_IthCharMask, None, int]:
     """ Yields:
             ZippedCharMasks, one of which is a mask of 2 boolean values
-            representing whether or not the ith chars of response and ground_truth comprise a deviation
+            representing whether the ith chars of response and ground_truth comprise a deviation
             with ZippedCharMasks[i][0] corresponding to response[i] and ZippedCharMasks[i][1] to ground_truth[i]
 
             Note:
@@ -62,7 +71,7 @@ def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_star
             if not all(chars_i):
                 # -----Length of one of the strings has been exceeded-------
 
-                zipped_char_mask: List[bool] = [False, False]
+                zipped_char_mask: list[bool] = [False, False]
 
                 # iterate over chars_i to determine exceeded string
                 # and thus the zipped_char_mask for the remaining indices
@@ -118,11 +127,3 @@ def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_star
             yield True, True
 
     return response_mask_start_offset
-
-
-if __name__ == '__main__':
-    # scossare scorsare
-
-    response_mask, ground_truth_mask = deviation_masks(response='scossaray', ground_truth='scossare')
-    print(list(response_mask))
-    print(list(ground_truth_mask))

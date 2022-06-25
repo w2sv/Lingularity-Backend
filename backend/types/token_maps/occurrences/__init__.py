@@ -1,13 +1,13 @@
 from __future__ import annotations
 
-from collections import Counter, defaultdict
+from collections import Counter
 from functools import cached_property
 from typing import Iterable
 
 import numpy as np
 from tqdm import tqdm
 
-from backend.types.token_maps.custom_mapping import CustomMapping
+from backend.types.token_maps.custom_mapping import TokenMap
 from backend.types.token_maps.utils import display_creation_kickoff_message
 
 
@@ -17,13 +17,14 @@ ParaphrasesTokensList = list[ParaphrasesTokens]
 ParaphrasesPOSTagsList = ParaphrasesTokensList
 
 
-class TokenOccurrencesMap(defaultdict[str, int], CustomMapping):
+class TokenOccurrencesMap(TokenMap[int]):
     """ _Type = DefaultDict[str, int] """
 
     _INCLUSION_POS_TYPES = {'VERB', 'NOUN', 'ADJ', 'ADV', 'ADP', 'INTJ'}
 
-    def __init__(self, language: str, create=False):
-        super().__init__(int, self._data(language, create=create))
+    @staticmethod
+    def _factory():
+        return int
 
     # ----------------
     # Creation
@@ -77,7 +78,7 @@ class TokenOccurrencesMap(defaultdict[str, int], CustomMapping):
 def create_token_occurrences_map(paraphrases_tokens_list: ParaphrasesTokensList,
                                  paraphrases_pos_tags_list: ParaphrasesPOSTagsList | None) -> TokenOccurrencesMap:
 
-    token_occurrences_map = TokenOccurrencesMap('', create=True)
+    token_occurrences_map = TokenOccurrencesMap()
     token_occurrences_map.create(paraphrases_tokens_list=paraphrases_tokens_list,
                                  paraphrases_pos_tags_list=paraphrases_pos_tags_list)
     return token_occurrences_map

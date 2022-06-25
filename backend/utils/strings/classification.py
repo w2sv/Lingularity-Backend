@@ -27,7 +27,7 @@ def is_of_latin_script(string: str, remove_non_alphabetic_characters=True) -> bo
 
 def contains_article(noun_candidate: str) -> bool:
     """ Returns:
-            True if exactly two distinct tokens present in noun_candidate if split by whitespace
+            True if exactly two distinct types present in noun_candidate if split by whitespace
             as well as apostrophes and the first token, that is the article candidate shorter than
             the second, that is the noun candidate
 
