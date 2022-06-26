@@ -1,7 +1,7 @@
 import unicodedata
 
-from backend.utils.strings import extraction
 from backend.utils.strings._char_sets import APOSTROPHES
+from backend.utils.strings.extraction import split_multiple
 
 
 def is_digit_free(string: str) -> bool:
@@ -46,5 +46,5 @@ def contains_article(noun_candidate: str) -> bool:
     >>> contains_article("c'est-à-dire")
     False """
 
-    return len((tokens := extraction.split_multiple(noun_candidate, delimiters=list(APOSTROPHES) + [' ', '-']))) == 2 and len(
-        tokens[0]) < len(tokens[1])
+    tokens = split_multiple(noun_candidate, delimiters=list(APOSTROPHES) + [' ', '-'])
+    return len(tokens) == 2 and len(tokens[0]) < len(tokens[1])
