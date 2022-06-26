@@ -1,11 +1,11 @@
 from itertools import chain
 from typing import Iterator
 
-from backend.types.corpus import Corpus
+from backend.types.bilingual_corpus import BilingualCorpus
 from backend.types.token_maps import get_token_maps
 
 
-def filter_sentence_data(sentence_data: Corpus, language: str) -> Corpus:
+def filter_sentence_data(sentence_data: BilingualCorpus, language: str) -> BilingualCorpus:
     sentence_indices_map, occurrences_map = get_token_maps(language)
 
     tokens: Iterator[str] = (token for token, n_occurrences in occurrences_map.items() if n_occurrences <= occurrences_map.occurrence_mean)

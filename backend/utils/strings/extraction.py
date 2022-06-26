@@ -4,8 +4,10 @@ import re
 from typing import Iterable
 
 from backend.utils import iterables
-from backend.utils.strings import classification, modification, substrings
-from backend.utils.strings._utils import _APOSTROPHES, _DASHES
+from backend.utils.strings import substrings
+from backend.utils.strings._char_sets import APOSTROPHES, DASHES
+from backend.utils.strings.classification import contains_article, is_digit_free
+from backend.utils.strings.transformation import replace_multiple, special_characters_stripped
 
 
 def get_article_stripped_noun(noun_candidate: str) -> str | None:
@@ -23,12 +25,16 @@ def get_article_stripped_noun(noun_candidate: str) -> str | None:
         >>> get_article_stripped_noun('nel guai')
         'guai' """
 
-    if classification.contains_article(noun_candidate):
-        return split_multiple(noun_candidate, delimiters=list(_APOSTROPHES) + [' '])[1]
+    if contains_article(noun_candidate):
+        return split_multiple(noun_candidate, delimiters=list(APOSTROPHES) + [' '])[1]
     return None
 
 
 def split_at_uppercase(string: str) -> list[str]:
+    """
+    >>> split_at_uppercase("EisgekuehlterBomelunder")
+    ['Eisgekuehlter', 'Bomelunder'] """
+
     return re.findall('[A-Z][a-z]*', string)
 
 
@@ -37,7 +43,7 @@ def split_multiple(string: str, delimiters: list[str]) -> list[str]:
     >>> split_multiple('wildly,unreasonable:yet,lit!?af', delimiters=list(',:!?'))
     ['wildly', 'unreasonable', 'yet', 'lit', '', 'af'] """
 
-    return modification.replace_multiple(string, delimiters[:-1], delimiters[-1]).split(delimiters[-1])
+    return replace_multiple(string, delimiters[:-1], delimiters[-1]).split(delimiters[-1])
 
 
 def substring_occurrence_positions(string: str, substring: str) -> list[int]:
@@ -46,21 +52,21 @@ def substring_occurrence_positions(string: str, substring: str) -> list[int]:
 
 def meaningful_tokens(text: str, apostrophe_splitting=False) -> list[str]:
     """ - strip special characters & unicode remnants
-        - break text into distinct types
+        - break string into distinct types
         - remove types containing digit(s)
 
         >>> meaningful_tokens("Parce qu'il n'avait rien à foutre avec ces 3 saloppes, qu'il avait rencontrées dans le Bonn17, disait dieu.", apostrophe_splitting=True)
         ['Parce', 'qu', 'il', 'n', 'avait', 'rien', 'à', 'foutre', 'avec', 'ces', 'saloppes', 'qu', 'il', 'avait',
         'rencontrées', 'dans', 'le', 'disait', 'dieu'] """
 
-    special_character_stripped = modification.strip_special_characters(text, include_apostrophe=False, include_dash=False)
+    special_character_stripped = special_characters_stripped(text, include_apostrophe=False, include_dash=False)
 
-    split_characters = _DASHES + ' '
+    split_characters = DASHES + ' '
     if apostrophe_splitting:
-        split_characters += _APOSTROPHES
+        split_characters += APOSTROPHES
 
     tokens = re.split(fr"[{split_characters}]", special_character_stripped)
-    return list(filter(lambda token: len(token) and classification.is_digit_free(token), tokens))
+    return list(filter(lambda token: len(token) and is_digit_free(token), tokens))
 
 
 def meaningful_types(text: str, apostrophe_splitting=False) -> set[str]:
@@ -113,13 +119,13 @@ def longest_continuous_partial_overlap(strings: Iterable[str], min_length=1) -> 
     return [None, buffer][len(buffer) > min_length]
 
 
-def find_quoted_text(text: str) -> list[str]:
+def quoted_substrings(string: str) -> list[str]:
     """ Returns:
-            text parts located between double(!) quotation marks without marks themselves
+            string parts located between double(!) quotation marks without marks themselves
 
-    >>> find_quoted_text('He told me to "bugger off" and called me a "filthy skank", whatever that means.')
+    >>> quoted_substrings('He told me to "bugger off" and called me a "filthy skank", whatever that means.')
     ['bugger off', 'filthy skank']
-    >>> find_quoted_text("He told me to 'bugger off'")
+    >>> quoted_substrings("He told me to 'bugger off'")
     [] """
 
-    return re.findall('"(.*?)"', text)
+    return re.findall('"(.*?)"', string)

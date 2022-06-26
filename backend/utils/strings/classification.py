@@ -1,28 +1,38 @@
-from backend.utils.strings import extraction, modification
-from backend.utils.strings._utils import _APOSTROPHES
+import unicodedata
+
+from backend.utils.strings import extraction
+from backend.utils.strings._char_sets import APOSTROPHES
 
 
 def is_digit_free(string: str) -> bool:
     return not any(char.isdigit() for char in string)
 
 
-def is_of_latin_script(string: str, remove_non_alphabetic_characters=True) -> bool:
-    """ Args:
-            string: regarding which to be determined whether of latin script
-            remove_non_alphabetic_characters: triggers removal of special characters as well as white-spaces
-                if set to True, solely for prevention of redundant stripping if already having taken place, since
-                REMOVAL INTEGRAL FOR PROPER FUNCTION WORKING
+def comprises_only_roman_chars(string: str) -> bool:
+    """
+    >>> comprises_only_roman_chars('ALF, DU KLEINE DRECKFRESSE DU')
+    True
+    >>> comprises_only_roman_chars("c'est-à-dire")
+    True
+    >>> comprises_only_roman_chars('Hjælp285;,')
+    True
+    >>> comprises_only_roman_chars('Ma che cazzo faiº?!')
+    True
+    >>> comprises_only_roman_chars('等等我')
+    False
+    >>> comprises_only_roman_chars('HIIIIIER我')
+    False
+    >>> comprises_only_roman_chars('داوم.')
+    False """
 
-        Returns:
-            True if at least 80% of alphabetic characters amongst string pertaining to latin script,
-            False otherwise """
+    return all(_is_latin(char) for char in filter(lambda char: char.isalpha(), string))
 
-    MIN_LATIN_CHARACTER_PERCENTAGE = 80
 
-    if remove_non_alphabetic_characters:
-        string = modification.strip_special_characters(string, include_apostrophe=True, include_dash=True).replace(' ', '')
-
-    return len(modification._to_ascii(string)) / len(string) > (MIN_LATIN_CHARACTER_PERCENTAGE / 100)
+def _is_latin(char: str) -> bool:
+    char_name = unicodedata.name(char)
+    if not (char_name.startswith('LATIN') or char_name.endswith('ORDINAL INDICATOR')):
+        print(char, char_name)
+    return char_name.startswith('LATIN') or char_name.endswith('ORDINAL INDICATOR')
 
 
 def contains_article(noun_candidate: str) -> bool:
@@ -36,14 +46,5 @@ def contains_article(noun_candidate: str) -> bool:
     >>> contains_article("c'est-à-dire")
     False """
 
-    return len((tokens := extraction.split_multiple(noun_candidate, delimiters=list(_APOSTROPHES) + [' ', '-']))) == 2 and len(
+    return len((tokens := extraction.split_multiple(noun_candidate, delimiters=list(APOSTROPHES) + [' ', '-']))) == 2 and len(
         tokens[0]) < len(tokens[1])
-
-
-def contains_unicode(text: str) -> bool:
-    TOLERATED_FOLLOWUP_CHARS = ['t', 'n']
-
-    for i, char in enumerate((text_repr := repr(text))):
-        if '\\' in char and text_repr[i+1] not in TOLERATED_FOLLOWUP_CHARS:
-            return True
-    return False

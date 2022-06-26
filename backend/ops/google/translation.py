@@ -14,10 +14,10 @@
 #     def __init__(self):
 #         super().__init__(_LANGUAGE_2_IETF_TAG={v.title(): k for k, v in LANGUAGES.items()})
 #
-#     def translate(self, text: str, dest: str, src: str) -> str:
+#     def translate(self, string: str, dest: str, src: str) -> str:
 #         """ Args:
-#                 text: to be translated
+#                 string: to be translated
 #                 src: titular source language
 #                 dest: titular destination language """
 #
-#         return _translator.translate(text, *map(self._get_identifier, [dest, src])).text
+#         return _translator.translate(string, *map(self._get_identifier, [dest, src])).string

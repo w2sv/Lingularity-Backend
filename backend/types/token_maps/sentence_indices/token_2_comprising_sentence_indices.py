@@ -6,7 +6,7 @@ from itertools import repeat
 from backend.types.token_maps.custom_mapping import TokenMap
 from backend.types.token_maps.utils import display_creation_kickoff_message
 from backend.utils import iterables
-from backend.utils.strings import get_article_stripped_noun, meaningful_types
+from backend.utils.strings.extraction import get_article_stripped_noun, meaningful_types
 
 
 SentenceIndex2UniqueTokens = dict[int, set[str]]

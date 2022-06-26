@@ -11,7 +11,7 @@ from backend.metadata import (
     SubstitutionForenamesMap
 )
 from backend.string_resources import string_resources
-from backend.utils import strings
+from backend.utils.strings.extraction import split_multiple
 
 
 DEFAULT_FORENAMES = ('Tom', 'John', 'Mary', 'Alice')  # _DEFAULT_SURNAME = 'Jackson'
@@ -104,8 +104,7 @@ class ForenameConvertor:
 
         return random.choice(drawable_indices)
 
-    def _contained_default_forename_pairs_with_gender(self, sentence_pair_fragments: list[list[str]]) -> Iterator[tuple[
-        tuple[str, str], bool]]:
+    def _contained_default_forename_pairs_with_gender(self, sentence_pair_fragments: list[list[str]]) -> Iterator[tuple[tuple[str, str], bool]]:
         """ Returns:
                 Iterator of
                     fallback forename pairs contained in sentence pair fragments: Tuple[str, str]
@@ -157,6 +156,6 @@ class ForenameConvertor:
             return english_fragment[:-1] == forename and english_fragment[-1] == 's'
 
         def is_special_character_delimited_forename() -> bool:
-            return strings.split_multiple(english_fragment, delimiters=list("'?!.,"))[0] == forename
+            return split_multiple(english_fragment, delimiters=list("'?!.,"))[0] == forename
 
         return is_s_trailed_forename() or is_special_character_delimited_forename()

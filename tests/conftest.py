@@ -5,7 +5,7 @@ from backend.database import MongoDBClient
 
 @pytest.fixture(scope='module', autouse=True)
 def instantiate_database():
-    mongodb = MongoDBClient()
+    mongodb = MongoDBClient(server_selection_timeout=2000)
     mongodb.user = 'janek'
     mongodb.language = 'Italian'
 

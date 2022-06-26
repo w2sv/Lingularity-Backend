@@ -9,12 +9,12 @@ import numpy as np
 from backend.components.forename_convertor import ForenameConvertor
 from backend.database import MongoDBClient
 from backend.string_resources import string_resources
-from backend.types.corpus import Corpus, SentencePair
+from backend.types.bilingual_corpus import BilingualCorpus, SentencePair
 from backend.types.vocable_entry import VocableEntry
 
 
 _TrainingItem = TypeVar('_TrainingItem', SentencePair, VocableEntry)
-_TrainingItems = TypeVar('_TrainingItems', Corpus, list[VocableEntry])
+_TrainingItems = TypeVar('_TrainingItems', BilingualCorpus, list[VocableEntry])
 
 
 class TrainerBackend(ABC):
@@ -61,8 +61,8 @@ class TrainerBackend(ABC):
 
         return iter(items)  # type: ignore
 
-    def _get_sentence_data(self) -> Corpus:
-        return Corpus(self._non_english_language, self._train_english)
+    def _get_sentence_data(self) -> BilingualCorpus:
+        return BilingualCorpus(self._non_english_language, self._train_english)
 
     # -----------------
     # Training

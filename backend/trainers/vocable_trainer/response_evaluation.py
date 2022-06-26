@@ -3,7 +3,7 @@ from typing import Tuple
 from enum import Enum, auto
 from unidecode import unidecode
 
-from backend.utils.strings import get_article_stripped_noun
+from backend.utils.strings.extraction import get_article_stripped_noun
 
 
 class ResponseEvaluation(Enum):

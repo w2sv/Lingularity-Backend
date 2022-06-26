@@ -10,7 +10,8 @@ from spacy.tokens import Doc, Token
 from backend.ops.normalizing import lemmatizing
 from backend.ops.normalizing.lemmatizing import spacy_models
 from backend.types.token_maps.sentence_indices import Token2ComprisingSentenceIndices
-from backend.utils import strings
+from backend.utils.strings.extraction import meaningful_types
+from backend.utils.strings.transformation import special_characters_stripped
 
 
 _Token = TypeVar('_Token', Token, str)
@@ -40,7 +41,7 @@ class StemSentenceIndicesMap(NormalizedToken2SentenceIndicesMap[str]):
         self._stem: Callable[[str], str] | None = SnowballStemmer(language.lower()).stem if load_normalizer else None
 
     def _types(self, text: str) -> set[str]:
-        return strings.meaningful_types(text=text, apostrophe_splitting=True)
+        return meaningful_types(text=text, apostrophe_splitting=True)
 
     def _normalize(self, types: Iterable[str]) -> Iterator[str]:
         assert self._stem is not None
@@ -64,7 +65,7 @@ class LemmaSentenceIndicesMap(NormalizedToken2SentenceIndicesMap[Token]):
         self._model: Language | None = lemmatizing.load_model(language) if load_normalizer else None
 
     def best_possibly_normalized_types_with_pos(self, sentence: str) -> set[tuple[str, str]]:
-        filtered_tokens = self._types(strings.strip_special_characters(string=sentence))
+        filtered_tokens = self._types(special_characters_stripped(string=sentence))
         return set(map(lambda token: (token.lemma_, token.pos_), filtered_tokens))
 
     def _normalize(self, types: Iterable[Token]) -> Iterator[str]:

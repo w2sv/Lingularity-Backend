@@ -5,7 +5,8 @@ from collections import defaultdict
 from typing import TypeVar
 
 from backend.paths import TOKEN_MAPS_DIR_PATH
-from backend.utils import io, strings
+from backend.utils import io
+from backend.utils.strings.extraction import split_at_uppercase
 
 
 VT = TypeVar('VT')
@@ -33,7 +34,7 @@ class TokenMap(defaultdict[str, VT], ABC):
         """ Returns:
                 lowercase, dash-joined class name without 'token' """
 
-        return '-'.join(map(lambda string: string.lower(), strings.split_at_uppercase(cls.__name__)[1:]))
+        return '-'.join(map(lambda string: string.lower(), split_at_uppercase(cls.__name__)[1:]))
 
     @property
     def data(self):

@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from backend.types.token_maps.sentence_indices import Token2ComprisingSentenceIndices
-from backend.utils.strings import meaningful_types
+from backend.utils.strings.extraction import meaningful_types
 
 
 class Token2SentenceIndicesMap(Token2ComprisingSentenceIndices):

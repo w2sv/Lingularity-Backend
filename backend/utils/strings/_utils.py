@@ -1,2 +1,0 @@
-_APOSTROPHES = "'’́́́́́́́́́́́́"
-_DASHES = '-–'

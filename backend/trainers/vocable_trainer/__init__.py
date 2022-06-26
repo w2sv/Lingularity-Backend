@@ -6,7 +6,7 @@ import numpy as np
 
 from backend.database import VocableData
 from backend.trainers.base import TrainerBackend
-from backend.types.corpus import Corpus
+from backend.types.bilingual_corpus import BilingualCorpus
 from backend.types.token_maps import get_token_sentence_indices_map, Token2ComprisingSentenceIndices
 from backend.types.vocable_entry import VocableEntry
 
@@ -15,7 +15,7 @@ class VocableTrainerBackend(TrainerBackend):
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 
-        self._sentence_data: Corpus = self._get_sentence_data()
+        self._sentence_data: BilingualCorpus = self._get_sentence_data()
         self._token_2_sentence_indices: Token2ComprisingSentenceIndices = get_token_sentence_indices_map(self.language, load_normalizer=True)
 
         self.paraphrases: dict[str, list[str]] = None  # type: ignore

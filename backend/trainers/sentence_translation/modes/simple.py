@@ -1,12 +1,12 @@
 from collections import defaultdict
 from typing import Iterator
 
-from backend.types.corpus import Corpus
+from backend.types.bilingual_corpus import BilingualCorpus
 from backend.types.token_maps import get_token_maps, Token2ComprisingSentenceIndices, TokenOccurrencesMap
 from backend.utils import iterables
 
 
-def filter_sentence_data(sentence_data: Corpus, language: str) -> Corpus:
+def filter_sentence_data(sentence_data: BilingualCorpus, language: str) -> BilingualCorpus:
     sentence_indices_map, occurrences_map = get_token_maps(language)
 
     sentence_indices_with_comprising_occurrences = _sentence_indices_with_comprising_tokens(sentence_indices_map, occurrences_map)

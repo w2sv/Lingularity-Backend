@@ -1,7 +1,7 @@
 from typing import Callable
 
-from backend.types.corpus import Corpus
+from backend.types.bilingual_corpus import BilingualCorpus
 from . import diction_expansion, random, simple
 
 
-SentenceDataFilter = Callable[[Corpus, str], Corpus]
+SentenceDataFilter = Callable[[BilingualCorpus, str], BilingualCorpus]
