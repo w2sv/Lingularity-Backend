@@ -63,7 +63,7 @@ class MongoDBClient(MonoState):
         """ Triggers errors.ServerSelectionTimeoutError in case of its
             foundation being present """
 
-        self.query_password('janek')
+        self._cluster.server_info()
 
     @property
     def user_set(self) -> bool:
@@ -81,8 +81,6 @@ class MongoDBClient(MonoState):
 
     @property
     def usernames(self) -> list[str]:
-        """ Equals databases """
-
         return self._cluster.list_database_names()
 
     # --------------------
