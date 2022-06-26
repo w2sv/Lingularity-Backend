@@ -25,7 +25,7 @@ VocableEntryDictRepr = dict[str, VocableData]
 
 
 def _client_endpoint(host: str, user: str, password: str) -> str:
-    """ Employing srv endpoint """
+    """ Uses srv endpoint """
 
     return f'mongodb+srv://{user}:{password}@{host}'
 
@@ -39,6 +39,10 @@ def instantiate_database_client(server_selection_timeout=1_000) -> Type[Configur
     except (ConfigurationError, ServerSelectionTimeoutError) as error:
         return type(error)
     return None
+
+
+def _collection_ids(collection: pymongo.collection.Collection) -> list:
+    return list(collection.find().distinct('_id'))
 
 
 class MongoDBClient(MonoState):
@@ -105,9 +109,6 @@ class MongoDBClient(MonoState):
     # ------------------
     # Collections
     # ------------------
-    @staticmethod
-    def _get_ids(collection: pymongo.collection.Collection) -> list:
-        return list(collection.find().distinct('_id'))
 
     # ------------------
     # .General
@@ -166,7 +167,7 @@ class MongoDBClient(MonoState):
         return self.user_data_base['vocabulary']
 
     def query_vocabulary_possessing_languages(self) -> set[str]:
-        return set(self._get_ids(self.vocabulary_collection))
+        return set(_collection_ids(self.vocabulary_collection))
 
     def query_vocabulary(self) -> Iterator[tuple[str, VocableData]]:
         vocable_entries = self.vocabulary_collection.find_one(self.language)
@@ -227,7 +228,7 @@ class MongoDBClient(MonoState):
         )
 
     def query_languages(self) -> list[str]:
-        return self._get_ids(self.training_chronic_collection)
+        return _collection_ids(self.training_chronic_collection)
 
     def inject_session_statistics(self, trainer_abbreviation: str, n_faced_items: int):
         self.training_chronic_collection.update_one(
