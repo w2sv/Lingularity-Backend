@@ -8,7 +8,7 @@ from spacy import Language
 from spacy.tokens import Doc, Token as SpacyToken
 
 from backend.ops import spacy_models
-from backend.ops.spacy_models import POS
+from backend.ops.spacy_models.pos import POS
 from backend.types.token_maps.sentence_indices import Token2ComprisingSentenceIndices
 from backend.utils.strings.extraction import meaningful_types
 from backend.utils.strings.transformation import special_characters_stripped
