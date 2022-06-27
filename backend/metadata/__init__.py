@@ -8,10 +8,7 @@ from backend.utils.io import load_json
 from backend.paths import META_DATA_DIR_PATH
 
 
-_path = META_DATA_DIR_PATH / 'language.json'
-assert _path.exists(), _path
-
-language_metadata: LanguageMetadata = load_json(_path)
+language_metadata: LanguageMetadata = load_json(META_DATA_DIR_PATH / 'language.json')
 
 
 def get_substitution_forenames_map(language: str) -> SubstitutionForenamesMap:
