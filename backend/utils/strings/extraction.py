@@ -7,43 +7,28 @@ from backend.utils import iterables
 from backend.utils.strings import substrings
 from backend.utils.strings._char_sets import APOSTROPHES, DASHES
 from backend.utils.strings.classification import contains_article, is_digit_free
-from backend.utils.strings.transformation import replace_multiple, special_characters_stripped
+from backend.utils.strings.splitting import split_multiple
+from backend.utils.strings.transformation import special_characters_stripped
 
 
-def get_article_stripped_noun(noun_candidate: str) -> str | None:
+def article_stripped_noun(noun_candidate: str) -> str | None:
     """ Returns:
             None in case of article identification inability
 
-        >>> get_article_stripped_noun('il pomeriggio')
+        >>> article_stripped_noun('il pomeriggio')
         'pomeriggio'
-        >>> get_article_stripped_noun("l'amour")
+        >>> article_stripped_noun("l'amour")
         'amour'
-        >>> get_article_stripped_noun("amour")
+        >>> article_stripped_noun("amour")
 
-        >>> get_article_stripped_noun("c'est-à-dire")
+        >>> article_stripped_noun("c'est-à-dire")
 
-        >>> get_article_stripped_noun('nel guai')
+        >>> article_stripped_noun('nel guai')
         'guai' """
 
     if contains_article(noun_candidate):
         return split_multiple(noun_candidate, delimiters=list(APOSTROPHES) + [' '])[1]
     return None
-
-
-def split_at_uppercase(string: str) -> list[str]:
-    """
-    >>> split_at_uppercase("EisgekuehlterBomelunder")
-    ['Eisgekuehlter', 'Bomelunder'] """
-
-    return re.findall('[A-Z][a-z]*', string)
-
-
-def split_multiple(string: str, delimiters: list[str]) -> list[str]:
-    """
-    >>> split_multiple('wildly,unreasonable:yet,lit!?af', delimiters=list(',:!?'))
-    ['wildly', 'unreasonable', 'yet', 'lit', '', 'af'] """
-
-    return replace_multiple(string, delimiters[:-1], delimiters[-1]).split(delimiters[-1])
 
 
 def substring_occurrence_positions(string: str, substring: str) -> list[int]:

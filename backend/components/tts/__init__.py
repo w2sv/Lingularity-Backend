@@ -4,7 +4,7 @@ from typing import Optional
 from playsound import playsound
 
 from backend.components.tts._google_client import GoogleTTSClient
-from backend.database import MongoDBClient
+from backend.database import UserMongoDBClient
 from backend.utils import either_or
 
 
@@ -13,13 +13,13 @@ class TTS:
     def available_for(language: str) -> bool:
         return GoogleTTSClient.available_for(language)
 
-    @MongoDBClient.receiver
-    def __init__(self, language: str, mongodb_client: MongoDBClient):
+    @UserMongoDBClient.receiver
+    def __init__(self, language: str, user_mongo_client: UserMongoDBClient):
         super().__init__()
 
         self._language = language
 
-        self._mongodb_client: MongoDBClient = mongodb_client
+        self._mongodb_client: UserMongoDBClient = user_mongo_client
         self._google_tts_client = GoogleTTSClient(language)
 
         self._accent: Optional[str] = self._retrieve_previously_set_language_variety()

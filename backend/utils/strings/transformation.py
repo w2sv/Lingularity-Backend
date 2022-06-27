@@ -4,6 +4,7 @@ import unicodedata
 
 from backend.utils.strings import classification
 from backend.utils.strings._char_sets import APOSTROPHES, DASHES
+from backend.utils.strings._re_utils import join_to_pattern
 
 
 def replace_multiple(text: str, strings: Iterable[str], replacement: str) -> str:
@@ -13,8 +14,7 @@ def replace_multiple(text: str, strings: Iterable[str], replacement: str) -> str
     >>> replace_multiple('snake_case_string', strings=['snake_', '_'], replacement='Pampelmuse')
     'PampelmusecasePampelmusestring' """
 
-    pattern = re.compile('|'.join(map(re.escape, strings)))
-    return pattern.sub(replacement, text)
+    return join_to_pattern(strings).sub(replacement, text)
 
 
 def strip_multiple(string: str, strings: Iterable[str]) -> str:

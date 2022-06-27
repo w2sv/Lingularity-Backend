@@ -3,9 +3,10 @@ from __future__ import annotations
 from backend.trainers.base import TrainerBackend
 from backend.components.tts import TTS
 from backend.trainers.sentence_translation import modes
+from backend.types.bilingual_corpus import BilingualCorpus, SentencePair
 
 
-class SentenceTranslationTrainerBackend(TrainerBackend):
+class SentenceTranslationTrainerBackend(TrainerBackend[SentencePair, BilingualCorpus]):
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 

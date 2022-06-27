@@ -1,7 +1,7 @@
 import unicodedata
 
 from backend.utils.strings._char_sets import APOSTROPHES
-from backend.utils.strings.extraction import split_multiple
+from backend.utils.strings.splitting import split_multiple
 
 
 def is_digit_free(string: str) -> bool:
@@ -30,8 +30,6 @@ def comprises_only_roman_chars(string: str) -> bool:
 
 def _is_latin(char: str) -> bool:
     char_name = unicodedata.name(char)
-    if not (char_name.startswith('LATIN') or char_name.endswith('ORDINAL INDICATOR')):
-        print(char, char_name)
     return char_name.startswith('LATIN') or char_name.endswith('ORDINAL INDICATOR')
 
 

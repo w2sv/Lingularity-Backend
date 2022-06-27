@@ -1,18 +1,18 @@
 import pytest
 
-from backend.database import MongoDBClient
+from backend.database import connect_database_client, UserMongoDBClient
+
 
 MONGODB_TEST_USER = 'janek'
 MONGODB_TEST_LANGUAGE = 'Italian'
 
 
 @pytest.fixture(scope='module', autouse=True)
-def instantiate_database():
-    mongodb = MongoDBClient(server_selection_timeout=2000)
-    mongodb.user = MONGODB_TEST_USER
-    mongodb.language = MONGODB_TEST_LANGUAGE
+def launch_database_client():
+    connect_database_client(server_selection_timeout=2_000)
+    UserMongoDBClient(MONGODB_TEST_USER, MONGODB_TEST_LANGUAGE)
 
 
 @pytest.fixture
-def mongodb_instance() -> MongoDBClient:
-    return MongoDBClient.instance()
+def user_mongo_client() -> UserMongoDBClient:
+    return UserMongoDBClient.instance()

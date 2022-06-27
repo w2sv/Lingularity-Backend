@@ -6,7 +6,7 @@ from typing import TypeVar
 
 from backend.paths import TOKEN_MAPS_DIR_PATH
 from backend.utils import io
-from backend.utils.strings.extraction import split_at_uppercase
+from backend.utils.strings.splitting import split_at_uppercase
 
 
 VT = TypeVar('VT')

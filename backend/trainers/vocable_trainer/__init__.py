@@ -8,10 +8,10 @@ from backend.database import VocableData
 from backend.trainers.base import TrainerBackend
 from backend.types.bilingual_corpus import BilingualCorpus
 from backend.types.token_maps import get_token_sentence_indices_map, Token2ComprisingSentenceIndices
-from backend.types.vocable_entry import VocableEntry
+from backend.types.vocable_entry import VocableEntries, VocableEntry
 
 
-class VocableTrainerBackend(TrainerBackend):
+class VocableTrainerBackend(TrainerBackend[VocableEntry, VocableEntries]):
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 
@@ -41,7 +41,7 @@ class VocableTrainerBackend(TrainerBackend):
     def _vocable_entries_to_be_trained(self) -> list[VocableEntry]:
         tokens_with_vocable_data: Iterator[tuple[str, VocableData]] = filter(
             lambda token_with_data: not VocableEntry.is_perfected(data=token_with_data[1]),
-            self.mongodb_client.query_vocabulary()
+            self.user_mongo_client.query_vocabulary()
         )
         return list(starmap(VocableEntry, tokens_with_vocable_data))
 

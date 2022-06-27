@@ -7,9 +7,9 @@ from backend.trainers.vocable_trainer import VocableEntry, VocableTrainerBackend
 
 
 @pytest.fixture
-def vocable_entries(mongodb_instance) -> List[VocableEntry]:
-    print(mongodb_instance.user, mongodb_instance.language)
-    return list(starmap(VocableEntry, mongodb_instance.query_vocabulary()))
+def vocable_entries(user_mongo_client) -> List[VocableEntry]:
+    print(user_mongo_client.user, user_mongo_client.language)
+    return list(starmap(VocableEntry, user_mongo_client.query_vocabulary()))
 
 
 def test_find_paraphrases(vocable_entries):

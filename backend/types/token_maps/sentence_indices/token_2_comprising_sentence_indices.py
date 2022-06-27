@@ -6,7 +6,7 @@ from itertools import repeat
 from backend.types.token_maps.custom_mapping import TokenMap
 from backend.types.token_maps.utils import display_creation_kickoff_message
 from backend.utils import iterables
-from backend.utils.strings.extraction import get_article_stripped_noun, meaningful_types
+from backend.utils.strings.extraction import article_stripped_noun, meaningful_types
 
 
 SentenceIndex2UniqueTokens = dict[int, set[str]]
@@ -80,7 +80,7 @@ class Token2ComprisingSentenceIndices(TokenMap[list[int]], ABC):
 
     @staticmethod
     def _length_sorted_meaningful_types(vocable_entry: str) -> list[str]:
-        if (article_stripped_noun := get_article_stripped_noun(vocable_entry)) is not None:
+        if (article_stripped_noun := article_stripped_noun(vocable_entry)) is not None:
             return [article_stripped_noun]
         return sorted(
             meaningful_types(

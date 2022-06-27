@@ -3,7 +3,7 @@ from typing import Tuple
 from enum import Enum, auto
 from unidecode import unidecode
 
-from backend.utils.strings.extraction import get_article_stripped_noun
+from backend.utils.strings.extraction import article_stripped_noun
 
 
 class ResponseEvaluation(Enum):
@@ -60,12 +60,12 @@ def get_response_evaluation(response: str, ground_truth: str, vocable_identifica
 # Article related
 # ---------------
 def _wrong_article(response: str, ground_truth: str) -> bool:
-    contained_nouns = list(map(get_article_stripped_noun, [response, ground_truth]))
+    contained_nouns = list(map(article_stripped_noun, [response, ground_truth]))
     return len(set(contained_nouns)) == 1 and contained_nouns[0] is not None
 
 
 def _article_missing(response: str, ground_truth: str) -> bool:
-    return get_article_stripped_noun(ground_truth) == response
+    return article_stripped_noun(ground_truth) == response
 
 
 # ---------------

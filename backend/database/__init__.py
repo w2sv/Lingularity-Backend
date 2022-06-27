@@ -1,13 +1,16 @@
 from __future__ import annotations
 
+from abc import ABC
 from pathlib import Path
 from typing import Iterator, Type
 
 from monostate import MonoState
 import pymongo
+from pymongo import MongoClient
 from pymongo.database import Database
 from pymongo.errors import ConfigurationError, ServerSelectionTimeoutError
 
+from backend.string_resources import string_resources
 from backend.utils import date
 from backend.utils.io import load_config
 from .document_types import (
@@ -15,7 +18,6 @@ from .document_types import (
     TrainingChronic,
     VocableData
 )
-from backend.string_resources import string_resources
 
 
 # TODO: change vocable data keywords in database, user collection names
@@ -30,12 +32,13 @@ def _client_endpoint(host: str, user: str, password: str) -> str:
     return f'mongodb+srv://{user}:{password}@{host}'
 
 
-def instantiate_database_client(server_selection_timeout=1_000) -> Type[ConfigurationError] | Type[ServerSelectionTimeoutError] | None:
+def connect_database_client(server_selection_timeout=1_000) -> Type[ConfigurationError] | Type[ServerSelectionTimeoutError] | None:
     """ Returns:
             instantiation_error: errors.PyMongoError in case of existence, otherwise None """
 
     try:
-        MongoDBClient(server_selection_timeout=server_selection_timeout).assert_connection()
+        _MongoDBClient.launch_cluster(server_selection_timeout=server_selection_timeout)
+        _MongoDBClient.assert_connection()
     except (ConfigurationError, ServerSelectionTimeoutError) as error:
         return type(error)
     return None
@@ -45,16 +48,14 @@ def _collection_ids(collection: pymongo.collection.Collection) -> list:
     return list(collection.find().distinct('_id'))
 
 
-class MongoDBClient(MonoState):
-    def __init__(self, server_selection_timeout=1_000):
-        super().__init__(instance_kwarg_name='mongodb_client')
+class _MongoDBClient(MonoState, ABC):
+    _cluster: MongoClient
 
-        self.user: str | None = None
-        self.language: str | None = None
-
+    @classmethod
+    def launch_cluster(cls, server_selection_timeout=1_500):
         credentials = load_config(Path(__file__).parent / 'credentials.ini')
 
-        self._cluster: pymongo.MongoClient = pymongo.MongoClient(
+        cls._cluster = pymongo.MongoClient(
             _client_endpoint(
                 host=credentials['host'],
                 user=credentials['user'],
@@ -63,40 +64,42 @@ class MongoDBClient(MonoState):
             serverSelectionTimeoutMS=server_selection_timeout
         )
 
-    def assert_connection(self):
+    @classmethod
+    def assert_connection(cls):
         """ Triggers errors.ServerSelectionTimeoutError in case of its
             foundation being present """
 
-        self._cluster.server_info()
+        cls._cluster.server_info()
 
-    @property
-    def user_set(self) -> bool:
-        return self.user is not None
 
-    # --------------------
-    # User transcendent
-    # --------------------
-    @property
-    def mail_addresses(self) -> Iterator[str]:
-        return (self._cluster[user_name]['general'].find_one(filter={'_id': 'unique'})['emailAddress'] for user_name in self.usernames)  # type: ignore
-
-    def mail_address_taken(self, mail_address: str) -> bool:
-        return mail_address in self.mail_addresses
+class UserTranscendentMongoDBClient(_MongoDBClient):
+    def __init__(self):
+        super().__init__('user_transcendent_mongodb')
 
     @property
     def usernames(self) -> list[str]:
         return self._cluster.list_database_names()
 
-    # --------------------
-    # User specific
-    # --------------------
     @property
-    def user_data_base(self) -> Database:
-        assert self.user is not None
+    def mail_addresses(self) -> Iterator[str]:
+        return (self._cluster[username]['general'].find_one(filter={'_id': 'unique'})['emailAddress'] for username in self.usernames)  # type: ignore
+
+    def mail_address_taken(self, mail_address: str) -> bool:
+        return mail_address in self.mail_addresses
+
+
+class UserMongoDBClient(_MongoDBClient):
+    def __init__(self, user: str, language: str):
+        super().__init__('user_mongo_client')
+
+        self.user = user
+        self.language = language
+
+    @property
+    def data_base(self) -> Database:
         return self._cluster[self.user]
 
     def remove_user(self):
-        assert self.user is not None
         self._cluster.drop_database(self.user)
 
     def remove_language_data(self, language: str):
@@ -123,7 +126,7 @@ class MongoDBClient(MonoState):
                            date: date,
                            language: language}} """
 
-        return self.user_data_base['general']
+        return self.data_base['general']
 
     def initialize_user(self, user: str, email_address: str, password: str):
         self.user = user
@@ -141,11 +144,8 @@ class MongoDBClient(MonoState):
             upsert=True
         )
 
-    def query_password(self, username: str) -> str:
-        self.user = username
-        password = self.general_collection.find_one({'_id': 'unique'})['password']  # type: ignore
-        self.user = None
-        return password
+    def query_password(self) -> str:
+        return self.general_collection.find_one({'_id': 'unique'})['password']  # type: ignore
 
     def query_last_session_statistics(self) -> LastSessionStatistics | None:
         try:
@@ -164,7 +164,7 @@ class MongoDBClient(MonoState):
                                       s: score
                                       lfd: last_faced_date}} """
 
-        return self.user_data_base['vocabulary']
+        return self.data_base['vocabulary']
 
     def query_vocabulary_possessing_languages(self) -> set[str]:
         return set(_collection_ids(self.vocabulary_collection))
@@ -215,7 +215,7 @@ class MongoDBClient(MonoState):
         """ {_id: language,
              $date: {$trainer_abbreviation: n_faced_items}} """
 
-        return self.user_data_base['training_chronic']
+        return self.data_base['training_chronic']
 
     def insert_dummy_entry(self, language: str):
         """ In order to persist language after selection however without having
@@ -252,7 +252,7 @@ class MongoDBClient(MonoState):
                                           use: bool}}
             ttsEnabled: bool} """
 
-        return self.user_data_base['language_metadata']
+        return self.data_base['language_metadata']
 
     # ------------------
     # ..language accent usage

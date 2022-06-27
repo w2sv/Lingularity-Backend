@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from typing_extensions import TypeAlias
+
 from backend.database.document_types import VocableData
 from backend.utils.date import n_days_ago
 
@@ -95,3 +97,6 @@ class VocableEntry:
         if data['lfd'] is None:
             return False
         return data['s'] >= 5 and n_days_ago(data['lfd']) < 50
+
+
+VocableEntries: TypeAlias = list[VocableEntry]

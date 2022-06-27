@@ -11,7 +11,7 @@ from backend.metadata import (
     SubstitutionForenamesMap
 )
 from backend.string_resources import string_resources
-from backend.utils.strings.extraction import split_multiple
+from backend.utils.strings.splitting import split_multiple
 
 
 DEFAULT_FORENAMES = ('Tom', 'John', 'Mary', 'Alice')  # _DEFAULT_SURNAME = 'Jackson'
