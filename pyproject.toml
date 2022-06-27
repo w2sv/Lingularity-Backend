@@ -22,7 +22,7 @@ textacy = "*"  # mining
 more_itertools = "*"
 
 [tool.poetry.scripts]
-download-spacy-models = "backend.ops.normalizing.spacy_models.download:download_models"
+download-spacy-models = "backend.ops.spacy_models.download:download_models"
 
 [tool.poetry.dev-dependencies]
 mypy = "*"
