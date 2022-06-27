@@ -52,7 +52,6 @@ class BilingualCorpus(np.ndarray):
             with open(path, 'r', encoding='utf-8') as sentence_data_file:
                 for row in sentence_data_file.readlines():
                     newline_char_stripped_row = row[:-1]
-                    # _unicode_point_stripped = unicode_point_stripped(newline_char_stripped_row)
 
                     yield tuple(newline_char_stripped_row.split('\t'))
 
@@ -86,6 +85,15 @@ class BilingualCorpus(np.ndarray):
                         bilaterally_present_quoted_substrings
                     )
                 )
+
+    def dialog_sentences(self) -> Iterator[SentencePair]:
+        """ Unused as of now, just-in-case provision """
+
+        is_dialog_sentence = lambda sentence: sentence.count('"') == 4
+
+        for sentence_pair in self:
+            if is_dialog_sentence(sentence_pair[0]) and is_dialog_sentence(sentence_pair[1]):
+                yield sentence_pair
 
     class Corpus(np.ndarray):
         """ Abstraction of entirety of sentence data pertaining to one language

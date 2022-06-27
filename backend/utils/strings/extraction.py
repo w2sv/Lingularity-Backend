@@ -6,7 +6,7 @@ from typing import Iterable
 from more_itertools import unzip
 
 from backend.utils import iterables
-from backend.utils.iterables import contains_unique_value
+from backend.utils.iterables import unique_contained_value
 from backend.utils.strings import substrings
 from backend.utils.strings._char_sets import APOSTROPHES, DASHES
 from backend.utils.strings.classification import contains_article, is_digit_free
@@ -53,7 +53,7 @@ def meaningful_tokens(text: str, apostrophe_splitting=False) -> list[str]:
     if apostrophe_splitting:
         split_characters += APOSTROPHES
 
-    tokens = re.split(fr"[{split_characters}]", special_character_stripped)
+    tokens = re.split(f"[{split_characters}]", special_character_stripped)
     return list(filter(lambda token: len(token) and is_digit_free(token), tokens))
 
 
@@ -78,8 +78,8 @@ def longest_common_prefix(strings: Iterable[str]) -> str:
 
     common_prefix = ''
     for strings_i in unzip(strings):
-        if contains_unique_value(strings_i):
-            common_prefix += next(iter(strings_i))
+        if (unique_value := unique_contained_value(strings_i)) is not None:
+            common_prefix += unique_value
         else:
             break
     return common_prefix

@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from itertools import zip_longest
 from typing import Iterable, Sequence, TypeVar
 
@@ -30,4 +32,12 @@ def comprises_index(sequence: Sequence[T], index: int) -> bool:
 
 
 def contains_unique_value(iterable: Iterable[T]) -> bool:
-    return len(set(iterable)) == 1
+    return unique_contained_value(iterable) is not None
+
+
+def unique_contained_value(iterable: Iterable[T]) -> T | None:
+    unique_values = set(iterable)
+    if len(unique_values) == 1:
+        return next(iter(unique_values))
+    else:
+        return None

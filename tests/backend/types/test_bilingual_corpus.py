@@ -6,6 +6,7 @@ import pytest
 
 from backend.trainers.base import BilingualCorpus
 from backend.utils.strings.transformation import asciiized, special_characters_stripped, UNICODE_POINT_PATTERN
+from tests.conftest import get_bilingual_corpus
 
 
 def test_numpy_properties():
@@ -25,10 +26,10 @@ class TestDevoidOfUnicode:
         'Korean'
     ])
     def test_corpora_devoid_of_unicode_points(self, language):
-        sentence_data = BilingualCorpus(language)
+        bilingual_corpus = get_bilingual_corpus(language)
 
-        assert self._devoid_of_unicode_points(sentence_data.english_corpus.character_set)
-        assert self._devoid_of_unicode_points(sentence_data.non_english_corpus.character_set)
+        assert self._devoid_of_unicode_points(bilingual_corpus.english_corpus.character_set)
+        assert self._devoid_of_unicode_points(bilingual_corpus.non_english_corpus.character_set)
 
     @staticmethod
     def _devoid_of_unicode_points(text: str) -> bool:
@@ -53,7 +54,7 @@ class TestDevoidOfUnicode:
     False
 ])
 def test_language_assignment(train_english):
-    bilingual_corpus = BilingualCorpus('Bulgarian', train_english=train_english)
+    bilingual_corpus = get_bilingual_corpus('Bulgarian', train_english=train_english)
 
     assert len(asciiized(bilingual_corpus.english_corpus.character_set)) == pytest.approx(len(bilingual_corpus.english_corpus.character_set), abs=2)
     assert len(asciiized(bilingual_corpus.non_english_corpus.character_set)) != pytest.approx(len(bilingual_corpus.non_english_corpus.character_set), abs=2)
@@ -63,15 +64,15 @@ def test_language_assignment(train_english):
 # Quote Stripping
 # ----------------
 @pytest.mark.parametrize('language, bilaterally_present_quotes', [
-    ('Italian', [
-        '"Dang Me"',
-        '"Chug-A-Lug"',
-        '"Jingle Bells"',
-        '''"You Don't Want My Love"''',
-        '"In the Summer Time"',
-        '"password"',
-        '"Jailhouse Rock"'
-    ]),
+    # ('Italian', [
+    #     '"Dang Me"',
+    #     '"Chug-A-Lug"',
+    #     '"Jingle Bells"',
+    #     '''"You Don't Want My Love"''',
+    #     '"In the Summer Time"',
+    #     '"password"',
+    #     '"Jailhouse Rock"'
+    # ]),
     ('German', [
         '"Star Wars"',
         '"Tatoeba"',
@@ -79,12 +80,12 @@ def test_language_assignment(train_english):
         '"Jingle Bells"'])
 ])
 def test_bilaterally_present_quote_stripping(language, bilaterally_present_quotes):
-    sentence_data: BilingualCorpus = BilingualCorpus(language)
-    sentence_data.strip_bilaterally_present_quotes()
+    bilingual_corpus = BilingualCorpus(language)  # dont use 'get_bilingual_corpus' since data modification occurring
+    bilingual_corpus.strip_bilaterally_present_quotes()
 
     assert not list(
         _bilaterally_present_strings(
-            sentence_data,
+            bilingual_corpus,
             query_strings=bilaterally_present_quotes,
             remove_special_characters=True
         )
@@ -118,7 +119,7 @@ def _bilaterally_present_strings(
 
 class TestCorpus:
     def test_ndarray_properties(self):
-        corpus = BilingualCorpus('Macedonian', train_english=False).non_english_corpus
+        corpus = get_bilingual_corpus('Macedonian', train_english=False).non_english_corpus
 
         assert corpus.shape == (62551,)
         assert corpus.dtype == np.dtype('<U136')
@@ -138,7 +139,7 @@ class TestCorpus:
         ('Serbian', False)
     ])
     def test_employs_latin_script(self, language, expected):
-        assert BilingualCorpus(language).non_english_corpus.employs_latin_script == expected
+        assert get_bilingual_corpus(language).non_english_corpus.employs_latin_script == expected
 
     @pytest.mark.parametrize('language,tokens,expected', [
         ('German', ["c'est-à-dire"], False),
@@ -147,7 +148,7 @@ class TestCorpus:
         ('Korean', ['고마워', '잡아'], True)
     ])
     def test_comprises_tokens(self, language, tokens, expected):
-        assert BilingualCorpus(language).non_english_corpus.comprises_tokens(query_tokens=tokens) == expected
+        assert get_bilingual_corpus(language).non_english_corpus.comprises_tokens(query_tokens=tokens) == expected
 
 
 # ----------------

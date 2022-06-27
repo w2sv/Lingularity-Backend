@@ -3,7 +3,17 @@
     TODO: extend by newly added models and create respective token maps """
 
 
+import os
+import subprocess
+
+import spacy
+
+
 def model_name(language: str, model_size='sm') -> str:
+    """ Args:
+            language: one of LANGUAGE_2_MODEL_IDENTIFIERS keys
+            model_size: sm | md | lg """
+
     return f'{LANGUAGE_2_MODEL_IDENTIFIERS[language][0]}_core_{LANGUAGE_2_MODEL_IDENTIFIERS[language][1]}_{model_size}'
 
 
@@ -26,12 +36,6 @@ LANGUAGE_2_MODEL_IDENTIFIERS = {
 }
 
 
-import os
-import subprocess
-
-import spacy
-
-
 def download_models():
     for language in LANGUAGE_2_MODEL_IDENTIFIERS.keys():
         spacy.cli.download(model_name(language=language))
@@ -39,6 +43,8 @@ def download_models():
 
 
 def _install_os_dependencies_if_required(language: str):
+    # TODO: check if still required
+
     relative_os_dependency_installation_file_path = f'os-dependencies/languages/{language}.sh'
 
     if os.path.exists(f'{os.getcwd()}/{relative_os_dependency_installation_file_path}'):

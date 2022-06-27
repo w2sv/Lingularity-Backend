@@ -1,6 +1,9 @@
+from functools import lru_cache
+
 import pytest
 
 from backend.database import connect_database_client, UserMongoDBClient
+from backend.types.bilingual_corpus import BilingualCorpus
 
 
 MONGODB_TEST_USER = 'janek'
@@ -16,3 +19,10 @@ def launch_database_client():
 @pytest.fixture
 def user_mongo_client() -> UserMongoDBClient:
     return UserMongoDBClient.instance()
+
+
+@lru_cache
+def get_bilingual_corpus(language: str, train_english=False) -> BilingualCorpus:
+    """ Cashes already instantiated corpora for reuse """
+
+    return BilingualCorpus(language, train_english=train_english)
