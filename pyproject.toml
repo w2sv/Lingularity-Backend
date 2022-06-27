@@ -22,14 +22,14 @@ textacy = "*"  # mining
 more_itertools = "*"
 
 [tool.poetry.scripts]
-download-spacy-models = "model_downloading:download_models"
+download-spacy-models = "backend.ops.normalizing.spacy_models.download:download_models"
 
 [tool.poetry.dev-dependencies]
 mypy = "*"
 pytest = "*"
 coverage = "*"
 pytest-randomly = "*"
-pytest-lazy-fixture = "*"
+#pytest-lazy-fixture = "*"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

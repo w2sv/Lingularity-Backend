@@ -80,8 +80,8 @@ class Token2ComprisingSentenceIndices(TokenMap[list[int]], ABC):
 
     @staticmethod
     def _length_sorted_meaningful_types(vocable_entry: str) -> list[str]:
-        if (article_stripped_noun := article_stripped_noun(vocable_entry)) is not None:
-            return [article_stripped_noun]
+        if (_article_stripped_noun := article_stripped_noun(vocable_entry)) is not None:
+            return [_article_stripped_noun]
         return sorted(
             meaningful_types(
                 vocable_entry,

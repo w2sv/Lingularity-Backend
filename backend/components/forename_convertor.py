@@ -84,7 +84,7 @@ class ForenameConvertor:
                 fragment_conversion_mask = self._forename_containment_mask(default_forename, fragments, bool(is_foreign_language))
                 replacement_forenames = self._replacement_forenames[is_female][is_foreign_language and not self._uses_latin_script]
 
-                # iterate over sentence fragments
+                # iterate over sentence tokens
                 for fragment_index, (contains_default_forename, fragment) in enumerate(zip(fragment_conversion_mask, fragments)):
                     if contains_default_forename:
                         if replacement_forename_index is None:
@@ -104,42 +104,44 @@ class ForenameConvertor:
 
         return random.choice(drawable_indices)
 
-    def _contained_default_forename_pairs_with_gender(self, sentence_pair_fragments: list[list[str]]) -> Iterator[tuple[tuple[str, str], bool]]:
+    def _contained_default_forename_pairs_with_gender(self, sentence_pair_tokens: list[list[str]]) -> Iterator[tuple[tuple[str, str], bool]]:
         """ Returns:
                 Iterator of
-                    fallback forename pairs contained in sentence pair fragments: Tuple[str, str]
+                    fallback forename pairs contained in sentence pair tokens: Tuple[str, str]
                         first of which is the english forename, second the corresponding foreign language translation_field
                     with corresponding is_female_forename flag: bool
 
-            >>> sentence_pair_fragments = [['Tom', 'ate', 'Marys', 'tuna.'], ['Tomás', 'mangiava', 'il', 'tonno', 'de', 'Maria.']]
-            >>> list(ForenameConvertor('Italian', train_english=False)._contained_default_forename_pairs_with_gender(sentence_pair_fragments))
+            >>> _sentence_pair_tokens = [['Tom', 'ate', 'Marys', 'tuna.'], ['Tomás', 'mangiava', 'il', 'tonno', 'de', 'Maria.']]
+            >>> list(ForenameConvertor('Italian', train_english=False)._contained_default_forename_pairs_with_gender(_sentence_pair_tokens))
             [(('Tom', 'Tomás'), False), (('Mary', 'Maria'), True)]
             """
 
         for forename_index, (default_forename, forename_translations) in enumerate(zip(DEFAULT_FORENAMES, self._default_forename_translations)):
-            if self._forename_comprised_by_fragments(default_forename, sentence_pair_fragments[0], is_foreign_language_sentence=False):
+            if self._forename_comprised_by_tokens(default_forename, sentence_pair_tokens[0], is_foreign_language_sentence=False):
                 for forename_translation in forename_translations:
-                    if self._forename_comprised_by_fragments(forename_translation, sentence_pair_fragments[1], is_foreign_language_sentence=True):
+                    if self._forename_comprised_by_tokens(forename_translation, sentence_pair_tokens[1], is_foreign_language_sentence=True):
                         yield (default_forename, forename_translation), forename_index >= 2
                         break
 
-    @staticmethod
-    def _forename_comprised_by_fragments(
+    @classmethod
+    def _forename_comprised_by_tokens(
+            cls,
             forename: str,
             fragments: list[str],
             is_foreign_language_sentence: bool) -> bool:
 
-        return any(ForenameConvertor._forename_containment_mask(forename, fragments, is_foreign_language_sentence))
+        return any(cls._forename_containment_mask(forename, fragments, is_foreign_language_sentence))
 
-    @staticmethod
+    @classmethod
     def _forename_containment_mask(
+            cls,
             forename: str,
-            fragments: list[str],
+            tokens: list[str],
             is_foreign_language_sentence: bool) -> Iterator[bool]:
 
         """ Returns:
-                boolean mask of length of fragments whose elements represent whether or not
-                the respective fragments contain the passed forename and are hence to be converted
+                boolean mask of length of tokens whose elements represent whether or not
+                the respective tokens contain the passed forename and are hence to be converted
 
                 >>> list(ForenameConvertor._forename_containment_mask('Tom', ["Tom's", "seriously", "messed", "up."], False))
                 [True, False, False, False]
@@ -147,15 +149,15 @@ class ForenameConvertor:
                 [False, False, False, True, False]
                 """
 
-        for fragment in fragments:
-            yield forename in fragment and (is_foreign_language_sentence or ForenameConvertor._contains_english_forename(fragment, forename))
+        for fragment in tokens:
+            yield forename in fragment and (is_foreign_language_sentence or cls._contains_english_forename(fragment, forename))
 
     @staticmethod
-    def _contains_english_forename(english_fragment: str, forename: str) -> bool:
+    def _contains_english_forename(english_token: str, forename: str) -> bool:
         def is_s_trailed_forename() -> bool:
-            return english_fragment[:-1] == forename and english_fragment[-1] == 's'
+            return english_token[:-1] == forename and english_token[-1] == 's'
 
         def is_special_character_delimited_forename() -> bool:
-            return split_multiple(english_fragment, delimiters=list("'?!.,"))[0] == forename
+            return split_multiple(english_token, delimiters=list("'?!.,"))[0] == forename
 
         return is_s_trailed_forename() or is_special_character_delimited_forename()
