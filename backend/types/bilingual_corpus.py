@@ -14,7 +14,7 @@ from backend.paths import corpus_path
 from backend.utils import iterables
 from backend.utils.io import PathLike
 from backend.utils.iterables import intersection
-from backend.utils.strings.classification import comprises_only_roman_chars
+from backend.utils.strings.classification import comprises_only_roman_chars, n_non_roman_chars
 from backend.utils.strings.extraction import longest_continuous_partial_overlap, meaningful_types, quoted_substrings
 from backend.utils.strings.substrings import continuous_substrings
 from backend.utils.strings.transformation import special_characters_stripped, strip_multiple, unicode_point_stripped
@@ -97,7 +97,9 @@ class BilingualCorpus(np.ndarray):
 
         @cached_property
         def employs_latin_script(self) -> bool:
-            return comprises_only_roman_chars(self.character_set)
+            N_TOLERATED_NON_ROMAN_CHARS = 2
+
+            return n_non_roman_chars(self.character_set) <= N_TOLERATED_NON_ROMAN_CHARS
 
         def comprises_tokens(self, query_tokens: list[str], query_portion_percentage=1.0) -> bool:
             """ Args:

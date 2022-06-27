@@ -25,7 +25,11 @@ def comprises_only_roman_chars(string: str) -> bool:
     >>> comprises_only_roman_chars('داوم.')
     False """
 
-    return all(_is_latin(char) for char in filter(lambda char: char.isalpha(), string))
+    return not n_non_roman_chars(string)
+
+
+def n_non_roman_chars(string: str) -> int:
+    return sum(not _is_latin(char) for char in filter(lambda char: char.isalpha(), string))
 
 
 def _is_latin(char: str) -> bool:
