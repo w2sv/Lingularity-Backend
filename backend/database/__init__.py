@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from abc import ABC
 from pathlib import Path
 from typing import Iterator, Type
@@ -26,12 +27,6 @@ from .document_types import (
 VocableEntryDictRepr = dict[str, VocableData]
 
 
-def _client_endpoint(host: str, user: str, password: str) -> str:
-    """ Uses srv endpoint """
-
-    return f'mongodb+srv://{user}:{password}@{host}'
-
-
 def connect_database_client(server_selection_timeout=1_000) -> Type[ConfigurationError] | Type[ServerSelectionTimeoutError] | None:
     """ Returns:
             instantiation_error: errors.PyMongoError in case of existence, otherwise None """
@@ -53,15 +48,28 @@ class _MongoDBClient(MonoState, ABC):
 
     @classmethod
     def launch_cluster(cls, server_selection_timeout=1_500):
-        credentials = load_config(Path(__file__).parent / 'credentials.ini')
-
         cls._cluster = pymongo.MongoClient(
-            _client_endpoint(
-                host=credentials['host'],
-                user=credentials['user'],
-                password=credentials['password']
-            ),
+            host=cls._client_endpoint(),
             serverSelectionTimeoutMS=server_selection_timeout
+        )
+
+    @staticmethod
+    def _client_endpoint() -> str:
+        """ Uses srv endpoint """
+
+        template = 'mongodb+srv://{}:{}@{}'
+
+        if (credentials_fp := Path(__file__).parent / 'credentials.ini').exists():
+            credentials = load_config(credentials_fp)
+            return template.format(
+                credentials['user'],
+                credentials['password'],
+                credentials['host'],
+            )
+        return template.format(
+            os.environ['MONGODB_USER'],
+            os.environ['MONGODB_PASSWORD'],
+            os.environ['MONGODB_HOST'],
         )
 
     @classmethod

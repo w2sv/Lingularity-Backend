@@ -6,6 +6,7 @@ on: [push, pull_request]
 
 jobs:
   test:
+    environment: TEST_ENV
     runs-on: ubuntu-latest
     steps:
       #----------------------------------------------

@@ -13,10 +13,6 @@ logging.txt
 # Envs
 /env/
 
-# Keys
-.fernet_key
-.logged_in_user
-
 # Build
 /build/
 /backend.egg-info/

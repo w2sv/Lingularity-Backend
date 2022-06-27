@@ -10,7 +10,7 @@ from tqdm import tqdm
 from typing_extensions import TypeAlias
 
 from backend.components.forename_convertor import DEFAULT_FORENAMES
-from backend.paths import corpus_path
+from backend.paths import corpora_path
 from backend.utils import iterables
 from backend.utils.io import PathLike
 from backend.utils.iterables import intersection
@@ -42,7 +42,7 @@ class BilingualCorpus(np.ndarray):
         cls._train_english = train_english
 
         return cls._load(
-            corpus_path(language),
+            corpora_path(language),
             train_english
         ).view(BilingualCorpus)
 
