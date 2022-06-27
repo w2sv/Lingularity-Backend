@@ -13,7 +13,7 @@ _LANGUAGE_2_ACCENT_2_TLD: Dict[str, Dict[str, str]] = io.load_json(DATA_DIR_PATH
 
 
 class GoogleTTSClient(GoogleOperationClient):
-    _LANGUAGE_2_IETF_TAG = dictionary.reversed(lang.tts_langs())
+    _LANGUAGE_2_IETF_TAG = dictionary.items_reversed(lang.tts_langs())
     AVAILABLE_LANGUAGES: Set[str] = set(_LANGUAGE_2_IETF_TAG.keys())
 
     def __init__(self, language: str):

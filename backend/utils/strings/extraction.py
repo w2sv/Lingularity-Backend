@@ -3,7 +3,10 @@ from __future__ import annotations
 import re
 from typing import Iterable
 
+from more_itertools import unzip
+
 from backend.utils import iterables
+from backend.utils.iterables import contains_unique_value
 from backend.utils.strings import substrings
 from backend.utils.strings._char_sets import APOSTROPHES, DASHES
 from backend.utils.strings.classification import contains_article, is_digit_free
@@ -73,13 +76,13 @@ def longest_common_prefix(strings: Iterable[str]) -> str:
         >>> longest_common_prefix(['nascondersi', 'incolpare'])
         '' """
 
-    buffer = ''
-    for strings_i in zip(*strings):
-        if len(set(strings_i)) == 1:
-            buffer += strings_i[0]
+    common_prefix = ''
+    for strings_i in unzip(strings):
+        if contains_unique_value(strings_i):
+            common_prefix += next(iter(strings_i))
         else:
             break
-    return buffer
+    return common_prefix
 
 
 def longest_continuous_partial_overlap(strings: Iterable[str], min_length=1) -> str | None:
