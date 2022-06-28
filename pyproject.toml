@@ -6,7 +6,7 @@ authors = ["Janek Zangenberg <zangenbergjanek@googlemail.com>"]
 license = "GPL-3.0"
 
 [tool.poetry.dependencies]
-python = "~3.9.12, !=3.9.13"
+python = "3.9.12"
 numpy = "*"
 unidecode = "*"
 nltk = "*"
@@ -22,7 +22,7 @@ textacy = "*"  # mining
 more_itertools = "*"
 
 [tool.poetry.scripts]
-download-spacy-models = "backend.ops.spacy_models.download:download_models"
+install-spacy-models = "backend.ops.spacy_models.download:download_models"
 
 [tool.poetry.dev-dependencies]
 mypy = "*"

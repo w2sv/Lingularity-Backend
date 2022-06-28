@@ -9,7 +9,7 @@ _install:
 	poetry install
 
 install-spacy-models:
-	poetry run download-spacy-models
+	poetry run install-spacy-models
 
 # --------------
 # Testing

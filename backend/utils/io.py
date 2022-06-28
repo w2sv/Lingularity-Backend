@@ -1,6 +1,5 @@
 from configparser import ConfigParser, SectionProxy
 import json
-import os.path
 from pathlib import Path
 import pickle
 from typing import Any, TypeVar
@@ -15,8 +14,8 @@ def write_json(data: dict, file_path: PathLike):
 
 
 def load_json(file_path: PathLike):
-    with open(file_path, 'r', encoding='utf-8') as read_file:
-        return json.load(read_file)
+    with open(file_path, 'r', encoding='utf-8', errors='ignore') as read_file:
+        return json.load(read_file, strict=False)
 
 
 def write_pickle(data: Any, file_path: PathLike):
@@ -29,9 +28,6 @@ def load_pickle(file_path: PathLike) -> Any:
 
 
 def load_config(file_path: PathLike) -> SectionProxy:
-    if not os.path.exists(file_path):
-        raise ValueError(f'{file_path} does not exist')
-
     config = ConfigParser()
     config.read(file_path)
     return config['DEFAULT']
