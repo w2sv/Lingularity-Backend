@@ -10,10 +10,22 @@ from tests.conftest import get_bilingual_corpus
 
 
 def test_numpy_properties():
-    bilingual_corpus = BilingualCorpus('Bulgarian', train_english=False)
+    bilingual_corpus = get_bilingual_corpus('Bulgarian', train_english=False)
 
     assert bilingual_corpus.shape == (15138, 2)
+    assert isinstance(bilingual_corpus[0], np.ndarray)
     assert bilingual_corpus.dtype == np.dtype('<U262')
+
+    assert not bilingual_corpus[0, 1].endswith('\n')
+    assert not bilingual_corpus[-1, 1].endswith('\n')
+
+
+def test_attributes_non_static():
+    a = get_bilingual_corpus('Bulgarian', train_english=False)
+    b = get_bilingual_corpus('Bulgarian', train_english=True)
+
+    assert not a._train_english
+    assert b._train_english
 
 
 class TestDevoidOfUnicode:

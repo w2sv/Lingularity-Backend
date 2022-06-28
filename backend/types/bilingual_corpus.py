@@ -17,7 +17,7 @@ from backend.utils.iterables import intersection
 from backend.utils.strings.classification import comprises_only_roman_chars, n_non_roman_chars
 from backend.utils.strings.extraction import longest_continuous_partial_overlap, meaningful_types, quoted_substrings
 from backend.utils.strings.substrings import continuous_substrings
-from backend.utils.strings.transformation import special_characters_stripped, strip_multiple, unicode_point_stripped
+from backend.utils.strings.transformation import special_characters_stripped, strip_multiple
 
 
 # TODO: move mining related stuff to Miner
@@ -36,23 +36,25 @@ class BilingualCorpus(np.ndarray):
             BilingualCorpus[:, 0] = REFERENCE LANGUAGE (english if _train_english False, else non-english-language)
             BilingualCorpus[:, 1] = LEARN LANGUAGE (vice-versa) """
 
-    _train_english: bool = False  # TODO
-
     def __new__(cls, language: str, train_english=False) -> BilingualCorpus:
-        cls._train_english = train_english
-
-        return cls._load(
+        obj = cls._load(
             corpora_path(language),
             train_english
-        ).view(BilingualCorpus)
+        )\
+            .view(cls)
+        obj._train_english = train_english
+        return obj
+
+    def __array_finalize__(self, obj, *args, **kwargs):
+        if obj is not None:
+            self._train_english: bool = getattr(obj, '_train_english', None)  # type: ignore
 
     @staticmethod
     def _load(path: PathLike, train_english: bool) -> np.ndarray:
         def cleaned_sentence_pairs() -> Iterator[SentencePair]:
-            with open(path, 'r', encoding='utf-8') as sentence_data_file:
-                for row in sentence_data_file.readlines():
+            with open(path, 'r', encoding='utf-8') as f:
+                for row in f.readlines():
                     newline_char_stripped_row = row[:-1]
-
                     yield tuple(newline_char_stripped_row.split('\t'))
 
         ndarray = np.asarray(list(cleaned_sentence_pairs()))
