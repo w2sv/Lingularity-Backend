@@ -6,7 +6,7 @@ authors = ["Janek Zangenberg <zangenbergjanek@googlemail.com>"]
 license = "GPL-3.0"
 
 [tool.poetry.dependencies]
-python = "3.9.12"
+python = "~3.9.12, !=3.9.13"
 numpy = "*"
 unidecode = "*"
 nltk = "*"
