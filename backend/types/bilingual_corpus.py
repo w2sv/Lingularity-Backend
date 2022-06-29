@@ -22,7 +22,7 @@ from backend.utils.strings.transformation import special_characters_stripped, st
 
 # TODO: move mining related stuff to Miner
 
-SentencePair: TypeAlias = tuple[str, ...]
+SentencePair: TypeAlias = list[str]
 
 
 def percentage_sliced(ndarray: np.ndarray, percentage: float) -> np.ndarray:
@@ -55,7 +55,7 @@ class BilingualCorpus(np.ndarray):
             with open(path, 'r', encoding='utf-8') as f:
                 for row in f.readlines():
                     newline_char_stripped_row = row[:-1]
-                    yield tuple(newline_char_stripped_row.split('\t'))
+                    yield newline_char_stripped_row.split('\t')
 
         ndarray = np.asarray(list(cleaned_sentence_pairs()))
 
