@@ -1,0 +1,196 @@
+Thanks!	Trugarez !
+Thanks!	Mersi !
+Thanks!	Bennozh !
+Thanks.	Trugarez.
+Thanks.	Mersi.
+Thanks.	Bennozh.
+I eat bread.	Bara a vez debret ganin.
+Many thanks.	Mil drugarez.
+Many thanks.	Mil bennozh.
+Are you here?	Amañ emaout ?
+How about you?	Ha ganit?
+I baked bread.	Poazhet em eus bara.
+I baked bread.	Bara am eus poazhet.
+I need advice.	Ezhomm em eus eus un ali.
+I need advice.	Un ali em eus ezhomm.
+He sang a song.	Kanet en deus ur ganaouenn.
+He sang a song.	Ur ganaouenn en deus kanet.
+I wasn't alone.	Ne oan ket ma unan.
+Are you jealous?	Ha gwarizius out?
+Are you jealous?	Ha jalous out?
+Are you jealous?	Gwarizius out?
+Are you jealous?	Jalous out?
+Are you sisters?	C'hoarezed oc'h?
+Are you sisters?	C'hoarezed emaoc'h?
+Call the police.	Galv ar polis.
+Has Tom arrived?	Hag en em gavet emañ Tom?
+Has Tom arrived?	Tom 'zo en em gavet?
+Has Tom arrived?	Ha Tom 'zo en em gavet?
+Has Tom arrived?	Hag erruet emañ Tom?
+Has Tom arrived?	Tom 'zo erruet?
+I came in third.	Deuet on da drede.
+I didn't forget.	N'am eus ket disoñjet.
+I didn't listen.	N'am eus ket selaouet.
+I didn't listen.	Ne oan ket o selaou.
+I didn't shower.	N'am eus ket kemeret strinkadenn ebet.
+I didn't shower.	N'am eus ket kemeret douchenn ebet.
+I do understand.	Kompren a ran da vat.
+I don't like it.	Ne blij ket din.
+I have bad news.	Keleier fall em eus.
+I have children.	Bugale 'm eus.
+I have finished.	Echuet em eus.
+I have the list.	Al listenn am eus.
+I have to leave.	Rankout a ran mont.
+I have to leave.	Dav din mont.
+I have two cats.	Daou gazh am eus.
+I haven't slept.	N'em eus ket kousket.
+I know Tom well.	Anavezout a ran Tom mat-tre.
+I know Tom well.	Tom a anavezan mat-tre.
+I know Tom well.	Anavezout a ran mat-tre Tom.
+I know you know.	Gouzout a ran e ouzez.
+I know you know.	Me oar e ouzez.
+I know you know.	Gouzout a ran e oarez.
+I know you know.	Me 'oar e oarez.
+I laughed a lot.	C'hoarzhet em eus kalz.
+I laughed a lot.	Kalz em eus c'hoarzhet.
+I live in Japan.	Bevañ a ran e bro-Japan.
+I lost my phone.	Kollet em eus ma fellgomzer.
+I lost my phone.	Ma fellgomzer am eus kollet.
+I love teaching.	Kelenn a blij din.
+I love teaching.	Plijout a ra din kelenn.
+I remember that.	Soñj em eus deus an dra-mañ.
+I remember them.	Soñj am eus diouto.
+I remember them.	Diouto am eus soñj.
+I saw Tom there.	Gwelet em eus Tom du-se.
+I saw Tom there.	Tom am eus gwelet du-se.
+I see something.	Gwelout a ran un dra bennak.
+I see something.	Un dra bennak a welan.
+I see something.	Me a wel un dra bennak.
+I want a guitar.	C'hoant em eus da gaout ur gitar.
+I want a guitar.	Ur gitar am eus c'hoant da gaout.
+I wasn't asleep.	Ne oan ket kousket.
+I will continue.	Derc'hel a rin.
+I will continue.	Kenderc'hel a rin.
+I'd rather stay.	Gwelloc'h eo din chom.
+I'll come alone.	Deuet on ma unan.
+I'll come alone.	Deuet on va unan.
+I'll try harder.	Klask a rin diaesoc'h.
+I'll work alone.	Labourat a rin ma unan.
+I'll work alone.	Labourat a rin va unan.
+I'll work alone.	Ma unan e labourin.
+I'll work alone.	Va unan e labourin.
+I'm a detective.	Enklasker on-me.
+I'm a detective.	Enklasker on.
+I'm almost sure.	Kazi sur on.
+I'm from Boston.	Dont a ran eus Boston.
+I'm never wrong.	Ne fazian gwech ebet.
+I'm never wrong.	Ne fazian morse.
+I'm not special.	N'on ket ispisial.
+I'm not waiting.	Ne c'hortozan ket.
+I'm not waiting.	Gortozan ket.
+I'm not waiting.	'C'hortozan ket.
+I'm not working.	Labouran ket.
+I'm pretty sure.	Kazi sur on.
+I'm pretty tall.	Bras-mat on.
+I'm pretty tall.	Bras a-walc'h on.
+They didn't run.	N'o deus ket redet.
+They lost again.	Kollet o deus adarre.
+They lost again.	Kollet o deus c'hoazh.
+They went crazy.	Troet int da foll.
+They were dirty.	Lous e oant.
+They were dying.	O vervel e oant.
+They were dying.	Mervel a raent.
+They'll go away.	Mont a raint kuit.
+They'll go away.	Mont a raint diwar-wel.
+Tom baked bread.	Tom en deus poazhet bara.
+Tom baked bread.	Bara en deus poazhet Tom.
+Tom plays rugby.	Tom a c'hoari rugby.
+Tom plays rugby.	Rugby a c'hoari Tom.
+Tom plays rugby.	C'hoari a ra Tom rugby.
+Tom wanted that.	C'hoant en doa an dra-mañ Tom.
+Tom wanted that.	Tom a c'hoantae an dra-mañ.
+Tom was singing.	Kanañ a rae Tom.
+Tom was singing.	Tom a gane.
+Tom was talking.	O komz e oa Tom.
+Tom was talking.	Tom a oa o komz.
+Tom was talking.	Prezeg a rae Tom.
+Tom was talking.	Tom a brezege.
+Tom was talking.	Tom a brege.
+Tom was talking.	Pregiñ a rae Tom.
+Tom was talking.	Safariñ a rae Tom.
+Tom was talking.	Tom a safare.
+He was very poor.	Paour-kenañ e oa.
+He was very poor.	Paour-razh e oa.
+He was very poor.	Eñ a oa paour-razh.
+He was very poor.	Eñ a oa paour-kenañ.
+He was very poor.	Eñ a oa paour-du.
+He was very poor.	Eñ a oa paour-tre.
+He was very poor.	Eñ a oa paour meurbet.
+He was very poor.	Paour-du e oa.
+He was very poor.	Paour meurbet e oa.
+He was very poor.	Paour-tre e oa.
+How much is that?	Pegement eo se?
+Winter is coming.	Goañv 'zo tont.
+Do you have a car?	Ur c'harr az peus?
+Do you have a car?	Be peus ur c'harr?
+I have a headache.	Poan e-barzh ma fenn em eus.
+I saw him running.	Gwelet em eus anezhañ o redek.
+I heard him go out.	Klevet em eus anezhañ o vont maez.
+I wish I were rich.	C'hoant em eus da vezañ pinvidik.
+I'm from Australia.	Dont a ran eus Aostralia.
+It wasn't my fault.	Ne oa ket dre ma faot.
+It wasn't my fault.	Ne oa ket dre va fazi.
+I wish I could swim.	C'hoant em befe da c'houzout neuial.
+I'm eating an apple.	Me a zebr un aval.
+I've lost my pencil.	Kollet em eus ma c'hreion.
+I've lost my pencil.	Ma c'hreion am eus kollet.
+Is it still raining?	Glav a ra bepred?
+More coffee, please.	Ur bane kafe c'hoazh, mar-plij.
+More coffee, please.	Muioc'h kafe, mar plij.
+Tom was very scared.	Tom en doa aon da vat.
+Tom was very scared.	Aonik e oa Tom.
+White bread, please.	Bara gwenn, mar plij.
+You'd better not go.	Gwelloc'h dit-te chom hep mont.
+Don't leave me alone.	N'am lez ket ma unan-penn.
+Don't leave me alone.	Na lez ket ac'hanon ma unan-penn.
+I wish you good luck.	Hetiñ a ran dit chañs vat.
+I wish you good luck.	Hetiñ a ran dit kalon vat.
+I'm not at all tired.	N'on ket skuizh tamm toud ebet.
+I don't need anything.	N'em eus ket ezhomm seurt ebet.
+I don't need anything.	Me, n'em eus ezhomm eus netra.
+I'm from Tokyo, Japan.	Dont a ran eus Tokyo, Bro-Japan.
+She's in the restroom.	Er privezioù emañ-hi.
+Tell me what you want.	Lavar din ar pezh az peus c'hoant da gaout.
+Tell me what you want.	Lâr din ar pezh az peus c'hoant da gaout.
+Tell me what you want.	Lâr din pezh peus c'hoant da gaout.
+Tell me what you want.	Lavar din pezh peus c'hoant da gaout.
+How much is this clock?	Pegemet eo an horolaj-mañ?
+How much is this watch?	Pegement eo ar montr-mañ?
+How much is this watch?	Pegement eo an eurier-mañ?
+I thought Tom was dead.	Soñjet em eus e oa marv Tom.
+I want something sweet.	C'hoant em eus da gaout un dra dous.
+There's a lot of fruit.	Bezañ 'zo kalz frouezh.
+This is not a sentence.	Homañ n'eo ket ur frasenn.
+This is not a sentence.	Se n'eo ket ur frazenn.
+My book is on your desk.	War da vurev emañ ma levr.
+Who ate all the cookies?	Piv en deus debret an holl gookies?
+Who ate all the cookies?	Gant piv eo bet debret an holl gookies?
+He dressed up as a woman.	’N em wisket e oa 'vel ur plac'h.
+He dressed up as a woman.	Gwisket e oa evel ur vaouez.
+Pass me the salt, please.	Ro din an holen, mar plij.
+What's your home address?	Petra eo da chomlec'h?
+Where do you speak French?	Pelec'h e komzez Galleg?
+Where do you speak French?	'Ba' pelec'h komzez Galleg?
+Where do you speak French?	Pelec'h e pregez Galleg?
+Where do you speak French?	'Ba' pelec'h e pregez Galleg?
+Will you pass me the salt?	Reiñ a ri an holen din ?
+I know you're going to say no.	Me 'zo sur ec'h ez da lavaret nann.
+I know you're going to say no.	Gouzout a ran ervat e vo lavaret ket ganeoc'h.
+Is that a request or an order?	Ur reked pe un urzh eo?
+There's no reason to be afraid.	N'eus ket ezhomm da gaout aon e mod ebet.
+There's no reason to be afraid.	N'eus abeg ebet da vezañ spontet.
+A cat came out from under the desk.	Deuet e oa ur c'hazh eus dindan an daol.
+A cat came out from under the desk.	Dont a reas ur c'hazh eus dindan an daol-skrivañ.
+There are a lot of big cities in Brazil.	Bez 'zo ur bern kerioù bras e-barzh ar Brazil.
+Kissing a smoker is like licking an ashtray.	Pokat d'unan a vutun a zo evel lipat ul luduer.
+Kissing a smoker is like licking an ashtray.	Pokat d'unan a vutun a zo evel lipat ur pod-ludu.

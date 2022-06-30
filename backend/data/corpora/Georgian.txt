@@ -1,0 +1,142 @@
+Come in.	მობრძანდით
+See you.	ნახვამდის.
+Welcome.	კეთილი იყოს თქვენი მობრძანება!
+After you.	თქვენ შემდეგ.
+I'm happy.	ბედნიერი ვარ.
+You idiot!	იდიოტო!
+You tried.	შენ ეცადე.
+Definitely!	უეჭველად!
+I need you.	მჭირდები.
+I want you.	მინდიხარ.
+You called?	შენ დარეკე?
+You decide.	შენ გადაწყვიტე.
+Are you mad?	გაგიჟდი?
+Are you mad?	გიჟი ხარ?
+He loves me.	მას მე უყვარვარ.
+How are you?	როგორ ბრძანდებით?
+I'm not old.	მე არ ვარ ხნიერი.
+The TV's on.	ტელევიზორი ჩართულია.
+You said it!	ეს შენ თქვი!
+You're sick!	ავად ხარ!
+Can you come?	შეგიძლია მოხვიდე?
+I have to go.	მე უნდა წავიდე.
+I'm very shy.	მე ძალიან მორცხვი ვარ.
+Welcome home.	კეთილი იყოს შენი შინ დაბრუნება.
+Are you crazy?	გაგიჟდი?
+Are you there?	აქ ხარ?
+How about you?	და შენ?
+No, thank you.	არა, მადლობა.
+See you again.	კიდევ გნახავთ.
+You all right?	კარგად ხარ?
+You are lying.	იტყუები.
+You are lying.	იტყუებით.
+Do you love me?	შენ მე გიყვარვარ?
+I've done this.	მე ეს გავაკეთე.
+This is my cow.	ეს ჩემი ძროხაა.
+This is my dog.	ეს ჩემი ძაღლია.
+You're welcome.	არაფრის.
+Do you remember?	გახსოვს?
+Do you remember?	გახსოვთ?
+Green suits you.	მწვანე გიხდება.
+This is suicide!	ეს თვითმკვლელობაა.
+I like doughnuts.	მე მიყვარს დონატები
+I will shoot him.	ვესვრი!
+I'm on your side.	მე შენს მხარეს ვარ.
+My stomach hurts.	მტკივა კუჭი.
+Nice to meet you.	სასიამოვნოა თქვენი გაცნობა.
+Tom is here, too.	ტომიც აქაა.
+What's your name?	რა გქვია?
+He is still young.	ის ჯერ კიდევ ახალგაზრდაა.
+I like simplicity.	მომწონს სიმარტივე
+I like simplicity.	მე მომწონს სიმარტივე
+I like simplicity.	სიმარტივე მომწონს
+The house is warm.	სახლი თბილია.
+You're disgusting!	ამაზრზენი ხარ!
+I'll read the book.	წიგნს წავიკითხავ.
+I'm writing a book.	მე წიგნს ვწერ.
+You like elephants.	შენ სპილოები მოგწონს.
+I'll give you money.	მე მოგცემ ფულს.
+You'd better not go.	უკეთესი იქნებოდა, რომ არ წასულიყავი.
+He committed suicide.	მან თავი მოიკლა.
+I have two daughters.	ორი ქალიშვილი მყავს.
+Why are you sleeping?	რატომ გძინავს?
+Why are you sleeping?	რატომ გძინავთ?
+You're not listening.	არ უსმენ.
+He is lost in thought.	ფიქრებში დაიკარგა.
+I want to talk to her.	მინდა მასთან ლაპარაკი.
+I want to talk to you.	მინდა შენთან ლაპარაკი.
+I'm at the restaurant.	რესტორანში ვარ.
+Nobody understands me.	არავის არ ესმის ჩემი.
+She attempted suicide.	მან თავის მოკვლა სცადა.
+That man is a soldier.	ეგ კაცი ჯარისკაცია.
+We have a reservation.	გვაქვს დაჯავშნა.
+All people breathe air.	ყველა ადამიანი ჰაერს სუნთქავს.
+Can you get permission?	შეგიძლია პირობა მომცე?
+I don't speak Japanese.	მე არ ვიცი იაპონურად ლაპარაკი.
+I'll give you an apple.	მე მოგცემ ვაშლს.
+The train came on time.	მატარებელი დროზე მოვიდა.
+They are very cheerful.	ძალიან მხიარული არიან.
+Today is a working day.	დღეს სამუშაო დღეა.
+You have my permission.	შენ გაქვს ჩემი ნებართვა.
+You need my permission.	შენ გჭირდება ჩემი ნებართვა
+A bear can climb a tree.	დათვს შეუძლია ხეზე ცოცვა.
+I like studying history.	მე მიყვარს ისტორიის სწავლა.
+I'd like three of these.	სამი ცალი მომეცით გეთაყვა.
+I'll give you a present.	მე მოგცემ საჩუქარს.
+Please extend this visa.	გთხოვთ გააგრძელოთ ეს ვიზა.
+Who gave you permission?	ვინ მოგცა ნებართვა?
+I want a good dictionary.	კარგი ლექსიკონი მინდა.
+I'm the man of the house.	მე სახლის კაცი ვარ.
+He's the man of the house.	ის სახლის კაცია.
+You can go if you want to.	შეგიძლია წახვიდე თუ გინდა.
+I want to talk to you, Tom.	მინდა შენთან ლაპარაკი, ტომო.
+Read after me all together.	ყველამ გაიმეორეთ ჩემს შემდეგ.
+We've resolved the problem.	ჩვენ მოვაგვარეთ პრობლემა.
+I think Tom lives in Boston.	მე მგონი ტომი ბოსტონში ცხოვრობს.
+No more than 50 people came.	50 კაცამდე მოვიდა.
+She is dressed like a bride.	პატარძალივით აცვია.
+I've attempted suicide twice.	თავის მოკვლა ორჯერ ვცადე.
+I learned to live without her.	მის გარეშე ცხოვრებას შევეჩვიე.
+The train arrived on schedule.	მატარებელი დროზე მოვიდა.
+Why do you need my permission?	რატომ გჭირდება ჩემი ნებართვა?
+I'm not asking your permission.	მე არ გთხოვთ თქვენ ნებართვას.
+I've seen you somewhere before.	სადღაც მინახავხარ.
+Please wait for thirty minutes.	ნახევარი საათი მოიცადე.
+What did you say your name was?	რა თქვი რა გქვია?
+I left my umbrella on the train.	ქოლგა მატარებელში დავტოვე.
+I'm a member of the tennis club.	მე ამ ტენის კლუბის წევრი ვარ.
+Tom is a teacher, too, isn't he?	ტომიც მასწავლებელია, არა?
+I'm cold. May I close the window?	მცივა. შეიძლება ფანჯარა დავხურო?
+No one should desert his friends.	არავინ არ უნდა მიატოვოს თავისი მეგობარი.
+Our meeting was quite accidental.	ჩვენი შეხვედრა შემთხვევითი იყო.
+Over 30 people committed suicide.	30-ზე მეტმა ადამიანმა თავი მოიკლა.
+The mail is delivered once a day.	წერილი ბარდება დღეში ერთხელ.
+Tom is Mary's neighbor, isn't he?	ტომი მარის მეზობელია, არა?
+I found the book very interesting.	ამ წიგნმა ძალიან დამაინტერესა.
+I saw a beautiful waterfall there.	მე იქ ლამაზი ჩანჩქერი დავინახე.
+Yesterday was Sunday, not Saturday.	გუშინ იყო კვირა, შაბათი კი არა.
+He never hears what I'm trying to say.	არასოდეს არ ისმენს რისი თქმაც მინდა.
+A man on horseback came along the path.	ცხენზე შემჯდარმა კაცმა ჩამოგვიარა.
+I don't know whether it is true or not.	არ ვიცი სიმართლეა თუ ტყუილი.
+We caught a lot of fish this afternoon.	ამ შუადღეს ბევრი თევზი დავიჭირეთ
+What is this animal called in Japanese?	ამ ცხოველს იაპონურად რა ქვია?
+He must have gone to see his old friend.	ალბათ თავისი ძველი მეგობრის სანახავად წავიდა.
+Tom had trouble resolving the situation.	ტომს უჭირდა სიტუაციის გამოსწორება.
+What is your ultimate goal in your life?	რა არის შენი ცხოვრების მიზანი?
+You will never get bored in her company.	მის კომპანიაში არასოდეს მოიწყენ.
+I'll give this apple to whoever wants it.	ამ ვაშლს ვისაც უნდა იმას მივცემ.
+The new store is going to open next week.	ახალი მაღაზია მომავალ კვირას გაიხსნება.
+I don't want to go outside this afternoon.	სახლიდან გასხვლა არ მინდა ამ საღამოს.
+Mary wasn't one of the most popular girls.	მარი ერთ-ერათი ყველაზე პოპულარული გოგო იყო.
+Our school has twenty-four classes in all.	ჩვეს სკოლას ჯამში აქვს ოცდაოთხი კლასი.
+Mary was not one of the most popular girls.	მარი ერთ-ერათი ყველაზე პოპულარული გოგო იყო.
+I don't want to work under these conditions.	მე მუშაობა არ მინდა ასეთ პირობებში.
+I only have toast and coffee in the morning.	დილაობით მხოლოდ ტოსტს და ყავას მივირთმევ.
+The coffee at this restaurant isn't very good.	ყავა ამ რესტორანში არაა ძალიან კარგი
+I was absorbed in a book and didn't hear you call.	წიგნმა "ჩამითრია" და შენი ხმა ვერ გავიგე.
+The police took immediate action to deal with the riot.	პოლიციამ დაუყოვნებლივი ქმედება მიიღო, აჯანყებასთან გასამკლავებლად.
+We agreed to refrain from smoking while we are at work.	ჩვენ შევთანხმდით, რომ სამსახურში თავს შევიკავებდით მოწევისაგან.
+Present-day Japan is going down the route to self destruction, isn't it?	დღესდღეობით იაპონია მიდის თვითგანადგურების გზაზე, არა?
+Tom is having trouble coping with the fact that his son committed suicide.	ტომს უჭირს გაუმკლავდეს ფაქტს, რომ მისმა შვილმა თავი მოიკლა.
+The bear left no stone unturned in his search for fat bugs under the rocks.	დათვმა არცერთი ქვა არ დატოვა ამოუტრიალებელი მსუქალი ხოჭოების ძებნისას.
+A woman wrote 30 books about how to become happy, and then committed suicide.	ქალმა 30 წიგნი დაწერა იმაზე, თუ როგორ გავხდეთ ბედნიერი, და შემდეგ თავი მოიკლა.

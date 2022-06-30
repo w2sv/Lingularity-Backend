@@ -1,0 +1,207 @@
+Hello!	Oy!
+Oh no!	Ayaw intawon!
+No way!	Dili puyde!
+Go away!	Layas!
+Go away.	Layas.
+Goodbye!	Pag-ayo-ayo dinhi!
+Shut up!	Hilom!
+Shut up!	Hilom diha!
+Welcome.	Maayong pag-abot!
+Hurry up.	Pagdali.
+Let's go!	Ta na!
+Let's go!	Tana!
+Come here.	'Mari ka.
+Come here.	Mari ka.
+I'm sorry.	Pasayloa ko.
+I'm tired.	Gikapoy ko.
+I love you.	Gihigugma ta ka.
+I'm hungry!	Gigutom ko.
+We're fair.	Makiangayon man mi.
+We're fine.	Maayo man mi.
+We're here.	Dia ra mi.
+We're home.	Nia mi sa balay.
+We're late.	Ulahi mi.
+We're lazy.	Tapolan mi.
+We're lost.	Nasaagmi.
+We're poor.	Kabos mi.
+We're rich.	Dato mi.
+We're safe.	Luwas mi.
+We're sick.	Masakiton mi.
+We're sunk.	Naunlod mi.
+We're tidy.	Himos mi.
+We're weak.	Huyang mi.
+What a day!	Grabeng adlawa!
+What's new?	Unsay bag-o?
+Who are we?	Si kinsa ba kita?
+Who did it?	Kinsay mibuhat ato?
+Who has it?	Kinsay naay ing-ato?
+Who is Tom?	Kinsa nang Tom?
+Who is she?	Kinsa na siya?
+Who phoned?	Kinsay nanawag?
+Who saw me?	Kinsa toy nakakita nako?
+Who stayed?	Kinsay nabilin?
+Who talked?	Kinsay misulti?
+Who was it?	Kinsa gani to?
+Who yelled?	Kinsay misiyagit?
+Who's here?	Kinsay nia?
+Who's next?	Kinsay sunod?
+Who's that?	Kinsa na?
+Wood burns.	Ang kahoy mosilaob.
+You can go.	Adto kaw.
+You did it.	Nabuhat mo.
+You got it.	Sakto ka.
+You may go.	Puyde ka nang mohawa.
+You missed.	Sipyat ka.
+Don't worry.	Ayawg kaguol.
+How are you?	Unsa na man?
+How are you?	Kumusta?
+I'm thirsty.	Giuhaw ko.
+Who are you?	Kinsa diay ka?
+A bug bit me.	Gipaak ka ba og insekto?
+Are you sure?	Segurado ka?
+I am curious.	Buot ko masayod.
+I don't know.	Ambot.
+I want to go.	Moadto na ko.
+Are you happy?	Malipayon ka ba?
+Are you tired?	Gikapoy ka?
+He got caught.	Gidakop siya.
+They all know.	Kahibalo sila tanan.
+We have a dog.	Duna miy iro.
+Where are you?	Hain ka karon?
+Are you hungry?	Gigutom ka?
+Bring a camera.	Pagdala og camera.
+Can I help you?	Tabangan ta ka na?
+Do you love me?	Imo ba kong gihigugma?
+Happy New Year!	Bulahang Bag-ong Tuig!
+Leave me alone!	Pasagdi ko!
+Please join me.	Palihog nunot kanako.
+Please move on.	Sibog na intawon.
+Are you married?	Minyo ka ba?
+Congratulations!	Pahalipay!
+Congratulations!	Pasidungog!
+How old are you?	Pilay imong edad?
+I can't see you.	Dili ko makakita nimo.
+I can't see you.	Dili ko kakita nimo.
+I have two cats.	Duhay akong iring.
+Please continue.	Padayon palihog.
+Please sit down.	Palihog lingkod.
+Please visit me.	Duawa ko palihog.
+They won't know.	Dili sila kabalo.
+Do you live here?	Taga dinhi ka?
+I don't know why.	Wala ko kahibalo ngano.
+I hate chemistry.	Dili ko ganahan og Kemistri.
+I'm not a doctor.	Dili ko doktor.
+What do you want?	Unsay imong gusto?
+What's your name?	Unsay imong ngalan?
+I have a headache.	Gilabdan ko.
+I was not pleased.	Wala ko mahimuot.
+Please just leave.	Palihog hawa.
+Please stop there.	Hunong diha palihog.
+What is your name?	Unsay imong ngalan?
+Where do you live?	Diiy inyo?
+I don't understand.	Wala ko kasabot.
+Please call a taxi.	Kuha palihog og taxi.
+Please come hungry.	Ari intawon nga gutom.
+Please don't leave.	Ayaw intawon hawa.
+Please give me one.	Tagai kog usa bi.
+Please wait for me.	Palihog og hulat nako.
+This is all I know.	Ma-o ra kini akong nahibaw-an
+What are you doing?	Nag-unsa ka?
+Where are you from?	Dis-a ka?
+Why are you crying?	Nganong mihilak ka?
+I will be back soon.	Mobalik ra ko dayon.
+Please come quickly.	Pagdali intawon.
+Please fix the iron.	Itarong ra ko sa plancha.
+Please have a drink.	Tagay palihog.
+Please just go away.	Palihog hawa lang.
+Please sell me that.	Ibaligya intawon na ngari nako.
+The engine is noisy.	Kasaba ba sa motor.
+Tom can't be killed.	Dili mapatay si Tom.
+Tom decided to wait.	Nakahukom si Tom nga magpaabot.
+Where are you going?	Asa ka moadto?
+Do you speak English?	Makainingles ka?
+I want to please you.	Gusto ko malipayon ka.
+Please don't hang up.	Palihog ayawg ibutang.
+Please don't hurt me.	Ayaw intawon ko pasakiti.
+Please drop in on us.	Hapit intawon namo.
+Please eat something.	Palihog ayaw usag kaon.
+Please read it again.	Basaha palihog og usob.
+Tom didn't act alone.	Dili to inusarang gibuhat ni Tom.
+Tom is not my cousin.	Dili ig-agaw nako si Tom.
+Tom still works here.	Si Tom nagtrabaho gihapon diri.
+Tom tried and failed.	Gisulayan og buhat ni Tom apan pakyas.
+How long did you stay?	Unsa ka kadugaya didto?
+It was nobody's fault.	Walay sad-an sa nahitabo.
+Please don't tell Tom.	Ayaw intawon tug-ani si Tom.
+She is afraid of cats.	Mahadlok siyag iring.
+Call them this evening.	Tawaga sila karong gabi-i.
+I don't have any money.	Wala na jud koy kwarta.
+I don't speak Japanese.	Dili ko makahinapon.
+It's really noisy here.	Saba kaayo diri.
+Wait for a few seconds.	Wetsa.
+You asked for my advice.	Nagpakitambag ka kanako.
+Do you know how to do it?	Kamao ka?
+I don't like you anymore.	Wala na koy gusto nimo.
+I'm living in Boston now.	Napuyo ko ron sa Boston.
+It's my fault, not yours.	Akoa ni'ng sala, dili imoha.
+The book is on the table.	Toa ang libro sa lamesa.
+You be the judge of that.	Ikay hukom niana.
+I just want a little help.	Gusto lang ko'g gamay nga tabang.
+This is my final question.	Kini ang akong uwahing pangutana.
+Everybody started to laugh.	Ang tanan nagsugod og katawa.
+He gave away all his money.	Iyang gihatag tanan iyahang kwarta.
+I have to go to the toilet.	Kinahanglang moadto ko sa pansayan.
+The archer killed the deer.	Napatay sa tigpana ang lagsaw.
+Tom was taken into custody.	Gibilanggo si Tom.
+What are you talking about?	Unsay buot mong ipasabot?
+What causes that to happen?	Unsay hinungdan aron mahitabo na?
+I shouldn't have logged off.	Wala lang usa ko mobiya.
+There is a meeting tomorrow.	May tigom ugma.
+Tom said Mary is very tired.	Si Tom nag-ingon nga gikapoy kaayo si Mary.
+Why don't you come visit us?	Nganong dili mo man nuon mi duawon?
+I don't want to be like that.	Di ko gusto mahimong ingon ana.
+I don't want to go to school.	Dili ko moeskuyla.
+Where did you buy that dress?	Asa nimo napalit nang sanina-a?
+"Thank you." "You're welcome."	"Salamat." "Walay sapayan."
+The new store opens next week.	Sunod semana moabri ang bag-ong tindahan.
+Wait for me next to that tree.	Hulata ko tapad anang kahoya.
+I don't want to wait that long.	Dili ko gustog ing ana kadugayg pinaabot.
+I woke up at five this morning.	Alas singko sa buntag ko mibangon.
+I'll call you when I get there.	Tawgan ta ka inig abot nako didto.
+The bus driver opened the door.	Gibuksan sa drayber sa bus ang lukob.
+He doesn't have to go to school.	Dili siya kinahanglang moadto sa tunghaan.
+I don't know how to contact you.	Ambot unsaon ta ka pagpahibalo.
+I don't know what to do anymore.	Wala na ko masayod unsa pay buhaton.
+She prayed for her son's return.	Nag-ampo siya alang sa pagbalik sa iyang anak.
+Forty-eight sailors are on board.	Nagsakay ang kap-atag walo ka tripulante.
+Will you send up a bucket of ice?	Pagdala diri sa taas og usa ka baldeng hyelo.
+Behave yourself during my absence.	Pagbinuotan baya samtang wala ko.
+Does your girlfriend like flowers?	Ganahan ba og bulak ang imong uyab?
+Does your girlfriend like flowers?	Ganahan ba og bulak ang imong nobya?
+Tom didn't answer Mary's question.	Wala tubaga ni Tom ang pangutana ni Mary.
+Unexpected results were announced.	Mga wala damhang linugdangan kadto toy gipahibalo.
+Can you recommend a good restaurant?	May ikasugyot ka bang nindot nga kan-anan?
+They added a woman to the committee.	Gidugangan nila og babaye ang komitiba.
+Tom was arrested later that morning.	Gisikop si Tom pag talimudto.
+Where there is smoke, there is fire.	Kung adunay aso, adunay kayo.
+Where there is smoke, there is fire.	Kung naay aso, naay kayo.
+He is content with his present state.	Igo na niya ang kasamtangang kahimtang.
+Tom talked to Mary about the robbery.	Gisuginlan ni Tom si Mary bahin sa kawat.
+Tom talked to Mary about the robbery.	Gisuginlan ni Tom si Mary bahin sa tulis.
+Tom wrote his name on the blackboard.	Nagsuwat si Tom sa iyang ngalan sa blakbord.
+Acid rain is not a natural phenomenon.	Dili kinaiyanhon ang makaluksaw nga ulan.
+The hostages will be released tomorrow.	Ugma buhan ang mga gipakitaming.
+The rocket is in orbit around the moon.	Milibotlibot ang kweti sa bulan.
+I still don't understand how to do that.	Di pa ko kasabot unsaon kana pagbuhat.
+You're mistaken. That's not what I said.	Sayop ka. Dili na mao akong gisulti.
+I don't think I'll make it to your party.	Murag di ko makaabot sa imong party.
+I don't want any advertising on my website.	Dili ko gustong may adbertisment dinhi sa akong websayt.
+It's better if I drove you all the way home.	Maayo pang ihatod ta lang hinuon ka ning kotse taman sa inyo.
+Tom served 30 years for second degree murder.	Mialagad og 30 ka tuig si Tom alang sa ikaduhang degri sa pagpatay.
+The crowd went wild when the news was announced.	Nagubot ang mga tawo dihang gibalita to.
+Tom wanted Mary to know that he didn't hate her.	Buot ni Tom masayran ni Mary nga wala siya maitok niini.
+Tom wanted Mary to know that he didn't hate her.	Buot ni Tom masayran ni Mary nga wala siyay kaitok niini.
+Have you already carried the boxes up to the attic?	Gidala mo na ba ang mga kahon didto sa arkoba?
+Burj Khalifa is currently the tallest skyscraper in the world.	Burj Khalifay kasamtangang kinahabogang dakbalay sa kalibotan.
+Burj Khalifa is currently the tallest skyscraper in the world.	Burj Khalifa ang kasamtangang kinalayogang dakbalay sa tibuok kalibotan.
+Martin Luther King Jr. fought for civil rights for African-Americans by teaching nonviolence.	Pinaagi sa pagtudlo sa pagka dili madinagmalon nakigbisog si Martin Luther King Jr. alang sa katungod nga sibil sa mga Amerkanong may dugong Afrikanhon.

@@ -1,0 +1,1147 @@
+Hello!	¡Kumusta!
+Oh no!	¡Ayaw gad!
+You won.	Dinmaog hi ikaw.
+You won.	Nagdaog hi ikaw.
+You won.	Nagdaog ka.
+You won.	Dinmaog ka.
+Use this.	Gamita iní.
+Am I late?	¿Urhi na ak'?
+I'm loved.	Ginhigugma hi akó.
+I love you.	Nahigugma akó ha imo.
+I love you.	Ginhihigugma ko hi ikaw.
+He's a nerd.	Nerd hiyá.
+I didn't go.	Waray ako kumadto.
+I won't ask.	Dírì ako mag-aaro.
+I'm all set.	Andam na ako.
+It may rain.	Mauran ada.
+It may rain.	Bangin umuran.
+Who are you?	¿Hin-o ka?
+Are you cold?	Ginhahagkutan ka?
+Are you cold?	Gintataghuman ka?
+I can't read.	Diri ako nakakabasa.
+I don't know.	Diri hi akó maáram.
+I don't know.	Diri ak maáram.
+I don't know.	Waray ko sarabotan.
+I don't know.	Waray ak sarabotan.
+I don't know.	Ambot.
+Put it there.	Ikadto.
+Put it there.	Ibutang ngadto.
+Put it there.	Dídto ibutang.
+Put it there.	Ikada.
+You fixed it.	Gin-ayád nímo itón.
+Are you ready?	¿Ándam ka bà?
+I'll get this.	Kuhaon ko ini.
+It's rat meat.	Unod iton hin yatot.
+It's too ugly.	Maraksot iton hin duro.
+It's too ugly.	Karaksut hin duro.
+They're drunk.	Mga hubog hira.
+Come back here.	Bálik nganhi.
+Come back here.	Bálik ngadi.
+Happy birthday!	¡Malipayon nga Kaadlawan!
+I can't go out.	Diri ako nakakagawas.
+I can't go out.	Diri ako puydi gumawas.
+I made Tom cry.	Ginpatuok ko hi Tom.
+I'm going, too.	Malakat gihap ak.
+It's no secret.	Diri na iton sekreto.
+It's no secret.	Diri na ini sekreto.
+It's no secret.	Diri na in' sekreto.
+It's no secret.	Diri na 'ton sekreto.
+Never say that.	Ayaw gud pagsiríng hitón.
+Please help me.	Alayon pagbúlig ha akon.
+We're a couple.	Mag-asawa kami.
+Don't tell lies.	Ayaw pagbinuwa.
+Don't tell lies.	Ayaw pagbuwa.
+I had some help.	May-ada pira nga bumulig ha ak.
+I have two cats.	May-ada akó duha nga misay.
+I have two cats.	Duhá iton ákòn misay.
+I saw her again.	Utro ko hiyá nakita.
+I saw her again.	Nakit-an ko hiyá utro.
+I'll sing today.	Makanta ako yana nga adlaw.
+I'm leaving you.	Babayaanan ko ikaw.
+Let me find out.	Kitáun ko.
+Life is strange.	Iton kinabuhi baga lain la.
+Look around you.	Panngita hit' imo palibot.
+Merry Christmas!	¡Maúpay nga Pasko!
+This is a horse.	Kabayo iní.
+Tom reads a lot.	Makibabasahun hi Tom.
+Tom will follow.	Masunod hi Tom.
+Why is Tom here?	Kay-ano aanhi hi Tom?
+Did Tom tell you?	¿Sinumatan ka ni Tom?
+I don't know her.	Dírì ko hiyá kilalado.
+I own this place.	Ákòn ini nga lugár.
+I started to cry.	Nagtikang ak' pagtuok.
+Leave it be, Tom.	Pabay-i iton, Tom.
+Leave it be, Tom.	Pasagdi iton Tom.
+Listen carefully.	Pamatì hin maúpay.
+Nobody does that.	Waray nagbubuhat hiton.
+Nobody does that.	Waray naghihimo hiton.
+Please move back.	Alayon atras daw.
+Tom is reluctant.	Nag-aalang hi Tom.
+Tom is reluctant.	Hi Tom nag-aalang.
+We have two ears.	Mayda hi kitá duhá nga talinga.
+You're not crazy.	Diri ka lurong.
+Can't you help me?	Diri mo ako mabubuligan?
+He lives close by.	Harani la hiyá naukoy.
+How can I see you?	Panan-o ko ikaw makikit'an?
+How can I see you?	Ano man iton akon pakakita ha imo?
+I didn't break in.	Waray ako magpilit pagsakob.
+I have a question.	May-adá ak pakiana.
+I like Tom better.	Ngaru-karuyag ko hi Tom.
+I like Tom better.	Mas karuyag ko hi Tom.
+I like Tom better.	Naaruayun akó kan Tom.
+I like Tom better.	Mas naayun akó kan Tom.
+I live near a dam.	Naukóy ako hirani hit dam.
+I lost everything.	Nawara ko tanan.
+I will stay there.	Aanhi la ako.
+I will stay there.	Mahuyo la ak dinhi.
+I will stay there.	Nganhi la ak maukoy.
+I'm at the prison.	Adi ako ha prisohan.
+I'm at the prison.	Adi ako ha karsel.
+Keep watch on him.	Bantayi hiyá.
+Keep watch on him.	Kitakitaa hiyá.
+Keep watch on him.	Hilinghilinga hiya.
+Keep watch on him.	Sirusiplati hiyá.
+Let's go swimming.	Kana kalangoy kita.
+My father is rich.	Riko it akon tatay.
+That book is mine.	Akon iton nga libro.
+That book is mine.	Iton nga libro akon.
+The market is big.	Dako iton merkádo.
+Tom coughed again.	Hi Tom umubo na liwát.
+Tom is just a boy.	Lumatod la iton hi Tom.
+Tom is just a boy.	Bata la iton hi Tom.
+Tom skipped lunch.	Waray maningudto hi Tom.
+We must stop this.	Kinahanglan naton pahuyuon ini.
+We must stop this.	Kinahanglan ta paundangon ini.
+We'll handle this.	Kakap'tan nam' inin.
+What's that sound?	¿Ano it nga tunog?
+What's the number?	Ano iton numero?
+What's the number?	Ano an numero?
+Who is that woman?	Hin-o iton nga babáyi?
+Who is that woman?	It' nga babáyi hin-o ito'?
+Who made this box?	¿Hin-o an naghímò hiní nga kahón?
+Who was Mona Lisa?	¿Hin-o ba hi Mona Lisa?
+You can trust Tom.	Matatapuran mo hi Tom.
+You make me laugh.	Nakakatawa ako ha imo.
+Do I need dentures?	¿Kinahanglanun ko na ba hin postiso?
+Do I need dentures?	¿Kinahanglan ko ba hin postiso?
+Everybody's in bed.	It' ngatanan áada na higdaan.
+Get over here, Tom.	Pakanhi daw Tom.
+Get over here, Tom.	Pakadi daw Tom.
+Get over here, Tom.	Kana ngadi Tom.
+He's still at work.	Adto pa hiýa ha trabaho.
+I came to know him.	Kumanhi ako para kilal-un hiya.
+I didn't notice it.	Waray ko iton kakitai.
+I didn't notice it.	Waray ko iton abata.
+I don't have a cat.	Waray hi akó misay.
+I don't have a cat.	Waray hi akó uding.
+I don't have a cat.	Waray ak misay.
+I don't have a cat.	Waray ak uding.
+I have a nosebleed.	May kunggo ak.
+I hope you're well.	Maupay unta iton imo kabutangan.
+I never lie to you.	Diri ako nagbibinuwa ha imo.
+I never touch beer.	Waray pa ako uminom hin beer.
+I never touch beer.	Diri pa ako nakakatilaw hin beer.
+I never touch beer.	Waray pa ako tumilaw hin beer.
+I want to join you.	Karuyag ko bumulig ha íyo.
+I want to join you.	Karuyag ko bumulig ha imo.
+I want to join you.	Karuyag ko updan ka.
+I want to join you.	Karuyag ko updan kamó.
+I was playing here.	Nagmulay ako dinhi.
+I was ready for it.	Ándam na akó pára hiton.
+I'm a speechwriter.	Usa ako nga speechwriter.
+I'm going with Tom.	Makadto ako kaupod hi Tom.
+I'm going with Tom.	Maupod ako kan Tom.
+I'm not in trouble.	Dírì'k búlig ha saramok.
+Is this seat taken?	May-tag-iya na hini nga lingkúran?
+It was unavoidable.	Diri adto mapupudngan.
+It's rather unique.	Dírì 'ton kasagaran.
+Look at Tom's face.	Kitai iton nawong ni Tom.
+Nobody's that good.	Waray sugad hiton kamakarit.
+Please call a taxi.	Alayon pagtáwag hin taxi.
+That must be heavy.	Mabug-at gud iton.
+That must be heavy.	Mabug-at gud ádto.
+They're all normal.	Normal hirá ngatanan.
+This is all I need.	Amo la ini iton akon mga kinahanglanon.
+Tom is quite right.	Bagan ámu hi Tom.
+Tom ran out of gas.	Naubusan hin gas hi Tom.
+Tom seems stressed.	Bagan kapoy hi Tom.
+Tom seems stressed.	Bagan problemado hi Tom.
+Tom wants evidence.	Karuyag ni Tom hin ebidensya.
+Tom will need help.	Manginahanglanon búlig hi Tom.
+What's Boston like?	¿Ma-anó ba it Boston?
+Where are my books?	¿Háin an ákòn mga líbro?
+Who gave you these?	¿Hin-o an nagpinanhátag haím hiton?
+Will it hurt a lot?	Magmamaul-ul iton hin duro?
+You're still young.	Bata ka pa.
+Every day is a gift.	Usa nga regalo iton kinada adlaw.
+He knows how to bet.	Maaram hiya pagtaya.
+He works in the lab.	Nagtratrabahu hiya ha laboratoryo.
+He's all by himself.	Hiyá la nga usá.
+He's all by himself.	Mag-usahan la hiyá.
+He's all by himself.	Waráy niya kaupod.
+I almost got robbed.	Haráni na akó kawátan.
+I can depend on Tom.	Matatapuran ko hi Tom.
+I can depend on Tom.	Natapod ako kan Tom.
+I can't read French.	Diri ako nakakabasa hin Pranses.
+I managed to get in.	Nahimo ko makasakob.
+I met him yesterday.	Nakita ko hiya kakulop.
+I met him yesterday.	Nakilala ko hiya kakulop.
+I only saw him once.	Makausa ko la hiya kakit'i.
+I want you to guess.	Karuyag ko tiguon mo.
+I'll take my chance.	Pruybahan ko gadla.
+I'm waiting for you.	Naghihinúlat hi akó ha imo.
+Is it far from here?	¿Haráyò ba itón tíkang dinhi?
+It makes me curious.	Napapaúsa ak hiton
+It serves you right.	Angay la iton ha imo.
+It serves you right.	Angay la't' ha im'.
+It was very painful.	Maulol ádto hin duro.
+It's Saturday today.	Sabado yana.
+It's getting harder.	Nagtitikakuri na.
+Just don't leave me.	Ayaw la ako bayai.
+That doesn't matter.	Waray manla hiton.
+That isn't my fault.	Dírì ko iton sayop.
+That's not my fault.	Dírì ko iton sayop.
+They look exhausted.	Kapoy na hira kitaun.
+They look exhausted.	Guol na hira pagkitaun.
+They're really cool.	Kaastig talaga nira.
+Tom tossed the ball.	Gin-itsa ni Tom an bola.
+Tom won't negotiate.	Hi Tom diri makikigsabot.
+We'll see you there.	Pagkíta nala kita ngadto.
+What pretty flowers!	Kahusay'n mga bukad!
+What should be done?	¿Áno it' ángay buháton?
+Who is in this room?	¿Hin-o it anhi hiní nga sulód?
+Who is in this room?	¿Hin-o it anhi hiní nga kwarto?
+You still need help.	Kinahanglanon mo la gihapon hin bulig.
+You'll be my guests.	Magigin bisíta ko kamó.
+You're just envious.	Na-áwà ka là.
+You're out of order.	Nagwawatak ka.
+Are you in Australia?	¿Áada ka ha Australya?
+Are you in Australia?	¿Áda ka Australya?
+Can we talk a second?	Puydi kita mag-estorya?
+Did Tom see anything?	¿May nakit-an hi Tom?
+Did you get the loan?	¿Nakuha mo an imo hinuhuram?
+Did you see a doctor?	¿Nagpa-doktor ka?
+Did you see a doctor?	¿Nakigkita ka hin doktor?
+Did you see a doctor?	¿Bumisita ka ha doktor?
+Did you see a doctor?	¿Kumadto ka doktor?
+Don't rely on others.	Ayaw pagtápod hit ibá.
+Good night, everyone!	¡Maupay nga gab-i ha ngatanan!
+I can swim very fast.	Nakakalangoy akó hin madagmit.
+I did what was right.	Ginhimo ko kun ano an isakto.
+I have to keep going.	Kinahánglan nakun magpadáyun.
+I owe a lot of money.	Dámo iton akón útang nga kwárta.
+I still want to play.	Karuyag ko pa mag-mulay.
+I think they saw you.	Pag-abat ko nakikit'an ka nira.
+I was very skeptical.	Duro tak pagduda.
+I was very skeptical.	Nag-aalang ak hin duro.
+I'd like to try this.	Karuyag ko proybahan ini.
+I'd like to try this.	Karuyag ko testingan ini.
+I'll ask Tom for you.	Pakianhan ko hi Tom para haim.
+I'll go and get them.	Malakat akó ngan kuhaon ko hirá.
+I'll take it outside.	Igagawas ko iton.
+I've got to stop you.	Kinahanglan ko pahuyuon ka.
+It wasn't my mistake.	Diri adto akon sayup.
+She is out of danger.	Gawás hiyá hit' kadelikaduhan.
+Tom bragged about it.	Naghinambog hi Tom hiton.
+Tom can speak French.	Maaram mag-prinanses hi Tom.
+Tom can't explain it.	Diri kaya ni Tom igeksplekar iton.
+Tom climbed the tree.	Hi Tom sumaka ha káhoy.
+Tom climbed the tree.	Nagsaklang hi Tom ha kahoy.
+Tom climbed the tree.	Hi Tom sinaka ha kahoy.
+Tom climbed the tree.	Ginsaka ni Tom an káhoy.
+Tom decided to leave.	Nagdesisyon hi Tom nga lumakat.
+Tom left at midnight.	Linmakat hi Tom ha katutnga han gab-i.
+Tom likes to do that.	Karuyag iton buháton ni Tom.
+Tom wants to take it.	Karuyag iton ni Tom.
+We have many members.	Dámu tat miyembro.
+We have many members.	Dámu iton aton miyembro.
+We have many members.	Dámu iton amun miyembro.
+We have many members.	Dámu tam miyembro.
+We have many members.	Kadámu hiton amun miyembro.
+We met at the church.	Nagkakilala kamí ha singbahan.
+We'll always be here.	Adi la kami.
+Who are your parents?	Hin-o iton imo mga kag-anak?
+Did you hurt yourself?	Naul-ulan ka?
+Does your mother know?	¿Maaram it' im' iroy?
+I can play the guitar.	Nakatokar hi akó han sista.
+I can play the guitar.	Nakatokar ak hit sista.
+I hit him on the chin.	Naigo ko hiyá ha panga.
+I made a lot of money.	Naka-kwarta ako hin damo.
+I won't do it anymore.	Diri ko na iton bubuhaton.
+I won't tolerate that.	Dírì ko iton pasagdan.
+I'm a terrible dancer.	Diri ako maaram sumayaw.
+I'm easily influenced.	Masayon ako na-impluwensyahan.
+I'm going to stop Tom.	Papahuyuon ko hi Tom.
+I've lost my appetite.	Nawad-an na ako hin gana.
+I've lost my appetite.	Nawara na akon gana.
+If I were you, I'd go.	Kun ako ha imo, mapakadto ako.
+If I were you, I'd go.	Kun ak’ ha im', ma'kadto ak’.
+If I were you, I'd go.	Malargo ako, kun ako ha imo.
+If I were you, I'd go.	Malarga ako, kun ako ha imo.
+If I were you, I'd go.	Kun ak' ha im', malakat ak'.
+If I were you, I'd go.	Malakat ako kun ako ha imo.
+It was very difficult.	Makuri adto hin duro.
+It won't last forever.	Dírì iton magdudugay.
+It won't last forever.	Dírì iton permanente.
+Let's go and find Tom.	Kana na ngan pamilinga ta hi Tom.
+Let's go and find Tom.	Kana na ngan bilinga naton hi Tom.
+OK, what's the secret?	Sige ¿Áno't sekreto?
+Please stop whistling.	Alayon huyo pagtinaghuyon.
+Take good care of Tom.	Timangnoa hin maúpay hi Tom.
+That book is very old.	Kadaan itón nga libro.
+The bookstore is open.	Abyerto an baraligyaan hin libro.
+Tom is a little crazy.	Bagá lurong hi Tom.
+Tom is always working.	Permanente natrabaho hi Tom.
+Tom is going to do it.	Hihimuon iton ni Tom.
+Tom is going to do it.	Bubuhaton iton ni Tom.
+Tom sold Mary his car.	Ginbaligya ni Tom an iya kotse kan Mary.
+We ate bacon and eggs.	Kumaon kami hin bacon ngan bunay.
+We've made a decision.	Nagdesisyon na kami.
+We've made a decision.	Gindesisyonan na namun.
+We've made a decision.	Nagdesisyon na kita.
+We've made a decision.	Gindesisyonan na natun.
+What do we do with it?	Aanuhon man naton iton?
+Where is the elevator?	Hain iton elibitor?
+Whose books are those?	¿Kan kanay itón nga mga libro?
+You can't go anywhere.	Waray nimo iba nga kakadtuan.
+You look rather tired.	Kapóy ka pagkitaon.
+Are you listening, Tom?	¿Namamáti ka Tom?
+He's unable to do that.	Waray hiya makahimo hiton.
+He's unable to do that.	Pakyas hiya mabuhat iton.
+How do you change that?	Gin-ano mo an pag-iba hiton?
+I already have an iPad.	May-ada ko na IPad.
+I didn't go to the zoo.	Waráy ak' singadto ha zoo.
+I had my house painted.	Ginpintaran ko an ákòn balay.
+I heard my name called.	Nabatian ko nga tinawag an ákòn ngáran.
+I hope you can do this.	Unta mahimo nimo ini.
+I only went there once.	Nakausa la ako singadto.
+I really need to sleep.	Kinahanglan gud hi akó kumatúrog.
+I sat down next to Tom.	Lumingkod ako sapit hi Tom.
+I'll talk to Tom alone.	Kami la ni Tom iton mag-estorya.
+I'm becoming forgetful.	Nahihingalimtanun na ako.
+Let's start right away.	Pagtikang kita diretso.
+Let's start right away.	Pagtikang kitá yana dayon.
+No one can control him.	Waray nkakakontrol ha iya.
+That's a hard question.	Makuri iton nga pakiana.
+The engine won't start.	An makina diri naandar.
+The engine won't start.	An makina diri naganar.
+Their jeans do not fit.	An ira maung diri naigu.
+Their jeans do not fit.	An ira maung diri sakto ha ira.
+They helped each other.	Nagibuligay hirá.
+They weren't listening.	Diri hira nanmamati.
+Tom did it voluntarily.	Boluntaryo itón na ginhimo ni Tom.
+Tom doesn't sleep here.	Diri nganhi nakaturog hi Tom.
+Tom got life in prison.	Mapripriso hi Tom.
+Tom is afraid of dying.	Hadluk hi Tom namatay.
+Tom is fanning himself.	Nagpa-paypay hi Tom hiton iya kalugaringon.
+Tom is timid, isn't he?	Aw'dunon hi Tom ano?
+We became fast friends.	Madagmit kita nagkasángkay.
+We don't know for sure.	Sigurado diri kami maaram.
+We must get up at dawn.	Kinahanglanon naton magmata hiton aga-aga.
+We turned on the radio.	Ginpaandar namon an radyo.
+We turned on the radio.	Nagpatukar kami hin radyo.
+What made her so angry?	¿Áno it' rason hit' íya duro nga kaisugon?
+What made her so angry?	¿Kay-ano duro it iya pag-inisog?
+What made her so angry?	¿Ura-ura man it' iya isog?
+What made her so angry?	¿Duro man it' ísog 'ton?
+Who's this message for?	¿Para kanay ini nga mensahe?
+Why would Tom be angry?	¿Kay-ano mag-iisog hi Tom?
+Can Tom do that himself?	Mahihimo iton ni Tom?
+Great minds think alike.	Iton magkarit nga utok, paprehas manhuna-huna.
+I asked Tom for a favor.	Umaro ako hin pabor kan Tom.
+I don't really remember.	Diri ko gud nahihinumduman.
+I got a letter from her.	May-áda ako surát tikang ha íya.
+I got a letter from her.	Nakakarawát ak' surát tikang ha íya.
+I have an exam tomorrow.	Mayda hi akó examen buwas.
+I hope everyone is safe.	Unta talwas ngatanan.
+I love arguing with Tom.	Karuyag ko iton pakigriniwa kan Tom.
+I saw him looking at me.	Nakit-an ko hiya nga nasiplat ha akon.
+I shouldn't be too late.	Diri ak dapat mauraura ka-urhi.
+I think about Tom often.	Masúkot ako magpinanhunahuna kan Tom.
+I think this is perfect.	Pag-abat ko perpekto na inin.
+I think this is perfect.	It akun paghuna-huna perpekto na inin.
+I think this is perfect.	Perpekto na inin.
+I think this is perfect.	Perpekto na ini.
+I'm asking your opinion.	Nagpapakiana ak' ano ti'm masisiring.
+I've been seeing things.	May-ada akó pinanngingita.
+My wife works part time.	It' ákòn bána nagtratrabaho part taym.
+She knocked on the door.	Tumuktok hiyá ha purtahán.
+That's better, isn't it?	¿Mauro-upay itón ano?
+This food smells rotten.	Maraot na iton baho hini nga pagkaon.
+This place is different.	Iba ini nga lugar.
+This place is different.	Ini nga lugar iba.
+This place is different.	Láin ini nga lugar.
+This place is different.	Ini nga lugar láin.
+Tom drank too much wine.	Ura-ura nga bino an nainum ni Tom.
+Tom has family problems.	May-ada mga problema ha pamilya hi Tom.
+Tom has trouble reading.	Kinukurian hi Tom pagbasa.
+Tom seems to be jealous.	Baga'n nagseselos hi Tom.
+Tom was rescued by Mary.	Binuligan ni Mary hi Tom.
+Tom, you sound terrible.	Maláin ka pamatian Tom.
+We don't have to starve.	Diri natun kinahanglan paggutumon.
+We don't have to starve.	Diri kinahanglan nga panggut-asun kita.
+We've looked everywhere.	Nanngita na kami bisan diin.
+What can Tom do to help?	Ano it mahihibulig ni Tom?
+Who are you laughing at?	¿Hin-o iton ímo gintitinawaan?
+Why do you care so much?	¿Kay ano todo bantay ka?
+Why do you care so much?	¿Kay ano uraura iton imo pag-alaga?
+Write your name in full.	Kompletuha iton pagsurat hiton imo ngaran.
+You would never do that.	Diri mo gud iton hihimuon.
+You would never do that.	Diri mo gud 'ton 'himuon.
+You would never do that.	Diri mo gud iton pagbubuhaton.
+You would never do that.	Diri mo gud it' pag'buhaton.
+You'd better stand back.	Mas maupay kun mahuyo ka la ngada.
+Cocoa can be very bitter.	It kakaw puydi maging mapait.
+Do you know where she is?	¿Maaram ka kun háin hiyá?
+Does anybody smell smoke?	¿Nakakabaho kamu hin asú?
+Don't worry about others.	Ayáw kabarak-i it' ibà.
+Don't worry about others.	Ayáw pagbinaraka hit' ibà.
+Every day was exhausting.	Makápoy han kada ádlaw.
+Everybody but Tom smiled.	Ngatanan ngumisi labot la kan Tom.
+Everybody but Tom smiled.	Nanngisi tanan labot la kan Tom.
+His body was never found.	Waráy na makit-i an iya láwas.
+His body was never found.	Waráy na mabilngi an íya láwas.
+I arrived here yesterday.	Umabót ako dinhi kakulop.
+I know that feeling, too.	Maaram ako kun ma-ano ito gihapon.
+I like playing the piano.	Naruruyag ako pagpyano.
+I love talking to people.	Karuyag ko it pakig-eristorya ha mga tawo.
+I think Tom is impatient.	Iton akon pagkita diri pasensyoso hi Tom.
+I think that he is right.	It akon paghuna-huna hiya iton asya.
+I think you're all wrong.	Iton akon pag-kita mga sayop kamo.
+I'll definitely miss you.	Pagmimingawun gud ako ha imo.
+I'm not ready for it yet.	Diri pa ako andam para heton.
+I've known Tom for years.	Madugay ko na iton nga kilala hi Tom.
+I've known Tom for years.	Hadto ko pa iton kilala hi Tom.
+Is it OK if I open a can?	¿Puydi akó mag-abre hin lata?
+Is there any coffee left?	May-ada nasalin pa nga kape?
+It's really hot out here.	Kamapaso gud liwat ha gawas.
+It's really hot out here.	Kamapaso gud liwat didto.
+That's quite meaningless.	Baga hin waray hiton pulos.
+That's what we're hoping.	Amo iton an amon ginlalaom.
+There's someone with Tom.	May-ada kaupod ni Tom.
+Tom didn't make anything.	Waray ginhimo ni Tom.
+Tom hasn't done that yet.	Waray pa iton tapusa ni Tom.
+Tom is just an assistant.	Hi Tom parag-asister la.
+Tom is no longer in pain.	Dírì na nauul-ulan hi Tom.
+Tom lied about his grade.	Nagbinuwa hi Tom han íya grado.
+Tom really wants to help.	Karuyag gud ni Tom bumulig.
+What food don't you like?	¿Anó nga pagkaon it dírì mo naruruyagan?
+Where exactly did you go?	¿Napakain gud kamó?
+Where exactly did you go?	¿Kumaín gud kamó?
+Why did it have to be me?	¿Kay ano hi ako pa?
+Why is everybody in here?	Kay-ano ano aanhi iton ngatanan?
+Would you mind if I help?	¿Dírì mo maano kun bumulig ak?
+Would you mind if I help?	¿Waráy kaso ha imo kun bumulig akó?
+You never arrive on time.	Diri ka naabot ha oras.
+You shouldn't be jealous.	Kunta dírì ka magselos.
+You shouldn't be jealous.	Dírì mo kinahánglan magselos.
+Are they friends of yours?	¿Sángkay mo hirá?
+Do you like rock and roll?	Maki-rak ka?
+Everybody had a hard time.	Kinurian ngatanan.
+He is capable as a lawyer.	Puyde hiyá magin abogado.
+He is capable as a lawyer.	May-kapasidad hiyá magin abogado.
+He likes his school a lot.	Karuyag niya iton iya eskuylahan hin duro.
+He likes his school a lot.	Karuyag gud niya iton iya eskuylahan.
+He's not breaking the law.	Diri hiya natalipas hiton balaud.
+I can't live without a TV.	Diri ako mabubuhi hin waray TV.
+I can't live without a TV.	Diri ako mailob hin waray TV.
+I don't like living alone.	Nadiri ako mag-inusahan la.
+I just hope it's not true.	Naglalaum ako nga unta diri iton tuod.
+I planned a party for you.	Nagplano ak hin katitiruk para ha imo.
+I really want to help you.	Karuyag ko gud nga buligan ka.
+I study English at school.	Nag-aaram ako hin Ingles ha eskuylahan.
+I think the pay is enough.	Iton akon pagkita isakto na iton nga bayad.
+I thought I could do that.	Kasiring ko mahihimo ko iton.
+I thought Tom would agree.	Kasing ko masige hi Tom.
+I thought Tom would agree.	Kasing ko matangdo hi Tom.
+I want to go to Australia.	Karuyag ko kumadto Australia.
+If only he had been there.	Kun dinhi là untà hiyá.
+It's neither good nor bad.	Diri iton maupay, diri liwat maraot.
+Let's hope it still works.	Pag-laum kita naganar pa iton.
+People are getting scared.	Nagkakahadlok iton mga tawo.
+School begins at 8:10 a.m.	It klase nagtitikang alas-otso hit' ága.
+She gave them some apples.	Gintagan niya hirá hin pira nga mansanas.
+So, are you seeing anyone?	May-ada ka ginkakakíta nga iba?
+Tell me where the wine is.	Sumati ako hain an bino.
+That's the choice we made.	Amu iton an amon pinili.
+That's the choice we made.	Amu iton an amun ginpili.
+The baby needs his mother.	An bata kinahanglanun an iya iroy.
+The tree blocked the road.	Nakakaulang an kahoy ha aragian.
+There's nothing remaining.	Waray nasalin.
+This is a personal matter.	Personal ini nga butang.
+This isn't drinking water.	Dírì ini mairinom nga túbig.
+Tom doesn't look too well.	Diri maupay iton itsura ni Tom.
+Tom doesn't look too well.	Baga'n diri maupay yana hi Tom.
+Tom is going to come back.	Mábálik hi Tom.
+Tom is just a regular guy.	Hi Tom usa la nga ordinaryo nga lalake.
+Tom isn't going to prison.	Diri mapripriso hi Tom.
+Tom never listens to Mary.	Diri namamati hi Tom kan Mary.
+Tom never listens to Mary.	Waray pagbali ni Tom kan Mary.
+Tom passed away on Monday.	Namatay hi Tom han Lunes.
+Tom passed away on Monday.	Tumalikod ha kadayonan hi Tom han Lunes.
+Tom probably doesn't care.	Waráy gud ada labot ni Tom.
+Tom was shot in the chest.	Napusil hi Tom ha dughan.
+Tom wasn't just a teacher.	Diri la magturutdo hi Tom.
+Tom wasn't just a teacher.	Hi Tom diri la maestro.
+We've had some good times.	Marisyo la kami.
+What did you think of Tom?	Ano an imo ginhuhuna-huna kan Tom?
+What do you need that for?	Kay-ano kinahanglanon nimo iton?
+What do you need that for?	Para ano man iton?
+Where were you last night?	¿Nakaín ka kagab-i?
+Will you show me the book?	¿Igpapakítà mo bà ha akon it libro?
+You are no longer a child.	Diri ka na bata.
+You can't hurt me anymore.	Diri mo na ako mapapa-ul-ulan.
+You should be helping Tom.	Ginbubuligan mo unta hi Tom.
+You should be helping Tom.	Dapat ginbubuligan nimo hi Tom.
+You should be proud of me.	Ángay mo ak' igkahambog.
+Your lives will be spared.	Matatalwas iton iyo kinabuhi.
+Did you call me last night?	¿Gintawagan mo ako kagab-i?
+Do you remember how we met?	¿Nakahinúmdom ka bà kun tiunan-o hi kitá nagkakilala?
+Do you think you can do it?	¿It' im' pag-abat mahimo mo?
+Don't worry, I can take it.	Ayaw kabaraka, ilob ko iton.
+Don't worry, I can take it.	Ayaw kabaraka, kaya ko iton.
+He is in front of the door.	Áada hiyá hiton atubángan hiton purtahán.
+I know nothing about music.	Waray ko maaram ha musika.
+I lost my driver's license.	Nawará ko an ákòn lisensya pag-drayb.
+I returned his book to him.	Gin-uli ko na an iya libro ha iya.
+I think you don't trust me.	Pag-abat ko diri ka natapod ha akon.
+I wish I could talk to you.	Unta nakakagkayakan ako ha imo.
+I'll complain if I want to.	Mareklamo ako kun karuyagon ko.
+I'm not sure what happened.	Dírì ak' sigurado ano an nahitabo.
+I'm really angry right now.	Nag-iisog gud akó yanâ.
+I've had too much to drink.	Subra-sobra an akon irimnon.
+No one trusts him any more.	Waray na natapud ha iya.
+Open your book to page ten.	Abrehi iton imo libro ha pahina dyes.
+Open your book to page ten.	Paklia iton imo libro ha ika-dyes nga pahina.
+She is a very refined lady.	Pino it' íya panggios nga babayi.
+She plays tennis every day.	Nagmumulay hiya hin tennis kada adlaw.
+The engine would not start.	Iton makina diri tig-andar.
+They probably hate me, too.	Bangin iguinkakadiri gihap nira ako.
+This medicine may cure him.	Bángin makatambal ini nga bulong ha íya.
+Tom says that won't happen.	Yinakan ni Tom dírì it' mahihitabo.
+Tom thought Mary was alone.	Kasiring ni Tom nga nag-uusahan la hi Mary.
+Wait until I'm done eating.	Hulát nga mahuman akó káon.
+We need actions, not words.	Kinahánglan ta hin gios, dírì mga pulong.
+What newspaper do you read?	¿Ano nga diyaryo it ímo ginbábása?
+What's up with you and Tom?	Ano iton may-ada ha iyo ni Tom?
+When are you picking it up?	¿San-o mo it' kuhaon?
+When are you picking it up?	¿San-o mo man it' hapiton?
+You are taller than she is.	Haruhataas ka ha íya.
+Am I going to need a lawyer?	Manginginahanglan ako hin abogado?
+Can you take a little break?	¿Puydi ka pumahuway hin gutìay anay?
+Didn't you hear what I said?	¿Waray mo kabatii an akun ginsiring?
+Didn't you hear what I said?	¿Waray mo kabatii an akun ginyakan?
+Don't push the wrong button.	Ayaw tulpuka it sayup na tulpukan.
+Don't you like Chinese food?	¿Diri mo karuyag it' pagkaon hiton mga Intsik?
+Everyone refused to help me.	Waray bumulig ha akon.
+Everyone refused to help me.	Ngatanan dumiri pagbulig ha akon.
+He was delighted to see you.	Nahingaruyag hiyá nga nakit-an ka.
+He was delighted to see you.	Nahingaruyag hiyá pagkita ha im'.
+I crossed the river by boat.	Baluto an akon itinabok han salog.
+I found this under your bed.	Nabilngan ko iní ha sírong han imo higdaan.
+I found this under your bed.	Nabilngan ko iní ha sírong han imo katre.
+I found this under your bed.	Nabilngan nakon iní ha sírong han imo higdaan.
+I found this under your bed.	Nabilngan nakon iní ha sírong han imo katre.
+I just want you to be happy.	Karuyag ko la nga magmalipayon ka.
+I wanted to see you tonight.	Karuyag ko ikaw makit'an yana nga gab-i.
+I won't go unless I have to.	Diri ako makadtu labot la hin kinahanglanun ko.
+I'll be back by six o'clock.	Mabálik ako hit' ala-sais.
+I'm the one who rescued you.	Ako an bumulig ha imo.
+I'm the one who rescued you.	Ako an nag-salbar ha imo.
+Is there anyone in the room?	¿May-ada ba iba na tawo ha imo kwarto?
+Let's dine out for a change.	Pangaon kitá gawas pára iba liwát.
+Make sure you do that again.	Siguradoha nga himuon mo iton utro.
+My wife is the boss at home.	Iton akon asawa iton mayor ha balay.
+No doubt he will come later.	Waráy láin maabot hiyá niyan.
+No doubt he will come later.	Sigurado maabot hiyá niyan.
+No doubt she will come soon.	Waráy lain hiyá it' masunod.
+The coffee is only lukewarm.	Mapaso-paso la iton kape.
+The dog is trying to escape.	Naikakalagiw an áyam.
+The dog is trying to escape.	Nakikalagiw an idô.
+There's no life on the moon.	Waray kinabuhi ha bulan.
+There's no life on the moon.	Waray may kinabuhi ha bulan.
+Tom didn't know how to swim.	Diri maaram lumangoy hi Tom.
+Tom doesn't have to do this.	Diri ini kinahanglan himuon ni Tom.
+Tom gave me the chicken pox.	Guintapnan ak hangga ni Tom.
+Tom handed Mary a brown bag.	Ginhatag ni Tom kan Mary an brawn nga bag.
+Tom has left Boston already.	Lumakat na ha Boston hi Tom.
+Tom is a compulsive gambler.	Parag-huygo hi Tom.
+Tom is coming over tomorrow.	Hi Tom mapakanhi buwas.
+Tom is coming over tomorrow.	Mapakanhi hi Tom buwas.
+Tom is going to be a doctor.	Hi Tom magigin doktor.
+We've arrived a little late.	Medyo urhi kami na umabot.
+All my friends will be there.	Ngatanan iton ákòn mga sangkay mapakanhi.
+Can I catch a taxi near here?	¿Makakakúha akó hin taxi dínhi dapit?
+Can I catch a taxi near here?	¿Puyde akó dínhi dapit makakúha hin taxi?
+Can I catch a taxi near here?	¿Puyde akó makakúha hin taxi harani nganhi?
+Can I have a moment with you?	¿Púydi ka makaéstorya?
+Do you want a spot of coffee?	¿Karuyag mo hin kape?
+He is good-looking and smart.	May-hitsura niya ngan baltok.
+How many mangoes do you want?	¿Pira nga mangga iton imo karuyag?
+I can't just leave Tom there.	Dírì ko la puydi bayaan hi Tom dídto.
+I can't wait to get in there.	Dírì ak' nakakahulat nga mahingadto na.
+I cleaned up after the party.	Nanhámis akó katapos han karisyohan.
+I don't have time to explain.	Waray ko panahón hin pag-explikar.
+I hope I'm not bothering you.	Unta diri ako nakakatuyaw ha imo.
+I know where this is leading.	Maaram ako kun tipakain ini.
+I never meant to deceive you.	Diri ko gad panuyoan nga uwaton ka.
+I wonder why Tom is so angry.	Nausa ako kay-ano dawla duro't isog ni Tom.
+I'll try to be there by 2:30.	Proybahan ko mahiabot ngadto hiton 2:30.
+I'll try to be there by 2:30.	Testingan ko makakadto hit' 2:30.
+I'm a little behind schedule.	Nauurhi ako hin gutìay hit' eskedyul.
+It's an answer to her letter.	Baton iton ha iya surat.
+Mozart's life was very short.	Halígut la an kinabúhì ni Mozart.
+My eyesight is getting worse.	Iton ákòn pangitaan nagtitiraot.
+One must love one's neighbor.	An usá kinahanglan higugmaun an iya anyaw.
+Personally, I liked this one.	Ha ákòn la, karuyag ko inin.
+She began to talk to the dog.	Nagtikáng hiya pakigyakan han áyam.
+She put on her hat to go out.	Ginsul-ot niya an íya kalo pára gumawas.
+Tell us about your childhood.	Sumáti kami hit' im' anák.
+Tell us about your childhood.	Estoryahi kami hit' im' anák.
+That's the part I liked best.	Amo iton iton akon karuyag gud nga parte.
+The two men were not related.	Diri magkaano-ano an duha nga lalaki.
+These cars are made in Japan.	Ginhímò ha Japan iní nga mga awto.
+These cars are made in Japan.	Ginhímò ha Hapón iní nga mga awto.
+This is the most interesting.	Amo ini it pinaka-ganado.
+Tom lives in a small village.	Na-ukoy hi Tom hin gutíay nga baranggay.
+Tom shouldn't have said that.	Kunta waray ádto sidnga ni Tom.
+Tom's response was immediate.	Dayón an batón ni Tom.
+We certainly can't blame you.	Diri gud namon ikaw puydi sayupon.
+We could see nothing but fog.	Waray namon nakikita kundi burong.
+We're going to the mountains.	Makadto kami ha mga bukid.
+We're going to the mountains.	Tipakadto kami ha kabub'kiran.
+Who told you that I was sick?	¿Hin-o an nagsumát haim nga masakít ako?
+Who told you that I was sick?	¿Hin-o an nagsumàt haim nga nagkasakít ako?
+You're lucky Tom didn't come.	Swerte mo waray mapakanhi hi Tom.
+Do you want to know the truth?	Karuyag mo maadman iton kamatuoran?
+He took a taxi to the station.	Nag-taksi hiya pa-estasyon.
+He was cross with his student.	Nag-iisog hiya ha iya mga estudyanti.
+How do you think you're doing?	¿It imo pag-abat maano it imo ginbubuhat?
+I am very glad school is over.	Malipáyon gud ak' nga human na an eskuyla.
+I ate too much food yesterday.	Ura-ura kadamo an pagkáon nga ákòn ginkaon kakulop..
+I can eat anything but onions.	Nakaun ako bisan ano ayaw la iton sibuyas.
+I never promised you anything.	Waray gud hi akó magsáad ha imo hin bisan anó.
+I won't tolerate any mistakes.	Diri ko papasagdan iton bisan ano nga sayop.
+It was your mistake, not mine.	Sayup nimo adto, diri akon.
+Mary is respected by everyone.	Respetado hi Mary hit' ngatanan.
+She will be here this evening.	Aanhi hiya niyan nga gab-i.
+She will be here this evening.	Makanhi hiya niyan nga gab-i.
+The day turned out to be fine.	Nagin maúpay an ádlaw.
+The day turned out to be fine.	An kaádlawon naging maúpay.
+The women are very supportive.	Masu'suportahon iton kababayin-an.
+This house is mine, not yours.	Akon iní nga balay, dírì imo.
+Tom didn't go home last night.	Waray umuli hi Tom kagab-i.
+Tom does what's right for him.	Guinbuhat ni Tom an ámo para ha iya.
+Tom is leaving in the morning.	Malakat hi Tom hiton aga.
+Tom is leaving in the morning.	Malarga hi Tom hiton aga.
+Tom said Mary wasn't his type.	Siring ni Tom, diri daw sugad kan Mary it iya karuyag.
+Tom thought Mary wasn't happy.	Kasiring ni Tom diri malipayon hi Mary.
+Tom walked into the drugstore.	Sumakob ha boteka hi Tom.
+We need to be more aggressive.	Kinahanglan naton magin aruagresibo.
+We need to be more aggressive.	Kinahanglan naton magin mas agresibo.
+We'll do it when we have time.	Buhaton namon iton kun makapanahon kami.
+Well, what's the problem, Tom?	¿Ano man it problema Tom?
+What did you think I told Tom?	¿Ano it imo hunahuna an ginsumat ko kan Tom?
+What made you do what you did?	¿Áno an nagduso haim himuon an imo binúhat?
+You don't really know me, Tom.	Diri mo gud ako kilala, Tom.
+You may get it free of charge.	Puydi niyo iton makuha nga waray bayad.
+You may get it free of charge.	Puydi mo iton makuha nga libre.
+You're sick. You have to rest.	Masakít ka. Kinahánglan mo pumahoway.
+All the other windows are open.	Abredo an iba nga mga bintana.
+Are you interested in politics?	Interesado ka hiton politika?
+Do you want to speak privately?	Karuyag mo kita la iton mag-estorya?
+Don't risk insulting your boss.	Ayaw pataka pag-insultuha tim mayor.
+Don't risk insulting your boss.	Ayaw pataka pag-insultuha it imo mayor.
+Get the bicycle out of the way.	Ig-iwas iton biseklita ha aragian.
+Get the bicycle out of the way.	Iwasa iton bisekleta ha aragian.
+He is pleased with his new car.	Kontento hiya han iya bag-o nga kotse.
+He is pleased with his new car.	Kontento hiya hiton iya bag-o nga kotse.
+How do we know it isn't a trap?	Panan-o man naton masasabutan nga diri iton patibong?
+I can't put up with that noise.	Dírì ako makailob hiton nga aringása.
+I don't like to talk about Tom.	Nadiri ako pag-estorya kan Tom.
+I know that Tom didn't do that.	Maaram ako nga waray iton himua ni Tom.
+I showed my ticket at the door.	Iginpakita ko an akon ticket ha may portahan.
+I wish I'd bought that bicycle.	Unta ginpalit ko nala iton nga bisikleta.
+Let me think for just a second.	Anay daw.
+Let me think for just a second.	Anay ha.
+Please follow the school rules.	Sunda iton mga balaud hiton eskuylahan.
+Tell me again why you like Tom.	Sumati ako utro kay ano karuyag mo hi Tom.
+Tell me again why you like Tom.	Estoryahi akoak utro kay ano naruruyag ka kan Tom.
+Tell me again why you like Tom.	Saysayi ako utro rason hiton imo pagkaruyag kan Tom.
+Tell me how you feel about Tom.	Sumati ako ano it imo pag-abat kan Tom.
+Tell me how you feel about Tom.	Sumati ako ano it imo masisiring kan Tom.
+Tom helped me find my way here.	Binuligan ak' ni Tom han pakanhi.
+Tom helped me find my way here.	Binuligan ak' ni Tom pamiling han dálan pagkánhi.
+Tom is very arrogant, isn't he?	Duro ka-arogante hi Tom ano?
+Tom isn't wearing a belt today.	Diri nakapaha hi Tom yana nga adlaw.
+Tom isn't wearing a belt today.	Diri nakasul-ot hin paha yana hi Tom.
+Tom isn't wearing a belt today.	Waray magpaha hi Tom yana nga adlaw.
+Tom needs somebody to help him.	Kinahanglan ni Tom nga buligan hiya hin iba.
+Tom promised to tell the truth.	Nagsaad hi Tom nga isumat it' kamatuoran.
+Tom said he wanted to be early.	Yakan ni Tom nga karuyag niya magin temprano.
+Tom walked toward the far wall.	Naglakat hi Tom pakadto han harayu na pader.
+Tom will go to Boston tomorrow.	Makadto hi Tom ha Boston buwas.
+Tom will go to Boston tomorrow.	Makadto ha Boston buwas hi Tom.
+Tom will go to Boston tomorrow.	Buwas mapa-Boston hi Tom.
+Where are you guys heading now?	¿Mapakaín naman kamó yanâ?
+Why did you buy all this stuff?	Kay ano ginpinanmalit mo ini?
+A poor workman blames his tools.	Iton pobre nga trabahador ginbabasol an iya mga gamit.
+A poor workman blames his tools.	An pobre nga trabahador ginbabasol an iya mga gamit.
+Are we likely to arrive in time?	¿Makaarabot kitá ha oras?
+Didn't Tom tell you I was dying?	¿Waray igsumat ha imo ni Tom nga naghihimatay na ako?
+Fresh vegetables promote health.	Nakakaupay ha lawas iton presko nga mga utanon.
+I didn't kiss him. He kissed me.	Waray ko hiya haruki. Hiya an humarok ha akon.
+I don't want to forget anything.	Diri ko karuyag makalim'tan iton bisan ano.
+I had a telephone call from her.	May-ada akó táwag tikang ha íya.
+I haven't washed the dishes yet.	Waray pa ako manhugas han plato.
+I pretended I didn't understand.	Nagpanggap ako nga diri ako nakakasabot.
+I want to get in touch with her.	Karuyag ko hiya ma-kontak.
+I'm roughly the same age as you.	Baga'n magka-edad la kita.
+My dog follows me wherever I go.	Sige iton suno-sunod hiton akon ayam bisan ako mapakain.
+She introduced me to her sister.	Iginpakilala niya ako ha iya bugto nga babaye.
+That's a very personal question.	Personal hin duro iton na pakiana.
+The ship slowly started to move.	Hinay-hinay gumikan an barko.
+The train has just arrived here.	Umabot pala an tren nganhi.
+This is all I ever wanted to do.	Amu ini an akun karuyag gud himuon.
+This matter doesn't concern you.	Waray hini nga butang labut ha imo.
+This stool needs to be repaired.	Kinahanglan aydon ini nga lingkúran.
+Tom is afraid of his own shadow.	Nahadlok hi Tom hiton iya kalugaringon lambong.
+Tom needs the money desperately.	Duro gud iton panginahanglanon ni Tom hin kwarta.
+Tom quickly learned how to swim.	Nahibaro dayon paglangoy hi Tom.
+We have other things to discuss.	May-ada naton iba nga mga butang nga pag-eerestoryahan.
+What happened to you last night?	¿Anó an nahinabô ha imo kagab-i?
+Why doesn't Tom want to do that?	Kay-ano nadiri hi Tom nga himuon iton?
+You may go home now if you like.	Puyde ka na umuli yana kun karuyagon nimo.
+You must really like doing that.	Karuyag mo gud talaga iton buhaton.
+Are there many museums in Boston?	Damo iton museyo ha Boston?
+Do you know who wrote this novel?	¿Maáram ka kun hin-o an nagsurat hiní nga nobela?
+Don't get that close to the fire.	Ayáw paghiraní ha kalayo.
+Don't take it quite so literally.	Ayaw iton igliteral.
+He can't afford to buy a new car.	Dírì niya apong makapalit hin bag-o nga kotse.
+He can't afford to buy a new car.	Dírì niya sadang makapalit hin bág-o nga kotse.
+He can't afford to buy a new car.	Dírì hiyá makaparalit hin bág-o nga kotse.
+He pressed the button and waited.	Ginpindut niya an pindutan ngan naghulat.
+He was taken away by a policeman.	Gindara hiyá hin pulis.
+I already talked to this student.	Nakig-estorya na ako hiton nga estudyante.
+I don't know what to do tomorrow.	Diri ako maaram hiton bubuhaton buwas.
+I don't owe Tom any explanations.	Diri ako obligado mag-eksplikar kan Tom.
+I don't want to talk about music.	Nadiri akó makig-estorya bahín hit' musika.
+I have a lot of responsibilities.	Damo iton akon responsibilidad.
+I told you I didn't see anything.	Siríng ko ha imo waray ko nakit-an.
+I'm assuming this is your father.	It ak pag-ábat amo inin hiya it imu tatay.
+Is it possible to cry underwater?	Possible ba tumuok ha ilarum hiton tubig?
+Let's not talk about my problems.	Ayaw kita pag-estorya mahitungod tak mga problema.
+Nobody's accusing you of a crime.	Waray nag-aakusar haim hin krimen.
+Now tell us what we want to know.	Yana sumati kami ano iton amon karuyag maaraman.
+Please breathe through your nose.	Ginhawa ha imo irong.
+Please excuse my bad handwriting.	Pasensiya la hit ak maraksut nga agi.
+That's a waste of time and money.	Kinaragkarag la iton hit' panahón ngan kwárta.
+The meeting took place yesterday.	Kakulop an kirigta.
+The meeting took place yesterday.	Kakulop nahinabô an kirigta.
+The sun will set tonight at 6:03.	Mawara na it adlaw niyan na alas sais tres.
+They shook hands with each other.	Naglamano hira.
+This doll is a gift from my aunt.	In' nga munyika regalo t'ak' dada.
+This doll is a gift from my aunt.	Inin nga munyika regalo hit akun dada.
+Tom has been missing three weeks.	Tuló na kasimana nawawara hi Tom.
+Tom has been sick a lot recently.	Masakitnon han yana hi Tom.
+Tom seemed very tired, didn't he?	Baga hin ura-ura kaguol ni Tom, anó?
+Try to get here on time tomorrow.	Pruybahi pakadi ha amo nga oras buwas.
+Try to get here on time tomorrow.	Pruybahi pagkanhi hin isakto nga oras buwas.
+What's it we're waiting for here?	Áno iton áton guinhuhulat dínhi?
+Who was this machine invented by?	Hin-o an nag-imbento hini nga makina?
+You didn't need to buy this book.	Diri mo kinahanglanun palitun iton nga libro.
+You'll be hearing from my lawyer.	Magmamaáram ka agi hit akun abogado.
+Can you guys meet me in the lobby?	¿Puydi akó niyo igkita ha may lobby?
+Do you know where the bathroom is?	Maaram ka kun hain iton banyo?
+Do you like to travel by yourself?	Karuyag mo magbyahe nga ikaw la?
+Doing that is your responsibility.	Responsibilidad mo iton himuon.
+Even if it rains, he'll play golf.	Bísan pa umuran, magmulay la gihapon hiyá hin golf.
+He will go to New York next month.	Makadto hiyá ha New York sunod nga bulan.
+He will go to New York next month.	Makadto hiyá ha Nueva York sunod nga bulan.
+How much did the tickets cost you?	Pinira mo iton nga mga tickets?
+I don't deserve to be on the team.	Diri ako naangay mapabulig han grupo.
+I remember the night Tom met Mary.	Nahinumdom akó han gab-i nga nakilala ni Tom hi Mary.
+I think I know why Tom isn't here.	Baga'n maaram ako kay-ano waray ngahi hi Tom.
+I'd rather not talk about it here.	Gabay nala ako humuyo pagyakan mahitungod hiton dinhi.
+If you do that, Tom will be happy.	Magigin malipayon hi Tom kun buhaton mo iton?
+Is this your first visit to Japan?	¿Úna mo inin nga pagbisita ha Japan?
+It couldn't just be a coincidence.	Diri gudla adto nahituman la.
+It's morning here in my time zone.	Aga yana ngadi ha amon.
+It's morning here in my time zone.	Aga yana ngadi ha amon time zone.
+My son is ashamed of his behavior.	It ak' anák naawod hiton íya batásan.
+The same thing happened in Boston.	Parehas hiton an nahitabo ha Boston.
+There's definitely something else.	May áda gud iba pa.
+They haven't told me anything yet.	Waray pa ako nira sumati hin bisan ano.
+Tom acted like he owned the place.	Gumios hi Tom nga baga hin hiyá it tag-iya hit' lugár.
+Tom doesn't know what to do first.	Dírì maaram hi Tom kun áno iton una nga bubuháton.
+Tom found the exercise exhausting.	Makapuy ni Tom an pag-ehersisyo.
+Tom is complaining to the manager.	Nareklamo hi Tom ha íya mayor.
+Tom says he can't believe anybody.	Yakan ni Tom diri hiya matuod ha bisan hin-o.
+We have nothing to complain about.	Waráy namon sadang reklamohan.
+We need to put a stop to this now.	Kinahanglan naton paundangon na ini yna.
+We need to put a stop to this now.	Kinahanglan huyoan ta na ini.
+We're going to have fun with this.	Marisyu ini.
+What time is it now by your watch?	Ano iton oras yana ha imo relo?
+Who'll take care of your cat then?	¿Hin-o man ngay-an it mag-aataman hit imo misay?
+Who'll take care of your cat then?	¿Hin-o man ngay-an it mag-aataman hit imo uding?
+You don't know what it is, do you?	¿Dírì ka maaram kun áno iton, anó?
+You want to leave here, don't you?	Karúyag mo umiwas dinhi, ¿di' bà?
+Are you going to the class reunion?	¿Makadto ka hiton reyunyon hit' kláse?
+Don't worry. I'll take care of you.	Ayáw kabaraka. Babantayan ko ikaw.
+Don't worry. I'll take care of you.	Ayáw kabaraka. Atamanon ko ikáw.
+First we'll eat, and then we'll go.	Una pangaun anay kita, tapos lakát na kita.
+First we'll eat, and then we'll go.	Pangaun anay kita, tapos larga na kita.
+First we'll eat, and then we'll go.	Mangaun anay kita,.tapos kaná na.
+He admitted that he stole the gold.	Gin-amin niya nga ginkáwat niya an bulawan.
+He handed the salesclerk the money.	Ginhatag niya an kwarta ha klerk.
+He is not interested in art at all.	Waray gud niya hílig hin arte.
+He lacks the talent to be an actor.	Kulang hiya han talento para maging artista.
+I am tired and I want to go to bed.	Guol hi akó ngan karúyag ko nga kumatúrog.
+I can't do this without Tom's help.	Diri ko ini mahihimo kun diri ako buligan ni Tom.
+I had to wait until Tom was asleep.	Kinahanglan ko maghulat ngada hiton mahingaturog hi Tom.
+I recognized your voice right away.	Nakilal'an ko dayón an imo tíngog.
+I thought you'd be glad to see Tom.	Kasiring ko magmamalipayon ka nga makit'an hi Tom.
+I wanted to help Tom pay his bills.	Karuyag ko buligan hi Tom hit' íya mga baraydan.
+I'd have to be an idiot to do that.	Agô daw ak' kun himuon ko ádto.
+I'm going to lie down for a minute.	Mahigda ako mausá la kaminuto.
+I've never actually been to Boston.	Waray pa ak makakada ha Boston.
+Put the chair in front of the desk.	Iton lingkuran ig-printe ha lamesa.
+She was similar to me in many ways.	Paropariho hiyá ha ákòn ha dámo nga paági.
+The situation worries me very much.	Duro it pagkulbaha ha akun hiton sitwasyun.
+They will find out sooner or later.	Masasabtan nira sunod o, niruniyan.
+This is the more useful of the two.	Amo ini iton may-garugamit ha duha.
+This is the more useful of the two.	Amo ini iton mas may-gamit ha duha.
+Tom isn't the only one not sitting.	Diri la hi Tom an diri nalingkod.
+Tom said that he'd make it on time.	Siríng ni Tom nga makakaabót hiyá hit' isakto nga oras.
+Tom says he'll never do that again.	Yakan ni Tom diri na hiya mautro.
+Tom says he'll never do that again.	Yakan ni Tom diri na hiya magbúhat hiton utro.
+Tom says he'll never do that again.	Siríng ni Tom diri na niya adto bubuhaton utro.
+What do you think they're planning?	¿Áno it' imo pag-huna iton íra pinaplano?
+What do you think will happen next?	¿Ano iton imu pag-abat nga matatabo sunod?
+When did you translate this letter?	¿Kakan-o nimo ginhubad iní nga surat?
+When did you translate this letter?	¿Kakan-o niyo ginhubad iní nga surat?
+Who painted this beautiful picture?	¿Hin-o an nagpíntar hiní nga mahúsay nga ritrato?
+Do you really believe in that stuff?	¿Natuod ka gud hit' nga butáng?
+Do you want to hear something funny?	Karuyag nimo makabati hin pataraw-an?
+Have you finished your homework yet?	¿Nahuman mo na an' im' homework?
+He comes to see me nearly every day.	Harus kada adlaw napakanhi hiya para makitaan ako.
+He is not the shy boy he used to be.	Dírì na hiyá awdunon nga batà sugad han una.
+I just wanted to keep things simple.	Karuyag ko la pasimplehon it' mga butáng.
+I told you that I wasn't interested.	Ginsidngan ko ikáw nga dírì ak' interesado.
+I was your mother's first boyfriend.	Ako an siyahan nga uyab han imo nanay.
+I wonder why Tom told me to do that.	Nausa ako kay-ano daw la ginsidngan ako ni Tom nga himuon iton.
+I'd die if anything happened to you.	Mapatày ak' kun may-ada mahitabo ha imo.
+I'm going to stay here and watch TV.	Anhi la ako ngan magkikita hiton TV.
+If the alarm rings, walk, don't run.	Kun an alarma tumunog, paglakat ayaw pagdalagan.
+If you want to be alone, I'll leave.	Kun karúyag mo mag-usáhan, malakat ako.
+Is he satisfied with his daily life?	Kontento na iton hiya hiton iya kinabuhi kinada adlaw?
+Let's keep it secret that he is ill.	Igsekreto naton la nga masakit hiya.
+There's nothing we can do about Tom.	Waráy ta na mahihimo kan Tom.
+Tom and I are married to each other.	Mag-asawa kami ni Tom.
+Tom and I are married to each other.	Igin-kasal kami ni Tom.
+Tom asked me what I was going to do.	Pinakianhan ak ni Tom ano tak binubuhat.
+Tom could see that Mary was texting.	Nakikit-an ni Tom nga hi Mary sige it' teks.
+Tom didn't have much water to drink.	Gutiay nala an irinumon nga tubig ni Tom.
+Tom knows nothing about this matter.	Waray maaram hi Tom hin nga butang.
+Tom put his lunch tray on the table.	Ginbutang ni Tom an tre han iya paningudtuhon ha la mesa.
+Tom saw Mary hiding behind the door.	Nakit-an ni Tom hi Mary nga natago ha luyo hiton sada.
+Tom seems to be eating all the time.	Baga'n hi Tom nagkikinaon la permanente.
+Tom was fingerprinted by the police.	Ginkuhaan hin fingerprint han mga pulis hi Tom.
+We need to know what's causing this.	Kinahánglan naton maádman kay-ano ini nasúgad.
+We never lock our doors around here.	Diri kami nagtratrangka hiton mga purtahán dínhi.
+We've done it twice in three months.	Nakaduha namon iton himua sakob hin tulo ka-bulan.
+What products are currently on sale?	¿Áno it' mga iginbabaligya na produkto yana?
+What products are currently on sale?	¿Áno it' mga napapalit yanâ?
+What's the sense of working so hard?	Ano iton pulos hiton pagtrinabaho hin duro?
+When did you have your wall painted?	¿Kakan-o ka nagpapíntar han imo bungbung?
+Why did you live in Kyoto last year?	¿Kay-anó ka nag-ukoy ha Kyoto han hadí nga túig?
+Would you mind if I open the window?	¿Ayos la ha imo abrehan ko iton bintana?
+Would you mind if I open the window?	¿Puydi ko abrehan iton bintana?
+You don't know me very well, do you?	Diri mo gud ako kilala, ano?
+He must be crazy to say such a thing.	Loróng gad adâ hiyá pagyakán hin sugad nga butáng.
+I didn't know what I should be doing.	Diri ako maaram hiton akon angay buhaton.
+I think you might be able to help us.	Pag-ábat ko mabubulîgan mo kmi.
+I think you might be able to help us.	Pag-ábat ko bangin mabulígan mo kami.
+I want to see who's in the classroom.	Karuyag ko makit-an hin-o it aada sakob hit klasrum.
+Is this a good place to plant a tree?	¿Maupay ini nga lugar para magtanum hin kahuy?
+Is this a good place to plant a tree?	Maupay ba ini nga lugar para magtanum hin kahuy?
+Is this a good place to plant a tree?	¿Maupay ini nga lugar pagtamnan hin kahuy?
+Is this a good place to plant a tree?	Maupay ba ini nga lugar pagtamnan hin kahuy?
+It's rare to find big yards in Japan.	Diri kadamuan it dagku na mga libong ha nasud Hapon.
+Not knowing what to do, I called her.	Dírì man akó maaram hit' ákòn buháton, gintawagan ko hiyá.
+She was close to breaking into tears.	Nahikaturuok na hiya.
+The bank was run by private citizens.	Ginpapadalagan an banko hin mga pribado nga pagkatawo.
+The house had a stone wall around it.	An baláy napapalibutan hin pader nga bato.
+The people knew he did not like them.	Mag-aram iton mga tawo nga nadiri hiya ha ira.
+The room was empty for quite a while.	Madugayay na nga bakante an kwárto.
+The room was empty for quite a while.	Bagá karokanina pa bakante an kwárto.
+There are many possible explanations.	May ada damu nga posible na eksplinasyon.
+Tom doesn't listen to what Mary says.	Dírì namamati hi Tom hiton ginsisiring ni Mary.
+Tom is always complaining about Mary.	Hi Tom permi nareklamo mahitungod kan Mary.
+Tom is usually the first to get here.	Kasagaran hi Tom iton nauuna nganhi.
+Tom stepped back from the blackboard.	Napaatras hi Tom tikang ha blakbord.
+Tom wanted to know what had happened.	Karuyag ni Tom mahibaro kun ano an nahitabo.
+Tom was there, but he didn't help us.	Nakadto hi Tom, pero waráy niya kami buligi.
+We suffered a loss of 10,000 dollars.	Diyes mil dolyares an nawará haam.
+What did you say your name was again?	¿Áno ádto an imo ngáran nga ginsiring nim'?
+He remained silent during the meeting.	Mamingaw la hiya dida han miting.
+How did people know I wasn't Canadian?	Kay-ano hira maaram nga diri ako taga-Canada?
+How did people know I wasn't Canadian?	Panan-o nira nasabutan nga diri ako Taga-Canada?
+How did you know Tom was good at golf?	Panan-o ka maaram nga makarit hi Tom ha golf?
+I hope to build a new house next year.	Híngyap ko makagpatíndug hin bag-o nga balay sunod nga túig.
+I need to get there soon by any means.	Kinahánglan ko mahingadto dayon ha bísan áno nga pamaagi.
+I want to stay home and sleep all day.	Karuyag ko mag-inukoy ha balay ngan magkinaturog bug-os nga adlaw.
+I'd speak to you in French if I could.	Kun kaya dawla makig-estorya ako ha imo ha Pranses nga kayakan.
+I've been here almost three years now.	Nakanhi na ak magtútúlô na katúig.
+I've discovered something interesting.	May nadiskubre ako nga baga interesante.
+It is doubtful whether this will work.	Diri matapud-tapud kun maganar ini.
+It's important to read a lot of books.	Importante magbasa hin dámo nga líbro.
+My father doesn't drink too much sake.	Iton ákòn tatay dírì nainum hin duro hin sake.
+Please come to meet me at the station.	Pakitapua daw ak ha istasyun.
+Please tell them what they need to do.	Alayon igsiring ha ira iton ira kinahanglan buhaton.
+The police are not here to arrest you.	It' mga pulis waray nganhi pára arestuhon ka.
+There is an urgent need for donations.	May-ada hataas nga panginginahanglan hin donasyun.
+They threw their hats up into the air.	Gin-itsa nira an íra mga kalo.
+This happens every time Tom goes away.	Nahihitabo ini basta nalakat hi Tom.
+Tom didn't know why his wife left him.	Hi Tom dírì maaram kay-ano ginbayaan hiyá han íya bána.
+Tom knows he shouldn't have said that.	Maaram hi Tom nga waray niya unta igsiring iton.
+Tom seems to be in a really good mood.	Baga'n maupay gud iton pamurut-buot ni Tom.
+Tom thinks he's going to win the race.	It' paghuna ni Tom hiyá iton magdaog hit' ruromba.
+Tom told Mary he had to go home early.	Ginsidngan ni Tom hi Mary nga kinahanglan niya umuli hin aga.
+Tom was the one who planned the party.	Hi Tom an nagplano han party.
+Trying to fix this is a waste of time.	Karag-oras la iton pag-inayad hiton.
+Why didn't you write to me right away?	¿Waray ka man magsurat diretso ha akun?
+You might want to ask Tom to help you.	Bangin karuyag mo magpabulig kan Tom.
+You might want to ask Tom to help you.	Bangin karuyagon mo magpa-alayon kan Tom.
+Could you knock a little off the price?	¿Puydi mo paharuhabuon it' presyo?
+He can see nothing without his glasses.	Waray niya nakikit-an kun waray an iya antiyuhos.
+He climbed the tree without difficulty.	Waray kuri niya nga nasaklang an kahoy.
+I assume Tom and Mary will get married.	Igkakasal gud ini hi Tom ngan Mary.
+I'm trying to find out why it happened.	Ginkikita ko kun kay ano adto natabu.
+Is Tom's condition really that serious?	Sugad gud kaseryoso iton kabutangan ni Tom?
+It's not good to stay up late at night.	Dírì maupay magpiniraw.
+Mt. Fuji is not as tall as Mt. Everest.	Diri magkahitaas iton Mt. Fuji ngan Mt. Everest.
+My mother prepared me for the bad news.	Ginpag-andam ako ni nanay para hiton maraot na súmat.
+She didn't buy anything from the store.	Waray niya ginpalit tindahan.
+Stop complaining and do as you're told.	Huyo pagreniklamo ngan buháta an siríng ha im'.
+The earth is much larger than the moon.	Darudaku gud it kalibutan ha bulan.
+The exercises are simple and effective.	An mga ehersisyo simple ngan epektibo.
+The office is full of competent people.	It opisina puno hin magkarit nga mga tawo.
+Tom is supposed to be in Boston by now.	Ada ha Boston unta na yanâ hi Tom.
+We definitely need to hire more people.	Kinahánglan ta na gud mag-arkila hin mga tawo pa.
+Astronomy is one of the oldest sciences.	Iton astronomiya usa ha pinaka-daan nga siyensya.
+Do you know where Tom keeps the aspirin?	¿Maaram ka kun diin gintagu ni Tom an aspirin?
+He seems not to be cut out for teaching.	Baga hin diri hiya naangay pagtutdo.
+He was sentenced to three years in jail.	Nasintinsiyahan hiya hin tuló katuig ha prisohan.
+How long do you think you can stay here?	Iton imo pag-abat ano ka kadugay dinhi?
+I don't know how much longer it'll take.	Diri ako maaram ano pa kadugay iton.
+I liked climbing trees when I was a kid.	Mahilig ko magpinannaka hin kahuy han bata ako.
+I liked climbing trees when I was a kid.	Naruruyag ako magpinansaka hin kakahuyan han bata pa ako.
+I want things to be different this time.	Karuyag ko it mga butang iba liwat yna.
+I'm sorry I have a previous appointment.	Pasensya, may-ada ako anay iba nga tuyo.
+If you speak French, I won't understand.	Kun mag-Frinanses hi ikaw, dírì hi akó makakasabot.
+If you speak French, I won't understand.	Kun mag-Frinanses hi ikaw, dírì hi akó makaka-intindi.
+Plant these seeds before summer sets in.	Igtanum ini nga mga liso san-o't katsirak.
+There's nothing I can do that Tom can't.	Waráy ko nahihimo nga dírì nahihimo ni Tom.
+Tom can't afford to take a vacation now.	Diri ni Tom akus pagbakasyon yana.
+Tom can't afford to take a vacation now.	Diri makabakasyon yana hi Tom.
+Turn on the light. I can't see anything.	Abrehi't suga. Waray ko nakikit'an.
+Turn on the light. I can't see anything.	Palagaha iton suga. Waray ko nakikit'an.
+Wherever you may go, you'll be welcomed.	Bísan ka pa mapakaín, karawaton ka 'ton.
+You bought a coat yesterday, didn't you?	Pumalit ka ano hin coat kakulop?
+You're the one who knows how to do this.	Ikaw iton maaram himuon ini.
+Are you going to invite her to the party?	¿Kumbidahun mo hiya hiton katitiruk?
+Have you received an invitation from Tom?	¿Nakakarawat ka hin inbitasyon tikang kan Tom?
+He has only one servant to attend on him.	May-ada la niya usa nga alalay nga mag-atiman ha iya.
+I came here to tell you what I found out.	Kumanhi akó pára igsumat ha imo an ákòn nabilingan.
+I found something I think you should see.	May-ada ako naagian nga kinahanglan mo makit-an.
+I haven't talked to Tom in almost a year.	Usa na katuig nga waray ko makaestorya hi Tom.
+I just hope nothing goes wrong this time.	Unta waray mahitabo nga sayop yanâ.
+I really don't have anything else to say.	Waray ko gud iba nga mayayakan.
+I thought Tom wasn't very good at French.	Kasiring ko diri gud maaram hi Tom ha French.
+I'll arrive at the station at about 1:35.	Maabot ako ha estayon hiton 1:35.
+There are some good apples in the basket.	May-ada mga maúpay nga mansanas ha basket.
+This is the hardest thing I've ever done.	Amo ini an guiku'kurii nga akon ginhimo.
+Tom didn't tell anyone who he really was.	Waray ginsumatan hi Tom kun hin-o gud hiya.
+Tom said that Mary won't do that anymore.	Yakan ni Tom nga diri na gud iton bubuhaton ni Mary bisan san-o.
+Tom says he sees things that I can't see.	Yakan ni Tom nagpapakita hiya hin mga butang nga diri ako nakita.
+Tom walked in and looked around for Mary.	Umabot hi Tom ngan namiling kan Mary.
+When was the last time you played violin?	Kakan-o ka urhi nga nag-byolin?
+When was the last time you threw a party?	Kakan-o ka urhi nga nagpa-party?
+Who cared for the dog when you were away?	Hin-o an nagtimangno han ayam han waray ka?
+You have, no doubt, heard of our company.	Nakabati ka na gud han amon kompanya.
+I think you need to study a little harder.	Kinahanglan mo mag-estudyo pa hin tiniupay.
+I used to go home for lunch in those days.	Paraulí ak ha baláy kun paningudto hadto.
+I'm going to leave the three of you alone.	Babayaan ta kamó la nga tulô.
+It's not necessary to write a long letter.	Diri kinahanglan maghimu hin halaba nga surat.
+She had a little round object in her hand.	May-ada niya gutíay ngan lidong nga butáng ha iya kamot.
+She is more beautiful than any other girl.	Mas mabaysay hiya ha bisan hin-o ha mga kababayin-an.
+There is a marked difference between them.	May-ada sabot nga pagkakaiba ha ira.
+There used to be a large cedar tree there.	May dako nga kahoy hin cedar ngada hadton una.
+They probably saw our ship come into port.	Bángin nakit-an nira an at' barko nga tipapantalan.
+This kind of wood is tough to saw through.	Matig-a masirutso ini nga klase hin kahoy.
+Tom wasn't the first one to be eliminated.	Diri hi Tom an una nga nataktak.
+Tom wasn't the first one to be eliminated.	Diri hi Tom an una nga natanggal.
+You shouldn't have gone there by yourself.	Dírì ka untâ angay kinmádto nga nag-uusáan ka là.
+Almost everybody I know has been to Boston.	Haros ngatanan nga akon kilala napakadto na ha Boston.
+He said he had more important things to do.	Yakan niya may-ada niya mas importante nga hirimuon.
+He said he had more important things to do.	Yakan niya may mas importante niya na buruhaton.
+I heard a knock on the door and it was Tom.	Nakabati ak' may-ada nagtuktok ha purtahán ngan hi Tom ádto.
+I really do want to get to know you better.	Diri ko gud karuyag nga makilala ka pa.
+I'm sure that Tom has never been to Boston.	Sigurado ako waray pa makakadto hi Tom ha Boston.
+If you don't know the way, ask a policeman.	Kun dírì ka maaram hiton dalan, pagpakiana ha pulis.
+Is there anyone here who can speak English?	¿Mayda ba dinhi nga naka-Iningles?
+It is doubtful whether he will come or not.	Alanganin pa kun mapakanhi hiya o diri.
+It is doubtful whether he will come or not.	Tiriguon pa kun mapakanhi hiya o diri.
+It is doubtful whether he will come or not.	Diri sigurado kun mapakanhi hiya o diri.
+Soon you'll get used to living by yourself.	Mahihiara ka nala hiton pag-ukoy nga ikaw la.
+The child was scared to get into the water.	Nahadlok ini nga bata nga kumada ha tubig.
+This is the pool where Tom learned to swim.	Amo ini an pool diin hi Tom nagmaaram paglangoy.
+Tom could hardly understand what Mary said.	Hi Tom waray gud makasabot han yakan ni Mary.
+Tom went up to the bar and ordered a drink.	Kumadto ha bar hi Tom ngan nag-order hin irinumon.
+Tom would like to take part in the contest.	Karuyag ni Tom bumulig ha pasundayag.
+Water the flowers before you eat breakfast.	Bisibsi anay it mga bukad san-o ka manmahaw.
+Water the flowers before you eat breakfast.	Bisibsi anay it mga tanum san-o ka ma'mahaw.
+Water the flowers before you eat breakfast.	Pamisibis anay hiton mga bukad san-o ka manmahaw.
+Water the flowers before you eat breakfast.	Panbisibsi anay iton mga bukad san-o ka ma'mahaw.
+When I woke up, I found I had been tied up.	Pagmata ko, nakagapus na ako.
+When she heard the news, she was not happy.	Han nabatian niyq an notisya, waray hiya magmalipayon.
+Do you think we can glue that back together?	Iton imo pag-abat puyde naton iton papagsumpayon utro?
+I assume that Tom and Mary will get married.	Igkakasal gud ini hi Tom ngan Mary.
+Is there anyone who can pronounce this word?	¿Mayda bà nakaluwás hiní nga púlong?
+It seems that Tom has no idea where Mary is.	Baga hinin diri maaram hi Tom kun hain dapit hi Mary.
+Take hold of the rope, and I'll pull you up.	Kapti iton pisi, ngan huguton ko ikaw.
+The time is always right to do what's right.	It paghimu hin asya permi ada ha panahon.
+This golf course is not open to non-members.	Diri abre ini nga golf course para ha mga diri nganhi myembro.
+Tom is very unhappy about what has happened.	Diri malipayun hi Tom han natabu.
+We can't trust Tom with something like this.	Diri namon matatapuran hi Tom hiton sugad hini nga butang.
+Don't carry too much baggage when you travel.	Ayaw pagdamo hin duro nga bagahe nga darad-on kun nalakat ka.
+He managed to get himself promoted last week.	Nahimu niya nga mapromot an iya kalugaringon han una nga simana.
+I can't talk to you here. It's too dangerous.	Diri ako makikig-estorya haim dinhi. Uraura ka delikado.
+I don't intend to stay in Boston much longer.	Diri ako magdugay gud ha Boston.
+I don't think I can find the time to do that.	Iton ákòn pagkitá dírì akó makalugar paghimo hiton.
+I haven't been able to solve the problem yet.	Waray ko pa ka-solbar an problema.
+I thought I'd have another chance to do that.	Gasi ko magkakaadà hi akó hin laín nga higayón pagbúhat hitón.
+I was badly in need of his help at that time.	Kinahanglanon ko gud an iya bulig hadto nga panahon.
+I'm not sure you'll have the time to do that.	Dírì akó sigurado kun may panahón ka pa buháton iton.
+I've heard they don't let girls in this club.	It ákòn báti dírì hirá nakuha hin babayí hin nga klab.
+The cause of the accident is still not clear.	Diri pa klarado an tinikangan han aksidente.
+The crime rate is increasing in this country.	Nahitaas iton kriminalidad hini nga nasud.
+The man turned out to be a private detective.	An lalaki usa ngay-an nga private detective.
+The question is whether he will come on time.	Iton pakiana yana kun maabot hiya ha oras.
+Why did you buy such an expensive dictionary?	Kay-ano ka pumalit hin sugad kamahal nga diksyunaryo?
+You don't need to be in that much of a hurry.	Diri mo kinahanglanon malisang hin sugad hiton.
+You're probably too young to understand this.	Bangin bata ka pa hin duro para makasabut hini.
+Everybody knows she married him for his money.	Ngatanan maaram nga nagpakasal la iton hiya agi hiton iya salape.
+Hurry up, and you will be in time for the bus.	Dagmíta, ngan mahiabót ka hit' bus.
+Learning a new language is difficult at first.	Makurî pag-aram hin bag-o nga yinaknan ha katikangan.
+Many people were killed in the plane accident.	Damo an namatay ha aksidente han eroplano.
+The Socialist Party only got 18% of the votes.	An Partido Sosyalista nakakúhà là hin 18% han mga botos.
+The boat began to take in water and soon sank.	An baluto nagtikang pagsakba hin tubig ngan sunod lumunod.
+They were walking along the street arm in arm.	Magkasapit nga naglalakat hira ha dalan.
+They were walking along the street arm in arm.	Magkadungan hira nga naglalakat ha dalan.
+Tom sat at the bar, just staring at his drink.	Hi Tom nakadto ha bar, nagkikinita la ha iya irinumon.
+Tom usually sits in the back of the classroom.	Kasagaran ha luyohan han classroom nalingkod hi Tom.
+A lot of people are dealing with allergies now.	Damo iton may-allergy na yana nga tawo.
+He likes to watch the birds fly above his head.	Karuyag niya pagkinita hiton mga tamsi nga nagkakalupad ha igbaw hit' iya may ulohan.
+He picked up a mirror and looked at his tongue.	Pumurot hiya hin salamin ngan ginkita an iya dila.
+I think something terrible has happened to Tom.	Pag-abat ko may natabo nga maraot kan Tom.
+I was wondering when you were going to tell me.	Napapausa ako san-o ka magsusumat ha akon.
+Nobody is in the living room, but the TV is on.	Waray tawu ha sala pero abre iton TV.
+The rain didn't stop them from doing their job.	Waray hira mapudngi han uran nga mahimo an ira trabaho.
+Tom's bedtime is nine o'clock on school nights.	Alas nuybi iton ikakaturog ni Tom basta may-ada klase.
+Would you like to go to a movie tomorrow night?	¿Marurúyag ka ba pagkitâ hin siné buwás nga gab-i?
+A thief broke into the house while we were away.	Nakasakob an usá nga kawatán ha ámon panimalay han kami ádto haráyo.
+Do you really think Tom will want to go with us?	¿Iton imo pag-ábat maupod gud hi Tom ha atun?
+I bought forty dollars' worth of gasoline today.	Pumalít akó hin gasolina kantidad kwarenta dolyares yanâ nga ádlaw.
+I can't reach any of the books on the top shelf.	Dírì akó nakakaabot han mga libro ha bawbaw han burtangan.
+I had left the key in the office the day before.	Nabayaanan ko an susi ha opisina san-o iton nga adlaw.
+I need you to tell me everything I need to know.	Karuyag ko isumat mo ha akon tanan nga kinahanglanon ko mahibaroan.
+I think it's time for us to start getting ready.	Oras na para kita mag-andám.
+I've got to find something to do after I retire.	Kinahanglan may pagburohaton ako pagkatapos ko magretiro.
+If he'd been alone at that time, he'd have died.	Kun nag-uusahan la adto hiya, namatay na gud adto.
+Mary covered her face to avoid being recognized.	Gintahuban ni Mary an iya nawong para diri hiya makilal-an.
+The situation called for quick, decisive action.	Kinahanglanon hin madagmit nga gios ini nga sitwasyon.
+Their oldest sister still hasn't gotten married.	An íra magurang nga babayí waráy pa paka-asawa.
+They are in favor of the reform of the tax laws.	Naabuyon hira han reporma han balaud pamuwis.
+We have to cross a bridge to get to Tom's house.	Kinahanglan naton tumabok hin tulay para maka-kadto hiton balay ni Tom.
+We must make sure that Tom doesn't hurt himself.	Siguraduha ta nga diri mauul-ulan hi Tom.
+You should call your father as soon as possible.	Tawága it' im' amáy yana dayon.
+Do you really think this will ruin my reputation?	¿Ginhuhunahuna mo gud nga makakaruba inin hit akun reputasyon?
+He was made to wait at the station for two hours.	Pinaghulat hiyá ha istasyon hin duha ka-oras.
+I had a problem similar to that not too long ago.	May-ada ako sugad nga problema han yanâ la.
+I received a coded message from Tom this morning.	Nakakarawat hi akó hin kinodigo nga mensahe tikang kan Tom kanina han aga.
+I think it's a little too cold to go on a picnic.	Pag-abat ko mataghumay yana para hin piknik.
+It's essential that you understand the situation.	Importante nga nakakaintinde ka hiton sitwasyon.
+It's really not as hard to do as you think it is.	Diri gud iton makuri buhaton sugad hiton imo kasiring.
+Tom opened the freezer and got out the ice cream.	Gin-abrehan ni Tom an freezer and igingawas an ice cream.
+When I got home, I realized I had lost my wallet.	Pag-uli nasabotan ko nga nawara an akon pitaka.
+I don't think I'll have the time to do that today.	It' ak' pagkitá waray ko panahón himuon it' yanâ nga ádlaw.
+I will have finished reading this book by Tuesday.	Mahuhuman ko basahon ini nga líbro hiton Martes.
+If everyone agrees to it, I won't vote against it.	Kun sumige iton kadam-an, dírì akó mabutos kontra hiton.
+It grew dark, and what was worse, we lost our way.	Nagsisirom na, ngan an malain, nawarâ kami.
+It is next to impossible to make him stop smoking.	Kaimposible nga pahuyuon hiyá pagsigarilyo.
+Some people believe in God and other people don't.	Iton iba nga tawo natuod hiton Ginoo, iton iba diri.
+The typhoon struck the city, causing great damage.	Ginlasurbo ngan nakahatag hin dako nga distruso an bagyo ha syudad.
+Could you come to my office when you have a moment?	¿Puydi ka kumadí hiton ákòn opisina kun may panahon ka?
+Is it true that you brought your dog to the office?	Matuod nga gindara nimo an imo ayam ha opisina?
+Is it true that you brought your dog to the office?	Manggud gindara nimo an imo ayam ha opisina?
+Tom knows nothing about what's been happening here.	Waray maaram hi Tom hiton mga nahihitabo dinhi.
+Tom told Mary that he didn't think John was honest.	Ginsidngan ni Tom hi Mary han iya pagkita nga diri tangkud hi John.
+Would you like to know who that beautiful woman is?	Karuyag nimo masab'tan hin-o iton nga mahusay nga babaye?
+Because of hunger and fatigue, the dog finally died.	Ági han gútom ngan dúro nga kakápoy, namatay na gihapon an áyam.
+Extremely loud music interrupted their conversation.	An duro kakusog han tukar an nakaulang ha ira estórya.
+For the past 10 years, I've fed my dog dry dog food.	Han nakalabay nga diyes tuig, mamara nga pagkaun para ayam an akun ginpakaun han akun alaga nga ayam.
+How do you know that you can't do it unless you try?	Ano nimo pakasabot nga diri mo mahihimo kun diri nimo pruybahan?
+My father ought to have had an operation for cancer.	It akon amay ooperahan kanan kanser.
+Next week, I will probably read a book and watch TV.	Hiton sunod nga semana, magbasa ak' adá libro ngan magkitá TV.
+We are not alone in believing that he is not guilty.	Diri la hi kita iton natuod nga hiya an salaan.
+I wasn't able to catch the ball that Tom threw to me.	Waray ak pakasalo han bola nga gin-itsa ha ak ni Tom.
+I'm really bad with names, but I never forget a face.	Hingalimtanon ako hiton ngaran pero diri hiton nawong hit usa nga tawo.
+Tom is going to try to talk to Mary about that today.	Kikitaon ni Tom makig-estorya kan Mary parte hiton yanâ nga ádlaw.
+I am not so poor that I cannot send my son to college.	Diri ako sugad kapobre nga diri ko akos magpakolehiyo hin anak.
+I heard Tom humming to himself while he washed dishes.	Nabatian ko hi Tom na nagkikinantahun nga naghuhugas.
+She didn't show up at the party, but nobody knows why.	Waray hiya magpakita ha party ngan waray maaram kun kay-ano.
+She didn't show up at the party, but nobody knows why.	Waray may-maaram kun kay-ano waray hiya kitaa han kadamo.
+She hadn't noticed the cold until she opened the door.	Waray niya abata an taghum ngada han abrehan niya an purtahan.
+Some students aren't going to come back next semester.	It iba nga estudyante dira na mabalik hit sunod na semester.
+The flood was the greatest disaster they had ever had.	An baha an pinakamakusog nga distroso nga ira gin-ábat.
+Three missionaries were killed and eaten by cannibals.	Tulo nga misyonaryo an pinátay ngan kináun han ira igkasi tawo.
+Three missionaries were killed and eaten by cannibals.	Tulo nga misyonaryo an pinamatay ngan pinangaun han mga kanibal.
+He tends to get angry when he doesn't have his own way.	Nag-iisug hiya kun waray niya kalugaringon pamaagi.
+I had been reading a book for some time when he called.	Madugayay na akó nga nagbibinasa hin libro han tumawag hiyá.
+I'm tired of waiting to do all the things I want to do.	Ginkakapapoy na ako paghinulat para mabuhat iton mga butang na akon karuyag.
+Since my mother was sick, I couldn't go to the concert.	Masakít it akun iroy sanglit diri ako makakakadto ha konsert.
+Tom couldn't bear the pain any more so he shot himself.	Diri na makailub hi Tom han ul-ul sanglit ginpusil nala niya an iya kalugaringon.
+Tom didn't have any money, so he couldn't buy any food.	Waráy kwárta ni Tom, sanglit dírì na hiyá makaparalit hin pagkáon.
+Tom knows that Mary still isn't telling him everything.	Maaram hi Tom nga dírì pa ginsusumat ni Mary iya an ngatanan.
+Compare your translation with the one on the blackboard.	Ikumpara itonit imu pagtranslit heton aada ha blakbord.
+If I had known her address, I would have written to her.	Kun maaram la'k han iya adres nagsurat na'k unta ha iya.
+If I had known her address, I would have written to her.	Kun maaram la ako han iya adres nagsurat na ako unta ha iya.
+The last time I saw Tom he was headed towards the beach.	Urhi ko nga nakit'an hi Tom tipakadto ha baybayon.
+You bought me a beer, remember? Now, let me buy you one.	Nahihinumduman mo ginpalitan mo ako hin beer? Yana ako liwat iton mapalit ha imo.
+If your answer is correct, it follows that mine is wrong.	Kun amo iton imo baton, karuyag sidngun sayup an akon.
+Tom knew he was probably not going to be able to do that.	Maaram hi Tom nga diri niya maburuhat iton nga butang.
+He knows other and easier ways of getting what he desires.	Maaram hiya hin iba nga mas masayon nga pamaagi para makuha kun ano iton iya karuyag.
+I'd like to say it's been fun working here, but it hasn't.	Karuyag ko unta sumiring nga marisyo an pagtrabaho nganhi, pero dírì.
+I borrowed money not only from Tom, but from his wife, too.	Umutang ako hin kwarta diri la kan Tom, pati gihapon ha iya asawa.
+My grandmother had been sick for a week when I visited her.	Usá na kasimana nga masakít hi lola han ginbisita ko hiya.
+The thing that scares me the most is that I might lose you.	Iton butang nga kinahahadlokan ko ini hin mawara ka ha akon.
+The wedding ceremony will be held regardless of the weather.	Iton kasál magpapadayon bisan áno pa iton panahón.
+The wedding ceremony will be held regardless of the weather.	Iton kasál pagbubuhaton bísan áno it' panahón.
+This city has been increasing in population year after year.	Nagdidinako la iton popolasyun hini nga syudad kada tuig.
+What time tomorrow morning would you like me to pick you up?	Ano nga oras buwas hiton aga it imo karuyag nga kuhaon ko ikaw?
+Judging from how the sky looks, we'll be having fine weather.	Ha pagkita ko hiton langit, magiging maupay iton aton panahon yana.
+Hi. If I'm not mistaken, you're our new neighbors, aren't you?	Kun dírì ako nagsasayop kamó iton ákòn bag-o nga anyaw anó?
+Tom says he knows something about Mary that we don't know yet.	Siring ni Tom may-ada niya maaram kan Mary nga diri pa kita mag-aram.
+You must not forget to check your paper before you hand it in.	Ayaw kalimti pagkita hit imo papel san-o nimu ipasa ngadi.
+It never occurred to me that Tom might not be telling the truth.	Waray pa iton natabo nga nagbuwa ha ak hi Tom.
+It never occurred to me that Tom might not be telling the truth.	Waray pa magbinuwa ha ak hi Tom.
+You're the only one here who thinks it's a good idea to do that.	Ikaw la dinhi an nakapanhunahuna nga maupay himuon iton nga ideya.
+I'll be glued to the TV tonight watching a really exciting program.	Magkikita la ak hin mag-upay na pasalida ha TV yana na gab-i.
+Tom knew that Mary thought John and Alice were going to get married.	Maaram hi Tom nga kasiring ni Mary nga igkakasal hira John ngan Alice.
+There's often a simple solution to what seems like a complicated problem.	Kasagaran may-ada simple nga solusyon ha sugad hin komplikado nga problema.
+As long as you do what you've been told, we'll have absolutely no problem.	Basta himuon mo la ano it ginsiring ha imo, waray gud naton magiging problema.
+I saw many people who had no clothes and I saw many clothes which had no people in them.	Nakakita ako hin damo nga tawo nga waray mga hiniro and nakakita ako'n mga bado nga waray nagsusul-ot ha ira.
+Tom isn't your average guy. He doesn't like things most guys like and he doesn't like to do things most men enjoy doing.	Hi Tom diri parú hit ibá. Diri niya karúyag it mga butáng ngan mga gihihimo nga kalilibangan hit kadam-an nga kalalakin-an.
+If one has the right to live, then one should also have the right to die. If not, then living is not a right, but an obligation.	Kun iton usá may-katungod mabuhi, may-katungod gihapon niya iton kamatayon. Kay kun dírì, iton kabuhi dírì usa nga katungod, kundi usa nga obligasyon.

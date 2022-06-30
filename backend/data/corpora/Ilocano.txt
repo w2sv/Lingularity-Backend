@@ -1,0 +1,1660 @@
+I try.	Padasek.
+I know.	Ammok.
+Listen.	Agdenggeg.
+Really?	Agpayso?
+Thanks.	Agyamanak.
+Why me?	Apay nga siak?
+Come in.	Sumrekka.
+Come on!	Umaykan.
+Get out.	Rummuarka.
+Go away.	Pumanawka.
+Goodbye!	Kastan!
+Help me.	Tulungannak.
+Hit Tom.	Tiruem ni Tom.
+Hug Tom.	Arakupem ni Tom.
+I'm Tom.	Siak ni Tom.
+Call Tom.	Awagam ni Tom.
+Call Tom.	Ayabam ni Tom.
+Go ahead.	Mapankan.
+Help Tom.	Tulonganyo ni Tom.
+Help Tom.	Badanganyo ni Tom.
+Help Tom.	Saranayenyo ni Tom.
+How deep?	Kasano kauneg?
+How deep?	Kasano kaadalem?
+Hurry up.	Kartingam.
+I'll pay.	Agbayadak.
+Kiss Tom.	Agkam ni Tom.
+Let's go!	Intayon!
+Save Tom.	Isalakanmo ni Tom.
+Save Tom.	Ispalem ni Tom.
+Stop Tom.	Lapdam ni Tom.
+Stop Tom.	Pasardengem ni Tom.
+Tom lost.	Nayaw-awan ni Tom.
+Tom swam.	Naglangoy ni Tom.
+Too late.	Naladawen.
+Use this.	Aramatem daytoy.
+What for?	Para ania?
+Who swam?	Asino ti naglangoy?
+Answer me.	Sungbatannak.
+Birds fly.	Agtaytayab dagiti billit.
+Catch Tom.	Tiliwem ni Tom.
+Come here.	Umayka ditoy.
+Dogs bark.	Agtataul dagiti aso.
+Don't cry.	Diak agsangit.
+Follow me.	Surutennak.
+Forget it.	Lipatemon.
+Humor Tom.	Rabakem ni Tom.
+I'm bored.	Masikoranak.
+I'm happy.	Naragsakak.
+I'm happy.	Maragsakanak.
+I'm sorry.	Dispensarennak.
+It's cold.	Nalam-ek.
+Let's try!	Padasentayo!
+Look back!	Tumalliaw!
+Take care.	Agannad.
+Tom tried.	Pinadas ni Tom.
+Tom tries.	Padpadasen ni Tom.
+Tom voted.	Nagbotos ni Tom.
+Tom walks.	Magmagna ni Tom.
+Tom works.	Agob-obra ni Tom.
+Trust Tom.	Talkem ni Tom.
+Watch Tom.	Paliiwem ni Tom.
+Who knows?	Sino ti makaammo?
+Write Tom.	Suratam ni Tom.
+Answer Tom.	Sungbatam ni Tom.
+Be careful.	Agan-annadka.
+Birds sing.	Agkankanta dagiti billit.
+Come along.	Kumuyog.
+I envy you.	Apalanka.
+I feel bad.	Madi ti riknak.
+I love you.	Ay-ayatenka.
+I miss you.	Mailiwak kenka.
+I need you.	Kasapulanka.
+I'm so fat.	Nakaluklukmegak unay.
+I'm so fat.	Nalukmegak unay.
+Let me pay.	Bay-am nga agbayadak.
+No kidding?	Dika agang-angaw?
+Step aside.	Agpaigid.
+Study hard.	Agadal a naimbag.
+Tom did it.	Ni Tom ti akingapuanan.
+Tom did it.	Ni Tom ti nangaramid.
+Tom did it.	Ni Tom ti akin-aramid.
+Tom is shy.	Managbabain ni Tom.
+Tom talked.	Nagsao ni Tom.
+Tom walked.	Nagnagna ni Tom.
+Tom worked.	Nagtrabaho ni Tom.
+Tom yelled.	Naglaaw ni Tom.
+We'll walk.	Magmagnata.
+We'll walk.	Magmagnatayo.
+We'll work.	Agtrabahotayo.
+We'll work.	Trabahuentayo.
+Who are we?	Asinotayo?
+Who talked?	Asino ti nagsao?
+Who yelled?	Asino ti naglaaw?
+You may go.	Mabalinmon ti mapan.
+You're big.	Dakkelka.
+Are you sad?	Nalidayka kadi?
+Are you sad?	Malmaldayka?
+Do it again!	Aramidem manen!
+Don't worry.	Saanka a madanagan.
+Forgive Tom.	Pakawanenyo ni Tom.
+How are you?	Komustaka?
+How strange!	Nakakaskasdaaw!
+I don't lie.	Saanak nga agul-ulbod.
+I don't lie.	Saanak nga agliblibak.
+I eat alone.	Maymaysak a mangan.
+I feel blue.	Malidayanak.
+I feel blue.	Maldaanganak.
+I like cats.	Kayatko ti pusa.
+I like dogs.	Kayatko ti aso.
+I like fish.	Kayatko ti lames.
+I love cats.	Kaykayatak ti pusa.
+I was wrong.	Nagbiddutak.
+I'm kidding.	Agang-angawak laeng.
+I'm so full.	Nabnabsogak la unay.
+I'm talking.	Agsasaoak.
+I'm thirsty.	Mawawak.
+I'm winning.	Mangab-abakak.
+Is Tom tall?	Natayag kadi ni Tom?
+Is it yours?	Kukuam kadi?
+It's Monday.	Lunes ita.
+It's a fish.	Lames daytoy.
+It's a fish.	Ikan daytoy.
+Let's relax.	Agrelakstayo.
+Let's start.	Rugiantan.
+Let's start.	Rugiantayon.
+Nobody came.	Awan ti simmangbay.
+Release Tom.	Wayawayaam ni Tom.
+Release Tom.	Bulosam ni Tom.
+They got it.	Naalada.
+Tom frowned.	Nagmurareg ni Tom.
+Tom sweated.	Nagling-et ni Tom.
+Tom teaches.	Agisursuro ni Tom.
+Tom tripped.	Naipatikleb ni Tom.
+Tom tripped.	Naipatublak ni Tom.
+What's this?	Ania daytoy?
+Who are you?	Asinoka?
+A bug bit me.	Adda insekto a nangkagat kaniak.
+Are you sure?	Siguradoka?
+Do you smoke?	Agsigsigarilioka?
+Find the cat.	Birokem ti pusa.
+I don't know.	Diak ammo.
+I drink milk.	Umin-inumak iti gatas.
+I feel faint.	Maulawak.
+I feel faint.	Kaslaak matalimudaw.
+I feel giddy.	Maul-ulawak.
+I want to go.	Kayatko ti mapan.
+I'm a coward.	Maysaak a takrot.
+I'm off beer.	Diak kayaten ti uminum iti serbesa.
+Identify Tom.	Lasinem ni Tom.
+Is that true?	Agpayso kadi dayta?
+Let's go eat.	Intayo pay mangan.
+Let's go out.	Rummuarta.
+Let's go out.	Rummuartayo.
+Please hurry.	Darasem.
+She is quiet.	Naulimek isuna.
+Stop smoking.	Agsardeng nga agsigarilio.
+Sweet dreams!	Nasam-it a tagtagainep!
+Tom can't go.	Saan a makapan ni Tom.
+Tom hates me.	Kaguranak ni Tom.
+Tom is early.	Nasapa ni Tom.
+Tom survived.	Nakalasat ni Tom.
+Tom survived.	Naispal ni Tom.
+Tom vanished.	Nagpukaw ni Tom.
+Try it again.	Padasem manen.
+We need help.	Masapultayo ti saranay.
+We need rain.	Masapulmi ti tudo.
+We need rain.	Kasapulantayo ti tudo.
+We need this.	Masapultayo daytoy.
+What's a UFO?	Ania kadi ti UFO?
+Who survived?	Asino ti nakalasat?
+Who vanished?	Asino ti nagpukaw?
+You go first.	Umunaka a mapan.
+You're right.	Hustoka.
+Are you crazy?	Agbagtitka kadi?
+Are you happy?	Naragsakka kadi?
+Are you tired?	Nabannogka?
+Come back, OK?	Agsublika, okey?
+Do cats dream?	Agtagtagainep kadi dagiti pusa?
+Do fish sleep?	Maturog kadi ti lames?
+Does Tom know?	Ammo kadi ni Tom?
+Dogs can swim.	Makalangoy dagiti aso.
+Help yourself.	Tulungam ta bagim.
+I believe you.	Mamatiak kenka.
+I cried today.	Nagsangitak ita nga aldaw.
+I enjoy music.	Kaykayatko ti musika.
+I feel better.	Medio mayat ti riknakon.
+I feel better.	Nasayaaten ti riknak.
+I read a book.	Nagbasaak iti libro.
+I read a book.	Agbasbasaak iti libro.
+Is that a cat?	Pusa kadi dayta?
+It is raining.	Agtudtudo.
+That's a tree.	Kayo dayta.
+That's my cat.	Dayta ti pusak.
+They found us.	Nasarakandakami.
+Tom heard you.	Nangngegnaka ni Tom.
+Tom is trying.	Ipadpadas ni Tom.
+Tom succeeded.	Nagballigi ni Tom.
+Tom will walk.	Magna ni Tom.
+Tom will work.	Agtrabaho ni Tom.
+Tom won't win.	Saan a mangabak ni Tom.
+Tom's missing.	Mapukpukaw ni Tom.
+We have a dog.	Adda asomi.
+We need a car.	Masapultayo ti kotse.
+We need a map.	Masapultayo ti mapa.
+We need to go.	Masapul nga intayon.
+We took a cab.	Nagtaksikami.
+We're cowards.	Takrottayo.
+We're starved.	Mabisbisinkamin.
+We're teasing.	Agang-angawkami.
+When do we go?	Kaano a mapantayo?
+Where are you?	Ayanmo?
+Who asked you?	Asino ti nagsaludsod kenka?
+Who asked you?	Asino ti nagdamag kenka?
+Who came here?	Asino ti immay ditoy?
+Who's talking?	Asino ti agsasao?
+Who's thirsty?	Asino ti mawaw?
+You look pale.	Aglulusiaw ti langam.
+You're trying.	Padpadasem.
+You're trying.	Ipadpadasmo.
+Are you hungry?	Mabisinka?
+Can I help you?	Ania ti maitulongko kenka?
+Can this be it?	Isu ngatan daytoy?
+Cats are smart.	Nasirib dagiti pusa.
+Cows eat grass.	Mangmangan iti ruot ti baka.
+Do you love me?	Ay-ayatennak kadi?
+Don't you care?	Awan kadi bibiangmo?
+Happy New Year!	Naragsak a Baro a Tawen!
+He's in prison.	Adda isuna iti pagbaludan.
+How do we help?	Kasano a makatulongkami?
+How much is it?	Sagmamano?
+I drink coffee.	Agkapkapeak.
+I drink coffee.	Umin-inumak iti kape.
+I enjoy movies.	Kaykayatko ti agbuya iti sine.
+I feel ashamed.	Mariknak ti bainko.
+I feel ashamed.	Mabainak.
+I feel ashamed.	Kasla mabainak.
+I feel honored.	Mapadayawanak.
+I love to cook.	Kaykayatko ti aglutluto.
+I pay Tom well.	Binayadak a nasayaat ni Tom.
+I was coughing.	Aguy-uyekak.
+I went fishing.	Napanak nagkalap.
+I'm going, too.	Mapannak met.
+I'm the killer.	Siak ti mammapatay.
+I've done this.	Inaramidko daytoy.
+It's Christmas.	Paskuan.
+It's hot today.	Nagbara ita nga aldaw.
+Leave me alone!	Panawannak nga agmaymaysaak!
+My name is Tom.	Tom ti naganko.
+She is running.	Agtartaray isuna.
+The cat meowed.	Nagmiaw ti pusa.
+They got tired.	Nabannogda.
+They quarreled.	Nagapada.
+They quarreled.	Nagrikiarda.
+This is a book.	Libro daytoy.
+Tom has failed.	Napaay ni Tom.
+Tom hates cats.	Kagura ni Tom ti pusa.
+Tom volunteers.	Nagboluntario ni Tom.
+We know enough.	Ammomi unayen.
+We met earlier.	Nagkitata idin.
+We took a vote.	Nagbobotoskami.
+What is it for?	Ania ti pakaaramatanna?
+What is it for?	Para iti ania daytoy?
+Where is Paris?	Sadino ti ayan ti Paris?
+Who built this?	Asino ti nangaramid iti daytoy?
+Who built this?	Asino ti nangbangon iti daytoy?
+Who called you?	Asino ti nangawag kenka?
+Who's watching?	Asino ti agbuybuya?
+You have to go.	Kasapulan a pumanawkan.
+You're winning.	Mangab-abakka.
+Are you married?	Adda asawamon?
+Bees make honey.	Dagiti uyokan ti agparparnuay iti diro.
+Can you help me?	Mabalin a tulongannak?
+Cats catch mice.	Agtiliw dagiti pusa iti bao.
+Congratulations!	Kablaaw!
+Did you miss me?	Nailiwka kaniak?
+Do you eat meat?	Mangmanganka iti karne?
+Do you remember?	Malagipmo?
+Don't be afraid.	Dika agbuteng.
+He nodded to me.	Tinung-edannak.
+How did Tom die?	Kasano a natay ni Tom?
+How old are you?	Mano ti tawenmon?
+How tall is Tom?	Kasano katayag ni Tom?
+I am very tired.	Nabannogak unay.
+I don't need it.	Saanko a masapul dayta.
+I feel betrayed.	Panagriknak ket naallilawak.
+I feel betrayed.	Panagriknak ket naliputanak.
+I have two cats.	Adda dua a pusak.
+I like baseball.	Kayatko ti baseball.
+I live in Japan.	Agnanaedak sadiay Japon.
+I paid for them.	Imbayadak ida.
+I'm a TV addict.	Naadikak iti TV.
+Let me sit down.	Pagtuwagennak.
+Merry Christmas!	Naragsak a Paskua!
+Never forget it.	Dimo pulos liplipatan.
+Please be quiet.	Pangngaasim ta agulimekka.
+She adores cats.	Kaykayatanna unay ti pusa.
+The cat escaped.	Nakalibas ti pusa.
+These are birds.	Bilbillit dagitoy.
+They won't know.	Didanto maammuan.
+This is a horse.	Kabalio daytoy.
+Today is Monday.	Lunes ita nga aldaw.
+Tom drinks wine.	Umin-inum iti arak ni Tom.
+Tom has a fever.	Adda gurigor ni Tom.
+Tom has it made.	Naaramid daytoy ni Tom.
+Tom has my vote.	Kukua ni Tom ti botosko.
+Tom is a coward.	Maysa a takrot ni Tom.
+Tom surrendered.	Simmuko ni Tom.
+Tom sympathized.	Nakipagrikna ni Tom.
+Tom understands.	Maawatan ni Tom.
+Tom was working.	Nagtrabaho ni Tom.
+Tom wasn't bald.	Saan a kalbo ni Tom.
+We speak French.	Makasao kami iti Pranses.
+What time is it?	Ania ti orasen?
+Where's my bike?	Ayanna ti bisekletak?
+Who bought that?	Asino ti nanggatang iti dayta?
+Who called them?	Asino ti nangayab kadakuada?
+Who called them?	Asino ti nangawag kadakuada?
+Who surrendered?	Asino ti simmuko?
+Who volunteered?	Asino ti nagboluntario?
+Who'll be there?	Asinonto ti adda idiay?
+You're a coward!	Maysaka a takrot.
+You're a coward!	Takrotka!
+You're a coward.	Maysaka a takrot.
+You're a coward.	Takrotka!
+A cab is waiting.	Adda agur-uray a taksi.
+Aren't you tired?	Saanka kadi a nabannog?
+Do you live here?	Agnanaedka ditoy?
+Do you want kids?	Kayatmo kadi ti ubbing?
+He hates spiders.	Kagurana ti lawwalawwa.
+He loves fishing.	Kaykayatna ti agkalap.
+How embarrassing!	Nakababain!
+I agree with you.	Umanamongak kenka.
+I feel empowered.	Napabilganak.
+I know your name.	Ammok ti naganmo.
+I own this place.	Kukuak daytoy a lugar.
+I own this store.	Kukuak daytoy a pagtagilakuan.
+I regret nothing.	Awan ti pagbabawyak.
+I was very lucky.	Nagasatak la unay.
+I wrote the book.	Sinuratko ti libro.
+I'm 18 years old.	Disiotsokon.
+I'm Tom's friend.	Gayyemnak ni Tom.
+I'm not a doctor.	Saanak a doktor.
+I'm not the boss.	Saan a siak ti boss.
+I'm very popular.	Nakalatlatakak.
+I'm volunteering.	Agboluntarioak.
+Is this your car?	Daytoy kadi ti kotsem?
+My toes are numb.	Agpipikel dagiti tangan ti sakak.
+Nothing happened.	Awan ti napasamak.
+Please sign here.	Agpirma ditoy.
+Spiders scare me.	Mabutengak iti lawwalawwa.
+The cat ran away.	Timmaray nga immadayo ti pusa.
+The towel is wet.	Nabasa ti tualia.
+They know I know.	Ammoda nga ammok.
+They live nearby.	Agnanaedda iti asideg.
+This is my child.	Daytoy ti anakko.
+This is my rifle.	Daytoy ti riplek.
+This isn't sugar.	Saan nga asukar daytoy.
+Tom is my friend.	Gayyemko ni Tom.
+Tom is my mentor.	Ni Tom ti mangisursuro kaniak.
+Tom is no coward.	Saan a takrot ni Tom.
+Tom relies on me.	Agtalek ni Tom kaniak.
+Tom talked to me.	Nakisarita ni Tom kaniak.
+Tom wasn't angry.	Saan a makaunget ni Tom.
+Tom wasn't armed.	Saan nga armado ni Tom.
+Tom wasn't clear.	Saan a nalawag ni Tom.
+We need evidence.	Masapulmi ti pammaneknek.
+We need to hurry.	Masapul a kartingantayo.
+We need to hurry.	Masapul a darsentayo.
+We need to leave.	Masapul a pumanawtayo.
+We'll be careful.	Agan-annadkaminton.
+We're undressing.	Aguk-uksobkami.
+We're undressing.	Aglablabuskami.
+We're undressing.	Ik-ikkatenmi dagiti badomi.
+What a big truck!	Anian a nagdakkel a bagon!
+What did you say?	Ania ti kinunam?
+What do you have?	Ania ti adda kenka?
+What do you mean?	Ania ti kayatmo a sawen?
+What do you want?	Ania ti kayatmo?
+What's your name?	Ania ti naganmo?
+Where did Tom go?	Napanan ni Tom?
+Who brought them?	Asino ti nangitugot kadakuada?
+Who brought them?	Asino ti nangala kadakuada?
+Who brought this?	Asino ti nangitugot iti daytoy?
+Who can remember?	Asino ti makalagip?
+Who could forget?	Asino ti makalipat?
+You may be right.	Mabalin nga umnoka.
+You should sleep.	Masapul a maturogka.
+A heavy rain fell.	Nagbayakabak.
+All men are equal.	Agpapada amin a tao.
+Are you a student?	Estudianteka kadi?
+Birds build nests.	Agaramid iti umok dagiti billit.
+Come here at once.	Umayka a dagus ditoy.
+Did you mean this?	Kayatmo a sawen isu daytoy?
+Do you have money?	Adda kuartam?
+Do you need money?	Masapulmo ti kuarta?
+Do you want a job?	Kayatmo kadi ti trabaho?
+Do you want to go?	Kayatmo ti mapan?
+Does Tom know yet?	Ammo kadin ni Tom?
+Don't you like me?	Dinak kadi kayat?
+He owns this land.	Kukuana daytoy a daga.
+He's a big coward.	Nameklan a takrot isuna.
+He's now studying.	Agbasbasa itan isuna.
+How can I compete?	Kasano a makisalipak?
+I bought the book.	Ginatangko ti libro.
+I can't blame you.	Saanka a mapabasol.
+I couldn't fix it.	Saanko a matarimaan.
+I have a headache.	Agsakit ti ulok.
+I have no regrets.	Awan babawik.
+I miss my friends.	Kailiwko dagiti gagayyemko.
+I paid in advance.	Insakbayko ti nagbayad.
+I'll pay the bill.	Bayadak ti nagastos.
+I've done nothing.	Awan ti inaramidko.
+It's not my fault.	Saanko a basol.
+Please forgive me.	Pangngaasim ta pakawanennak.
+Tell Tom to hurry.	Ibagam ken ni Tom a kartinganna.
+That won't happen.	Saan a mapasamak dayta.
+They drank coffee.	Imminumda ti kape.
+They got addicted.	Naadikda.
+They ran after us.	Kinamatdakami.
+They went fishing.	Napanda nagkalap.
+They were cowards.	Takrotda.
+Tom is frustrated.	Naupay ni Tom.
+Tom is so selfish.	Managimbubukod ni Tom.
+Tom played tennis.	Nagay-ayam ni Tom iti tennis.
+Tom respects Mary.	Resrespetuen ni Tom ni Mary.
+Tom wasn't afraid.	Saan a mabuteng ni Tom.
+We need a victory.	Masapultayo ti panagballigi.
+We need more time.	Masapulayo ti ad-adu pay a panawen.
+We're not cowards.	Saankami a takrot.
+What is your name?	Ania ti naganmo?
+Where do you live?	Pagnanaedam?
+Where do you work?	Pagob-obraam?
+Where's the bread?	Ayanna ti tinapay?
+Where's your wife?	Ayanna ni baketmo?
+Whose fault is it?	Asino ti akimbasol iti daytoy?
+Whose pen is this?	Akinbolpen iti daytoy?
+Whose pen is this?	Akinlapis iti daytoy?
+You are beautiful.	Napintaska.
+You bet I'm angry.	Napugtuam a makaungetak.
+You run very fast.	Nakapaspaspaska nga agtaray.
+You weren't ready.	Saanka a nakasagana.
+You're disgusting!	Nakaar-ariekka!
+You're the doctor.	Sika ti doktor.
+A cat is not human.	Saan a tao ti pusa.
+A cat scratched me.	Kinaramutannak ti pusa.
+A child is missing.	Adda mapukpukaw nga ubing.
+A guard is outside.	Adda guardia iti ruar.
+Do you believe him?	Mamatika kadi kenkuana?
+Do you like apples?	Kayatmo ti mansanas?
+Do you remember me?	Malagipnak kadi?
+Do you want coffee?	Kayatmo ti kape?
+Don't overthink it.	Saanmo a pagpanunotan la unay.
+Get me some coffee.	Yalaannak man iti kape.
+Go home and change.	Agawidkan ta agpelleska.
+He is about thirty.	Agtallopulona.
+He is having lunch.	Mangal-aldaw isuna.
+How do we find Tom?	Kasano a mabirokanmi ni Tom?
+I admire Tom a lot.	Pagraemak la unay ni Tom.
+I bought a Picasso.	Gimmatangak iti PIcasso.
+I can't blame them.	Diak mapabasol ida.
+I don't have a cat.	Awan ti pusak.
+I don't understand.	Diak maawatan.
+I have a job to do.	Adda obrak nga iwayatko.
+I know your father.	Am-ammok ti tatangmo.
+I pay Tom's salary.	Baybayadak ti sueldo ni Tom.
+I wanted to scream.	Kayatko ti agikkis.
+I'm bored to death.	Masikoranak la un-unay.
+I'm not a magician.	Saanak a mahikero.
+Is Tom a good cook?	Nalaing kadi nga agluto ni Tom?
+Is this book Tom's?	Libro kadi ni Tom daytoy?
+Is your room clean?	Nadalus kadi ti siledmo?
+It belonged to Tom.	Kukua ni Tom.
+It didn't end well.	Saan a nasayaat ti pannakalpasna.
+It was pretty dark.	Nakasipsipnget.
+It was really dark.	Agpayso a nasipnget.
+It's fun to travel.	Naragsak ti agbiahe.
+It's not Christmas.	Saan a Paskua.
+Out of my way, boy.	Aglisika man, balong.
+Pick me up at 2:30.	Sukunennak inton 2:30.
+Please have a seat.	Agtugawka.
+She bought chicken.	Gimmatang isuna iti manok.
+She looked ghostly.	Kasla al-alia ti langana.
+Stop wasting money.	Isardeng ti panagsayang iti kuarta.
+The law is the law.	Ti linteg ket isu ti linteg.
+The others laughed.	Nagkatawa dagiti dadduma.
+They are wrestlers.	Gumagabboda.
+Tom can't trick me.	Saannak a maallilaw ni Tom.
+Tom can't use that.	Saan a maaramat ni Tom dayta.
+Tom can't use this.	Saan a maaramat ni Tom daytoy.
+Tom closed one eye.	Inkidem ni Tom ti maysa a matana.
+Tom could be a spy.	Mabalin a maysa nga espia ni Tom.
+Tom didn't find it.	Saan a nabirokan ni Tom.
+Tom didn't fool me.	Saannak a linoko ni Tom.
+Tom got here early.	Nasapa a simmangpet ditoy ni Tom.
+Tom has to do this.	Nasken nga aramiden ni Tom daytoy.
+Tom is a terrorist.	Maysa a terorista ni Tom.
+Tom is catching on.	Kumamkamakam ni Tom.
+Tom is early again.	Nasapa manen ni Tom.
+Tom is often wrong.	Masansan a biddut ni Tom.
+Tom is trying hard.	Ikarkarigatan ni Tom.
+Tom isn't busy now.	Saan a makumikom ni Tom ita.
+Tom isn't finished.	Saan pay a nalpas ni Tom.
+Tom should go home.	Nasken nga agawid ni Tom.
+Tom will love this.	Magustuan ni Tom daytoy.
+Tom will need that.	Masapul ni Tom dayta.
+Tom will need this.	Masapul ni Tom daytoy.
+We know what to do.	Ammomi no ania ti aramidenmi.
+We must be careful.	Masapul nga agan-annadtayo.
+We're volunteering.	Agboluntariokami.
+We've barely begun.	Karugrugimi.
+We've been looking.	Agbirbirokkami.
+We've been looking.	Agsapsapulkami.
+We've been looking.	Agkitkitakami.
+Well, now you know.	Ket, ammom itan.
+What are you doing?	Ania ti ar-aramidem?
+What just happened?	Ania kadi ti napasamak itay laeng?
+Where are you from?	Sadino ti naggapuam?
+Who's volunteering?	Asino ti agboluntario?
+Why are you crying?	Apay nga agsangsangitka?
+You know it's true.	Ammo nga isu ti pudno.
+You won't be ready.	Saanka nga makasagana.
+You're all cowards.	Takrotkayo amin.
+Are there any risks?	Adda kadi pagpeggadan?
+Are you on Facebook?	Addaka iti Facebook?
+Didn't you tell Tom?	Saanmo kadi nga imbaga ken ni Tom?
+Do you drink coffee?	Agkapkapeka?
+Don't you like this?	Dimo kadi kayat daytoy?
+He will be punished.	Madusa isuna.
+I bought a VIP pass.	Gimmatangak iti pang-VIP a pases.
+I can't fall asleep.	Saanak a makaturog.
+I had a weird dream.	Nakatagtagainepak iti saan a nakapapati.
+I have a dictionary.	Adda diksionariok.
+I have a girlfriend.	Adda nobiak.
+I have to leave now.	Masapul a pumanawakon.
+I heard you singing.	Nangngeganka nga agkankanta.
+I make €100 a day.	Makateggedak iti €100 iti inaldaw.
+I need a dictionary.	Masapulko ti maysa a diksionario.
+I own this property.	Sanikuak daytoy.
+I was forced to lie.	Napilitanak a nagulbod.
+I wasn't even there.	Ket no awanakto pay idiay.
+I will be back soon.	Agsubliak met la a dagus.
+I will be back soon.	Agsubliak a dagus.
+I will be back soon.	Agsubliak met laeng.
+I'm blind, not deaf.	Bulsekak, saan a tuleng.
+I'm the new teacher.	Siak ti kabarbaro a mannursuro.
+I'm very sleepy now.	Makaturturogak la unayen.
+Is Santa Claus real?	Pudpudno kadi ni Santa Claus?
+Is that a yes or no?	Wen kadi dayta wenno saan?
+Should we wait here?	Aguraytayo kadi ditoy?
+Sing me a love song.	Kantaannak iti maysa a samiweng ni ayat.
+The ground was cold.	Diay daga ket nalamiis.
+They aren't farmers.	Saanda nga mannalon.
+They're like family.	Kaslada pamilia.
+They're never happy.	Saanda nga agragsak.
+They're nice people.	Nasayaatda a tattao.
+They're normal kids.	Gagangayda nga ubbing.
+They're not doctors.	Saanda a mangngagas.
+They're not farmers.	Saanda a mannalon.
+They're still young.	Ubbingda pay laeng.
+This beer is bitter.	Napait daytoy a serbesa.
+This is a nightmare.	Maysa daytoy a batibat.
+This is much better.	Amang a nasaysayaat daytoy.
+This is my computer.	Daytoy ti computer-ko.
+Tom heard the noise.	Nangngeg ni Tom ti tagari.
+Tom wasn't bluffing.	Saan a mangigkigtot ni Tom.
+We have a job to do.	Adda obra a trabahuenta.
+We must do it again.	Masapul nga aramidentayo manen.
+We need to help Tom.	Masapul a tulonganayo ni Tom.
+We're trying to win.	Ikarkarigatanmi ti mangabak.
+We've already tried.	Pinadasmin.
+We've been ambushed.	Inarangdakami.
+We've done no wrong.	Awan ti inaramidmi nga madi.
+What did you answer?	Ania ti insungbatmo?
+What time is sunset?	Ania nga oras ti ilelennek diay init?
+When will you leave?	Kaano a pumanawka?
+Where are you going?	Papanam?
+Where have you been?	Napnapanam?
+Where's your weapon?	Ayanna ti igammo?
+Who is your teacher?	Asino ti titsermo?
+Whose fault is that?	Asino ti akimbasol iti dayta?
+Whose house is this?	Akimbalay iti daytoy?
+Why am I still here?	Apay nga addaak pay la ditoy?
+Why are you so thin?	Apay a nakakutkuttongka metten?
+Why do they do this?	Apay nga ar-aramidenda daytoy?
+You'd better not go.	Nasaysayaat no saanka a mapan.
+You're just cowards.	Takrotkayo laeng.
+Cats have nine lives.	Siam ti biag ti pusa.
+Could we take a walk?	Mabalinta ti mapan magmagna?
+Do you have children?	Adda annakmo?
+Do you speak English?	Makasaoka iti Ingles?
+Do you study English?	Agad-adalka iti Ingles?
+Do you study English?	Agad-adalka kadi iti Ingles?
+Do you understand me?	Maawatannak kadi?
+Flowers attract bees.	Agawis iti alimbubuyog dagiti sabong.
+Give me a day or two.	Ikkannak iti maysa wenno dua nga aldaw.
+Go back to your seat.	Agsublika iti tugawmo.
+Have I convinced you?	Naallukoyka kadi?
+Have a drink with me.	Aginumta.
+Have a nice day, Tom.	Naimbag nga aldawmo, Tom.
+He was a good friend.	Nasayaat isuna a gayyem.
+I agree to your plan.	Umanamongak iti planom.
+I arrived last night.	Simmangpetak idi rabii.
+I didn't believe you.	Saanak a namati kenka.
+I don't believe this.	Saanko a patien daytoy.
+I had an early lunch.	Nasapaak a nangaldaw.
+I have a debt to pay.	Adda bayadak nga utangko.
+I have been in Paris.	Napanak idiay Paris.
+I have no use for it.	Awan ti pangaramatak iti dayta.
+I held the door open.	Linuktak ti ridaw.
+I keep thirteen cats.	Adda tarakenko a sangapulo-ket-tallo a pusa.
+I know what Tom said.	Ammok no ania ti imbaga ni Tom.
+I love fried bananas.	Kaykayatko ti naprito a saba.
+I made a paper plane.	Nagaramidak iti papel a sinan-eroplano.
+I miss Tom's cooking.	Kailiwko ti luto ni Tom.
+I'm Mary's boyfriend.	Siak ti nobio ni Mary.
+I'm not tired at all.	Saanak met a nabannog ketdi.
+I'm smarter than you.	Nalalaingak ngem sika.
+It is very hot today.	Nakabarbara ita nga aldaw.
+It rained for a week.	Nagtudo iti makalawas.
+No one escaped alive.	Awan ti nakalibas a sibibiag.
+Someone cut the rope.	Adda nangputed iti tali.
+The sun is coming up.	Sumingsingisingen ti init.
+They made fun of him.	Nagaangawanda isuna.
+This will cost €30.	Agpateg daytoy iti €30.
+Tom has a girlfriend.	Adda nobia ni Tom.
+Tom is extremely shy.	Managbabain la unay ni Tom.
+Tom is very reliable.	Mapagtalkan unay ni Tom.
+Tom left me the keys.	Imbati ni Tom kaniak dagiti tulbek.
+We should get moving.	Nasken nga aggunaytayon.
+We want to do it now.	Kayatmi nga aramidenen ita.
+We were all helpless.	Amintayo ket awanan kabaelan.
+We'll try to do that.	Padasenmi nga aramiden dayta.
+We're not terrorists.	Saankami a terorista.
+We've already chosen.	Nangpilikamin.
+What are you reading?	Ania ti basbasaem?
+Where are the knives?	Ayanna dagiti kutsilio?
+Why was Tom in there?	Apay nga adda ni Tom idiay?
+Why wasn't Tom there?	Apay nga awan ni Tom idiay?
+Why were they chosen?	Apay nga isuda ti napili?
+Why were you yelling?	Apay nga aglalaawka?
+You all look so busy.	Kasla makumikomkayo amin.
+You almost missed me.	Dandani dinak nakamakam.
+You always lie to me.	Kanayonka nga agulbod kaniak.
+You are new students.	Kabarbarokayo nga estudiante.
+You are not a coward.	Saanka a takrot.
+You can't blame them.	Dimo mapabasol ida.
+You could've said no.	Imbagam latta koma a saan.
+You could've written.	Insuratmo koma lattan.
+You have a job to do.	Adda obra nga aramidem.
+You have thirty days.	Adda tallopulo nga aldawmo.
+You must be new here.	Kabarbarokan sa ditoy.
+You must be so proud.	Maipagpannakelmo la ketdi.
+You must be thrilled.	Mapikapikka la ketdi.
+You need a boyfriend.	Masapulmo ti nobio.
+You need new clothes.	Masapulmo ti baro a pagan-anay.
+You need to be there.	Masapul nga addaka idiay.
+You said it was over.	Imbagam a nalpasen.
+You said so yourself.	Sika a mismo ti nangibaga.
+You said that before.	Imbagam dayta idin.
+You said we could go.	Imbagam a mabalinmi ti mapan.
+You three look happy.	Naragsakkayo met a tallo.
+You two must be busy.	Makumikomkayo la ketdi a dua.
+You were my favorite.	Sika ti paboritok.
+You're a good doctor.	Nalaingka a doktor.
+You're a good singer.	Nalaingka a kumakanta.
+You're a nice person.	Nasingpetka a tao.
+You're all they have.	Sika laengen ti adda a namnamada.
+You're not one of us.	Saandaka a kadua.
+You're single, right?	Awan pay asawam, saan kadi?
+Are these Tom's shoes?	Sapatos kadi ni Tom dagitoy?
+Are they done already?	Nalpasda kadin?
+Are those my slippers?	Tsinelasko kadi dayta?
+Are we ready for this?	Nakasaganatayo kadi para iti daytoy?
+Are you willing to go?	Sipapaluboska kadi a mapan?
+Bananas are delicious.	Naimas ti saba.
+Can you keep a secret?	Makaidulinka kadi iti maysa a palimed?
+Do you believe in God?	Mamatika kadi iti Dios?
+Do you like to travel?	Kayatmo ti agdaliasat.
+Do you like to travel?	Kayatmo ti agdaliasat?
+Do you want some wine?	Kayatmo ti arak?
+Do you want to try it?	Kayatmo kadi a padasen?
+Don't joke about that.	Saanmo a pagang-angawan ti maipapan iti dayta.
+Have a good Christmas.	Naimbag a Paskuam.
+He called me a coward.	Inawagannak a takrot.
+He gave me 10,000 yen.	Inikkannak iti 10,000 a yen.
+How long did you stay?	Kasano kabayag a nagtalinaedka?
+I became Tom's friend.	Nagbalinak a gayyem ni Tom.
+I don't wanna go back.	Diak kayataen ti agsubli.
+I go there every year.	Tinawen a mapmapanak idiay.
+I have to go to sleep.	Masapul a maturogak.
+I have to go to sleep.	Innak maturogen.
+I have to go to sleep.	Masapul nga innak maturogen.
+I lost my inspiration.	Napukawko ti inspirasionko.
+I paid about 50 bucks.	Mapan a 50 a doliar ti imbayadko.
+I paid for it already.	Binayadakon dayta.
+I paid for the damage.	Binayadak ti nadadael.
+I paid for the drinks.	Binayadak dagiti mainum.
+I thought he was sick.	Kunak no masakit isuna.
+I will go if you come.	Mapanak no umayka.
+I'll never forget you.	Saankanto a pulos malipatan.
+I'm here as a tourist.	Addaak ditoy a kas turista.
+I'm telling the truth.	Ibagbagak ti pudno.
+I've already paid you.	Nagbayadak kenkan.
+Is there life on Mars?	Adda kadi biag iti Mars?
+Is your watch correct?	Umno met la kadi ti oras iti relom?
+Nobody understands me.	Awan ti makaawat kaniak.
+Please close the door.	Iserram man daydiay ridaw.
+Tadpoles become frogs.	Agbalin a tukak dagiti bayyek.
+That's not the reason.	Saan a dayta ti makagapu.
+That's pretty amazing.	Nasayaat dayta.
+The die has been cast.	Nalpasen a naimolde ti sukog.
+There's nowhere to go.	Awanen ti mabalin a papanan.
+This is a wooden comb.	Sagaysay a kayo daytoy.
+Those men are cowards.	Takrot dagidiay a tattao.
+Tom eats very quickly.	Nakaparpartak a mangan ni Tom.
+Tom is my best friend.	Kagayyemak ni Tom.
+Tom wants to help out.	Kayat ni Tom ti tumulong.
+Tomorrow is Christmas.	Paskua no bigat.
+We have to be careful.	Nasken nga agan-annadtayo.
+We should get married.	Masapul nga agkallaysatan.
+We should get started.	Masapul a mangrugitayon.
+We've already started.	Nairugimin.
+We've already started.	Nangrugikamin.
+We've already started.	Nakarugikamin.
+We've been discovered.	Naduktalandakami.
+What a fool I've been!	Anian a kinabagtitko ngamin idin!
+What are your beliefs?	Ania dagiti pammatim?
+What brought you here?	Ania ti nakaumayam ditoy?
+What brought you here?	Ania ti immayam ditoy?
+What's in these boxes?	Ania ti adda kadagitoy a kahon?
+What's in those cases?	Ania ti adda kadagidiay a kahon?
+What's my room number?	Ania ti numero ti siledko?
+When is your birthday?	Kaano ti kasangaymo?
+Where are our friends?	Ayanna dagiti gagayyemtayo?
+Who am I talking with?	Asino kadi ti kasarsaritak?
+Why should I be there?	Apay koma nga addaak idiay?
+You will pay for this.	Agbayadka gapu iti daytoy.
+Cats dislike being wet.	Saan a kayat dagiti pusa ti mabasa.
+Cats usually hate dogs.	Gagangay a kagura ti pusa ti aso.
+Do you know the answer?	Ammom kadi ti sungbat?
+Do you like doing this?	Kayatmo kadi nga ar-aramiden ti kastoy?
+Do you like my clothes?	Kayatmo kadi dagiti kawesko?
+Does Tom know who I am?	Ammo kadi ni Tom no asinoak?
+Does that make you sad?	Malidayanka kadi iti dayta?
+Don't you come near me.	Saanka nga umasideg kaniak.
+He often quotes Milton.	Kanayonna a dakamaten ni Milton.
+He sent a card to Mary.	Nangipatulod iti tarheta ken ni Mary.
+I cannot possibly come.	Saan a mabalin nga umayak.
+I don't speak Japanese.	Diak agsasao iti Hapones.
+I got on the wrong bus.	Sabali a bus ti naluganak.
+I love Christmas songs.	Kaykayatak dagiti kanta a Pamaskua.
+I will be more careful.	Amang nga agan-annadakon.
+I will gladly help you.	Maragsakanak a mangtulong kenka.
+I wish I was in Boston.	Kayatko nga addaak koma idiay Boston.
+I wish to go to Hawaii.	Kayatko ti mapan idiay Hawaii.
+I'll wait for you here.	Urayenka ditoy.
+I'm just being careful.	Naannadak laeng.
+I'm trying to help you.	Padpadasek a tulonganka.
+I've got no money left.	Awanen ti nabati a kuartak.
+I've got to be careful.	Masapul nga agannadak.
+Is it a recent picture?	Kaudian kadi a retrato?
+Is your mother at home?	Adda kadi ti nanangmo iti balayyo?
+It's October the third.	Maikatlo ita ti Oktubre.
+Just be careful of Tom.	Annadam laeng ni Tom.
+Life is like a journey.	Kasla maysa a panagdaliasat ti biag.
+Living here isn't easy.	Ti panaggian ditoy ket haan nga naannayas.
+May I watch TV tonight?	Mabalin nga agbuyaak iti TV ita a rabii?
+My father's car is new.	Kabarbaro ti kotse ti tatangko.
+My scalp is very itchy.	Nakagatgatel ti kudil ti ulok.
+She is used to cooking.	Naruam isuna nga agluto.
+She tore up the letter.	Pinigisna ti surat.
+Shouldn't we stop this?	Saantayo kadi nga isardeng daytoy?
+Someone gave Tom a car.	Adda nangted iti kotse ken ni Tom.
+Tell Tom to be careful.	Ibagam ken ni Tom nga agan-annad.
+The key is on the desk.	Adda ti tulbek iti lamisaan.
+They're always careful.	Naannnadda a kanayon.
+This clock is electric.	Dekoriente daytoy a relo.
+Tom can finish the job.	Kabaelan ni Tom a leppasen ti trabaho.
+Tom could beat anybody.	Abaken ni Tom ti uray asino.
+Tom is a buddy of mine.	Barkadak ni Tom.
+Tom is right behind me.	Adda a mismo ni Tom iti likudak.
+Tom is smaller than me.	Napampandek ni Tom ngem iti siak.
+Tom told us everything.	Inlatak ni Tom ti amin.
+Tom wasn't celebrating.	Saan nga agramrambak ni Tom.
+Tom wasn't complaining.	Saan nga agrekreklamo ni Tom.
+Tom watched Mary leave.	Binuybuya ni Tom ti ipapanaw ni Mary.
+Tom went up the stairs.	Immuli ni Tom iti agdan.
+Tom will agree with me.	Umanamongto kaniak ni Tom.
+Tom will be so excited.	Magagaran la ketdi unay ni Tom.
+Tom, please be careful.	Pangngaasim ta agan-annadka, Tom.
+We need to protect Tom.	Masapul a salaknibanayo ni Tom.
+We'd better get inside.	Nasaysayaat no umunegtan.
+Were you aware of this?	Pagaammom kadi daytoy?
+What a beautiful dress!	Anian a nagpintas a bado!
+What a beautiful scene!	Anian a nagpintas a buya!
+When did you find this?	Nakasarakam iti daytoy?
+When have I told a lie?	Kaano pay met a nagulbodak?
+Where do I put my bags?	Pangipanak kadagiti bagko?
+Who else is down there?	Asino pay ti adda idiay?
+Whose golf bag is this?	Akin-golf bag iti daytoy?
+Why are you busy today?	Apay a makumikomka ita nga aldaw?
+You are very beautiful.	Nakapimpintaska.
+You have to be careful.	Masapul nga agannadka.
+You have to be careful.	Masapul a naannadka.
+You were late for work.	Naladawka iti trabahom.
+All my friends like you.	Kayatdaka dagiti amin a gagayyemko.
+Ask me again in October.	Damagemto manen kaniak inton Oktubre.
+Did you really go there?	Agpayso kadi a napanka idiay?
+Do you have a cellphone?	Adda cellphone-mo?
+Don't make a fool of me.	Dinak a balbalatongen.
+Don't you know who I am?	Dimo kadi ammo no asinoak?
+He asked us to help him.	Tulongantayo kano isuna.
+He fought until the end.	Limmaban agingga iti maudi a kanito.
+I didn't know you cared.	Diak ammo nga impategnak.
+I hope to see you again.	Sapay ta agkitata manen.
+I never liked Christmas.	Diak pulos kinayat ti Paskua.
+I really need your help.	Kasapulak unay ti tulongmo.
+I thought you'd love it.	Ti ammok ket kayat mo daytoy.
+I'll be back in October.	Agsubliak no Oktubre.
+I'll follow your advice.	Tungpalek ti pammagbagam.
+I'll see you in October.	Kitaenkanto no Oktubre.
+I'll wait until October.	Agurayak agingga iti Oktubre.
+I'll write you a letter.	Suratankanto.
+I'm at a loss for words.	Diak ammo ti sawek.
+I'm looking for a house.	Adda birbirokek a balay.
+I'm looking for a house.	Agsapsapulak iti balay.
+It's the right decision.	Isu ti umno a pangngeddeng.
+Let me see the pictures.	Bay-am a kitaek dagiti ladawan.
+Scorpions are dangerous.	Napeggad dagiti manggagamma.
+She gave birth to twins.	Nagpasngay isuna iti singin.
+Tell them to be careful.	Ibagam kadakuada nga agannadda.
+They fought for freedom.	Nakirupirda para iti wayawaya.
+They fought for freedom.	Nakidangadangda para iti wayawaya.
+This house is abandoned.	Nagpanawan daytoy a balay.
+Tom handed Mary the key.	Inyawat ni Tom ti tulbek ken ni Mary.
+Tom is young and single.	Baro ni Tom ken awanan asawa.
+Tom sang some old songs.	Nagkanta ni Tom iti sumagmamano a daan a kanta.
+Tom seems to be excited.	Kasla magagaran ni Tom.
+Tom showed me a picture.	Adda impakita ni Tom kaniak a ladawan.
+Tom still can't go home.	Saan pay a makaawid ni Tom.
+Tom touched my shoulder.	Inaprosan ni Tom ti abagak.
+Tom was born in October.	Oktubre a nayanak ni Tom.
+Tom wasn't contributing.	Saan a mangmangted ni Tom.
+We should get back home.	Masapul nga agawidtan.
+Where can I put my bags?	Sadino ti mabalin a pangipanak kadagiti bagko?
+Who does this belong to?	Asino ti akinkukua iti daytoy?
+Who don't you know here?	Asino ti dimo am-ammo ditoy?
+You look very beautiful.	Nakapimpintas ti langam.
+You must do it yourself.	Nasken a sika a mismo ti mangaramid.
+You're not going to win.	Saanka a mangabak.
+You're not going to win.	Saankanto a mangabak.
+A glass of water, please.	Sangabaso man a danum, pangngaasim.
+Christmas is coming soon.	Umadanin ti Paskua.
+Do you believe in ghosts?	Mamatika kadi kadagiti al-alia?
+Do you know anybody here?	Adda kadi am-ammom ditoy?
+Do you know how to do it?	Ammom kadi no kasano nga aramiden?
+Do you remember who I am?	Malagipmo pay laeng no siasinoak?
+Do you want pepper on it?	Kayatmo kadi nga adda silina?
+Do you want to get drunk?	Kayatmo kadi ti mabartek?
+Don't forget who you are.	Dimo liplipatan no asinoka.
+Don't play with that key!	Dimo abalbalayen dayta a tulbek!
+Don't they drive you mad?	Didaka kadi pagbagtiten?
+Don't you recognize them?	Dimo kadi malasin ida?
+He doesn't have a sister.	Awan kabsatna a babai.
+He has lots of new ideas.	Adu ti kabarbaro nga ideana.
+He is liked by everybody.	Kayat isuna ti amin.
+He tried to get up early.	Pinadasna ti agriing a nasapa.
+He whistled as he walked.	Agsagsagawisiw isuna kabayatan a magmagna.
+How large is your family?	Kasano kadakkel ti familiam?
+How long were they there?	Kasano kabayagen nga addada idiay?
+How's everything at home?	Mag-an ti amin iti balay?
+I can't live without you.	Diak agbiag no awanka.
+I didn't know what to do.	Diak ammo no ania ti aramidek.
+I had no clue what to do.	Awan pamalpalatpatak no ania ti aramiden.
+I haven't read this book.	Saanko pay a nabasa daytoy a libro.
+I haven't washed my hair.	Saanko a ginulgolan ti buokko.
+I need to sleep a little.	Kasapulak ti maturog uray sangkabassit.
+I opened the door slowly.	Inin-inutko a linuktan ti ridaw.
+I paid for these tickets.	Binayadak dagitoy a tiket.
+I paid to have this done.	Nagbayadak tapno maileppas daytoy.
+I really want to see you.	Kayatko la unay a makitaka.
+I saw him enter the room.	Nakitak isuna a simrek iti siled.
+I sold it this afternoon.	Inlakok itay malem.
+I will write to you soon.	Suratankanto iti mabiit.
+I'll never do this again.	Diakton pulos aramiden daytoy.
+I'll never see Tom again.	Saankonton a pulos a makita pay ni Tom.
+I'm not going to read it.	Saanko nga basaen daytoy.
+I'm tired of watching TV.	Naumaakon nga agbuya iti TV.
+I'm trying to do my best.	Ikarkarigatak nga aramidem ti amin a kabaelak.
+I'm very glad to see you.	Maragsakanak unay a makakita kenka.
+I've never been to Paris.	Diak pay nakapan idiay Paris.
+Is it OK to do that here?	OK laeng kadi nga aramiden dayta ditoy?
+It happened last October.	Napasamak idi napan nga Oktubre.
+Terrorists blew up a bus.	Pinabettak dagiti terorista ti bus.
+The blanket is still wet.	Nabasa pay laeng ti ules.
+The blood test is normal.	Normal ti resulta ti pannakaamiris ti dara.
+The book is on the table.	Adda ti libro iti lamisaan.
+They called him a coward.	Inagawanda isuna a takrot.
+This is a very tall tree.	Nakataytayag a kayo daytoy.
+Tom didn't think of that.	Saan a napanunot ni Tom dayta.
+Tom has lost his car key.	Napukaw ni Tom ti tulbek ti kotsena.
+Tom is one of my friends.	Maysa kadagiti gayyemko ni Tom.
+Tom searched for the key.	Binirok ni Tom ti tulbek.
+Tom told Mary everything.	Imbaga ni Tom ti amin ken ni Mary.
+Tom wasn't concentrating.	Saan nga ipaspasnek ni Tom.
+Was the book interesting?	Napintas kadi ti libro?
+Were there any witnesses?	Adda kadi met la dagiti saksi?
+What can I do about this?	Ania ti maaramidak maipapan iti daytoy a banag?
+What does this word mean?	Ania ti kaipapanan daytoy a balikas?
+What he lacks is courage.	Ti kurang kenkuana ket kinatured.
+Who wrote these messages?	Asino ti nagsurat kadagitoy a mensahe?
+Why do you need a doctor?	Apay a masapulmo ti doktor?
+Why should I talk to Tom?	Apay koma a nasken a makisaritaak ken ni Tom?
+Will you stop teasing me?	Di la mabalin a sardengannak a rabrabaken?
+You are guilty of murder.	Nagbasolka iti pammapatay.
+You have chosen the best.	Pinilim ti kasasayaatan.
+Am I responsible for this?	Siak kadi ti responsable iti daytoy?
+Could you turn off the TV?	Mabalin kadi nga iddepem dayta TV?
+Do you still need my help?	Masapulmo pay la kadi ti tulongko?
+Don't worry. I'm a doctor.	Dika madanagan. Maysaak a doktor.
+He said that he was happy.	Kunana a naragsak isuna.
+He talked to me every day.	Kasasaonak iti inaldaw.
+How's that business going?	Kasano met ti tarayna dayta a negosio?
+I can't live without a TV.	Saanak nga agbiag no awan ti TV.
+I couldn't think straight.	Saanak a mapapanunot iti limpio.
+I have to wash the dishes.	Masapul nga innawak dagiti pinggan.
+I need to quit doing this.	Kasapulak nga isardeng daytoy.
+I think that you're wrong.	Panagkunak ket nagbiddutka.
+I try to keep my promises.	Ikarigatak a takderan dagiti karik.
+I want to be in your plan.	Kayatko ti makiraman iti planom.
+I watched TV this morning.	Nagbuyaak iti TV itay bigat.
+I'll never run away again.	Saanakon nga aglibas.
+I'm sure you're very busy.	Ammok a makumikomka unay.
+I've decided to marry Tom.	Inkeddengko nga ikallaysak ni Tom.
+It was just an experiment.	Maysa laeng nga eksperimento.
+My birthday is in October.	Kasangayko ket iti Oktubre.
+This cave is full of bats.	Napno iti panniki daytoy a gukayab.
+Tom doesn't know who I am.	Saan nga ammo ni Tom no asinoak.
+Tom is a spineless coward.	Awan durina a takrot ni Tom.
+Tom is always watching TV.	Kanayon nga agbuya iti TV ni Tom.
+Tom is always watching TV.	TV la ti ob-obraen ni Tom.
+Tom knows what this means.	Ammo ni Tom no ania ti kaipapanan daytoy.
+Tom left in early October.	Pimmanaw ni Tom idi nasapa nga Oktubre.
+Tomorrow is Christmas Day.	Kaaldawan ti Paskua no bigat.
+What are you trying to do?	Ania ti igaygay-atmo nga aramiden?
+What were you doing there?	Ania ti ar-aramidem idiay?
+What would you like to do?	Ania ti kayatmo nga aramiden?
+When will you take a bath?	Kaanoka nga agdigos?
+Where are the other girls?	Ayanda dagiti dadduma a babbai?
+Why did you do this to me?	Apay nga inaramidmo ti kastoy kaniak?
+You should see the doctor.	Masapul nga agpakitaka iti doktor.
+Brush your teeth every day.	Gisigisam dagiti ngipenmo iti inaldaw.
+Come back here, you coward.	Agsublika ditoy, sika a takrot.
+Do I look like a terrorist?	Aglanglangaak kadi a terorista?
+Don't worry. I'll help you.	Dika madanagan. Tulonganka.
+Don't you dare answer that.	DImo padpadasen a sungbatan dayta.
+Friends are very important.	Napateg la unay dagiti gagayyem.
+He believes in Santa Claus.	Mamati isuna iti Santa Claus.
+He has no room to study in.	Awan bukodna a siled a pagadalanna.
+He isn't able to buy a car.	Saanna a kabaelan ti gumatang iti kotse.
+I had chicken pox as a kid.	Nagtukoak idi ubingak.
+I need a bigger frying pan.	Masapulko ti dakdakkel a pariok.
+I need nine hours of sleep.	Masapulko ti siam nga oras a pannaturog.
+I need to go to the toilet.	Kasapulak ti mapan iti kasilias.
+I need to go to the toilet.	Mapanak umigid.
+I need to go to the toilet.	Innak tumakki.
+I paid 30 dollars for that.	Nagbayadak iti 30 a doliar para iti dayta.
+I really want a motorcycle.	Talaga a kayatko ti motorsiklo.
+I thought about the future.	Pinanunotko ti maipapan iti masakbayan.
+I told Tom he was a coward.	Imbagak ken ni Tom a takrot isuna.
+I told you he was a coward.	Kunakto met kenka a maysa a takrot isuna.
+I was in Boston in October.	Addaak idiay Boston idi Oktubre.
+I'm going to sell my house.	Ilakok ti balayko.
+Is the hotel far from here?	Adayo kadi ti otel manipud ditoy?
+Is the mouse dead or alive?	Natay kadi ti bao wenno nabiag pay?
+It won't be simple for you.	Saan a nalaka para kaniam.
+My sister married a doctor.	Nagasawa iti doktor ti kabsatko a babai.
+None of us knew what to do.	Awan kadatayo ti makaammo no ania ti maaramid.
+None of us saw Tom do that.	Awan kadatayo ti nakakita nga inaramid ni Tom dayta.
+Paris will always be Paris.	Ti Paris ket Paris-to latta.
+She asked me how old I was.	Dinamagna no manon ti tawenko.
+She lived there by herself.	Agnanaed sadiay nga is-isuna.
+Terrorists were everywhere.	Adda dagiti terorista iti uray sadino.
+The terrorists have failed.	Napaay dagiti terorista.
+These bananas are not ripe.	Saan pay a naluom dagitoy a saba.
+This is never going to end.	Saanen nga agpatingga daytoy.
+Tom didn't touch his lunch.	Saan a kinuti ni Tom ti pangngaldawna.
+Tom has a beautiful garden.	Adda napintas a hardin ni Tom.
+We both did the same thing.	Agpada ti inaramidta.
+We celebrated his birthday.	Rinambakanmi ti panagkasangayna.
+We need to call the police.	Masapul nga umawagtayo iti polis.
+What are you talking about?	Ania ti ibagbagam?
+What would you like to eat?	Ania ti kayatmo a kanen?
+When is it going to happen?	Kaano a mapasamak?
+Where should I put my bags?	Pangikkak kadi ngata kadagiti bagko?
+Who are those young ladies?	Asino dagiti a naubbing pay a babbai?
+Who have you helped lately?	Siasino dagit natulungamon itay nabiit?
+Who's calling at this hour?	Asino ti umaw-awag iti kastoy nga oras?
+Why do you need to do this?	Apay a masapul nga aramidem daytoy?
+You never tell me anything.	Awan a pulos imbagbagam kaniak.
+You've spilled your coffee.	Naibellengen dayta kapem.
+Are those people terrorists?	Terorista kadi dagidiay a tattao?
+Do you need help doing this?	Masapulmo kadi ti tulong a mangaramid iti daytoy?
+Does anybody recognize this?	Adda kadi makabigbig iti daytoy?
+Don't you read the tabloids?	Dimo kadi basbasaen dagiti tabloid?
+Have you reached a decision?	Nakaikeddengkayo kadin?
+Haven't we been here before?	Saan kadi nga immayta idin ditoy?
+He pretended to be a doctor.	Nagpammarang isuna a kas doktor.
+He will come this afternoon.	Umay isuna iti daytoy a malem.
+He's going to join our club.	Sumali isuna iti gunglotayo.
+I don't have an explanation.	Awan ti palawagko.
+I feel like drinking a beer.	Makain-inumak iti serbesa.
+I have to read this article.	Masapul a basaek daytoy nga artikulo.
+I think you should meet Tom.	Panagkunak ket masapul a makasangom ni Tom.
+I went to the zoo yesterday.	Napanak idiay zoo idi kalman.
+I'll be free all day Monday.	Siwayawayaak nga agmalmalem inton Lunes.
+I'll have to meet you there.	Nasken a makasinnarakka idiay.
+I've learned to accept that.	Nasursurokon nga awaten dayta.
+Is that really all there is?	Dayta la kadi ti amin nga adda?
+It is nice to see you again.	Maragsakanak a makakita manen kenka.
+It was a difficult decision.	Narikut a pangngeddeng daydiay.
+Let me know what you decide.	Ibagam kaniak no ania ti ikeddengyo.
+Most people think I'm crazy.	Kaaduan a tattao ket ipagarupda nga agballaak.
+My birthday is October 20th.	Kasangayko ti maika-20 ti Oktubre.
+My happiness depends on you.	Agpannuray kenka ti ragsakko.
+She is wearing a blue dress.	Nakaaruat isuna iti asul a bado.
+She left France for America.	Pimmanaw iti Francia ket napan idiay America.
+She painted the walls white.	Pinintaanna iti puraw dagiti diding.
+She was wearing a black hat.	Nakakallugong isuna iti nangisit.
+Should we wait for Tom here?	Urayentayo kadi ni Tom ditoy?
+Should we wait for Tom here?	Urayenta kadi ni Tom ditoy?
+Tell me all about your plan.	Ibagam kaniak ti maipapan iti planom.
+The dog is trying to escape.	Padpadasen ti aso ti aglibas.
+This isn't an easy decision.	Saan a nalaka daytoy a pangngeddeng.
+Tom got a 100% in chemistry.	Nakaala ni Tom iti 100% a grado iti chemistry.
+Tom is the man of my dreams.	Ni Tom ti lalaki kadagiti tagainepko.
+Tom was arrested in October.	Naaresto ni Tom idi Oktubre.
+Tom was killed by lightning.	Pinatay ti kimat ni Tom.
+Tom was killed by lightning.	Natay iti kimat ni Tom.
+We have an image to protect.	Adda dayaw a salsaluadanmi.
+We'll meet again in October.	Agsarakta manen no Oktubre.
+What are you thinking about?	Ania kadi ti pampanunotem?
+What are you worrying about?	Ania ti pakadanagam?
+What do you do after school?	Ania ti ar-aramidem kalpasan ti panageskuelam?
+What was the cause of death?	Ania kadi ti nakaigapuan ti ipapatayna?
+Why do we have to pay taxes?	Apay pay la ngamin nga agbayadtayo iti buis?
+Why don't you come visit us?	Apay a dinakami umay sarungkaran?
+Will you tell the truth now?	Ibagam kadin ti pudno ita?
+You made a fool of yourself.	Pinagbalinmo a langgong ti bagbagim.
+Are you proud of your father?	Ipagpampannakkelmo kadi ti tatangmo?
+Do you think we can help Tom?	Panagkunam mabalintayo a tulongan ni Tom?
+Do you understand everything?	Maawatam kadi ti amin?
+Have you ever been to Mexico?	Nakapanka kadin idiay Mexico?
+He did not have enough money.	Awan ti makaanay a kuartana.
+He is more lucky than clever.	Ad-adda a nagasat isuna ngem iti natuso.
+He plays the piano very well.	Nakalalaing nga agpiano isuna.
+He took a book off the shelf.	Nangala iti libro manipud iti estante.
+He turned up 30 minutes late.	Nagparang isuna kalpasan ti 30 a minutos.
+He turned up 30 minutes late.	Naladaw isuna iti 30 a minutos.
+Hey, what are you doing here?	Uy, ania ti ar-aramidem dioy?
+How many sisters do you have?	Mano ti kakabsatmo a babbai?
+How many times have you gone?	Mano a daras a pimmanawkan?
+I don't want to go to school.	Diak kayat ti mapan idiay eskuela.
+I shouldn't have lied to you.	Saanak koma a nagul-ulbod kenka.
+I want to go somewhere quiet.	Kayatko ti mapan iti maysa a lugar a naulimek.
+I watch television every day.	Inaldaw nga agbuyaak iti telebision.
+I'm still thinking about Tom.	Pampanunotek pay laeng ti maipapan ken ni Tom.
+I'm sure Tom got the message.	Siguradoak a naawat ni Tom ti mensahe.
+I'm sure Tom had his reasons.	Siguradoak nga adda dagiti rason ni Tom.
+I'm sure Tom misses you, too.	Siguradoak a kailiwnaka met ni Tom.
+I'm sure Tom will understand.	Siguradoak a maawatan ni Tom.
+I'm sure Tom would like that.	Siguradoak a kayat ni Tom dayta.
+I'm sure everyone understood.	Siguradoak a naawatan ti amin.
+I'm sure it's just temporary.	Siguradoak a temporario laeng.
+I'm sure that was the reason.	Siguradoak nga isu daydiay ti rason.
+I'm sure you understand that.	Siguradoak a maawatam dayta.
+I'm tired of waiting in line.	Nabannogakon nga agur-uray iti pila.
+I've never seen a live whale.	Haannak pay a nakaimatang iti sibibiag a balyena.
+It is fun to swim in the sea.	Naragsak ti aglangoy iti baybay.
+It's almost half past eleven.	Dandanin agalas onse media.
+It's already time to go home.	Orasen ti panagawid.
+Keep a copy of that document.	Mangidulinka iti kopia dayta a dokumento.
+Mary is beautiful, isn't she?	Napintas ni Mary, saan kadi?
+May I borrow your dictionary?	Bulodek man ti diksionariom?
+One language is never enough.	Saan nga umanay ti maymaysa a pagsasao.
+Our mother bought us a puppy.	Inggatangannakami ti nanangmi iti uken.
+She used to live in Tel Aviv.	Nagnaed idi isuna idiay Tel Aviv.
+That's how I got to know her.	Kasta ti napasamak no kasano a naam-ammok isuna.
+The enemy blew up the bridge.	Pinabettak dagiti kabusor ti rangtay.
+The price of the book was $5.	$5 ti presio ti libro.
+Tom didn't like our decision.	Saan a kayat ni Tom ti pangngeddengtayo.
+Tom died on October 20, 2013.	Pimmusay ni Tom idi Oktubre 20, 2013.
+Was Tom the one who did this?	Ni kadi Tom ti akin-aramid iti daytoy?
+Why don't you eat vegetables?	Apay a dika agsida iti natnateng?
+You're nothing but a student.	Maysaka laeng nga estudiante.
+Your plan is sure to succeed.	Sigurado nga agballigi ti planom.
+Your sons are quite handsome.	Natataer man dagiti babbarom.
+All of my friends like soccer.	Amin dagiti gagayyemko ket kayatda ti soccer.
+All that glitters is not gold.	Saan nga amin a nasilap ket balitok.
+Christmas is fast approaching.	Nadaras ti isusungad ti Paskua.
+Did you get what you went for?	Naalam kadi ti napanmo ginagara?
+Do you know where we're going?	Ammom kadi no sadino ti papanantayo?
+Don't you believe in miracles?	Dika kadi mamati kadagiti milagro?
+He came in through the window.	Simrek babaen ti tawa.
+He came to ask us to help him.	Immay isuna tapno agkiddaw a tulongantayo isuna.
+He didn't like to be punished.	Saanna a kayat ti madusa.
+How many siblings do you have?	Mano ti kakabsatmo?
+I don't want to fail my exams.	Diak kayat a maibbongak kadagiti eksamenko.
+I eat meat three times a week.	Agsidsidaak iti karne tallo a daras iti makalawas.
+I need to buy some rat poison.	Masapul a gumatangak iti pagsabidong iti bao.
+I will go to America tomorrow.	Mapanak idiay America no bigat.
+I will pick you up around six.	Dagasenkanto inton agalas sais.
+It's now time for you to rest.	Orasen ti panaginanam.
+Mary has beautiful brown eyes.	Addaan ni Mary iti napipintas a maris kape a matmata.
+Perhaps it will rain tomorrow.	Nalabit agtudo no bigat.
+She tore a hole in her blouse.	Inabutanna ti blusana.
+The car crashed into the wall.	Naidungpar ti kotse iti pader.
+The rice is already harvested.	Naapiten ti pagay.
+There's a hole in this bucket.	Adda abutna daytoy a timba.
+These scissors don't cut well.	Saan a makagetteng a nalaing daytoy a kartib.
+They're not going to catch us.	Saandata a matiliw.
+This tape recorder is not new.	Saaan a baro daytoy a tape recorder.
+Tom is scared to talk to Mary.	Mabuteng ni Tom a makisarita ken ni Mary.
+Tom showed us around the city.	Inlawlawnakami ni Tom iti siudad.
+We know very little about Tom.	Bassit ti ammomi maipapan kenni Tom.
+We should get out of here now.	Masapul a rummuartayo itan ditoy.
+We visited our father's grave.	Sinarungkaranmi ti tanem ti amami.
+What are you trying to decide?	Ania kadi ti padpadasem nga ikeddeng?
+What do you think caused this?	Panagkunam ania ti nakaigapuan daytoy?
+Would you like some more beer?	Kayatmo ti uminum iti serbesa?
+An ugly man knocked on my door.	Maysa a nalaad a lalaki ti nagkukkok iti ridawko.
+An ugly man knocked on my door.	Isang pangit na lalaki ang kumatok sa aking pinto.
+As for me, I have no objection.	No siak la a maysa, awan ti tubngarek.
+Disease and famine go together.	Agkadua ti saksakit ken panagbisin.
+Do you realize what time it is?	Dimo kad madlaw no ania ti orasen?
+Do you want to end up like Tom?	Kayatmo kadi ti maipada iti kas ken ni Tom?
+Everyone has their own opinion.	Tunggal maysa ket addaan iti bukodna nga opinion.
+Have I made the right decision?	Umno kadi ti pangngeddengko?
+Have you ever climbed Mt. Fuji?	Inulim kadin ti Bantay Fuji?
+He came to Japan two years ago.	Simmangpet iti Japon dua a tawenen ti napalabas.
+He caught them stealing apples.	Natiliwanna ida nga agtaktakaw iti mansanas.
+He is qualified to be a lawyer.	Maikari isuna a kas abogado.
+He is used to getting up early.	Naruam isunan nga agriing a nasapa.
+He lives in a world of fantasy.	Agbibiag isuna iti lubong ti fantasia.
+He was laughed at by everybody.	Katkatawaan isuna ti amin.
+How much did this bicycle cost?	Mano ti presiona daytoy a bisekleta?
+I can't believe we got invited.	Diak makapamati a naawiskami.
+I could feel the house shaking.	Mariknak ti panagarigenggen ti balay.
+I could read between the lines.	Makabasaak met iti nagbabaetan dagiti linia.
+I couldn't have prevented this.	Diak koma nalappedan daytoy.
+I couldn't survive without Tom.	Saanak a makalasat no awan ni Tom.
+I don't care how much it costs.	Awan bibiangko no mano ti presiona.
+I don't get up as early as Tom.	Saanak nga agririing a kas ken ni Tom.
+I don't like Christmas anymore.	Diak kayaten ti Paskua.
+I had an operation last summer.	Naoperaak idi napan a kalgaw.
+I had business to take care of.	Adda nasken nga aramidek a masapul nga asikasuek.
+I hate terrorist organizations.	Kagurak dagiti gunglo dagiti terorista.
+I have to reply to this letter.	Masapul a subalitak daytoy a surat.
+I helped Tom clean the kitchen.	Tinulongak ni Tom a mangdalus iti kosina.
+I know only one way to do this.	Maysa a wagas laeng ti ammok a pangaramid iti daytoy.
+I learned how to cook from Tom.	Nasursurok ken ni Tom ti panagluto.
+I think Tom enjoyed doing that.	Panagkunak ket naragsakan ni Tom a nangaramid iti dayta.
+I think that would really hurt.	Panagkunak ket mangpasakit a talaga dayta.
+I told Tom to stay in his room.	Imbagak ken ni Tom nga agtalinaed iti siledna.
+I won't tell anyone about this.	Diak ibagbaga iti asino man ti maipanggep iti daytoy.
+I'm going to call Tom tomorrow.	Awagak ni Tom inton bigat.
+I'm going to go there with Tom.	Mapanak idiay a kaduak ni Tom.
+I'm sad for everyone concerned.	Malidayanak para iti amin a maseknan.
+I'm sure that Tom can fix this.	Siguradoak a matarimaan ni Tom daytoy.
+I'm very, very, very concerned.	Maseknanak la un-unay.
+Is it true that Tom kissed you?	Agpayso kadi nga inagkannaka ni Tom?
+Is it true that you kissed Tom?	Agpayso kadi nga inagkam ni Tom?
+Is there a contradiction there?	Adda kadi kontradiksion idiay?
+It was Tom who found your keys.	Ni Tom ti nakabirok kadagiti tulbekmo.
+It wasn't me who told Tom that.	Saan a siak ti nangibaga iti dayta ken ni Tom.
+It's just that I don't like it.	Umayka ditoy!
+Just seeing it made me nervous.	Iti pannakakitak laengen ket agnerbiosakon.
+Keep on working while I'm away.	Agtrabahokayo latta kabayatan nga awanak.
+Let's try to change the system.	Padasentayo a balbaliwan ti sistema.
+Life has become very difficult.	Nagbalinen a narikut ti biag.
+Maybe Tom has changed his mind.	Nalabit nagbaliwen ti panunot ni Tom.
+Nobody has seen him ever since.	Awanen ti nakakita kenkuana sipud idi.
+Submit your homework on Monday.	Idatagyo ti obrayo iti balay inton Lunes.
+Three days later, Tom was dead.	Napalabas ti tallo nga aldaw, natay ni Tom.
+Tom came here today by bicycle.	Immay ni Tom ditoy ita babaen ti bisekleta.
+Tom has gone back to Australia.	Nagsublin ni Tom didiay Australia.
+Tom has really helped us a lot.	Adu ti naitulong ni Tom kadakami.
+Tom was hiding behind the door.	Aglemlemmeng ni Tom iti likudan ti ridaw.
+We need to find Tom right away.	Masapul a masarakantayo a daus ni Tom.
+We were just talking about Tom.	Pagpatpatanganmi la itay ti maipanggep ken ni Tom.
+What made you change your mind?	Ania ti namagbaliw iti panunotmo?
+Which terrorist group did this?	Ania a grupo dagiti terorista ti akin-aramid iti daytoy?
+Why are you visiting Australia?	Apay a bisitaem ti Australia?
+Will you be home for Christmas?	Agawidka kadi inton Paskua?
+You'll forget about me someday.	Malipatannakto met laeng iti maysa nga aldaw.
+All we want is to be left alone.	Ti laeng kakaisuna a kalikagummi ket panawandakami a dakdakami.
+Are you for or against his idea?	Sumarurongka kadi wenno supringem ti kapanunotanna?
+Can you help me find a good job?	Mabalin kadi a tulonganna nga agsapul iti napintas a trabaho?
+Could you call a doctor, please?	Pangngaasim ta mangayabka man iti doktor.
+Do you think you could be a cop?	Panagkunam kabaelam ti agbalin a maysa a polis?
+Do you want me to come with you?	Kayatmo kadi a sumurotak kenka?
+Do you want me to throw it away?	Kayatmo kadi nga ibellengkon?
+Don't worry. It's not important.	Dika madanagan. Saan nga importante.
+Don't you have a train to catch?	Awan kadi ti kamakamem a tren?
+Don't you like your job anymore?	Dimo kadi kayaten ti trabahom?
+Everybody has their own opinion.	Tunggal maysa ket addaan iti bukodna nga opinion.
+Few people attended the meeting.	Manmano a tao ti timmabuno iti miting.
+He failed, due to lack of money.	Napaay isuna gapu iti panagkurang iti kuarta.
+He is proud of being a musician.	Ipagpampannakkelna ti kinamusikerona.
+I don't know if I have the time.	Diak ammo no adda orasko.
+I have my own way of solving it.	Adda bukodko a wagas a mangsolbar iti daytoy.
+I have nothing to apologize for.	Awan ti rumbeng nga idawatak iti pammakawan.
+I shouldn't have left Tom alone.	Diak koma ngamin pinanawan ni Tom nga is-isuna.
+I thought that she was pregnant.	Impagarupko no masikog isuna.
+I warned you to leave Tom alone.	Binallaaganka a panawam ni Tom nga is-isuna.
+I watch television twice a week.	Mamindua iti makalawas nga agbuyaak iti telebision.
+I would never have guessed that.	Diak la ketdi koma napugtuan dayta.
+I'm afraid to be alone at night.	Mabutengak nga agmaymaysa iti rabii.
+I'm leaving for Canada tomorrow.	Mapanak idiay Canada no bigat.
+I've been alone for a long time.	Nabayagen nga agmaymaysaak.
+It was a controversial decision.	Kontrobersial daydiay a pangngeddeng.
+Just don't try to do this alone.	DImo laeng padpadasen nga aramiden daytoy a siksika.
+Just tell Tom to leave me alone.	Ibagam laeng ken ni Tom a panawannak a sisiak.
+Let me take your blood pressure.	Bay-am a rukodek ti presion ti daram.
+May I speak with you alone, Tom?	Mabalin kadi nga agpatangta a data laeng, Tom?
+Maybe you should leave me alone.	Siguro ket masapul a panawannak nga agmaymaysa.
+People live only about 70 years.	Agbiag ti tao iti agarup a 70 a tawen laeng.
+There is a church near my house.	Adda simbaan iti asideg ti balayko.
+Tom and Mary don't want us here.	Saan a kayat da Tom ken Mary nga addata ditoy.
+Tom has been alone far too long.	Nabayagen nga agmaymaysa ni Tom.
+Tom has returned from Australia.	Simmangpeten ni Tom manipud Australia.
+Tom hopes to see you in October.	Mangnamnama ni Tom a makitanaka inton Oktubre.
+Tom is a good basketball player.	Nalaing a basketbolista ni Tom.
+Tom is tired of waiting in line.	Nabannogen ni Tom nga agpilpila.
+Tom is unable to work this week.	Saan a kabalinan ni Tom ti agtrabaho ita a lawas.
+Tom left at four in the morning.	Pimmanaw ni Tom itay alas kuatro ti agsapa.
+Tom was hiding in the mountains.	Aglemlemmeng ni Tom iti kabambantayan.
+Tom was in a hurry this morning.	Agdardaras ni Tom itay agsapa.
+Tom will arrive on October 20th.	Sumangpet ni Tom inton maika-20 ti Oktubre.
+Unless it rains, I will go, too.	Malaksid no agtudo, mapanak met.
+What prevented you from working?	Ania ti nanglapped kenka nga agtrabaho?
+What's the purpose of your trip?	Ania ti panggep ti panagbiahem?
+You'll never guess what Tom did.	Saanmo a mapugtuan no ania ti inaramid ni Tom.
+You're not very hungry, are you?	Saanka a mabisin unay, saan kadi?
+Your problem is similar to mine.	Agpadata iti parikut.
+All we need is a little patience.	Ti kangrunaan a kasapulantayo ita ket sangkabassit nga anus.
+Are you planning on buying a car?	Panggepmo kadi ti gumatang iti kotse?
+Did Tom say why he wasn't coming?	Imbaga kadi ni Tom no apay a saan nga umay isuna?
+Did you see what Tom did to Mary?	Nakitam kadi no ania ti inaramid ni Tom ken ni Mary?
+Do you agree with Tom's decision?	Umanamongka kadi iti pangngeddeng ni Tom?
+Do you agree with their decision?	Umanamongka kadi iti pangngeddengda?
+Do you have a better explanation?	Adda kadi nasaysayaat a panangilawlawagmo?
+Do you have brothers and sisters?	Adda kadi kakabsatmo a lallaki ken babbai?
+Do you know something about this?	Adda kadi ammom maipanggep iti daytoy a banag?
+Do you know where Tom was hiding?	Ammom kadi no sadino ti paglemlemmengan ni Tom?
+Do you really hate Tom that much?	Kaguram kadi ni Tom iti kasta la unay?
+Do you think Tom would like this?	Panagkunam kayat ni Tom daytoy?
+Do you want another one of these?	Kayatmo kadi ti maysa pay a kas kadagitoy?
+Do you want to know who did this?	Kayatmo kadi a maammuan no asino ti nangaramid iti daytoy?
+Don't worry. It's only temporary.	Dika madanagan. Temporario laeng daytoy.
+Don't worry. It's perfectly safe.	Dika madanagan. Natalged dayta.
+Everyone seems to be busy but me.	Makumikom sa ti amin malaksid kaniak.
+Everything that Tom said is true.	Agpayso amin nga imbaga ni Tom.
+Have you ever heard such a story?	Nakangngegka kadin iti kasta nga istoria?
+He had a large family to support.	Dakkel ti familiana a suportaranna.
+He put the ring on Mary's finger.	Inyusokna ti singsing iti ramay ni Mary.
+I don't know if you remember Tom.	Diak ammo no malagipmo ni Tom.
+I love movies with happy endings.	Kayatak dagiti pelikula nga addaan ti naragsak nga panungpalan.
+I was born on October 10th, 1972.	Nayanakak idi maika-10 ti Oktubre 1972.
+I'm three years younger than you.	In-inaudiak iti tallo a tawen kenka.
+My birthday is October twentieth.	Kasangayko ti maika-20 ti Oktubre.
+My little brother is watching TV.	Agbuybuya iti TV ti adingko a lalaki.
+Registration starts October 20th.	Mangrugi ti panagrerehistro iti maika-20 ti Oktubre.
+The children were swimming naked.	Dagidiay ubbing ket aglalangoy nga lamulamo.
+There's milk in the refrigerator.	Adda gatas iti repriheradura.
+Tom explained everything to Mary.	Inlawlawag ni Tom ti amin ken ni Mary.
+Tom is one of my closest friends.	Maysa kadagiti kaaasitgan a gayyemko ni Tom.
+Tom realized that Mary was lying.	Napaneknekan ni Tom nga agul-ulbod ni Mary.
+Tom visited Mary on October 20th.	Sinarungkaran ni Tom ni Mary idi maika-20 ti Oktubre.
+We did not expect many to attend.	Dimi ninamnama nga adu ti dumar-ay.
+We're getting married in October.	Agkallaysakami inton Oktubre.
+What time do you leave your work?	Ania nga oras a malpasmo ti obram?
+Where did you hide my cigarettes?	Nangilemmengam kadagiti sigariliok?
+Which one of you is Tom's doctor?	Asino kadakayo ti doktor ni Tom?
+Why is life so full of suffering?	Apay kadi a ti biag ket napnuan iti panagsagaba?
+You're in better shape than I am.	Nasalsalun-atka ngem iti siak.
+Applications are due October 20th.	Agpatingga iti maika-20 ti Oktubre dagiti aplikasion.
+Blood circulates through the body.	Aglawlawlaw ti dara iti entero a bagi.
+Do you have any idea what this is?	Adda kadi ideam no ania daytoy?
+Do you know why she couldn't come?	Ammom kadi no apay a saan a makaumay isuna?
+Don't smoke while you are on duty.	Saanka nga agsigarilio no addaka iti trabahom.
+He came at three in the afternoon.	Immay isuna iti alas tres iti malem.
+I am supposed to meet him at four.	Kasinnarakko koma isuna iti alas kuatro.
+I don't have any time to watch TV.	Awan la panawenko nga agbuya iti TV.
+I saw him coming out of the hotel.	Nakitak isuna a rimmuar manipud iti otel.
+I was with friends all last night.	Nagpatpatnag a kaduak dagiti gagayyemko.
+I wish I had never gotten married.	No laeng koma saanak a naikasar.
+I'd like you to have a blood test.	Kayatko a maipaamiris ti daram.
+I'd rather stay home and watch TV.	Agtalinaedak laengen iti balay ket agbuyaak iti TV.
+I'll be free all Monday afternoon.	Siwayawayaak inton malem ti Lunes.
+I've been in Boston since October.	Addaak iti Boston idi pay Oktubre.
+Is there an easier way to do this?	Adda kadi nalaklaka a wagas a panangaramid iti daytoy?
+It has to be done a different way.	Masapul a maaramid iti sabali a wagas.
+Lost in thought, I missed my stop.	Iti kauneg ti panagpampanunotko, nalabsak ti pagsardengak.
+None of us actually saw it happen.	Awan kadatayo ti talaga a nakakita a napasamak.
+Painters such as Picasso are rare.	Manmano laeng dagiti pintor a kas ken ni Picasso.
+Please give me something to drink.	Pangngaasim ta ikkannak iti mabalin nga inumek.
+She has known him for a long time.	Nabayagen nga am-ammona isuna.
+The store might be closed already.	Amangan no nakaserra itan ti pagtagilakuan.
+Tom and I walk to school together.	Agkaduakami ken ni Tom a magmagna a sumrek iti eskuela.
+Tom didn't speak French very well.	Saan a makasao a nasayaat ni Tom iti French.
+We celebrate Christmas every year.	Rambakantayo ti Paskua iti tinawen.
+What time do you leave for school?	Ania nga oras a mapanka iti eskuela?
+You look so much like your mother.	Kaing-ingasmo la unay ti nanangmo.
+You may choose whichever you want.	Mabalinmo a pilien ti ania man a kayatmo.
+You must do your homework at once.	Nasken a leppasem a dagus ti asignaturam.
+Disneyland was established in 1955.	Nabangon ti Disneyland idi 1955.
+Do you know where Tom put the keys?	Ammom kadi no sadino ti nangipanan ni Tom kadagiti tulbek?
+Does Tom really want me to do this?	Talaga kadi a kayat ni Tom nga aramidek daytoy?
+He is not interested in art at all.	Awan a pulos panagayatna iti arte.
+He was weak from the loss of blood.	Agkakapsut isuna iti pannakaadas ti darana.
+I paid 300 dollars for this guitar.	Tallo gasut a doliar ti imbayadko iti daytoy a gitara.
+I was born in the month of October.	Nayanakak iti bulan ti Oktubre.
+I'd like to have my blood examined.	Kayatko a maamiris ti darak.
+I'm going to go out this afternoon.	Rummuarak ita a malem.
+It was hot, so I turned on the fan.	Nakabarbara, isu a pinaandarko ti bentilador.
+It's illegal to park your car here.	Maiparit nga iparadam ti kotsem ditoy.
+October is still three months away.	Tallo a bulan pay sa Oktubre.
+She was pleased to see the results.	Naragsakan isuna a nakakita kadagiti resulta.
+There were few people on the beach.	Bassit ti tao iti aplaya.
+There's only one possible decision.	Adda maymaysa laeng a mabalin a pangngeddeng.
+Tom didn't agree with our decision.	Saan nga immanamong ni Tom iti pangngeddengtayo.
+Tom didn't understand the question.	Saan a naawatan ni Tom ti saludsod.
+Was Tom the one who suggested this?	Ni kadi Tom ti nangisingasing iti daytoy?
+We captured some of the terrorists.	Nakemmegmi ti sumagmamano kadagiti terorista.
+What do you usually do on weekends?	Ania kadi ti masansan nga aramidenda no kasta a Sabado wenno Domingo?
+What would you like me to tell Tom?	Ania ti kayatmo nga ibagak ken ni Tom?
+Who are you to tell me what I need?	Asinoka koma a mangibaga kaniak no ania ti masapulko?
+Why are you telling me all of this?	Apay nga ibagbagam kaniak amin dagitoy?
+Why did you decide to learn French?	Apay nga inkeddengmo ti agsursuro iti French?
+Why did you tell Tom Mary was ugly?	Apay nga imbagam ken ni Tom a nalaad ni Mary?
+Why didn't you just tell the truth?	Apay a dimo latta koman imbaga ti agpayso?
+Would you please sign our petition?	DI la mabalin a pirmaam ti petisionmi?
+You didn't tell me Tom was so rich.	Dimo imbagbaga kaniak a nakabakbaknang gayam ni Tom.
+You may do whatever you want to do.	Mabalinmo nga aramiden ti ania man a kayatmo nga aramiden.
+You must clean your room every day.	Masapul a dalusam ti siledmo iti inaldaw.
+You should not keep people waiting.	Saan a maiparbeng a pagur-urayem dagiti tao.
+You wouldn't recognize Tom anymore.	Saanmon a malasin pay ni Tom.
+A lot has changed since I was a kid.	Adun ti nagbaliw sipud pay idi maysaak nga ubing.
+A lot of people are waiting for Tom.	Adu a tattao ti agur-uray ken ni Tom.
+Are you coming to the party tonight?	Umayka kadi iti pasken inton rabii?
+Ask Tom if he'll attend the meeting.	Saludsodem ken ni Tom no dumar-ay isuna iti miting.
+Can you get Tom to come to my party?	Mabalin kadi a sukonem ni Tom tapno umay iti panagpaskenko?
+Could you please wipe off the table?	DI la mabalin a punasam daydiay lamisaan?
+Didn't you say Tom was an architect?	Saan kadi nga imbagam a maysa nga arkitekto ni Tom?
+Do you know which suitcase is Tom's?	Ammom kadi no ania kadagitoy ti maleta ni Tom?
+Do you think they'll be back for me?	Panagkunam, agsublida ngata gapu kaniak?
+Does anyone know why Tom isn't here?	Adda kadi makaammo no apay nga awan ni Tom ditoy?
+Don't let Tom take advantage of you.	Dimo itulok a gundawayannaka ni Tom.
+Has that been scientifically proven?	Napaneknekan kadin a sientipikal?
+He died when he was scarcely thirty.	Tallopulona laeng idi matay.
+He encountered unexpected obstacles.	Nakasagang kadagiti saan a ninamnama a lapped.
+He was in the army for thirty years.	Nagpaay isuna iti armada iti uneg ti tallopulo a tawtawen.
+He was sitting between Mary and Tom.	Nakatugaw isuna iti nagbaetan da Mary ken Tom.
+How long may I borrow this notebook?	Kasano kabayag a mabalin a bulodek daytoy a kuaderno?
+I had my fingers caught in the door.	Naipit dagiti ramayko iti ridaw.
+I have a feeling you'll get the job.	Panagriknak ket maalam ti trabaho.
+I know Tom doesn't want to be there.	Ammok a saan a kayat ni Tom nga adda isuna ditoy.
+I really wish I knew how to do that.	Arapaapko la unay a masursurok no kasano nga aramiden dayta.
+I think we have a lot to talk about.	Panagkunak ket adu ti nasken a pagsaritaanta.
+I think you know what we have to do.	Panagkunak ket ammomon no ania ti rumbeng nga aramidenta.
+I went to the coffee shop yesterday.	Napanak sadiay pagkapean idi kalman.
+I'll begin doing the job right away.	Rugiakon a dagus ti trabaho.
+I'm actually coming home in October.	Kinapudnona ket agawidak inton Oktubre.
+I'm going there. No one can stop me.	Mapanak idiay. Awan ti makalapped kaniak.
+Mary is expecting a baby in October.	Padpadaanan ni Mary ti panagpasngayna inton Oktubre.
+Nobody knows it's my birthday today.	Awan makaammo a kasangayko ita.
+Please go away and stop annoying me.	Pangngaasim ta adaywannak ket sardengannak a kuriruen.
+The band sounds different this time.	Sabali ti panagtugtog ti banda ita a gundaway.
+This song reminds me of my hometown.	Malagipko ti nakayanakak nga ili iti daytoy a kanta.
+Tom died in October three years ago.	Pimmusay ni Tom iti Oktubre tallo a tawenen ti napalabas.
+Tom has other things to worry about.	Adda pay sabsabali a bambanag a pakasikoran ni Tom.
+Tom has to give Mary another chance.	Ikkan koma ni Tom ni Mary iti sabali a gundaway.
+Tom is going to eat with us tonight.	Makipangrabii ni Tom ita kadatayo.
+Tom is richer than anyone else here.	Nabakbaknang ni Tom ngem iti uray asino man ditoy.
+Tom is the tallest guy in his class.	Ni Tom ti katayagan a lalaki iti klasena.
+Tom is way too old to be doing this.	Lakay unayen ni Tom tapno aramidenna daytoy.
+Tom was Mary's first real boyfriend.	Ni Tom ti kaunaan a napaypayso a nobio ni Mary.
+Tom was captured almost immediately.	Agarup natiliw met la a dagus ni Tom.
+Tom wrote that song three years ago.	Insurat ni Tom dayta a kanta tallo a tawenen ti napalabas.
+We have a lot of things to consider.	Adu dagiti bambanag a masapul nga ikonsideratayo.
+We might not need to sell our house.	Mabalin a saanen a kasapulan nga ilakotayo ti balaytayo.
+We never lock our doors around here.	Saanmi nga ibalbalunet dagiti ridawmi ditoy.
+When I grow up, I want to be a king.	Inton dumakkelak, kayatko ti agbalin nga ari.
+When did you have your wall painted?	Kaano a pinapintaam ti didingmo?
+Who would you recommend for the job?	Asino kadi ti maisingasingmo para iti trabaho?
+Why did you live in Kyoto last year?	Apay a nagnaedka idiay Kyoto idi napalabas a tawen?
+Will you call me when you get there?	Awagannakto kadi no makadanonkan idiay?
+You always try to get what you want.	Kanayonmo nga ikagumaanan a maala no ania ti kayatmo.
+You don't have to tell me your name.	Saan a nasken nga ibagam kaniak ti naganmo.
+You need to be home before midnight.	Masapul nga addaka iti balay sakbay ti tengnga ti rabii.
+You promised me that you would help.	Inkarim kaniak a tumulongka.
+Are you sure this is where Tom lives?	Siguradoka kadi a ditoy ti pagnanaedan ni Tom?
+Do you think you could take me there?	Panagkunam mabalinnak nga ipan sadiay?
+He had three sons who became lawyers.	Tallo a putotna a lallaki ti nagbalin nga abogado.
+He has a large family to provide for.	Dakkel ti familiana a pakanenna.
+How long has Tom been a student here?	Kasano kabayagen nga estudiante ni Tom ditoy?
+I don't know anything about your job.	Awan a pulos ti ammok maipapan iti trabahom.
+I returned to Boston on October 20th.	Nagsubliak iti Boston idi maika-20 ti Oktubre.
+I wonder why everybody left so early.	Masdaawak no apay a nakasapsapa a pimmanaw ti amin.
+I'm sorry, but I can't hear you well.	Dispensarem, ngem dika mangngeg a nalaing.
+I'm too scared to go there by myself.	Mabutengak unay a mapanak sadiay a sisiak.
+I'm used to staying up late at night.	Nairuamak nga agpuypuyat iti rabii.
+If possible, I'd like to go home now.	No mabalin, kayatko ti agawid itan.
+My best friend really understands me.	Maawatannak a talaga ti kagayyemak unay.
+Picasso painted this picture in 1950.	Impinta ni Picasso daytoy a ladawan idi 1950.
+The magazine is issued twice a month.	Mamindua iti tunggal bulan a mairuruar ti magasin.
+The terrorists released the hostages.	Winayawayaan dagiti terorista dagiti hostage.
+They incited him to commit the crime.	Sinugsoganda isuna a mangaramid iti krimen.
+Tom and Mary became lifelong friends.	Da Tom ken Mary ket nagsinninged iti tungpal biag.
+Tom and Mary were married in October.	Nagkallaysa da Tom ken Mary iti Oktubre.
+Tom is three years younger than Mary.	Naub-ubing iti tallo a tawen ni Tom ngem ni Mary.
+We might not need to sign a contract.	Mabalin a saanen a masapul nga agpirmatayo iti maysa a kasuratan.
+We'll continue this discussion later.	Ituloytayonto daytoy a patangan inton madamdama.
+We've got to do something about that.	Nasken nga adda maaramidtayo a pamuspusan maipapan iti dayta.
+What do you think of the new teacher?	Ania ti makunam maipapan iti kabarbaro a mannursuro?
+What time will you have to go to bed?	Ania nga oras a mapanka maturog?
+Do you know how long you've been here?	Ammom kadi no kasanon kabayag nga addaka ditoy?
+Don't be afraid of speaking in public.	Dika agamak nga agsao iti publiko.
+He doesn't do stupid things like that.	Saanna nga aramiden dagiti linalanggong a bambanag a kakasta.
+How many hours have you been studying?	Mano nga oras a nagbasaka kadagiti leksionmo?
+I don't want to know what his name is.	Diak kayat a maammuan no ania ti naganna.
+I was disappointed with those results.	Naupayak kadagidiay a resulta.
+I will be fourteen years old tomorrow.	Katorsekon no bigat.
+Please teach me how to play this game.	Pangngaasim ta isurom kaniak no kasano nga ay-ayamen daytoy nga ay-ayam.
+The death penalty should be abolished.	Rebbengna a maikkat ti dusa a patay.
+The exhibit runs through October 20th.	Maisayangkat ti eksibit agingga iti maika-20 ti Oktubre.
+Tom is sitting on the sofa by himself.	Nakatugaw nga agmaymaysa ni Tom didiay sofa.
+Tom will be furious when he finds out.	Makapungtot la ketdi ni Tom no maammuanna.
+We returned to Boston on October 20th.	Nagsublikami iti Boston idi maika-20 ti Oktubre.
+Does anybody here know where Tom lives?	Adda kadi makaammo kadakayo ditoy no sadino ti pagnanaedan ni Tom?
+Don't you get it? This isn't about you.	Dimo kadi maawatan? Saan a maipanggep kenka daytoy.
+Don't you just hate this kind of movie?	Dimo kadi kagura ti kastoy a klase ti sine?
+He killed himself at the age of thirty.	Pinapatayna ti bagina iti edadna a tallopulo.
+He wanted to be respected by everybody.	Kayatna a respetuen isuna ti amin.
+He would be very glad to hear the news.	Maragsakan la ketdi isuna a makangngeg iti damag.
+I have neither time nor money for that.	Awan oras wenno kuartak a para iti dayta.
+I really need to talk to you privately.	Kasapulan unay a makisaritaak kenka a duduata laeng.
+I returned from Boston on October 20th.	Nagsubliak manipud Boston idi maika-20 ti Oktubre.
+It was a fine day, so we went swimming.	Nasayaat nga aldaw, isu a napankami naglalangoy.
+Japan relies on Arab countries for oil.	Agpampanuray ti Japon iti lana kadagiti Arabo a pagilian.
+Our teacher gives us a lot of homework.	Inikkannakami ti mannursuromi iti adu nga aramiden iti pagtaengan.
+That was why he entered the university.	Kasta no apay a simrek isuna iti unibersidad.
+That's not happening till October 20th.	Saan a mapasamak dayta agingga iti maika-20 ti Oktubre.
+The children were swimming in the nude.	Silalabus dagiti ubbing nga aglalangoy.
+Tom certainly knows why Mary left town.	Ammo la ketdi ni Tom no apay a pimmanaw ni Mary iti ili.
+Tom didn't understand a word Mary said.	Saan a naawatan ni Tom ti balikas nga imbaga ni Mary.
+What do you think of the original plan?	Ania ti makunam iti orihinal a plano?
+Come here. I want to show you something.	Umayka ditoy. Adda ipakitak kenka.
+Could you please tell me how to do this?	Di la mabalin nga ibagam no kasano nga aramiden daytoy?
+Do you have any idea why Tom isn't here?	Adda kadi pamalpalatpatam no apay nga awan ni Tom ditoy?
+Do you think we made the wrong decision?	Panagkunam kadi ket biddut ti pangngeddengtayo?
+Don't you just hate the way Tom behaves?	Dimo kadi, aya, kagura ti ug-ugalien ni Tom?
+Finding a good place to live isn't easy.	Ti panagbirok ti nasayaat nga lugar nga paggianan ket haan nga nalaka.
+He ordered them to release the prisoner.	Imbilinna kadakuada nga ibulosda ti balud.
+How many schools are there in your city?	Mano dagiti eskuela nga adda iti siudadyo?
+I can read German, but I can't speak it.	Makabasaak iti Gewrman, ngem diak makapagsao.
+I couldn't get another copy of the book.	Awanen ti maalak a sabali a kopia ti libro.
+I don't feel that way about you anymore.	Saankon a marikna ti kas idi kenka.
+I don't have as much money as you think.	Awan ti kas kaadu ti kuartak a kas iti pampanunotem.
+I lost the watch that my father gave me.	Napukawko ti relo nga inted ni tatangko.
+I need your passport and three pictures.	Masapulko ti pasaportem ken tallo a ladawam.
+I want to become a doctor in the future.	Kayatko ti agbalin a doktor iti masakbayan.
+None of us did what Tom wanted us to do.	Awan kadatayo ti nangaramid iti kayat ni Tom nga aramidentayo.
+Sputnik was launched on October 4, 1957.	Naipatayab ti Sputnik idi Oktubre 4, 1957.
+The public was notified on October 20th.	Napakaammuan ti publiko idi maika-20 ti Oktubre.
+They were all surprised to see me there.	Nasdaawda amin a nakakita kaniak idiay.
+Tom didn't think that would ever happen.	Saan nga ipagarup ni Tom a mabalin a mapasamak dayta.
+Tom is saving money so he can go abroad.	Agur-urnong ni Tom iti kuarta tapno makapan iti sabali a pagilian.
+Tom promised me that he would come back.	Inkari ni Tom kaniak nga agsubli isuna.
+What's your favorite television program?	Ania ti paboritom a programa iti telebision?
+"Where's your cousin?" "She's just left."	"Sadino ti ayanna ti kasinsinmo?" "Kapampanawna laeng."
+Absence of rain caused the plants to die.	Ti kaawan ti tudo ti makaigapu iti pannakatay dagiti mula.
+As for me, I have nothing to complain of.	No siak la a maysa, awan ti reklamok.
+Do you know what Tom's favorite color is?	Ammom kadi no ania ti paborito ni Tom a maris?
+He called his mother up from the airport.	Inawaganna ti nanangna manipud iti eropuerto.
+How long have you and Tom been roommates?	Kasano kabayagen nga agkakuartuankayo ken ni Tom?
+How would you feel if your wife left you?	Ania ti mariknam no pinanawannaka ti baketmo?
+I had no difficulty in finding his house.	Saanak a narigatan a nangsapul iti balayna.
+I will tell it to him at the proper time.	Ibagakto kenkuana iti maitutop a panawen.
+Run fast, or you will be late for school.	Partakam ti agtaray, maladawkan iti eskuela.
+The doctors are still trying to save Tom.	Padpadasen pay laeng dagiti doktor nga alawen ni Tom.
+The pyramids were built in ancient times.	Naaramid dagiti piramide kadagiti duog a panawen.
+The rest of us all had the smoked salmon.	Ti dadduma kadatayo amin ket bagitayo ti sinuoban a salmon.
+They showed me a lot of beautiful photos.	Pinakitaandak iti adu a nagpipintas a retrato.
+Tom didn't think you would like the idea.	Saan nga ipagarup ni Tom a magustuam ti idea.
+Tom knew why Mary wanted to quit her job.	Ammo ni Tom no apay a kayat ni Mary ti agikkat iti trabaho daytoy.
+Tom might go to Boston to look for a job.	Amangan no mapan idiay Boston ni Tom nga agbirok iti trabaho.
+Tom, Mary and John have all been invited.	Naawis amin da Tom, Mary ken John.
+We must stop Tom before he kills himself.	Masapul a lapdantayo ni Tom sakbay a mapatayna ti bagbagina.
+When the cat is away, the mice will play.	No awan ti pusa, agay-ayam dagiti bao.
+Who's the boy that's swimming over there?	Asino daydiay ubing a lalaki nga aglanglangoy idiay?
+Call your mom and tell her you'll be late.	Awagam ni inam ken ibagam nga maladawka.
+I don't think there's much to worry about.	Panagkunak ket awan met ti pakadanagan unay.
+I have already finished reading this book.	Nalpaskon a nabasa daytoy a libro.
+I took shelter under my friend's umbrella.	Nakilinongak iti payong ti gayyemko.
+I wish our classroom were air-conditioned.	De-aircon koma ti siled-pagadalanmi.
+I've got accustomed to speaking in public.	Nairuamakon nga agsao iti publiko.
+Tom looked so different after his haircut.	Sabalin unayen ti langa ni Tom kalpasan a makapagpapukis.
+Tom plans to stay in Boston until October.	Panggep ni Tom ti agtalinaed iti Boston agingga iti Oktubre.
+We need to save up money to buy a new car.	Masapul nga agurnongtayo iti kuarta tapno makagatangtayo iti baro a kotse.
+What would you do if you were in my place?	Ania ti aramidem no sika ti adda iti lugarko?
+His main object in life was to become rich.	Ti kangrunaan a panggepna iti biag ket ti agbalin a baknang.
+How long have you and Tom been living here?	Kasano kabayagnan nga agnanaedkayo ken ni Tom ditoy?
+I am interested in studying German culture.	Interesadoak a mangadal iti kultura nga Aleman.
+I was taken to a circus for the first time.	Intugotdak iti circus iti umuna a gundaway.
+I've been saving up to buy a new saxophone.	Agur-urnongak tapno adda igatangko iti baro a saxophone.
+It was raining and the game was called off.	Agtudtudo isu a naisardeng ti ay-ayam.
+She prides herself on her skill in cooking.	Ipagpampannakkelna ti kinalaingna nga agluto.
+The journalist was kidnapped by terrorists.	Kinidnap dagiti terorista ti agiwarwarnak.
+Tom and Mary are the only ones still alive.	Da laengen Tom ken Mary ti adda a sibibiag pay.
+Tom begged Mary to give him another chance.	Nagpakaasi ni Tom ken ni Mary nga ikkanna iti sabali pay a gundaway.
+Tom closed his eyes and thought about Mary.	Nagkidem ni Tom ket pinanunotna ni MAry.
+Tom got his first car when he was eighteen.	Naaddaan ni Tom iti kotse idi agtawen iti sangapulo-ket-walo.
+Tom is the only person who can help me now.	Ni Tom laeng ti kakaisuna a tao a makatulong ita kaniak.
+Tom makes lots of promises he doesn't keep.	Adu ti ikarkari ni Tom a dina met tungtungpalen.
+Tom saved all of the letters Mary sent him.	Inurnong ni Tom amin a surat nga impatulod ni Mary kenkuana.
+We caught him trying to go out of his room.	Natiliwanmi isuna nga agpanggep a rummuar iti siledna.
+Your plan requires a large amount of money.	Agkasapulan ti planom iti dakkel a gatad ti kuarta.
+At the foot of the hill is a beautiful lake.	Adda napintas a dan-aw iti sakaanan ti turod.
+Congress approved the resolution in October.	Inanamongan ti kongreso ti resolusion idi Oktubre.
+Do you think these letters are worth saving?	Panagkunam adda kadi serbina nga idulinko dagitoy a surat?
+Even the hard-hearted can be moved to tears.	Uray ti katatangkenan ti pusona ket aglua met.
+He crossed the Pacific Ocean in thirty days.	Binallasiwna ti Taaw Pacifico iti uneg ti tallopulo nga al-aldaw.
+I have abandoned the idea of buying a house.	Linipatkon ti panggepko a gumatang iti balay.
+I know why you're planning to quit your job.	Diak ammo a panggepmo ti agikkat iti trabahom.
+I really need to take care of some business.	Kasapulan unay nga asikasuek ti sumagmamano a negosio.
+I really need to talk to Tom sometime today.	Kasapulan unay a makasaritak ni Tom iti uray ania nga oras ita nga aldaw.
+I waited for my husband till after midnight.	Inur-urayko ti lakayko agingga iti limbes ti tengnga ti rabii.
+Tom is saving money for a trip to Australia.	Agur-urnong ni Tom iti kuarta para iti biahena idiay Australia.
+We need to stop Tom before he hurts himself.	Masapul a lapdantayo ni Tom sakbay a saktanna ti bagbagina.
+What time are you going to leave for London?	Ania nga oras a mapanka idiay London?
+Why would anybody live in a place like this?	Apay nga agnanaed ti maysa a tao iti maysa a lugar a kastoy?
+Did you know that Tom was a friend of Mary's?	Ammom kadi a ni Tom ket gayyem ni Mary?
+Don't you ever get tired of listening to Tom?	Dika kadi mabannog a mangim-imdeng ken ni Tom?
+He didn't start to paint until he was thirty.	Sa la nangrugi nga agpinta idi tallopulona.
+I thought I was never going to see Tom again.	Kunak no saankon a pulos a makita pay ni Tom.
+My mother bought two bottles of orange juice.	Gimmatang ni nanangko iti dua a botelia a tubbog ti kahel.
+The last time I saw him, he was very healthy.	Iti naudi a pannakakitak kenkuana, nakasalsalun-at pay la isuna.
+The old man walked across the road carefully.	Siaannad a bimmalasiw ti lakay iti kalsada.
+Tom didn't think the rain would last so long.	Saan nga ipagarup ni Tom nga agbayag iti kasta unay ti tudo.
+Tom is scheduled to come to Boston next week.	Nakaiskediul nga umay ni Tom iti Boston inton umay a lawas.
+Would the last one out please close the door?	Di la mabalin a ti maudi ket irikepna ti ridaw?
+Do you think Tom would be able to repair this?	Panagkunak kabaelan ni Tom a tarimaanen daytoy?
+He asked me when I was going to buy a new car.	Sinaludsodna kaniak no kaano a gumatangak iti baro a kotse.
+I parked on the street in front of your house.	Nagparkingak iti kalsada iti sanguanan ti balayyo.
+I prefer reading books to watching television.	Kaykayatko ti agbasa kadagiti libro ngem iti agbuya iti telebision.
+Imagination affects every aspect of our lives.	Apektaran ti imahinasion ti tunggal aspekto ti biagtayo.
+Let's talk about what to do with the stranger.	Pagsasaritaantayo no ania ti aramidentayo iti ganggannaet a tao.
+Most people only want to hear their own truth.	Kaaduanna a tao ket kayatda laeng a mangngegan ti bukodda a kinapudno.
+Only then did he realize he had been deceived.	Idi laeng a naamirisna a naallilaw isuna.
+Don't be shy about speaking in front of people.	Dika agbabain nga agsao iti sanguanan ti tattao.
+Don't you even want to know what Tom gave Mary?	Dimo la kadi, aya, kayat a maammuan no ania ti inted ni Tom ken ni Mary?
+He lives in a posh apartment near Central Park.	Agnanaed isuna iti nangina a pagtaengan iti asideg ti Central Park.
+I'm sorry, I didn't mean to hurt your feelings.	Dispensarem, diak inggagara a saktan ti riknam.
+The rain didn't stop them from doing their job.	Saan a napasardeng ti tudo ti panangiwayatda kadagiti obrada.
+Tom didn't trust Mary and she didn't trust him.	Saan nga agtalek ni Tom ken ni Mary ket saan met nga agtalek ni Mary ken ni Tom.
+You shouldn't judge a person by his appearance.	Saanmo a rebbeng a kedgnan ti maysa a tao babaen ti kalalangana.
+Are you the only one who has a key to this door?	Sika kadi laeng ti addaan iti tulbek iti daytoy a ridaw?
+Did Tom ever tell you where he hid the diamonds?	Imbaga kadi kenka ni Tom no nangilemmenganna kadagiti diamante?
+Do you feel pain in any other part of your body?	Makariknaka kadi iti sakit iti ania man a paset ti bagim?
+Don't you realize everything Tom said was a lie?	Dimo kadi maamiris nga am-amin nga imbaga ni Tom ket bin-ig a kinaulbod?
+He regretted having borrowed that book from her.	Agbabbabawi a nangbulod iti daydiay a libro manipud kenkuana.
+I have been to the airport to see my father off.	Napanak iti eropuerto ta kinitak ti tatangko nga agbiahe.
+I'm surprised you and Tom don't like each other.	Masdaawak a sika ken ni Tom ket saan nga agkasunguan.
+No country on earth is safe in this nuclear age.	Awan ti pagilian iti lubong a natalged iti daytoy a panawen a nuklear.
+We have little money available for the research.	Bassit ti adda a kuartatayo a para iti panagsukisok.
+He satisfied his hunger with a sandwich and milk.	Inep-epna ti bisinna babaen ti tinapay ken gatas.
+I would like to place an order for the following.	Kayatko ti agorder kadagiti sumaganad.
+None of us had any idea what was going to happen.	Awan kadatayo ti addaan iti idea no ania ti mapasamak.
+Tom didn't think that anyone would recognize him.	Saan nga ipagarup ni Tom a mabigbig isuna ti asino man.
+Tom didn't trust Mary as much as she trusted him.	Saan a pagtalkan ni Tom ni Mary a kas iti panagtalek daytoy kenkuana.
+Tom has finally paid back all his gambling debts.	Nabayadan met la aminen ni Tom dagiti utangna iti sugal.
+Tom is saving up money so he can go to Australia.	Agur-urnong ni Tom iti kuarta tapno makapan isuna idiay Australia.
+Unless it rains, the game will be held on Sunday.	Malaksid no agtudo, maangay ti paay-ayam inton Domingo.
+We must be careful that this never happens again.	Masapul nga annadantayo a saanen a pulos a mapasamak manen ti kastoy.
+We need some more information about that product.	Masapulmi ti ad-adu pay nga impormasion maipapan iti dayta a produkto.
+We sometimes judge others based on their actions.	No maminsan, kedngantayo ti dadduma maibatay kadagiti tignayda.
+We've decided to move the meeting to next Sunday.	Inkeddengmi a yalud-od ti miting iti sumaruno a Domingo.
+Does everyone think it was me who stole the money?	Atapen kadi ti amin a siak ti nangtakaw iti kuarta?
+He spoke slowly enough for everyone to understand.	Inin-inayadna ti nagsao tapno maawatan ti amin a dumdumngeg.
+I'm anxious to know the results of the blood test.	Madandanaganak a makaammo iti resulta ti blood test.
+It is true that she is pretty, but she is selfish.	Agpayso a napintas isuna, ngem bagbagina la ti napateg kenkuana.
+They were accused of supplying arms to terrorists.	Napabasolda a nagisuplay iti armas kadagiti terorista.
+We need more than ten cases of beer for our party.	Masapulayo ti nasursurok ngem sangapulo a kahon ti serbesa para iti paskentayo.
+Your plan is a good one, but mine is a better one.	Nasayaat ti planom, ngem nasaysayaat ti planok.
+Are you sure there isn't any easier way to do this?	Siguradoka kadi nga awan ti nalaklaka a wagas a panangaramid iti daytoy?
+Did Tom ever tell you what he wanted for Christmas?	Imbaga met la kadi kenka ni Tom no ania ti kayatna a Pamaskua?
+He became the company president when he was thirty.	Nagbalin isuna a presidente ti kompania idi tallopulona.
+I don't understand why she doesn't love me anymore.	Diak maawatan no apay a saannakon nga ay-ayaten pay.
+I really need to go outside and get some fresh air.	Kasapulan la unay a rummuarak ket lumang-abak iti sadiwa nga angin.
+It may rain tomorrow, but we are going in any case.	Adda labitna nga agtudo no bigat, ngem mapankami latta.
+With a little more effort, he would have succeeded.	Bassit laengen a panangigannuat, nagballigi koman.
+Does it bother you that I'm much older than you are?	Pakasikoram kadi no adayo a natataengak ngem iti sika?
+He is a gentleman. He cannot have said such a thing.	Natakneng isuna a lalaki. Saanna la ketdi a maibaga ti kasta a banag.
+He retired from the company after 30 years' service.	Nagretiro isuna iti kompania kalpasan ti tallopulo a tawen a serbisiona.
+I'm not saying this to hurt you, but it's the truth.	Haanko nga ibagbaga daytos tapno pasaktanka, ngem daytoy ti pudno.
+To be successful, you have to establish a good plan.	Tapno agballigika, masapul a makaigannuatka iti napintas a plano.
+Have any of you ever seen something like this before?	Adda kadi kadakayo ti nakakita idin iti kasla kastoy?
+He did not decide to be a writer until he was thirty.	Sana la inkeddeng ti agbalin a mannurat idi tallopulona.
+They tortured the prisoner first and then killed him.	Pinarparigatda nga umuna ti balud sada pinapatay daytoy.
+Why would somebody want to live in a place like this?	Apay a kayat ti maysa a tao ti agnaed iti kastoy a lugar?
+As soon as Tom walked out the door, Mary began to cry.	Apaman a nakaruar ni Tom iti ruangan, nagsangiten ni Maria.
+I can't conceive how I could have made such a mistake.	Diak a masinunuo no kasano a naaramidak ti kasdiay a biddut.
+I'm afraid I cannot make myself understood in English.	Madanaganak ta amangan no dida maawatan ti panaginglesko.
+Please let us know if we can be of help in other ways.	Ipakaammoyo laeng kadakami no adda maitulongmi iti sabsabali pay a wagas.
+With a little more patience, you would have succeeded.	Bassit la koman nga anus, nagballigika koman.
+A foreign language cannot be learned in only two weeks.	Saan a masursuro iti dua a lawas laeng ti maysa a ganggannaet a pagsasao.
+All horses are animals, but not all animals are horses.	Amin a kabalio ket ayup, ngem saan nga amin nga ayup ket kabalio.
+I estimate that we'll need two days to finish the work.	Karkuluek a kasapulantayo ti dua nga aldaw a mangileppas iti trabaho.
+I know you're busy, but can I talk to you for a minute?	Ammok a makumikomka, ngem mabalin kadi a makisaritaak kenka iti apagbiit?
+I'm surprised you decided not to accept that job offer.	Masdaawak nga inkeddengmo a dimo awaten dayta a naidiaya a trabaho.
+Once upon a time, there was an old man in this village.	Idi un-unana a panawen, adda maysa a lakay iti daytoy nga away.
+How many kinds of vegetables do you grow in your garden?	Mano a klase ti natnateng ti imulmulam iti hardinmo?
+I really need to catch the first train tomorrow morning.	Kasapulan unay a makamakamko ti umuna a tren iti agsapa no bigat.
+Tom gave Mary the money she needed to pay off her debts.	Inted ni Tom ken ni Mary ti masapulna a kuarta a pagbayadna kadagiti utangna.
+Tom seems to take it for granted that he'll get the job.	Kasla iyaleng-aleng laeng ni Tom a maawat iti daydiay a trabaho.
+I think we'll all feel better once we get a little sleep.	Panagkunak ket mabang-arantayo no makaturogtayo iti uray sangkabassit laeng.
+She became scared when she noticed the man following her.	Nagbuteng isuna idi madlawna nga adda tao a mangsursurot kenkuana.
+Tom didn't understand exactly what Mary wanted him to do.	Saan a naawatan a nalaing ni Tom no ania ti kayat nga ipaaramid ni Mary kenkuana.
+Don't you ever feel like you don't know what you're doing?	Dimo kadi pay, aya, narikna a kasla dimo ammo ti ar-aramidem?
+The terrorists must be hunted down and brought to justice.	Masapul a maanup ken makemmeg dagiti terorista tapno maisaklangda iti hustisia.
+Do we have enough time to finish this before Tom gets here?	Adda kadi pay umanay a panawen a malpastayo daytoy sakbay a makasangpet ni Tom ditoy?
+I thought you'd be interested to know that Tom found a job.	Ti ammok ket interesadoka a makaammo a nakabiroken ni Tom iti trabahona.
+I want to travel this summer, but I don't know where to go.	Kayatko ti agdaliasat iti daytoy a kalgaw, ngem diak ammo no sadino ti papanan.
+In spite of the fact that she was busy, she came to see me.	Iti laksid a makumikom isuna, immaynak kinita.
+Please open your bag so that I can see what you have in it.	Pakilukat ti bagmo tapno makitak no ania ti impanmo iti unegna.
+The latest issue of the magazine will come out next Monday.	Rummuar inton Lunes ti kaudian nga isyu ti magasin.
+They have demanded that all copies of the book be destroyed.	Inkalikagumda nga amin a kopia ti libro ket madadael.
+Tom listened to Mary recite the poem that she had memorized.	Inimdengan ni Tom ni Mary a nangyebkas iti daniw nga inkabesana.
+The box was so heavy that Tom had to help Mary carry it home.	Nadagsen unay ti kahon isu a tinulongan ni Tom ni Mary a mangawit a mangyawid iti daytoy.
+Burj Khalifa is currently the tallest skyscraper in the world.	Ti Burj Khalifa ti katayagan a pasdek iti sangalubongan iti agdama.
+Don't you know how dangerous it is to go swimming by yourself?	Dimo kadi ammo a napeggad ti mapan aglangoy a siksika?
+I have a cat and a dog. The cat is black and the dog is white.	Adda pusa ken asok. Nangisit ti pusa ken puraw ti aso.
+He still remembers the day his mother found out he was smoking.	Malagipna pay ti aldaw a pannakaduktal kenkuana ti inana nga agsigsigarilio isuna.
+Why does it take them so long to set up my internet connection?	Apay a nakabaybayag la ketdin nga ibanagda ti koneksionko iti internet?
+Tom is estimating how much money he'll need to finish the house.	Karkarkuluen ni Tom no mano ti magastosna a mangileppas iti balay.
+On my way to school each day, I generally see many dogs and cats.	Iti dalanko a sumrek iti eskuela, gagangay nga adu ti makitkitak nga as-aso ken puspusa.
+Tom doesn't know the difference between a diamond and an emerald.	Saan nga ammo ni Tom ti nagdumaan ti maysa a diamante ken ti maysa nga esmeralda.
+They come to collect the mail at three in the afternoon every day.	Umayda kolektaen dagiti surat iti alas tres iti malem iti inaldaw.
+Don't you just hate the way Tom always monopolizes the conversation?	Dimo kadi, aya, kagura ti aramid ni Tom a mangbukbukod iti patangan?
+If you don't know what the word means, look it up in the dictionary.	No dimo ammo ti kayat a sawen ti balikas, kitaem daytoy iti diksionario.
+If anyone calls me up while I'm away, tell them I'll be back by five.	No adda umawag kaniak iti telepono kabayatan nga awanak, ibagam kadakuada nga agsubliak iti alas singko.
+If we have not covered all the questions you asked, please inform us.	No dimi nasungbatan amin a saludsodyo, ibagayo koma kadakami.
+Since their conversation was in French, I couldn't understand a word.	Gapu ta French ti panagsasaritada, awan a pulos ti maawatak a balikas.
+If it had not been for your advice, I would have failed in my business.	No saan koma a gapu iti pammagbagam, saan koma a nagballigi ti negosiok.
+Maybe I shouldn't tell you this, but I am truly mesmerized by your beauty.	Nalabit ket saanen a nasken nga ibagak pay kenka daytoy, ngem agpayso a nagargariak iti pintasmo.
+As soon as the new teacher entered the classroom, the students began to applaud.	Apaman a nakastrek iti siled a pagadalan ti kabarbaro a mannursuro, nangrugi nga agdir-i dagiti estudiante.
+If Cleopatra's nose had been shorter, the whole face of the world would have been changed.	No koma ta nalepleppap ti agong ni Cleopatra, mabalin a nagbaliw koma ti sibubukel a rupa ti lubong.
+Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday are the seven days of the week.	Lunes, Martes, Mierkoles, Huebes, Biernes, Sabado ken Domingo dagiti pito nga al-aldaw ti lawas.

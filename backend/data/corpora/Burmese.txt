@@ -1,0 +1,405 @@
+Go.	သွား။
+Hi.	ဟိုင်း
+Run!	ပြေး!
+Who?	ဘယ်သူ။
+Who?	ဘယ်သူလဲ။
+Who?	ဘယ်သူ?
+Wow!	ဝါး...
+Wow!	ဝိုး..
+Fire!	မီးဗျို့။
+Fire!	မီး။
+Help!	ကယ်ကြပါ!
+Help!	လုပ်ကြပါဦ!
+Help!	ကူညီကြပါ!
+Jump!	ခုန်!
+Jump!	ခုန်ချ!
+Jump.	ခုန်
+Jump.	ခုန်ချ
+Stop!	ရပ်!
+Wait.	စောင့်ဦး။
+Wait.	နေဦး။
+Wait.	ခဏ!
+Begin.	စတော့။
+Hello!	ဟဲလို။
+Hurry!	မြန်မြန်!
+Hurry!	အမြန်လုပ်!
+Relax.	စိတ်လျှော့။
+Relax.	စိတ်အေးအေးထား။
+Shoot!	ပစ်!
+Smile.	ပြုံးမယ်။
+Smile.	ပြုံးပါ။
+Attack!	တိုက်ကြ။
+Attack!	ချကြ။
+Cheers!	ချီးယား!
+Cheers!	ချကွာ!
+Freeze!	ရပ်စမ်း။
+Freeze!	မလှုပ်နဲ့။
+Listen.	နားထောင်။
+No way!	မဖြစ်နိုင်တာ!
+No way!	မဟုတ်တာ!
+Really?	တစ်ကယ်ကြီး။
+Really?	တစ်ကယ်?
+Really?	အဟုတ်?
+Come on!	လာစမ်းပါ။
+Come on!	လာခဲ့စမ်းပါ။
+Get out.	ထွက်သွား။
+Goodbye!	နှုတ်ဆက် တယ်နော်!
+Goodbye!	ပြန်ပြီ!
+Hi, Tom.	ဟိုင်း၊ တွမ်။
+I'm ill.	နေမကောင်းဘူး။
+Perfect!	အပြည့်ပဲ!
+Wake up!	ထတော့!
+Wash up.	ဆေးကြောလိုက်။
+Welcome.	မင်္ဂလာပါ။
+Welcome.	ကြိုဆိုပါတယ်။
+Why not?	ဘာလို့ မရမှာလဲ?
+Why not?	ဘာကိစ္စ မဖြစ်ရ မှာ လဲ?
+Have fun.	ပျော်ပါစေ။
+Have fun.	ပျော်ရွင်ပါစေ။
+Hi, guys.	ဟေ့ ကောင်တွေ။
+Hi, guys.	ဟိုင်း ကောင်လေးတွေ။
+How deep?	ဘယ်လောက် နက်လဲ။
+Hurry up.	အမြန်လုပ်။
+Hurry up.	သွက်သွက် လုပ်။
+I'm sick.	နေမကောင်းဘူး။
+Look out!	သတိထား။
+Speak up!	ပြော လေဟာ!
+Speak up!	စကား ပြောလေ!
+Stand up!	မတ်တပ် ရပ်။
+Stand up.	မတ်တပ်ရပ်။
+Terrific!	လက်ဖျားခါတယ်!
+Terrific!	အံဖွယ်ပဲ!
+Too late.	နောက်ကျ နေပြီ။
+Too late.	အရမ်း နောက်ကျ ပြီ။
+What fun!	ဘာတွေ ပျော်နေတာလဲ!
+What fun!	ဘာ ပျော်စရာ ရှိလဲ!
+Forget it.	မေ့လိုက်တော့။
+Good luck.	ကံကောင်းပါစေ။
+Goodnight.	ကောင်းသော ညပါ။
+How awful!	ဘယ်လောက် စိတ်ပျက်ဖို့ကောင်းလဲ။
+I am sick.	နေမကောင်းဘူး။
+I'm a man.	ကျွန်တော် က လူတစ်‌ယောက်ပါ။
+Ignore it.	အဲ့ဒါ ကို ဂရုမစိုက်နဲ့။
+Pardon me?	ငါ့ကို ခွင့်် ပြုပါဦး။
+Pardon me?	ကျွန်တော့် ကို ခွင့်ပြု ပါ။
+Seriously?	တစ်ကယ်ကြီးလား။
+Take care.	ဂရုစိုက်။
+They swam.	သူတို့ ရေကူးခဲ့ကြတယ်။
+Try again.	ထပ် လုပ် ကြည့်ပါ။
+Try again.	ထပ် စမ်းပါ ဦး။
+Try again.	ထပ် ကြိုးစား ကြည့်ပါ။
+Wonderful!	အံဖွယ်ရာပဲ!
+You tried.	မင်း ကြိုးစား။
+Definitely!	ဒဲ့ ထိတယ်!
+Definitely!	အတိအကျပဲ။
+Definitely!	ကွက်တိ!
+Definitely!	ဒက်ထိ
+I am ready.	ငါက အဆင်သင့်ပဲ။
+I disagree.	ငါ သဘောမတူဘူး။
+Never mind!	စိတ်ထဲမထားပါနဲ့။
+Never mind!	ကိစ္စမရှိပါဘူး။
+Oh, really?	အိုး တစ်ကယ်လား။
+Oh, really?	အိုး တစ်ကယ်ကြီးလား။
+Shadow him.	သူ့နောက်ကိုလိုက်။
+I'm a woman.	ကျွန်မက မိန်းမ တစ်ယောက် ပါ။
+Money talks.	ငွေက စကားပြော တယ်။
+Nobody came.	ဘယ်သူ မှ မလာ ဘူး။
+They obeyed.	သူတို့ လိုက်နာကြတယ်။
+Tom sneezed.	တွန် နှာ‌ခြေလိုက်တယ်။
+Walk slowly.	‌ဖြေးဖြေး လျှောက်။
+Work slowly.	ဖြေးဖြေး လုပ်။
+You cheated.	မင်း လိမ်တယ်။
+You cheated.	မင်း ညာတယ်။
+Are you well?	နေကောင်းရဲ့လား ?
+Beef, please.	အမဲသား နဲ့ ပေးပါ။
+Beef, please.	ကျေးဇူးပြုပြီး အမဲသား နဲ့ ပေးပါ။
+Drive slowly.	ဖြေးဖြေး မောင်း။
+Fish, please.	ငါး နဲ့ ပေးပါ။
+Fish, please.	ကျေးဇူးပြုပြီး ငါး ပေးပါ။
+Happy Easter!	ပျော်ရွှင်ဖွယ်ရာ အီစတာပွဲတော်ဖြစ်ပါစေ။
+I have a car.	ငါ့မှာ ကားရှိတယ်။
+Please hurry.	မြန်မြန် လုပ်နော်။
+Please hurry.	မြန်မြန် တော့လုပ်။
+Please hurry.	အမြန် လုပ်နော်။
+Please relax.	စိတ် ကို လျှော့ထား။
+Please relax.	ကျေးဇူးပြုပြီး နေသာ သလို နေ ပါ။
+Sweet dreams!	အိပ်မက် လှလှ မက်ပါစေ။
+Unbelievable!	မယုံနိုင် စရာပဲ။
+Wait outside.	အပြင်မှာ စောင့်ပါ။
+Welcome home.	အိမ်မှ ကြိုဆိုပါတယ်။
+Check, please.	ကျေးဇူးပြုလို့ စစ်ပေးပါဦး
+I don't agree.	ငါ သဘောမတူဘူး။
+I'm a student.	ကျွန်တော်က ကျောင်သား တစ်‌ယောက် ပါ။
+I'm a student.	ကျွန်မက ကျောင်းသူ တစ်‌ယောက် ပါ။
+You're stupid.	နင်က ငတုံးပဲ။
+Do you like it?	ကြိုက်ရဲ့လား။
+Get out of bed.	အိပ်ယာ ပေါ်က စမ်း။
+He is handsome.	သူ က ကြည့်ကောင်း တယ်။
+He is handsome.	သူ က ချော တယ်။
+He is handsome.	သူ က ယောက်ျားပီသ တယ်။
+He is handsome.	သူ က ခန့် တယ်။
+I was upstairs.	ကျနော်က အပေါ်ထပ်မှာ။
+I was upstairs.	ငါက အပေါ်ထပ်မှာ။
+I was upstairs.	ကျမက အပေါ်ထပ်မှာ။
+I'm against it.	ငါ သဘောမတူဘူး။
+Louder, please.	ခပ်ကျယ်ကျယ် လေး။
+Louder, please.	ကျေးဇူးပြုပြီး ကျယ်ကျယ် ပြောပါ။
+Say that again.	အဲ့ဒါကို ထပ် ပြောပေးပါ။
+Stop grumbling.	သောက်ချိုး ပြင်။
+They quarreled.	သူတို့ ချကုန်ပြီ။
+They quarreled.	သူတို့ ရန်ဖြစ်ကုန်ပြီ။
+You look bored.	ပျင်းနေတဲ့ပုံပဲနော်။
+Are you serious?	တကယ်ပြောတာလား?
+Congratulations!	ဂုဏ်ယူပါတယ်။
+Don't be stupid.	မတုံး စမ်းနဲ့။
+Mary is my aunt.	မယ်ရီ က ကျွန်တော့ အဒေါ်ပါ။
+Merry Christmas!	ခရစ်စမတ် မှာ ပျော်ရွှင်ပါစေ!
+Are you going in?	အထဲဝင်မလား။
+Attention please!	ကျေးဇူးပြု၍ နားဆင်ပါ။
+I'm not a doctor.	ကျွန်တော် က ဆရာဝန် တစ်‌‌ယောက် မဟုတ်ပါ။
+I'm ready to die.	သေဖို့ အဆင်သင့်ပဲ။
+Listen carefully.	သေခြာ နားထောင်။
+Listen carefully.	ဂရုစိုက် နားထောင်။
+She was swimming.	သူမ ရေကူးနေခဲ့တယ်။
+What do you mean?	သင် ဘာကို ဆိုလိုတာလဲ။
+You're beautiful.	မင်း က လှ တယ်။
+You're beautiful.	မင်း က ချော တယ်။
+I'm sorry for you.	မင်းအတွက် စိတ်မကောင်းပါဘူး။
+Keep in the shade.	အရိပ်ထဲမှာနေပါ။
+Stay in the shade.	အရိပ်ထဲမှာနေပါ။
+That is essential.	အဲ့ဒါက မရှိမဖြစ် လိုအပ်တယ်။
+Tom is our friend.	ထောမ်က ငါတို့ သူငယ်ချင်းပါ။
+Tom loves bananas.	တွမ် ငှက်ပျောသီးကြိုက်တယ်။
+Don't thank me yet.	ငါ့ ကို ကျေးဇူး မတင် နဲ့ ဦ။
+I feel bad for her.	သူမအတွက် စိတ်မကောင်းပါဘူး။
+I know you have it.	နင်ဆီမှာ ရှိတယ်ဆိုတာ ကျနော် သိတယ်။
+I'm bored to death.	ပျင်းလို့သေတော့မယ်။
+I'm not your slave.	ငါက နင့် ကျွန် မဟုတ်ဘူး။
+They were swimming.	သူတို့ ရေကူးနေခဲ့ကြတယ်။
+Tom is very chatty.	ထောမ်က စကားအရမ်းပြောတယ်။
+You're being silly.	နင် ရူးနေလား။
+Do you smoke cigars?	ခင်ဗျား ဆေးပြင်းလိပ် သောက်တတ် သလား။
+I told Tom to do it.	ထောမ်ကို အဲ့ဒါ လုပ်ဖို့ ပြောလိုက်တယ်။
+I'm prepared to die.	သေဖို့ အဆင်သင့်ပဲ။
+I'm ready for death.	သေဖို့ အဆင်သင့်ပါပဲ။
+She kept on talking.	သူမ က ဆက်ပြော နေတုန်း ပဲ။
+What time is it now?	ယခု ဘယ်နှနာရီ ရှိပြီလဲ?
+I am ready for death.	သေဖို့ အဆင်သင့်ပါပဲ။
+I can't meet you now.	ငါ နင့်ကို နက်ဖြန်မတွေ့ နိုင်ဘူး။
+I can't meet you now.	ကျနော် နင့်ကို နက်ဖြန် မတွေ့နိုင်ဘူး။
+I can't meet you now.	ကျမ နင့်ကို နက်ဖြန် မတွေ့နိုင်ဘူး။
+I feel sorry for her.	သူမအတွက် စိတ်မကောင်းပါဘူး။
+It was a scary movie.	အဲ့ဒီ ဇာတ်ကားက ကြောက်ဖို့ ကောင်းတယ်။
+It was a scary movie.	အဲ့ဒါက ထိပ်လန့်ဖွယ်ရာ ဇာတ်ကားပါ။
+Monkeys love bananas.	မျောက်တွေက ငှက်ပျောသီးကြိုက်ကြတယ်။
+Tom looks a bit sick.	ထောမ်က နည်းနည်း ဖျားနေ သလိုပဲ။
+Tom's a very bad guy.	ထောမ်က အရမ်းဆိုးတယ် သူပဲ။
+Tom's a very bad guy.	ထောမ်က အရမ်းဆိုးတဲ့ ကောင်။
+He is always cheerful.	သူက အမြဲ ပျော်ရွှင်နေတာပဲ။
+I want to say goodbye.	နုတ်ဆက်ပါတယ်လို့ ပြောချင်တယ်။
+What made you so angry?	ဘာလို့ အဲ့ဒီလောက်ထိ ဒေါသထွက်ခဲ့တာလဲ။
+He seems to be rich now.	သူက ခုတော့ ချမ်းသာနေပုံပဲ။
+I don't like this class.	ငါ ဒီ အတန်း ကို မကြိုက် ဘူး။
+Is this your toothbrush?	ဒါက ခင်ဗျား သွားတိုက်တံ လား။
+It wasn't really a plan.	အဲ့ဒါက တကယ့် အစီအစဥ် မဟုတ်ခဲ့ဘူး။
+Please call me a doctor.	ကျေးဇူးပြပြီး ငါ့ကို ဆရာဝန် ခေါ်ပေးပါ။
+This program is a rerun.	ဒီအစီအစဉ်က ပြန်လည်ထုတ်လွင့်မှုဖြစ်တယ်။
+Tom fell into the water.	ထောမ် ရေထဲ ကျမိတယ်။
+Tom fell into the water.	ထောမ် ရေထဲ ချော်လှဲမိတယ်။
+Tom wasn't ready to die.	တွန်က သေဖို့ အဆင်သင့် မဖြစ်သေးဘူး။
+What an incredible view!	မယုံနိုင်စရာ မြင်ကွင်း ပါ လား။
+What an incredible view!	အံသြဖွယ်ရာ မြင်ကွင်း ပါလား။
+How old is this umbrella?	ဒီ ထီး က ဘယ်လောက် ကြာ ပြီ လဲ။
+How old is your umbrella?	နင့် ထီးက ဘယ်လောက် တောင် ကြာ ခဲ့ ပြီလဲ။
+I also feel the same way.	ကျနော်လည်း အဲ့လိုပဲ ခံစားမိတယ်။
+I also feel the same way.	ငါလည်း အဲ့လိုပဲ ခံစားမိတယ်။
+I also feel the same way.	ကျမလည်း အဲ့လိုပဲ ခံစားမိတယ်။
+I didn't drink that much.	ငါ အဲ့ဒီလောက် မသောက် ပါဘူး။
+I didn't drink that much.	ကျွန်တော် အဲ့ဒီလောက် မသောက် ပါဘူး။
+I need a larger envelope.	ကျွန်တော် စာအိတ် အကြီး လိုတယ်။
+I need a larger envelope.	ငါ စာအိတ် အကြီး တစ်အိတ် လောက် လိုတယ်။
+I walked along the river.	မြစ်ကမ်းဘေးတလျှောက် လမ်းလျှောက်ထွက်ခဲ့တယ်လေ။
+I'm wondering who'll win.	ဘယ်သူ နိုင် နိုင် ငါတော့ အံသြမိမှာ ပဲ။
+Please speak more slowly.	ကျေးဇူးပြုပြီး စကား ဖြေးဖြေး ပြောပေး ပါလား။
+Tom looked a bit worried.	တွမ်ဟာ အတော်စိုးရိမ်နေပုံပဲ
+When is your lunch break?	နေ့လယ်နားချိန်က ဘယ်အချိန်လဲ။
+He tried to open the door.	သူက တံခါးကို ဖွင့်ဖို့ကြိုးစားခဲ့တယ်။
+I can't meet you tomorrow.	ကျနော် နင့်ကို နက်ဖြန် မတွေ့နိုင်ဘူး။
+I don't like this website.	ကျွန်တော် ဒီ ဝဘ်ဆိုက် ကို မကြိုက် ဘူး။
+I don't like this website.	ကျွန်တော် ဒီ ဝဘ်ဆိုက် ကို သဘောမကျ ဘူး။
+I wanted to see Tom happy.	ငါ က တွမ် ပျော်နေတာ ပဲ မြင်ချင်တာ။
+I wanted to see Tom happy.	တွမ် ‌ပျော်နေတာပဲ ငါ မြင်ချင် တယ်။
+I wanted to see Tom laugh.	ငါ တွမ် ရယ် နေတာ ကို မြင်ချင်တယ်။
+I wanted to see Tom smile.	ငါ တွမ် ရဲ့ အပြုံး ကို မြင်ချင် လိုက် တာ။
+I'm busy with my homework.	ငါ ငါ့အိမ်စာတွေနဲ့ အလုပ်ရှုပ်နေတယ်။
+That makes me feel better.	အဲ့ဒီဟာက စိတ်သက်သာရာ ရလာစေတယ်။
+We're still investigating.	ကျနော်တို့ စုံစမ်းနေတုန်းပါ။
+You're both awfully quiet.	နင်တို့ နှစ်ယောက်လုံး တော်တော် အေးပါလား။
+Everyone loves his country.	လူတိုင်း မိမိ နိုင်ငံကို ချစ်မြတ်နိုးကြသည်။
+I can't find my toothbrush.	ကျွန်တော့် သွားတိုက်တံ ကို ရှာ မတွေ့ ဘူး။
+I'm prepared for the worst.	အဆိုးဆုံးကို ပြင်ဆင်ထားတယ်။
+I'm prepared for the worst.	အဆိုးဆုံးအခြေအနေအတွက် ပြင်ဆင်ထားတယ်။
+I'm prepared for the worst.	ငါကတော့ အဆိုးဆုံးအခြေအနေအတွက် အဆင်သင့်ပဲ။
+Is it getting cold outside?	အပြင်မှာ အေး လာပြီ လား။
+Would you say it once more?	နင် နောက်တစ်ခေါက် လောက် ပြန်ပြောပေးလို့ ရမလား။
+You haven't changed at all.	မင်က ဘာမှ မပြောင်းလဲ သေးဘူးနော်။
+I think you'll like it, too.	မင်းလည်းကြိုက်မယ်လို့ ထင်တာပဲ။
+I will do whatever you wish.	မင်းဆန္ဒရှိတာ ဘယ်ဟာဖြစ်ဖြစ် ငါလုပ်ပေးမယ်လေ။
+I will do whatever you wish.	မင်းဘာပဲ လိုချင်လိုချင် ငါလုပ်ပေးမယ်။
+I'm worried about my weight.	ငါ့ရဲ့ ကိုယ်အလေးချိန်ကို စိတ်ပူတယ်။
+Smoking affects your health.	ဆေးလိပ်သောက်ခြင်းဟာ ကျန်းမာရေးကို ထိခိုက်စေတယ်။
+The clouds have disappeared.	တိမ်တွေတော့ ကင်စင်း သွားပြီ။
+We don't have any more beer.	ငါတို့ မှာ ဘီယာ မကျန် တော့ဘူး နော်။
+What is it you want from me?	ငါ့ဆီက လိုချင်တယ်ဆိုတာက ဘာလဲ?
+What is it you want from me?	ကျမဆီက လိုချင်တယ်ဆိုတာက ဘာလဲ?
+What is it you want from me?	ကျနော့်ဆီက လိုချင်တယ်ဆိုတာက ဘာလဲ?
+You haven't changed one bit.	မင်း က တစ်စက်လေး မှ မပြောင်းလဲ ဘူး နော်။
+Cats like playing in the sun.	ကြောင်တွေက နေရောင်အောက်မှာ ကစားရတာကို ကြိုက်ကြတယ်။
+Don't turn off your computer.	သင့် ကွန်ပျူတာ ကို မပိတ် ပါနှင့်။
+I am taking a rest in my car.	ကျနော် ကျနော့် ကားပေါ်မှာ အနားယူနေတယ်။
+I couldn't keep lying to Tom.	ထောမ်ကို ဆက်ပြီး မလိမ်ညာနိုင်တော့ဘူး။
+I was only five minutes late.	ကျွန်တော် ငါး မိနစ် ပဲ နောက်ကျ တာ ပါ ခင်ဗျား။
+It's where no one can get it.	ဘယ်သူ မှ မရနိုင် တဲ့ နေရာမှာ အဲ့ဒါက ရှိတာ။
+Keep your hands off my money.	ငါ့ ငွေ ပေါ်က မင်း လက်ကို ဖယ် လိုက် စမ်း။
+The bus will be leaving soon.	မကြာခင် ဘတ်စ်ကား ထွက်ခွာပါတော့မည်။
+The towel is in the bathroom.	တဘက်က ရေချိုးခန်းထဲမှာ။
+We're prepared for the worst.	အဆိုးဆုံးအခြေအနေအတွက် ပြင်ဆင်ထားတယ်။
+You haven't changed one iota.	မင်း က မြူ တစ်မှုန်‌ လေးတောင် မ ပြောင်းလဲ ဘူး။
+You're Tom's students, right?	နင်တို့က ထောမ်ရဲ့ ကျောင်းသားတွေ၊ ဟုတ်တယ်နော။
+How long has this been broken?	ဒါ ပျက်နေတာ ဘယ်လောက်ကြာပြီလဲ။
+How many boys have you kissed?	နင် ကောင်လေး ဘယ်နှစ်ယောက်လောက် နဲ့ နမ်းခဲ့ဘူးလဲ။
+How many boys have you kissed?	နင် ဘဲ ဘယ်နှစ်ပွေလောက်နဲ့ ကစ်ဆင်​ဆွဲ ဘူးလဲ။
+How many buildings do you own?	သင် အဆောက်အအုံ ဘယ်နှစ်လုံး လောက် ပိုင်သလဲ။
+How many cities did you visit?	သင် ဘယ်နှစ်မြို့ လောက် လည်ပတ် ခဲ့ဘူးသလည်း။
+I realized that box was empty.	ဒီ သေတ္တာ က အလွတ်ကြီး ဆိုတာ ငါ သိနေ ခဲ့တယ်။
+I won't deny it was difficult.	ဒါ က သိပ် ခက်တယ် ဆိုတာ ကျွန်တော် မငြင်း ပါဘူး။
+I'm fairly certain it's a bug.	ဒါက အမှား တစ်ခု ဆိုတာ ကျွန်တော် တော်တော်‌ကလေး သေချာ နေ တယ်။
+Please help me open this door.	ကျေးဇူးပြုလို့ ကျွန်တော့် ကို ကူညီပြီး ဒီ တံခါး ကို ဖွင့်ပေး ပါလား ခင်ဗျား။
+Show me your passport, please.	ကျေးဇူးပြုပြီး သင့် နိုင်ငံကူးလက်မှတ် ကို ပြပါ။
+He traveled around the country.	သူ နိုင်ငံ အနှံ့ ခရီးဆန့် ခဲသည်။
+I don't understand Tom's anger.	တွမ် ရဲ့ ဒေါသ ကို ငါနားမလည်ခဲ့ဘူး။
+I have to go shopping with Tom.	ငါ တွမ် နဲ့ စျေးဝယ်ထွက် ဖို့ ရှိတယ်။
+I need to buy a new toothbrush.	ကျွန်တော် သွားတိုက်တံ အသစ် တစ် ချောင်း ဝယ်ရတော့မယ်။
+I need to buy a new toothbrush.	ငါတော့ သွားတိုက်တံ အသစ် တစ် ချောင်း ဝယ်ဖို့ လိုအပ် နေပြီ။
+I need to say something to Tom.	ငါ တွမ် ကို ပြောရာ တစ်ခုခု ရှိတယ်။
+I think that we got ripped off.	ငါတို့ တော့ ဂျင်း မိပြီ လို့ ငါထင်တယ်။
+I think that we got ripped off.	ငါတို့ တော့ အချဥ်ဖမ်း ခံ ရပြီလို့ တော့ ငါ ထင် တယ်။
+I'm sorry I forgot to call you.	ငါ နင့်ကို ဖုန်း ခေါ်ဖို့ မေ့သွားခဲ့တာ ငါ တောင်းပန် ပါတယ်။
+I'm sorry I forgot to call you.	ကျွန်တော် ခင်ဗျား ကို ဖုန်းဆက်ဖို့ မေ့သွားခဲ့တာ ကျွန်တော် တောင်းပန် ပါတယ်။
+It isn't too late to turn back.	နောက်ပြန်လှည့်ဖို့ သိပ် နောက်မကျသေးဘူး။
+It's not as scary as you think.	အဲဒါက မင်းထင်သလောက်လည်း ကြောက်စရာမကောင်းပါဘူး
+It's not as scary as you think.	အဲဒါက မင်းထင်သလောက် ကြောက်စရာမကောင်းပါဘူး။
+Many highways are still closed.	အဝေးပြေးလမ်း တော်တော်များများ ပိတ်ထားတုန်းပဲ။
+She refused to accept the post.	သူမက အလုပ်ခန့်အပ်တာကို ငြင်းဆန်လိုက်တယ်။
+The plane flew over the island.	လေယာဉ်ပျံက ကျွန်းကိုကျော်ပြီး ပျံသန်းသွားခဲ့တယ်။
+Those glasses look good on you.	ဒီ မျက်မှန် က နင် နဲ့ လိုက်တယ်။
+Tom's popularity has decreased.	တွန်ရဲ့ လူကြိုက်များမှုက လျော့ကျလာခဲ့တယ်။
+I saved Tom's dog from drowning.	တွန်ရဲ့ ရေနစ်နေတဲ့ခွေးကို ကယ်ခဲ့လိုက်တယ်။
+Tom's eyesight is deteriorating.	တွန်ရဲ့ အမြင်အာရုံက ဆက်တိုက် အားနည်းလာခဲ့တယ်။
+I already have the wedding rings.	ငါ့မှာ လက်ထပ် လက်စွပ် တော့ ရှိထား ပြီးပြီ။
+I already have the wedding rings.	ကျွန်တော့် မှာ လက်ထပ် လက်စွပ် တော့ ရှိထား ပြီးပြီ။
+I think that you'll like it, too.	မင်းလည်းကြိုက်မယ်လို့ ထင်တာပဲ။
+I think this toothbrush is yours.	ဒီ သွားတိုက်တံ က နင့် ဟာ ထင်တယ်။
+I wonder if the beer is cold now.	ဘီယာ သာ အခု အချိန် အေးနေ ရင် ငါ အံသြမိ မှာပဲ။
+Tell me what you know about that.	ဒီ အကြောင်း မင်း ငါ့ကို သိသလောက် ပြောပြ။
+This is probably your toothbrush.	ဒီ ဟာက မင်း ရဲ့ သွားတိုက်တံ ပဲ ဖြစ်လိမ့်မယ်။
+This tie doesn't go with my suit.	ဒီ နက်ကတိုင်က ငါ့ရဲ့ ဝတ်စုံနဲ့ မလိုက်ဖက်ဘူးလေ။
+You can call me anytime you like.	ဘယ်အချိန်ပဲဖြစ်ဖြစ် ကြိုက်တဲ့အချိန် ဖုန်းခေါ်လို့ရပါတယ်။
+Don't worry about what others say.	တခြားသူတွေ ပြောတာကို စိုးရိမ်စိတ်ထားမနေပါနဲ့။
+It isn't easy to make women happy.	မိန်းမတွေ ကို ပျော်ရွှင်အောင် လုပ်ဖို့ ဆိုတာ မလွယ်လှ ဘူး။
+Let's see if the beer is cold now.	ဘီယာ အေးနေ ပြီလား ကြည့်လိုက် ရအောင်။
+Smoking is harmful to your health.	ဆေးလိပ်သောက်ခြင်းဟာ ကျန်းမာရေးကို ထိခိုက်စေတယ်။
+Tom doesn't seem to be having fun.	ထောမ်က သိပ်ပြီး မပျော်ရွှင် သလိုပဲ။
+Tom knows everybody on his street.	တွမ် က သူ့ လမ်းထဲက လူတိုင်းနဲ့ ကို သိတာ။
+Tom was playing golf that morning.	အဲ့ဒီ မနက် က တွမ်‌ ဂေါက် ရိုက် နေတယ်။
+Tom was playing golf that morning.	အဆိုပါ မနက် က တွမ် သည် ‌ဂေါက် ရိုက် နေခဲ့သည်။
+You aren't going out now, are you?	မင်း အခုထိ မသွား သေးဘူးလား၊ ဟုတ်ရဲ့လား။
+Bangkok is Thailand's capital city.	ဘန်ကောက် သည် ထိုင်နိုင်ငံ၏ မြို့တော်ဖြစ်သည်။
+Bangkok is the capital of Thailand.	ဘန်ကောက် သည် ထိုင်းနိုင်ငံ၏ မြို့တော်ဖြစ်သည်။
+I'm fairly certain that it's a bug.	ဒါက အမှား တစ်ခု ဆိုတာ အတော့်ကို ကျွန်တော် သေချာ နေပြီ။
+Could you bring me a glass of water?	နင် ငါ့ အတွက် ရေ တစ်ခွက် လောက် ယူခဲ့ ပေးပါ လား။
+How many eggs do you want me to buy?	ငါ့ ကို မင်း ဥ ဘယ် နှစ်လုံး လောက် ဝယ် စေချင်တာလဲ။
+I'm sorry that I forgot to call you.	ငါ နင့်ကို ဖုန်း ခေါ်ဖို့ မေ့သွားခဲ့လို့ ငါ တောင်းပန် ပါတယ်။
+I'm sorry that I forgot to call you.	ကျွန်တော် ခင်ဗျား ကို ဖုန်းဆက်ဖို့ မေ့သွားမိလို့ ကျွန်တော် တောင်းပန် ပါတယ်နော်။
+Tom is seldom late for appointments.	ထောမ်ဟာ ချိန်းချက်မှုကို နောက်ကျတာ ကြုံတောင့်ကြုံခဲပါပဲ။
+Your room is at the end of the hall.	နင့် အခန်းက ဟောခန်း ရဲ့ အဆုံးမှာပါ။
+Can you open the door for me, please?	တံခါးဖွင့်ပေးလို့ရမလား။
+I wish I could play the cello better.	ငါ ချယ်လို ကောင်းကောင်း တီးတတ် စေရမယ်။
+I wish I could play the piano better.	ငါ စန္ဒယား ကောင်းကောင်း တီး တတ် ချင်တယ်။
+It's still not too late to turn back.	နောက်ပြန်လှည့်ဖို အရမ်းနောက်မကျ သေးဘူး။
+Not everything doable is worth doing.	လုပ်လို့ရတယ်ဆိုတိုင်း လုပ်ဖို့မလိုပါဘူး
+I think that this toothbrush is yours.	ဒီ သွားတိုက်တံ က မင်း ဟာ လို့ ထင်တယ် နော်။
+How many hippopotami did you see today?	မင်း ဒီနေ့ ရေမြင်း ဘယ်နှစ်ကောင် လောက် တွေမိလိုက်လဲ။
+I don't think Tom will like this place.	တွန်က ဒီ‌နေရာကို ကြိုက်မယ်လို့တော့ မထင်ဘူး။
+Love and hate are both strong emotions.	ချစ်ခြင်း ရော မုန်းခြင်း ရော က သိပ် အားကြီးတဲ့ ခံစားချက်တွေ ပဲ။
+Love and hate are both strong emotions.	အချစ် နှင့် အမုန်း နှစ်ခုလုံး သည် ပြင်ထန်သော ခံစားချက်များ ဖြစ်သည်။
+She's suffering from a serious disease.	သူမဟာ ပြင်းထန်တဲ့ ရောဂါဝေဒနာ ခံစားနေရတယ်။
+Which do you prefer, apples or bananas?	ဘယ်ဟာ ပိုကြိုက်လဲ, ပန်းသီးလား ဒါမှမဟုတ် ငှက်ပျောလား?
+Will you show me your passport, please?	ကျေးဇူးပြုပြီး သင့် နိုင်ငံကူးလက်မှတ် ကို ပြပေး နိုင် မလား။
+I don't really understand your question.	ကျွန်တော် သင် မေးတဲ့ မေးခွန်း ကို တကယ်ပဲ နား မလည် ဘူး။
+Tom and I spoke to each other in French.	တွမ် နဲ့ ငါ အချင်းချင်း ပြင်သစ် လို ပြောခဲ့ကြတယ်။
+Tom is married to a Canadian named Mary.	တွမ် သည် မယ်ရီ အမည်ရှိ ကနေဒါသူ နှင့် အိမ်ထောင်ကျ ခဲ့သည်။
+Tom is married to a Canadian named Mary.	မယ်ရီ လို့ ခေါ်တဲ့ ကနေဒါသူ နဲ့ တွမ် လက်ထပ်ထိမ်းမြှာ ခဲ့ သည်။
+Tom is playing outside with his friends.	တွမ် သည် သူ၏ သူငယ်ချင်းများ နှင့် အပြင်ဘက်တွင် ကစား နေ သည်။
+Tom is supposed to be at home with Mary.	တွမ် က မယ်ရီနဲ့ အိမ်မှာ ပဲ နေရ တော့မယ် ထင်တယ်။
+Tom is very protective of his daughters.	တွမ် က သူ့ သမီးတွေ ကို အလွန် အကာအကွယ် ပေးတယ်။
+Tom isn't the kind of guy who'd do that.	တွမ် က အဲ့ဒီလို မျိုး လုပ်တတ် တဲ့ လူစားမျိုး မဟုတ် ဘူး။
+Tom lied about his whereabouts that day.	အဲ့ဒီနေ့က သူ ဘယ်မှာ ရှိနေတယ် ဆိုတာကို တွမ် လိမ်ထား ခဲ့တယ်။
+Tom liked to play tricks on his friends.	တွမ် က သူ့ သူငယ်ချင်း တွေကို လှည့်စား ရတာ ကြိုက်တယ်။
+Tom liked to play tricks on his friends.	တွမ် က သူ့ သူငယ်ချင်း တွေကို လှည့်စား တတ်တယ်။
+He failed to come up to our expectations.	သူက ငါတို့မျှော်လင့်ထားတဲ့ပုံစံနဲ့ မကိုက်ဘူး။
+This is the first time this has happened.	ဒီလို ဖြစ်ပျက်ခဲ့တာ ဒါ ပထမ ဆုံး အကြိမ်ပဲ။
+When will the roses in your garden bloom?	မင်းဥယျာဉ်ထဲက နှင်းဆီပန်းတွေ ဘယ်တော့ပွင့်မှာလဲ
+When will the roses in your garden bloom?	မင်းဥယျဉ်ထဲက နှင်းဆီပန်းတွေ ဘယ်တော့ပွင့်မှာလဲ
+Have you ever climbed a mountain with Tom?	သင် အမြဲတမ်း တွမ် နှင့် အတူ တောင်တက် ဖြစ်သလား။
+Have you ever climbed a mountain with Tom?	နင် တွမ် နဲ့ အမြဲတူတူ တောင်တက် ဖြစ် သလား။
+How many hippopotamuses did you see today?	မင်း ဒီနေ့ ရေမြင်း ဘယ်နှစ်ကောင် လောက်များ မြင်မိလဲ။
+I hope that you enjoy this holiday season.	ဒီ အားလပ်ရက် ရာသီ မှာ ခင်ဗျား ‌ပျော်ရွှင် မယ် လို့ မျှော်လင့် ပါ တယ်။
+I wish that I could play the cello better.	ကျွန်တော် ချယ်လို ကောင်းကောင်း တီးတတ် ဖို့ မျှော်လင့် တယ်။
+I wish that I could play the cello better.	ကျွန်တော် ချယ်လို ကောင်းကောင်း တီးတတ် ဖို့ ဆန္ဒ ရှိတယ်။
+I wish that I could play the piano better.	ငါ လေ စန္ဒယား ကောင်းကောင်း တီးတတ် ချင်တယ်။
+Do you think these glasses look good on me?	ဒီ မျက်မှန် က ကျွန်တော် နဲ့ လိုက် မယ် လို့ ခင်ဗျား ထင်သလား?
+Some of our members weren't at the meeting.	အချို့သော ကျွန်ုပ်တို့ အဖွဲ့ဝင်များ သည် အစည်းဝေးသို့ မတက်ရောက် ကြပေ။
+Some of our members weren't at the meeting.	ကျွန်ုပ်တို့ ၏ အဖွဲ့ဝင် တချို့ သည် အစည်းဝေးသို့ မတက်ရောက် ကြပေ။
+Some people in the crowd were waving flags.	လူစုလူဝေး ထဲက အချို့သော သူများ က အလံများ ကို ဝှေ့ရမ်း နေကြတယ်။
+There were only a few children in the park.	ပန်းခြံ ထဲ မှာ တော့ ကလေး အနည်းငယ် သာ ရှိနေခဲ့ တယ်။
+Tom decided to stay up until Mary got home.	မယ်ရီ အိမ် ပြန်ရောက် တဲ့ အထိ တွမ် နေဖို့ ဆုံးဖြတ် လိုက် သည်။
+I don't think that Tom will like this place.	တွန်က ဒီ‌နေရာကို ကြိုက်မယ်လို့တော့ မထင်ဘူး။
+I want to learn how to order food in French.	ပြင်သစ် မှာ ဘယ်လို အစားအသောက်မှာ ရမယ် ဆိုတာ ကို ငါ သင် ချင် တယ်။
+I'm curious as to which one of you will win.	ဘယ် တစ်ခု ကို ခင်ဗျား နိုင်မလဲ ဆိုတာ ကျွန်တော် သိချင်နေပြီ။
+I'm looking for somebody to play chess with.	ကျွန်တော် နဲ့ စစ်တုရင် ကစားဖို့ တယောက်ယောက် ကို ရှာ နေ တာ ပါ။
+I think Mary is more beautiful than Alice is.	ငါ‌ တော့ အဲလစ် ထက် မယ်ရီ က ပို လှတယ် လို့ ထင်တယ်။
+I'd like to learn how to order food in French.	ပြင်သစ် မှာ အစားအသောက် ကို ဘယ်လို မှာ ရမယ် ဆိုတာ ငါ သင် ချင် တယ်။
+This is the first time that this has happened.	ဒီလို မျိုး ဖြစ်ပျက်ခဲ့တာ ဒါ ဟာ ပထမ ဆုံး အကြိမ်ပဲ။
+Tom is married to a Canadian woman named Mary.	မယ်ရီ လို့ ခေါ် တဲ့ ကနေဒါ အမျိုးသမီး နှင့် တွမ် လက်ထပ် ခဲ့ သည်။
+Tom is married to a Canadian woman named Mary.	တွမ် က မယ်ရီ လို့ ခေါ် တဲ့ ကနေဒါ အမျိုးသမီး နဲ့ အိမ်ထောင်ကျ ခဲ့ သည်။
+Tom wished that their kiss would last forever.	တွမ် က သူတို့ ရဲ့ အနမ်း တွေ ကို ထာဝရ တည်မြဲ စေချင် ခဲ့တာ။
+I think that Mary is more beautiful than Alice.	အဲလစ် ထက် မယ်ရီ က ပို လှတယ် လို့ ငါ ထင်တယ်။
+That happened to you because you were careless.	ခင်ဗျား ရဲ့ သတိမဲ့မှု့ တွေ ကြောင့် ဒီလို တွေ ဖြစ်ပျက် ခဲ့ရတာ။
+At that time, I was still taking French lessons.	အဲ့ဒီ အချိန် လောက်က ဆို၊ ကျွန်တော် ပြင်သစ် စကားပြော သင်တန်း တက်နေတုန်းလောက်ပဲ။
+Do you think that these glasses look good on me?	ဒီ မျက်မှန် က ကျွန်တော် နဲ့ လိုက် မယ် လို့ ခင်ဗျား ထင်သလား?
+It's better to feed wild ducks grain than bread.	ဘာဖြစ်ဖြစ် ဘဲ ရိုင်း ကို ပေါင်မုန့် ကျွေးတာ ထက်တော့ ပိုကောင်းမှာ ကြီးပါပဲ။
+It's better to feed wild ducks grain than bread.	အားလုံးက နွား ကို ပလာတာ ကျွေးတာ ထက် တော့ ပိုကောင်းမှာ ပဲလေ။
+I think that you just answered your own question.	မင်း ကိုယ့် အမေး ကို ကိုယ် ပြန်ဖြေ သင့်တယ် လို့ ကျွန်တော် ထင်တယ်။
+I think that you just answered your own question.	မင်း ကိုယ့် ကို ကိုယ် မေးခွန်း ပြန်ထုတ် ကြည့်ဦး။
+That happened to you because you weren't careful.	ခင်ဗျား ကိုယ့် ကို ကိုယ် ဂရုမစိုက် လို့ ဒီလိုတွေ ဖြစ်ခဲ့ရတာ။
+That happened to you because you weren't careful.	ခင်ဗျား ကိုယ့် ကို ကိုယ် ဂရုမစိုက် လို့ ဒါမျိုးတွေ ဖြစ်ခဲ့ရတာ။
+Tom hardly spoke any French when I first met him.	ငါ သူနဲ့ စတွေ့ စက တွမ် ပြင်သစ် စကား သိပ် မပြောတတ် သေးဘူး။
+We've decided to have a private wedding ceremony.	သီးသန့် မင်္ဂလာပွဲလေး ပဲ ကျင်းပ မယ်လို့ ငါတို့ ဆုံးဖြတ် လိုက် ပြီ။
+I don't think that I got a good grade on the exam.	ကျွန်တော် စာမေးပွဲ မှာ အဆင့် ကောင်းကောင်း ရလိမ့် မယ် လို့ ကျွန်တော် မထင်ဘူး ဗျ။
+I think that Mary is more beautiful than Alice is.	မယ်ရီ က အဲလစ် ထက် ပို လှတယ် လို့ ငါ ထင်တယ်။
+I learned French by watching French programs on TV.	တီဗီ မှာ လာတဲ့ ပြင်သစ် အစီစဥ် တွေ ကြည့်ပြီး ပြင်သစ် စကား သင်ခဲ့တာ။
+I checked my watch and realized I was an hour early.	ကျနော့် နာရီ ကြည့်တော့မှပဲ ကျနော် တနာရီ စော နေမှန်း သတိထားမိတော့တယ်။
+I drank beer for the first time when I was thirteen.	ငါ ဆယ့်သုံးနှစ် သား မှာ ပထမဆုံး အကြိမ် ဘီယာ စသောက်ဖူး ခဲ့တယ်။
+Tom has climbed mountains in many different countries.	တွမ်က နိုင်ငံ အတော်များများ မှာ တောင်တက် ခဲ့ တယ်။
+It's hard to say what the weather will be like tomorrow.	နက်ဖြန် ရာသီဥတု အခြေအနေ ဘယ်လို ရှိမလဲ ဆိုတာ ပြောရခက်တယ်။
+The reason that happened was because you weren't careful.	ခင်ဗျား ရဲ့ ဂရုမစိုက်မှု့ တွေကြောင့်သာ ဒီလိုမျိုးတွေ ဖြစ်ပျက်ခဲ့ ရတာ။
+"Where did you leave your umbrella?" "I left it at school."	"နင့် ထီး ကို နင် ဘယ်မှာများ ထားခဲ့ ပြန်ပြီလဲ။" "ငါ အဲ့ဒါကို ကျောင်း မှာ ကျန်ခဲ့ တာ။"
+I drank beer for the first time when I was thirteen years old.	ကျွန်တော် ဆယ့်သုံးနှစ် သား အရွယ်လောက်က ကျွန်တော် ပထမဦးဆုံး ဘီယာ ကို သောက်ဖူးခဲ့တာပဲ။
+I drank beer for the first time when I was thirteen years old.	ငါ ဆယ့်သုံးနှစ် သား မှာ ပထမဆုံး အကြိမ် ဘီယာ စသောက်ဖူး ခဲ့တယ်။
+You don't actually think I'm going to let you do that, do you?	ငါ နင့်ကို အဲ့ဒီလို လုပ်ခွင့် ပြုမယ် လို့ နင် တစ်ကယ် မထင်ခဲ့ဘူးမလား၊ ဟုတ်တယ်ဟုတ်။
+The reason that happened to you was because you weren't careful.	ခင်ဗျား ဂရုမစိုက်ခဲ့ လို့သာ ခင်ဗျား မှာ ဒီလိုတွေ ဖြစ်ခဲ့ ရတာပဲ။
+Tom fell off the dock because he wasn't looking where he was going.	တွမ်က သူသွား‌ နေတဲ့ နေရာ ကို မကြည့် သောကြောင့် ‌သင်္ဘောကျင်း မှာ လဲကျ ခဲ့တယ်။
+Tom fell off the pier because he wasn't looking where he was going.	တွမ်က သူ သွား နေတဲ့ နေရာ ကို မကြည့်လို့ ဆိပ်ခံတံတား ပေါ်က ပြုတ်ကျခဲ့တယ်။
+Your diet is going to be really unbalanced if all you eat is hamburgers.	ဟမ်ဘာဂါချည်းပဲ စားနေမယ်ဆိုရင် အာဟာရ မမျှဘဲ ဖြစ်နေမယ်နော်။
+If you want something done right, sometimes you've just gotta do it yourself.	သင် အလုပ်တခုကို မှန်ကန်စွာ ပြီးမြောက်စေချင်လျှင်၊ တခါတရံ မိမိကိုယ်တိုင် လုပ်ဆောင်ရမည်ဖြစ်သည်။

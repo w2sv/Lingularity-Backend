@@ -4,8 +4,8 @@ from typing import Iterator, List
 import numpy as np
 import pytest
 
-from backend.trainers.base import BilingualCorpus
-from backend.utils.strings.transformation import asciiized, special_characters_stripped, UNICODE_POINT_PATTERN
+from backend.src.types.bilingual_corpus import BilingualCorpus
+from backend.src.utils.strings.transformation import asciiized, special_characters_stripped, UNICODE_POINT_PATTERN
 from tests.conftest import get_bilingual_corpus
 
 

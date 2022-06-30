@@ -2,8 +2,8 @@ from functools import lru_cache
 
 import pytest
 
-from backend.database import connect_database_client, UserMongoDBClient
-from backend.types.bilingual_corpus import BilingualCorpus
+from backend.src.database import connect_database_client, UserMongoDBClient
+from backend.src.types.bilingual_corpus import BilingualCorpus
 
 
 MONGODB_TEST_USER = 'janek'

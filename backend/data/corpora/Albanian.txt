@@ -1,0 +1,448 @@
+Smile.	Buzëqesh.
+He ran.	Ai vrapo.
+Hug me.	Më përqafo.
+I know.	E di.
+I lost.	Humba.
+I quit.	Heq dorë.
+Listen.	Dëgjo.
+Really?	Vërtetë?
+Why me?	Pse unë?
+Get out.	Dil jashtë.
+Goodbye!	Mirë u pafshim!
+He came.	Ai erdhi.
+He runs.	Ai vrapon.
+Help me.	Më ndihmo.
+Join us.	Na u bashko.
+Kiss me.	Me puth.
+Me, too.	Edhe unë.
+Wake up!	Zgjohu!
+We know.	E dimë.
+You run.	Ti vrapon.
+Get lost!	Zhduku!
+How deep?	Sa thellë?
+Hurry up.	Nxito.
+I resign.	Jap dorëheqje.
+It works.	Punon.
+Sit down!	Ulu!
+They won.	Ata fituan.
+Too late.	Shumë vonë.
+We agree.	Pajtohemi.
+What for?	Për çfarë?
+After you.	Pas teje.
+Birds fly.	Zogjtë fluturojnë.
+Calm down!	Qetësohu!
+Come here.	Eja këtu.
+Come home.	Eja në shtëpi.
+Follow me.	Më ndiq.
+Forget it.	Harroje.
+Good luck.	Paç fat.
+I am here.	Unë jam këtu.
+I laughed.	Qesha.
+It rained.	Ra shi.
+Open fire!	Hap zjarr!
+Pardon me?	Më falni?
+She cried.	Ajo qau.
+Stay back.	Rri pas.
+Stay calm.	Rrini të qetë.
+Wait here.	Prit këtu.
+Well done!	Të lumtë!
+Wonderful!	E mrekullueshme!
+You tried.	Provove.
+You tried.	Provuat.
+Birds sing.	Zogjtë këndojnë.
+Choose one.	Zgjidh një.
+Come quick!	Eja shpejtë!
+Don't slip.	Mos rreshqisni.
+Eat slowly.	Ha ngadalë.
+Forget him.	Harroje atë.
+Forgive me.	Më fal.
+He laughed.	Ai qeshi.
+Hello, Tom.	Përshëndetje, Tom.
+I got lost.	Humba.
+Look there.	Shiko atje.
+Mama cried.	Nëna qau.
+Mama cried.	Mamaja qau.
+No problem.	Ska problem.
+Please sit.	Të lutem ulu.
+Say cheese.	Thuaj djathë.
+She smiled.	Ajo buzëqeshi.
+Turn right.	Kthehu djathtas.
+Be yourself.	Ji vetvetja.
+I apologize.	Kërkoj ndjesë.
+It was mine.	Ishte e imja.
+Money talks.	Paraja flet.
+Nobody came.	Askush nuk erdhi.
+Nobody died.	Askush nuk vdiq.
+Please come.	Të lutem eja.
+Walk slowly.	Puno ngadalë.
+Anybody home?	Dikush në shtëpi?
+Anything new?	Ndonjë e re?
+Be realistic!	Bëhu realist!
+Beef, please.	Biftek, ju lutem.
+Beef, please.	Biftek, të lutem.
+Come quickly.	Eja shpejtë.
+Drive slowly.	Vozit ngadalë.
+Fish, please.	Peshk, ju lutem.
+Ghosts exist.	Fantazmat ekzistojnë.
+Good evening.	Mirëmbrëma.
+How annoying!	Sa e bezdisshme.
+I can't sing.	Unë nuk mund të këndoj.
+I understand.	Kuptoj.
+Keep reading.	Vazhdo leximin.
+Ladies first.	Zonjat të parat.
+My arm hurts.	Kam dhimbje në krah.
+Nobody asked.	Askush nuk pyeti.
+Nobody knows.	Askush nuk e di.
+Please hurry!	Të lutem nxito!
+Please leave.	Të lutem largohu.
+Please smile.	Të lutem buzëqesh.
+Someone came.	Dikush erdhi.
+This is easy.	Kjo është e lehtë.
+Unbelievable!	E pabesueshme!
+Years passed.	Vitet kaluan.
+Anything else?	Ndonjë gjë tjetër?
+Be reasonable.	Ji i arsyeshëm.
+Help yourself.	Ndihmo veten.
+I want to die.	Dua të vdes.
+I was careful.	Isha i kujdesshëm.
+Save yourself.	Shpëto veten!
+What happened?	Çfarë u bë?
+What is truth?	Cila është e vërteta?
+Everybody lies.	Të gjithë gënjejnë.
+I wasn't there.	Unë nuk isha atje.
+Is she married?	A është ajo e martuar?
+Someone called.	Dikush thirri.
+That's my wife.	Kjo është gruaja ime.
+Tom is my hero.	Tomi është heroi im.
+Call me, please.	Më telefono, të lutem.
+I was a teacher.	Unë isha mësues.
+Is Tom a member?	A është Tomi anëtar?
+Let me help you.	Më ler të të ndihmoj.
+Merry Christmas!	Gëzuar Krishtlindjet.
+Please continue.	Të lutem vazhdo.
+Please continue.	Ju lutem vazhdoni.
+She disappeared.	Ajo u zhduk.
+They're working.	Ata po punojnë.
+This is my wife.	Kjo është gruaja ime.
+Tom disappeared.	Tomi u zhduk.
+Write something.	Shkruaj diçka.
+Everyone laughed.	Të gjithë qeshën.
+How embarrassing!	Sa e turpshme!
+I am from Russia.	Jam nga Rusia.
+I can handle Tom.	Mund ta përballoj Tomin.
+I can handle Tom.	Unë mund të merrem me Tomin.
+I have a brother.	Kam një vëlla.
+I like languages.	Më pëlqejnë gjuhët.
+I like this city.	Më pëlqen ky qytet.
+I won't need you.	Nuk do të kem nevojë për ty.
+I work as a cook.	Punoj si kuzhinier.
+Listen carefully.	Dëgjo me kujdes.
+Nothing happened.	Asgjë nuk ndodhi.
+Pass me the salt.	Ma kalo mua kripen.
+They're teachers.	Janë mësues.
+This was my idea.	Kjo ishte ideja ime.
+Tom usually wins.	Tomi zakonisht fiton.
+Champagne, please.	Shampanjë, të lutem.
+Everybody laughed.	Të gjithë qeshën.
+Good morning, Tom.	Miremengjes, Tom.
+I had a good idea.	Unë kisha një ide e mirë.
+I'm Tom's dentist.	Unë jam dentisti i Tomit.
+It's for tourists.	Është për turistë.
+Make something up.	Shpik ndonjë gjë.
+Tom vowed revenge.	Tomi u betua për hakmarrje.
+I have one brother.	Kam një vëlla.
+I want to kiss you.	Une dua te te puthe.
+It could be a trap.	Mund të jetë një kurthë.
+It's not effective.	Nuk është efektive.
+My glass was dirty.	Gota ime është e papastër.
+See what Tom wants.	Shiko çfarë do Tomi.
+Something happened.	Diçka ndodhi.
+Tom agreed to help.	Tomi u pajtua të ndihmonte.
+We can't stop here.	Nuk mund te ndalojmë ketu.
+When will this end?	Kur do të përfundojë kjo?
+Who is your lawyer?	Kush është avokati yt?
+Athens is in Greece.	Athina është në Greqi.
+How were you caught?	Si u zure?
+I live close to Tom.	Jetoj afër Tomit.
+I sometimes stutter.	Ndonjehere me mbahet goja.
+I sometimes stutter.	Mua ndonjehere me mbahet goja.
+I sometimes stutter.	Ndonjehere me merret goja.
+I sometimes stutter.	Mua ndonjehere me merret goja.
+I'm very hungry now.	Jam shumë e uritur tani.
+I'm very hungry now.	Jam shumë i uritur tani.
+It's being repaired.	Është duke u rregulluar.
+Let's start at 2:30.	Le të fillojmë në 2:30.
+Tell us who you are.	Na tregoni se kush jeni ju.
+Tom isn't a student.	Tomi nuk është student.
+You are lying to me.	Ti po më gënjen.
+How is that possible?	Si është e mundur ajo?
+I bought an umbrella.	Bleva një çadër.
+I just cracked a rib.	Sapo theva një brinjë.
+I respect your views.	I respektoj pikëpamjet tuaja.
+I was really unlucky.	Isha vertete shume pa fat.
+I was really unlucky.	Une isha vertete shume pa fat.
+I was really unlucky.	Isha vertete shume i pafat.
+I was really unlucky.	Une isha vertete shume i pafat.
+Iceland is an island.	Islanda është një ishull.
+Nicotine is a poison.	Nikotina është helm.
+The property is mine.	Prona është e imja.
+Tom is eating a pear.	Tomi po ha një dardhë.
+Tom was busy all day.	Tomi ishte i zënë tërë ditën.
+We haven't lost much.	Nuk kemi humbur shumë.
+When did you go home?	Kur shkove në shtëpi?
+When did you go home?	Kur shkuat në shtëpi?
+Africa is a continent.	Afrika është një kontinent.
+Are you the new nanny?	A je ti dadoja e re?
+Both of you are wrong.	Të dy e keni gabim.
+Do you want an orange?	Dëshiron një portokall?
+I can hardly hear you.	Të dëgjoj me vështirsi.
+I made tea last night.	Bëra çaj mbrëmë.
+I want to go to sleep.	Dua të shkoj të fle.
+I work for McDonald's.	Punoj për McDonald's.
+Let's clear the table.	Le të pastrojmë tavolinën.
+May I leave a message?	Mund të lë një mesazh?
+Tom folded the letter.	Tomi palosi letren.
+Tom folded the letter.	Tomi e palosi letren.
+We don't have answers.	Nuk kemi përgjigje.
+What language is this?	Çfarë gjuhë është kjo?
+You need to be strong.	Duhet të jesh e fortë.
+You really are a jerk.	Ti vërtetë je trap.
+Better late than never.	Me mire vone se kurr.
+Cats usually hate dogs.	Zakonisht macet urrejnë qentë.
+Everybody loves my cat.	Të gjithë e duan macen time.
+I can't make Tom happy.	Nuk mund ta bëj të lumtur Tomin.
+I don't like fireworks.	Nuk më pëlqejnë fishekzjarret.
+I looked in the mirror.	Shikova në pasqyrë.
+No one was in the room.	Askush nuk ishte në dhomë.
+Please open the window.	Të lutem hape dritaren.
+Tom has hired a lawyer.	Tomi ka punësuar një avokat.
+Tom paid his bill late.	Tomi pagoi faturën e tij vonë.
+We shouldn't lose hope.	Nuk duhet të humbasim shpresën.
+Who's this message for?	Për kë është ky mesazh?
+Will Tom be here today?	Do të jetë Tomi këtu sot?
+You know it's not true.	Ti e di që nuk është e vërtetë.
+You know it's not true.	Ju e dini që nuk është e vërtetë.
+Are they laughing at me?	Po qeshin me mua?
+Are they laughing at me?	A po qeshin ata me mua?
+Either Tom goes or I go.	Ose shkon Tomi ose shkoj unë.
+He is a medical student.	Ai është student i mjekësisë.
+He speaks ten languages.	Ai flet dhjetë gjuhë.
+I felt like I would die.	Ndjeva sikur do të vdisja.
+I still believe in love.	Akoma besoj në dashuri.
+I'm watching television.	Unë po shikoj në televizor.
+Tom might be doing that.	Tomi duhet te jete duke e bere kete.
+We were extremely lucky.	Ishim jashtezakonisht shume me fat.
+You can sit in my chair.	Mund të ulesh në karrigen time.
+He speaks five languages.	Ai flet pesë gjuhë.
+I appreciate your candor.	E vlerësoj përkushtimin tënd.
+I gave some books to Tom.	I dhashë disa libra Tomit.
+I told Tom we're friends.	I thashë Tomit që jemi miq.
+Is Tom's illness serious?	Është sëmundja e Tomit serioze?
+Is Tom's illness serious?	Është serioze sëmundja e Tomit?
+It's a beautiful picture.	Është fotografi e bukur.
+Latin is a dead language.	Latinishtja është gjuhë e vdekur.
+She speaks ten languages.	Ajo flet dhjetë gjuhë.
+The house belongs to him.	Shtëpia i përket atij.
+There's another solution.	Ka një zgjidhje tjetër.
+Tom had a really bad day.	Tomi pati një ditë vërtetë të keqe.
+Tom is working at a bank.	Tomi po punon në një bankë.
+Tom knew I was skeptical.	Tomi e dinte që isha skeptik.
+What was Tom looking for?	Çfarë po kërkonte Tomi?
+Where are you hiding now?	Ku je duke u fshehur tani?
+Who do you think you are?	Kush mendon se je?
+You don't know the truth.	Ju nuk e dini të vërtetën.
+You need to study harder.	Ju dueht te studioni shum.
+Are there any hidden fees?	A ka këtu ndonjë pagesë të fshehur?
+Don't forget to buy bread.	Mos harro të blesh bukë.
+Don't forget to buy bread.	Mos harroni të bleni bukë.
+Everybody was out of town.	Të gjithë ishin jashtë qytetit.
+I like learning languages.	Mua më pëlqen të mësoj gjuhë.
+I'm not holding my breath.	Nuk jam duke mbajtur frymën.
+Is your homework finished?	Ke kryer detyrat e shtëpisë?
+They said they're thirsty.	Thanë që janë të etur.
+Tom attends public school.	Tomi shkon në shkollë publike.
+Tom doesn't need anything.	Tomi nuk ka nevojë për asgjë.
+Tom is stronger than I am.	Tomi është më i fortë se unë.
+Tom learned sign language.	Tomi mësoi gjuhën e shenjave.
+Tom said that it was true.	Tomi tha që ishte e vërtetë.
+Tom saw a lion at the zoo.	Tomi pa një luan në kopshtin zoologjik.
+Tom speaks many languages.	Tomi flet shumë gjuhë.
+What else are they hiding?	Çfarë tjetër janë duke fshehur ata?
+What was your final score?	Cili ishte rezultati yt final?
+Where has Tom been hiding?	Ku ka qenë duke u fshehur Tomi?
+You aren't a spy, are you?	Ti nuk je spiun, apo jo?
+Can I see the menu, please?	Mund ta shoh menunë, ju lutem?
+He was elected mayor again.	Ai u zgjodh kryebashkiak përsëri.
+He will make a good doctor.	Ai do të bëhet një doktor i mirë.
+I don't have your strength.	Unë nuk kam forcën tuaj.
+I expected better from you.	Prisja më shumë nga ti.
+I think I've broken my leg.	Mendoj se kam thyer këmbën.
+I thought Tom was sleeping.	Mendova se Tomi po flinte.
+I understand your language.	Unë e kuptoj gjuhën tënde.
+Somebody needs to hire Tom.	Dikush duhet që ta punësojë Tomin.
+Tell me where Tom has gone.	Më trego ku ka shkuar Tomi.
+The books are on the bench.	Librat janë mbi bankë.
+Tom has been through a lot.	Tomi ka kaluar shume veshtiresi.
+Why is Tom still at school?	Pse është ende në shkollë Tomi?
+I know that this is strange.	E di që kjo është e rëndë.
+I should've eaten breakfast.	Duhet të kisha ngrënë mëngjes.
+I was born in this hospital.	Unë kam lindur në këtë spital.
+I'm not going to sing today.	Unë nuk do të këndoj sot.
+I'm not hiding from anybody.	Nuk jam duke u fshehur nga ndonjëri.
+There's been change of plan.	Ka pasur një ndryshim të planit.
+Tom is a high school senior.	Tomi eshte ne vit te katert te gjimnazit.
+Tom told me I should resign.	Tomi me tha qe duhet te jap doreheqjen.
+Tom told me I should resign.	Tomi me tha qe eshte me mire te jap doreheqjen.
+Tom walks three miles a day.	Tomi ec tre milje në ditë.
+We're upset about this loss.	Jemi të mërzitur për këtë humbje.
+Will it be a difficult exam?	Do të jetë një provim i vështirë ?
+French is her first language.	Frëngjishtja është gjuha e saj e parë.
+I have to get a new computer.	Kam nevojë për një kompjutër të ri.
+I want to tell you something.	Dua të ju them diçka.
+It's not his idea, it's mine.	Nuk është ideja e tij, është e imja.
+The town is full of tourists.	Qyteti është plot me turistë.
+Tom is probably still hiding.	Tomi me shumë mundësi akoma është duke u fshehur.
+Tom wrote the note in French.	Tomi shkroi një shënim në frëngjisht.
+I want to become an astronaut.	Dua të bëhem astronaut.
+Prussian is a Baltic language.	Prusishtja është gjuhë baltike.
+Tom told Mary to stay at home.	Tomi i tha Merit te qendroje ne shtepi.
+We watched fireworks together.	Ne shikuam fishekzjarret së bashku.
+What languages does Tom speak?	Çfarë gjuhë flet Tomi?
+Your book has changed my life.	Libri yt më ka ndryshuar jetën.
+English is a Germanic language.	Anglishtja është gjuhë gjermanike.
+French is a difficult language.	Frëngjishtja është gjuhë e vështirë.
+I am always proud of my family.	Jam gjithmonë krenar me familjen time.
+I can understand your language.	Mund ta kuptoj gjuhën tënde.
+I want to say something to you.	Dua të ju them diçka.
+Keep in mind that you must die.	Mbaje ne mend qe ju mund te vdisni.
+Most Americans liked Roosevelt.	Shumica e amerikaneve e pelqejne Rusveltin.
+Romania's capital is Bucharest.	Kryeqyteti i Rumanisë është Bukureshti.
+This box will serve as a table.	Kjo kuti do të shërbejë si tavolinë.
+Tom is a human rights activist.	Tomi është aktivist për të drejtat e njeriut.
+Tom is going to end up in jail.	Tomi do të përfundojë në burg.
+What do you think of my theory?	Çfarë mendon për teorinë time?
+What's wrong with this picture?	Çfarë nuk shkon me këtë fotografi?
+I always thought that was weird.	Gjithmonë kam menduar që ajo ishte e çuditshme.
+I will see him after I get back.	Do ta shoh ate pasi te kthehem.
+I've requested political asylum.	Kam kërkuar azil politik.
+Slaves were considered property.	Skllevërit konsideroheshin pronë.
+That sounds strange, doesn't it?	Tingëllon e çuditshme, apo jo?
+Tom cut down a tree in his yard.	Tomi preu nje peme ne kopshtin e tij.
+What language are they speaking?	Çfarë gjuhë po flasin ata?
+Your kiss is sweeter than honey.	Puthja juaj eshte me e embel se mjalta.
+Can you explain it to me, please?	Mund të ma shpjegosh të lutem.
+Give me liberty or give me death.	Me jep mua lirine ose me jep vdekjen.
+Have you completed your homework?	I ke kompletuar detyrat e shtëpisë?
+He died from the cold last night.	Ai vdiq nga i ftohti mbrëmë.
+I love you more than you love me.	Unë te dua me shumë seç më do ti mua.
+I never thought it would be easy.	Nuk e kisha menduar kurrë që do të ishte e lehtë.
+Mary broke up with her boyfriend.	Maria u nda me të dashurin.
+There exists only one option now.	Tani egziston vetëm nje mundësi.
+They had had that problem before.	Ata e kishin kete problem me perpara.
+Tom and Mary have only one child.	Tomi dhe Maria kanë vetëm një fëmijë.
+Tom is here to help us, isn't he?	Tomi është këtu për të na ndihmuar, apo jo?
+Tom is in his room now, isn't he?	Tomi është në dhomën e tij tani, apo jo?
+Tom is now on vacation, isn't he?	Tomi është në pushim tani, apo jo?
+Wash the apple before you eat it.	Laje mollën para se ta hash.
+We'll have a talented group here.	Do të kemi një grup të talentuar këtu.
+I don't understand your complaint.	Nuk e kuptoj ankesen tende.
+I saw your girlfriend kissing Tom.	Pashë të dashurën tënde duke puthur Tomin.
+I thought it was rather ingenious.	Une mendova se ishte gjeniale.
+I'm sorry that I broke my promise.	Më vjen keq që theva premtimin tim.
+Learning languages is interesting.	Të mësosh gjuhë është interesante.
+This is not the time or the place.	Nuk është as koha as vendi.
+Tom was jealous of Mary's success.	Tomi ishte xheloz për suksesin e Marisë.
+Tom's parents live in a big house.	Prindërit e Tomit jetojnë në një shtëpi të madhe.
+Could you call again later, please?	Mund te me telefononi perseri me vone ju lutem?
+I have no money, but I have dreams.	Nuk kam para, por kam ëndërra.
+I wanted to clear that up with you.	Doja ta qartësoja këtë me ju.
+It's not easy to solve the problem.	Nuk është e lehtë për të zgjidhur problemin.
+How many hours of sleep do you need?	Sa ore gjume keni nevoje?
+Maybe Tom doesn't want you to worry.	Ndoshta Tomi nuk do që ti të shqetësohesh.
+My grandfather was an archaeologist.	Gjyshi im ishte arkeolog.
+The volcano has become active again.	Vullkani eshte bere aktiv perseri.
+Tom doesn't use salt in his cooking.	Tomi nuk përdor kripë në gatimet e tij.
+Tom tried to kill himself yesterday.	Tomi u përpoq të vriste veten dje.
+Tom's parents live in a large house.	Prindërit e Tomit jetojnë në një shtëpi të madhe.
+Tom's wounds weren't self-inflicted.	Plagët e Tomit nuk ishin të vetëshkaktuara.
+Why don't you go see what Tom wants?	Pse nuk shkon të shohësh se çfarë do Tomi?
+You can't go to Boston this weekend.	Nuk mund të shkosh në Boston këtë fundjavë.
+English is an international language.	Anglishtja është gjuhë internacionale.
+I want to meet the girl of my dreams.	Dua te takoj vajzen e enderrave te mia.
+I want to meet the girl of my dreams.	Dua ta takoj vajzen e enderrave te mia.
+I'm going to need a little more time.	Do të më duhet pak më shumë kohë.
+It may sound strange, but it is true.	Mund te tingelloj cuditshem , por eshte e vertete.
+Tom and Mary are considering divorce.	Tomi dhe Maria po konsiderojnë divorcin.
+Tom became a doctor, like his father.	Tomi u bë doktor, si i ati.
+Do you need me to give you some money?	A keni nevoje te jap para?
+I've never seen such a beautiful girl.	Nuk kam parë kurrë një vajzë kaq të bukur.
+Tom must've thought he had to do that.	Tomi do te kete menduar qe i duhej ta bente.
+Tom paid three dollars for a sandwich.	Tomi pagoi tre dollarë për një senduiç.
+Tom was sitting alone, reading a book.	Tomi ishte ulur vetëm, po lexonte një libër.
+Tom was sitting alone, reading a book.	Tomi ishte ulur vetëm, duke lexuar një libër.
+I can speak neither French nor English.	Nuk flas as frëngjisht as anglisht.
+Tom hates his job for a lot of reasons.	Tomi urren punën e tij për shumë arsye.
+Don't forget to bring your bathing suit.	Mos harro të sjellësh kostumin e banjës.
+If I had enough money, I'd buy that car.	Po të kisha mjaftueshëm para, do ta bleja atë makinë.
+My shoes are too small. I need new ones.	Këpucet e mija jane shum te vogla. Kam nevojë për nje parë të reja.
+You should give up drinking and smoking.	Ti duhet të ndalosh pijen dhe cigaren.
+You're not allowed to speak French here.	Nuk të lejohet të flasësh frëngjisht këtu.
+You're not allowed to speak French here.	Nuk lejohesh të flasësh frëngjisht këtu.
+You're not allowed to speak French here.	Nuk je i lejuar të flasësh frengjisht këtu.
+Closing your eyes helps you think better.	Mbyllja e syve ju ndihmon të mendoni më mirë.
+I don't understand the rules of the game.	Nuk i kuptoj rregullat e lojës.
+If you ever come to town, come to see me.	Nqs do te vini ndonjehere ne qytet, ejani te me vizitoni.
+Thank you for teaching me how to do this.	Faleminderit që më mësuar si ta bëj këtë.
+Tom didn't let me answer Mary's question.	Tomi nuk me lejon t`i përgjigjem pyetjes së Merit.
+I often wrote to her when I was a student.	Asaj i shkruaja shpesh kur isha student.
+No, I'm not a teacher. I'm only a student.	Jo, nuk jam mësues. Jam vetëm nxënës.
+The problem is we don't know where Tom is.	Problemi është që nuk e dimë se ku është Tomi.
+I have three times more books than Tom has.	Kam tre herë më shumë libra se Tomi.
+I hear you've already contacted the broker.	Degjova që tashmë keni kontaktuar ndërmjetësin.
+I'm not certain we can get tickets tonight.	Nuk jam e sigurt nese mund te marrim bileta kete mbremje.
+I'm not certain we can get tickets tonight.	Nuk jam e sigurt nese mund te gjejme bileta kete mbremje.
+What method did you use to give up smoking?	Çfarë metode ke përdorur per të ndalur duhanin?
+I hate the world because the world hates me.	Unë e urrej botën sepse bota më urren mua.
+I hope I'm not the only one who'll be there.	Shpresoj që të mos jem i vetmi që do të jetë aty.
+If it were not for water, we could not live.	Ne qofte se nuk do kishte uje, ne nuk mund te jetojme.
+That's a very beautiful part of the country.	Ajo eshte nje pjese shume e bukur e vendit.
+The only dessert I really like is ice cream.	Ëmbëlsira e vetme të cilën vërtetë e pëlqej është akullorja.
+I'm trying to figure out what you do for fun.	Vetëm po kërkoj të dijë cfarë bën ti për tu argëtuar ?
+Your success is the result of your hard work.	Suksesi jot është rezultat i punës tënde të vështirë.
+I often think about the place where I met you.	Shpesh mendoj për vendin ku të kam takuar ty.
+My sister isn't a good cook, and neither am I.	Motra ime nuk është kuzhiniere e mirë, as unë nuk jam.
+Tom is afraid that Mary might change her mind.	Tomi ka frike se mos Meri ndryshon mendjen.
+Tom is afraid that Mary might change her mind.	Tomi ka frike se Meri mund te ndryshoje mendjen.
+Tom is planning a trip to Australia with Mary.	Tomi po planifikon një udhëtim në Australi me Marian.
+I haven't met him in person, but I know of him.	Nuk e kam takuar atë si person , por unë di për të.
+The only thing I saw on the table was an apple.	E vetmja gjë që pashë në tavolinë ishte një mollë.
+The only thing I want to do right now is sleep.	E vetmja gjë që dua të bëj tani është të fle.
+It seems like you know me, but I don't know you.	Duket sikur ju me njihni mua, por une nuk ju njoh ju.
+The doctor advised my father to give up smoking.	Doktori këshilloi babanë tim të ndalte duhanin.
+The only place I want to be right now is with you.	I vetmi vend ku dua të jem tani është me ty.
+Tom said that he didn't want to be seen with Mary.	Tomi tha qe nuk donte ta shikonin me Merin.
+Tom thinks the two of you are made for each other.	Tomi mendon se ju te dy jeni bere per njeri-tjetrin.
+We had less snow this winter than we had expected.	Ky dimire kishte me pak debore sec kishim pritur.
+If I had had more time, I would have written to you.	Nqs do kisha me shum kohe, une do te shkruaja ju.
+The prime minister fell into the Danube and drowned.	Kryeministri ra në Danub dhe u mbyt.
+I haven't tried doing that the way Tom said I should.	Nuk e kam provuar ta bej ne menyren qe me tha Tomi.
+Tom explained it in detail, but I still don't get it.	Tom e sqaroi atë në detaj, por unë akoma nuk e kuptoj.
+When you can't do what you want, you do what you can.	Kur nuk mund te beni cfare doni,ju beni cfare mundeni.
+Yesterday, Mary cleaned the house and washed clothes.	Dje Maria pastroi shtëpinë dhe lau rrobat.
+Romania is a Balkan country. Its capital is Bucharest.	Rumania është një vend ballkanik. Kryeqyteti i saj është Bukureshti.
+You continue making the same mistakes time after time.	Vazhdoni te beni te njejtin gabim here pas here.
+The police seized a large quantity of drugs at the school.	Policia kapi nje sasi te madhe droge ne shkolle.
+What you say is quite different from what I heard from him.	Ajo cfare ju thate eshte shum e ndryshme nga ajo qe degjova nga ai.
+Did you know that Tom and Mary were planning to get married?	E dije qe Tomi dhe Meri po planifikonin te martoheshin?
+Did you know that Tom and Mary were planning to get married?	E dije qe Tomi dhe Meri po benin plane per tu martuar?
+Do you always leave for work at the same time every morning?	Shkon në punë çdo mëngjes në të njejtën kohë?
+Even when you're old and gray, you should be able to enjoy life.	Edhe kur te jesh i vjeter e i thinjur duhet te jesh ne gjendje ta shijosh jeten.
+Even when you're old and gray, you should be able to enjoy life.	Edhe kur te jesh e vjeter e e thinjur, duhet te jesh ne gjende ta shijosh jeten.
+I just found out that you're going to be given an award tonight.	Sapo morra vesh qe do te te japin nje cmim sot ne darke.
+It's not till we lose our health that we realize its true value.	Nuk ia dime vleren e vertete shendetit pa e humbur.
+Just because it's possible to do it, doesn't mean you should do it.	Vetëm pse është e mundur për ta bërë, nuk do të thotë që duhet ta bësh.
+Some of the students were from Asia and the others were from Europe.	Disa nga studentat ishin nga Azia dhe te tjeret ishin nga Europa.
+You were right about several things. However, you made a few errors.	Kishe të drejtë për shumë gjëra. Megjithatë bëre disa gabime.
+Tom certainly hadn't done anything that deserved that kind of punishment.	Si duket, Tomi ishte vonë sepse kishte trafik ne Rt. 19.
+Good friends are like stars. You don't always see them, but you know they are always there.	Miqt e mirë janë si yjet. Jo gjithmonë i sheh ata, por ti e di ata janë gjithmonë atje.
+Mary is really great. She cooked a wonderful dinner for me and even washed the dishes herself.	Maria është e shkëlqyeshme. Ajo gatoi një darkë të mrekullueshme për mua dhe madje lau vetë pjatat.

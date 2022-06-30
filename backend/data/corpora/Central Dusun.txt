@@ -1,0 +1,1508 @@
+Help!	Uhupai!
+Stop!	Kada koti!
+Hello!	Kopiwosian!
+I know.	Koilo' oku bo.
+Really?	Gia?
+Be nice.	Maan do sumonong-sonong kio.
+Come in.	Suangai.
+Get out!	Ongoi id labus!
+Goodbye!	Hino ko' no!
+Help me.	Uhupai oku!
+Help us.	Uhupai tokou.
+Shut up!	Kadaada!
+Welcome.	Miagal nopo.
+Am I fat?	Olombon oku toi?
+Have fun.	Alansan no daa aramai kou hino.
+Help Tom.	Ongoi uhupai i Tom.
+How nice!	Osonong!
+Hurry up.	Sikapai!
+I'm fine.	Osonong oku ih.
+Let's go!	Kaino!
+Let's go!	Kanou!
+Stand up!	Ingkakat no!
+What for?	Nunu dii?
+Calm down.	Potoboyo.
+Forget it.	Lihuai no.
+He shaved.	Nokobugar yau.
+I'm alone.	Osongulun oku ih.
+I'm sorry.	Siou.
+I'm sorry.	Ompunai oku.
+I'm sorry.	Mokiampun oku.
+It's cold.	Osogit.
+It's okay.	Osonong-sonong bo.
+Nice shot!	Kihoi!
+Take this.	Onuo ti.
+What's up?	Nu habar nu?
+Who knows?	Isai nokoilo'?
+You tried.	Umbalan nu.
+Am I wrong?	Nasala oku?
+Be careful.	Intang-intangan kio.
+Don't move.	Kada kogura.
+Follow him.	Tonudo isio.
+Forget him.	Lihuai kaka isio.
+He is nice.	Otinuud yau lo.
+I am a man.	Yoku nopo nga kusai.
+I hate you.	Araatan oku dika.
+I hate you.	Araatan oku dikoyu.
+I love her.	Muhang oku disido.
+I miss you.	Lumangad oku diya.
+I need you.	Manu oku diya.
+I'm hungry!	Louson tian ku!
+I'm so fat.	Olombon oku kopio.
+Ignore him.	Pologoso kaka isio.
+Look it up.	Tingaha no.
+She smiled.	Kongingis isido.
+She's nice.	Otinuud yau lo.
+Tom helped.	Monguhup i Tom.
+Are you mad?	Otogod ko'?
+Can you see?	Kokito ko' dii?
+Do it again!	Maai po kaagu!
+How are you?	Nu habar nu?
+I can share.	Milo' oku maan do piuhupan.
+I like beer.	Orohian oku do biir.
+I like cats.	Orohian oku do tungau.
+I trust you.	Otumbayaan ku diya.
+I'm working.	Kumaraja oku.
+Is it yours?	Iya lo?
+It happened.	Nokoontok ti.
+She's crazy.	Mulau yau.
+Tom was out.	Luminabus i Tom.
+We'll share.	Maan tokou pogiilang-ilangon.
+What's this?	Nunu iti?
+Where is he?	Honggo isio?
+Who are you?	Isai ko'?
+Who cheated?	Isai goudut?
+Am I in love?	Miupus oku nangku dii?
+Are you lost?	Napalid ko' no?
+Do you smoke?	Monigup ko' no?
+Drive slowly.	Logot-logoton do papapanau korita kio.
+I am Chinese.	Yoku nopo nga i tulun Sina.
+I am Chinese.	Yoho tulun Sina.
+I can't move.	Au oku kogura.
+I don't know.	Au ku koilo'.
+I don't know.	Au oku koilo.
+I have a dog.	Kitasu oku.
+I let Tom go.	Poongoyon ku i Tom.
+I understand.	Orotian oku.
+I want to go.	Sionggoi oku.
+I'm a doctor.	Yoku nopo nga mongugusap.
+I'm unafraid.	Au orosian ku.
+That's a lie.	Oudut.
+That's crazy.	Oulau dilo.
+Try it again.	Umbalai po kaagu.
+What is love?	Nunu o kolisihan lo?
+What is that?	Nunu lo hodi?
+Are you a fan?	Iya mononokodung?
+Are you crazy?	Noulau ko' no?
+Are you crazy?	Mulau ko' nodii?
+Are you happy?	Otood ko' dii?
+Are you there?	Hino ko dii?
+Are you tired?	Nohuyan ko' no?
+Can I ask who?	Milo' oku monguhot isai dii?
+Can I go next?	Milo' oku mongoi do kawagu?
+Can I have it?	Milo' oku mokianu dilo?
+Can I join in?	Milo' oku tumanud?
+Can Tom do it?	Milo' i Tom maan diti?
+Can we go now?	Milo' tokou mongoi baino?
+He hugged her.	Guminapus yau disido.
+Help yourself.	Maai do sondiri.
+I already ate.	Nakaakan oku no.
+I believe you.	Otumbayaan ku diya.
+I can see you.	Okito oku diya.
+I hate French.	Asanaan oku do Poransis.
+I hate coffee.	Araatan oku do kupi.
+I have a cold.	Osogitan ku ih.
+I have to try.	Umbalan ku no koti.
+I know French.	Koilo' oku mimboros Poransis.
+I like French.	Orohian oku do Poransis.
+I like to eat.	Orohian oku do mangakan.
+I love French.	Muhang oku do boros Poransis.
+I nearly died.	Osomok moti patayon ku.
+I want a bath.	Sipodsu oku.
+I'll miss you.	Lumangad oku diya.
+I'm a student.	Yoku nopo nga susumikul.
+It might rain.	Rumasam matu.
+Keep it quiet.	Pakadaada.
+Look up there.	Tingaha hodi.
+Love is crazy.	Mulau nopo lisih.
+Owls are cute.	Odoromot o puok.
+She hated him.	Araatan sido disio.
+Stay a moment.	Oruhai bogia.
+Tom got a job.	Nakaanu i Tom do karaja.
+Tom had a dog.	Haro i Tom do tasu.
+Tom looked up.	Tumingaha i Tom.
+Tom said that.	Binoros di Tom ilo.
+Tom sat alone.	Osongulun i Tom do mirikau.
+Was Tom alone?	Osongulun i Tom?
+Watch closely.	Antangai.
+We're parents.	Komolohingan tokou.
+What happened?	Nokuro dii?
+Where are you?	Honggo ko' dii?
+Where are you?	Hinonggo ko dii?
+Who helps her?	Isai monguhup isido?
+You can do it.	Obuli ba' iya!
+A beer, please.	Onuai oku do biir.
+Are you hungry?	Witilon ko' no?
+Can I be there?	Milo' oku mongoi id hilo?
+Can I call you?	Milo' oku lumohou dika?
+Can I have one?	Milo' oku onuai lo tiso?
+Can I help you?	Milo' oku monguhup diya?
+Can I see, too?	Milo' oku mongintong pogi?
+Can I talk now?	Milo' oku moboros baino?
+Can I use this?	Milo' oku momoguno diti?
+Can this be it?	Koontok ti?
+Can we come in?	Milo' tokou moi suang?
+Can we do that?	Milo' tokou maan dilo?
+Can we go home?	Milo tokou muli walai?
+Can we join in?	Milo' tokou tumanud?
+Can we keep it?	Milo' tokou popo'opi ti?
+Can we make it?	Milo' tokou mangan diti?
+Close the door.	Tanabai ilo totobon.
+Did you see it?	Kokito ko ti?
+Do you love me?	Koupus ko' nangku doho?
+Happy New Year!	Kotobian do Toun Wagu!
+I don't get it.	Au oku orotian.
+I hate karaoke.	Araatan oku do karaoke.
+I have no idea.	Aiso no toilaan ku.
+I made that up.	Maan oku dilo.
+I speak French.	Mimboros oku do Poransis.
+I study French.	Minsingilo oku do boros Poransis.
+I teach French.	Monuduk oku do boros Poransis.
+I was a doctor.	Yoku nopo nga i dukutur.
+Is she married?	Nakasawo isido no?
+Is that French?	Boros Poransis lo?
+Is this edible?	Kaakan iti?
+It's a new day.	Tadau wagu no.
+It's hot today.	Alasu no baino.
+Let's end this.	Maai no awi ti.
+No one cheated.	Au isai oudut.
+Please help me.	Uhupai oku.
+Smoke appeared.	Noimbulai no lisun.
+They hated Tom.	Araatan iyolo di Tom.
+Tom cut school.	Mogidu i Tom mantad do sikul.
+Tom misses you.	Lumangad i Tom dika.
+Tom will share.	Maan i Tom ndo poilang.
+Tom, don't die.	Tom, kada patai.
+We have failed.	Au kalantoi tokou.
+Why do you ask?	Nokuro tu minuhot nu dii?
+Am I ever wrong?	Nasala' oku?
+Are my ears red?	Aragang tolingo ku?
+Are we all here?	Haro ko' toinsanan hiti?
+Are we done yet?	Nokoompus tokou no?
+Are we safe now?	Au tokou noontok?
+Are you married?	Nakasawo ko' no?
+Bring me my bag.	Owito barait ku.
+Call the police.	Lohowo pulis.
+Can I be honest?	Milo' oku maan do otulid?
+Can I have this?	Milo' oku mokianu diti?
+Can I order now?	Milo' oku mambarai baino?
+Can I order one?	Milo' oku mambarai lo tiso?
+Can I park here?	Milo' oku popotimpak korita ku hiti?
+Can I sit there?	Milo' oku mirikau lo hodi?
+Can I stay over?	Milo' oku magandad?
+Can I trust Tom?	Milo' oku mumboyo di Tom?
+Can I work here?	Milo' oku kumaraja hiti?
+Can it be fixed?	Milo' mongundar?
+Can we eat this?	Milo' tokou mangakan ti?
+Can we save Tom?	Milo' tokou manampasi i Tom?
+Can we sit here?	Milo' tokou mirikau hiti?
+Can you help me?	Milo' ko' monguhup doho?
+Can you see Tom?	Kokito ko' di Tom?
+Cats catch mice.	Monimpad tungau do biik.
+Congratulations!	Bayahan!
+Did you miss me?	Langadon ko' nangku doho?
+Do you know her?	Kotutun ko' disido?
+Do you know him?	Kotutun ko' dau?
+Do you remember?	Kosorou ko' po?
+Drink something.	Poginum no.
+Funny, isn't it?	Aramai kio?
+How old are you?	Piro tumur nu?
+How old are you?	Piro toun nu?
+I can do it now.	Milo' oku maan baino.
+I can get us in.	Milo' oku mongoruhang dahai.
+I can't see you.	Au oku kokito diya.
+I don't see him.	Au oku okito disio.
+I have to hurry!	Maan oku do tosikap kio.
+I have two cats.	Duo no kitungau ku.
+I live in Japan.	Kinoiyonon ku hilo'd Gipun.
+I never met Tom.	Au oku nokoumbal nokoruba di Tom.
+I recognize him.	Kotutun oku kaka dau.
+I want a friend.	Mokiambalut oku.
+I want to sleep.	Manu oku modop.
+I will kill you.	Mamatai ku ndo diya.
+I'm a bit crazy.	Mulau oku tokuri.
+I'm not a robot.	Yoho okon ko robot.
+Is Tom infected?	Noroliu i Tom?
+It isn't locked.	Au nokokunsi ilo.
+It's cold today.	Osogit do baino.
+Jesus loves you.	Guminawo i Yesus kumaa diya.
+Let's stop here.	Kanou tumingkod hiti.
+Maybe it's true.	Otopot matu.
+Merry Christmas!	Kotobian Tadau Kirismas!
+Nice seeing you!	Sonong kopiruba diya!
+The sky is blue.	Obulou ilo tawan.
+They're interns.	Minsingiloh iyolo.
+Tom got a puppy.	Haro duku i Tom.
+Tom looked down.	Luminuung i Tom.
+Tom was cheated.	Nowudutan di Tom.
+Walking is nice.	Mimpanau nopo nga osonong montok kolidasan.
+We all like you.	Muhang yahai diya.
+We all love you.	Guminawo yahai diya.
+We study French.	Minsingilo' tokou mimboros Poransis.
+We're very fast.	Osikap tomod tokou.
+What's going on?	Nokuro dii?
+What's its name?	Isai ngaran dau?
+Who betrayed us?	Isai minogolimut dahai?
+You look stupid.	Basug nodi kokitanan nu.
+You're so weird.	Suai ko dii.
+A cab is waiting.	Nokorikot no tiksi.
+Are they in love?	Miupus iyolo?
+Are you doing OK?	Osonong-sonong ko' ih?
+Are you going in?	Mongoi ko' suang?
+Are you my enemy?	Ika no pisangod ku?
+Are you on board?	Mungkayut ko' no?
+Are you on drugs?	Sosooyon ko' no?
+Are you open now?	Mongiwang ko' baino?
+Are you too cold?	Nosogitan nu dii?
+Are you too warm?	Alasu tomod ko' no?
+Are you two busy?	Atangkangau kou goduo?
+Are you up there?	Hino ko' id sawat?
+Be there at noon.	Kada lihuai id dangadau kio.
+Bring it in, Tom.	Owito hiti oi Tom!
+Bring it on, Tom.	Umbalai bogia Tom!
+Bring me my cane.	Owito sukud ku.
+Bring them to me.	Owito iyolo montok doho.
+Can I go surfing?	Milo' oku mintong do intornit?
+Can I have three?	Milo' oku onuai do tolu' dilo?
+Can I trust them?	Milo' oku lumansan diolo?
+Can Tom go first?	Milo' i Tom mongoi gulu?
+Can this be true?	Otopot iti?
+Can we bring Tom?	Milo' tokou mongowit i Tom?
+Can we come, too?	Tokou nga milo' korikot?
+Can we go inside?	Milo' tokou moi suang?
+Can we help them?	Milo tokou monguhup diolo?
+Can we leave now?	Milo tokou mongiduan baino?
+Can we talk here?	Milo' tokou moboros hiti?
+Can we trust you?	Milo' tokou otumbayaan dika?
+Can you help Tom?	Milo' ko moi uhup di Tom?
+Can you see that?	Kokito ko' dilo?
+Can you see them?	Kokito ko' diyolo?
+Close the window.	Tanabai ilo liligaon.
+Give me that jar.	Onuai oku dilo kakanan.
+He has long hair.	Kitobuk isido tanaru.
+He speaks French.	Koilo' yau mimboros Poransis.
+I am a bit crazy.	Mulau oku tokuri.
+I bet it was Tom.	Nokokito do Tom kangku daa.
+I came to say hi.	Hiti oku mamarait "kopiwosian".
+I came yesterday.	Norikot oku kosodop.
+I can do it, too.	Yoku nga milo' nogi maan dilo.
+I can get you in.	Milo' oku poposuang dika.
+I don't think so.	Mada oku dii.
+I hate chemistry.	Araatan oku do kimia.
+I love gardening.	Orohian oku do mananom.
+I need your help.	Mokiuhup oku mantad dika.
+I sell umbrellas.	Papadagang oku do payung.
+I'm Tom's nephew.	Yoku nopo nga manangaman Tom.
+I'm full of hope.	Alansan oku kopio.
+I'm not a doctor.	Yoku okon gia mongugusap.
+I'm not so happy.	Au oku ounsikahan kopio.
+Is this your car?	Ilo hodi korita nu?
+Let me take this.	Onuan ku diti.
+Nice to meet you.	Tabi pintutunan kio.
+See you tomorrow.	Kopiruba id suab kio.
+Share it with me.	Mai gia poilang oku.
+Share it with us.	Mai gia piuhupan kumaa dahai.
+That's the issue.	Iri no kobolingkangan.
+The jar is empty.	Aiso nunu hodi suang do kakanan.
+Tom is a planner.	I Tom nopo nga gompomonsoi.
+Tom will find us.	Ihumon i Tom ndo dahai.
+We know all this.	Nokoilo yahai dilo ngawi.
+We share a dream.	Misompuru tokou doid tipi tokou.
+What can you see?	Nunu o tokito nu?
+What did you buy?	Nunu binoli nu?
+What did you say?	Nu gia kanu?
+What do you want?	Nu pokionuan nu?
+Where did Tom go?	Hinonggo tongoyon di Tom?
+Where did you go?	Honggo tongoyon nu?
+Where is my seat?	Hombo o tirikohonon ku?
+You helped Mommy?	Nouhup ko' di yama?
+A heavy rain fell.	Asapou no rasam.
+Am I welcome here?	Milo' oku kinorikatan hiti?
+Ammonia is a base.	Ammonia nopo nga tadon dau.
+Are they all nuts?	Noulau iyolo ngawi?
+Are we going home?	Muli tokou do nangku id walai?
+Are we in trouble?	Kobolingkangan tokou?
+Are you a student?	Iya susumikul?
+Are you bored yet?	Nababas ko' po?
+Are you busy here?	Atangkangau ko' hiti?
+Are you home, too?	Ika nga id walai?
+Are you hurt, Tom?	Norualan nu dii oi Tom?
+Are you in danger?	Koligagaanan ko' dii?
+Are you my doctor?	Ika nopo nga mongugusap ku?
+Are you out there?	Hino ko' id labus?
+Are you ready now?	Nokosodia ko' baino?
+Are you really OK?	Au ko' kukuro kopio gia?
+Are you sure, Tom?	Kopio gia, Tom?
+Are you too tired?	Nohuyan ko' no?
+Be honest with me.	Poboroso do otulid kumaa doho bogia.
+Be quick about it.	Sikapai bogia.
+Bring Tom in here.	Owito i Tom hiti.
+Buy me some candy.	Pobolio' moomis kumaa doho.
+Can we get closer?	Milo' tokou mongoi insomok?
+Do you like music?	Orohian ko' do loyuk?
+He's now studying.	Minsingilo isio po baino.
+Her eyes darkened.	Tuminuong mato disido.
+How can we get in?	Ingkuro no tokou milo' monuang?
+I bathe every day.	Momodsu oku do monikid tadau.
+I bet I can guess.	Noilaan oku dilo sundait.
+I can do the math.	Milo' oku maan do pongintobon.
+I can go by train.	Milo' oku sumakai do koritapui.
+I can make a call.	Milo' oku monolipoun.
+I can't afford it.	Au oku asaga.
+I share your idea.	Maan oku piuhupan do sorohon nu.
+I want this puppy.	Manu oku dilo hodi duku.
+I was happy there.	Otood oku hilo.
+I'll be in my car.	Sumakai oku id korita do tinu.
+I'll be on my own.	Maan oku sondiri do tinu.
+I'm not very well.	Au oku osonong kopio.
+I'm working on it.	Maai ku po ti.
+It's an infection.	Rolihan ilo.
+It's easy for you.	Osinang montok diya.
+Keep an eye on it.	Intang-intangan kio.
+Keep away from me.	Insodu oku.
+Please forgive me.	Ompunai oku.
+She hates carrots.	Araatan sido do lubak taragang.
+She hates running.	Araatan sido do manangkus.
+She may be French.	Tulun yau Poransis kanto.
+Spiders spin webs.	Monurug o korut do lawa.
+Stay with us, Tom.	Iyono' maya tokou oi Tom.
+That won't happen.	Au koontok lo.
+There is one less.	Au nabagal songulun.
+They spoke French.	Mimboros iyolo Poransis.
+They're listening.	Mokinongou iyolo.
+Tom is a bad cook.	I Tom nopo nga mongongonsok dit au osonong.
+Tom is quite tall.	Aranggou i Tom do tokuri.
+Tom speaks French.	Mimboros i Tom do Poransis.
+Two beers, please.	Onuai oku duo biir.
+We are who we are.	Itokou nopo nga nunu miiso tokou.
+We can both do it.	Milo' kito maan ti.
+We can look it up.	Milo' tokou mogintong lo.
+We're not staying.	Au tokou miiyon hiti.
+What does it mean?	Nu komoyon ti?
+What is happiness?	Nunu o kataadan?
+What is your name?	Isai ngaran nu?
+Where do you live?	Honggo ko' poingiyon?
+Who can I talk to?	Isai oku milo' monongkiboros?
+Who speaks French?	Isai mimboros Poransis?
+Why are you alone?	Nokuro ko' songulun nodi?
+Will you marry me?	Kotorimo ko' nangku doho manansawo?
+You and I are men.	Kusai kito.
+You are a teacher.	Iya nopo nga mongingia'.
+You are beautiful.	Olundus ko no.
+You are my friend.	Iya nopo nga tambalut ku.
+You are one of us.	Ika nga puru-puru tokou.
+You like everyone.	Orohian ko' di tulun ngawi.
+You make me happy.	Insasamadan ko' doho.
+A child is missing.	Natagak no tanak.
+A lot has happened.	Ogumu ontokon ti.
+Am I being foolish?	Noudutan ku dii?
+Am I too demanding?	Sumonsog oku nodi?
+Are you badly hurt?	Norualan nu dii?
+Are you blaming me?	Monondos ko' doho?
+Are you both drunk?	Naawuk ikoyu no?
+Are you guys crazy?	Noulau ikoyu?
+Are you guys ready?	Nokosodia kou no?
+Are you hungry yet?	Witilon ko' po?
+Are you mocking me?	Mangasab ko' nangku doho?
+Are you really Tom?	Ika nopo nga Tom kopio gia?
+Are you scared now?	Modosi ko' baino?
+Are you still busy?	Atangkangau ko' po?
+Are you two hungry?	Witilon duo kou no?
+Are your eyes open?	Ungkalat ko'?
+Boy that was close.	Atukoi, oruhai po nga nasip au kaantak i.
+Bring Tom with you.	Poruhango i Tom maya dika.
+Buy low, sell high.	Pobolio do uwai gatang, poinsawato' do dagang
+Can I borrow yours?	Milo' oku molos mantad dika?
+Can I question Tom?	Milo' oku monguhot di Tom?
+Can Tom be trusted?	Milo' otumbayaan kaka i Tom?
+Can we afford that?	Kasaga' tokou maan dilo?
+Can we afford this?	Kasaga' tokou maan diti?
+Can we get started?	Milo' tokou tumimpuun?
+Can we go upstairs?	Milo tokou mindakod?
+Can you and I talk?	Milo' kito maan pibarasan?
+Come and sit by me.	Kaino mirikau maya doho.
+Do you like apples?	Manu ko' do apol?
+Do you remember me?	Kosorou ko' nangku doho?
+Go and have a look.	Ongoi intong.
+Go and talk to Tom.	Ongoi ponongkiboros i Tom.
+Go back to bed now.	Ongoi odop baino.
+He called for beer.	Olohou yau tu manu do biir.
+How big will it be?	Songkuro ginayo lo?
+How can I help Tom?	Ingkuro no oku milo' monguhup Tom?
+How can I stop Tom?	Ingkuro no oku mogodu Tom?
+I admire Tom a lot.	Arayou oku do togumu kaka Tom.
+I ate way too much.	Godoot oku no kopio.
+I can help you out.	Milo' oku monguhup dika.
+I can live with it.	Milo' oku tumilombus diti.
+I can pay you back.	Milo' oku popoguli do barayan kumaa dika.
+I can see that now.	Okito oku dilo baino.
+I can speak to Tom.	Milo' oku moboros montok Tom.
+I have a job to do.	Haro no toguagon ku.
+I have two nephews.	Duo no kimononginan ku.
+I have two nephews.	Duo no kimanangaman ku.
+I was busy all day.	Atangkangau oku no monikid tadau.
+I'll be at my desk.	Hiti oku do mija' ku.
+I'll work with Tom.	Kumaraja oku miampai di Tom.
+I'm an old man now.	Olohing oku do baino.
+I'm going to sleep.	Mongoi oku odop.
+I've been infected.	Nokoroliu oku no.
+Is Tom your nephew?	I Tom gia manangaman nu?
+It is of great use.	Osonong ilo kogunaan.
+It was in this box.	Haro id suang do kaban.
+It's not important.	Au tagal i.
+It's time to party.	Maso do karamaian.
+Let's see who wins!	Intangai po isai nopo kamanang!
+Love is everything.	Haro lisih, haro nunu.
+Please take a bath.	Ongoi podsu.
+Thank you for that.	Kotoluadan tu manahak lo.
+Thank you for this.	Kotoluadan tu manahak ti.
+That was different.	Suai ilo.
+The earth is round.	Obulugu ilo pomogunan.
+This boy is my son.	I tanak ti nopo nga tanak ku.
+Tom is rarely late.	Apagau i Tom a'adahan.
+Tom studies French.	Minsingilo' i Tom do boros Poransis.
+Tom teaches French.	Monuduk i Tom do boros Poransis.
+Tom wanted revenge.	Mumang i Tom do posulian.
+Tom, are you there?	Oi Tom, hino ko dii?
+We all cried a lot.	Mihad-ihad oku kopio.
+We all have to die.	Matai tokou kama.
+We came to see you.	Rumikot tokou miruba dika.
+We can rely on Tom.	Milo' tokou kotumbaya i Tom.
+We can take a hint.	Milo' tokou monoromo.
+We can talk to Tom.	Milo' tokou moboros kumaa Tom.
+We went to a movie.	Minoi yahai intong do wayang.
+We were all asleep.	Koodop tokou ngawi.
+We were very tired.	Ohuyan tomod tokou ih.
+We're all infected.	Norolihan tokou i.
+Well, now you know.	Ba, nokoilo' ko' baino.
+What am I here for?	Nunu pokionuan ku hiti?
+What are you doing?	Nu mangan nu?
+When can I move in?	Soira milo' oku kondaliu?
+When can I see Tom?	Soira oku koruba di Tom?
+Where are you from?	Hinonggo tadon nu?
+Why are you crying?	Nokuro tu mihad ko' dii?
+Why is sweat salty?	Nokuro tu oosin o tumos?
+You are in my seat.	Ika id tirikohon ku.
+You are in my spot.	Hiti ko id wayaan ku.
+You are very brave.	Katama ko' tomod.
+You can do it, too.	Ika nga milo' maan nogi.
+You can let go now.	Milo' ko' mogidu baino.
+You're still young.	Omulok ko' po.
+All I can do is try.	Nunu kawasa ku nopo nga mongumbal.
+Allow me to explain.	Maai oku daa popoilo'.
+Answer me right now.	Onuai simbaran kumaa doho baino.
+Anybody want a beer?	Isai manu moginum?
+Anyone can see that.	Kokito isai-isai dilo hodi.
+Are they all strong?	Agaras iyolo ngawi?
+Are they still here?	Kakal iyolo po hiti?
+Are those new shoes?	Kasut wagu lo hodi?
+Are those your bags?	Barait nu lo hodi?
+Are we nearly there?	Osomok tokou id hilo?
+Are you about ready?	Poingintai ko' no?
+Are you almost here?	Korikot ko' hiti do tinu?
+Are you being funny?	Maan ko' kotumpirak?
+Are you coming back?	Muli ko' tiinu?
+Are you coming, Tom?	Oi Tom, korikot ko' tinu?
+Are you from Boston?	Mantad ko' id Boston?
+Are you going along?	Tumalib ko' lo hodi?
+Are you guys crying?	Mihad ikoyu?
+Are you kids hungry?	Oi tanganak, witilon ikoyu?
+Are you on Facebook?	Haro Pisbuk nu?
+Are you on vacation?	Moi ko' hino tombuluyon?
+Are you really sure?	Kopio gia?
+Are you still alone?	Osongulun ko' po?
+Are you still dizzy?	Oinggolou ko' po?
+Are you that stupid?	Basug ko' dii?
+Are you two related?	Kopiirad ikoyu?
+Are you watching me?	Mongintong ko' nangku doho?
+Bring your tool box.	Owito pakakas nu.
+Can someone help me?	Haro isai milo' monguhup doho?
+Can we do something?	Milo' tokou mangan?
+Can we speak French?	Milo' tokou mimboros Poransis?
+Don't you hate that?	Au ko araatan doho?
+Everybody looked up.	Tuminingaha toinsanan.
+French is difficult.	Apagon no boros Poransis.
+Get a ticket for me.	Onuai do tikit montok doho.
+Get back in the van.	Ongoi sakai id suang korita bin.
+Go and look for Tom.	Ongoi pogihum i Tom.
+He can help you out.	Milo' yau monguhup dika.
+He seems to be sick.	Sumakit iyau dii.
+He's as big as I am.	Agayo yau miagal doho.
+How bad could it be?	Songkuro rinaat diti?
+How bad is Tom hurt?	Okuro-kuro da kogonitan i Tom?
+How bad is the pain?	Okuro-kuro daa toruol lo?
+How can I forget it?	Poingkuro no olingan ku dilo?
+How can I reach Tom?	Ingkuro oku kagampot id Tom?
+How can I trust you?	Poingkuro oku lumansan dika?
+How can Tom do that?	Ingkuro no maan i Tom dilo?
+How can Tom do this?	Poingkuro ma i Tom maan diti?
+How can we help Tom?	Inkuro ma tokou monguhup i Tom?
+How can we help you?	Inkuro ma tokou monguhup dika?
+I always take a bus.	Asaru oku sumakai do bas.
+I am right for once.	Insan nopo katapatan ku.
+I asked Tom to stop.	Nokosunud oku kumaa Tom ula'.
+I broke up with Tom.	Tumongkiad oku maya i Tom.
+I came by to say hi.	Moi oku rikot hiti om tumabi.
+I can come in early.	Milo' oku korikot do osopung.
+I can deal with Tom.	Milo' oku mongumbal maya Tom.
+I can get you there.	Milo' oku mongintong dika id hino.
+I can seal the leak.	Milo' oku popotopot do lawas.
+I can still do that.	Milo' oku po maan dilo.
+I can take Tom home.	Milo' oku koruhang Tom id walai.
+I can wait out here.	Milo' oku mangandad hiti.
+I eat a lot of meat.	Ogumu oku mangakan do tonsi.
+I have a dictionary.	Kikamus oku.
+I have to leave now.	Mugad oku do baino.
+I know this is hard.	Noilaan ku diti apagon.
+I love Chinese food.	Orohian oku do taakanon Sina.
+I make €100 a day.	Naawi oku nodi do soginumu hatus Yuro sangadau.
+I must be on my way.	Mongoi oku koti.
+I share his opinion.	Tumanud oku do kopoilaan dau.
+I will be back soon.	Gulion ku kawagu kio.
+I wish you'd listen.	Alansan no daa korongou ko.
+I wonder who she is.	Isai isido lo dii?
+I'd be OK with that.	Osonong-sonong oku no dilo.
+I'd be glad to help.	Maha oku daa monguhup.
+I'll be good to Tom.	Maan oku awasi kumaa Tom bo.
+I'll be happy to go.	Ounsikahan oku nung mongoi.
+I'll be out of town.	Mogidu oku mantad watas kakadayan do tinu.
+I'll buy Tom a beer.	Bolian ku do biir kumaa Tom.
+I'm at a truck stop.	Hiti oku id pangadadan do lori.
+I'm blind, not deaf.	Yoho ih bolou, okon gia ih bosuk.
+I'm thinking of you.	Momusorou oku dika.
+Is any of this real?	Haro ti otopot?
+Is any of this true?	Otopot doiti?
+Is everybody hungry?	Louson tian toinsanan?
+Is that a yes or no?	Ohoo toi ko' amu?
+It bothers me a lot.	Naantakan ngawi kumaa doho.
+It'll be a long day.	Alaid tadau-adau do tinu.
+It's a fact of life.	Iri no koposion.
+It's all new for me.	Wagu lo ngawi kangku daa.
+It's time to get up.	Posik no.
+Keep an eye on them.	Intang-intangai kaka iyolo kio.
+Let's try something.	Umbalai bogia.
+Look at what I made.	Intangai wonsoyon ku ti.
+Look, I'll show you.	Intangai, pokitonon ku ndo diya.
+She's in a bad mood.	Au osonong habar disido.
+Take a few days off.	Onuai do undorong tokuri.
+Thank you for lunch.	Kotoluadan do manahak taakanon.
+Thank you for today.	Kotoluadan do baino.
+That's where I live.	Ilo hodi no tiyonon ku.
+That's where I work.	Hiti no pakarajaan ku.
+The computer is new.	Wagu ilo kompiuto.
+There's a lot to do.	Ogumu moti maan dilo.
+This belongs to you.	Iti nopo nga dika.
+This novel bores me.	Apa'asan iti buuk basaan doho.
+Tom has a black dog.	Haro i Tom do oitom tasu.
+Tom is a bad person.	I Tom nopo nga tulun taraat.
+Tom made an apology.	Minokiampun i Tom.
+We all have a price.	Haro no gatang dahai.
+We can get you help.	Milo' tokou monguhup dika.
+We can help Tom now.	Milo' yahai monguhup Tom baino.
+We can make it work.	Milo' tokou poimpanau lo.
+We haven't lost yet.	Au yahai napalid po.
+We need three rooms.	Manu yahai tolu bilik.
+We'll be on our way.	Poimpanau tokou kio.
+What are they up to?	Nunu mangan diolo?
+What are you saying?	Nunu kanu di?
+What can I tell Tom?	Nunu popoilo' oku kumaa Tom?
+What can I tell you?	Poingkuro ma popoilo' tiya?
+What should I bring?	Nunu apatut o owitan ku?
+What time is it now?	Jam kopiro dinondo?
+When can we see Tom?	Soira milo' tokou miruba i Tom?
+When did you buy it?	Mantad hombo pinomolian nu dino?
+When will you leave?	Soira hibokon nu?
+Where are you going?	Honggo tongoyon nu?
+Where can I find it?	Nonggo oku mongihum lo hodi?
+Where can I wash up?	Hinonggo oku milo' momoug?
+Where were you born?	Hinonggo kinosusuon nu?
+Who can stop us now?	Isai mogodu tokou baino?
+Who is your teacher?	Isai mongingia' nu?
+Whose fault is that?	Isai nopo kasala diri?
+Why am I still here?	Nokuro kakal po hiti oku?
+Why are you at home?	Nokuro ko' mangandad id walai?
+Why are you in town?	Nokuro ko' id watas kakadayan?
+Why are you with me?	Nokuro ko' koruhang maya doho?
+Why bring it up now?	Nokuro tu mongowit do baino?
+Why did you do that?	Nokuro ko' maan do miagal diti?
+Will I have to move?	Apatut ko popoundaliu dilo?
+You are out of step.	Aiso no orikatan nu.
+You can rely on Tom.	Milo' ko' kotumbaya i Tom.
+You can talk to Tom.	Milo' ko' moboros montok Tom.
+You can use my help.	Milo' ko' mokiuhup mantad doho.
+You'd be good at it.	Osonong no maan nu dilo.
+All things must pass.	Sansagan do ngawi katalib di otopot.
+All three men smiled.	Mirak-irak i tolu maman.
+Are those my glasses?	Soromin mato' ku lo hodi?
+Are we starting soon?	Sumonu tokou toi?
+Are you finished yet?	Naawi ko' no?
+Are you freaking out?	Kotigog ko' dii?
+Are you getting this?	Nakaanu ko' diti?
+Are you leaving soon?	Humibok ko' tinu?
+Are you open tonight?	Mongiwang ko' baino?
+Are you still hungry?	Witilon po tian nu?
+Are you their mother?	Ika nopo nga tidi diolo?
+Are you unhappy, Tom?	Au ko' otood, Tom?
+Are you walking home?	Muli ko' no?
+Are your bags packed?	Norotop no barait nu?
+Birds fly in the sky.	Tumulud o tombolog hilo'd tawan.
+Bring those men here.	Owito ilo tongulun hiti.
+Can I ask what it is?	Milo' oku monguhot nunu iti?
+Can I start tomorrow?	Milo' oku tumimpuun id suab?
+Can people buy these?	Milo' i tongulun momoli lo hodi?
+Can you see anything?	Kokito ko' do nunu?
+Come and help me out.	Kanou hiti om uhupai oku.
+Come and see me soon.	Solowoto' doho do kawagu oi.
+Come and take a look.	Umbalai do intong.
+Do you speak English?	Koilo' ko' mimboros Inggilis?
+Do you study English?	Minsingilo' ko' nangku boros Inggilis?
+Do you understand me?	Karati ko' nangku doho?
+Get away from me now.	Pogidu ko' mantad doho baino.
+Get away from my son.	Pogidu ko' mantad tanak ku.
+Give me a day or two.	Onuai oku maan id sangadau toi ko' duo tadau.
+Go ahead and ask Tom.	Ongoi uhoto i Tom.
+Go ahead, try it now.	Maai gia mongumbal baino.
+Go back to your seat.	Ongoi irikau hino tirikohon.
+Have a drink with me.	Kaino monginum.
+Have a nice day, Tom.	Intang-intangai do awasi tadau kio oi Tom.
+He has no girlfriend.	Ingaa iyau do sumandak.
+Here comes the train!	Nokorikot no koritapui!
+How are Tom and Mary?	Okuro-kuro habar i Tom om Mary?
+How bad was Tom hurt?	Okuro-kuro da nogonitan i Tom?
+How big is your room?	Songkuro ginayo linimput nu?
+How can I be helpful?	Poingkuro ma uhupan ku?
+How can I refuse you?	Inkuro no au oku asaga' dika?
+How can they do that?	Ingkuro no milo' iyolo maan lo hodi?
+How do I gain weight?	Poingkuro ma kaanu oku do winagat?
+How do you stop this?	Poingkuro ma popotingkod diti?
+I asked Tom to leave.	Nokosunud oku kumaa Tom hibok.
+I asked for a refund.	Manu oku do pogulian.
+I bet this will work.	Kotumbaya oku milo' do poimpanau ti.
+I broke a vase today.	Nababak oku do susuangan tusak baino.
+I brought you a gift.	Noowit oku do titahak.
+I can barely see you.	Nokokito oku kopio dika.
+I can help with that.	Milo' oku monguhup dilo.
+I can put this right.	Milo' oku popo'opi diti.
+I can still help you.	Milo' oku po monguhup dika.
+I can take you there.	Milo' oku ongoion dika hino.
+I can tell you later.	Sumonu oku momisunud dika kio.
+I have a stomachache.	Oruol tian ku.
+I hope Tom does well.	Alansan oku daa osonong-sonong i Tom.
+I knew you wanted me.	Noilaan ku diya tu manu ko' doho.
+I love French movies.	Orohian oku do wayang Poransis.
+I think you liked it.	Andasan ku daa om orohian ko' dilo.
+I think you're right.	Otopot ko' kangku daa.
+I took a deep breath.	Paparalom oku do pinuhobo.
+I wake up very early.	Osopung oku kopio mosik.
+I will give it a try.	Umbalan ku ndo dilo.
+I'll apologize later.	Ompunan ku sumoonu.
+I'm smarter than you.	Abaal oku mantad ko dika.
+Is Tom in the garden?	Haro i Tom hilo'd tumo?
+Is it as bad as that?	Au awasi dilo?
+It's happening again.	Nokoontok no kaagu.
+Mary hugged her doll.	Guminapus i Mary do siningayanak.
+Men are all the same.	Iri nopo kusai-kusai nga miagal no.
+My arm is killing me.	Adalaan korualan di longon ku.
+My boss is very nice.	Osonong wowoyoon ku ih.
+My feet are freezing.	Ososogit lapap ku.
+She allowed me to go.	Asaga' yau doho mongoi.
+She can speak French.	Koilo' yau mimboros Poransis.
+She served me coffee.	Poposurung yau do kupi' montok doho.
+Show me the pictures.	Pokitonon o gambar.
+Take a look at these.	Intangai lo hodi.
+Take a look in there.	Intangai id suang lo hodi.
+Thank you for asking.	Kotoluadan tu monguhot.
+Thank you for coming.	Kotoluadan tu kinorikatan.
+Thank you for dinner.	Kotoluadan tu dumuom do sodopon.
+Thank you for trying.	Kotoluadan do mumbal.
+There were two cakes.	Haro duo kiik.
+These are all I have.	Haro no iti ngawi mantad doho.
+They have lost a lot.	Natagakan diolo kogumuan.
+They shared feelings.	Maan iyolo do piuhupan kaka kopurimanan diolo.
+Tom didn't buy bread.	Au i Tom minomoli do ruti paun.
+Tom is Mary's nephew.	Tom nopo nga mononginan Mary.
+Tom is ready to help.	Nokosodia i Tom do monguhup.
+Tom wrote the report.	Minonurat i Tom do laporan.
+We all work too hard.	Monotos tokou kopio do kumaraja.
+We can all walk home.	Milo' tokou poimpanau muli walai.
+We can order a pizza.	Milo' tokou monuhu' do piza.
+We can still do that.	Milo' tokou po maan dilo.
+We can talk about it.	Milo' tokou moboros kaka ti.
+We can use your help.	Milo' tokou mokiuhup mantad dika.
+We can't forget that.	Au yahai milo olingan dilo.
+We shared everything.	Maan tokou do piuhupan ngawi.
+What are you cooking?	Nunu onsokon nu?
+What do you remember?	Nunu o kasarahan nu?
+Where can I meet Tom?	Hinonggo oku miruba Tom?
+Where is your father?	Honggo tapa nu?
+Where is your school?	Hinonggo sikul nu?
+Who is he talking to?	Disai dii binoros dau?
+Why are you doing it?	Nokuro ko' mangan dilo?
+Why are you home now?	Nokuro ko' id walai do baino?
+Why did you tell Tom?	Nokuro tu pinopoli ko di Tom?
+You always lie to me.	Asaru ko' mongudut doho.
+You can come back in.	Milo' ko' koguli kagu monuang.
+You can come in here.	Milo' ko' korikot id hiti.
+You can head on home.	Milo' ko' muli walai.
+You can hold my hand.	Milo' ko' mongigit palad ku.
+You can ride with me.	Milo' ko' suminakai maya doho.
+You can stay in here.	Milo' ko' miyon hiti.
+You can stay with me.	Milo' ko' mangandad maya doho.
+You can stay with us.	Milo' ko' mangandad maya dahai.
+You can use my phone.	Milo' ko' momoguno puun ku.
+You've been infected.	Nokoroliu ko no.
+Your answer is wrong.	Amu kopunong sisimbar nu.
+Can you keep a secret?	Obuli ko' daa lumisok kaka ri?
+Do you believe in God?	Kotumbaya ko' nangku di kinorohingan?
+Don't keep me waiting.	Kada pologoso oku poingandad.
+Everybody believes it.	Ongotumbayaan i toinsanan.
+Everyone was drinking.	Moginum i tongulun ngawi.
+He also speaks French.	Yau nga mimboros Poransis.
+He understands French.	Karati yau boros Poransis.
+I can't come in today.	Au oku korikot baino.
+I can't open this jar.	Au oku milo ukaban dilo kakanan.
+I don't like roosters.	Au oku orohian do tandaha.
+I have a twin brother.	Kimiapid oku di kusai.
+I have to go to sleep.	Moi oku odop no koti.
+I know what you meant.	Oilaan ku do komoyon nu.
+I met your girlfriend.	Nokoruba oku di sumandak nu.
+I must finish my work.	Mositi oku do momongo karaja ku.
+I really like puppies.	Orohian oku no kopio do duku.
+I'll be out in a jiff.	Osiyau oku manau do tinu.
+I'm going to rest, OK?	Manu oku mundorong kio.
+I'm going to the mall.	Mongoi oku hilo'd supping.
+I'm not an only child.	Yoku okon' ko songulun tanak.
+Is your watch correct?	Otopot toi maso id jam nu?
+No tickets are needed.	Au tagal tikit.
+Thank you for calling.	Kotoluadan tu monolipoun.
+Thank you for sharing.	Kotuluadan tu piuhupan.
+Thank you for writing.	Kotoluadan do monurat.
+Thanks for the invite.	Kotoluadan tu pangalap.
+That serves you right.	Hondahoi, kotoh!
+The cow lost its calf.	Atagak no tampanak do sapi.
+Tom corrected himself.	Maan i Tom popunongo do sondiri.
+Tom eats very quickly.	Osikap tomod i Tom dumuom.
+Tom gave Mary a towel.	Manahak i Tom do kumut pinihid kumaa di Mary.
+Tom has a hairy chest.	Kihulu kangkab di Tom.
+Tom has been infected.	Nokoroliu i Tom.
+Tom has what he needs.	Haro nodi pokionuan di Tom.
+Tom is always healthy.	Olidas i Tom kasasari.
+Tom knows some French.	Koilo' i Tom mimboros Poransis do okuri-kuri.
+Tom pocketed the keys.	Monuang i Tom do kunsi id suang pakit.
+Tom teaches us French.	Monuduk i Tom dahai do boros Poransis.
+Tom's voice was clear.	Atalang no tuni di Tom.
+We're closed tomorrow.	Tobonon tokou suab.
+What did you do there?	Nunu maan nu dilo hodi?
+What you say is right.	Nunu nopo boros nu nga otopot.
+What's your last name?	Nunu o ngaran di tohuri nu?
+When is your birthday?	Soira tadau kinosusuon nu?
+Where is the bathroom?	Honggo kamar jamban?
+Where's everyone else?	Hinonggo toinsanan dii?
+Why did you come here?	Nokuro tu korikot ko' hiti?
+You and I are friends.	Mambalut kito.
+You and I should talk.	Pibarasan kito kama.
+All roads lead to Rome.	Wayaan ngawi gisom do bandar Rome.
+Did you bring the book?	Mongowit ko' do buuk?
+Do you translate songs?	Papadalin ko do sinding?
+Don't tell anyone that.	Kada sunudai toinsanan.
+Everything looked nice.	Osonong o kokitanan do ngawi.
+He's one of my in-laws.	Iyau no monongiwan ku.
+I can hear Tom's voice.	Korongou oku dot tuni di Tom.
+I don't speak Japanese.	Au oku mimboros Jipun.
+I should've known that.	Apatut oku daa oilaan dilo.
+I think I'll walk back.	Gumuli oku mamanau kangku daa.
+I was in the mountains.	Yoku id suang do nuluhon.
+I will gladly help you.	Otomon oku monguhup dika.
+I'm glad you called me.	Ounsikou oku tu luminohou ko' doho.
+I've never hit a woman.	Au oku bobogon montok tondu bo.
+Is your mother at home?	Kakal po tama nu id walai?
+It's a little late now.	A'adahan nodi baino.
+My GPS works very well.	Poimpanau o GPS ku.
+Spitting is prohibited.	Pogoduhan no dulaan.
+Stop talking about Tom.	Ula nodi boboroson kaka i Tom.
+That was not necessary.	Amu minog ih.
+That's a hard question.	Osusa’ ilo ponguhatan.
+That's very, very good.	Osonong-sonong tomod lo.
+There's no explanation.	Aiso o kotolinahasan.
+Tom needs your support.	Manu i Tom do sokodungon nu.
+Tom stopped everything.	Tuminingkod i Tom do ngawi.
+Tom understands French.	Karati i Tom mimboros Poransis.
+We're not finished yet.	Amu po naawi tokou.
+Where do you come from?	Hinonggo tadon nu?
+Who teaches you French?	Isai minonuduk dika mimboros Poransis?
+Why was I not informed?	Nokuro au isai sinunudan montok doho?
+Women share everything.	Maan i Tongondu pogiilang-ilangon.
+You can sit next to me.	Milo' ko' mirikau id ponong ku.
+Can I offer you a drink?	Obuli oku mamalanja dokoyu do tiinumon?
+Can we still be friends?	Monongkiambalut yahai?
+Did you read everything?	Nakabasa ko do ngawi?
+Do you have a cellphone?	Haro no himpun nu?
+Do you want me to leave?	Mumang ko doho iyadaan?
+Do you want to tell Tom?	Manu ko' popoilo kumaa di Tom?
+Don't forget the ticket.	Kada lihuai ongoi paganu dilo tikit kio.
+Don't forget your money.	Kada lihuai tusin nu.
+Don't you feel anything?	Au ko opurimanan do nunu?
+He is known to everyone.	Mintutun i tongulun ngawi kaka disio.
+I didn't want the money.	Mada oku do tusin.
+I go to school at seven.	Mongoi oku hilo'd sikul jaam koturu.
+I hate my mother-in-law.	Araatan oku di tiwanon ku.
+I have an ear infection.	Koroliu o tolingo ku.
+I thought you'd love it.	Andasan ku daa orohian ko' ti.
+I wasn't at Tom's party.	Au oku mongoi karamaian di Tom.
+I'll come back tomorrow.	Muli ku ndo suab.
+Please adopt this puppy.	Tamangai no iti duku.
+Please have a seat here.	Irikau hiti.
+Put the garbage outside.	Poopio ilo rinomos id labus.
+She doesn't like soccer.	Au isido orohian do mimbuul.
+She led a solitary life.	Kosongulunan koposion disido.
+Thank you for listening.	Kotoluadan tu kinarangahan.
+That's all I had to say.	Iti no kangku dii.
+They ate lunch together.	Mogiampot iyolo mangakan.
+They're always fighting.	Asaru iyolo mogisaap.
+This is as long as that.	Anaru iti miagal ko dilo.
+This would be a mistake.	Iri no nangku nasalaan ku.
+Tom gave me his address.	Minanahak i Tom doho disio kinoiyonon.
+Tom is in need of money.	Mumang i Tom do tusin.
+Tom took off right away.	Tumilombus i Tom do wayaan.
+Tom was shot in the arm.	Naantakan do longon di Tom o timbakan.
+What was Tom's reaction?	Ingkuro topurimanan di Tom?
+What's your middle name?	Nunu o ngaran di pintangaan nu?
+Where did I put my keys?	Hombo kunsi di pinoopi ku?
+Where do you want to go?	Hinonggo kopio tongoyon nu?
+Who wants to go hunting?	Isai manu moi pagasu?
+You and I are soulmates.	Miiso ginawo kito.
+You'd better be careful.	Mogot daa intang-intangan nu.
+You'll be my son-in-law.	Sumiliu ko' monongiwan ku.
+A light rain was falling.	Moris-poris no rasam.
+Do you believe in ghosts?	Kotumbaya ko' po nangku di rogon?
+Do you think Tom is ugly?	Araat o kokitanan di Tom?
+Don't let Tom use my car.	Kada pologoso i Tom sakayon do korita ku.
+Don't tell Tom the truth.	Kada posunudo kumaa di Tom do tootopot.
+Everyone knows about Tom.	Noilaan i toinsanan kaka di Tom.
+Everyone seeks happiness.	Mogihum toinsanan do kataadan.
+Get that thing off of me.	Insodu oku mantad dilo hodi.
+Have you ever had a baby?	Nokoumbal ko' minomogompi di baragang?
+He named his puppy Pooch.	Pungaranan isio do duku dau Pooch.
+He taught himself French.	Minsingilo' yau sondiri do boros Poransis.
+I can't live without you.	Mada oku daa poimpasi miampai aiso diya.
+I have no time for games.	Ingga no maso' ku do pamainan.
+I read the old documents.	Mambasa oku do dokumen talaid.
+I thought it was awesome.	Andasan ku daa om osonong ilo.
+I will explain it to her.	Poiloon ku ndo disido.
+I'll do everything I can.	Maan ku ndo nunu komilaan ku.
+I'll go tomorrow morning.	Mongoi oku doid kosuabon.
+I'm sorry she's not here.	Siou tu aiso isido hiti.
+I'm surprised to see you.	Kotigog oku do rumuba diya.
+I'm very glad to see you.	Tabi pintutunan kumaa dika.
+I've already accepted it.	Nakaramit oku dilo.
+I've got a few questions.	Haro piipiro uhoton ku.
+Is that as heavy as this?	Apagon ko ilo miagal diti?
+It'll never happen again.	Ingaa no kaantakan nodi.
+It's about time to start.	Otimpuun nodi maso'.
+It's our job to help you.	Iti nopo nga tugu-wangon dahai monguhup diya.
+It's time to say goodbye.	Mongoi oku no.
+It's your responsibility.	Iti nopo nga tonggungan nu.
+Let me check my calendar.	Mintong oku po kalandor ku.
+Let them know we're busy.	Poiloon iyolo kaka tokou dit atangkangau.
+Let's pretend we're busy.	Kanou maan tokou dot atangkangau nopo tinomod dahai.
+Listen to your wife, Tom.	Rongoho no sawo nu oi Tom.
+My aim is to be a doctor.	Iman-imanon ku nopo nga mongugusap.
+She goes to night school.	Mongoi iyau id sikul do totuong.
+Thank you for everything.	Kotoluadan do ngawi.
+That's a beautiful dress.	Olumis nopo rasuk dilo.
+That's all I want to say.	Iti no boros ku.
+The blood test is normal.	Kootusan nopo raha nga onomal.
+The book is on the table.	Ilo buuk id timpak do mija'.
+The puppy wants to sleep.	Siodop ilo duku.
+The sky is full of stars.	Ogumu rombituon id tawan.
+This book is about China.	Buuk nopo ti nga kokomoi pogun China.
+This is a green notebook.	Iti nopo nga buuk nota totomou.
+This is a powerful laser.	Iti nopo nga lasor tokuat.
+This is as large as that.	Agayo iti ko mantad dilo.
+This is probably for you.	Iti nopo montok diya kanto.
+Tom isn't very ambitious.	Aiso iman-imanon kopio i Tom.
+We haven't got much time.	Aiso maso tokou.
+We'll get another chance.	Manganu yahai do kosiwatan kawagu.
+What's your name, please?	Obuli ko daa sunudon do ngaran nu?
+Why don't you leave, Tom?	Nokuro tu amu ko' lumabus po oi Tom?
+You are absolutely right.	Otopot kopio kanu.
+You have a gum infection.	Oruol ngonsis ku.
+You're parked in my spot.	Noopian do padsakayan nu hodi onuan ku.
+Are you sure this is real?	Otopot ko diti?
+Could you take my picture?	Milo' ko onuai gambar ku?
+He knew the story already.	Noilaan iyau nodi do tangon.
+He seems to be in trouble.	Miagal do haro kobolingkangan iyau ih.
+He's sleeping like a baby.	Noodop yau miagal do baragang.
+I bet I know what's wrong.	Koilo' oku nunu nasalaan dii.
+I can't remember his name.	Au oku kosorou ngaran dau.
+I don't care much for Tom.	Au oku opusou di Tom.
+I have a friend named Tom.	Kitambalut oku di ngaran i Tom.
+I have some money with me.	Haro po tusin dot owitan ku.
+I think things will be OK.	Osonong-sonong kangku daa.
+I'm sorry, I have no idea.	Siou no, aiso nopo toilaan ku dii.
+It rained hard last night.	Asapou nokopio rasam do kosodop totuong.
+Please bathe the children.	Ngoi momodsu do tanganak.
+She walked very carefully.	Momilogot-logot isido mamanau.
+Sorry to keep you waiting.	Mokiampun oku tu alaid ko' poingandad.
+Sorry to keep you waiting.	Siou tu alaid ko' poingandad.
+Thank you for remembering.	Kotoluadan tu kosorou.
+Thank you for the flowers.	Pounsikou tu onuon ko do tusak.
+That's what I want to ask.	Iri no uhoton ku dii.
+The box was full of books.	Nabagalan dilo kaban o buuk.
+They have twelve children.	Hopod om duo no kitanak diolo.
+Tom ignored Mary's advice.	Kologos i Tom do boros kad Mary.
+Tom is here to protect me.	Hiti i Tom tamangon doho.
+Tom is reading a magazine.	Mambasa i Tom do majala'.
+Tom sat down on the couch.	Mirikau i Tom do luluwion.
+Tom seemed really annoyed.	Otogod ginawo di Tom id tokito.
+Tom tried to open the jar.	Mumbal i Tom ukaban do kakanan.
+What do you want from Tom?	Nunu pokionuan nu mantad di Tom?
+Why are you angry with me?	Nokuro tu tumogod ko doho?
+Why doesn't Tom like Mary?	Nokuro tu au i Tom orohian di Mary?
+Yesterday was my birthday.	Kinosusuon ku id kosodop.
+You and I are old friends.	Tambalut kito ii talaid.
+You don't want to do that.	Au ko mumang maan dilo.
+Did you receive my letters?	Nakaanu ko' do surat ku?
+Do I look as bad as I feel?	Araat ko topurimanan ku id tokito ti?
+Do you want me to help you?	Manu ko' daa mokiuhup mantad doho?
+He is a teacher of English.	Isio nopo nga mongingia do boros Inggilis.
+Her beauty is incomparable.	Ingaa tulun milo tondingon mantad do kolundusan disido.
+I know that doesn't matter.	Nokoilo' oku tu amu monguro.
+I know that doesn't matter.	Nokoilo' oku tu amu tagal i.
+I read a book while eating.	Mambasa oku do buuk om mangakan po.
+I want to make Tom jealous.	Manu oku poposolon di Tom.
+It was a lovely experience.	Aramai no toilaan do noonuan ti.
+It's raining cats and dogs.	Asapou no rasam lo kopio.
+Leave me a message, please.	Paatadai komi nu hiti kio.
+Let's go and see him there.	Kanou moi ruba disio hilo.
+Let's pretend we're aliens.	Tomod-tomodon yahai dumadi do alian.
+Please show me another one.	Pokitonon oku do kawagu.
+Please write with a pencil.	Posurato maya do pinsil.
+Sit over there and shut up.	Irikau no hodi om pakadaada.
+Tell me how you're feeling.	Sunudai oku do topurimanan nu.
+That food's hard to digest.	Osusa' no tonoson dilo taakanon.
+The rain continued all day.	Tumilombus iri masam-rasam sangadau.
+This dictionary isn't mine.	Kamus nopo ti nga okon gia doho dii.
+Tom probably saved my life.	Minanampasi matu i Tom doho.
+Tom speaks French fluently.	Abalantas i Tom mimboros Poransis.
+Tom told Mary he'd do that.	Poiloon i Tom kumaa di Mary do minaan isio dilo.
+Tom used to be my roommate.	Koruhang miiso bilik ku i Tom.
+We also went to the temple.	Minoi tokou hilo'd walai sasambayang.
+We need some more firewood.	Manu yahai suduon do kawagu.
+We're practically brothers.	Oubas yahai sabaagi do tobpinai.
+What are you talking about?	Nu komoyon nu?
+What we need now is a rest.	Nunu nopo pokionuan ku nga mundorong.
+Where can I rent a costume?	Poingkuro daa milo oku moniwa do pakayan?
+Who would want to kill Tom?	Isai sipatai di Tom?
+You and I are good friends.	Tambalut kito ii tosonong.
+You look like an orangutan.	Miagal kogiu ko dii.
+Are you for or against this?	Awak ikut kah atau bantah?
+Both you and I are students.	Duo kou om yoku nopo nga susumikul.
+Have a look at that picture.	Antangai gambar lo.
+How do you like these poems?	Poingkuro ma minogihum ko' dilo sisindiron?
+I didn't know anybody there.	Au oku nokoilo do toinsanan hilo.
+I don't have an explanation.	Aiso o kotolinahasan ku.
+I know how busy you've been.	Noilaan oku do kosongkuro daa atangkangau ko dii.
+I'll pay you for everything.	Bayaran ku ndo nunu.
+I'm the one who has the key.	Yoku ti haro do kunsi.
+It's shockingly inexpensive.	Au oilaan tu omura gatang ti.
+Let's get back to the party.	Kanou gumuli hodi karamaian.
+Mary bought several dresses.	Minoboli i Mary do pipiro rasuk.
+Most people think I'm crazy.	Ondos di kogumuan tulun daa om noulau oku ih.
+My grandson is still a baby.	Baragang po i manangaki ku.
+My grandson is still a baby.	Baragang po i monongodu ku.
+Thank you for understanding.	Kotoluadan do orotian.
+The taxi is waiting outside.	Mangandad nopo ilo tiksi id labus.
+This is my business address.	Iti no kinoiyonon pogindopuan ku.
+This isn't a very good time.	Au osonong tomod timpu diti.
+Today I'm working from home.	Kumaraja oku hiti'd walai ku baino.
+Tom doesn't have hairy arms.	Aiso hulu longon di Tom.
+Tom is playing with his son.	Mamain i Tom do tanak kusai dau.
+What are you doing tomorrow?	Nu maan nu id suab?
+What are you thinking about?	Nunu pomusarahan nu?
+What time do you start work?	Jaam kopiro timpuun ko moi pakaraja?
+What's your daughter's name?	Isai ngaran di tanak tondu nu?
+Which house did you live in?	Hombo tiso walai kinoiyonon nu?
+You'll tell me later, right?	Posunudon nu doho do tiinu kon?
+Don't think I don't like you.	Kada koondos dot au oku muhang dika.
+Have you ever been to Mexico?	Nokoumbal ko' minongoi id Miksiko?
+How many people are infected?	Songkuro ginumu tulun do ruminoliu?
+I am trying to learn English.	Umbalan ku pisingilaan do boros Inggilis.
+I don't want to eat any more.	Mada oku mangakan nodi.
+I don't want to go to school.	Mada oku mongoi id sikul.
+I have a friend who loves me.	Haro oku do tambalut muhang maya doho.
+I like this better than that.	Orohian oku diti dot osonong ko mantad dilo.
+I never feed my dog raw meat.	Ingaa nopo pinapaakan oku do tasu ku do daging taata.
+I understand it more or less.	Orotian oku do togumu toi ko tokuri.
+I'm not sure I feel the same.	Au oku oilaan do piagalan diri.
+I'm not sure that's the case.	Au oku songkuro oilaan dilo kaantakan.
+I'm saving the best for last.	Mongikit oku montok sogigisom.
+I've got a frog in my throat.	Haro bonong id suang do tatalanan ku.
+I've lived here for 30 years.	Hiti oku daa poingiyon do 30 toun noddi.
+I've lost your email address.	Natagakan ku do imil atodon nu?
+It was very cold that winter.	Adalaan om osogit.
+May I borrow your dictionary?	Milo' oku daa mokianu kamus nu?
+My watch is ten minutes slow.	Oloyo' no jaam ku hopod minit.
+She wrote a book about birds.	Minonurat isido do buuk kaka tombolog.
+Speaking French is difficult.	Apagon no mimboros Poransis.
+Thank you for your hard work.	Kotoluadan tu tuminotos ko' do karaja kio.
+That was a pretty good movie.	Osonong kopio ilo wayang.
+This is an interesting story.	Kolihis ginawo iti tangon.
+Tom didn't let Mary kiss him.	Au i Tom pinotungubon di Mary.
+Tom eats more than Mary does.	Ogumu i Tom mangakan mantad ko di Mary.
+Tom is a failure as a father.	Au osonong kopio i Tom sabaagi do tapa.
+Tom is never late for school.	Au i Tom nokoumbal dot a'adahan moi sikul.
+Tom seems like a good friend.	I Tom nopo nga tambalut ii tosonong kanto.
+We don't have to do this now.	Ingaa no yahai maan diti baino.
+We're very lucky to be alive.	Kinasip tosonong tokou poimpasi.
+What does this sentence mean?	Nunu komoyon ayat ti?
+What time do you have dinner?	Jaam kopiro mangakan dougotuong?
+When will you come back home?	Soira ulion dualai nu?
+You have no right to be here.	Au ko' milo rumikot hiti.
+"Is she young?" "Yes, she is."	"Omulok isido?" "Oh"
+"Thank you." "You're welcome."	"Pounsikou." "Miagal nopo."
+A bird is singing in the tree.	Suminding o tombolog id sawat do guas.
+Actually, I've never seen one.	Otopot nopo om au oku nokoumbal nokokito diri.
+Do you know what Tom is doing?	Nokoilo ko' di nunu maan di Tom?
+Have Tom meet us here at 2:30.	Moi i Tom ruba dotokou hiti id jaam 2:30.
+He came back home a while ago.	Muli isio dualai di tiinu.
+His wife is one of my friends.	Sawo dau nopo nga tambalut ku.
+How do you say that in French?	Nunu ka do boros Poransis dilo?
+I didn't want to eat anything.	Au oku siakan do nunu.
+I do my homework after school.	Momonsoi oku do karaja sikul ku katalib muli mantad id sikul.
+I don't have any nice clothes.	Ingaa nopo do nunu pakayan ku.
+I know how you feel about Tom.	Nokoilo oku diya'd topurimanan kaka i Tom.
+I know that this is important.	Noilaan ku nopo oponsol ti.
+I think we're all a bit crazy.	Mulau yahai kangku daa.
+I took piano lessons as a kid.	Minanganu oku do kalas piano do tontok di tokoro oku po.
+I waited for him all day long.	Alaid oku poingandad disio sangadau.
+I've started to read the book.	Tumimpuun oku mambasa do buuk.
+Mary is Tom's daughter-in-law.	Mary nopo nga monongiwan Tom.
+My brother watches television.	Mintong i tobpinai kusai ku do TV.
+That's nothing to be proud of.	Aiso no otomon dilo.
+Tom died in 2013 of pneumonia.	Napatai i Tom id toun 2013 tu toruol do Pneumonia.
+Tom doesn't look very healthy.	Au olidas i Tom kopio.
+Tom is very worried about you.	Tumongob kopio i Tom kokomoi diya.
+Tom often gets ear infections.	Kiroliu i Tom id tolingo dau.
+Tom told Mary he was a doctor.	Pinoilo di Tom kumaa di Mary isio nopo nga dukutur.
+Two students are absent today.	A'haro duo susumikul hiti'd kalas dinondo.
+Which is better, this or that?	Honggo tiso dot osonong? Iti toi ko ilo?
+You haven't touched your food.	Amu po mangakan ko dilo taakanon nu.
+You shouldn't let Tom do that.	Apatut no au ko lumogos di Tom minaan dilo.
+You're busy today, aren't you?	Atangkangau ko' baino toi?
+Are we able to prevent disease?	Milo tokou nangku do nakaanu do angkang diri toruol?
+Are you going to do that alone?	Maan ko dilo songulun?
+Both his grandfathers are dead.	Napatai no taki dau goduo.
+Can I offer you ladies a drink?	Obuli oku daa mamalanja dokoyu tiinumon oi sumandak?
+Could you carry my bags for me?	Milo ko' mangangat do biig ku?
+Could you open this jar for me?	Obuli ko daa ukabai dilo kakanan?
+Do we need to do anything else?	Apatut ko yahai maan do kawawagu?
+Don't buy me any more presents.	Kada pogi pomoli do titahak montok doho.
+Have you ever seen this before?	Nokoumbal ko nokokito diti?
+He was a pioneer in this field.	Kumoiso isio hiti'd gana'.
+How do you say that in Italian?	Nunu ka do boros Itali dilo?
+I will make a new suit for you.	Maan oku ndo rasuk wagu montok diya.
+It stopped snowing an hour ago.	Tuminingkod nodi salju sajaam tiinu.
+It was her wish to go to Paris.	Kalansanan dau do minongoi hilo'd Paris.
+Let's get our photograph taken.	Kanou manganu tokou do gambar.
+My brother smokes a great deal.	Adalaan i tabang ku do momungkus.
+My homework is nearly complete.	Osomok no daa momongo do karaja sikul ku.
+That's not even the worst part.	Ilo okon ko boogian dot araat.
+The calf was born this morning.	Nokosusu no tampanak dongkosuabon diti.
+There is an apple on the table.	Haro no apol id timpak do mija'.
+This machine is familiar to me.	Miagal do koilo oku momoguno mosin ti.
+Tom and Mary argue quite often.	Migogut i Tom om i Mary.
+Tom drove Mary's car to Boston.	Papapanau i Tom korita di Mary montok pakayaan hilo'd id Boston.
+Tom is in a bad mood right now.	Au osonong ginawo di Tom dinondo.
+Tom is trying not to freak out.	Mongumbal i Tom au kotigog.
+Tom is way older than he looks.	Otuo i Tom mantad ko tokito dau.
+Tom knows nothing about Boston.	Au i Tom oilaan kopio kokomoi do Boston.
+Tom won $10,000 in the lottery.	Nakalantoi i Tom do numbur soginumu 10,000.
+We all know what happened here.	Nokoilo yahai do nunu kinaantakan hiti.
+We could understand each other.	Soroiso-iso tokou mogirati.
+Wet firewood doesn't burn well.	Au songkuro kosorob iri suduon toyopos.
+What do you think you're doing?	Nunu o mangan nu?
+Whatever it is, I didn't do it.	Nunu nopo kaantakan lo nga au oku numaan dilo.
+When does the next train leave?	Soira tongoyon ilo koritapui do kawagu?
+Which is cheaper, this or that?	Honggo tiso dot ouwai? Iti toi ko ilo?
+Who is the tallest of the five?	Isai nopo angaranggou do limo tulun?
+You don't need to say anything.	Au tagal poboroso diri.
+Can I get a little help, please?	Mokiuhup oku po, obuli?
+He showed me how to make a cake.	Minonuduk iyau doho poingkuro ma pomomonsoi do kiik.
+How about another cup of coffee?	Ingkuro po sanggalas kupi kio?
+How do you say "cat" in Spanish?	Nunu ka do boros Sopanyol "tungau"?
+How do you say "love" in French?	Nunu ka do boros Poransis "guminawo"?
+I keep my hammer in the toolbox.	Poopion ku do dunsul ku id suang kaban pakakas.
+I personally don't care anymore.	Au oku monguro nogi.
+I teach French at a high school.	Monuduk oku do boros Poransis hilo'd sikul tasawat.
+I want you to do that right now.	Manu oku diya maan do baino.
+I was surprised by the question.	Nokotigog oku korongou dilo ponguhatan.
+My father-in-law is an engineer.	Tiwanon ku nopo nga injiniur.
+People like you are never happy.	Miagal dika, amu insan nopo ounsikou.
+There are no pyramids in Europe.	Ingaa no piramid hilo'd pomogunan do Eropah.
+There is a church near my house.	Haro gorija poinsomok do walai ku.
+This is the vase that Tom broke.	Iti no goroi do binobog di Tom.
+Tom brought Mary to the station.	Minongongoi i Tom di Mary hilo'd sitisin.
+Tom covered Mary with a blanket.	Monongkumut i Tom di Mary.
+Tom didn't even know I was here.	Au nokoilo i Tom do hiti oku dii.
+Tom disappeared into the jungle.	Natagak i Tom id suang gouton.
+Tom has a black dog, doesn't he?	Haro i Tom nangku do oitom tasu?
+Tom is waiting for Mary to call.	Mangandad i Tom do tolipounan di Mary.
+Tom made the same mistake again.	Minaan sala i Tom do kawawagu nogi.
+Tom said Mary didn't seem angry.	Au otogod i Mary ka di Tom.
+Tom, you're wanted on the phone.	Oi Tom, tolipoun montok diya.
+We have three minutes remaining.	Haro po tolu minit dahai.
+Do you want another one of these?	Manu ko' tiso kaagu?
+Do you want to come out and play?	Manu kou ongoi soliwan om main?
+Don't speak with your mouth full.	Kada boroso miampai do noponu taakanon id suang kabang nu.
+He introduced me to his daughter.	Popointutun iyau di tanak tondu dau kumaa doho.
+How do you say "hello" in French?	Nunu ka do boros Poransis "kopiwosian"?
+How do you say "yuri" in English?	Nunu ka do boros Inggilis "yuri"?
+How is it going with your family?	Okuro-kuro habar di paganakan nu?
+I am four years younger than him.	Omulok oku mantad dau apat toun.
+I can't make head nor tail of it.	Au oku milo maan do tulu toi ko tikiu dau.
+I just don't want to go with Tom.	Mada oku daa mongoi ruhang maya di Tom.
+I want to ask you one last favor.	Muhot oku diya po toruhai kio.
+I'd rather be a bird than a fish.	Orohian oku do silihon do sada’ mantad ko silihon do tombolog.
+I'm not sure what I was thinking.	Uka nunu pomusarahan ku?
+If I were you, I'd paint it blue.	Nung yoku nopo nga ika, maan oku'ndo saat do tobulou.
+Is Mrs. Smith an English teacher?	I Andi Smith songulun mongigia boros Inggilis?
+Malaria is a preventable disease.	Haro o angkang mantad do toruol Malaria.
+Not all of the staff was present.	Aiso koinsanai pakaraja tuminindapou.
+She was almost run over by a car.	Oruhai po tohubon isido do korita di tiinu.
+The storm caused a lot of damage.	Sabap nopo tongus ti nga kogumuan do naraag.
+This is more expensive than that.	Apagon iti gatang ko mantad dilo.
+Tom filled the bottle with water.	Monuang i Tom do waig id suang do butul.
+Tom has been a perfect gentleman.	I Tom nopo nga kusai dot osonong kopio.
+Tom is apparently a truck driver.	Pakarajaan di Tom nopo dinondo nga papapanau luri.
+Tom is suffering from a headache.	Kisinduol tulu di Tom.
+Tom thought Mary could beat John.	Andasan di Tom daa om kasaap i Mary di John.
+Tom told me not to do that again.	"Kada maai kaagu" ka di Tom kumaa doho.
+Tom wanted to wear his new shoes.	Manu i Tom panangkasut wagu dau.
+Tom weighs at least 70 kilograms.	Winagat nopo di Tom nga 70 kilogram.
+Tom went downtown to do shopping.	Minoi i Tom supping hilo'd talun-alun.
+We'd like another bottle of wine.	Onuai yahai do sombotol wain po kaagu.
+What did you do on your birthday?	Nunu mangan nu id ontok timpu do tadau kinosusuon nu?
+What happened to Tom? Is he dead?	Nokuro di Tom? Napatai iyau dii?
+Wild boars have dug up my garden.	Noukadan do tumo ku mantad do bakas.
+You're in better shape than I am.	Osonong tomod ura tinan nu mantad doho.
+Did you know Tom was unhappy here?	Oilaan ko di Tom tu au otood iyau hiti?
+Even Tom himself wasn't convinced.	I Tom nga amu no kalansan sondiri.
+Have you been able to contact Tom?	Nakaanu ko' nopongo monolipoun di Tom?
+Have you heard this story already?	Nokoumbal kou nokorongou diti tangon no?
+How do you say "pasta" in Italian?	Nunu ka do boros Itali "pasta"?
+How do you say "pizza" in Italian?	Nunu ka do boros Itali "piza"?
+I don't know how deep the lake is.	Au oku nokoilo songkuro rinalom do botung dilo.
+I study at a university in Boston.	Poingsikul oku id Unibisiti Boston.
+I was told to be here on the 13th.	Nosunudan ku do moi hiti id tadau ko-13.
+It is dangerous to drink too much.	Koligagaanan nung adalaan do moginum.
+My hens laid fewer eggs last year.	Minogontolu o golupo ku dot okuukuri id toun nakatalib.
+That fox must have killed the hen.	Atantu no ilo tompu mooi patayo do golupo.
+There are some cookies in the jar.	Haro tindalam hodi suang do kakanan.
+This is the temple where he stays.	Hiti no walai sambayang dot iyonon dau.
+Tom left school right after class.	Mongoi labus i Tom mantad sikul kalapas do kalas.
+Tom never wants to see Mary again.	Au i Tom siongoi ruba di Mary nodi.
+We managed to escape just in time.	Nokoidu' tokou daa ii.
+You don't want it to get infected.	Mada ko do koontok do rolihon.
+You may choose whichever you want.	Milo' ko' momili nunu pokionuan nu.
+Are we still on for tomorrow night?	Koongoi ko yahai id suab totuong dii?
+Do you really want to live forever?	Manu ko po nangku poingiyon do sogigisom?
+Do you think I should write to Tom?	Apatut po nangku monulis oku diti kumaa di' Tom?
+Have any of you ever talked to Tom?	Nokoumbal kou po nangku minonongkiboros miampai di Tom?
+He always listens to serious music.	Asaru kopio iyau mokinongou do loyuk.
+He broke up the chair for firewood.	Monipu isio do tirikohonon silihon do suduon.
+How do you say "kaisha" in English?	Nunu ka do boros Inggilis "kaisha"?
+I am married and have two children.	Nakasawo oku no om duo kitanak.
+I don't think what I did was wrong.	Au oku kosorou do nunu nopo sala ku.
+I missed my family, so I went back.	Langadon oku do paganakan ku, om gowoi poddi moi uli.
+I usually have a snack around 2:30.	Oubas oku mooi akan do taakanon id jam 2 satanga.
+Man is the only animal that laughs.	I tulun no koilo mongirak ko tayam do suai.
+Please answer this question for me.	Simbaro iti ponguhatan kumaa doho.
+She doesn't know that I'm Japanese.	Au yau noilaan kaka yoku nopo nga i tulun Gipun.
+The lion is the king of the jungle.	Ih singa nopo nga wowoyoon hiri'd gowuton.
+They wash their car every Saturday.	Asaru iyolo monusi korita diolo tikid tadau koonom.
+Tom didn't have time for breakfast.	Ingaa timpu i Tom mangakan dongkosuabon.
+Tom has already finished breakfast.	Nopongo nodi i Tom do moginduruk.
+Tom has already finished breakfast.	Nakaakan nodi i Tom dongkosuabon.
+Tom is the cutest boy in the class.	Ih Tom nopo nga tanakwagu tongoporodot id kalas.
+Tom may have taken the wrong train.	Nakasalu i Tom suminakai do kuritapui.
+Tom says he'll call Mary next week.	Lohowon iyau ndo Mary id minggu tobontol ka di Tom.
+Tom scolded his son for being lazy.	Otogod i Tom di tanak kusai dau tu gobulan.
+Tom should've arrived by this time.	Apatut no i Tom korikot hiti'd baino.
+What grade did you get on the test?	Nunu dot onuan diya'd ponisaan?
+Children don't need their own rooms.	Au i tangaanak mumang do linimput diolo.
+Did you know that Tom would be here?	Noilaan kou di Tom korikot hiti?
+Do you know Tom's girlfriend's name?	Nokoilo ko'd ngaran sumandak di Tom?
+He took something out of his pocket.	Onuan iyau id suang do pakit dau.
+I don't see how you can ignore this.	Au oku kokito poingkuro daa pologoson nu dilo.
+I don't think you really understand.	Au ko kopio orotian kangku daa.
+I don't want to see your face again.	Mada oku mintong turos nu nogi.
+I have to finish doing this by 2:30.	Mositi oku momongo diti id jaam ko-2 satanga.
+I think I should join a study group.	Sorohon ku nga apatut no mooi amung do pisompuruan do palajaran.
+I thought you guys had already left.	Andasan ku nopo daa om nokoongoi kou di.
+I would like you to go home with me.	Manu oku diya muli walai maya doho.
+Illness prevented me from going out.	Toruol diri nga mongodu doho mooi labus.
+Let's drink to our charming hostess!	Kanou moginum miampai do pakaraja tondu tolumis tokou!
+She got a part-time job as a typist.	Kikaraja isido dot oruhai sabaagi do mananaip.
+She talks as if she knew everything.	Mimboros iyau do nunu nopo di noilaan dau do ngawi.
+Tom and Mary live in the same house.	Poingiyon i Tom om i Mary do walai dot irad.
+Tom didn't want Mary to drive drunk.	Mada Tom manganu montok Mary papapanau lo korita dit lumogop.
+Tom has been asked to leave already.	Pinoposunud i Tom nodi do lumabus.
+Tom was entranced by Mary's singing.	Nokorongou i Tom do sinding di Mary.
+We're not lost. I know where we are.	Au yahai apalid. Oilaan oku do hombo yahai.
+"Why are you angry?" "I'm not angry!"	"Nokuro tu otogod ko?" "Au oku otogod bogia!"
+Christmas is just two weeks from now.	Haro po duo minggu do Krismas mantad baino.
+Couldn't you have just waited a week?	Au kou mangandad no sominggu?
+He rose from his chair to welcome me.	Minangangat iyau do tirikohonon dau mooi do porikoton montok doho.
+I bet Tom never kissed you like that.	Au ko tunguban di Tom miagal diri kangku daa.
+I don't know how to be happy anymore.	Au oku koilo songkuro daa kataadan diri.
+I tried to learn the melody by heart.	Umbalan ku pohondomon dilo loyuk.
+I'm sure Tom doesn't do that anymore.	Au i Tom maan diri nogi kangku daa.
+She divided the cake between the two.	Miniduo isido do kiik.
+She is very anxious about his health.	Tumongob i ginawo disido kokomoi kolidasan disio.
+She was beautiful when she was young.	Olumis isido id tontok do komulakan disido.
+She was born and brought up in Osaka.	Nosusu isido om guminayo nondo hilo'd Osaka.
+The store is open all the year round.	Mongiwang o kadai do sontob sontoun diri.
+This picture is from three years ago.	Gambar nopo ti nga mantad do tolu toun nodii.
+Those hens lay eggs almost every day.	Mogontolu ilo golupo do monikid tadau.
+Tom doesn't believe Mary can do that.	Au i Tom mumboyo di Mary do milo maan dilo.
+Tom doesn't really enjoy translating.	Mada i Tom kopio papadalin do boros.
+Tom wasn't able to do what he wanted.	Au i Tom koilo do nunu kopio wonsoyon dau.
+Were you able to watch TV last night?	Nakaanu ko do mintong TV kosodop?
+What foods should a diabetic not eat?	Nunu taakanon dot au milo akanon di toruol do diabetik?
+Which direction were they heading in?	Honggo tiso wayaan diolo?
+While napping, I had a strange dream.	Donkoodopon ku, osuai-suai tinipi ku.
+Your dress is already out of fashion.	Alaid kopio kokitanan pakaian nu.
+He traveled to Hawaii with the family.	Moi iyau tombului hilo'd pogun Hawaii maya di paganakan.
+How do you say "I love you" in French?	Nunu ka do boros Poransis "muhang oku dika"?
+I didn't know you were looking for me.	Au oku oilaan tu iya mongilot doho.
+I don't believe we've been introduced.	Au oku kotumbaya dot nointutunan dahai.
+I don't even know who you are anymore.	Au oku kointutun diya nodi.
+I had never seen her before that time.	Au oku nokoumbal nokokito disido.
+I thought your remark was interesting.	Andasan ku daa om osonong do tanda nu.
+My nephew is getting married tomorrow.	Misawo i manangaman ku id suab.
+The children were playing in the park.	Mogimaamain ilo tangaanak hilo'd taman.
+The death penalty should be abolished.	Mongotus no kama ilo sogit kapatayan.
+Tom would like to paint his room blue.	Manaat i Tom do bulou hodi bilik dau.
+Artists are highly respected in France.	Pantangon o atis-atis hilo'd pogun Poransis.
+For God's sake, what are you up to now?	Atuukoi, nunu maan nu dinondo?
+He killed himself at the age of thirty.	Kuminiros iyau tontok do tumur tolu nohopod toun.
+He wasn't at home when I called on him.	Ingaa no iyau hilo'd dualai dau soira tinolipoun ku dau.
+How do you say "thank you" in Japanese?	Nunu ka do boros Gipun "pounsikou"?
+I don't know anything about their plan.	Au oku oilaan nunu nopo pomomonsoyon diolo.
+My sister will be getting married soon.	Sawaan i taka ku do tiinu.
+She has become more and more beautiful.	Lobi ongolumis isido.
+She was happy that she passed the exam.	Otood ginawo disido tu nakalantoi id panantaban.
+The hard disk was completely destroyed.	Naraag ngawi ilo kakamot haddis.
+Tom's dog likes to lick people's faces.	Orohian o tasu di Tom silaon id turos do wokon.
+We can get along very well without you.	Osonong yahai kopio miampai do aiso iya.
+What prevented you from coming earlier?	Nunu kobolingkangan nu rikoton hiti'd tosopung?
+Any watch will do as long as it's cheap.	Nunu nopo jaam piya nga milo' do solinaid nopo daa omura gatang dau.
+I like to decorate my room with flowers.	Orohian oku do polumison bilik ku maya do tusak bunga.
+I want two hot dogs with lots of pepper.	Manu oku daa duo hut dug miampai dot ogumu lado'.
+I'd rather discuss this at a later time.	Somoonu yahai kopibooboros dilo kawagu.
+Something is wrong with this calculator.	Haro kobolingkangan iti kakulator.
+Tom didn't know where to burn the trash.	Au i Tom koilo hombo potutudan do rinomos.
+Tom has a date with Mary this afternoon.	Haro timpu pinirubaan i Tom miampai di Mary dangadau diti.
+What time do you think Tom will be back?	Jaam kopiro muli di Tom do tiinu?
+Where were you born and how old are you?	Hombo kinosusuon nu om piro no toun nu?
+Cats have the ability to see in the dark.	Haro o tungau do milo mintong dot otuong.
+Don't you want to come to Boston with me?	Au ko moi hiti Boston miampai doho?
+He doesn't know what he's supposed to do.	Au iyau koilo do nunu dot apatut mangan dau.
+His advice encouraged me to try it again.	Boros dau lo minonuduk doho umbalan po kawagu.
+How can something so wrong feel so right?	Nokuro tu haro nopo kisala' nga otopot nogi?
+I can't do that unless I have Tom's help.	Au oku milo wonsoyon dilo nga mogot daa haro uhupan di Tom.
+I don't even know where she is right now.	Uka moti hombo isido baino?
+I have expected his death for six months.	Kapatai matu iyau id onom tulan kangku daa.
+I played trumpet in our high school band.	Nokoumbal oku pinopouni do torumpit id tontok posikulan do tiim.
+I'm reading the Bible for the first time.	Mongomoi oku do baibol id koiso.
+It is dangerous to fly in this heavy fog.	Haro koligagaanan nung tumulud hilo'd lisohu dot akapal.
+She wouldn't allow me to read the letter.	Au isido doho papabasa diri surat.
+There's more ways than one to kill a cat.	Haro lobi po mantad ko songulun mamatai do tungau.
+There's more ways than one to kill a cat.	Haro lobi po mantad ko tiso mamatai do tungau.
+They dropped an atomic bomb on Hiroshima.	Pinorotu diolo do bodilan atom hodi Hiroshima.
+Tom and Mary adopted a child from Russia.	Minongkibit i Tom om i Mary do tanak mantad hilo'd pogun Russia.
+Tom chose the color to paint our offices.	Momili i Tom do wotik montok powotikon do tupis dati.
+Tom noticed that Mary had washed the car.	Nokoilo i Tom di Mary tu nokosusi nodi do kurita.
+Tom told me that he hadn't done that yet.	Pinoilo oku di Tom tu au po momongo dilo.
+Tom, what do you want to have for dinner?	Oi Tom, nunu siakan nu don totuong diti?
+We are going to the movies. Come with us.	Moi yahai intong wayang. Kaino tumanud dahai.
+Will you kindly let me have a look at it?	Mintong ko po dilo hodi do toruhai?
+You said you needed me to sign something.	Manu ko doho mananda longon ku dilo hodi kanu dii.
+He promised me that he would come at four.	Minamatos iyau korikot id jaam kaapat.
+I didn't drink the wine Tom poured for me.	Au oku moginum do wain do ponuangan di Tom.
+I've been waiting for almost half an hour.	Mangandad oku do solinaid satanga jam.
+It is against my principles to tell a lie.	Iti nopo nga kababakan do undang-undang ku nung poiloon ku do tudut.
+It's your decision whether you go or stay.	Iti no pokionuan nu tam siongoi toi ko mangandad.
+Let me know if there is anything I can do.	Poiloo oku nung haro o numaan.
+She stayed in that area for a short while.	Noiyon isido hilo'd kinoiyonon dot oruhai.
+That island's population lives on fishing.	Ogumu poingiyon hilo'd pogun tokoro maan pagapon.
+The company is on the verge of bankruptcy.	Osomok-somok nodi ilo sarikat do korikot id korutuman do kousinan.
+Tom seems to know exactly what he's doing.	Miagal do noilaan i Tom do numaan dau.
+Tom should already be in Australia by now.	Apatut no korikot i Tom hilo'd pogun Australia dinondo.
+Tom told me you used to live in Australia.	Nokosunud i Tom kumaa doho tu poingiyon ko hilo'd pogun Australia.
+Tom wanted Mary to say that she loved him.	Manu i Tom do boros di Mary kaka guminawo iyau disio.
+What would you do if you were in my place?	Nu mangan nu id walai ku tinu?
+Generally speaking, history repeats itself.	Ih kosoruan nga mimban-simban iri susuyan dau.
+I didn't arrive until the meeting was over.	Au oku rumikot po gisom dot aawi iri pirubaan.
+I like to visit cemeteries. Is that normal?	Siongoi oku hilo'd pamalabangan. Obuli?
+I'm looking forward to getting your letter.	Andadon ku mongintong suatan nu.
+I'm sure Tom won't be willing to work late.	Oilaan oku daa di Tom amu no kadalaai do kumaraja.
+The beginning of the story was interesting.	Kolihis ginawo ilo potimpuunan do tangon.
+The nail that sticks up gets hammered down.	Nababak ilo sondulu do monokot dilo hodi.
+The teacher told the boy not to make noise.	Minogodu i mongingia kumaa tanak kusai tu agangau dau i.
+The thief ran away when he saw a policeman.	Nokoidu i manakau soira nokokito iyau do pulis.
+There were three women standing at the bar.	Tolu no tondu poingkakat hilo'd bar.
+There's still plenty that needs to be done.	Haro po momongoh dot kawagu.
+This grocery store only sells organic food.	Haro padagangan do taakanon kiruganik hilo'd kadai pomolian taakanon.
+This is the first time I've ridden a horse.	Kumoinsan ku do sumalakoi do kuda.
+Tom and Mary hurried up the steps together.	Pinoposiau i Tom om i Mary do wayaan laang.
+Tom hasn't finished writing the report yet.	Au po minomongo i Tom do ripot.
+Tom will be a university student this year.	Silihon i Tom do susumikul id uniborsiti toun diti.
+Tom's body was found along a deserted road.	Haro tinan di Tom hilo'd wayaan do tindal.
+Water the flowers before you eat breakfast.	Tuntugai ilo tusak tintod do mangakan dongkosuabon.
+Why don't you go out and get some firewood?	Obuli ko daa mooi pokisuduon?
+You have plenty of time to catch the train.	Haro no kosiwatan nu do momogusa dilo tinjin.
+At last, her dream to be a doctor came true.	Au alaid diti, korikot nodi kalansanan dau sabaagi do dukutur.
+I wonder whether Tom is free this afternoon.	Tam osimbayan i Tom dangadau diti toi ko amu.
+Nobody can live to be two hundred years old.	Aiso tulun milo poimpasi gisom do duo nahatus toun.
+The cake was all eaten up before I got home.	Naakanan no dilo kiik ngawi tintod do muli dualai.
+The cow gave birth to a calf with two heads.	I sapi nopo nokosusu do songinan tampanak miampai duo tulu.
+The garden was surrounded by a wooden fence.	Haro tansar do kayu id posorili do tumo.
+The house was struck by lightning yesterday.	Notinggorudan do walai kosodop.
+The spider web glistened in the morning dew.	Nayapasan do walai korut o bolobou dongkosuabon.
+This box is very heavy, so I can't carry it.	Awagat tomod iti kaban, au oku milo kumakat diti.
+Tom really wanted a cup of hot black coffee.	Manu kopio i Tom do sanggalas kupi talasu.
+What'll happen to you if you don't obey Tom?	Nunu o kaantakan nung au ko rumamit di Tom?
+Chicken pox is a common sickness in children.	Lubpu nopo ti nga kosoruan do toruol kumaa di tanganak.
+Finally, I found the answer to your question.	Nokokito oku no sisimbar montok ponguhatan nu.
+He asked me to wait there until he came back.	Suminunud iyau doho moi pagandad hilo gisom do gulion dau.
+He left the room without even saying goodbye.	Sumoliwan iyau mantad do bilik miampai aiso boros "hino ko no".
+I don't like this shirt. Show me another one.	Mada oku dilo hodi basaan, pokitonon oku do kawagu.
+I don't like this shirt. Show me another one.	Mada oku dilo hodi rasuk, pokitonon oku do kaagu.
+I don't work as many hours a day as Tom does.	Au oku kumaraja do togumu timpu miagal do karaja di Tom.
+I hope to get away from Tokyo for a few days.	Alansan oku daa mugad mantad id Tokyo do piipiro tadau.
+I want to talk to as many people as possible.	Monongkiboros oku daa do piipiro tulun diri.
+I wasn't as angry as everybody thought I was.	Tootopot ti nga au oku otogod tu ondos diolo koinsanai nopo daa yoku nga otogod.
+I'd like you to help me gather some firewood.	Mumang oku diya mooi pokisuduon.
+I'm not sure whether Tom will do that or not.	Tou no i Tom mangan toi ko amu kangku daa.
+Rabbits are related to beavers and squirrels.	Miagal o Labit maya kawo o bongol om bosing.
+The first half of the story is set in Boston.	Tangon nopo kumoinsan do satanga nga hiri'd Boston.
+The real issue is how to prevent the disease.	Kobolingkangan nopo ti nga poingkuro ma angkang mantad diri toruol.
+There's a fireplace, but there's no firewood.	Haro o ropuan hilo nga ingaa o suduon.
+Tom and Mary never kiss each other in public.	Au i Tom om Mary kopitungub id labus walai.
+Tom goes to the supermarket almost every day.	Mongoi i Tom hilo'd kadai pomolian tagayo monikid tadau.
+Tom has been in the hospital for three weeks.	Nokorikot no tolu minggu i Tom id supital.
+Tom has been in the hospital for three weeks.	Nokorikot no tolu minggu i Tom id lamin pongusapan.
+Vaccinations help prevent childhood diseases.	Milo o vasinasi do monguhup tangaanak do angkang toruol.
+After he had done his homework, he watched TV.	Kopongo do karaja sikul dau, mintong iyau do TV.
+He accidentally hit his thumb with the hammer.	Naantakan disio do gondoling sondiri o dunsul.
+I have to go to the airport to meet my cousin.	Mongoi oku ruba kama di pinsan ku hilo'd tutumpoon kapal tutumulud.
+I thought it would be better to remain silent.	Andasan ku daa om mogot nogi pakadaada no.
+One's teachers should be treated with respect.	Apatut no manahak do pantang kumaa di mongingia.
+Parents punish their children for misbehavior.	Natagadan di tanganak do komolohingan tu oruya iyolo.
+She came back ten minutes after the explosion.	Nokouli isido do hopod minit katalib do timpu kokoboongon.
+She's sitting in the kitchen and drinking tea.	Mirikau isido hilo'd dompuran om monginum do tii.
+The army was advancing in the wrong direction.	Nakasalu' i susumangod do wayaan.
+They had not fought for more than forty years.	Aiso nodi saapan diolo lolobi do apat nohopod toun.
+Tom put the lid back on the peanut butter jar.	Monompon i Tom dilo bakas tumau sapi kasang.
+Tom sat at the end of the bar, nursing a beer.	Minirikau i Tom hodi pompod do kadai poginuman, om kakatan dau do bior.
+Tom tried to make sense of what just happened.	Umbalan i Tom poiloon do nunu kinaantakan.
+Do you know any good places to eat around here?	Nokoilo ko do hombo pangakanan dot osonong hiti posorili tiiyonon?
+I believe that everyone will like this picture.	Otumbayaan oku dot orohian i koinsanan dilo gambar.
+I still haven't told Tom why I want to do that.	Au oku po poiloon kumaa di Tom do nunu sabap maan ku dilo.
+I thought this pair of shoes would last longer.	Andasan ku nopo ilo kolumpa nga katahan di.
+I will be watching TV about this time tomorrow.	Mintong oku do TV id maamaso do suab.
+Illness prevented him from attending the party.	Toruol disio mangantob iyau mongoi hiri'd karamaian.
+People wear masks to prevent getting a disease.	Monompon o tongoulun do tuping montok do angkang do rolihan toruol.
+Tom always tries to do what he thinks is right.	Umbalan i Tom kasasari do nunu nopo topot id pomusarahan dau.
+Tom didn't know he no longer needed to do that.	Au i Tom oilaan tu au tagal maan no dilo.
+Why did you suddenly leave yesterday afternoon?	Nokuro tu minooi ko konihab dangadau di?
+Do you have any tickets for today's performance?	Aiso tikit nu montok abaabayan dinondo di?
+I'm from Wellington, the capital of New Zealand.	Mantad oku hilo’d Wellington, bandar tagayo do pogun New Zealand.
+Please do your chores before you go out to play.	Maai po karaja nu id walai tintod do moi pamain id labus.
+She is in the habit of jogging before breakfast.	Oubas isido moi panangkus tintod do taakanon dongkosuabon.
+Six hundred thousand men were killed or wounded.	Tam minatai toi ko korualan di onom nahatus ribu o tulun.
+The boy was accused of cheating during the exam.	Minonondos i tanak kusai tu mongudut id timpu do panantaban id sikul.
+The doctor advised my father to give up smoking.	Mamason i dukutur kumaa di tama ku do tingkodon momungkus.
+Tom has probably already been to the bank today.	Nokoongoi matu i Tom hilo'd walai poopian tusin dinondo.
+Tom says doesn't have the time to eat right now.	Aiso timpu mangakan baino ka di Tom.
+Tom should have known better than to trust Mary.	Apatut no noilaan i Tom mantad ko mumboyo di Mary.
+Your parents are just worried about your safety.	Tumongob i komolohingan nu do kosonong-sonong nu.
+Did Tom say he didn't think we needed to do that?	Okon ko boros ka di Tom dot au yau ondos nopo manu dahai maan dilo?
+Don't ask me why but, he ran away when he saw me.	Kada oku uhoto nga minogidu iyau sondiri soira koruba doho.
+I caught a big fish yesterday with my bare hands.	Minanabpo oku do sada maya longon ku kosodop.
+I have a friend whose father is a famous pianist.	I tapa di tambalut ku nopo nga songulun pamain piano do nointutunan.
+I'd like to know more about what happened to Tom.	Monongkoilo oku kokomoi do kinaantakan di Tom.
+Tom could hear birds chirping outside his window.	Korongou i Tom do tuni tombolog id soliwan do liligaon dau.
+A piano is expensive, but a car is more expensive.	Apagon gatang ilo piano nga lobi apagon gatang nogi iri korita.
+Eating healthfully can help prevent heart disease.	Mangakan do taakanon tolidas milo papaharo do angkang tundu-undu’ toruol.
+I don't think I've heard that word in a long time.	Alaid matu au nokorongou diri boros dot sorohon ku.
+I hope he'll be able to come! I'd like to see him.	Alansan no daa korikot isio di! Siruba oku disio.
+Tom wanted to go, but he had lots of things to do.	Manu i Tom mongoi, nga haro karaja dau amu nootus nopongo.
+Why have the apes evolved more than other animals?	Nokuro tu ogumu tongo kara mantad ko dupot wokon?
+You know how to change it, you just don't want to.	Noilaan ko' do poposimban diri, nga mada ko' dii.
+Do you plan to spend your summer vacation with Tom?	Tumanud ko mongoi tombului id tontok koundarangan miampai di Tom?
+Do you want to spend the rest of your life in jail?	Manu ko do sogimpasi hiri suang jiil?
+I've been able to drive for more than twenty years.	Nokoilo' oku papapanau do korita lolobi po mantad duo nohopod toun.
+It was in 1939 that the Second World War broke out.	Tontok do toun 1939 nodi nokoimbulai o pisangadan do pomogunan koduo.
+Never in my life have I seen such a peaceful sight.	Au oku insan momuriman iri kokitanan dot kalansahan.
+Please be careful with this knife. It's very sharp.	Intang-intangan no iti pais. Alawis tomod iti bo.
+Her health has been declining these past few months.	Amu osonong kolidasan tinan disido id piipiro tulan.
+I'm going to find you wherever you are and kill you.	Ihumon ku ndo diya id hinonggo-nonggo nopo om patayon tiya.
+Tom lay on his bed and cried softly into his pillow.	Lumii i Tom id toodopon dau om mihad-ihad id timpak do bantal dau.
+You can't just leave us here with no food and water.	Au kou milo tongkiadai dahai hiti miampai do ingaa o taakanon om waig.
+I recently broke up with my boyfriend of three years.	Tuminongkiad oku id solinaid piginawaan ku maya tanakwagu ku do tolu' toun di tinu.
+I think this has something to do with Tom's problems.	Iri no matu do kobolingkangan di Tom kangku daa.
+I've got the most ideas, and I've got the best ideas.	Haro toilaan ku kogumuan om dot ongosonong nogiddi.
+Addition and subtraction are functions of mathematics.	Fungsi nopo poruhangan om pokurian nga pongintaban.
+Can you remember the first time you heard the Beatles?	Kosorou ko' po soira kumoinsan ko' mokinongou sinding Beatles?
+He was in the habit of taking a walk before breakfast.	Asaru iyau manau-panau tintod do mangakan dongkosuabon.
+I wonder if she'll recognize me after all these years.	Kosorou isido po nangku doho id piipiro toun nakatalib diti?
+If it rains the day after tomorrow, I'll stay at home.	Nung arasaman suabino, undorongon ku hiti'd walai.
+Whether we will go on the trip depends on the weather.	Kuroyon no pakayaan om tombuluyon dahai nga tumanud moti tadau dau.
+Tom said he didn't understand what Mary said in French.	Au i Tom karati do nunu boros di Mary kad boros Poransis.
+You don't need to apologize. You've done nothing wrong.	Au tagal no pokiampun. Aiso sala minaan nu.
+Do you know how far it is from the station to city hall?	Koilo ko' nangku songkuro sinodu ralan mantad hiti'd sitisin gisom hilo'd bandar?
+I would rather throw the money away than give it to him.	Asaga oku do pataaman do tusin mantad ko manahak dau.
+In order to stay awake, I may have to drink more coffee.	Ih tomodon ku nopo au koodop nga ogumu do inumon kupi.
+Tom tried to sneak out of the office without being seen.	Umbalan i Tom moi idu mantad id tupis om au pinologos dau pokitonon do wokon.
+It's been a while since I've eaten anything with mustard.	Alaid nodi au oku minangakan do nunu miampai do rinapa mastad.
+Some students were sitting on the bench and having lunch.	Haro no susumikul do poingirikau hilo om mogiakan-akan.
+The students didn't remember what they read in that book.	Au kosorou i tongo susumikul do nunu binasa diolo do buuk.
+Tom has a good grasp of grammar, but is weak in spelling.	Abaal i Tom do puralanboros nga araat kopio ijaan dau.
+Tom told me that he couldn't remember the teacher's name.	Momuara i Tom kumaa doho do au iyau kosorou do ngaran di monunuduk.
+Unfortunately, I didn't get the chance to see the castle.	Iri podi kaala tu aiso kosiwatan ku mintong diri istana.
+You will save yourself a lot of time if you take the car.	Osiyau ko' do timpu sondiri nung sumakai do korita sakayon.
+On the table, there was a plate with three fried eggs on it.	Haro no iso pinggan maya do tolu tontolu ginuring id timpak do mija.
+I ate half the apple before I noticed there was a worm in it.	Nakaakan oku dilo ipol tintod do nokokito hodi giuk.
+Rosa Parks refused to give up her seat for a white passenger.	Au i Rosa Parks mumang do popoirikau id tirikohonon dau kumaa do tulun topurak.
+The room was so dark that we had to feel our way to the door.	Otuong tomod hodi suang bilik om ihum-ihumon dahai do wayaan id totobon.
+Tom expected at least a ten percent return on his investment.	Andasan di Tom nopo inbismin dau nga hopod pihatus do pogulion.
+Burj Khalifa is currently the tallest skyscraper in the world.	Burj Khalifa nopo nga walai kagagampot tawan dot akawas hiti'd sompomogunan.
+Didn't anybody tell you that you didn't have to be here today?	Ingaa toi tulun poiloon tiya au tagal moi rikot hiti baino?
+I don't feel like working. How about going to a movie instead?	Au oku songkuro koopud do karaja. Manu daa moi intong do wayang?
+You were in the second year of middle school last year, right?	Ika doid toun koduo do kalas hilo'd sikul pitangaan do toun nakatalib kon?
+If you believe what politicians say, it's really your own fault.	Nung mumboyo ko' nopo boros ka di mimpupulitik, kasalu' kopio diya.
+Tom wouldn't mind eating meat and potatoes every day of the week.	Au i Tom monguro mangakan do daging om kantang monikid tadau.
+The engineers blew up the bridge because it was about to collapse.	Mamaraag i tongo injiniur dilo sunsuyon tu karaag dot oruhai.
+Tom asked Mary if she would ever consider going out with John again.	Minuhot i Tom di Mary nung moi isido ruba di John do kawagu.
+Some people claim that there are no more heroes in the Western world.	Ondos nopo dombokon nga aiso nodi gunsiou do kogumuan hiri'd kotonobon pogun.
+Tom looked distant and distracted while Mary told him her life story.	Au osonong topirumanan di Tom soira i Mary manangon kokomoi kopoposion disido.
+We need apples, oranges, bread and peanut butter from the supermarket.	Mumang yahai do ipol, urin, ruti om kasang montiga mantad do supamakit.
+It would be better if you didn't climb such a high mountain in the winter.	Mogot nogi do au ko mooi takad hiri nulu takawas do musim tososogit.
+The research done by them shows that Americans are not interested in Japan.	Tumanud ponoriukan diolo, amu i tulun Amorika orohian kokomoi di Gipun.
+Washing your hands regularly is a good way to prevent catching some diseases.	Momoug do longon nopo nga kararalano do angkang tosonong mantad do rolihon do toruol.
+A study reports that 53,000 Americans die each year as a result of secondhand smoke.	Tumanud kopoilaan do ripot, soginumu 53,000 tulun Amorika napatai do tikid toun tu sabap nopo momungkus mantad sandad do momungkus.
+The government will provide interest-free loans to firms that participate in the program.	Pohoroon o kopolintaan do oloson dot au gatangon montok popokito do kohompit id abaabayan.
+Bornean orangutans, a critically endangered species, give birth approximately every eight years.	Koligaganan nopo ginumuan kogiu mantad pulou Borneo dot osusuan id lolobi po walu toun.

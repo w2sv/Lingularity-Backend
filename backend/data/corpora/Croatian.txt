@@ -1,0 +1,1304 @@
+Who?	Tko?
+Hello!	Halo.
+Hurry!	Požuri!
+I try.	Trudim se.
+I try.	Pokušavam.
+Oh no!	Oh, ne!
+Smile.	Smješak.
+Attack!	U napad!
+He ran.	Pobjegao je.
+Listen.	Slušaj.
+Thanks!	Hvala!
+We try.	Pokušavamo.
+Ask Tom.	Pitaj Toma.
+Awesome!	Fenomenalno!
+Be calm.	Budi smiren.
+Be fair.	Budi pošten.
+Be kind.	Budi ljubazan.
+Be nice.	Budi fin.
+Call me.	Nazovi me.
+Call us.	Nazovi nas.
+Get out!	Izlazi van!
+Go away!	Odlazi!
+Go away.	Odlazi.
+He runs.	On bježi.
+Help me!	Pomozi mi!
+Perfect!	Savršeno!
+Wash up.	Operi se.
+Welcome.	Dobro došli.
+Welcome.	Dobro došao.
+Welcome.	Dobro došla.
+Welcome.	Dobro došle.
+You run.	Ti bježiš.
+Ask them.	Pitaj ih.
+Back off.	Odstupi.
+Get lost.	Izgubi se.
+Have fun.	Zabavi se.
+Have fun.	Zabavite se.
+How nice!	Kako lijepo!
+Hurry up.	Požuri.
+Look out!	Pazi!
+Sit down.	Sjedni.
+Speak up!	Govori glasnije!
+Try some.	Probaj malo.
+Try this.	Probaj ovo.
+We agree.	Slažemo se.
+Calm down.	Smiri se.
+Catch him.	Uhvati ga.
+Excuse me.	Ispričavam se.
+Fantastic!	Fantastično!
+Follow me.	Slijedi me.
+Forget it!	Zaboravi!
+I fainted.	Onesvijestio sam se.
+I laughed.	Smijao sam se.
+I laughed.	Smijala sam se.
+I'm going.	Idem.
+I'm ready.	Spreman sam.
+I'm ready.	Spremna sam.
+I'm ready.	Ja sam spreman
+I'm ready.	Ja sam spremna.
+I'm tired.	Umoran sam.
+Look back!	Osvrni se!
+Of course!	Naravno!
+Of course.	Naravno.
+Sit still.	Sjedi mirno.
+Step back.	Ustukni.
+Try again.	Pokušaj opet.
+Try again.	Pokušaj ponovo.
+Who cares?	Koga briga?
+Who's she?	Tko je ona?
+Wonderful!	Predivno!
+You tried.	Pokušao si.
+Bottoms up!	Živjeli!
+Bottoms up!	Nazdravlje!
+Check that.	Provjeri to.
+Definitely!	Definitivno!
+Eat slowly.	Jedi polako.
+Follow him.	Slijedi ga.
+I'm a hero.	Ja sam heroj.
+Just relax.	Samo se opusti.
+Keep quiet!	Stišaj se!
+Keep quiet.	Budi tih.
+Mama cried.	Mama je plakala.
+Once again.	Još jednom.
+Step aside.	Skloni se u stranu.
+Time flies.	Vrijeme leti.
+Who is she?	Tko je ona?
+Who's that?	Tko je to?
+You called?	Zvao si?
+You called?	Zvala si?
+Be prepared.	Budi spreman.
+Be prepared.	Budi spremna.
+Get serious.	Uozbilji se.
+He is young.	On je mlad.
+How are you?	Kako si?
+How strange!	Kako čudno!
+I apologize.	Ispričavam se.
+I was dizzy.	Bio sam ošamućen.
+I was dizzy.	Vrtilo mi se.
+I'm curious.	Znatiželjan sam.
+I'm thirsty.	Hoću piti.
+I'm thirsty.	Žedan sam.
+I'm thirsty.	Žedna sam.
+Money talks.	Novac govori.
+Nobody died.	Nitko nije umro.
+Plants grow.	Biljke rastu.
+Please sing.	Pjevaj, molim te.
+Tom blushed.	Tom se zacrvenio.
+Tom frowned.	Tom se namrštio.
+Tom is cute.	Tom je zgodan.
+Tom is down.	Tom je dolje.
+We know him.	Znamo ga.
+We know him.	Znamo ju.
+Who is next?	Tko je sljedeći?
+Who is that?	Tko je to?
+Be realistic!	Budi realan!
+How annoying!	Kako iritantno!
+How annoying!	Kako naporno!
+I am curious.	Znatiželjan sam.
+I don't know.	Ne znam.
+I have a gun.	Ja imam pištolj.
+I have a gun.	Imam pištolj.
+I understood.	Razumijem.
+I won't swim.	Neću plivati.
+It was night.	Bila je noć.
+It's snowing.	Sniježi.
+Ladies first.	Dame prve.
+Please leave.	Molim te, odlazi.
+Someone came.	Netko je došao.
+Stop smoking.	Prestani pušiti.
+This is nice.	To je lijepo.
+We have wine.	Imamo vino.
+Who are they?	Tko su oni?
+Are you happy?	Jesi li sretan?
+Are you happy?	Jesi li sretna?
+Check, please.	Račun, molim.
+Everyone dies.	Svatko umire.
+Flowers bloom.	Cvjeta cvijeće.
+Give him time.	Daj mu vremena.
+Help yourself.	Posluži se.
+How old is he?	Koliko je star?
+I had an idea.	Imao sam ideju.
+I looked away.	Skrenuo sam pogled.
+I looked away.	Skrenula sam pogled.
+I love grapes.	Volim grožđe.
+I love grapes.	Ja volim grožđe.
+I'm a tourist.	Ja sam turist.
+No, thank you.	Ne, hvala.
+Speak clearly.	Govori jasno.
+Stop worrying.	Prestani se brinuti.
+They sat down.	Oni su sjeli.
+They sat down.	Sjeli su.
+What nonsense!	Kakva besmislica!
+Whose is this?	Čije je ovo?
+You're stupid.	To si glup.
+You're stupid.	Ti si glupa.
+You're stupid.	Glup si.
+You're stupid.	Glupa si.
+You're stupid.	Glupi ste.
+Are you crying?	Plačeš li?
+Cows give milk.	Krave daju mlijeko.
+He has a beard.	Ima bradu.
+I am very tall.	Jako sam visok.
+I didn't do it.	Nisam to ja učinio.
+I like to walk.	Meni se sviđa pješačiti.
+I'm in a hurry.	Žurim.
+I've got a son.	Dobio sam sina.
+It's unplugged.	Nije uključeno.
+It's unplugged.	Nije uštekano.
+Listen closely.	Slušaj pažljivo.
+Listen closely.	Pažljivo slušaj.
+Louder, please.	Glasnije, molim.
+Stop grumbling.	Prestani gunđati.
+Summer is over.	Ljeto je gotovo.
+They quarreled.	Posvađali su se.
+Ticket, please.	Kartu, molim.
+Tom was humble.	Tom je bio ponizan.
+Watch yourself.	Pazi na se.
+We're to blame.	Krivica je naša.
+You have to go.	Moraš ići.
+You smell good.	Mirišeš lijepo.
+Behave yourself.	Pristojno se ponašaj.
+Congratulations!	Čestitam!
+Drive carefully.	Vozi pažljivo.
+Give Tom a call.	Nazovi Toma.
+He's well built.	Dobro je građen.
+Here's your bag.	Evo tvoje torbe.
+I have two cats.	Imam dvije mačke.
+I'm able to ski.	Ja znam skijati.
+I'm able to ski.	Znam skijati.
+Is he a teacher?	Je li on učitelj?
+It's really hot.	Zaista je vruće.
+Keep the change.	Zadržite ostatak.
+Merry Christmas!	Sretan Božić!
+Mom, I'm hungry.	Mama, gladan sam.
+Open the bottle.	Otvori bocu.
+She disappeared.	Nestala je.
+This is a hotel.	To je hotel.
+This might hurt.	Ovo bi moglo boljeti.
+Today is Monday.	Danas je ponedjeljak.
+Tom disappeared.	Tom je nestao.
+Tom is a rapper.	Tom je reper.
+Tom is no angel.	Tom nije anđeo.
+What time is it?	Koliko je sati?
+Who bought this?	Tko je kupio ovo?
+You startled us.	Prepao si nas.
+You startled us.	Prepala si nas.
+You startled us.	Prepali ste nas.
+You're new, huh?	Novi si, huh?
+You're so smart.	Ti si tako pometan.
+Your time is up.	Tvoje vrijeme je isteklo.
+Anybody knows it.	To svatko zna.
+Can you run fast?	Možeš li trčati brzo?
+Do you live here?	Živiš li ovdje?
+Gardening is fun.	Vrtlarenje je zabavno.
+Give Tom a drink.	Daj Tomu piće.
+Here is your bag.	Evo tvoje torbe.
+How embarrassing!	Kakva sramota!
+How is your life?	Kako ti ide u životu?
+I agree with you.	Slažem se s vama.
+I don't exercise.	Ne vježbam.
+I found my shoes.	Našao sam svoje cipele.
+I had to see you.	Morao sam te vidjeti.
+I had to see you.	Morala sam te vidjeti.
+I know your name.	Znam tvoje ime.
+I locked my bike.	Zaključao sam bicikl.
+I love this song.	Volim ovu pjesmu.
+I made a mistake.	Napravio sam jednu grešku.
+I trust religion.	Vjerujem religiji.
+I want you to go.	Hoću da odeš.
+I'm not a doctor.	Ja nisam liječnik.
+I'm proud of you.	Ponosan sam na tebe.
+Is that your car?	Je li to tvoj automobil?
+It can't be true.	To ne može biti istina.
+Make your choice.	Odluči se.
+Maybe Tom forgot.	Možda je Tom zaboravio.
+No pain, no gain.	Bez muke nema nauke.
+She is no beauty.	Ona nije ljepotica.
+That makes sense.	To ima smisla.
+The box is empty.	Kutija je prazna.
+This is evidence.	Ovo je dokaz.
+This is the norm.	To je norma.
+Tom has a guitar.	Tom ima gitaru.
+Tom is Mary's ex.	Tom je Maryn bivši.
+What do you have?	Što imaš?
+What do you like?	Što voliš?
+What do you want?	Što voliš?
+What woke you up?	Što te je probudilo.
+Will you join us?	Hoćeš li nam se pridružiti?
+You can't buy me.	Ne možeš me kupiti.
+You may be right.	Mogao bi imati pravo.
+You may go there.	Možeš ići tamo.
+Champagne, please.	Šampanjac, molim.
+Come and sit down.	Dođi i sjedni.
+Do you want bread?	Hoćeš li kruha?
+Don't shout at me.	Ne viči na mene.
+Don't shout at me.	Ne deri se na mene.
+Everybody laughed.	Svi su se smijali.
+He cannot stop us.	On nas ne može zaustaviti.
+He killed himself.	Ubio se.
+I admit I'm wrong.	Priznajem da sam u krivu.
+I can't be bribed.	Ne mogu se podmititi.
+I don't want meat.	Ne želim meso.
+I hate mosquitoes.	Mrzim komarce.
+I like this music.	Sviđa mi se ova glazba.
+I want a new bike.	Hoću novi bicikl.
+I wanted to do it.	Htio sam to napraviti.
+I'm not your baby.	Ja nisam tvoje dijete.
+It cannot be true.	To ne može biti istina.
+It isn't a threat.	To nije prijetnja.
+Life is beautiful.	Život je lijep.
+Silence is golden.	Šutnja je zlato!
+That won't happen.	To se neće dogoditi.
+The house is cold.	Kuća je hladna.
+Think about death.	Razmisli o smrti.
+This is delicious.	Ovo je ukusno.
+Tom is a mechanic.	Tom je mehaničar.
+Tom's comfortable.	Tomu je ugodno.
+We met last night.	Noćas smo se sreli.
+We need more eggs.	Trebamo više jaja.
+What's the number?	Koji broj?
+Where do you live?	Gdje stanuješ?
+Which tooth hurts?	Koji te zub boli?
+Who's that maniac?	Tko je taj luđak?
+Who's that maniac?	Tko je taj manijak?
+Why are you alone?	Zašto ste sami?
+You are a teacher.	Ti si učitelj.
+You stole my idea.	Ukrao si mi ideju.
+You stole my idea.	Ukrala si mi ideju.
+You stole my idea.	Ukrali ste mi ideju.
+You work too hard.	Radiš previše.
+Your house is big.	Tvoja kuća je velika.
+Your house is big.	Vaša kuća je velika.
+Could this be love?	Je li moguće da je ovo ljubav?
+Did Tom eat dinner?	Je li Tom jeo večeru?
+Do you really know?	Da li zaista znaš?
+Does it taste good?	Je li fino?
+Easy come, easy go.	Kako došlo, tako prošlo.
+I can do it myself.	Mogu to i sama!
+I can do it myself.	Mogu sama.
+I feel like crying.	Plače mi se.
+I have one brother.	Imam jednog brata.
+I just took a bath.	Tek sam se okupao.
+I like that answer.	Sviđa mi se taj odgovor.
+I need more coffee.	Trebam još kave.
+I should do it now.	Trebao bih to učiniti sada.
+I want a boyfriend.	Želim dečka.
+I'm angry with you.	Ljutim se na tebe.
+I'm drinking water.	Pijem vodu.
+I've already tried.	Već sam pokušao.
+I've already tried.	Već sam pokušala.
+It is Monday today.	Danas je ponedjeljak.
+She cannot stop us.	Ona nas ne može zaustaviti.
+She is very pretty.	Ona je veoma lijepa.
+Something happened.	Nešto se dogodilo.
+That can't be true.	To ne može biti istina.
+That's really good.	To je zaista dobro.
+The coffee is cold.	Kava je hladna.
+This can't be true.	To ne može biti istina.
+Tom drives a truck.	Tom vozi kamion.
+Tom enjoys fishing.	Tom uživa u ribolovu.
+Tom has to be here.	Tom mora biti ovdje.
+Tom is my roommate.	Tom je moj cimer.
+Tom lifted the box.	Tom je podignuo kutiju.
+We need more flour.	Trebamo više brašna.
+What are you doing?	Što radiš?
+Where's the coffee?	Gdje je kava?
+Where's the museum?	Gdje se nalazi muzej?
+Who's your teacher?	Tko je tvoj učitelj?
+Why can't you come?	Zašto ne možeš doći?
+You are very brave.	Vrlo si hrabar.
+You can study here.	Možeš učiti ovdje.
+You look very pale.	Izgledaš vrlo blijedo.
+You taught us that.	Ti si nas to naučio.
+You taught us that.	Ti si nas to naučila.
+You taught us that.	Vi ste nas to naučili.
+Can you reach those?	Možeš li ih dohvatiti?
+Do you speak French?	Govoriš li francuski?
+Has Tom gone insane?	Je li Tom poludio?
+He is clever indeed.	Stvarno je pametan.
+He was born in Ohio.	Rodio se u Ohiu.
+How old is your car?	Koliko je star tvoj auto?
+I don't read novels.	Ne čitam romane.
+I don't read poetry.	Ne čitam poeziju.
+I don't take bribes.	Ne primam mito.
+I feel like singing.	Pjeva mi se.
+I have to go to bed.	Moram ići u krevet.
+I like your glasses.	Sviđaju mi se tvoje naočale.
+I want you to guess.	Želim da pogađaš.
+I want you to guess.	Želim da pogodiš.
+I want your opinion.	Želim tvoje mišljenje.
+I will be back soon.	Uskoro se vraćam.
+I'm not judging you.	Ne sudim te.
+Let the games begin.	Neka igre počnu!
+Please accompany me.	Molim te pođi samnom.
+Please accompany me.	Molim te otprati me.
+Please accompany me.	Molim te radi mi društvo.
+She gave up smoking.	Prestala je pušiti.
+She held her breath.	Držala je dah.
+She stopped smoking.	Prestala je pušiti.
+She stopped to talk.	Prestala je govoriti.
+She studies English.	Ona studira engleski.
+She's my first love.	Ona je moja prva ljubav.
+Technology can help.	Tehnologija može pomoći.
+That cannot be true.	To ne može biti istina.
+That's a nice shirt.	To je lijepa košulja.
+The bell is ringing.	Zvoni zvono.
+They didn't know me.	Nisu me znali.
+They recognized Tom.	Prepoznali su Toma.
+They're good people.	Oni su dobri ljudi.
+Tom has no siblings.	Tom nema braće ni sestara.
+Tom is already here.	Tom je već tamo.
+We didn't play well.	Nismo dobro igrali.
+We had an oral exam.	Imali smo usmeni ispit.
+What did you answer?	Što si odgovorio?
+What do you suggest?	Što ti predlažeš?
+When will you leave?	Kada odlaziš?
+Where is the museum?	Gdje se nalazi muzej?
+Where were you born?	Gdje si rođena?
+Who bought you this?	Tko ti je kupio ovo?
+Who is your teacher?	Tko je tvoj učitelj?
+Why are we laughing?	Zašto se smijemo?
+Why are we laughing?	Zašto se mi smijemo?
+You can come in now.	Sad možeš doći.
+You have three cats.	Imate tri mačke.
+You sound surprised.	Zvučiš začuđeno.
+You sound surprised.	Zvučite začuđeno.
+All we need is water.	Sve što trebamo je voda.
+Are your hands clean?	Jesu li ti ruke čiste?
+Can you speak French?	Govoriš li francuski?
+Did you bring coffee?	Jesi li donio kavu?
+Did you bring coffee?	Jesi li donijela kavu?
+Do you have any news?	Imaš li novosti?
+Do you speak English?	Govorite li engleski?
+Do you study English?	Učiš li engleski?
+Have you finished it?	Jesi li završio?
+He says he will come.	On kaže da će doći.
+He was badly wounded.	Bio je strašno ranjen.
+How deep is the lake?	Koliko duboko je to jezero?
+How much is this tie?	Koliko košta ta kravata?
+How old is this book?	Koliko je stara ova knjiga?
+I am afraid of death.	Ja se bojim smrti.
+I bought an old lamp.	Kupio sam staru lampu.
+I brought you coffee.	Donio sam ti kavu.
+I brought you coffee.	Donijela sam ti kavu.
+I feel like vomiting.	Povraća mi se.
+I have good eyesight.	Imam dobar vid.
+I just had breakfast.	Upravo sam dovršio doručak.
+I need a larger room.	Trebami veća soba.
+I never saw his face.	Nisam mu nikad vidio lice.
+I think you're right.	Mislim da si u pravu.
+I was kidding before.	Šalio sam se prije.
+I'll be glad to come.	Biti će mi drago doći.
+I'm feeling fine now.	Osjećam se dobro sada.
+It's scary down here.	Strašno je ovdje dolje.
+Mary had a face-lift.	Mary je napravila face-lift.
+May I speak with Tom?	Smijem li pričati s Tomom?
+May I use your phone?	Mogu li se poslužiti tvojim telefonom?
+My skirt is too long.	Moja suknja je predugačka.
+She's very beautiful.	Ona je veoma lijepa.
+Sign above this line.	Potpiši se iznad ove crte.
+Sign above this line.	Potpišite se iznad ove crte.
+Sumatra is an island.	Sumatra je otok.
+That makes it easier.	Sad je jednostavnije.
+That makes it easier.	To ga čini jednostanijim.
+They are good people.	Oni su dobri ljudi.
+This must be changed.	To se mora promijeniti.
+Those are nice pants.	To su lijepe hlače.
+Those are nice shoes.	To su lijepe cipele.
+Tom broke the window.	Tom je polupao prozor.
+Tom didn't answer me.	Tom mi nije odgovorio.
+Tom is a connoisseur.	Tom je znalac.
+Tom is gaining on us.	Tom nas sustiže.
+Tom isn't very happy.	Tom nije baš zadovoljan.
+Tom may have seen it.	Tom je možda to vidio.
+Tom wasn't very good.	Tom nije bio jako dobar.
+We tried to stop Tom.	Pokušali smo zaustaviti Toma.
+When are you leaving?	Kada odlaziš?
+When's your birthday?	Kada je tvoj rođendan?
+Where's your head at?	Gdje ti je glava?
+Why are you so smart?	Zašto si tako pametan?
+Why are you so smart?	Zašto si tako pametna?
+Women like attention.	Žene vole pozornost.
+You look happy today.	Izgledaš sretno danas.
+You sound very young.	Zvučiš veoma mlad.
+Your answer is right.	Tvoj odgovor je točan.
+Your answer is wrong.	Tvoj odgovor je netočan.
+Do you know them both?	Znaš li ih oboje?
+Eat whatever you like.	Jedite što hoćete.
+He gets a good salary.	On dobro zarađuje.
+He is a heroin addict.	On je ovisnik o heroinu.
+He is washing the car.	On pere auto.
+He knows who they are.	Tko zna tko su oni.
+He looked quite tired.	Izgledao je prilično umorno.
+His life is in danger.	Život mu je u opasnosti.
+His life is in danger.	Njegov život je u opasnosti.
+I admire your courage.	Volim tvoju hrabrost.
+I don't have a ticket.	Nemam kartu.
+I go to school by bus.	Ja idem u školu autobusom.
+I go to school by bus.	Idem u školu autobusom.
+I have an old bicycle.	Imam stari bicikl.
+I have to go to sleep.	Moram ići spavati.
+I like playing tennis.	Volim igrat tenis.
+I never liked biology.	Nikad nisam volio biologiju.
+I never liked biology.	Nikad nisam voljela biologiju.
+I was hardly prepared.	Nisam baš bio spreman.
+I'm leaving it to you.	Ostavljam ti to.
+Is your watch correct?	Je li tvoj sat točan?
+Like father, like son.	Kakav otac, takav sin.
+Nobody understands me.	Nitko me ne razumije.
+Pass the salt, please.	Možeš li mi dodati sol?
+She always works hard.	Ona uvijek marljivo radi.
+She decided not to go.	Odlučila je da ne ide.
+She is very beautiful.	Ona je veoma lijepa.
+She left her children.	Napustila je svoju djecu.
+That smells delicious.	To miriše ukusno.
+That's a nice sweater.	To je lijep džemper.
+The situation is dire.	Situacija je hitna.
+They already have one.	Već imaju jedno.
+They already have one.	Već imaju jednog.
+They already have one.	Već imaju jednu.
+They already have one.	Već imaju jedan.
+We need more potatoes.	Trebamo više krumpira.
+We need more tomatoes.	Trebamo više rajčica.
+We watch TV every day.	Gledamo televiziju svaki dan.
+Where are your things?	Gdje su tvoje stvari?
+Who will come with me?	Tko ide sa mnom?
+Why do you want a dog?	Zašto želiš psa?
+You deserve the prize.	Zaslužuješ nagradu.
+You underestimate Tom.	Podcjenjuješ Toma.
+You'll never be alone.	Nikada nećeš biti sam.
+Better late than never.	Bolje ikad nego nikad.
+Did Tom give it to you?	Je li ti to Tom dao?
+Does she have children?	Ima li ona dijece?
+He knocked at the door.	Kucao je na vrata.
+I don't have any money.	Nemam novaca.
+I have to go to school.	Moram ići u školu.
+I should exercise more.	Trebao bih vježbati više.
+I was in the mountains.	Bio sam na planinama.
+I went to the hospital.	Otišao sam u bolnicu.
+I'll be back next week.	Vratit ću se sljedeći tjedan.
+I'm soaked to the bone.	Promočio sam do kože.
+I've worn out my shoes.	Iznosio sam svoje cipele.
+Is this where Tom sits?	Je li ovo mjesto gdje Tom sjedi?
+It rained hard all day.	Čitav dan je kiša pljuštala.
+It's impossible to fix.	Nemoguće je popraviti.
+Just follow your heart.	Jednostavno slijedi svoje srce.
+Mind your own business!	Gledaj svoje poslove!
+My cholesterol is high.	Moj kolesterol je visok.
+My hair is light brown.	Moja kosa je svjetlosmeđa.
+My shirt isn't dry yet.	Moja majica još nije suha.
+Rabbits have long ears.	Kunići imaju duga uha.
+She is afraid of death.	Ona se boji smrti.
+The weather stayed bad.	Vrijeme ostaje loše.
+There's no one missing.	Jedan nedostaje.
+They're digging a hole.	Oni kopaju rupu.
+This may hurt a little.	Ovo će možda malo zaboliti.
+This rose is beautiful.	Ova ruža je lijepa.
+Tom has a great memory.	Tom ima odlično pamćenje.
+Tom is walking his dog.	Tom šeta svoga psa.
+Tom remained skeptical.	Tom je ostao skeptičan.
+Tom, we have a problem.	Tome, imamo problem.
+We live in the suburbs.	Mi živimo u predgrađu.
+When do you want to go?	Kada želiš ići?
+Where do you live, Tom?	Zašto živiš, Tome?
+Why can't animals talk?	Zašto životinje ne mogu pričati?
+You should know better.	Trebao bi znati bolje.
+Your cake is delicious.	Tvoja torta je ukusna.
+Your plan sounds great.	Tvoj plan zvuči odlično.
+Are you afraid of death?	Bojiš li se smrti?
+Do you have news for me?	Imaš li za mene vijesti?
+Do you like this blouse?	Sviđa li ti se ta majica?
+Do you live in the city?	Živite li u gradu?
+Don't you like swimming?	Zar ne voliš plivanje?
+He concentrated on that.	Koncentrirao se na to.
+How can I be of service?	Kako mogu biti od pomoći?
+I can't believe my eyes.	Ja ne mogu vjerovati mojim očima.
+I can't believe my eyes.	Ne mogu vjerovati mojim očima.
+I don't really watch TV.	Ne gledam baš televiziju.
+I have a mild pain here.	Imam blagu bol ovdje.
+I said I'd wait for you.	Rekao sam da ću te čekati.
+I said I'd wait for you.	Rekla sam da ću te čekati.
+I suppose you're hungry.	Predpostavljam da si gladan.
+I took a picture of her.	Slikao sam ju.
+I want to check out now.	Provjeriti ću sad.
+I wasn't looking at Tom.	Nisam gledao u Toma.
+I wasn't looking at Tom.	Nisam gledala u Toma.
+I will love you forever.	Zauvijek ću te voljeti.
+It must be hard for you.	To ti mora biti vrlo teško.
+It was an easy decision.	To je bila laka odluka.
+Let's go out for a walk.	Ajmo van na šetnju.
+Mary is a married woman.	Mary je udana žena.
+Mary is a retired nurse.	Mary je umirovljena medicinska sestra.
+My car is in the garage.	Moj auto je u garaži.
+Of course it isn't true.	Naravno da to nije točno.
+Of course it's not true.	Naravno, to nije točno.
+Of course, Tom is wrong.	Naravno, Tom je u krivu.
+She doesn't like soccer.	Ona ne voli nogomet.
+Sorry for all the typos.	Isprike na greškama.
+That isn't funny at all.	To nije uopće smiješno.
+The cup is on the table.	Šalica je na stolu.
+The sun is about to set.	Sunce će uskoro zaći.
+The toy store is closed.	Trgovina igračaka je zatvorena.
+This is why I fired him.	Zato sam ga otpustio.
+Tom is working too hard.	Tom previše radi.
+Tom said you were happy.	Tom je rekao da si sretan.
+Tom walks like a zombie.	Tom hoda kao zombi.
+Tom walks like a zombie.	Tom hoda poput zombija.
+Tom won't pass the test.	Tom neće položiti ispit.
+Tom's French is perfect.	Tomov francuski je savršen.
+Tom's dog attacked Mary.	Tomov pas je napao Mary.
+We do have some options.	Mi imamo neke mogućnosti.
+We do have some options.	Mi imamo neke opcije.
+We don't need this here.	Nama to ovdje ne treba.
+What time are you going?	U koje vrijeme ideš?
+Will you turn on the TV?	Hoćete li uključiti TV?
+Will you turn on the TV?	Hoćeš li uključiti tv?
+Write your address here.	Napiši svoju adresu ovdje.
+You can swim, can't you?	Znaš plivati, zar ne?
+You told me that before.	Rekao si mi to prije.
+You told me that before.	Rekla si mi to prije.
+Are you going to help me?	Hoćeš li mi pomoći?
+Could you leave us alone?	Možeš nas ostaviti na miru?
+Curiosity killed the cat.	Znatiželja je ubila mačku.
+Did you know that before?	Jesi li znao to prije?
+Did you know that before?	Jesi li znala to prije?
+Do you plan to stay long?	Planirate li dugo ostati?
+Do you want pepper on it?	Želiš li papra na tome?
+He came back from Canada.	Vratio se iz Kanade.
+He is good at gymnastics.	Gimnastika je njegova jaka strana.
+He looked after the baby.	Brinuo se za dijete.
+He tried to kill himself.	On se pokušao ubiti.
+I can't find my suitcase.	Ne mogu naći svoj kofer.
+I counted to two hundred.	Brojala sam do dvjesto.
+I counted to two hundred.	Brojao sam do dvjesto.
+I have few English books.	Imam malo engleskih knjiga.
+I just finished doing it.	Upravo sam ga dovršio.
+I just finished doing it.	Upravo sam je dovršio.
+I met your dad yesterday.	Sreo sam tvog oca jučer.
+I met your dad yesterday.	Sreo sam tvog tatu jučer.
+I met your dad yesterday.	Srela sam tvog tatu jučer.
+I'll tell Tom to do that.	Reći ću Tomu da to učini.
+It's like summer outside.	Vani je poput ljeta.
+May I ask a favor of you?	Mogu li te pitati za uslugu?
+Nobody can open the door.	Nitko ne može otvoriti vrata.
+She rejected my proposal.	Odbila je moj prijedlog.
+These are very old books.	To su vrlo stare knjige.
+This is my email address.	Ovo je moja e-mail adresa.
+Today is a beautiful day.	Danas je lijep dan.
+Tom didn't give it to me.	Tom mi nije to dao.
+Tom drinks a lot of beer.	Tom pije puno pive.
+Tom had dinner with Mary.	Tom je večerao s Mary.
+Tom has changed his name.	Tom je promijenio svoje ime.
+Tom hasn't been indicted.	Tom nije bio osuđen.
+Tom is my oldest brother.	Tom je moj stariji brat.
+Tom says I have charisma.	Tom kaže da sam karizmatičan.
+Tom visited us yesterday.	Tom nas je jučer posjetio.
+Tom was forced to resign.	Tom je bio prisiljen dati ostavku.
+Tom was wrong about that.	Tom je bio u krivu o tome.
+Tom went instead of Mary.	Tom je otišao umjesto Mary.
+We should get a new lamp.	Trebamo nabaviti novu svjetiljku.
+What does your father do?	Što radi tvoj otac?
+Will ten thousand yen do?	Hoće li deset tisuća yena biti dovoljno?
+You're tired, aren't you?	Umoran si, zar ne?
+Can I use your dictionary?	Mogu li uzeti tvoj rječnik?
+Death is similar to sleep.	Smrt je slična snu.
+Do you have any vacancies?	Imate li slobodnih soba?
+Do you watch TV every day?	Gledaš li televiziju svaki dan?
+Everyone loves that place.	Svi vole to mjesto.
+Father bought me the book.	Otac mi je kupio tu knjigu.
+He was afraid of the dark.	Imao je strah mraka.
+He's sleeping like a baby.	On spava ko beba.
+He's sleeping like a baby.	Spava ko beba.
+His story may not be true.	Njegova priča možda nije istinita.
+How much is this umbrella?	Koliko je ovaj kišobran?
+I have to do what's right.	Moram učiniti što je ispravno.
+I notice things like that.	Primjećujem takve stvari.
+I think Tom could do that.	Mislim da bi Tom mogao to napraviti.
+I think Tom could do that.	Ja mislim da bi Tom mogao to napraviti.
+I think Tom could do that.	Ja mislim da bi Tom mogao to obaviti.
+I think Tom could do that.	Ja mislim da bi Tom mogao to učiniti.
+I thought that was my job.	Mislio sam da je to moj posao.
+I thought that was my job.	Mislila sam da je to moj posao.
+I would like to buy a dog.	Želio bih kupiti psa.
+I'm going to leave school.	Napustit ću školu.
+It isn't very interesting.	To nije veoma zanimljivo.
+It's raining hard tonight.	Pada kiša noćas.
+Mary is Tom's twin sister.	Mary je Tomova sestra blizanka.
+My mobile has been stolen.	Moj mobitel je ukraden.
+Nothing is wrong with you.	Sve je u redu s tobom.
+She looks like her mother.	Ona sliči na majku.
+Someone stole Tom's money.	Netko je ukrao Tomov novac.
+That house belongs to him.	Ta kuća pripada njemu.
+The reason doesn't matter.	Uzrok nije važan.
+The young man is a doctor.	Mladi čovjek je liječnik.
+Their flowers smell sweet.	Njihovo cvijeće slatko miriše.
+They don't pay you enough.	Oni te ne plaćaju dovoljno.
+Things changed after that.	Stvari su se promijenile nakon toga.
+This is today's newspaper.	Ovo su današnje novine.
+Tom already knew about it.	Tom je već znao o tome.
+Tom asked Mary for advice.	Tom je pitao Mariju za savjet.
+Tom became rich overnight.	Tom je postao vrlo bogat preko noći.
+Tom can touch the ceiling.	Tom može taknuti strop.
+Tom can't play the guitar.	Tom ne može svirati gitaru.
+Tom doesn't eat dark meat.	Tom ne jede crveno meso.
+Tom gave me several books.	Tom mi je dao nekoliko knjiga.
+Tom is always daydreaming.	Tom uvijek sanjari.
+Tom is highly intelligent.	Tom je vrlo inteligentan.
+Tom is teaching me French.	Tom me uči francuski.
+Tom left before I arrived.	Tom je otišao prije nego sam došao.
+Tom left before I arrived.	Tom je otišao prije nego što sam došao.
+Tom shooed the flies away.	Tom je otjerao muhe.
+Tom still looks surprised.	Tom još uvijek izgleda iznenađeno.
+Tom wants his money today.	Tom želi svoj novac danas.
+Tom was eating a sandwich.	Tom je jeo sendvič.
+Tom went out to buy bread.	Tom je otišao kupiti kruh.
+What you did helped a lot.	Ovo što si učinio je pomoglo mnogo.
+What're you talking about?	O čemu pričaš?
+What's the Wi-Fi password?	Koja je šifra Wi-Fi-ja.
+When did you buy that hat?	Kada si kupio taj šešir?
+Who discovered the island?	Tko je otkrio taj otok?
+Why don't we share a room?	Zašto ne bismo dijelili sobu?
+Why should you suspect me?	Zašto bi sumnjao u mene?
+You must control yourself.	Moraš se kontrolirati.
+Do we need to wait for you?	Trebamo li te čekati.
+Each of them has a bicycle.	Svaki od njih ima bicikl.
+Every ship needs a captain.	Svaki brod treba kapetana.
+Fill out this form, please.	Molim, ispunite taj formular.
+He has gone out for a walk.	Izašao je u šetnju.
+He held the trophy up high.	Visoko je podignuo trofej.
+He made me happy yesterday.	Jučer me usrećio.
+He's watching the Olympics.	On gleda olimpijadu.
+I don't belong to any club.	Ne pripadam nijednome klubu.
+I want to live in the city.	Želim živjeti u gradu.
+I wonder what Tom is up to.	Pitam se što Tom namjerava učiniti.
+I'll stay at home tomorrow.	Sutra ću ostati kod kuće.
+I'm breast-feeding my baby.	Dojim svoje dijete.
+I'm sure you did your best.	Siguran sam da si učinio najbolje što si mogao.
+Is there life before death?	Ima li života poslije smrti?
+Let me in or I'll tell Tom.	Pusti me unutra ili ću reći Tomu.
+Let's get something to eat.	Idemo nešto pojesti.
+My clock needs to be fixed.	Treba popraviti moj sat.
+Really? I didn't know that.	Stvarno? Nisam znao.
+Really? I didn't know that.	Stvarno? Nisam znala.
+Several people were killed.	Nekoliko ljudi je ubijeno.
+Several people were killed.	Ubijeno je nekoliko ljudi.
+Some medicine does us harm.	Neki lijekovi nam škode.
+That was a good experience.	Ovo je bilo ugodno iskustvo.
+Tom asked me to draw a map.	Tom me pitao da mu nacrtam kartu.
+Tom asked me to draw a map.	Tom me pitao da mu nacrtam mapu.
+Tom ate a piece of the pie.	Tom je pojeo krišku pite.
+Tom complains all the time.	Tom se stalno žali.
+Tom complains all the time.	Tom stalno prigovara.
+Tom complains all the time.	Tom cijelo vrijeme prigovara.
+We joined in on the chorus.	Prijavili smo se na zbor.
+We weren't able to do that.	Nismo mogli to napraviti.
+We weren't cautious enough.	Nismo bili dovoljno oprezni.
+We weren't cautious enough.	Nismo bile dovoljno oprezne.
+We weren't cautious enough.	Nismo bili dovoljno pažljivi.
+We won't go back to Boston.	Nećemo se vratiti u Boston.
+We worried a lot about you.	Mnogo smo se brinuli o tebi.
+We'd like to know about it.	Htjeli bismo znati o tome.
+We'll always remember that.	To ćemo uvijek pamtiti.
+We'll continue cooperating.	Nastavit ćemo surađivati.
+We'll do what we always do.	Napravit ćemo ono što uvijek napravimo.
+We'll do whatever it takes.	Učinit ćemo što god treba.
+What are you and Tom doing?	Što ti i Tom radite?
+Why should I listen to you?	Zašto bi te trebao slušati?
+Will you turn on the light?	Hočeš li ugasiti svjetlo?
+You are always complaining.	Uvijek se žališ.
+You guys make a great team.	Vi ste dobra ekipa.
+You should use a deodorant.	Ti bi trebao koristiti dezodorans.
+Your secret's safe with us.	Tvoja tajna je sigurna s nama.
+Your secret's safe with us.	Vaša tajna je sigurna s nama.
+Do you have time to help me?	Imate li vremena da mi pomognete?
+He did not know what to say.	Nije znao što reći.
+He once owned a lot of land.	On je posjedovao mnogo zemlje, nekad davno.
+How can I forget those days?	Kako mogu zaboraviti te dane?
+I want to see her very much.	Jako ju želim vidjeti.
+I wonder if Tom can hear us.	Pitem se može li nas Tom čuti.
+Is the job too much for you?	Je li ovaj posao pretežak za tebe?
+It's no use trying anything.	Nema smisla pokušavati bilo što drugo.
+Let's sit here on the grass.	Sjednimo tu na travu.
+She left France for America.	Ona je napustila Francusku zbog Amerike.
+Tennis is my favorite sport.	Tenis je moj omiljeni sport.
+The museum is worth a visit.	Isplati se posjetiti muzej.
+Tom asked if you'd be there.	Tom je pitao ako ćeš biti tamo.
+Tom has a surprise for Mary.	Tom ima iznenađenje za Mary.
+Tom is a friend from school.	Tom je prijatelj iz škole.
+Tom isn't as old as Mary is.	Tom nije toliko star kao Mary.
+We hope that you'll do that.	Nadamo se da ćeš to učiniti.
+We hope that you'll do that.	Nadamo se da ćeš to napraviti.
+We'd better call the doctor.	Bilo bi bolje pozvati liječnika.
+What are you thinking about?	O čemu misliš?
+A big typhoon is approaching.	Bliži se veliki tajfun.
+A bird was flying in the sky.	Ptica je letjela nebom.
+Could you send me a brochure?	Možete li mi poslati brošuru?
+Do you have any vacant rooms?	Imate li slobodnih soba?
+He put his thoughts on paper.	Stavio je svoje misli na papir.
+He resembles his grandfather.	On sliči na svog djeda.
+I couldn't remember his name.	Nisam se mogao sjetiti njegovog imena.
+I don't know what time it is.	Ne znam koliko je sati.
+I don't understand this word.	Ne razumijem ovu riječ.
+I need coffee in the morning.	Trebam kavu ujutro.
+I owe what I am to my father.	Dugujem svome ocu ono što sam.
+I want to tell you something.	Želim ti nešto reći.
+I want to want what you want.	Želim željeti ono što ti želiš.
+I worked on it day after day.	Radio sam na tome dan za danom.
+I'd rather be poor than rich.	Draže mi je biti siromašan nego bogat.
+I'm looking for a book store.	Tražim knjižaru.
+It's never too late to learn.	Nikada nije kasno za učenje.
+My brother is still sleeping.	Moj brat i dalje spava.
+One language is never enough.	Jedan jezik nikad nije dovoljan.
+Please sit down for a moment.	Sjednite na trenutak, molim.
+The animals are treated well.	Dobro se postupa sa životinjama.
+The animals are treated well.	Životinje su dobro tretirane.
+The spacecraft was destroyed.	Svemirski brod je bio uništen.
+Tom and Mary don't know that.	Tom i Mary to ne znaju.
+Tom can speak French as well.	Tom također priča francuski.
+Tom has never been to Boston.	Tom nije nikada bio u Bostonu.
+Tom is a computer programmer.	Tom je računalni programer.
+Tom tried to intimidate Mary.	Tom je pokušao zastrašiti Mary.
+We must consider all options.	Moramo razmotriti sve opcije.
+When was this book published?	Kad je ova knjiga objavljena?
+Who is your favorite TV star?	Koja je tvoja omiljena TV zvijezda?
+Would you like tea or coffee?	Želiš li čaj ili kavu?
+You can go anyplace you like.	Ne možeš ići gdje god poželiš.
+You can't live without water.	Bez vode je nemoguće živjeti.
+You'd better come right away.	Bolje ti je da dođeš istog časa.
+Your parents raised you well.	Roditelji su te dobro odgojili.
+Do you have any bottled water?	Imate li flaširanu vodu?
+Everybody was looking for Tom.	Svi su tražili Toma.
+He doesn't know French at all.	On uopće ne zna francuski.
+He is ashamed of telling lies.	Srami se laganja.
+He keeps his youth by jogging.	On održava svoju mladost trčanjem.
+I am thinking of going abroad.	Mislim otići u inozemstvo.
+I had to wait for Tom wake up.	Trebao sam čekati da se Tom probudi.
+I left my credit card at home.	Ostavio sam svoju kreditnu karticu u kući.
+I put my bike in a safe place.	Spremio sam bicikl na sigurno mjesto.
+I want to become a journalist.	Želim postati novinar.
+I went to church this morning.	Jutros sam išao u crkvu.
+I won't go to school tomorrow.	Neću ići u školu sutra.
+It is never too late to learn.	Nikada nije kasno za učenje.
+Most guitars have six strings.	Većina gitara ima šest žica.
+No man alive would believe it.	Nitko živ ne bi povjerovao u to.
+Please show me another camera.	Molim te pokaži mi drugu kameru.
+She has visited New York once.	Jednom je posjetila New York.
+She's really smart, isn't she?	Vrlo je pametna, zar ne?
+Smoking is not permitted here.	Ovdje nije dopušteno pušiti.
+Something incredible happened.	Dogodilo se nešto neočekivano.
+Thank you for the information.	Hvala na informaciji.
+That's water under the bridge.	Bilo, pa prošlo.
+The job has already been done.	Posao je već bio završen.
+They're thieves and murderers.	Oni su lopovi i ubojice.
+Tom doesn't like me very much.	Tomu se ne sviđam.
+Tom fell asleep while reading.	Tom je zaspao čitajući.
+Tom fell asleep while reading.	Tom je zaspao dok je čitao.
+Tom saw Mary with another man.	Tom je vidio Mary s drugim muškarcem.
+Tom sometimes comes to see me.	Tom ponekad dođe posjetiti me.
+Tom wanted to see Mary's room.	Tom je htjeo vidjeti Marynu sobu.
+We don't know how to find Tom.	Ne znamo kako da nađemo Toma.
+We were eating lunch together.	Zajedno smo ručali.
+We're going to sell our house.	Prodat ćemo svoju kuću.
+What is that big new building?	Što je ta nova zgrada?
+What kind of wine do you have?	Koje vino imaš?
+Who is your favorite composer?	Tko je tvoj omiljeni skladatelj?
+You agree with Tom, don't you?	Ti se slažeš s Tomom, zar ne?
+You made a great contribution.	Dao si veliki doprinos.
+You're a very patient teacher.	Ti si jako strpljiv učitelj.
+You're never too old to learn.	Nikada nije kasno za učenje.
+All their efforts were in vain.	Svi njihovi napori su bili uzaludni.
+Can you help me with something?	Možete li mi pomoći s nečim?
+Everything looks pretty normal.	Sve izgleda prilično normalno.
+He disappeared without a trace.	On je nestao bez traga.
+He disappeared without a trace.	Nestao je bez traga.
+How much is this diamond worth?	Koliko vrijedi ovaj dijamant?
+I assume you know what this is.	Pretpostavljam da znaš što je to.
+I don't care what your name is.	Nije me briga kako se zoveš.
+I don't know if I'll have time.	Ne znam hoću li imati vremena.
+I really didn't have any money.	Stvarno nisam imao novca.
+I think you've already met Tom.	Mislim da si Toma već upoznao.
+I want to drink something cold.	Želim popiti nešto hladno.
+I want you to take me with you.	Hoću da me povedeš sa sobom.
+I wonder if he'll come tonight.	Zanimljivo, on će danas doći?
+It could be some kind of trick.	To bi mogao biti neki trik.
+Please accept this little gift.	Molim te, primi ovaj mali dar.
+She picked up beautiful stones.	Pokupila je lijepa kamenja.
+That kid kept crying for hours.	To dijete je nastavilo plakati satima.
+The pain has lessened a little.	Bol je malo popustila.
+The visitor sat across from me.	Gost je sjeo preko puta mene.
+This bike needs to be repaired.	Taj bicikl treba popraviti.
+This place is really beautiful.	Ovo mjesto je zaista prekrasno.
+Tom doesn't live here, does he?	Tom ne živi ovdje, je li tako?
+Tom isn't a member of our club.	Tom nije član našeg kluba.
+We know we're better than that.	Znamo da smo bolji od toga.
+We were studying all afternoon.	Učili smo cijelo poslijepodne.
+Why do people go to the movies?	Zašto ljudi idu u kino?
+Don't change your mind so often.	Ne mijenjaj tako često svoja mišljenja.
+Don't try to play games with me.	Ne pokušavaj se igrati sa mnom.
+Everybody was singing except me.	Svi su osim mene pjevali.
+Gold is more precious than iron.	Zlato je skuplje od željeza.
+How did you spend your vacation?	Kako ste proveli odmor?
+I didn't plan on this happening.	Nisam planirao da se to dogodi.
+I don't know if I have the time.	Ne znam imam li vremena.
+I was too tired to eat anything.	Bio sam preumoran da išta pojedem.
+I wish my dream would come true.	Želim da mi se san ostvari.
+I'd like to send these to Japan.	Volio bih ove poslati u Japan.
+I'm currently located in Boston.	Trenutno sam lociran u Bostonu.
+I'm perfectly happy being alone.	Presretan sam kad sam sam.
+It fits on a single floppy disk.	Stane na jedan floppy disk.
+It is time for you to go to bed.	Vrijeme je da odeš spavati.
+My third husband bought me this.	Moj treći muž mi je kupio ovo.
+Please don't take pictures here.	Molim vas, ne fotografirajte tu.
+She must have done it yesterday.	Vjerojatno je to napravila jučer.
+She was amazed to hear the news.	Bila je iznenađena čuvši vijesti.
+She will pay 50 dollars at most.	Ona će platiti najviše 50 dolara.
+The early bird catches the worm.	Tko rano rani, dvije sreće grabi.
+The entire town was under water.	Cijeli grad je bio pod vodom.
+They armed themselves with guns.	Naoružali su se pištoljima.
+This fact must not be forgotten.	Ta činjenica ne smije biti zaboravljena.
+Tom cheated on the history exam.	Tom je varao na ispitu iz povijesti.
+Tom decided to take the day off.	Tom je odlučio uzeti slobodan dan.
+Tom has decided to go to Boston.	Tom je odlučio otići u Boston.
+Tom has decided to sell his car.	Tom je odlučio prodati auto.
+Tom has decided to sell his car.	Tom je odlučio prodati automobil.
+Tom is alone in the living room.	Tom je sam u dnevnoj sobi.
+Tom is very gifted and talented.	Tom je vrlo nadaren i talentiran.
+Tom may do whatever he wants to.	Tom može raditi što god hoće.
+We can't let them do this to us.	Ne smijemo im dopustiti da nam to rade.
+We set up our tents before dark.	Postavili smo naše šatore prije mraka.
+Who was this picture painted by?	Tko je naslikao ovu sliku?
+Why are we even discussing this?	Zašto uopće raspravljamo o ovome?
+World War Two broke out in 1939.	Drugi svjetski rat je započeo 1939.
+You'd better not go there again.	Da nisi otišao tamo opet.
+You'd better not go there again.	Da nisi otišla tamo opet.
+Are they still thinking about it?	Razmišljaju li još uvijek o tome?
+Because he's sick, he can't come.	Ne može doći jer je bolestan.
+Cardboard is stronger than paper.	Karton je jači od papira.
+Every action has its consequence.	Svaki postupak ima svoju posljedicu.
+He has one son and two daughters.	On ima jednog sina i dvije kčeri.
+He has one son and two daughters.	Ima jednog sina i dvije kčeri.
+He has one son and two daughters.	Ima sina i dvije kčeri.
+He often quotes from Shakespeare.	On često citira Shakespeara.
+He soon recovered from the shock.	On se ubrzo oporavio od šoka.
+I am so tired that I can't study.	Tako sam umoran da ne mogu učiti.
+I don't read as much as I'd like.	Ne čitam onoliko koliko bih volio.
+I got a new bike for my birthday.	Dobio sam novi bicikl za rođendan.
+I hope it does not rain tomorrow.	Nadam se da sutra neće padati kiša.
+I think Tom and Mary are in love.	Mislim da su Tom i Mary zaljubljeni.
+I would rather starve than steal.	Više volim gladovati, nego krasti.
+I'd like to cook chicken tonight.	Htio bih napraviti piletinu večeras.
+I'm just trying to be neighborly.	Samo se trudim biti dobar susjed.
+If you don't work, you can't eat.	Ako ne radiš, ne možeš jesti.
+It is as warm today as yesterday.	Danas je toplo kao i jučer.
+It's good that I have a daughter.	Dobro je što imam kći.
+Some people are scared of ghosts.	Neki se ljudi boje duhova.
+Some people like to travel alone.	Neki ljudi vole putovati sami.
+Tom didn't act like a normal boy.	Tom se nije ponašao kao normalan dječak.
+Tom is afraid of making mistakes.	Tom strahuje da ne napravi grešku.
+Tom is living with his uncle now.	Tom sada živi sa svojim ujakom.
+Tom knows the Secretary of State.	Tom poznaje državnog tajnika.
+Tom works at a local coffee shop.	Tom radi u lokalnom kafiću.
+Tom works at a local coffee shop.	Tom radi u obližnjem kafiću.
+Where did you find this evidence?	Gdje si pronašao ovaj dokaz?
+Would you like more tomato juice?	Želiš li još malo soka od rajčice?
+You're in better shape than I am.	U boljoj si formi nego ja.
+You're not paid to ask questions.	Ti nisi plaćen da postavljaš pitanja.
+You've got the right to be happy.	Imaš pravo biti sretan.
+You've got the right to be happy.	Imaš pravo biti sretna.
+Can you tell silver and tin apart?	Možeš li razlikovati srebro od kositra?
+Could I have a subway map, please?	Mogu li dobiti kartu metroa?
+Do you have time to come tomorrow?	Imaš li vremena doći sutra?
+He could no longer stand the pain.	Više nije mogao izdržati bol.
+Her beauty was beyond description.	Njezina ljepota je bila neopisiva.
+How long can you hold your breath?	Koliko dugo možeš držati dah?
+I asked Tom to wake me up at 2:30.	Zamolio sam Toma da me probudi u 2:30.
+I got very tired, but I felt good.	Umorio sam se dosta, ali dobro sam.
+I haven't seen you in here before.	Nisam te ovdje prije vidio.
+I haven't seen you in here before.	Nisam te ovdje prije vidjela.
+I'm tired and I want to go to bed.	Umorio sam se i hoću spavati.
+My boss called me into his office.	Šef me je pozvao u svoj ured.
+Please keep an eye on my suitcase.	Molim te pripazi na moj kofer.
+Some friends invited me to dinner.	Neki prijatelji su me pozvali na večeru.
+Stupid people tend to be arrogant.	Glup ljudi su često umišljeni.
+That fox must have killed the hen.	Sigurno je ta lisica ubila kokoš.
+That fox must have killed the hen.	Ta lisica je zasigurno ubila kokoš.
+The drowning man shouted for help.	Utopljenik je vikao upomoć.
+Tom came to Mary's birthday party.	Tom je došao na Marynu rođendansku zabavu.
+Tom has been arrested three times.	Tom je bio uhićen tri puta.
+Tom said Mary was driving the car.	Tom je rekao da je Mary vozila auto.
+Two bags of cement will be enough.	Dvije vreće cementa će biti dovoljne.
+We enjoyed singing songs together.	Uživali smo zajedno pjevati.
+We went to see a comedy in London.	Došli smo u London pogledati komediju.
+We're the only ones who know that.	Mi smo jedini koji to znamo.
+What's the price of this umbrella?	Koja je cijena ovoga kišobrana?
+Where did you have your suit made?	Gdje si izradio svoje odijelo?
+Where did you leave your umbrella?	Gdje si ostavio svoj kišobran?
+Where did you leave your umbrella?	Gdje si ostavila svoj kišobran?
+With freedom comes responsibility.	Sa slobodom dolazi odgovornost.
+You may as well tell us the truth.	Možeš nam jednostavno reći istinu.
+You may choose whichever you want.	Možeš odabrati kojeg god želiš.
+A childhood illness left her blind.	Bolest iz djetinjstva ju je oslijepila.
+Can you read that sign ahead of us?	Možeš li pročitati onaj znak ispred nas?
+Can you recommend any other hotels?	Možeš li preporučiti neke druge hotele?
+Come to my house whenever you like.	Dođi u moju kuću kad god hoćeš.
+Could I have another glass of beer?	Mogu li dobiti još jednu čašu piva?
+Diamonds are a girl's best friends.	Dijamanti su najbolji djevojčini prijatelji.
+Did you get the package I sent you?	Jesi li primio paket koji sam ti poslao?
+Did you get the package I sent you?	Jesi li primio paket koji sam ti poslala?
+Did you get the package I sent you?	Jesi li primila paket koji sam ti poslala?
+Did you get the package I sent you?	Jeste li primili paket koji sam vam poslao?
+Did you get the package I sent you?	Jeste li primili paket koji sam vam poslala?
+Do whatever you want. I don't care.	Radi što želiš. Uopće me ne zanima.
+Don't be afraid of making mistakes.	Nemoj se bojati grešaka.
+Don't bite the hand that feeds you.	Ne grizi ruku koja te hrani.
+Don't put your elbows on the table.	Ne stavljaj laktove na stol.
+Give this book to whoever wants it.	Daj ovu knjigu komugod tko je hoće.
+He arrived in time for the meeting.	Došao je na sastanak na vrijeme.
+He came in spite of the heavy snow.	Došao je usprkos jakog snijega.
+He caught a boy stealing his watch.	Uhvatio je dječaka kako mu krade sat.
+He didn't come to the last meeting.	Nije došao na posljednji sastanak.
+He doesn't live in my neighborhood.	On ne živi u mom susjedstvu.
+He is a doctor and also a novelist.	On je liječnik, a osim toga i pisac.
+He made up his mind to be a doctor.	Odlučio je postati liječnik.
+He's not always at home on Sundays.	On nije nedjeljom uvijek kod kuće.
+He's three inches taller than I am.	On je za 3 pedlja viši od mene.
+He's three inches taller than I am.	On je 7.5 centimetara viši od mene.
+I am so busy that I can't help you.	Tako sam zauzet da ti ne mogu pomoći.
+I am tired and I want to go to bed.	Umorio sam se i hoću spavati.
+I don't know what Tom was thinking.	Ne znam što si je Tom mislio.
+I don't like studying in this heat.	Ne volim učiti po ovakvoj vrućini.
+I like Tom, but he doesn't like me.	Sviđa mi se Tom, no ja se ne sviđam njemu.
+I want to know how he planned this.	Želim znati kako je to isplanirao.
+I was sick and had to stay indoors.	Bio sam bolestan i morao sam ostati u kući
+I was sick and had to stay indoors.	Bila sam bolesna i morala sam ostati u kući.
+I will give you the money tomorrow.	Dat ću ti novac sutra.
+I've done everything I can to help.	Napravio sam sve što mogu da pomognem.
+I've done everything I can to help.	Napravila sam sve što mogu da pomognem.
+My jacket is not the same as yours.	Moja jakna nije ista tvojoj.
+My older sister is good at singing.	Moja starija sestra dobro pjeva.
+One swallow does not make a spring.	Jedna lasta ne čini proljeće.
+The ceremony began with his speech.	Ceremonija je započela njegovim govorom.
+The lion is the king of the jungle.	Lav je kralj džungle.
+The man stood up and began to sing.	Muškarac je ustao i zapjevao.
+There are four people in my family.	U mojoj obitelji je četvero ljudi.
+This is the beginning of a new era.	Ovo je početak nove ere.
+Today I have a lot of things to do.	Danas imam puno toga za obaviti.
+Tom and Mary decided to adopt John.	Tom i Mary su odlučili posvojiti Johna.
+Tom gave Mary a piece of chocolate.	Tom je dao Mary komad čokolade.
+Tom is the best singer in my class.	Tom je najbolji pjevač u mom razredu.
+Tom's new girlfriend is very young.	Tomova nova djevojka je vrlo mlada.
+We saw something white in the dark.	Vidjeli smo nešto bijelo u mraku.
+We should've done what you advised.	Trebali smo učiniti to što si nam savjetovao.
+What do you think of Japanese food?	Što misliš o japanskoj hrani?
+What's your favorite YouTube video?	Koji je tvoj najomiljeniji youtube-video?
+Who was the man killed on the hill?	Tko je čovjek ubijen na brdu?
+Why do you think Tom would do that?	Zašto misliš da bi Tom to učinio?
+Why do you think Tom would do this?	Zašto misliš da bi Tom ovo učinio?
+Will we be in time for the concert?	Hoćemo li stići na koncert?
+You were supposed to tell Tom that.	Ti si to trebao reći Tomu.
+A friend of mine is studying abroad.	Jedan moj prijatelj studira u inozemstvu.
+All this running has made me hungry.	Ogladnio sam od svog ovog trčanja.
+Do you have any idea who killed Tom?	Imaš li ideju tko je mogao ubiti Toma?
+He has eyes at the back of his head.	On ima oči na potiljku.
+He is a lonely man with few friends.	On je usamljen čovjek, nema puno prijatelja.
+How much money does he make a month?	Koliko novca zarađuje mjesečno?
+I assume that you know what this is.	Pretpostavljam da znaš što je to.
+I could've killed you, but I didn't.	Mogao sam te ubiti, ali nisam.
+I thought a lot about what you said.	Puno sam razmišljao o onome što si rekao.
+I told Tom I was going to handle it.	Rekao sam Tomu da ću ja to riješiti.
+Ignorant people tend to be arrogant.	Neuki ljudi su često umišljeni.
+It will not be long before he comes.	On će doći uskoro.
+My mother told me to clean the room.	Majka mi je reka da očistim sobu.
+People who don't work, won't be fed.	Ljudi koji ne rade neće biti nahranjeni.
+Sugar replaced honey as a sweetener.	Šećer je zamijenio med kao zaslađivač.
+The doctors are looking at an x-ray.	Liječnici gledaju rendgensku sliku.
+The old lady was devoted to her dog.	Stara gospođa je bila posvećena svom psu.
+The workers were naked to the waist.	Radnici su bili goli do pasa.
+There's nothing as precious as love.	Ne postoji ništa vrijednije od ljubavi.
+Tom claimed that it was an accident.	Tom je tvrdio da je to bila nesreća.
+Tom did his homework in the kitchen.	Tom je napravio svoju zadaću u kuhinji.
+Tom explained how he lost his money.	Tom je objasnio kako je izgubio svoj novac.
+Tom hanged himself in his jail cell.	Tom se objesio u svojoj zatvorskoj ćeliji.
+Tom is an activist in his community.	Tom je aktivist u svojoj zajednici.
+Tom told Mary he had a lot of money.	Tom je rekao Mary da ima mnogo novca.
+We got to know each other in London.	Upoznali smo jedan drugoga u Londonu.
+We're here tonight for a good cause.	Ovdje smo večeras zbog dobrog razloga.
+Were you planning something special?	Jesi li planirao nešto specijalno?
+Were you planning something special?	Jesi li planirala nešto specijalno?
+Where there is smoke, there is fire.	Gdje je vatra, tu je i dim.
+Where were you the entire afternoon?	Gdje si bio cijelo popodne?
+Where were you the entire afternoon?	Gdje si bila cijelo popodne?
+Why are we having this conversation?	Zašto vodimo ovaj razgovor?
+A bird was flying high up in the sky.	Ptica je visoko letjela nebom.
+Do you think Tom will ever kiss Mary?	Misliš li da će Tom ikada poljubiti Mary?
+I borrow books from the city library.	Posuđujem knjige iz gradske knjižnice.
+I don't exercise as much as I should.	Ne vježbam koliko bih trebao.
+I no longer believe anything you say.	Ja ne vjerujem više u ono što mi govoriš.
+I think Tom and Mary like each other.	Mislim da se Tom i Mary sviđaju jedno drugome.
+I'm fairly sure I'm right about this.	Prilično sam siguran da sam u pravu o tome.
+Let me sleep for another ten minutes.	Pusti me da spavam još deset minuta.
+My upstairs neighbors are very noisy.	Susjedi na katu iznad mene su jako glasni.
+Next Monday and Tuesday are holidays.	Sljedeći ponedjeljak i utorak su praznici.
+Please tell me where the bus stop is.	Molim te reci mi gdje je stajalište za bus.
+The terrorists released the hostages.	Teroristi su oslobodili taoce.
+There were about one thousand people.	Bilo je oko tisuću ljudi.
+This sink is made of stainless steel.	Ovaj sudoper je napravljen od nehrđajućeg čelika.
+Tom is probably not hungry right now.	Tom vjerojatno nije gladan trenutno.
+Tom likes you more than anybody else.	Tom te voli više nego bilo koga drugoga.
+Tom thinks I don't know what he said.	Tom misli da ne znam što je rekao.
+Tom's house is shaped like a pyramid.	Tomova kuća je u obliku piramide.
+You won't be able to handle this job.	Nećeš biti sposoban podnijeti ovaj posao.
+Are there any book stores around here?	Ima li ovdje ijedna knjižara?
+Can you tell me where the restroom is?	Možete li mi reći gdje je zahod?
+He was driving a car along the street.	Vozio je auto ulicom.
+How did you arrive at this conclusion?	Kako si došao do tog zaključka?
+How did you arrive at this conclusion?	Kako si došla do tog zaključka?
+I can't be bothered to go out tonight.	Ne da mi se izaći večeras.
+I decided to tell her that I love him.	Odlučila sam joj reći da ga volim.
+I had an excellent breakfast at seven.	Odlično sam doručkovao u sedam.
+I'm developing an Android application.	Razvijam Android aplikaciju.
+Looks like that's a pretty big museum.	Čini se da je to prilično veliki muzej.
+My brother helped me with my homework.	Moj brat mi je pomogao s domaćom zadaćom.
+The most effective defense is offense.	Ofanziva je najefektivnija defanziva.
+There's no use trying to persuade him.	Nema koristi da ga se pokuša nagovoriti.
+Tom predicted that Mary would do that.	Tom je nagovjestio da će Mary to napraviti.
+Tom really enjoys watching basketball.	Tom stvarno uživa gledati košarku.
+Tom told me that I should've said yes.	Tom mi je rekao da sam trebao reći da.
+Water freezes at 0 degrees Centigrade.	Voda se ledi pri ništici.
+You can't help yourself, can you, Tom?	Ne možeš si pomoći, zar ne Tome?
+Your daughters have turned into women.	Tvoje kćerke su se pretvorile u žene.
+He has always devoted himself to music.	Uvijek je bio posvećen glazbi.
+He isn't the kind of person who steals.	On nije tip osobe koja krade.
+He took pictures of me with his camera.	Napravio je nekoliko mojih fotki svojom kamerom.
+He was hit by a car and died instantly.	Auto ga je udario i umro je na mjestu.
+How many blankets are there on the bed?	Koliko je pokrivača na krevetu?
+I ate absolutely nothing the whole day.	Uopće ništa nisam jeo cijeli dan.
+I didn't take part in the conversation.	Nisam sudjelovao u razgovoru.
+I love what you've done with the place.	Sviđa mi se kako si uredio stan.
+I still have a few things I need to do.	Moram obaviti još neke stvari.
+I told you I don't know how to do that.	Rekao sam ti da ne znam kako se to radi.
+I'll come when I have done my homework.	Doći ću kada završim svoju domaću zadaću.
+It was stormy the day before yesterday.	Bilo je olujno prekjučer.
+Several newspapers published the story.	Nekoliko je novina objavilo priču.
+She spends her holidays at her uncle's.	Ona provodi praznike kod strica.
+Tell me how can I be of service to you.	Reci mi, kako mogu biti od pomoći?
+They split up after a year of marriage.	Rastavili su se nakon godišnjice braka.
+Tom and I went to the same high school.	Tom i ja smo išli u istu srednju školu.
+Tom said that Mary was driving the car.	Tom je rekao da je Mary vozila auto.
+Tom will help whoever asks him to help.	Tom će pomoći bilo kome tko zatraži pomoć.
+You told me you wouldn't be here today.	Rekao si mi da nećeš biti ovdje danas.
+You told me you wouldn't be here today.	Rekla si mi da nećeš biti ovdje danas.
+Your examination results are excellent.	Tvoji rezultati ispita su odlični.
+He was late as a result of the accident.	Kasnio je zbog nesreće.
+I think we've wasted enough of our time.	Mislim da smo izgubili dovoljno vremena.
+I'm not satisfied with what you've done.	Nisam zadovoljan s onime što si napravio.
+I'm not satisfied with what you've done.	Nisam zadovoljan s onime što si napravila.
+The doctor gave her a thorough check-up.	Liječnik ju je temeljito pregledao.
+They speak English and French in Canada.	U Kanadi se govori engleski i francuski.
+They were the first to get into the bus.	Oni su bili prvi koji su ušli u autobus.
+Tom and Mary would make a lovely couple.	Tom i Mary bi bili prekrasan par.
+What happened to make you laugh so much?	Što se dogodilo da se tako smiješ?
+What kind of movie is it? Is it popular?	Kakav je ovo film? Je li popularan?
+You don't have to go to school tomorrow.	Sutra ne moraš ići u školu.
+Are you going to invite her to the party?	Hoćeš li je pozvati na zabavu?
+He has an interest in collecting insects.	Zanima ga skupljanje kukaca.
+He has never come on time that I know of.	Koliko ja znam, nikada nije došao na vrijeme.
+I asked him many questions about ecology.	Postavio sam mu mnogo pitanja o ekologiji.
+It is no use your trying to persuade him.	Nema koristi da ga se pokuša nagovoriti.
+The couple lived a happy life to the end.	Par je živio sretan život do kraja.
+The party won't start until Tom shows up.	Zabava neće započeti sve dok se Tom ne pojavi.
+There is almost no violence in that city.	Gotovo da nema nasilja u tom gradu.
+Tom accidentally set fire to the curtain.	Tom je slučajno zapalio zavjesu.
+Tom asked Mary to pretend to be his wife.	Tom je zamolio Mary da se pretvara da mu je žena.
+Tom finally realized that Mary was right.	Tom je napokon shvatio da je Mary bila u pravu.
+You have to solve your problems yourself.	Moraš rješavati svoje probleme sam.
+You sound like you're not having any fun.	Zvučiš kao da se ne zabavljaš.
+You sound like you're not having any fun.	Zvučite kao da se ne zabavljate.
+Everyone makes mistakes from time to time.	Svatko čini pogreške s vremena na vrijeme.
+He is always here between 5 and 6 o'clock.	Uvijek je ovdje između 5 i 6 sati.
+He organized a boycott of the bus service.	Organizirao je bojkot autobusnog prijevoza.
+His novels are popular among young people.	Njegovi romani su omiljeni među mladim osobama.
+I don't want to take up much of your time.	Ne želim ti uzeti više vremena.
+I'm going to leave the three of you alone.	Pustiti ću vas tri nasamo.
+Many economists are ignorant of that fact.	Mnogi ekonomisti se oglušuju o tu činjenicu.
+Mom is washing the dog because he's dirty.	Mama kupa psa, jer je prljav.
+Some of my friends can speak English well.	Neki moji prijatelji jako dobro govore engelski.
+The plants suffered damage from the frost.	Mraz je oštetio biljke.
+Tom allowed the police to search his home.	Tom je dopustio policiji da pretraži njegovu kuću.
+Tom asked Mary to take back what she said.	Tom je zamolio Mary da opovrgne rečeno.
+Tom didn't like the way Mary spoke to him.	Tomu se nije svidio način kako je Mary razgovarala s njime.
+Tom evidently was here early this morning.	Tom je očito bio ovdje rano jutros.
+Tom finally realized that he'd been wrong.	Tom je napokon shvatio da je bio u krivu.
+Tom plunged the hot metal into cold water.	Tom je uronio vrući metal u hladnu vodu.
+Tom thinks that I don't know what he said.	Tom misli da ne znam što je rekao.
+Tom wants to know when you'll be finished.	Tom želi znati kad ćete biti gotovi.
+Tom was so cold his teeth were chattering.	Tomu je bilo toliko hladno da su mu zubi cvokotali.
+Very young children don't know many words.	Mala djeca nemaju širok rječnik.
+Very young children don't know many words.	Mala djeca ne znaju mnogo riječi.
+You've definitely gotten better at French.	Tvoj francuski se definitivno poboljšao.
+Can you recommend a hotel near the airport?	Možeš li preporučiti hotel u blizini zračne luke?
+He has many enemies in the political world.	On ima mnogo neprijatelja u svijetu politike.
+He took the trouble to assist the poor man.	Uzeo si je truda da pomogne tome siromašnome čovjeku.
+I can't forgive him for behaving like that.	Ne mogu mu oprostiti zbog takvog ponašanja.
+I had not waited long before she turned up.	Nisam ga morao dugo čekati.
+I started liking Mary as soon as I met her.	Mary mi se počela sviđati od prvog susreta.
+In the fall, many birds head for the south.	Ujesen mnoge ptice sele se na jug.
+Money doesn't necessarily make you happier.	Novac te nužno ne čini sretnim.
+Money doesn't necessarily make you happier.	Novac te nužno ne čini sretnom.
+No student was able to answer the question.	Niti jedan student nije znao odgovor na pitanje.
+The plan was rejected as being impractical.	Plan je odbačen kao nepraktičan.
+We had an examination in mathematics today.	Imali smo danas ispit iz matematike.
+Wind is a cheap and clean source of energy.	Vjetar je jeftin i čist izvor energije
+A bird in the hand is worth two in the bush.	Bolje vrabac u ruci nego golub na grani.
+By the end of June, they were ready to vote.	Do kraja lipnja oni su bili spremni glasati.
+I don't know if those languages are related.	Ne znam jesu li ti jezici srodni.
+I don't want to work under these conditions.	Ne želim raditi pod tim uvjetima.
+I gave my mother 19 flowers on Mother's Day.	Dao sam svojoj majci devetnaest cvijetova za Majčin dan.
+It was obvious Tom didn't want to kiss Mary.	Bilo je očigledno da Tom nije htio poljubiti Mariju.
+You scratch my back, and I'll scratch yours.	Ruka ruku mije.
+You're about to make a very serious mistake.	Upravo ćeš napraviti veliku grešku.
+Are there any other hotels you can recommend?	Ima li nekih drugih hotela koje možeš preporučiti?
+English and German are two related languages.	Engleski i njemački su srodni jezici.
+Every little thing you say gets on my nerves.	Ide mi na živce svaka riječ koju izgovoriš.
+I am so tired that I can't walk another step.	Umoran sam toliko da ne mogu više ni korak.
+I broke down the door because I lost the key.	Provalio sam vrata jer sam izgubio ključ.
+That which is easily acquired is easily lost.	Kako došlo, tako prošlo.
+The government has imposed a new tax on wine.	Vlada je nametnula novi porez na vino.
+They spoke ill of the captain in his absence.	Govorili su ružno o kapetanu dok ga nije bilo.
+Tom spent the whole afternoon playing tennis.	Tom je proveo cijelo popodne igrajući tenis.
+Who's the man at the other side of the table?	Tko je taj čovjek s druge strane stola?
+Yesterday I played tennis for the first time.	Jučer sam po prvi puta igrao tenis.
+Yesterday I played tennis for the first time.	Jučer sam po prvi puta igrala tenis.
+You can't tell me who I can or can't talk to.	Ne možeš mi ti reći s kim mogu, a s kim ne mogu pričati.
+He has postponed his departure until tomorrow.	Odgodio je njegov odlazak do sutra.
+I regret not having studied hard for the test.	Žalim što nisam više učio za ispit.
+I want to see what you have inside your house.	Želim vidjeti što imaš u kući.
+Knowing is nothing. Imagination is everything.	Znati je ništa, mašta je sve.
+My guess is that Tom isn't going to want that.	Moja pretpostavka je da Tom to neće htjeti.
+Our teacher will return from abroad in August.	Naš učitelj će se vratiti iz inozemstva u kolovozu.
+The accident happened on Sunday at about 3:00.	Nesreća se dogodila u nedjelju oko 3:00.
+The game may have been put off till next week.	Igra može biti odgođena do sljedećeg tjedna.
+We walked together as far as the next station.	Šetali smo se sve do iduće stanice.
+All our teachers were young and loved teaching.	Svi učitelji su bili mladi i voljeli podučavati.
+I heard a strange sound coming from the garage.	Čuo sam čudni zvuk koji je dolazio iz garaže.
+It is not easy to speak naturally on the radio.	Nije jednostavno govoriti prirodno na radiju.
+She insisted that he should go to the hospital.	Inzistirala je da on ode u bolnicu.
+The war cost 2,000 million dollars every month.	Rat stoji 2 000 milijuna dolara mjesečno.
+Tom took a moment to consider the consequences.	Tom je nakratko promislio o posljedicama.
+When was the last time you angered your mother?	Kad si zadnji put razljutio svoju majku.
+When was the last time you angered your mother?	Kad si zadnji put razljutila svoju majku.
+You can't really expect Tom to change his mind.	Stvarno ne možeš očekivati da će Tom promijeniti svoje mišljenje.
+He is superior to his competitors in everything.	Nadmašuje svoje protivnike u svemu.
+He who lives by the sword will die by the sword.	Tko se mača laća, od mača i pogiba.
+I think we'll probably reach Boston before dark.	Mislim da ćemo stići u Boston prije mraka.
+I'd like you to look after my dog while I'm out.	Volio bih kad bi pripazio na mog psa dok sam vani.
+I'd like you to look after my dog while I'm out.	Volljela bih kad bi pripazila na mog psa dok sam vani.
+If you don't bother them, they won't bother you.	Ako im ne smetaš, ni oni tebi neće smetati.
+It is one of the biggest summer music festivals.	To je jedan od najvećih ljetnih muzičkih festivala.
+She seems to have been offended by what he said.	Izgleda da ju je uvrijedilo ono što joj je rekao.
+The light went out and we were left in the dark.	Nestalo je svjetla i ostali smo u mraku.
+There is a small teacup and an egg on the table.	Na stolu je šalica čaja i jaje.
+Tom certainly isn't as smart as he thinks he is.	Tom uopće nije toliko pametan koliko misli da jest.
+Tom chopped wood for his woodburning cook stove.	Tom je nacijepao drva za svoj štednjak na drva.
+Why did you give up the idea of learning French?	Zašto si odustao od učenja francuskog?
+You still haven't told me when you get off work.	Nisi mi rekao kad odlaziš na posao.
+He always speaks of the government with contempt.	Uvijek govori o vladi s prijezirom.
+He hadn't eaten all day long and was very hungry.	Nije bio jeo cijeli dan i bio je gladan.
+He who lives by the sword shall die by the sword.	Tko se mača laća, od mača i pogiba.
+It looks like Tom is going to start working here.	Izgleda da će Tom početi raditi ovdje.
+Many people were killed as a result of the storm.	Mnogi su ljudi poginuli od posljedica oluje.
+Tom doesn't have to eat it if he doesn't want to.	Tom ne treba jesti ako ne želi.
+Tom finished his drink and asked for another one.	Tom je popio svoje piće i naručio još jedno.
+A bird in the hand is better than two in the bush.	Bolje vrabac u ruci nego golub na grani.
+Do you know the difference between silver and tin?	Možeš li razlikovati srebro od kositra?
+He told us such a funny story that we all laughed.	Ispričao nam je tako smiješnu priču da smo se svi smijali.
+His daughter has grown out of all her old clothes.	Njegova kćerka je prelasla svu svoju staru odjeću.
+I wrote down his phone number on a scrap of paper.	Zapisao sam njegov broj na komadiću papira.
+I wrote down his phone number on a scrap of paper.	Zapisala sam njegov broj na komadiću papira.
+She has a great affection for her little brothers.	Vrlo je privržena svojoj mlađoj braći.
+Tom was kind enough to lend me the money I needed.	Tom je bio toliko ljubazan da mi posudi novac koji mi je trebao.
+Tom was successful in finding a new job in Boston.	Tom je uspio pronaći posao u Bostonu.
+Who was the last person to log on to the computer?	Tko je bila posljednja osoba na tom računalu?
+"Have you seen my cell phone?" "It's on the table."	"Jesi li vidio moj mobitel?" "Na stolu je."
+American English isn't better than British English.	Američki engleski nije bolje od britanskog engleskog.
+He has given up smoking for the sake of his health.	Prestao je pušiti da očuva svoje zdravlje.
+I think all three of us know what needs to be done.	Mislim da svi troje znamo što treba napraviti.
+My dog is blind, but he loves to go out for a walk.	Moj pas je slijep, ali voli ići van i šetati se.
+No matter how he tried, he could not open the door.	Bez obzira kako pokušavao, nije uspijevao otvoriti vrata.
+There's no evidence this disease is caused by diet.	Nema dokaza da je ova bolest uzrokovana načinom prehrane.
+Tom must've tried cleaning this without using soap.	Tom mora da je pokušavao ovo očistiti bez sapuna.
+Without your consent, nothing can be done about it.	Bez tvoje suglasnosti, ništa se ne može učiniti u vezi toga.
+It was raining so hard that we decided to stay home.	Kiša je tako jako padala da smo odlučili ostati doma.
+He does not study hard, but does very well at school.	On ne uči mnogo, ali ima dobar uspjeh u školi.
+Our train was an hour late because of the heavy snow.	Zbog mećave naš vlak je kasnio jedan sat.
+Somebody spent a lot of money to decorate this place.	Netko je potrošio mnogo novca da bi ukrasio ovaj stan.
+Somebody spent a lot of money to decorate this place.	Netko je potrošio mnogo novca da bi ukrasio ovo mjesto.
+The film was inspired by the novel of the same title.	Film je bio inspiriran novelom istog naslova.
+You sort of hinted that you wanted me to ask you out.	Nekako si mi dao naslutiti da hoćeš da te pozovem vani.
+You sort of hinted that you wanted me to ask you out.	Nekako si mi dala naslutiti da hoćeš da te pozovem vani.
+How long does it take from here to your house by bike?	Koliko dugo ti treba s biciklom odavde do tvoje kuće?
+The old teacher began to talk about the good old days.	Stari učitelj je počeo nostalgično govoriti o dobrim, starim vremenima.
+Tom said he tried to do that the day before yesterday.	Tom je rekao kako je to probao napraviti prekjučer.
+I didn't have enough money to buy everything we needed.	Nisam imao dovoljno novca da kupim sve što nam je trebalo.
+Tom needs to study more if he hopes to pass this class.	Tom mora više učiti ako misli završiti razred.
+It would've been better if Tom hadn't bought Mary a gun.	Bilo bi bolje da Tom nije kupio pištolj Mary.
+She will arrive in Tokyo at the beginning of next month.	Ona će stići u Tokio početkom sljedećeg mjeseca.
+The sort of information we need is not always available.	Informacije kakve trebamo nisu uvijek dostupne.
+You should spend more time outside and less time inside.	Trebao bi provoditi više vremena vani, a manje unutra.
+Please help me pick out a hat which matches my new dress.	Molim te pomogni mi odabrati šešir koji odgovara mom novom odijelu.
+We listened carefully in order not to miss a single word.	Slušali smo pažljivo da ne propustimo ni jednu riječ.
+High tariffs have become a barrier to international trade.	Visoke cijene su postale zapreka međunarodnoj trgovini.
+I have so many clothes I don't know what to wear tomorrow.	Imam toliko odjeće da ne znam što obući sutra.
+The university was founded by his father twenty years ago.	Sveučilište je osnovao njegov otac prije dvadeset godina.
+I can't remember her phone number no matter how much I try.	Ne mogu zapamtiti njezin broj telefona, unatoč velikom trudu da zapamtim.
+Tom doesn't want you to share this information with anyone.	Tom ne želi da podijeliš ovu informaciju s bilo kime.
+A terrible battle took place at Kasserine in western Tunisia.	Strašna bitka se dogodila na Kasserineu u zapadnom Tunisu.
+Tom asked Mary to tell him where she had hidden the diamonds.	Tom je pitao Mary da mu kaže gdje je sakrila dijamante.
+Tom always thought that John and Mary were such a nice couple.	Tom je oduvijek mislio da su John i Mary krasan par.
+A quarterly growth of 1.2% means an annual growth rate of 4.8%.	Tromjesečni rast od 1.2% znači godišnji rast od 4.8%.
+Husbands and wives should help each other as long as they live.	Supruzi i supruge bi trebali pomagati jedno drugome dokle god žive.
+I want to go to Australia once more before my passport expires.	Želim otići u Austraiju još jednom prije nego što mi putovnica istekne.
+If she had been a little more patient, she could have succeeded.	Da je bila malo strpljivija, mogla je uspjeti.
+Light waves travel through space and various kinds of materials.	Svjetlosni valovi prolaze kroz prostor i različite materijale.
+You are working too hard. Sit down and take it easy for a while.	Radiš previše. Sjedni i odmori malo.
+Her composition is very good except for a few errors in spelling.	Njezin sastav je vrlo dobar, osim nekoliko grešaka u izgovoru.
+My office is on the fourth floor of that gray six-story building.	Moj ured je na četvrtom katu sive šesterokatnice.
+The fire had spread to the next building before the firemen came.	Vatra se proširila na susjednu zgradu prije nego što su vatrogasci pristigli.
+The quarterly growth of 1.2% means an annual growth rate of 4.8%.	Tromjesečni rast od 1.2% znači godišnji rast od 4.8%.
+When she was in Los Angeles, she had at least six different jobs.	Kada je bila u Los Angelesu, imala je najmanje 6 različitih poslova.
+If I tell my mother, she'll worry, so I don't think I'll tell her.	Kažem li svojoj majci, brinut će se, zato mislim da joj neću reći.
+The government is not doing its best to solve the housing problem.	Vlada ne daje sve od sebe da bi riješila stambeno pitanje.
+There were many things that we needed to do to prepare for our trip.	Bilo je nužno učiniti mnoge stvari oko priprema za putovanje.
+Tom can't even play one song on his ukulele without making mistakes.	Tom ne može niti jednu pjesmu odsvirati na svom ukulele bez pogrješke.
+What was the name of the hotel where you stayed in Boston last year?	Kako se zvao hotel u Bostonu u kojem si bio prošle godine?
+What was the name of the hotel where you stayed in Boston last year?	Kako se zvao hotel u Bostonu u kojem si bila prošle godine?
+I was going to run over the notes one last time, but there wasn't time.	Mislio sam proći po bilješkama još jedan put, ali nije bilo vremena.
+In China, there's a saying that you can't judge a person by appearance.	U Kini postoji izreka da ne možeš suditi čovjeka po izgledu.
+In Japan, relations between neighbors are apt to be cooler than in USA.	Susjedski odnosi u Japanu su obično hladniji nego u SAD-u.
+Would you please stop singing so loudly? This is not a cheap drinking place.	Možete li prestati pjevati tako glasno? To nije nekakva krčma.
+I'm sure this will cause additional problems for you, but it can't be helped.	Znam da će ti ovo uzrokovati dodatne probleme ali ništa se ne može napraviti.
+With this price, your product would not be competitive in the Japanese market.	S takvom cijenom vaš proizvod neće preživjeti konkurenciju na japanskom tržištu.
+The politician had sticky fingers, and 5% of every contract ended in his pocket.	Političar je imao ljepljive prste, jer je 5% od svakog ugovora završilo u njegovom džepu.
+The average American living space is twice as large as the living space in Japan.	Prosječni prostor življenja u Americi je dva puta veći nego u Japanu.
+Louis Braille, who was blind from the age of three, invented a way for the blind to read.	Louis Braille, slijep od treće godine, je izumio način kako slijepi mogu čitati.

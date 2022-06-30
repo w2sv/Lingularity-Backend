@@ -1,0 +1,2202 @@
+I'm OK.	Mən yaxşıyam.
+Really?	Əminsən?
+Really?	Doğurdan?
+Really?	Dəqiq?
+It's me.	Bu mənəm.
+Join us.	Bizə qoşul.
+Perfect!	Əla!
+Perfect!	Möhtəşəm!
+Shut up!	Kəs səsini!
+Shut up!	Yum ağzını!
+Tom won.	Tom uddu.
+Welcome.	Xoş gəlmişsiniz!
+You won.	Sən uddun.
+Hurry up.	Tələs!
+I'm home.	Evdəyəm.
+I'm ugly.	Mən çirkinəm.
+I'm ugly.	Mən eybəcərəm.
+Tom came.	Tom gəldi.
+Who's he?	O kimdir?
+Birds fly.	Quşlar uçurlar.
+I knew it.	Mən bunu bilirdim.
+I laughed.	Mən güldüm.
+I'll talk.	Mən danışaram.
+I'm angry.	Hirsliyəm.
+I'm tired.	Yorulmuşam.
+I'm tired.	Yorğunam.
+I'm tough.	Mən sərt insanam.
+I'm young.	Mən gəncəm.
+I'm young.	Mən cavanam.
+Is it bad?	Pisdir?
+Is it hot?	Qaynardır?
+We'll win.	Biz qalib gələcəyik.
+Be careful!	Ehtiyatlı olun!
+Be careful.	Ehtiyatlı ol!
+Be serious.	Ciddi olun!
+Be serious.	Ciddi ol!
+Birds sing.	Quşlar oxuyurlar.
+Definitely!	Əlbəttə!
+Forgive me.	Bağışla məni.
+God exists.	Allah var.
+God exists.	Allah mövcuddur.
+I can wait.	Mən gözləyə bilirəm.
+I can wait.	Mən gözləyə bilərəm.
+I chew gum.	Saqqız çeynəyirəm.
+I eat meat.	Mən ət yeyirəm.
+I like you.	Səndən xoşum gəlir.
+I like you.	Sizdən xoşum gəlir.
+I ran home.	Mən evə qaçdım.
+I sat down.	Mən oturdum.
+I sat down.	Mən əyləşdim.
+I was weak.	Mən zəif idim.
+I'm buying.	Mən alıram.
+Is he busy?	O məşğuldur?
+It's green.	Yaşıldır.
+Jesus wept.	İsa ağladı.
+They agree.	Onlar razıdırlar.
+Tom's home.	Tom evdədir.
+We're lazy.	Biz tənbəlik.
+We're poor.	Biz kasıbıq.
+Who was it?	O kim idi?
+You're sad.	Qəmginsiniz.
+He has come!	O gəlib!
+He has wine.	Onun şərabı var.
+I eat bread.	Mən çörək yeyirəm.
+I know that.	Onu bilirəm.
+I like them.	Onlar mənim xoşuma gəlir.
+I love cats.	Mən pişikləri sevirəm.
+I saw a dog.	Mən it gördüm.
+I work here.	Mən burada işləyirəm.
+I'm not Tom.	Mən Tom deyiləm.
+I'm not sad.	Mən qəmgin deyiləm.
+Is it yours?	Bu sizindir?
+Is it yours?	Bu sizinkidir?
+Sit with me.	Mənimlə oturun.
+Tom'll wait.	Tom gözləyəcək.
+Tom's young.	Tom gəncdir.
+We love you.	Biz sizi sevirik.
+We're twins.	Biz əkizlərik.
+What is art?	İncəsənət nədir?
+Am I in love?	Mən aşiqəm?
+Are you busy?	Məşğulsunuz?
+Are you sure?	Əminsən?
+Blood is red.	Qan qırmızıdır.
+Did Tom know?	Tom bilirdi?
+Do you smoke?	Çəkirsən?
+Do you smoke?	Siqaret çəkirsiniz?
+Examine them.	Yoxlayın onları.
+Find the cat.	Pişiyi tap!
+Ghosts exist.	Ruhlar mövcuddurlar.
+Happy Easter!	Pasxa bayramınız mübarək!
+He was young.	O gənc idi.
+I apologized.	Mən üzr istədim.
+I ate apples.	Mən almaları yedim.
+I did my job.	Mən öz işimi gördüm.
+I don't know.	Mən bilmirəm.
+I have a son.	Mənim oğlum var.
+I want money.	Pul istəyirəm.
+I was asleep.	Mən yatıb qalmışdım.
+I won't bite.	Dişləməyəcəm.
+I'm a writer.	Mən yazıçıyam.
+I'm no saint.	Mən müqəddəs deyiləm.
+Is this love?	Bu sevgidir?
+It was black.	Qara idi.
+It's not bad.	Pis deyil.
+It's snowing.	Qar yağır.
+Life goes on.	Həyat davam edir.
+My ears hurt.	Qulaqlarım ağrıyır.
+She is young.	O cavandır.
+Sweet dreams!	Şirin yuxular!
+Sweet dreams!	Yuxun şirin olsun!
+They hate us.	Onlar bizə nifrət edirlər.
+They're boys.	Onlar oğlandırlar.
+They're free.	Onlar azaddırlar.
+Tom is young.	Tom cavandır.
+Tom was home.	Tom evdə idi.
+Unbelievable!	İnanılmaz!
+We heard you.	Biz səni eşitdik.
+We know this.	Biz bunu bilirik.
+We're a team.	Biz komandayıq.
+What is this?	Bu nədir?
+You are rude.	Kobudsan.
+You are rude.	Siz kobudsunuz.
+You know how.	Sən bilirsən necə.
+You're brave.	Sən cəsursan.
+You're drunk.	Siz sərxoşsunuz!
+Are you crazy?	Dəlisən?
+He lied to us.	O bizə yalan dedi.
+He smells bad.	Ondan pis iy gəlir.
+His nose bled.	Onun burnu qanadı.
+How's the dog?	İt necədir?
+I hate onions.	Soğandan zəhləm gedir.
+I like trains.	Qatarlardan xoşum gəlir.
+I love autumn.	Mən payızı sevirəm.
+I love garlic.	Sarımsaq xoşlayıram.
+I love spring.	Mən yazı sevirəm.
+I quite agree.	Tamamilə razıyam.
+I see the dog.	İti görürəm.
+I was singing.	Mən oxuyurdum.
+I'm an orphan.	Mən yetiməm.
+I'm dangerous.	Mən təhlükəliyəm.
+I'm in my car.	Mən maşınımın içindəyəm.
+I'm not blind.	Mən kor deyiləm.
+Is Tom guilty?	Tom günahkardır?
+It gets worse.	Pisə doğru gedir.
+It gets worse.	Pişləşir.
+It's not easy.	Bu asan deyil.
+Life is tough.	Həyat çətindir.
+My car is red.	Mənim maşınım qırmızıdır.
+My head aches.	Mən başım ağrıyır.
+My head hurts.	Başım ağrıyır.
+Open the door.	Qapını aç!
+Open the door.	Qapını açın!
+Our team lost.	Bizim komandamız uduzdu.
+Send it to me.	Bunu mənə göndər.
+She avoids me.	O məndən qaçır.
+She hates him.	O ona nifrət edir.
+She is crying.	O ağlayır.
+She's my wife.	O mənim arvadımdır.
+Take Tom home.	Tomu evə apar!
+That's my cat.	O mənim pişiyimdir.
+The war ended.	Müharibə sona çatdı.
+This is Japan.	Bu Yaponiyadır.
+This is a pen.	Bu qələmdir.
+Tom came home.	Tom evə gəldi.
+Tom disagreed.	Tom razılaşmadı.
+Tom found one.	Tom birini tapdı.
+Tom has a car.	Tomun maşını var.
+Tom knew this.	Tom bunu bilirdi.
+Tom was alone.	Tom tək idi.
+Tom went home.	Tom evə getdi.
+Tom will call.	Tom zəng vuracaq.
+Tom's waiting.	Tom gözləyir.
+Wait a second.	Bir saniyə gözlə.
+We both cried.	Biz ikimiz də ağladıq.
+We caught Tom.	Biz Tomu tutduq.
+We met before.	Biz əvvəl görüşmüşük.
+We want peace.	Biz sülh istəyirik.
+We were drunk.	Sərxoş idik.
+We're friends.	Biz dostuq.
+We're thieves.	Biz oğruyuq.
+Who disagreed?	Kim razılaşmadı?
+You have wine.	Sizin şərabınız var.
+You have wine.	Sənin şərabın var.
+Apples are red.	Almalar qırmızıdır.
+Are you crying?	Ağlayırsan?
+Autumn is here.	Payız gəldi.
+Cats are smart.	Pişiklər ağıllıdırlar.
+Close the book.	Kitabı bağla.
+Close the book.	Kitabı ört.
+Do we know you?	Biz sizi tanıyırıq?
+Don't complain.	Şikayətlənmə.
+Don't stop him.	Saxlama onu!
+Everybody lies.	Hamı yalan danışır.
+Guess who I am.	Tap mən kiməm!
+Happy New Year!	Yeni iliniz mübarək!
+He is a doctor.	O, həkimdir.
+He sang a song.	O mahnı oxudu.
+Hide the money.	Pulu gizlət!
+I am a teacher.	Mən müəlliməm.
+I hate spinach.	İspanaqdan zəhləm gedir.
+I hate to wait.	Gözləməkdən zəhləm gedir.
+I have no time.	Mənim vaxtım yoxdur.
+I like lettuce.	Mən kahı xoşlayıram.
+I like to work.	İşləmək mənim xoşuma gəlir.
+I like to work.	Mən işləməyi sevirəm.
+I need a knife.	Mənə bıçaq lazımdır.
+I saw the cook.	Mən aşpazı gördüm.
+I usually walk.	Mən adətən piyada gedirəm.
+I will take it.	Mən bunu götürəcəm.
+I'm a bachelor.	Subayam.
+I'm dead tired.	Taqətdən düşmüşəm.
+I'm not a fool.	Mən axmaq deyiləm.
+I'm undressing.	Mən soyunuram.
+I'm used to it.	Mən buna öyrəşmişəm.
+It wasn't easy.	Bu asan deyildi.
+It's not blood.	Bu qan deyil.
+It's too small.	Bu çox balacadır.
+It's up to you.	Səndən asılıdır.
+My joints ache.	Oynaqlarım ağrayır.
+My nose itches.	Burnum qaşınır.
+Open your eyes.	Gözlərinizi açın.
+Open your eyes.	Gözlərini aç.
+She gave money.	O pul verdi.
+She is a nurse.	O, tibb bacısıdır.
+Stop the train.	Qatarı saxlayın!
+Surfing is fun.	Sörfinq əyləncəlidir.
+The birds sang.	Quşlar oxudular.
+They were busy.	Onlar məşğul idilər.
+They're guests.	Onlar qonaqdırlar.
+This is a harp.	Bu arfadır.
+Tom gave blood.	Tom qan verdi.
+Tom hates cats.	Tom pişiklərə nifrət edir.
+Tom looks sick.	Tom xəstə görünür.
+Tom loves cats.	Tom pişikləri sevir.
+Tom was better.	Tom daha yaxşı idi.
+We had to walk.	Biz yeriməli olduq.
+Wipe your nose.	Burnunu sil.
+You were right.	Siz haqlı idiniz.
+Black suits you.	Qara sənə yaraşır.
+Cats like boxes.	Pişiklər qutuları xoşlayırlar.
+Close your book.	Kitabı ört.
+Congratulations!	Təbriklər.
+Did Tom see you?	Tom səni gördü?
+Dinner's at six.	Axşam yeməyi saat altıdadır.
+Do you like rap?	Rep xoşlayırsan?
+Doesn't it work?	Bu işləmir?
+Don't be greedy.	Görməmiş olma!
+Don't be stingy.	Simic olma!
+Don't be stingy.	Xəsis olma!
+Don't come back.	Geri gəlmə.
+Don't forget it.	Onu unutma.
+Don't start yet.	Hələ başlama.
+Drink your milk.	Südünü iç.
+Green suits you.	Yaşıl sənə yaraşır.
+He has gone out.	O gedib.
+He is a teacher.	O, müəllimdir.
+He's a gardener.	O bağbandır.
+He's dead-tired.	O taqətdən düşüb.
+Here's the bill.	Bu da hesab.
+I am from Egypt.	Mən Misirdənəm.
+I am from Spain.	Mən İspaniyadanam.
+I am not afraid.	Mən qorxmuram.
+I ate the apple.	Almanı mən yedim.
+I bit my tongue.	Mən dilimi dişlədim.
+I can't see Tom.	Mən Tomu görə bilmirəm.
+I couldn't wait.	Gözləyə bilmədim.
+I couldn't walk.	Yeriyə bilmirdim.
+I couldn't walk.	Mən yeriyə bilmədim.
+I didn't forget.	Mən unutmadım.
+I didn't listen.	Mən qulaq asmadım.
+I didn't scream.	Mən qışqırmadım.
+I hate weddings.	Toylardan zəhləm gedir.
+I have finished.	Mən qurtarmışam.
+I have to sleep.	Mən yatmalıyam.
+I have two cats.	Mənim iki pişiyim var.
+I haven't eaten.	Mən yeməmişəm.
+I haven't slept.	Yatmamışam.
+I haven't tried.	Mən yoxlamamışam.
+I just finished.	Mən elə indicə qurtardım.
+I like them all.	Onların hamısından xoşum gəlir.
+I live in Japan.	Mən Yaponiyada yaşayıram.
+I lost interest.	Marağımı itirdim.
+I saw something.	Nəisə gördüm.
+I totally agree.	Mən tamamilə razıyam.
+I want an apple.	Alma istəyirəm.
+I want that bag.	Mən o çantanı istəyirəm.
+I was a teacher.	Mən müəllim idim.
+I was surprised.	Mən təəccüblənmişdim.
+I wasn't joking.	Mən zarafat etmirdim.
+I will continue.	Mən davam edəcəm.
+I would've paid.	Mən ödəyərdim.
+I'd be grateful.	Minnətdar olardım.
+I'll be outside.	Mən bayırda olacam.
+I'll sleep here.	Mən burada yatacam.
+I'm just joking.	Mən sadəcə zarafat edirəm.
+I'm not arguing.	Mən mübahisə etmirəm.
+I'm not perfect.	Mən mükəmməl deyiləm.
+I'm not thirsty.	Mən susamamışam.
+I'm not waiting.	Mən gözləmirəm.
+I'm not working.	Mən işləmirəm.
+Is this a radio?	Bu radiodur?
+Is this a river?	Bu çaydır?
+Is this spinach?	Bu ispanaqdır?
+It's just blood.	Bu sadəcə qandır.
+It's not a fish.	Bu balıq deyil.
+Jesus loves you.	İsa sizi sevir.
+Jesus loves you.	İsa səni sevir.
+Look at the cat.	Pişiyə bax.
+Look at the sky.	Səmaya bax.
+Money is needed.	Pul lazımdır.
+Nobody was home.	Evdə heç kim yox idi.
+Pass me the pen.	Qələmi mənə ver.
+She calmed down.	O sakitləşdi.
+She looks young.	O cavan görünür.
+The car is blue.	Maşın mavidir.
+The car is blue.	Maşın göydür.
+The cup is full.	Fincan doludur.
+The sky is blue.	Səma mavidir.
+There's no salt.	Duz yoxdur.
+They all hugged.	Onlar hamısı qucaqlaşdılar.
+They believe it.	Onlar buna inanırlar.
+They caught Tom.	Onlar Tomu tutdular.
+They deserve it.	Onlar buna layiqdirlər.
+They didn't run.	Onlar qaçmadılar.
+They don't care.	Onların vecinə deyil.
+They don't help.	Onlar kömək etmirlər.
+They helped Tom.	Onlar Toma kömək etdilər.
+They hugged Tom.	Onlar Tomu qucaqladılar.
+They lost again.	Onlar yenə uduzdular.
+They want peace.	Onlar sülh istəyirlər.
+They won't care.	Onların vecinə olmayacaq.
+They won't come.	Onlar gəlməyəcəklər.
+They're talking.	Onlar söhbət edirlər.
+Times are tough.	Zəmanə pisdir.
+Times are tough.	Çətin dövrdə yaşayırıq.
+Times are tough.	Çox çətin zamanda yaşayırıq.
+Today is Monday.	Bu gün bazar ertəsidir.
+Tom is a writer.	Tom yazıçıdır.
+Tom is bleeding.	Tomun qanaxması var.
+Tom is busy now.	Tom indi məşğuldur.
+Tom is no angel.	Tom mələk deyil.
+Tom is training.	Tom məşq edir.
+Tom killed Mary.	Tom Merini öldürdü.
+Tom tried again.	Tom yenə cəhd etdi.
+Tom was with me.	Tom mənimlə idi.
+Tom's suffering.	Tom əzab çəkir.
+Tom's very lazy.	Tom çox tənbəldir.
+Turn off the TV.	Televizoru söndür.
+Unlock the door.	Qapını aç!
+Unlock the door.	Qapını açın!
+We declared war.	Biz müharibə elan etdik.
+We eat together.	Biz birlikdə yeyirik.
+We never forget.	Biz heç vaxt unutmuruq.
+We were talking.	Biz söhbət edirdik.
+We won't forget.	Biz unutmayacağıq.
+We'll know soon.	Tezliklə bilərik.
+We'll stay here.	Biz burada qalacağıq.
+We'll wait here.	Biz burada gözləyəcəyik.
+We're all going.	Biz hamımız gedirik.
+What did he say?	O nə dedi?
+What scared you?	Səni nə qorxutdu?
+What scared you?	Sizi nə qorxutdu?
+What's the time?	Saat neçədir?
+A bird has wings.	Quşun qanadları olur.
+A cab is waiting.	Taksi gözləyir.
+Are they friends?	Onlar dostdurlar?
+Are you my enemy?	Sən mənim düşmənimsan?
+Are you pregnant?	Sən hamiləsən?
+Birds have wings.	Quşların qanadları olur.
+Birds have wings.	Quşların qanadları var.
+Did the dog bark?	İt hürdü?
+Do you know them?	Onları tanıyırsan?
+Eat your spinach.	İspanağını ye!
+Give me an apple.	Mənə bir alma ver.
+Give me one more.	Mənə birini də ver!
+He is an acrobat.	O, akrobatdır.
+He is dead drunk.	O, lülqənbərdir.
+He is his friend.	O onun dostudur.
+He is my teacher.	O mənim müəllimimdir.
+He isn't perfect.	O mükəmməl deyil.
+He loves animals.	O, heyvanları sevir.
+He needs a towel.	Ona dəsmal lazımdır.
+He used his head.	O, başını işlətdi.
+He was in France.	O Fransada idi.
+He was my friend.	O mənim dostum idi.
+He's still alive.	O hələ sağdır.
+Her hair is long.	Onun saçı uzundur.
+I am against war.	Mən müharibənin əleyhinəyəm.
+I am from Norway.	Mən Norveçdənəm.
+I am not married.	Evli deyiləm.
+I don't eat meat.	Mən ət yemirəm.
+I don't know you.	Sizi tanımıram.
+I don't know you.	Səni tanımıram.
+I feel powerless.	Mən özümü gücsüz hiss edirəm.
+I hate asparagus.	Qulançardan zəhləm gedir.
+I hate computers.	Kompüterlərdən zəhləm gedir.
+I have two books.	Mənim iki kitabım var.
+I just opened it.	Mən bunu elə indicə açdım.
+I know who he is.	Mən bilirəm o kimdir.
+I like this game.	Bu oyundan xoşum gəlir.
+I live in Boston.	Mən Bostonda yaşayıram.
+I love Australia.	Mən Avstraliyanı sevirəm.
+I sat among them.	Mən onların arasında oturdum.
+I sat among them.	Mən onların arasında əyləşdim.
+I think I'm sick.	Deyəsən xəstələnmişəm.
+I understand Tom.	Mən Tomu başa düşürəm.
+I was born there.	Mən orada doğulmuşam.
+I was in the car.	Mən maşında idim.
+I was very tired.	Mən çox yorğun idim.
+I won't need you.	Sənə ehtiyacım olmayacaq.
+I'm Tom's driver.	Mən Tomun sürücüsüyəm.
+I'm a translator.	Mən tərcüməçiyəm.
+I'm afraid to go.	Mən getməyə qorxuram.
+I'm confused now.	Çaşıb qalmışam.
+I'm losing blood.	Mən qan itirirəm.
+It's a sunflower.	Bu günəbaxandır.
+It's not a bribe.	Bu rüşvət deyil.
+Japan is in Asia.	Yaponiya Asiyadadır.
+Just follow them.	Sadəcə onları izlə.
+Let me do my job.	Qoy işimi görüm!
+Look at your map.	Xəritənə bax.
+No one helped me.	Heç kim mənə kömək etmədi.
+Open these doors.	Bu qapıları açın!
+Please don't die.	Xahiş edirəm, ölmə!
+Rome is in Italy.	Roma İtaliyadadır.
+School is boring.	Məktəb darıxdırıcıdır.
+She is a teacher.	O müəllimədir.
+She is beautiful.	O gözəldir.
+She likes to run.	O qaçmağı sevir.
+That made me mad.	O, məni dəli etdi.
+The apple is red.	Alma qırmızıdır.
+The book is mine.	Kitab mənimdir.
+The cat is black.	Pişik qaradır.
+The dog is white.	İt ağdır.
+The door is open.	Qapı açıqdır.
+The salt ran out.	Duz qalmayıb.
+This book is old.	Bu kitab köhnədir.
+This is an apple.	Bu almadır.
+This is not salt.	Bu duz deyil.
+This is your dog.	Bu sizin itinizdir.
+Tom didn't reply.	Tom cavab vermədi.
+Tom hates school.	Tomun məktəbdən zəhləsi gedir.
+Tom is no genius.	Tom dahi deyil.
+Tom is sensitive.	Tom həssasdır.
+Tom is very kind.	Tom çox mehribandır.
+Tom noticed Mary.	Tom Mary'nin fərqinə vardı.
+Tom quit his job.	Tom işdən çıxdı.
+Tom winked at me.	Tom mənə göz vurdu.
+We have two ears.	Bizim iki qulağımız var.
+We'll meet again.	Biz yenə görüşəcəyik.
+What is going on?	Nə baş verir?
+Who doesn't know?	Kim bilmir?
+Who was not here?	Kim burada deyildi?
+Winter is coming.	Qış gəlir.
+A leaf is falling.	Yarpaq düşür.
+Cocaine is a drug.	Kokain narkotikdir.
+Cows give us milk.	İnəklər bizə süd verirlər.
+Do you have a car?	Maşının var?
+Do you want a car?	Maşın istəyirsiniz?
+Do you want a car?	Maşın istəyirsən?
+Everyone is ready.	Hamı hazırdır.
+Everyone loves me.	Hamı məni sevir.
+Everyone loves me.	Məni hər kəs sevir.
+Follow your heart.	Ürəyinin səsinə qulaq as.
+God is everywhere.	Allah hər yerdədir.
+He broke my heart.	O mənim ürəyimi qırdı.
+He chewed his gum.	O saqqızını çeynədi.
+He has three sons.	Onun üç oğlu var.
+He hates shopping.	Onun bazarlıq etməkdən zəhləsi gedir.
+He is from France.	O Fransadandır.
+He is in the pink.	O çəhrayı geyinib.
+He wants an apple.	O alma istəyir.
+How does he do it?	O bunu necə edir?
+I am afraid to go.	Mən getməyə qorxuram.
+I am from Ecuador.	Mən Ekvadordanam.
+I bought a cactus.	Mən kaktus aldım.
+I drank the water.	Mən suyu içdim.
+I have black eyes.	Mənim qara gözlərim var.
+I have many discs.	Mənim çoxlu diskim var.
+I have no friends.	Mənim dostum yoxdur.
+I have three kids.	Üç uşağım var.
+I like watermelon.	Mən qarpız xoşlayıram.
+I love sunflowers.	Günəbaxanlardan xoşum gəlir.
+I need an ashtray.	Mənə külqabı lazımdır.
+I need some sleep.	Mənə biraz yatmaq lazımdır.
+I never had a car.	Heç vaxt maşınım olmayıb.
+I saved your life.	Mən sənin həyatını xilas etdim.
+I saved your life.	Mən sizin həyatınızı xilas etdim.
+I want to eat now.	Mən indi yemək istəyirəm.
+I was watching TV.	Mən televizora baxırdım.
+I went to Harvard.	Mən Harvarda getdim.
+I will do my best.	Mən əlimdən gələni edəcəm.
+I'll be over here.	Mən burada olacağam.
+I've lost my keys.	Mən açarlarımı itirmişəm.
+Is it raining now?	İndi yağış yağır?
+Is it raining now?	Yağır indi?
+Is this seat free?	Bu yer boşdur?
+Is this your room?	Bu sənin otağındır?
+It was a good day.	Yaxşı gün idi.
+It's Tom's office.	Bu Tomun ofisidir.
+It's a dictionary.	Bu lüğətdir.
+It's dark in here.	Burada içəridə qaranlıqdır.
+It's getting dark.	Hava qaralır.
+Keep away from me.	Məndən uzaq dur.
+Life is difficult.	Həyat çətindir.
+My heart's aching.	Ürəyim ağrıyır.
+My knife is sharp.	Mənim bıçağım itidir.
+Our team is ready.	Bizim komandamız hazırdır.
+Pink is for girls.	Çəhrayı qızlar üçündür.
+Roses have thorns.	Qızılgüllərin tikanları olur.
+She ate one apple.	O bir dənə alma yedi.
+She speaks German.	O almanca danışır.
+That was our plan.	O bizim planımız idi.
+The black dog ran.	Qara it qaçdı.
+The floor is cold.	Döşəmə soyuqdur.
+The room was dark.	Otaq qaranlıq idi.
+The train stopped.	Qatar dayandı.
+The war continued.	Müharibə davam etdi.
+The war had ended.	Müharibə sona çatmışdı.
+The water is good.	Su yaxşıdır.
+The water is pure.	Su safdır.
+The water is pure.	Su təmizdir.
+They're beautiful.	Onlar gözəldirlər.
+They're not happy.	Onlar xoşbəxt deyillər.
+Think about death.	Ölüm haqqında düşün.
+This apple is bad.	Bu alma pisdir.
+This car is black.	Bu maşın qaradır.
+This dog is white.	Bu it ağdır.
+This is her house.	Bu onun evidir.
+This is his house.	Bu onun evidir.
+This is my father.	Bu mənim atamdır.
+This is my friend.	Bu mənim dostumdur.
+This is your fate.	Bu sənin taleyindir.
+This is your fate.	Bu sizin taleyinizdir.
+This isn't silver.	Bu gümüş deyil.
+Today is Saturday.	Bu gün şənbədir.
+Tom broke my nose.	Tom mənim burnumu qırdı.
+Tom hated spinach.	Tomun ispanaqdan zəhləsi gedirdi.
+Tom is Mary's son.	Tom Merinin oğludur.
+Tom is a gardener.	Tom bağbandır.
+Tom is a murderer.	Tom qatildir.
+Tom is big-headed.	Tom özündənrazıdır.
+Tom is dead drunk.	Tom lülqənbərdir.
+Tom is my brother.	Tomas mənim qardaşımdır.
+Tom is not a hero.	Tom qəhrəman deyil.
+Tom is reading it.	Tom onu oxuyur.
+Tom is really mad.	Tom həqiqətən dəlidir.
+Tom is recovering.	Tom yaxşılaşır.
+Tom is recovering.	Tom sağalır.
+Tom is ridiculous.	Tom gülüncdür.
+Tom is the killer.	Qatil Tomdur.
+Tom is the leader.	Tom liderdir.
+Tom isn't in jail.	Tom həbsxanada deyil.
+Tom isn't jealous.	Tom qısqanc deyil.
+Tom returned home.	Tom evə qayıtdı.
+Tom used his head.	Tom başını işlətdi.
+Tom vomited blood.	Tom qan qusdu.
+Tom wasn't moving.	Tom tərpənmirdi.
+Tom will find you.	Tom səni tapacaq.
+Tom will find you.	Tom sizi tapacaq.
+Tom won't want it.	Tom bunu istəməyəcək.
+We aren't friends.	Biz dost deyilik.
+We can't find Tom.	Biz Tomu tapa bilmirik.
+We don't like you.	Bizim səndən xoşumuz gəlmir.
+We tried our best.	Biz əlimizdən gələni etdik.
+We were both busy.	Biz ikimiz də məşğul idik.
+We're against war.	Biz müharibənin əleyhinəyik.
+What does it mean?	Bu nə deməkdir?
+What is happiness?	Xoşbəxtlik nədir?
+What's in the box?	Qutuda nə var?
+Where is Room 105?	105-ci otaq haradadır?
+Where's my driver?	Mənim sürücüm hanı?
+Where's the vodka?	Vodka hanı?
+Where's the vodka?	Vodka haradadır?
+Yes, I kissed him.	Hə, onu öpdüm.
+You can't stop me.	Siz məni dayandıra bilməzsiniz.
+You can't stop me.	Məni dayandıra bilməzsən.
+You have no heart.	Sizin ürəyiniz yoxdur.
+You're the driver.	Sürücü sənsən.
+You're the driver.	Sürücü sizsiniz.
+You're too skinny.	Siz çox arıqsınız.
+A lot has happened.	Çox şey baş verib.
+All apples are red.	Bütün almalar qırmızıdırlar.
+Am I too demanding?	Mən çox tələbkaram?
+Are you a Buddhist?	Siz buddistsiniz?
+Are you a Buddhist?	Sən buddistsən?
+He has a long nose.	Onun uzun burnu var.
+He is a bad driver.	O pis sürücüdür.
+He is a bus driver.	O avtobus sürücüsüdür.
+He is only a child.	O, tək uşaqdır.
+He is thick-headed.	O kütbeyindir.
+Here, take my coat.	Al, mənim paltomu götür.
+I also like apples.	Mən də alma xoşlayıram.
+I am from Columbia.	Mən Kolumbiyadanam.
+I am from Portugal.	Mən Portuqaliyadanam.
+I am not a prophet.	Mən peyğəmbər deyiləm.
+I ate some spinach.	Mən bir az ispanaq yedim.
+I burned my finger.	Barmağımı yandırdım.
+I can go next week.	Gələn həftə gedə bilərəm.
+I can't explain it.	Mən bunu izah edə bilmirəm.
+I hate my eyebrows.	Qaşlarımdan zəhləm gedir.
+I have a white cat.	Mənim ağ pişiyim var.
+I looked around me.	Ətrafıma baxdım.
+I looked around me.	Ətrafıma göz gəzdirdim.
+I love butterflies.	Kəpənəkləri sevirəm.
+I saw an explosion.	Mən bir partlayış gördüm.
+I think I know why.	Deyəsən bilirəm niyə.
+I used to hate Tom.	Mən əvvəllər Toma nifrət edərdim.
+I want to kiss Tom.	Tomu öpmək istəyirəm.
+I want to know why.	Bilmək istəyirəm niyə.
+I want to know why.	Niyəsini bilmək istəyirəm.
+I wanted red shoes.	Mən qırmızı ayaqqabılar istədim.
+I was very careful.	Mən çox diqqətli idim.
+I'm afraid of owls.	Mən bayquşlardan qorxuram.
+I'm from Australia.	Mən Avstraliyadanam.
+I'm just a teacher.	Mən sadəcə müəlliməm.
+I'm sorry for this.	Buna görə təəssüf edirəm.
+I've been too busy.	Mən çox məşğul idim.
+I've cut my finger.	Barmağımı kəsmişəm.
+Is there hot water?	İsti su var?
+Is this seat empty?	Bu yer boşdur?
+It helped me a lot.	Bu mənə çox kömək oldu.
+It is Monday today.	Bu gün bazar ertəsidir.
+It wasn't my fault.	Bu mənim günahım deyildi.
+It's too dangerous!	Bu çox təhlükəlidir!
+Italy is in Europe.	İtaliya Avropadadır.
+Italy isn't Greece.	İtaliya Yunanıstan deyil.
+Look up at the sky.	Səmaya bax.
+Mars has two moons.	Marsın iki peyki var.
+My heart is broken.	Qəlbim qırıqdır.
+My knife is broken.	Bıçağım sınıb.
+My nose is running.	Burnum axır.
+My nose is too big.	Mənim burnum çox böyükdür.
+Nobody wants a war.	Heç kim müharibə istəmir.
+Owls have big eyes.	Bayquşların böyük gözləri olur.
+Owls hunt at night.	Bayquşlar gecələr ov edirlər.
+Prices are falling.	Qiymətlər düşür.
+She loves children.	O uşaqları sevir.
+She won't be ready.	O hazır olmayacaq.
+She's a bus driver.	O, avtobus sürücüsüdür.
+She's thirty-three.	Onun otuz üç yaşı var.
+The baby is asleep.	Körpə yatır.
+The baby is crying.	Körpə ağlayır.
+The bread is fresh.	Çörək təzədir.
+The dog wants meat.	İt ət istəyir.
+The earth is round.	Yer kürə şəklindədir.
+The ship is at sea.	Gəmi dənizdədir.
+The sun is setting.	Günəş batır.
+The sun is shining.	Günəş işıq saçır.
+The table is green.	Stol yaşıldır.
+The water was blue.	Su mavi idi.
+The water was warm.	Su isti idi.
+The window is open.	Pəncərə açıqdır.
+There's no mistake.	Səhv yoxdur.
+They didn't see it.	Onlar onu görmədilər.
+They were soldiers.	Onlar əsgər idilər.
+This is a hospital.	Bu xəstəxanadır.
+This is my bicycle.	Bu mənim velosipedimdir.
+This is my brother.	Bu mənim qardaşımdır.
+Tom broke his nose.	Tom burnunu sındırdı.
+Tom cut his finger.	Tom barmağını kəsdi.
+Tom has a big nose.	Tom yekə burnu var.
+Tom is chewing gum.	Tom saqqız çeynəyir.
+Tom is gravely ill.	Tom ağır xəstədir.
+Tom is in the room.	Tom otaqdadır.
+Tom salted his egg.	Tom yumurtasını duzladı.
+Tom sold his house.	Tom evini satdı.
+Tom was dead drunk.	Tom lülqənbər idi.
+Tom's nose was red.	Tomun burnu qırmızı idi.
+Water is important.	Su vacibdir.
+We all have to die.	Biz hamımız ölməliyik.
+We ate potato soup.	Biz kartof supu yedik.
+We ate some apples.	Biz bir neçə alma yedik.
+We don't like rain.	Biz yağış xoşlamırıq.
+We grow wheat here.	Biz burada buğda yetişdiririk.
+We were very happy.	Biz çox xoşbəxt idik.
+We were very tired.	Biz çox yorğun idik.
+We weren't friends.	Biz dost deyildik.
+We'll be back soon.	Biz tezliklə qayıdacağıq.
+We're already late.	Biz artıq geçikmişik.
+What am I here for?	Mən niyə burdayam?
+What am I here for?	Mən nə üçün buradayam?
+When do owls sleep?	Bayquşlar nə vaxt yatırlar?
+When's the wedding?	Toy nə vaxtdır?
+Where are my shoes?	Mənim ayaqqabılarım haradadır?
+Where is the train?	Qatar hanı?
+Where is the train?	Qatar haradadır?
+Where is the vodka?	Vodka hanı?
+Where is the vodka?	Vodka haradadır?
+Who was in the car?	Maşındakı kim idi?
+Whose fault was it?	Bu kimin səhvi idi?
+You aren't invited.	Siz dəvət olunmamısınız.
+You broke my heart.	Ürəyimi qırdın.
+You have no choice.	Sizin seçiminiz yoxdur.
+You know everybody.	Sən hamını tanıyırsan.
+You look very pale.	Çox solğun görünürsən.
+You look very pale.	Çox solğun görünürsünüz.
+You're an optimist.	Siz optimistsiniz.
+You're hurting him.	Siz onu incidirsiniz.
+A dog has four legs.	İtin dörd ayağı olur.
+Allow me to explain.	İcazə ver izah edim.
+Are they all strong?	Onların hamısı güclüdür?
+Are they still here?	Onlar hələ buradadırlar?
+Can I give you this?	Mən bunu sənə verə bilərəm?
+Can I give you this?	Mən bunu sizə verə bilərəm?
+Even Tom knows that.	Hətta Tom da onu bilir.
+He has enough money.	Onun kifayət qədər pulu var.
+He lives in Morocco.	O Mərakeşdə yaşayır.
+He slept in the car.	O, maşında yatdı.
+He was born in Ohio.	O Ohayoda doğulub.
+His heart is broken.	Onun qəlbi qırıqdır.
+I am not an athlete.	Mən atlet deyiləm.
+I am not in a hurry.	Mən tələsmirəm.
+I am sad to hear it.	Bunu eşitdiyimə təəssüf edirəm.
+I can see the light.	İşığı görə bilirəm.
+I can't change this.	Mən bunu dəyişə bilmirəm.
+I can't control Tom.	Mən Tomu idarə edə bilmirəm.
+I didn't expect you.	Sizi gözləmirdim.
+I didn't expect you.	Səni gözləmirdim.
+I do not read books.	Mən kitab oxumuram.
+I don't like garlic.	Sarımsaq xoşlamıram.
+I don't like onions.	Soğan xoşlamıram.
+I have a dictionary.	Mənim lüğətim var.
+I have two children.	Mənim iki uşağım var.
+I just want lettuce.	Mən sadəcə kahı istəyirəm.
+I no longer need it.	Daha mənə lazım deyil.
+I no longer need it.	Mənim daha buna ehtiyacım yoxdur.
+I returned to Japan.	Mən Yaponiyaya qayıtdım.
+I saw her yesterday.	Mən onu dünən gördüm.
+I was already tired.	Mən artıq yorulmuşdum.
+I was baking a cake.	Mən tort bişirirdim.
+I was expecting Tom.	Mən Tomu gözləyirdim.
+I wasn't in a hurry.	Mən tələsmirdim.
+I'm against the war.	Mən müharibənin əleyhinəyəm.
+I'm proud of myself.	Mən özümlə fəxr edirəm.
+I'm thinking of you.	Səni düşünürəm.
+I've done it myself.	Mən bunu özüm etmişəm.
+I've lost my wallet.	Pul kisəmi itirmişəm.
+I've read this book.	Mən bu kitabı oxumuşam.
+In fact, I am happy.	Əslində mən xoşbəxtəm.
+Is it a big problem?	Bu böyük problemdir?
+It didn't cost much.	Bu bahalı deyildi.
+It wasn't very good.	Elə də yaxşı deyildi.
+It's a comedy movie.	Bu komediyadır.
+It's not a bad idea.	Pis fikir deyil.
+My nose is bleeding.	Mənim burnum qanayır.
+She drives me crazy.	O mənim ağlımı başımdan alır.
+She raised her hand.	O, əlini qaldırdı.
+She's got the point.	O məsələni başa düşdü.
+Should I stay or go?	Qalım, ya gedim?
+Show me your papers!	Sənədlərinizi göstərin!
+The car didn't stop.	Maşın dayanmadı.
+The cat drinks milk.	Pişik süd içir.
+The choice is yours.	Seçim sizindir.
+The choice is yours.	Seçim sənindir.
+The meat tastes bad.	Ətin dadı pisdir.
+The room is too big.	Otaq çox böyükdür.
+The victory is ours.	Qələbə bizimdir.
+These books are old.	Bu kitablar köhnədirlər.
+They believe in God.	Onlar Allaha inanırlar.
+They know your name.	Onlar sənin adını bilirlər.
+This apple is sweet.	Bu alma şirindir.
+This is an old book.	Bu köhnə kitabdır.
+This is holy ground.	Bu müqəddəs torpaqdır.
+This is my computer.	Bu mənim kompüterimdir.
+This is my question.	Bu mənim sualımdır.
+This is their house.	Bu onların evidir.
+This is their place.	Bu onların yeridir.
+This table is clean.	Bu stol təmizdir.
+Tom bought a webcam.	Tom veb kamera aldı.
+Tom closed his eyes.	Tom gözlərini yumdu.
+Tom has a moustache.	Tomun bığı var.
+Tom is a bus driver.	Tom avtobus sürücüsüdür.
+Tom is coming today.	Tom bu gün gəlir.
+Tom is in Australia.	Tom Avstraliyadadır.
+Tom is losing blood.	Tom qan itirir.
+Tom is very wealthy.	Tom çox varlıdır.
+Tom liked Australia.	Avstraliya Tomun xoşuna gəldi.
+Tom loves Australia.	Tom Avstraliyanı sevir.
+Tom needs something.	Toma nəsə lazımdır.
+Tom shaved his head.	Tom başını qırxdı.
+Tom smiled slightly.	Tom xəfifcə gülümsədi.
+Tom started singing.	Tom oxumağa başladı.
+Tom started to sing.	Tom mahnı oxumağa başladı.
+We can help Tom now.	Biz indi Toma kömək edə bilərik.
+We have three weeks.	Bizim üç həftəmiz var.
+We're Tom's friends.	Biz Tomun dostlarıyıq.
+We're eating apples.	Biz alma yeyirik.
+We're in Boston now.	Biz indi Bostondayıq.
+What are you eating?	Nə yeyirsən?
+What did Tom expect?	Tom nə gözləyirdi?
+What's Tom given us?	Tom bizə nə verib?
+When did you return?	Siz nə vaxt qayıtdınız?
+Where is the toilet?	Tualet haradadır?
+Who is your teacher?	Sizin müəlliminiz kimdir?
+Who stole the apple?	Almanı kim oğurladı?
+You broke the rules.	Sən qaydaları pozdun.
+You broke the rules.	Siz qaydaları pozdunuz.
+You have a big nose.	Sənin yekə burnun var.
+You have three cats.	Sənin üç pişiyin var.
+You have three pens.	Sizin üç qələminiz var.
+You have three pens.	Sənin üç qələmin var.
+You must start soon.	Sən tezliklə başlamalısan.
+You still need help.	Sənin hələ də köməyə ehtiyacın var.
+You were both drunk.	Hər ikiniz də sərxoş idiniz.
+You're just envious.	Sən sadəcə paxılsan.
+Your job isn't hard.	İşiniz çətin deyil.
+Apes are intelligent.	Meymunlar ağıllıdırlar.
+Apples grow on trees.	Almalar ağaclarda yetişirlər.
+But you're not there.	Amma sən orada deyilsən.
+Can Tom come with us?	Tom bizimlə gələ bilər?
+Cats have nine lives.	Pişiklərin doqquz canı var.
+Damascus is in Syria.	Dəməşq Suriyadadır.
+Do you have children?	Uşaqlarınız var?
+Dublin is in Ireland.	Dublin İrlandiyadadır.
+Every family has one.	Hər ailədə biri var.
+Everyone is here now.	İndi hər kəs buradadır.
+France borders Italy.	Fransa İtaliya ilə həmsərhəddir.
+Give me a day or two.	Mənə bir-iki gün vaxt ver.
+Give me three months.	Mənə üç ay ver.
+He can be counted on.	Ona etibar etmək olar.
+He crossed the river.	O, çayı keçdi.
+He doesn't want kids.	O uşaq istəmir.
+He returned to Japan.	O Yaponiyaya qayıtdı.
+Her nose is bleeding.	Onun burnu qanayır.
+Here comes the train!	Qatar gəlir!
+I broke your ashtray.	Sənin külqabını qırdım.
+I don't want to look.	Baxmaq istəmirəm.
+I get off there, too.	Mən də orada düşürəm.
+I have a twin sister.	Mənim əkiz bacım var.
+I have three cameras.	Mənim üç kameram var.
+I just cut my finger.	Elə indicə barmağımı kəsdim.
+I know all about you.	Mən sizin haqqınızda hər şeyi bilirəm.
+I look forward to it.	Mən bunu səbirsizliklə gözləyirəm.
+I think Tom is lying.	Məncə Tom yalan danışır.
+I think you're right.	Düşünürəm ki, sən haqlısan.
+I want to buy a book.	Kitab almaq istəyirəm.
+I want to go to Mars.	Mən Marsa getmək istəyirəm.
+I work in a hospital.	Mən xəstəxanada işləyirəm.
+I'll be your teacher.	Mən sənin müəllimin olacam.
+I'll be your teacher.	Mən sizin müəlliminiz olacam.
+I'll be your teacher.	Mən sizin müəlliməniz olacam.
+I'll be your teacher.	Mən sənin müəllimən olacam.
+I'll never lose hope.	Mən heçvaxt ümidimi itirməyəcəm.
+I'll stay in the car.	Mən maşında qalacam.
+I'm a French teacher.	Mən fransız dili müəllimiyəm.
+I'm glad you're okay.	Şadam ki, yaxşısan.
+I'm no longer sleepy.	Daha yuxulu deyiləm.
+I'm not a bad person.	Mən pis adam deyiləm.
+I'm staying in Italy.	Mən İtaliyada qalıram.
+I'm writing a letter.	Məktub yazıram.
+I've already said no.	Mən artıq "yox" dedim.
+Iceland is an island.	İslandiya adadır.
+Is she a taxi driver?	O taksi sürücüsüdür?
+It's in the basement.	Zirzəmidədir.
+It's not at all easy.	Bu heç də asan deyil.
+Italy is a peninsula.	İtaliya yarımadadır.
+Listen to your heart.	Ürəyinə qulaq as!
+Look at that red car.	O qırmızı maşına bax.
+My father grows rice.	Mənim atam düyü becərir.
+My feet are freezing.	Ayaqlarım donur.
+My head is exploding.	Başım partlayır.
+My heart is pounding.	Ürəyim çırpınır.
+My parents are crazy.	Mənim valideynlərim dəlidirlər.
+Our train is delayed.	Qatarımız gecikir.
+She allowed me to go.	O mənə getməyə icazə verdi.
+She is a taxi driver.	O, taksi sürücüsüdür.
+She likes these cats.	Onun bu pişiklərdən xoşu gəlir.
+She looks very happy.	O çox xoşbəxt görünür.
+Shut up and sit down.	Səsini kəs və otur!
+That knife cuts well.	O bıçaq yaxşı kəsir.
+The dog barked a lot.	İt çox hürdü.
+The river overflowed.	Çay daşdı.
+The weather got cold.	Hava soyudu.
+There were three men.	Üç kişi var idi.
+These apples are big.	Bu almalar böyükdürlər.
+They grow fruit here.	Onlar burada meyvə yetişdirirlər.
+They have black hair.	Onların qara saçları var.
+They headed westward.	Onlar qərbə üz tutdular.
+They want to go home.	Onlar evə getmək istəyirlər.
+This is a lemon tree.	Bu limon ağacıdır.
+This knife cuts well.	Bu bıçaq yaxşı kəsir.
+Tom doesn't want you.	Tom sizi istəmir.
+Tom doesn't want you.	Tom səni istəmir.
+Tom had one daughter.	Tomun bir qızı var idi.
+Tom has three uncles.	Tomun üç əmisi var.
+Tom hates raw onions.	Tomun çiy soğandan zəhləsi gedir.
+Tom is a firefighter.	Tom yanğınsöndürəndir.
+Tom is a good driver.	Tom yaxşı sürücüdür.
+Tom is a taxi driver.	Tom taksi sürücüsüdür.
+Tom is going to lose.	Tom uduzacaq.
+Tom is still waiting.	Tom hələ gözləyir.
+Tom joined the group.	Tom qrupa qoşuldu.
+Tom knows the secret.	Tom sirri bilir.
+Tom peeled the apple.	Tom almanı soydu.
+Tom rinsed his mouth.	Tom ağzını yaxaladı.
+Tom says it's urgent.	Toy deyir ki, bu təcilidir.
+Tom sliced the apple.	Tom almanı dilimlədi.
+Tom was pretty tired.	Tom əməlli-başlı yorulmuşdu.
+Try to be optimistic.	Nikbin olmağa çalış.
+We didn't discuss it.	Biz bunu müzakirə etmədik.
+We have two children.	Bizim iki uşağımız var.
+We sell orange juice.	Biz portağal şirəsi satırıq.
+We went to the river.	Biz çaya getdik.
+We're blood brothers.	Biz qan qardaşlarıyıq.
+Welcome to Australia.	Avstraliyaya xoş gəlmişsiniz!
+When did you see her?	Siz onu nə vaxt gördünüz?
+When did you see her?	Sən onu nə vaxt gördün?
+When will he go home?	O nə vaxt evə gedəcək?
+Where are the apples?	Almalar haradadır?
+Where do you see him?	Sən onu harada görürsən?
+Where is your school?	Sizin məktəbiniz haradadır?
+Where is your school?	Sənin məktəbin hardadır?
+Who gave them to you?	Onları kim sizə verdi?
+Why did Tom tell you?	Tom niyə sizə dedi?
+Why did you go there?	Niyə ora getdiniz?
+Why does Tom hate me?	Tom niyə mənə nifrət edir?
+You always lie to me.	Sən həmişə mənə yalan danışırsan.
+You can wait outside.	Bayırda gözləyə bilərsən.
+You need new clothes.	Sənə təzə paltarlar lazımdır.
+You should stay here.	Siz burada qalmalısınız.
+You should stay here.	Sən burada qalmalısan.
+You're a good mother.	Sən yaxşı anasan.
+You're very talented.	Siz çox istedadlısınız.
+You're very talented.	Sən çox istedadlısan.
+Your dog bit my hand.	İtin əlimi dişlədi.
+Your nose is running.	Sənin burnun axır.
+Your son is a genius.	Sizin oğlunuz dahidir.
+A week has seven days.	Bir həftədə yeddi gün var.
+Bananas are delicious.	Bananlar dadlıdırlar.
+Barcelona is in Spain.	Barselona İspaniyadadır.
+Do you have tuna fish?	Sizdə tunes balığı var?
+He delivered a speech.	O nitq söylədi.
+He is washing the car.	O, maşını yuyur.
+He licked his fingers.	O barmaqlarını yaladı.
+He was born in Africa.	O Afrikada doğulub.
+I can hear everything.	Mən hər şeyi eşidə bilirəm.
+I cannot speak German.	Mən almanca danışa bilmirəm.
+I got out of the taxi.	Mən taksidən düşdüm.
+I have three children.	Mənim üç uşağım var.
+I like Korean cuisine.	Koreya mətbəxindən xoşum gəlir.
+I told you to call me.	Sənə dedim ki, mənə zəng et.
+I want to sing a song.	Mahnı oxumaq istəyirəm.
+I want you to see her.	İstəyirəm onu görəsən.
+I was in the hospital.	Mən xəstəxanada idim.
+I'd like orange juice.	Portağal şirəsi istərdim.
+I'll watch television.	Mən televizora baxacam.
+I'm afraid of spiders.	Mən hörümçəklərdən qorxuram.
+I'm looking for a job.	Mən iş axtarıram.
+I'm reading this book.	Mən bu kitabı oxuyuram.
+Is it your helicopter?	Bu sənin vertolyotundur?
+Is it your helicopter?	Bu sizin vertolyotunuzdur?
+Is there life on Mars?	Marsda həyat var?
+It isn't so hot today.	Bugün elə də isti deyil.
+It's very easy to use.	Bu, istifadə üçün çox asandır.
+Jesus was a carpenter.	İsa dülgər idi.
+Jupiter is very large.	Yupiter çox böyükdür.
+May comes after April.	May apreldən sonra gəlir.
+My nose is stuffed up.	Burnum tutulub.
+No, I didn't write it.	Yox, bunu mən yazmamışam.
+Nobody understands me.	Heç kim məni başa düşmür.
+Not all birds can fly.	Bütün quşlar uça bilmir.
+She has gone to Italy.	O İtaliyaya gedib.
+She has two daughters.	Onun iki qızı var.
+She lives in New York.	O Nyu-Yorkda yaşayır.
+The doors were closed.	Qapılar bağlı idi.
+The mountain is green.	Dağ yaşıldır.
+The war ended in 1954.	Müharibə 1954-də sona çatdı.
+There's nobody inside.	İçəridə heç kim yoxdur.
+They didn't get along.	Onlar yola getmədilər.
+They gave you nothing.	Onlar sizə heç nə vermədilər.
+They wash their hands.	Onlar əllərini yuyurlar.
+They're eating apples.	Onlar alma yeyirlər.
+This bag is too heavy.	Bu çanta çox ağırdır.
+This is an apple tree.	Bu alma ağacıdır.
+This is an apple, too.	Bu da almadır.
+This is my dictionary.	Bu mənim lüğətimdir.
+This is not necessary.	Bu vacib deyil.
+This is not necessary.	Bu zəruri deyil.
+This is our main goal.	Bu bizim əsas məqsədimizdir.
+Tom can keep a secret.	Tom sirr saxlaya bilir.
+Tom didn't understand.	Tom başa düşmədi.
+Tom doesn't like cats.	Tomun pişiklərdən xoşu gəlmir.
+Tom has a stomachache.	Tom-un dişi ağrıyır.
+Tom has a thick beard.	Tomun qalın saqqalı var.
+Tom has three sisters.	Tomun üç bacısı var.
+Tom is a truck driver.	Tom yük avtomobili sürücüsüdür.
+Tom isn't the problem.	Problem Tom deyil.
+Tom needed a good job.	Tom-un yaxşı bir işə ehtiyacı var idi.
+Tom never looked back.	Tom heç vaxt arxasına baxmadı.
+Tom put the book down.	Tom kitabı yerə qoydu.
+Tom went to Australia.	Tom Avstraliyaya getdi.
+We have yellow apples.	Bizim sarı almalarımız var.
+We were playing rugby.	Reqbi oynayırdıq.
+We've seen three wars.	Biz üç müharibə görmüşük.
+Well, I must be going.	Yaxşı, mən getməliyəm.
+What language is this?	Bu hansı dildir?
+What're they planning?	Onlar nə planlaşdırırlar?
+Which car did you buy?	Hansı maşını aldın?
+You look like a freak.	Əcaib bir şeyə oxşayırsan.
+You must go to school.	Sən məktəbə getməlisən.
+You're very beautiful.	Sən çox gözəlsən.
+You're very beautiful.	Siz çox gözəlsiniz.
+Your nose is bleeding.	Sizin burnunuz qanayır.
+Zero comes before one.	Sıfır birdən əvvəl gəlir.
+A sponge absorbs water.	Süngər suyu özünə çəkir.
+Africa isn't a country.	Afrika ölkə deyil.
+All roads lead to Rome.	Bütün yollar Romaya aparır.
+Cats dislike being wet.	Pişiklərin yaş olmaqdan xoşları gəlmir.
+Cats don't eat bananas.	Pişiklər banan yemirlər.
+Cats usually hate dogs.	Pişiklərin adətən itlərdən zəhləsi gedir.
+Do it the best you can.	Onu bacardığın qədər yaxşı et.
+Do you drink green tea?	Yaşıl çay içirsən?
+Do you know her father?	Onun atasını tanıyırsan?
+Do you know her father?	Siz onun atasını tanıyırsınız?
+Do you want to go home?	Evə getmək istəyirsən?
+Do you want to go home?	Evə getmək istəyirsiniz?
+He can't walk any more.	O daha yeriyə bilmir.
+He didn't get the joke.	O, zarafatı başa düşmədi.
+He had dark brown hair.	Onun tünd qəhvəyi saçları var idi.
+He has three daughters.	Onun üç qızı var.
+He is an expert driver.	O təcrübəli sürücüdür.
+He is in need of money.	Onun pula ehtiyacı var.
+He pretends to be deaf.	O özünü karlığa qoyur.
+He used the dictionary.	O, lüğətdən istifadə etdi.
+How do you want to die?	Siz necə ölmək istəyirsiniz?
+I don't have a bicycle.	Mənim velosipedim yoxdur.
+I don't have any money.	Mənim heç pulum yoxdur.
+I haven't said yes yet.	Hələ hə deməmişəm.
+I looked in Tom's eyes.	Mən Tomun gözlərinə baxdım.
+I lost my favorite pen.	Sevimli qələmimi itirmişəm.
+I sat down next to him.	Mən onun yanında oturdum.
+I slept just two hours.	Mən sadəcə iki saat yatdım.
+I think he is a doctor.	Məncə o, həkimdir.
+I turned off the radio.	Mən radionu söndürdüm.
+I want this dictionary.	Mən bu lüğəti istəyirəm.
+I want to write a book.	Kitab yazmaq istəyirəm.
+I was used to the heat.	İstiyə öyrəşmişdim.
+I will gladly help you.	Mən məmuniyyətlə sizə kömək edərəm.
+I won't go there again.	Mən bir də ora getməyəcəm.
+I'd like to see my son.	Mən oğlumu görmək istərdim.
+I'm completely serious.	Mən tamamilə ciddiyəm.
+I'm not as busy as Tom.	Mən Tom kimi məşğul deyiləm.
+I'm thinking about you.	Sənin haqqında düşünürəm.
+I've got a white horse.	Mən ağ atım var.
+Is it unconstitutional?	Bu konstitusiyaya ziddirmi?
+Is there water on Mars?	Marsda su var?
+Is your mother at home?	Ananız evdədir?
+It looks like a cactus.	Bu kaktusa oxşayır.
+It was all for nothing.	Bunlar hamısı hədər imiş.
+It was all for nothing.	Bunlar hamısı boş yerə imiş.
+It was windy yesterday.	Dünən küləkli idi.
+It's very hot at night.	Gecə çox isti olur.
+Just follow your heart.	Sadəcə ürəyinizin səsini dinləyin.
+May I introduce myself?	Özümü təqdim edə bilərəm?
+Montana borders Canada.	Montana Kanada ilə həmsərhəddir.
+New York is a big city.	Nyu-York böyük şəhərdir.
+Of course you can stay.	Əlbəttə ki qala bilərsən.
+Of course you can stay.	Əlbəttə ki qala bilərsiniz.
+Pandas are very clever.	Pandalar çox ağıllıdırlar.
+Please don't interfere.	Xahiş edirəm, qarışmayın.
+Salt is sold by weight.	Duz çəkiylə satılır.
+She always wears black.	O həmişə qara geyinir.
+She has three brothers.	Onun üç qardaşı var.
+She is afraid of death.	O, ölümdən qorxur.
+She studied in Belgium.	O Belçikada təhsil alıb.
+Sport knows no borders.	İdman sərhəd tanımır.
+That isn't what I want.	Bu mənim istədiyim deyil.
+That's not what I want.	Bu mənim istədiyim deyil.
+The Cold War continued.	Soyuq müharibə davam etdi.
+The bread is not fresh.	Çörək təzə deyil.
+The knife is not sharp.	Bıçaq iti deyil.
+The map is on the wall.	Xəritə divardadır.
+The real heroes are us.	Əsl qəhrəmanlar bizik.
+The river has dried up.	Çay quruyub.
+The river is dangerous.	Çay təhlükəlidir.
+There's nothing inside.	İçəridə heç nə yoxdur.
+These bananas went bad.	Bu bananlar xarab olub.
+This apple tastes sour.	Bu alma turş dadır.
+This is an ancient law.	Bu qədim qanundur.
+This is from Australia.	Bu Avstraliyadandır.
+This thin book is mine.	Bu kitab mənimdir.
+Tom can't help you now.	Tom indi sənə kömək edə bilmir.
+Tom had no place to go.	Tomun getməyə yeri yox idi.
+Tom has cut his finger.	Tom barmağını kəsib.
+Tom is taking a shower.	Tom duş qəbul edir.
+Tom left for Australia.	Tom Avstraliyaya yola düşdü.
+Tom licked his fingers.	Tom barmaqlarını yaladı.
+Tom likes Chinese food.	Tom çin yeməklərini xoşlayır.
+Tom lives in Australia.	Tom Avstraliyada yaşayır.
+Tom moved to Australia.	Tom Avstraliyaya köçdü.
+Tom never eats spinach.	Tom heç vaxt ispanaq yemir.
+Tom scratched his nose.	Tom burnunu qaşıdı.
+Tom squeezed the lemon.	Tom limonu sıxdı.
+Tom will be devastated.	Tom darmadağın olacaq.
+We didn't see anything.	Biz heç bir şey görmədik.
+We live in the suburbs.	Biz şəhərətrafında yaşayırıq.
+We saw nothing strange.	Biz qəribə heç nə görmədik.
+We'll be happy to help.	Kömək etməyə şad olarıq.
+We're the victims here.	Burda qurban bizik.
+We've never lived here.	Biz heç vaxt burada yaşamamışıq.
+When do the shops open?	Mağazalar nə vaxt açılır?
+Where are the giraffes?	Zürafələr hardadırlar?
+Where did my driver go?	Mənim sürücüm hara getdi?
+Where did you buy that?	Onu haradan aldın?
+Who sent you the roses?	Qızılgülləri sənə kim göndərib?
+Whose suitcase is that?	Bu kimin çemodanıdır?
+Why is Tom coming here?	Tom niyə bura gəlir?
+You always surprise me.	Sən məni həmişə təəccübləndirirsən.
+You always surprise me.	Siz məni həmişə təəccübləndirirsiniz.
+You are taller than me.	Sən məndən hündürsən.
+You are taller than me.	Siz məndən hündürsünüz.
+You are very beautiful.	Sən çox gözəlsən.
+You look a little pale.	Bir az solğun görünürsən.
+You're taller than Tom.	Sən Tomdan hündürsən.
+Allow me to go with you.	İcazə ver səninlə gedim.
+Are you looking for Tom?	Siz Tomu axtarırsınız?
+Are you looking for Tom?	Tomu axtarırsan?
+Are you waiting for Tom?	Tomu gözləyirsən?
+Bring me the dictionary.	Lüğəti mənə gətir.
+Do you remember my name?	Mənim adım yadınızdadır?
+Do you want some advice?	Bir-iki məsləhət istəyirsən?
+Don't let Tom hurt Mary.	Tomun Merini incitməsinə icazə vermə!
+Everyone's watching Tom.	Hamı Toma baxır.
+Have you been to London?	Londonda olmusan?
+He goes to China in May.	O mayda Çinə gedir.
+He keeps his room clean.	O öz otağını təmiz saxlayır.
+He never loses his head.	O heç vaxt başını itirmir.
+He returned from Canada.	O Kanadadan qayıtdı.
+He's a citizen of China.	O Çin vətəndaşıdır.
+I can look after myself.	Mən özüm öz qayğıma qala bilirəm.
+I can't stand this cold.	Mən belə soyuğa dözə bilmirəm.
+I don't have your boots.	Sizin çəkmələriniz məndə deyil.
+I don't have your boots.	Sənin çəkmələrin məndə deyil.
+I don't like it, either.	Mənim də bundan xoşum gəlmir.
+I don't really think so.	Mən həqiqətən elə düşünmürəm.
+I don't want Tom's help.	Mən Tomun köməyini istəmirəm.
+I don't want onion soup.	Soğan supu istəmirəm.
+I have bad news for you.	Sənin üçün pis xəbərim var.
+I have bad news for you.	Sizin üçün pis xəbərim var.
+I haven't forgotten Tom.	Mən Tomu unutmamışam.
+I heard someone whistle.	Kiminsə fit çaldığını eşitdim.
+I play soccer every day.	Mən hər gün futbol oynayıram.
+I prefer to ride a bike.	Mən velosiped sürməyə üstünlük verirəm.
+I slept well last night.	Mən dünən gecə yaxşı yatdım.
+I'm going straight home.	Mən birbaşa evə gedirəm.
+I'm not buying anything.	Mən heç nə almıram.
+I've tried that already.	Mən onu artıq yoxlamışam.
+Is that a picture of me?	Bu mənim şəklimdir?
+Japan is close to China.	Yaponiya Çinə yaxındır.
+My father is very tired.	Atam çox yorğundur.
+My father seldom smokes.	Mənim atam nadir hallarda siqaret çəkir.
+My father went to China.	Atam Çinə getdi.
+Our wedding is tomorrow.	Bizim toyumuz sabahdır.
+She chose the red dress.	O qırmızı paltarı seçdi.
+She knocked on the door.	O qapını döydü.
+Squirrels eat hazelnuts.	Dələlər fındıq yeyirlər.
+Texas borders on Mexico.	Texas Meksikayla həmsərhəddir.
+The author is Brazilian.	Müəllif braziliyalıdır.
+The kitchen door opened.	Mətbəxin qapısı açıldı.
+The restaurant is empty.	Restoran boşdur.
+The water began to boil.	Su qaynamağa başladı.
+These keys are not mine.	Bu açarlar mənim deyil.
+They accepted the offer.	Onlar təklifi qəbul etdilər.
+They were very grateful.	Onlar çox minnətdar olmuşdular.
+This dictionary is good.	Bu lüğət yaxşıdır.
+This dictionary is mine.	Bu lüğət mənimdir.
+This is a very good tea.	Bu çox yaxşı çaydır.
+This won't happen again.	Bu bir daha baş verməyəcək.
+Tom began to understand.	Tom başa düşməyə başladı.
+Tom boiled the potatoes.	Tom kartofları qaynatdı.
+Tom doesn't like cheese.	Tom pendir xoşlamır.
+Tom doesn't like onions.	Tom soğan xoşlamır.
+Tom dresses like a girl.	Tom qız kimi geyinir.
+Tom found me a good job.	Tom mənə yaxşı bir iş tapdı.
+Tom has a black bicycle.	Tomun qara velosipedi var.
+Tom headed for the exit.	Tom çıxışa tərəf getdi.
+Tom knows Mary is right.	Tom Merinin haqlı olduğunu bilir.
+Tom peeled the potatoes.	Tom kartofları soydu.
+Tom says what he thinks.	Tom düşündüklərini deyir.
+Tom signed the contract.	Tom müqaviləni imzaladı.
+Tom squeezed the sponge.	Tom süngəri sıxdı.
+Tom went to the library.	Tom kitabxanaya getdi.
+Tom won't open the door.	Tom qapını açmayacaq.
+Tuna can swim very fast.	Tunes balığı çox sürətlə üzə bilir.
+We didn't know anything.	Biz heç nə bilmirdik.
+We have three airplanes.	Bizim üç təyyarəmiz var.
+We live in an apartment.	Biz mənzildə yaşayırıq.
+We live in an apartment.	Biz bina evində yaşayırıq.
+We looked at each other.	Biz birbirimizə baxdıq.
+We went to a restaurant.	Biz restorana getdik.
+We were always together.	Biz həmişə birlikdə idik.
+What are you looking at?	Nəyə baxırsan?
+What makes you think so?	Sizi belə düşünməyə nə vadar edir?
+What's unique about you?	Səndə özünəməxsus olan nədir?
+Where are our umbrellas?	Bizim çətirlərimiz haradadır?
+Where is the restaurant?	Restoran hanı?
+Where is the restaurant?	Restoran haradadır?
+You are in a safe place.	Siz təhlükəsiz yerdəsiniz.
+You're everything to me.	Sən mənimçün hərşeysən.
+A sponge absorbs liquids.	Süngər mayeləri özünə çəkir.
+A tea with lemon, please.	Limonlu çay, zəhmət olmasa.
+Are you sure Tom is dead?	Əminsən ki Tom ölüb?
+Both brothers were there.	Hər iki qardaş orada idi.
+Butter is made from milk.	Yağ süddən hazırlanır.
+Cows supply us with milk.	İnəklər bizi südlə təmin edirlər.
+Do you like this perfume?	Bu ətiri bəyənirsən?
+Do you like this perfume?	Bu ətiri bəyənirsiz?
+Do you want to join them?	Onlara qoşulmaq istəyirsiniz?
+Don't talk to the driver.	Sürücüylə danışmayın!
+Don't trust what he says.	Onun dediyinə inanma.
+He began to make excuses.	O, bəhanələr gətirməyə başladı.
+He knows a lot of people.	O çox adam tanıyır.
+He wants to go to Africa.	O, Afrikaya getmək istəyir.
+I am glad to be with you.	Səninlə olmağıma şadam.
+I am swimming in a river.	Mən çayda çimirəm.
+I brought you some water.	Sizə bir az su gətirdim.
+I can't believe I'm here.	İnana bilmirəm ki buradayam.
+I can't do what you want.	Mən sizin istədiyinizi edə bilmərəm.
+I can't do what you want.	Mən sənin istədiyini edə bilmərəm.
+I can't find my umbrella.	Çətirimi tapa bilmirəm.
+I counted to two hundred.	Mən iki yüzə qədər saydım.
+I don't hate Tom anymore.	Mən daha Toma nifrət etmirəm.
+I don't want to die here.	Mən burda ölmək istəmirəm.
+I don't want you to lose.	Mən sənin uduzmağını istəmirəm.
+I have a good dictionary.	Mənim yaxşı lüğətim var.
+I have a good dictionary.	Məndə yaxşı bir lüğət var.
+I have to agree with Tom.	Mən Tomla razılaşmalıyam.
+I hope you understand me.	Ümid edirəm məni başa düşürsən.
+I know who the killer is.	Mən bilirəm qatil kimdir.
+I know you don't love me.	Bilirəm ki məni sevmirsən.
+I need a good dictionary.	Mənim yaxşı bir lüğətə ehtiyacım var.
+I need a good dictionary.	Mənə yaxşı bir lüğət lazımdır.
+I stayed home for a week.	Mən bir həftə evdə qaldım.
+I think Tom will like it.	Məncə bu Tomun xoşuna gələcək.
+I think about them often.	Mən tez-tez onların haqqında düşünürəm.
+I was waiting for a taxi.	Taksi gözləyirdim.
+I'm glad to see you, Tom.	Səni görməyimə şadam, Tom.
+It won't change anything.	Bu heç nəyi dəyişməyəcək.
+It's a little cool today.	Bu gün biraz sərindir.
+It's on the eighth floor.	Bu səkkizinci mərtəbədədir.
+Italy is far from Brazil.	İtaliya Braziliyadan uzaqda yerləşir.
+Japan has a mild climate.	Yaponiyanın mülayim iqlimi var.
+Latin is a dead language.	Latın dili ölü dildir.
+Let's look under the bed.	Gəl çarpayının altına baxaq.
+My father has many books.	Mənim atamın çoxlu kitabları var.
+Nobody wants to help Tom.	Heç kim Toma kömək etmək istəmir.
+None of them are drivers.	Onların heç biri sürücü deyil.
+Owls can see in the dark.	Bayquşlar qaranlıqda görə bilirlər.
+Pink roses are beautiful.	Çəhrayı qızılgüllər gözəldirlər.
+She fell down the ladder.	O, nərdivandan yıxıldı.
+She wants to read a book.	O kitab oxumaq istəyir.
+She went there yesterday.	O, ora dünən gedib.
+She wrote a lot of poems.	O çoxlu şeirlər yazdı.
+Take a taxi to the hotel.	Otelə getməkçün taksi tut.
+The blood was bright red.	Qan al-qırmızı idi.
+The book is on the table.	Kitab stolun üstündədir.
+The cat sat on the table.	Pişik stolun üstündə oturdu.
+The girls began to laugh.	Qızlar gülməyə başladılar.
+The pink pillow is clean.	Çəhrayı yastıq təmizdir.
+The river is running dry.	Çay quruyur.
+The shop is closed today.	Mağaza bugün bağlıdır.
+The week is finally over.	Həftə nəhayət ki qurtardı.
+There's been an accident.	Qəza baş verdi.
+This book is about stars.	Bu kitab ulduzlar haqqındadır.
+This box contains apples.	Bu qutuda almalar var.
+This is my business card.	Bu mənim vizit kartımdır.
+This isn't an apple tree.	Bu alma ağacı deyil.
+This knife is very sharp.	Bu bıçaq çox itidir.
+Tom became a taxi driver.	Tom taksi sürücüsü oldu.
+Tom comes here every day.	Tom bura hər gün gəlir.
+Tom didn't open the beer.	Tom pivəni açmadı.
+Tom doesn't want to come.	Tom gəlmək istəmir.
+Tom is a careless driver.	Tom səhlənkar sürücüdür.
+Tom is a reckless driver.	Tom ehtiyatsız sürücüdür.
+Tom is a talented singer.	Tom istedadlı müğənnidir.
+Tom is going to hurt you.	Tom səni incidəcək.
+Tom is looking for a job.	Tom iş axtarır.
+Tom isn't afraid of Mary.	Tom Meridən qorxmur.
+Tom jumped into the pool.	Tom hovuza tullandı.
+Tom ran toward the house.	Tom evə tərəf qaçdı.
+Tom used to be a soldier.	Tom əvvəllər əsgər idi.
+Tom wants to go to Japan.	Tom Yaponiyaya getmək istəyir.
+We don't know the lyrics.	Biz mahnının sözlərini bilmirik.
+We want nothing from you.	Biz sizdən heç nə istəmirik.
+What do you think of war?	Müharibə haqqında nə düşünürsünüz?
+When did he go to Europe?	O Avropaya nə vaxt getdi?
+Where do they want to go?	Onlar hara getmək istəyirlər?
+Where do you play tennis?	Siz harada tennis oynayırsınız?
+Where do you play tennis?	Harada tennis oynayırsan?
+Where is the nearest pub?	Ən yaxın pivəxana haradadır?
+Who was your inspiration?	Siz kimdən ilham alardınız?
+Whose dictionary is this?	Bu kimin lüğətidir?
+Why did you buy a flower?	Niyə gül aldın?
+Why do bad things happen?	Niyə pis şeylər baş verir?
+Write at least 250 words.	Ən azı 250 söz yazın.
+You don't have to beg me.	Mənə yalvarmağa məcbur deyilsən.
+You have great potential.	Sənin böyük potensialın var.
+You should have told him.	Sən ona deməliydin.
+You're a beautiful woman.	Sən gözəl qadınsan.
+You've already forgotten.	Sən artıq unutmusan.
+You've already forgotten.	Siz artıq unutmusunuz.
+You've come just in time.	Lap vaxtında gəlmisən.
+Can you tell me about Tom?	Mənə Tom haqqında danışa bilərsən?
+Could you come and get me?	Gəlib məni götürə bilərsən?
+Death is similar to sleep.	Ölüm yuxuya bənzəyir.
+Do you have any daughters?	Sənin ümumiyyətlə qızın var?
+Does your head still ache?	Başın hələ də ağrıyır?
+Don't cancel anything yet.	Hələ ki heç nəyi ləğv etmə.
+Don't get so carried away.	Çox qapılma.
+Everyone in Cuba likes it.	Kubada hamının bundan xoşu gəlir.
+Give some meat to the dog.	İtə biraz ət ver.
+He drives a pink Cadillac.	O çəhrayı Kadillak sürür.
+He has a house of his own.	Onun öz evi var.
+He is my youngest brother.	O mənim ən kiçik qardaşımdır.
+He is shaking like a leaf.	O yarpaq kimi əsir.
+He knows many folk dances.	O çoxlu milli rəqs bilir.
+He ran into the classroom.	O, sinif otağına qaçdı.
+His ashes are buried here.	Onun külü burada basdırılıb.
+How did Tom get to Boston?	Tom Bostona necə getdi?
+How do we fix the problem?	Biz bu problemi necə həll edə bilərik?
+I am from the Netherlands.	Mən Niderlanddanam.
+I bought a book yesterday.	Mən dünən kitab aldım.
+I don't get what you mean.	Nə demək istədiyinizi başa düşmürəm.
+I don't know the password.	Parolu bilmirəm.
+I don't know the password.	Mən şifrəni bilmirəm.
+I don't know what I'll do.	Bilmirəm nə edəcəm.
+I don't like Tom and Mary.	Tom və Meri mənim xoşuma gəlmirlər.
+I don't make the schedule.	Cədvəli mən hazırlamıram.
+I feed my dog twice a day.	Mən itimi gündə iki dəfə yemləyirəm.
+I got married 8 years ago.	Mən səkkiz il əvvəl evləndim.
+I have great news for you.	Sənin üçün əla xəbərim var.
+I prefer staying to going.	Mən qalmağı getməkdən üstün tuturam.
+I saw him enter the house.	Mən onun evə girdiyini gördüm.
+I understand your problem.	Sizin probleminizi başa düşürəm.
+I understand your problem.	Sənin problemini başa düşürəm.
+I want to be a journalist.	Mən jurnalist olmaq istəyirəm.
+I want to scratch my nose.	Burnumu qaşımaq istəyirəm.
+I went to school with Tom.	Mən məktəbə Tomla getdim.
+I'd like to buy this doll.	Mən bu gəlinciyi almaq istərdim.
+I'll take care of the cat.	Mən pişiyin qayğısına qalaram.
+I'm the one in the middle.	Ortadakı mənəm.
+Is Tom still working here?	Tom hələ də burda işləyir?
+Leaves fall in the autumn.	Payızda yarpaqlar tökülür.
+Luckily, you were at home.	Xoşbəxtlikdən siz evdə idiniz.
+Mary is Tom's twin sister.	Meri Tomun əkiz bacısıdır.
+My brother lives in Tokyo.	Mənim qardaşım Tokioda yaşayır.
+My father is a bus driver.	Mənim atam avtobus sürücüsüdür.
+Our class has 41 students.	Bizim sinifdə 41 şagird var.
+People can't live forever.	İnsanlar əbədi yaşaya bilmirlər.
+Pinocchio had a long nose.	Pinokkionun uzun burnu var idi.
+Please give me an ashtray.	Zəhmət olmasa, mənə külqabı verin.
+She painted the wall pink.	O, divarı çəhrayı rəngə boyadı.
+Should I wash the lettuce?	Kahını yumalıyam?
+Soak this sponge in water.	Bu süngəri suda islat.
+Sugar is soluble in water.	Şəkər suda həll olur.
+Tell Tom it was a mistake.	Toma de ki, bu səhv idi.
+Tell Tom it was a mistake.	Toma deyin ki, bu bir səhv idi.
+The girl broke the window.	Qız pəncərəni sındırdı.
+Their wedding is tomorrow.	Onların toyu sabahdır.
+They didn't find anything.	Onlar heç nə tapmadılar.
+This is a good dictionary.	Bu yaxşı lüğətdir.
+This is smaller than that.	Bu ondan balacadır.
+This is the flag of Japan.	Bu Yaponiyanın bayrağıdır.
+Tom and I help each other.	Tom və mən birbirimizə kömək edirik.
+Tom asked me about my job.	Tom məndən işim barədə soruşdu.
+Tom doesn't have a sister.	Tomun bacısı yoxdur.
+Tom drank a cup of coffee.	Tom bir fincan qəhvə içdi.
+Tom has to go to the bank.	Tom banka getməlidir.
+Tom is chewing bubble gum.	Tom saqqız çeynəyir.
+Tom says he doesn't snore.	Tom deyir ki, o xorlamır.
+Tom wrote to me yesterday.	Tom dünən mənə yazdı.
+We hardly know each other.	Demək olar bir-birimizi tanımırıq.
+We have nothing in common.	Bizim ortaq heç nəyiminiz yoxdur.
+We're here to protect you.	Biz sizi qorumaq üçün buradayıq.
+When does the movie start?	Film nə vaxt başlayır?
+Where do you think we are?	Səncə biz haradayıq?
+Will it be sunny tomorrow?	Sabah hava günəşli olacaq?
+Will you be here tomorrow?	Sabah burada olacaqsan?
+You don't have to help me.	Mənə kömək etməyə məcbur deyilsən.
+You forgot to buy lettuce.	Kahı almaq yadından çıxıb.
+You should lock your door.	Sən qapını bağlamalısan.
+You should lock your door.	Siz gərək qapınızı bağlayasınız.
+You're in the right place.	Siz düzgün yerdəsiniz.
+Autumn changed into winter.	Payız yerini qışa verdi.
+Can you do it or can't you?	Sən bunu bacararsan ya yox?
+Can you do it or can't you?	Sən bunu edə bilərsən, ya yox?
+China is bigger than Japan.	Çin Yaponiyadan böyükdür.
+Do I need to make a speech?	Mən də nitq söyləməliyəm?
+Do you think fish can hear?	Səncə balıqlar eşidə bilir?
+Does Tom know where we are?	Tom bizim harada olduğumuzu bilir?
+French is my mother tongue.	Fransız dili mənim ana dilimdir.
+He does not live in Sendai.	O, Sendayda yaşamır.
+He got home at seven sharp.	O, düz saat yeddidə evə gəldi.
+He held a pen in his hands.	O, əlində qələm tutmuşdu.
+He will get well very soon.	O tezliklə yaxşılaşacaq.
+Her family moved to Brazil.	Onun ailəsi Braziliyaya köçdü.
+I did none of those things.	Bunlardan heç birini etməmişəm.
+I don't want to look silly.	Mən axmaq kimi görünmək istəmirəm.
+I grew up in the mountains.	Mən dağlarda böyümüşəm.
+I just want to talk to you.	Mən sadəcə sənlə danışmaq istəyirəm.
+I just wasn't ready for it.	Mən sadəcə olaraq buna hazır deyildim.
+I might be able to do that.	Mən onu edə bilərəm.
+I no longer live in Boston.	Mən daha Bostonda yaşamıram.
+I started reading the book.	Mən kitabı oxumağa başladım.
+I thought you were injured.	Mən zənn etdim ki, sən yaralanmısan.
+I will call you in an hour.	Mənə bir saata sənə zəng vuracam.
+I won't be here next month.	Gələn ay mən burada olmayacam.
+I would like to buy a sofa.	Divan almaq istərdim.
+I'm listening to the radio.	Radioya qulaq asıram.
+It hasn't always been easy.	Bu həmişə asan olmayıb.
+It was filmed in Australia.	Bu Avstraliyada çəkilib.
+It's raining cats and dogs.	Şıdırğı yağış yağır.
+Japan is full of surprises!	Yaponiya sürprizlərlə doludur!
+My aunt has three children.	Mənim xalamın üç uşağı var.
+My father has a restaurant.	Atamın restoranı var.
+My father is a businessman.	Mənim atam iş adamıdır.
+My sister married a doctor.	Mənim bacım həkimə ərə gedib.
+One language is not enough.	Bir dil kifayət deyil.
+Our train stopped suddenly.	Bizim qatar birdən dayandı.
+She passed the examination.	O, imtahanı keçdi.
+She writes about Sri Lanka.	O Şri Lanka haqqında yazır.
+The baby is still sleeping.	Körpə hələ yatır.
+The old man died last week.	Qoca ötən həftə öldü.
+The old man died last week.	Qoca kişi keçən həftə öldü.
+The soup needs more garlic.	Supa daha çox sarımsaq lazımdır.
+There was blood everywhere.	Hər yerdə qan var idi.
+There's no need to explain.	İzah etməyə ehtiyac yoxdur.
+There's no need to explain.	İzaha ehtiyac yoxdur.
+There's nothing to discuss.	Müzakirə etməli heç nə yoxdur.
+They both can speak French.	Onlar ikisi də fransızca danışırlar.
+They danced all night long.	Onlar bütün gecə boyu rəqs etdilər.
+They remained in Tennessee.	Onlar Tennessidə qaldılar.
+They supplied us with food.	Onlar bizi qida məhsulları ilə təmin edirlər.
+This dictionary isn't mine.	Bu lüğət mənim deyil.
+Tom and I are good friends.	Tom və mən yaxşı dostlarıq.
+Tom fell into a deep sleep.	Tom dərin yuxuya getdi.
+Tom is an excellent driver.	Tom əla sürücüdür.
+Tom is shaking like a leaf.	Tom yarpaq kimi əsir.
+Tom looked into the coffin.	Tom tabutun içinə baxdı.
+Tom really does talk a lot.	Tom həqiqətən çox danışır.
+Tom visited Mary yesterday.	Tom dünən Mary'ə baş çəkdi.
+Tom was a wonderful person.	Tom əla adam idi.
+We accepted his invitation.	Biz onun dəvətini qəbul etdik.
+We all die sooner or later.	Gec ya tez hamımız öləcəyik.
+Where can I exchange money?	Harada pul dəyişə bilərəm?
+Why should we learn French?	Biz niyə fransız dilini öyrənməliyik?
+Will he come home by seven?	O, saat yeddiyə kimi evə gələcək?
+You must perform your duty.	Siz öz vəzifənizi yerinə yetirməlisiniz.
+An elephant has a long nose.	Filin uzun burnu olur.
+Do you know this place well?	Bu yeri yaxşı tanıyırsan?
+Even Tom got up early today.	Hətta Tom belə bu gün erkən yuxudan durdu.
+Fill this bottle with water.	Bu butulkanı su ilə doldur.
+France is in western Europe.	Fransa Qərbi Avropadadır.
+He doesn't want you to know.	O sənin bilməyini istəmir.
+I buy milk almost every day.	Mən demək olar ki hər gün süd alıram.
+I don't know where to begin.	Mən bilmirəm hardan başlayım.
+I haven't seen Tom for days.	Günlərdir ki, Tom-u görmürəm.
+I just saw Tom kissing Mary.	Mən indicə Tomun Merini öpdüyünü gördüm.
+I need a box about this big.	Mənə təxminən bu böyüklükdə bir qutu lazımdır.
+I recommend that restaurant.	Mən o restoranı məsləhət görürəm.
+I thought Tom was at school.	Mən elə bilirdim ki, Tom məktəbdədir.
+I try not to think about it.	Bunun haqqında fikirləşməməyə çalışıram.
+I try not to think about it.	Çalışıram ki, bunun haqqında düşünməyim.
+I want to talk to Tom alone.	Mən Tomla təklikdə danışmaq istəyirəm.
+I was born on April 3, 1950.	Mən 1950-ci il aprelin 3-də doğulmuşam.
+I was very tired last night.	Ötən gecə çox yorğun idim.
+I'll be a little late today.	Bu gün biraz gecikəcəm.
+I'm going to need your help.	Sizin köməyinizə ehtiyacım olacaq.
+I'm not going to drink this.	Bunu içmək fikrim yoxdur.
+I'm not going to drink this.	Bunu içməyəcəm.
+I'm playing with my friends.	Mən dostlarımla oynayıram.
+I've said what I had to say.	Mən deməli olduğumu demişəm.
+It was very windy yesterday.	Dünən çox küləkli idi.
+It's too late for apologies.	Üzr istəmək üçün artıq çox gecdir.
+Jesus was born in Bethlehem.	İsa Betlehəmdə doğulub.
+Let's listen to some Chopin.	Gəl biraz Şopenə qulaq asaq.
+Many Americans blamed Spain.	Amerikanların çoxu İspaniyanı günahlandırdı.
+Mary is sewing baby clothes.	Meri uşaq paltarı toxuyur.
+Mosquitoes like dark colors.	Ağcaqanadlar tünd rəngləri xoşlayırlar.
+Mushrooms are in season now.	İndi göbələk mövsümüdür.
+My mother has four brothers.	Anamın dörd qardaşı var.
+Neither of them are drivers.	Onların heç birisi sürücü deyil.
+She greeted us with a smile.	O bizi təbəssümlə salamladı.
+She said that she was happy.	O dedi ki, xoşbəxtdir.
+Spain is a European country.	İspaniya Avropa ölkəsidir.
+Take two of these red pills.	Bu qırmızı həblərdən ikisini götür.
+The dog didn't eat the meat.	İt əti yemədi.
+There is a cat on the chair.	Stulun üstündə pişik var.
+There's a lot we don't know.	Bizim bilmədiyimiz çox şey var.
+These oranges are very sour.	Bu portağallar çox turşdurlar.
+They're going to torture us.	Onlar bizə işgəncə verəcəklər.
+This hat is too big for you.	Bu şlyapa səninçün çox böyükdür.
+This is a pocket dictionary.	Bu cib lüğətidir.
+This room is cleaned by Tom.	Bu otağı Tom təmizləyib.
+Tom can no longer live here.	Tom daha burada yaşaya bilməz.
+Tom doesn't want Mary to go.	Tom Merinin getməyini istəmir.
+Tom is a responsible driver.	Tom məsuliyyətli sürücüdür.
+Tom is always late to class.	Tom həmişə dərsə gecikir.
+Tom is an aggressive driver.	Tom aqressiv sürücüdür.
+Tom is much better than you.	Tom səndən xeyli yaxşıdır.
+Tom is swimming in the pool.	Tom hovuzda üzür.
+Tom is used to living alone.	Tom tək yaşamağa öyrəşib.
+Tom might understand French.	Tom Fransızca anlaya bilər.
+Tom never talks about money.	Tom heç vaxt pul haqqında danışmır.
+Tom prefers speaking French.	Tom fransızca danışmağa üstünlük verir.
+Tom said that Mary was deaf.	Tom Mary'nin eşitmə qüsurlu olduğunu söylədi.
+Tom vomited into the bucket.	Tom vedrənin içinə qusdu.
+Tom will be prepared for it.	Tom buna hazır olacaq.
+We have two television sets.	Bizim iki televizorumuz var.
+We're not in touch with Tom.	Biz Tomla əlaqə saxlamırıq.
+Where is the south terminal?	Cənub terminalı hardadır?
+Which newspaper do you read?	Hansı qəzeti oxuyursan?
+Who can tell the difference?	Kim fərqi deyə bilər?
+Why did you leave Tom alone?	Tomu niyə tək qoydun?
+Why didn't you go to Boston?	Niyə Bostona getmədiniz?
+Why is this happening to us?	Bu niyə bizim başımıza gəlir?
+You are as white as a sheet.	Sən kağız kimi ağappaqsan.
+You need written permission.	Sizə yazılı icazə lazımdır.
+You're forgetting something.	Sən nəyisə unudursan.
+You're making a big mistake.	Siz böyük səhv edirsiniz.
+A lot of people aren't happy.	Çox insanlar xoşbəxt deyil.
+Autumn is my favorite season.	Payız mənim sevimli fəslimdir.
+Does this book belong to you?	Bu kitab sizə məxsusdur?
+Have you bought a watermelon?	Qarpız almısan?
+He always keeps his promises.	O həmişə sözünün üstündə durur.
+He can speak eight languages.	O səkkiz dildə danışa bilir.
+He was late for the 7:30 bus.	O, 7:30 avtobusuna gecikmişdi.
+He's aware of his own faults.	O öz səhvlərindən agahdır.
+Her sister lives in Scotland.	Onun bacısı Şotlandiyada yaşayır.
+Her son called from New York.	Onun oğlu Nyu-Yorkdan zəng vurdu.
+His ambition knows no bounds.	Onun ambisiyası sərhəd tanımır.
+I am working at the workshop.	Mən emalatxanada işləyirəm.
+I can't take my eyes off her.	Mən gözümü ondan çəkə bilmirəm.
+I didn't want this to happen.	Mən bunun baş verməsini istəmirdim.
+I gazed at the sea for hours.	Mən saatlarla dənizi izlədim.
+I just want to humiliate Tom.	Mən sadəcə Tomu alçaltmaq istəyirəm.
+I know you don't know either.	Mən bilirəm ki, siz də bilmirsiniz.
+I know you don't know either.	Mən bilirəm ki, sən də bilmirsən.
+I thought everyone was happy.	Mən elə bilirdim ki, hamı xoşbətdir.
+I wrote my name on the paper.	Mən adımı kağıza yazdım.
+I'm going to work by bicycle.	Mən işə velosipedlə gedirəm.
+I'm not your teacher anymore.	Mən daha sənin müəllimin deyiləm.
+I'm not your teacher anymore.	Mən daha sizin müəlliminiz deyiləm.
+I'm trying to save your life.	Mən sənin həyatını xilas etməyə çalışıram.
+Idaho is famous for potatoes.	Aydaho kartofu ilə məşhurdur.
+If that happens, let me know.	Əgər bu baş versə, mənə bildir.
+Is it a very serious problem?	Bu çox ciddi problemdir?
+Japan is smaller than Canada.	Yaponiya Kanadadan balacadır.
+Men know nothing about women.	Kişilər qadınlar haqqında heç nə bilmirlər.
+My father works at a factory.	Mənim atam fabrikdə işləyir.
+Nixon was born in California.	Nikson Kaliforniyada doğulub.
+None of my friends play golf.	Mənim dostlarımın heç biri qolf oynamır.
+One language is never enough.	Bir dil heç vaxt kifayət deyil.
+One of them was Tom's friend.	Onlardan biri Tomun dostu idi.
+Please bring me a cup of tea.	Zəhmət olmasa, mənə bir fincan çay gətir.
+She gave birth to a baby boy.	O, oğlan doğdu.
+She was there in the morning.	O səhər burada idi.
+Spain is a developed country.	İspaniya inkişaf etmiş ölkədir.
+The child's nose is bleeding.	Uşağın burnu qanayır.
+The child's nose is bleeding.	Uşağın burnundan qan gəlir.
+The monkey climbed up a tree.	Meymun ağaca dırmaşdı.
+The train is 30 minutes late.	Qatar 30 dəqiqə gecikir.
+These cars are made in Japan.	Bu maşınlar Yaponiyada istehsal olunub.
+This dictionary is expensive.	Bu lüğət bahalıdır.
+This is my daughter's school.	Bu mənim qızımın məktəbidir.
+This is the American Embassy.	Bu Amerika səfirliyidir.
+This is the American Embassy.	Bu ABŞ səfirliyidir.
+This tea is called green tea.	Bu çay yaşıl çay adlanır.
+Tom and Mary are vegetarians.	Tom və Mary vegetariandırlar.
+Tom found a four-leaf clover.	Tom dördyarpaqlı yonca tapdı.
+Tom hasn't yet given up hope.	Tom hələ ümidini üzməyib.
+Tom is an old friend of mine.	Tom mənim köhnə dostumdur.
+Tom is proud of his students.	Tom tələbələri ilə fəxr edir.
+Tom isn't drinking green tea.	Tom yaşıl çay içmir.
+Tom shouldn't go there alone.	Tom oraya yalnız getməməlidir.
+Tom will be back after lunch.	Tom qəlyanaltıdan sonra geri gələcək.
+Tom will never see you again.	Tom bir də səni heç vaxt görməyəcək.
+We weren't always optimistic.	Biz həmişə optimist olmamışıq.
+What is the president's plan?	Prezidentin planı nədir?
+Why are people scared of you?	Niyə adamlar səndən qorxurlar?
+Why don't you just apologize?	Niyə sadəcə üzr istəmirsiniz?
+Why is my dad in the kitchen?	Atam niyə mətbəxdədir?
+You must answer the question.	Siz suala cavab verməlisiniz.
+You remind me of your father.	Sən mənə atanı xatırladırsan.
+You won't find anything here.	Siz burada heç nə tapmayacaqsınız.
+Did anybody see what happened?	Kimsə nə baş verdiyini gördü?
+Did you buy a washing machine?	Paltaryuyan maşın almısınız?
+Do you like apples or oranges?	Alma xoşlayırsan ya portağal?
+Don't eat before going to bed.	Yatmazdan əvvəl yemə!
+Don't say anything to anybody.	Heç kimə heç nə demə!
+Don't worry about your family.	Ailənə görə narahat olma.
+Don't worry. I'll talk to Tom.	Narahat olma. Mən Tomla danışaram.
+He bought me a new dictionary.	O mənə yeni lüğət aldı.
+He has fallen in love with me.	O mənə aşiq oldu.
+He leaves for school at seven.	O, saat yeddidə məktəbə gedir.
+He painted a picture of a dog.	O it şəkli çəkdi.
+He returned from the workshop.	O, emalatxanadan qayıtdı.
+He was born in Athens in 1956.	O 1956-cı ildə Afinada doğulub.
+How many moons does Mars have?	Marsın neçə peyki var?
+I came to Japan two years ago.	Mən Yaponiyaya iki il əvvəl gəlmişəm.
+I didn't expect this from you.	Səndən bunu gözləmirdim.
+I don't have time to help Tom.	Toma kömək etməyə vaxtım yoxdur.
+I don't have to clean my room.	Mən otağımı təmizləməyə məcbur deyiləm.
+I don't know anyone named Tom.	Mən Tom adlı heç kimi tanımıram.
+I don't know how to thank you.	Bilmirəm sənə necə təşəkkür edim.
+I hate this part of the movie.	Filmin bu hissəsindən zəhləm gedir.
+I have an apartment in Boston.	Mənim Bostonda mənzilim var.
+I haven't eaten breakfast yet.	Mən hələ qəlyanaltı etməmişəm.
+I learned to live without her.	Mən onsuz yaşamağı öyrəndim.
+I live about a mile from here.	Mən buradan təxminən bir mil uzaqlıqda yaşayıram.
+I saw a house with a red roof.	Mən qırmızı damlı ev gördüm.
+I went to the airport by taxi.	Mən hava limanına taksi ilə getdim.
+I'd like to see the agreement.	Sazişi görmək istərdim.
+I'm not going to school today.	Mən bugün məktəbə getmirəm.
+I'm sure Tom doesn't hate you.	Əminəm ki, Tom sizə nifrət etmir.
+I'm sure Tom doesn't hate you.	Əminəm ki, Tom sənə nifrət etmir.
+Isn't there a pharmacy nearby?	Buralarda bir aptek yoxdurmu?
+It's four o'clock by my watch.	Mənim saatım dördü göstərir.
+Japan is an industrial nation.	Yaponiya sənaye ölkəsidir.
+Luxembourg is a small country.	Lüksemburq balaca ölkədir.
+Oslo is the capital of Norway.	Oslo Norveçin paytaxtıdır.
+Please wait five more minutes.	Xahiş edirəm, beş dəqiqə daha artıq gözləyəsiniz.
+Relax, Tom. We're on vacation.	Rahat ol, Tom. Biz məzuniyyətdəyik.
+She bought a book at the shop.	O, mağazada kitab aldı.
+She has something in her hand.	Onun əlində nəisə var.
+She is said to have been rich.	Deyirlər ki, o varlıdır.
+She looked at him with hatred.	O ona nifrətlə baxdı.
+She wants to dye her hair red.	O saçını qırmızıya boyamaq istəyir.
+Tasmania belongs to Australia.	Tasmaniya Avstraliyaya aiddir.
+That house is built of bricks.	O ev kərpicdən tikilib.
+The war had lasted four years.	Müharibə dörd il çəkmişdi.
+They became citizens of Japan.	Onlar Yaponiya vətəndaşı oldular.
+They haven't contacted us yet.	Onlar hələ bizimlə əlaqə saxlamayıblar.
+This box contains five apples.	Bu qutuda beş alma var.
+This is a very difficult exam.	Bu çox çətin imtahandır.
+This product is made in Italy.	Bu məhsul İtaliyada istehsal olunub.
+Tom and Mary are the same age.	Tom və Meri eyni yaşdadırlar.
+Tom died in 2013 in Australia.	Tom 2013-cü ildə Avstraliyada öldü.
+Tom drank a glass of red wine.	Tom bir qədəh qırmızı şərab içdi.
+Tom is too poor to marry Mary.	Tom Meriylə evlənmək üçün çox kasıbdır.
+Tom opened a can of tuna fish.	Tom tunes balığı konservi açdı.
+Tom said that he liked Boston.	Tom Bostonu xoşladığını dedi.
+Tom swallowed his chewing gum.	Tom saqqızını uddu.
+Tom washed his face and hands.	Tom üzünü və əllərini yudu.
+Watermelons are in season now.	İndi qarpız mövsümüdür.
+We were so young at that time.	O vaxtlar biz çox cavan idik.
+What kind of wine do you have?	Səndə hansı şərabdan var?
+What kind of wine do you have?	Sizdə hansı şərabdan var?
+What time does the game start?	Oyun nə vaxt başlayır?
+When does the restaurant open?	Restoran nə vaxt açılır?
+Women like men with mustaches.	Qadınların bığlı kişilərdən xoşu gəlir.
+Would you give me your number?	Mənə öz nömrəni verə bilərsən?
+You always say the same thing.	Sən həmişə eyni şeyi deyirsən.
+A dead leaf fell to the ground.	Yerə quru bir yarpaq düşdü.
+Beer bottles are made of glass.	Pivə butulkaları şüşədən hazırlanır.
+Cranes are big beautiful birds.	Durnalar böyük gözəl quşlardır.
+He's a member of the golf club.	O, qolf klubunun üzvüdür.
+I don't enjoy talking with you.	Mən səninlə danışmaqdan zövq almıram.
+I don't need that kind of help.	Mənə elə kömək lazım deyil.
+I don't understand the problem.	Mən problemi başa düşmürəm.
+I don't want to live by myself.	Mən tək yaşamaq istəmirəm.
+I gave her her dictionary back.	Mən onun lüğətini ona geri qaytardım.
+I have a black and a white dog.	Mən bir qara və bir ağ itim var.
+I hope my dream will come true.	Ümid edirəm arzum həyata keçər.
+I hope my dream will come true.	Ümid edirəm ki, arzum reallaşar.
+I plan on going home by myself.	Evə tək getməyi planlayıram.
+I think I really love you, Tom.	Məncə səni həqiqətən sevirəm, Tom.
+I wasn't aware of that problem.	Mənim o problemdən xəbərim yox idi.
+It was a lovely autumn evening.	Xoş bir payız axşamı idi.
+Italy invaded Ethiopia in 1935.	İtaliya 1935-ci ildə Efiopiyanı işğal etdi.
+Japan's army was very powerful.	Yaponiyanın ordusu çox güclü idi.
+Kyiv is the capital of Ukraine.	Kiyev Ukraynanın paytaxtıdır.
+Madrid is the capital of Spain.	Madrid İspaniyanın paytaxtıdır.
+My room is twice as big as his.	Mənim otağım onunkundan iki dəfə böyükdür.
+Panda bears live only in China.	Pandalar ancaq Çində yaşayır.
+Paris is the capital of France.	Paris Fransanın paytaxtıdır.
+She is always dressed in black.	O həmişə qara geyinir.
+She's two years older than you.	O səndən iki yaş böyükdür.
+Some girls were playing tennis.	Bəzi qızlar tennis oynayırdılar.
+Spanish is her native language.	İspan dili onun ana dilidir.
+That has nothing to do with me.	Bunun mənə heç bir adiyyatı yoxdur.
+That's complicating the matter.	Bu işi çətinləşdirir.
+The capital of Ukraine is Kyiv.	Ukraynanın paytaxtı Kiyevdir.
+The driver increased his speed.	Sürücü sürətini artırdı.
+The letter was written by hand.	Məktub əllə yazılmışdı.
+The news spread all over Japan.	Xəbər bütün Yaponiyaya yayıldı.
+The squirrel ate the hazelnuts.	Dələ fındıqları yedi.
+The talks will last three days.	Danışıqlar üç gün davam edəcək.
+The water here is very shallow.	Burada su çox dayazdır.
+Their plane will soon take off.	Onların təyyarəsi birazdan qalxacaq.
+Their wedding will be tomorrow.	Onların toyu sabah olacaq.
+These pants are too big for me.	Bu şalvar mənə çox böyükdür.
+This dictionary has 12 volumes.	Bu lüğət 12 cildlikdir.
+This time Tom and I are paying.	Bu dəfə Tom və mən oynayırıq.
+Tom can't read without glasses.	Tom eynəksiz oxuya bilmir.
+Tom doesn't like to eat onions.	Tom soğan yeməyi xoşlamır.
+Tom is neither rich nor famous.	Tom nə varlıdır nə də məşhur.
+Tom is probably a little tired.	Tom yəqin ki, biraz yorğundur.
+Tom knows who broke the window.	Tom pəncərəni kimin sındırdığını bilir.
+Tom washes his car once a week.	Tom maşınını həftədə bir dəfə yuyur.
+We learn a good deal at school.	Biz məktəbdə çox şey öyrənmişik.
+What are you really doing here?	Doğrudan, sən burada neynəyirsən?
+You would make a good diplomat.	Səndən yaxşı diplomat olardı.
+You would make a good diplomat.	Sizdən yaxşı diplomat olardı.
+Doesn't your job start tomorrow?	Sənin işin sabah başlamır?
+He does not live there any more.	O, artıq orada yaşamır.
+He's good at this sort of thing.	O belə şeylərdə yaxşıdır.
+He's leaving for China tomorrow.	O sabah Çinə yola düşür.
+How did you know I was Canadian?	Siz hardan bildiniz ki, mən kanadalıyam?
+I am going to Spain in the fall.	Mən payızda İspaniyaya gedirəm.
+I am thinking about my children.	Uşaqlarımı düşünürəm.
+I can't breathe through my nose.	Burnumla nəfəs ala bilmirəm.
+I don't want anything from them.	Mən onlardan heç nə istəmirəm.
+I had something else on my mind.	Mənim fikrimdə başqa şey var idi.
+I hope you'll give me something.	Ümüdvaram ki mənə nəsə verəcəksən.
+I looked around, but saw nobody.	Mən ətrafa baxdım amma heç kimi görmədim.
+I will buy a new car next month.	Mən gələn ay təzə maşın alacam.
+I'd like us to be friends again.	İstərdim ki, yenidən dost olaq.
+I've given Tom too many chances.	Mən Tom-a çox şans vermişəm.
+Our supply of food is exhausted.	Bizim qida ehtiyatımız tükənib.
+Poverty is the root of all evil.	Kasıblıq bütün pisliklərin köküdür.
+She is two years older than you.	O səndən iki yaş böyükdür.
+Soccer is very popular in Spain.	Futbol İspaniyada çox populyardır.
+Some things are never forgotten.	Bəzi şeylər heç vaxt unudulmur.
+Sri Lanka is a beautiful island.	Şri Lanka gözəl adadır.
+That isn't your problem anymore.	O daha sənin problemin deyil.
+That isn't your problem anymore.	O daha sizin probleminiz deyil.
+That's not your problem anymore.	O daha sənin problemin deyil.
+That's not your problem anymore.	O daha sizin probleminiz deyil.
+The capital of Morocco is Rabat.	Mərakeşin paytaxtı Rabat şəhəridir.
+The capital of Poland is Warsaw.	Polşanın paytaxt şəhəri Varşavadır.
+The entire town was under water.	Bütün şəhər suyun altında idi.
+The fire was on the first floor.	Yanğın birinci mərtəbədə idi.
+The guitar player is my brother.	Gitaraçı mənim qardaşımdır.
+The movie starts at ten o'clock.	Film saat onda başlayır.
+The only vegetarian here is Tom.	Burada tək vegetarian Tom-dur.
+The road is too narrow for cars.	Yol maşınlar üçün çox ensizdir.
+The sand on the beach was white.	Çimərlikdəki qum ağ idi.
+The sun always sets in the west.	Günəş həmişə qərbdə batır.
+The train disappeared from view.	Qatar gözdən itdi.
+Today is election day in Poland.	Bu gün Polşada seçki günüdür.
+Tom almost never eats cucumbers.	Tom demək olar ki heç vaxt xiyar yemir.
+Tom didn't even ask me about it.	Tom hətta bu barədə məndən soruşmadı belə.
+Tom filled his bag with walnuts.	Tom çantasını qozla doldurdu.
+Tom is still doing his homework.	Tom hələ ev tapşırığını edir.
+Tom put his hand over his heart.	Tom əlini ürəyinin üstünə qoydu.
+Tom was a professional magician.	Tom peşəkar sehrbaz idi.
+Turkey was stronger than Greece.	Türkiyə Yunanıstandan daha güclü idi.
+We'll be there at half past two.	Biz üçün yarısında orada olacağıq.
+Were you an officer in the army?	Sən orduda zabit idin?
+What would you recommend we eat?	Yeməyə nə məsləhət görərdin?
+Where will you have lunch today?	Bu gün harada nahar edəcəksən?
+Armenia is a mountainous country.	Ermənistan dağlıq ölkədir.
+Don't trust anybody but yourself.	Özündən başqa heç kimə inanma.
+Dublin is the capital of Ireland.	Dublin İrlandiyanın paytaxtıdır.
+First, you must protect yourself.	Birincisi, sən özünü müdafiə etməlisən.
+He came to Japan seven years ago.	O, Yaponiyaya yeddi il əvvəl gəlib.
+I already told you what happened.	Mən nə baş verdiyini artıq sənə dedim.
+I am responsible for the mistake.	Səhvə görə mən cavabdehəm.
+I am responsible for the mistake.	Səhvə görə mən məsuliyyət daşıyıram.
+I didn't go to school last month.	Keçən ay məktəbə getmədim.
+I don't like your sense of humor.	Sənin yumor hissin mənim xoşuma gəlmir.
+I don't want you to see me naked.	İstəmirəm ki, məni çılpaq görəsən.
+I live on the same street as Tom.	Tomla eyni küçədə yaşayıram.
+I thought I could trust you, Tom.	Mən zənn etdim ki, sənə güvənə bilərəm, Tom.
+I wouldn't do that if I were you.	Sənin yerində olsaydım bunu etməzdim.
+I've already been here two hours.	Mən artıq iki saatdır ki buradayam.
+If anyone can fix this, it's Tom.	Bunu təmir edəbiləcək birisi varsa, o da Tomdur.
+Love is the answer to everything.	Sevgi hər şeyə cavabdır.
+My sister is playing with a doll.	Mənim bacım gəlinciklə oynayır.
+Remember what happened last time.	Sonuncu dəfə nə baş verdiyini xatırla.
+She was wearing dark brown shoes.	O tünd qəhvəyi ayaqqabı geyinmişdi.
+The Virgin Mary is Jesus' mother.	Bakirə Məryəm İsanın anasıdır.
+There are many islands in Greece.	Yunanıstanda çoxlu adalar var.
+There is no reason for this fear.	Bu qorxu üçün heç bir səbəb yoxdur.
+There was a strong wind that day.	O gün güclü külək var idi.
+There's no furniture in the room.	Otaqda mebel yoxdur.
+There's no need for Tom to hurry.	Tomun tələsməyinə ehtiyac yoxdur.
+This house is very big, isn't it?	Bu ev çox böyükdür, elə deyil?
+This mushroom is not good to eat.	Bu göbələk yeməli deyil.
+Tom always complains, doesn't he?	Tom həmişə şikayətlənir, elə deyil?
+Tom gave the dog a piece of meat.	Tom itə bir tikə ət verdi.
+Tom has a new girlfriend already.	Tomun artıq yeni sevgilisi var.
+Tom lived in Japan for ten years.	Tom 10 il Yaponiyada yaşadı.
+We always have to obey the rules.	Biz həmişə qaydalara tabe olmalıyıq.
+We can't afford to buy a new car.	Bizim yeni maşın almağa imkanımız yoxdur.
+What does she think about my car?	O mənim maşınım haqqında nə düşünür?
+When I woke up, I was in the car.	Mən oyananda maşında idim.
+Where in Austria did you grow up?	Siz Avstriyanın harasında böyümüsünüz?
+Where in Austria did you grow up?	Sən Avstriyanın harasında böyümüsən?
+Where's the source of this river?	Bu çayın mənbəyi haradadır?
+All the apple trees were cut down.	Bütün alma ağacları kəsilmişdi.
+Auckland is a city in New Zealand.	Oklend Yeni Zelandiyada bir şəhərdir.
+Belgrade is the capital of Serbia.	Belqrad Serbiyanın paytaxtıdır.
+Do you have other pictures of her?	Səndə onun başqa şəkilləri var?
+Do you live in Portugal or Brazil?	Sən Portuqaliyada yaşayırsan yoxsa Braziliyada?
+Elephants live in Asia and Africa.	Fillər Asiyada və Afrikada yaşayırlar.
+English is not my native language.	İngilis dili mənim ana dilim deyil.
+France shares a border with Spain.	Fransa İspaniya ilə həmsərhəddir.
+He doesn't have any strength left.	Onun daha gücü qalmayıb.
+He teaches English to his friends.	O, dostlarına ingilis dili öyrədir.
+He was sitting and reading a book.	O oturub kitab oxuyurdu.
+How many photos are in this album?	Bu albomda neçə fotoşəkil var?
+I couldn't come because it rained.	Mən yağış yağdığına görə gələ bilmədim.
+I didn't intend to break the vase.	Mən vazanı qəsdən qırmadım.
+I don't know anything about Japan.	Mən Yaponiya haqqında heç nə bilmirəm.
+I don't know what to do right now.	İndi nə edəcəyimi bilmirəm.
+I don't want to see anybody today.	Mən bu gün heç kimi görmək istəmirəm.
+I gave the dog two pieces of meat.	Mən itə iki tikə ət verdim.
+I really hope that doesn't happen.	Mən həqiqətən də ümid edirəm ki, bu baş verməyəcək.
+I saw my reflection in the mirror.	Mən güzgüdə öz əksimi gördüm.
+I think my German isn't very good.	Zənn edirəm ki, almancam çox yaxşı deyil.
+I want Tom to tell me his opinion.	İstəyirəm ki, Tom mənə öz fikrini desin.
+I'm going to keep studying French.	Mən fransızca öyrənməyə davam edəcəm.
+Iceland used to belong to Denmark.	İslandiya əvvəllər Danimarkaya aid idi.
+Italy is a very beautiful country.	İtaliya çox gözəl ölkədir.
+Most men here wear ties every day.	Burada kişilərin çoxu hər gün qalstuk taxır.
+One of Serbia's allies was Russia.	Serbiyanın müttəfiqlərindən biri Rusiya idi.
+Our main problem remains unsolved.	Bizim əsas problemimiz həll edilməmiş qalır.
+Phoenix is the capital of Arizona.	Finiks Arizonanın paytaxtıdır.
+Sometimes, I don't understand him.	Bəzən mən onu başa düşmürəm.
+The old house was burned to ashes.	Köhnə ev yanıb külə döndü.
+There are no oranges on the table.	Stolun üstündə portağal yoxdur.
+There's enough room for everybody.	Burada hamı üçün kifayət qədər yer var.
+They speak English in New Zealand.	Yeni Zelandiyada ingilis dilində danışılır.
+Tom and Mary have three daughters.	Tom və Merinin üç qızı var.
+Tom didn't do anything to stop it.	Tom onu saxlamaq üçün heç nə etmədi.
+Tom didn't tell me where he lived.	Tom mənə harada yaşadığını demədi.
+Tom is not interested in politics.	Tom siyasətlə maraqlanmır.
+Tom plans to buy a new motorcycle.	Tom yeni motosiklet almağı planlaşdırır.
+Tom said no one else was laughing.	Tom dedi ki, başqa heç kəs gülmürdü.
+Tom sat down next to his daughter.	Tom qızının yanında oturdu.
+Tom will be busy tomorrow morning.	Tom sabah səhər məşğul olacaq.
+Tom's parents have a lot of money.	Tomun valideynlərinin çoxlu pulu var.
+Yerevan is the capital of Armenia.	İrəvan Ermənistanın paytaxtıdır.
+You have to keep your shoes clean.	Gərək ayaqqabılarını təmiz saxlayasan.
+You shouldn't tell Tom everything.	Sən hər şeyi Toma deməməlisən.
+"Thanks, guys." "Don't mention it."	"Sağolun, uşaqlar." "Dəyməz."
+Brussels is the capital of Belgium.	Brüssel Belçikanın paytaxtıdır.
+Do you like green tea or black tea?	Yaşıl çay xoşlayırsan yoxsa qara çay?
+He plants sunflowers in the spring.	O, yazda günəbaxan əkir.
+I didn't think that Tom would come.	Düşünmürdüm ki, Tom gələr.
+I don't know why you're so worried.	Mən bilmirəm sən niyə belə narahatsan.
+I like vanilla ice cream very much.	Mən vanilli dondurmanı çox sevirəm.
+I planted an apple tree in my yard.	Həyətimdə alma ağacı əkdim.
+I think you deserve more than this.	Düşünürəm ki, sən bundan artığına layiqsən.
+I think you deserve more than this.	Məncə sən bundan da artığına layiqsən.
+I wonder where that ship is headed.	Mənə maraqlıdır, o gəmi hara istiqamətlənir.
+I'd like to have my blood examined.	Qanımı yoxlatmaq istərdim.
+I'm trying not to think about that.	O barədə düşünməməyə çalışıram.
+In the summer, eggs go bad quickly.	Yayda yumurtalar tez xarab olur.
+Let's meet in front of the library.	Gəl kitabxananın qabağında görüşək.
+Not every student has a dictionary.	Hər tələbənin lüğəti yoxdur.
+Oregon is just south of Washington.	Oreqon Vaşinqtonun cənubunda yerləşir.
+She looked back on her school days.	O məktəb günlərini xatırladı.
+Stockholm is the capital of Sweden.	Stokholm İsveçin paytaxtıdır.
+The bicycle under the tree is mine.	Ağacın altındakı velosiped mənimdir.
+The box was empty when I opened it.	Mən açanda qutu boş idi.
+The boy has an apple in his pocket.	Oğlanın cibində alma var.
+The capital of Hungary is Budapest.	Macarıstanın paytaxtı Budapeştdir.
+The elevator is out of order today.	Lift bugün işləmir.
+The pen is mightier than the sword.	Qələm qılıncdan güclüdür.
+They wanted the war to end quickly.	Onlar müharibənin tezliklə sona çatmasını istəyirdilər.
+Tom is the cutest boy in the class.	Tom sinifdəki ən şirin oğlandır.
+Tom plants sunflowers every spring.	Tom hər yaz günəbaxan əkir.
+Tom's band was really good tonight.	Tom-un qrupu bu gecə həqiqətən də yaxşı idi.
+We had to drive slowly all the way.	Biz bütün yol boyu yavaş sürməliyik.
+We're totally different people now.	Biz indi tamamilə fərqli insanlarıq.
+What do you want for your birthday?	Ad gününə nə istəyirsən?
+You should go to bed early tonight.	Sən bu gün tez yatmalısan.
+Don't forget your gloves. It's cold.	Əlcəklərin yadından çıxmasın. Hava soyuqdur.
+Don't tell me how to spend my money.	Mənə öz pulumu necə xərcləyəcəyimi öyrətmə!
+Everyone in the room recognized Tom.	Otaqdakı hər kəs Tomu tanıdı.
+Grandmother sent us a box of apples.	Nənə bizə bir qutu alma göndərdi.
+He became an orphan when he was ten.	On yaşında ikən o yetim qaldı.
+He's making a table in his workshop.	O, emalatxanasında stol düzəldir.
+How much does a bottle of beer cost?	Bir şüşə pivə neçəyədir?
+I don't always get my homework done.	Mən ev tapşırığımı həmişə etməyi bacarmıram.
+I doubt that Tom is really a doctor.	Mən şübhə edirəm ki, Tom həqiqətən həkimdir.
+I still haven't planted any lettuce.	Hələ kahı əkməmişəm.
+I think it's time for me to go home.	Evə getmək vaxtım gəlib.
+In August 1990, Iraq invaded Kuwait.	1990-cı ilin avqustunda İraq Küveyti işğal etdi.
+In Japan, all children go to school.	Yaponiyada bütün uşaqlar məktəbə gedir.
+It is a good idea to read this book.	Bu kitabı oxumaq yaxşı fikirdir.
+My uncle lives in the east of Spain.	Mənim əmim İspaniyanın şərqində yaşayır.
+Nobody's forcing you to do anything.	Səni heç kim heç nəyə məcbur etmir.
+Please tell me what your problem is?	Xahiş edirəm mənə de, sənin problemin nədir?
+Smoking is not allowed in this room.	Bu otaqda siqaret çəkmək olmaz.
+The boy tried moving the heavy sofa.	Oğlan ağır divanı tərpətməyə cəhd etdi.
+The children are riding their bikes.	Uşaqlar velosipedlərini sürürlər.
+The old man fell down on the ground.	Qoca kişi yerə yıxıldı.
+The picture reminded me of Scotland.	Şəkil mənə Şotlandiyanı xatırlatdı.
+They have two sons and one daughter.	Onların iki oğlu və bir qızı var.
+Tom and I are about the same height.	Tom və mən, demək olar ki, eyni boydayıq.
+Tom dried himself with a bath towel.	Tom hamam dəsmalı ilə qurulandı.
+Tom looked for his name on the list.	Tom adını tapmaq üçün siyahıya baxdı.
+We can't sleep because of the noise.	Biz səs-küyə görə yata bilmirik.
+Why do you not want to leave Boston?	Sən niyə Bostonu tərk etmək istəmirsən?
+Children go back to school in autumn.	Payızda uşaqlar məktəbə qayıdırlar.
+Copenhagen is the capital of Denmark.	Kopenhagen Danimarkanın paytaxtıdır.
+Could you tell me about your company?	Mənə öz şirkətiniz haqqında danışa bilərsən?
+Did you explain the situation to Tom?	Toma vəziyyəti başa saldın?
+Did you explain the situation to Tom?	Toma vəziyyəti izah etdiniz?
+Don't confuse Austria with Australia.	Avstriyanı Avstraliya ilə səhv salmayın.
+Don't you want to ask me what I want?	Məndən nə istədiyimi soruşmaq istəmirsiniz?
+English is an international language.	İngilis dili beynəlxalq dildir.
+For all I know, he was born in Italy.	Mən bildiyimə görə o İtaliyada doğulub.
+He cracked the walnut with his teeth.	O, qozu dişləriylə sındırdı.
+He doesn't take care of his children.	O uşaqlarının qayğısına qalmır.
+I had no idea that you were so young.	Bu qədər gənc olduğun haqda heç bir fikrim yox idi.
+I planted an apple tree in my garden.	Mən bağımda alma ağacı əkdim.
+I spent a couple of months in Boston.	Mən Bostonda bir neçə ay keçirdim.
+I want to feed the birds in the park.	Parkdakı quşlara yem vermək istəyirəm.
+If I were you, I'd follow his advice.	Sənin yerində olsaydım onun məsləhətinə qulaq asardım.
+In 1975, Angola became a free nation.	1975-ci ildə Anqola müstəqil dövlət oldu.
+It's not going to be easy to do this.	Bunu etmək asan olmayacaq.
+Japan has to reconstruct its economy.	Yaponiya iqtisadiyyatını yenidən qurmalıdır.
+Papua New Guinea was a German colony.	Papua Yeni Qvineya alman koloniyası idi.
+Repetition is the mother of learning.	Təkrar biliyin anasıdır.
+School begins the day after tomorrow.	Məktəb birisi gün başlayır.
+She laid her head down on the pillow.	O başını yastığa qoydu.
+The United States was at war in 1864.	Amerika 1864-cü ildə müharibədə idi.
+The cause of the fire is yet unknown.	Yanğının səbəbi hələ məlum deyil.
+The cost of the book is five dollars.	Kitabın dəyəri beş dollardır.
+There is a right time for everything.	Hər şeyin öz vaxtı var.
+They say that ferns can have flowers.	Deyilənə görə qıjıların çiçəyi olur.
+They say that ferns can have flowers.	Deyirlər ki, qıjılar çiçək aça bilir.
+They supplied the village with water.	Onlar kəndi su ilə təmin etdilər.
+Tom and Mary work in the same office.	Tom və Meri eyni ofisdə işləyirlər.
+Tom doesn't know anything about that.	Tom bunun haqqında heç nə bilmir.
+Tom has never had a driver's license.	Tomun heç vaxt sürücülük vəsiqəsi olmayıb.
+Tom is quite a bit younger than Mary.	Tom Meridən xeyli cavandır.
+Tom likes you more than anybody else.	Tom səni hamıdan çox sevir.
+Tom looked around the room carefully.	Tom otağı diqqətlə nəzərdən keçirdi.
+Tom put the ashtray in front of Mary.	Tom külqabını Merinin qabağına qoydu.
+We can't let anybody know we're here.	Biz burada olduğumuzu heç kəsə bildirə bilmərik.
+We're all praying for Tom's recovery.	Biz hamımız Tomun yaxşılaşması üçün dua edirik.
+We're going to scrutinize everything.	Hər şeyi diqqətlə araşdıracağıq.
+You have to be prepared for anything.	Siz hər şeyə hazır olmalısınız.
+A week later, Germany attacked Poland.	Bir həftə sonra Almaniya Polşaya hücum etdi.
+Both Tom and I were a little confused.	Həm Tom, həm də mən bir az çaşmışdıq.
+Hazelnuts are harvested in mid-autumn.	Fındıq payızın ortalarında yığılır.
+His work is a source of pride for him.	İşi onun üçün qürur mənbəyidir.
+How do we know you're not lying to us?	Hardan bilək ki, bizə yalan danışmırsan?
+I don't want to go to Boston with you.	Sizinlə Bostona getmək istəmirəm.
+I don't want to go to school tomorrow.	Sabah məktəbə getmək istəmirəm.
+I meet with him once every six months.	Mən onunla hər altı aydan bir görüşürəm.
+I will take you to my palace tomorrow.	Mən səni sabah öz məkanıma aparacam.
+Japan imports oranges from California.	Yaponiya Kaliforniyadan portağal idxal edir.
+She advised him not to drink too much.	O mənə çox içməməyi məsləhət gördü.
+She came three minutes after I called.	O, mən zəng etdikdən üç dəqiqə sonra gəldi.
+She comes to see me from time to time.	O arabir mənə dəyməyə gəlir.
+Strange as it may sound, this is true.	Nə qədər qəribə səslənsə də bu doğrudur.
+That girl is more cute than beautiful.	O qız gözəl olduğundan daha çox şirindir.
+They went to the zoo by bus yesterday.	Onlar dünən avtobusla zooparka getdilər.
+This is one of Boston's finest hotels.	Bu Bostonun ən yaxşı otellərindən biridir.
+Tom didn't keep Mary waiting too long.	Tom Merini çox gözlətmədi.
+Tom has three apple trees in his yard.	Tomun həyətində üç alma ağacı var.
+Tom said that he wanted to go with us.	Tom bizimlə gəlmək istədiyini dedi.
+Two children were playing on the road.	İki uşaq yolda oynayırdı.
+We didn't live in Australia very long.	Biz Avstraliyada uzun müddət yaşamadıq.
+We have to paint the bathroom ceiling.	Biz hamam otağının tavanını rəngləməliyik.
+Do you see that house? That's my house.	O evi görürsən? O mənim evimdir.
+Everyone must protect their own family.	Hər kəs öz ailəsini qorumalıdır.
+His brother is more patient than he is.	Qardaşı ondan daha səbirlidir.
+I go to school at eight in the morning.	Məktəbə səhər səkkizdə gedirəm.
+I never thought I'd ever see you again.	Heç vaxt düşünməzdim ki, səni yenidən görə bilərəm.
+I think that I'm doing something wrong.	Mənə elə gəlir ki, nəyisə səhv edirəm.
+I woke up with a headache this morning.	Bugün səhər başağrısı ilə oyandım.
+Napoleon Bonaparte was born in Corsica.	Napoleon Bonapart Korsikada doğulub.
+Solar energy is a new source of energy.	Günəş enerjisi yeni enerji mənbəyidir.
+The legend says that she was a mermaid.	Əfsanədə deyildiyinə görə, o, su pərisi idi.
+The sailors abandoned the burning ship.	Dənizçilər yanan gəmini tərk etdilər.
+This is the house in which he was born.	Bu onun doğulduğu evdir.
+This isn't possible without Tom's help.	Tomun köməyi olmadan bu mümkün deyil.
+Tom and I agreed to take turns driving.	Tom və mən növbə ilə maşını sürməyə razılaşdıq.
+What was the first capital of Portugal?	Portuqaliyanın birinci paytaxtı hara idi?
+Who do you usually play badminton with?	Çox vaxt kiminlə badminton oynayırsan?
+You don't have to know all the details.	Bütün xırdalıqları bilməyiniz vacib deyil.
+China is twenty times bigger than Japan.	Çin Yaponiyadan iyirmi dəfə böyükdür.
+Don't lift weights if you're still sore.	Əgər hələ də yaralısansa, ağırlıq qaldırma.
+Envious people die, but envy never does.	Paxıl insanlar ölür, amma paxıllıq yox.
+Give me your phone number, just in case.	Hər ehtimala qarşı telefon nömrəni mənə ver.
+He wants to meet that good-looking girl.	O, o gözəl qızla tanış olmaq istəyir.
+I don't usually eat at places like this.	Mən adətən belə yerlərdə yemirəm.
+I just wanted to see if you could do it.	Sadəcə bunu edə biləcəyini görmək istədim.
+I loved to climb trees when I was a kid.	Uşaq vaxtı ağaca dırmaşmaqdan xoşum gəlirdi.
+I want to become a doctor in the future.	Mən gələcəkdə həkim olmaq istəyirəm.
+I want to make friends with your sister.	Mən sənin bacınla dost olmaq istəyirəm.
+I'd like coffee rather than tea, please.	Çaydansa, kofe istərdim, zəhmət olmasa.
+Many children don't like eating spinach.	Uşaqların çoxunun ispanaq yeməkdən xoşu gəlmir.
+Millions of wild animals live in Alaska.	Alyaskada milyonlarla vəhşi heyvan yaşayır.
+Muslims always pray facing toward Mecca.	Müsəlmanlar həmişə üzü Məkkəyə doğru dua edirlər.
+My sister washes her hair every morning.	Mənim bacım hər səhər saçını yuyur.
+She whispered to me that she was hungry.	O mənə pıçıldadı ki, acdır.
+She's the French ambassador to Portugal.	O Fransanın Portuqaliyadakı səfiridir.
+Texas is nearly twice as large as Japan.	Texas Yaponiyadan təqribən iki dəfə böyükdür.
+The girl playing the piano is my sister.	Piano çalan qız mənim bacımdır.
+The treasure lay hidden for a long time.	Xəzinə uzun zamandır gizli qalıb.
+Tom came to Boston hoping to find a job.	Tom iş tapmaq ümidiylə Bostona gəldi.
+Tom changed his mind at the last minute.	Tom son anda fikrini dəyişdi.
+Tom doesn't let his children drink wine.	Tom uşaqlarına şərab içməyə icazə vermir.
+Tom has met a lot of interesting people.	Tom çoxlu maraqlı insanla tanış olub.
+Tom's house was repossessed by the bank.	Tom-un evinə yenidən bank əl qoydu.
+We need to close the border immediately.	Biz dərhal sərhədi bağlamalıyıq.
+You are to stay here until we come back.	Biz gələnə qədər burada qalırsan.
+You have no right to tell me what to do.	Sənin mənə nə edəcəyimi deməyə haqqın yoxdur.
+You have no right to tell me what to do.	Sizin mənə nə edəcəyimi deməyə haqqınız yoxdur.
+You were telling the truth, weren't you?	Siz həqiqəti deyirdiniz, elə deyilmi?
+You were telling the truth, weren't you?	Sən həqiqəti deyirdin, elə deyilmi?
+Cacti are plants that live in dry places.	Kaktuslar quru yerlərdə bitən bitkilərdir.
+Do you use a sponge when you take a bath?	Çiməndə süngərdən istifadə edirsən?
+He gave a positive answer to my question.	O mənim sualıma müsbət cavab verdi.
+Her husband is currently living in Tokyo.	Onun əri hal-hazırda Tokioda yaşayır.
+I asked the teacher which was the better.	Mən müəllimdən hansının daha yaxşı olduğunu soruşdum
+I don't have to go to school next Monday.	Mən növbəti bazarertəsi məktəbə getməyə məcbur deyiləm.
+I haven't eaten asparagus in a long time.	Xeyli vaxtdır ki, qulançar yemirəm.
+I wonder if Tom is still able to do that.	Tom-un hələ də onu etməyə qadir olub-olmadığı mənə maraqlıdır.
+I'm not in a position to give you advice.	Sənə məsləhət verəcək halda deyiləm.
+Our teacher separated us into two groups.	Müəllimimiz bizi iki qrupa ayırdı.
+She takes part in many school activities.	O çoxlu məktəb fəaliyyətlərində iştirak edir.
+Sorry, I didn't know you were still here.	Bağışlayın, hələ burda olduğunuzu bilmirdim.
+That way I kill two birds with one stone.	Beləliklə mən bir güllə ilə iki dovşan vururam.
+The explorers finally reached their goal.	Kəşfiyyatçılar nəhayət ki öz məqsədlərinə çatdılar.
+The goldfinch is a very interesting bird.	Payızbülbülü çox maraqlı quşdur.
+There are many apple trees in the garden.	Bağda çoxlu alma ağacı var.
+There's a lot to see and do in Australia.	Avstraliyada görülməli və edilməli çox şey var.
+This stone is twice as heavy as that one.	Bu daş o birisindən ikiqat ağırdır.
+Tom admitted that he had stolen the bike.	Tom velosipedi oğurladığını boynuna aldı.
+Tom and Mary had a good time on vacation.	Tom və Meri məzuniyyətdə yaxşı vaxt keçirdilər.
+Tom and Mary played tennis all afternoon.	Tom və Mary bütün bu günortadan sonra tennis oynadılar.
+Tom doesn't even have a driver's license.	Tomun hətta sürücülük vəsiqəsi belə yoxdur.
+Tom isn't accustomed to working at night.	Tom gecə işləməyə öyrəşməyib.
+Tom knew he no longer needed to be there.	Tom bilirdi ki, artıq burada ona ehtiyac olmayacaq.
+Tom looked after my dog while I was away.	Tom mən olmayanda itimin qayğısına qaldı.
+When was the last time Tom talked to you?	Tom axırıncı dəfə səninlə nə vaxt danışıb?
+Cats were sacred animals in ancient Egypt.	Qədim Misirdə pişiklər müqəddəs heyvanlar idilər.
+Do you know what Tom was doing last night?	Tomun ötən gecə nə etdiyini bilirsən?
+I don't think I'll need an umbrella today.	Düşünmürəm ki, bu gün çətirə ehtiyacım olacaq.
+I had to walk because there were no taxis.	Mən yerimək məcburiyyətində idim, çünki orada taksi yox idi.
+I have three friends who can speak French.	Mənim fransızca danışa bilən üç dostum var.
+I'm fairly certain Tom doesn't believe us.	Tomun bizə inanmadığından çox əminəm.
+Many Canadians visit Australia every year.	Bir çox kanadalılar hər il Avstraliyanı səyahət edir.
+The car stopped in the middle of the road.	Maşın yolun ortasında dayandı.
+There're more than 100 people in the room.	Otaqda yüzdən çox adam var.
+They know the situation better than we do.	Onlar vəziyyəti bizdən yaxşı bilirlər.
+Tom didn't have the permission to do that.	Tom-un bunu etməyə icazəsi yox idi.
+Tom doesn't want to take advice from Mary.	Tom Meridən məsləhət almaq istəmir.
+Tom planted three apple trees in his yard.	Tom həyətində üç alma ağacı əkdi.
+Which do you like, green tea or black tea?	Hansını xoşlayırsan, yaşıl çay yoxsa qara çay?
+Without air and water, nothing could live.	Hava və su olmadan heç nə yaşaya bilməz.
+You don't even know what you mean, do you?	Sən özün belə nəyi nəzərdə tutduğunu bilmirsən, elə deyil?
+Cockroaches hide themselves during the day.	Tarakanlar gündüzlər gizlənirlər.
+Did you write anything in your diary today?	Bugün gündəliyinə nəisə yazdın?
+Do you know the man standing on the bridge?	Körpüdə dayanan adamı tanıyırsan?
+Have you ever been to the Korean Peninsula?	Heç Koreya yarımadasında olmusan?
+How would you like it if I did that to you?	Onu sənə etsəydim, xoşuna gələrdi?
+If he'd known the truth, he'd have told me.	Əgər o həqiqəti bilsəydi, mənə deyərdi.
+Norway is the richest country in the world.	Norveç dünyada ən varlı ölkədir.
+She is strong enough to carry the suitcase.	O, çemodanı daşıya biləcək qədər güclüdür.
+Tom graduated from college three years ago.	Tom kolleci üç il əvvəl bitirib.
+Tom told me he couldn't do that by himself.	Tom mənə dedi ki, o, bunu özbaşına edə bilməzdi.
+We used the computer in order to save time.	Vaxt qazanmaq üçün komputerdən istifadə etdik.
+When I was your age, I was already married.	Mən sənin yaşında olanda artıq evli idim.
+When you cross the bridge, don't look down.	Körpünü keçəndə aşağı baxma.
+A crane raises heavy construction materials.	Kran ağır tikinti materiallarını qaldırır.
+Fish is an important food source for people.	Balıq insanlar üçün mühüm qida mənbəyidir.
+He speaks not only Spanish, but also French.	O, təkcə ispanca yox, fransızca da danışır.
+How do I know that you're telling the truth?	Mən necə bilim ki, sən həqiqəti deyirsən?
+I don't think that Tom wants to leave today.	Düşünmürəm ki, Tom bu gün tərk etmək istəyir.
+It seemed impossible that Tom would succeed.	Tomun uğurlu ola biləcəyi mümkünsüz görsənirdi.
+Lithuania is a member of the European Union.	Litva Avropa Birliyinin üzvüdür.
+Portugal is not as close to France as Spain.	Portuqaliya Fransaya İspaniya qədər yaxıın deyil.
+Prague is the capital of the Czech Republic.	Praqa Çexiyanın paytaxtıdır.
+That's already happened to me several times.	Bu artıq bir neçə dəfə mənim başıma gəlib.
+Those children are waiting for their mother.	O uşaqlar analarını gözləyirlər.
+Tom didn't want to go, but Mary made him go.	Tom getmək istəmirdi amma Meri onu getməyə vadar etdi.
+Tom eats asparagus, but his brother doesn't.	Tom qulançar yeyir, amma qardaşı yox.
+Tom has been in the hospital for three days.	Tom üç gündür ki xəstəxanadadır.
+Tom's situation is getting more complicated.	Tomun vəziyyəti get-gedə daha da çətinləşir.
+We learned about that from reliable sources.	Biz o haqda etibarlı mənbələrdən öyrəndik.
+What is your greatest source of inspiration?	Ən böyük ilham mənbəyiniz nədir?
+You should be able to read this book easily.	Sən bu kitabı rahatlıqla oxumağı bacarmalısan.
+A group of children were playing in the park.	Bir dəstə uşaq parkda oynayırdı.
+Don't forget to open the window in your room.	Otağındakı pəncərəni açmaq yadından çxmasın.
+I am looking for a book about medieval Spain.	Mən orta əsr İspaniyası haqqında kitab axtarıram.
+Naples is the largest city in southern Italy.	Neapol cənubi İtaliyada ən böyük şəhərdir.
+Some minerals are important for human health.	Bəzi minerallar insan sağlamlığı üçün vacibdirlər.
+They lifted him carefully into the ambulance.	Onlar onu ehtiyatla təcili yardım maşınına qaldırdılar.
+This is the medicine I was telling you about.	Bu, sənə haqqında danışdığım dərmandır.
+This place looks just the same as it used to.	Bu yer əvvəllər olduğu kimi görünür.
+This school supplies students with textbooks.	Bu məktəb şagirdləri dərsliklərlə təmin edir.
+Tom grows tomatoes and lettuce in his garden.	Tom bağında pomidor və kahı yetişdirir.
+Tom never spoke to Mary again after that day.	Tom o gündən sonra daha Meri ilə danışmadı.
+Tom said Mary looked like she was having fun.	Tom Mary'nin yaxşı vaxt keçirirmiş kimi görsəndiyini dedi.
+Vermont is located on the border with Canada.	Vermont Kanadayla sərhəddə yerləşir.
+You can stay here for a while if you want to.	Əgər istəyisinizsə bir müddət burada qala bilərsiniz.
+Bull fighting is a very interesting spectacle.	Öküz döyüşü çox maraqlı bir səhnədir.
+Computers are better than us at playing chess.	Kompyuterlər şahmat oynamaqda bizdən daha yaxşıdır
+Don't believe everything you hear on the news.	Xəbərlərdə eşitdiyin hər şeyə inanma.
+Everyone except Tom and Mary are already here.	Tom və Meridən başqa hamı artıq buradadır.
+Frankly speaking, I don't want to go with you.	Düzünü desəm, mən səninlə getmək istəmirəm.
+Greece was the cradle of western civilization.	Yunanıstan qərb sivilizasiyasının beşiyi idi.
+He's a British citizen, but he lives in India.	O Britaniya vətəndaşıdır amma Hindistanda yaşayır.
+I don't think that Tom will refuse to do that.	Mən düşünmürəm ki, Tom onu etməkdən imtina edəcək.
+I thought it would be better to remain silent.	Mən susmağın daha yaxşı olacağını düşündüm
+I thought it would be better to remain silent.	Mən elə düşündüm ki sussam daha yaxşı olar.
+I thought it would be better to remain silent.	Mən bir şey deməməyin daha yaxşı olduğunu düşündüm
+I thought it would be better to remain silent.	Mən fikirləşdim ki yaxşısı elə heç nə deməməkdir.
+It's going to rain. Look at those dark clouds.	Yağış yağacaq. Qara buludlara bax.
+My father is my biggest source of inspiration.	Atam mənim ən böyük ilham mənbəyimdir.
+She is busy at present and can't speak to you.	O hal-hazırda məşğuldur və sizinlə danışa bilmir.
+Sorry, I didn't know that you were still here.	Bağışlayın, hələ burda olduğunuzu bilmirdim.
+That can't be Mary. She's in the hospital now.	O Meri ola bilməz. O indi xəstəxanadadır.
+Tom and Mary aren't planning to sing together.	Tom və Mary birlikdə mahnı oxumağı planlamırdılar.
+Tom laughed so much tears ran down his cheeks.	Tom o qədər güldü ki, gözlərindən yanaqlarına göz yaşları axdı.
+Tom picked up his ukulele and started to sing.	Tom ukulelesini götürdü və oxumağa başladı.
+Tom says that he has never eaten an artichoke.	Tom deyir ki, heç vaxt ənginar yeməyib.
+Tom told me he wanted to go mountain climbing.	Tom mənə dedi ki, o dağ dırmanışına getmək istəyir.
+Tom tried opening the door, but it was locked.	Tom qapını açmağa cəhd etdi, amma o bağlı idi.
+Tom will never be given the chance to do that.	Toma heç vaxt bunu etməyə şans verilməyəcək.
+Which is the platform for the train to Boston?	Bostona gedən qatar üçün olan platforma hansıdır?
+You'll be scolded when your mother comes home.	Anan evə gələndə danlanacaqsan.
+After the revolution, France became a republic.	İnqilabdan sonra Fransa respublika oldu.
+He was living in London when the war broke out.	Müharibə başlayanda o, Londonda yaşayırdı.
+I don't have enough money to buy a new bicycle.	Yeni bir velosiped almaq ücün kifayət qədər pulum yoxdur.
+I think that it would be better if you hurried.	Məncə tələssən yaxşı olardı.
+I'm not a teacher and don't want to become one.	Mən müəllim deyiləm və heç olmaq da istəmirəm.
+Is there anything to drink in the refrigerator?	Soyuducuda içməyə bir şey var?
+Maybe that wasn't the best thing to say to Tom.	Bəlkə o, Toma deyiləcək ən yaxşı şey deyildi.
+No amount of training can prepare you for this.	Nə qədər çox çalışsan da, buna hazır ola bilməzsən.
+Texting while crossing the street is dangerous.	Yolu keçərkən mesaj yazmaq təhlükəlidir.
+Thousands of foreigners visit Japan every year.	Minlərlə əcnəbi hər il Yaponiyanı ziyarət edir.
+Tom didn't have any reason not to believe Mary.	Tomun Meriyə inanmamağa heç bir səbəbi yox idi.
+Tom doesn't remember the last time he saw Mary.	Tom Mary-ni sonuncu dəfə gördüyü zamanı xatırlamır.
+Tom might go to the zoo with Mary next weekend.	Tom gələn həftə Mary ilə zooparka gedə bilər.
+Tom stayed with me until the ambulance arrived.	Təcili yardım gələnə qədər Tom mənimlə qaldı.
+We learned that the moon goes around the earth.	Biz öyrəndik ki, ay yerin ətrafında fırlanır.
+A civil war began in Bosnia-Herzegovina in 1992.	1992-ci ildə Bosniya və Herseqovinada vətəndaş müharibəsi başladı.
+He was not completely satisfied with the treaty.	O, müqavilədən tam razı qalmadı.
+I spoke slowly so that they could understand me.	Mən yavaş danışdım ki onlar məni başa düşə bilsinlər.
+I've been trying to imagine my life without you.	Həyatımı sənsiz təsəvvür etməyə çalışırdım.
+If you had a million dollars, what would you do?	Əgər bir milyon dolların olsaydı nə edərdin?
+The police accused her of texting while driving.	Polis onu avtomobil sürərkən mesaj yazmaqda günahlandırdı.
+If you want to participate, you have to register.	Əgər iştirak etmək istəyirsinizsə, qeydiyyatdan keçməlisiniz.
+Our math teacher drew a circle on the blackboard.	Bizim riyaziyyat müəllimimiz lövhədə bir çevrə çəkdi.
+The capital city of the Netherlands is Amsterdam.	Niderlandın paytaxtı Amsterdam şəhəridir.
+This stone was so heavy that I could not lift it.	Bu daş elə ağır idi ki, onu qaldıra bilmədim.
+Tom doesn't know if Mary wants to do that or not.	Tom Məryamın bunu etmək istəyib-istəməməsini bilmir.
+Tom is eager to go to the hospital to visit Mary.	Tom xəstəxanaya gedib Mariyə baş çəkməyə istəklidir.
+Tom says he's been thinking about what Mary said.	Tom deyir ki, o Mary-nin dedikləri barədə düşünür.
+How do you know the same thing won't happen again?	Eyni şeyin yenə baş verməyəcəyini hardan bilirsən?
+I think I'll go to Australia the month after next.	Məncə Avstraliyaya gələn yox, ondan sonrakı ay gedəcəm.
+In Britain, the banks open at 9:00 in the morning.	Britaniyada banklar səhər saat 9-da açılır.
+Jupiter is the largest planet in the Solar System.	Yupiter günəş sistemində ən böyük planetdir.
+The village in which he was born is far from here.	Onun doğulduğu kənd buradan uzaqdır.
+Tom thinks that he speaks French better than Mary.	Tom fikirləşir ki, o Mary-dən daha yaxşı fransızca danışır.
+I'm sure that I drank more than Tom did last night.	Mən əminəm ki, dünən Tom-un içdiyindən daha çox içdim.
+Out of twenty students, only one has read the book.	İyirmi tələbədən ancaq biri kitabı oxuyub.
+Please get in touch with me when you come to Tokyo.	Zəhmət olmazsa Tokioya gələndə mənimlə əlaqə saxla.
+She tried to look much younger than she really was.	O, olduğundan xeyli cavan görünməyə çalışırdı.
+Today's breakfast was dried mackerel and miso soup.	Bugünkü səhər yeməyi qurudulmuş skumbriya və miso supu idi.
+Tom laughed so much that tears ran down his cheeks.	Tom o qədər güldü ki, gözlərindən yanaqlarına göz yaşları axdı.
+Tom says he doesn't want to live like this anymore.	Tom deyir ki, daha belə yaşamaq istəmir.
+Can you briefly sum up what was said at the meeting?	İclasda nə danışıldığını qısaca deyə bilərsən?
+Can you briefly sum up what was said at the meeting?	İclasda nə danışıldığını qısaca deyə bilərsiniz?
+Even if Tom had wanted to do that, he wouldn't have.	Hətta Tom bunu etmək istəsə belə, edə bilməzdi.
+Iran is the eighteenth largest country in the world.	İran ərazisinin böyüklüyünə görə dünyada on səkkizinci yeri tutur.
+It's going to rain soon. Look at those black clouds.	Tezliklə yağış yağacaq. O qara buludlara bir bax.
+He brought us a small gift each time he called on us.	O hər dəfə bizi ziyarət edəndə kiçik bir hədiyyə gətirirdi.
+He went to Austria for the purpose of studying music.	O musiqi təhsili almaq məqsədiylə Avstriyaya getdi.
+Many people go to South Dakota to see Mount Rushmore.	Çox adam Cənubi Dakotaya Raşmor dağını görməyə gedir.
+I don't think that Tom will be at home this afternoon.	Tomun bu günortadan sonra evdə olacağını düşünmürəm.
+Nobody having any more to say, the meeting was closed.	Heç kimin daha deyəcək bir şey qalmadığı üçün, iclas bağlandı.
+Tom doesn't know the difference between Iraq and Iran.	Tom İraq və İran arasındakı fərqi bilmir.
+All horses are animals, but not all animals are horses.	Bütün atlar heyvandırlar amma bütün heyvanlar at deyil.
+I think this is the only way to get rid of cockroaches.	Düşünürəm ki, tarakanlardan qurtulmağın tək yolu budur.
+I used to go fishing with my father when I was a child.	Mən uşaq olanda atamla balıq tutmağa gedərdim.
+We don't know if her parents will come tomorrow or not.	Biz bilmirik onun valideynləri sabah gələcəklər ya yox.
+I've never been to Spain. However, I have been in Italy.	Mən heç vaxt İspaniyada olmamışam. Amma İtaliyada olmuşam.
+The Federal Republic of Germany was established in 1949.	Almaniya Federativ Respublikası 1949-cu ildə yaradılıb.
+How will you convince Tom to lend you the money you need?	Ehtiyacın olduğu pulu sənə borc verməsi üçün Tom-u necə razı salacaqsan?
+The teacher asked me how the moon differs from the earth.	Müəllim məndən ayın yerdən necə fərqləndiyini soruşdu.
+There are many politicians who don't keep their promises.	Vədlərində durmayan çoxlu siyasətçilər var.
+Tom and his friends play poker almost every Friday night.	Tom və onun dostları demək olar hər Cümə gününün axşamı poker oyanyırlar.
+Tom opened the door quietly, so he wouldn't wake Mary up.	Tom qapını sakitcə açdı ki, Mary-ni oyatmasın.
+When he goes out, he asks me to keep an eye on his house.	O gedəndə evinə nəzarət etməyimi xahiş edir.
+Now that you are eighteen, you can get a driver's license.	İndi, madam ki on səkkiz yaşın var, sürücülük vəsiqəsi ala bilərsən.
+Madrid is the capital of Spain and its most important city.	Madrid İspaniyanın paytaxtı və ən vacib şəhəridir.
+I'm not going to tell you what happened until you calm down.	Sən sakitləşənə kimi mən nə baş verdiyini sənə deməyəcəm.
+Kinshasa is the capital of Democratic Republic of the Congo.	Kinşasa Konqo Demokratik Respublikasının paytaxtıdır.
+Put your hand over your mouth when you cough, sneeze or yawn.	Öskürəndə, asqıranda və ya əsnəyəndə əlini ağzına tut.
+You know that I'm not supposed to do that anymore, don't you?	Sən bilirsən ki, mən artıq bunu etməyə məcbur deyiləm, elə deyil?
+We're not exactly friends, but we're not exactly enemies either.	Biz tam olaraq dost deyilik, ancaq tam olaraq düşmən də deyilik.
+I've already told Tom that he doesn't need to come here tomorrow.	Mən artıq Toma sabah bura gəlməyinə ehtiyac olmadığını demişəm.
+Tom said that Mary thought John might need to do that by himself.	Tom bildirdi ki, Mary John'un bunu tək etməli ola biləcəyini düşünür.
+I put an advertisement in the newspaper saying my house was for sale.	Mən qəzetdə evimin endirimdə olduğuna dair elan yerləşdirdim.
+Tom and Mary plan to get married as soon as they graduate from college.	Tom və Meri universiteti bitirən kimi evlənməyi planlaşdırırlar.
+Tom would like to have stayed for dinner, but he had to go back to work.	Tom şam yeməyinə qalmaq istəyərdi, amma işə geri dönməliydi.
+Everywhere he went, he taught love, patience, and most of all, non-violence.	O getdiyi hər yerdə sevgini, səbri və ən önəmlisi, şiddətdən uzaq durmağı öyrətdi.
+I visited Paris, but I didn't climb the Eiffel tower, since I'm afraid of heights.	Mən Parisə səyahət etdim, ancaq yüksəklikdən qorxduğum üçün Eyfel qülləsinə çıxmadım.

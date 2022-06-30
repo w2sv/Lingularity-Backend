@@ -1,0 +1,3153 @@
+Run!	Loop!
+Duck!	Duuk di!
+Hello!	Moin.
+Cheers!	Proost!
+I know.	Ik weet.
+Thanks.	Bedankt!
+Go away.	Gah weg.
+I'm fat.	Ik bün fett.
+Shut up!	Holl dat Muul!
+Shut up!	Holl den Sabbel!
+Shut up!	Holl de Snuut!
+Wash up.	Wasch di dat Gesicht.
+Welcome.	Willkamen!
+Have fun.	Veel Spaaß!
+I forgot.	Dat heff ik vergeten.
+I'm back.	Ik bün dor wedder.
+I'm busy.	Ik heff to doon.
+I'm cold.	Mi is koold.
+I'm game.	Ik maak mit.
+Trust me.	Vertro mi.
+Come here.	Kaam her.
+He's fast.	He is gau.
+I am cold.	Mi is koold.
+I mean it.	Ik meen dat ook so.
+I'm a man.	Ik bün en Mann.
+I'm drunk.	Ik bün duun.
+I'm tired.	Ik bün mööd.
+It's cold.	Dat is koold.
+It's late.	Dat is laat.
+Let me go!	Laat mi gahn!
+Let me in.	Laat mi rin.
+Look back.	Kiek achter di!
+Sign here.	Ünnerschriev hier.
+Thank you.	Bedankt!
+Who is he?	’Keen is he?
+Am I wrong?	Heff ik nich recht?
+Can I help?	Kann ik helpen?
+Choose one.	Söök een ut.
+He laughed.	He lach.
+Hello, Tom.	Hallo Tom.
+I am a boy.	Ik bün en Jung.
+I am a man.	Ik bün en Mann.
+I felt bad.	Ik heff mi slecht föhlt.
+I felt ill.	Ik heff mi krank föhlt.
+I know him.	Ik kenn em.
+I like tea.	Ik mag Tee.
+I need you.	Ik bruuk di.
+I think so.	Dat dücht mi so.
+I want you.	Ik will di.
+I'm hungry!	Ik bün hungerig.
+Ignore him.	Acht nich op em.
+Is this it?	Dit hier?
+Is this it?	Disse hier?
+Just do it.	Do dat doch.
+Let me die.	Laat mi starven.
+No comment.	Dor segg ik nix to.
+Time flies.	De Tied flüggt.
+Where am I?	Woneem bün ik?
+Wood burns.	Holt brennt.
+Can we talk?	Köönt wi snacken?
+Can we talk?	Köönt wi küern?
+Can we talk?	Köönt wi praten?
+Cook for me.	Kaak för mi.
+Don't leave!	Gah nich weg!
+He can swim.	He kann swemmen.
+I am taller.	Ik bün grötter.
+I bought it.	Ik heff dat köfft.
+I can't fly.	Ik kann nich flegen.
+I feel cold.	Mi is koold.
+I heard you.	Ik heff di höört.
+I know that.	Ik weet dat.
+I like cats.	Ik mag Katten.
+I like fish.	Ik mag geern Fisch.
+I live here.	Ik leev hier.
+I need help.	Ik bruuk Hülp.
+I thank you.	Ik dank di.
+I trust you.	Ik vertroo di.
+I was tired.	Ik weer mööd.
+I'm a baker.	Ik bün Bäcker.
+I'm a woman.	Ik bün en Froo.
+I'm at home.	Ik bün tohuus.
+Is he right?	Hett he recht?
+Is it white?	Is dat witt?
+Is it yours?	Is dat dien?
+Is she gone?	Is se weg?
+It may rain.	Villicht regent dat.
+It may snow.	Villicht sneet dat.
+Many thanks.	Velen Dank!
+She bit him.	Se hett em beten.
+What's love?	Wat is Leevd?
+Where is he?	Woneem is he?
+Whose is it?	’Keen sien is dat?
+You are mad.	Du büst mallerig.
+Are you dead?	Büst du dood?
+Bring him in.	Bring em rin.
+Do you smoke?	Smöökst du?
+Do you smoke?	Smöökt ji?
+Does it work?	Klappt dat?
+Good morning.	Goden Morgen.
+Happy Easter!	Frohe Oostern!
+He is a poet.	He is en Dichter.
+He is chubby.	He is wat pummelig.
+I don't know.	Weet ik nich.
+I drank milk.	Ik drünk Melk.
+I go to work.	Ik gah na Arbeid.
+I have a dog.	Ik heff en Hund.
+I see a lion.	Ik seh en Lööw.
+I'm a coward.	Ik bün en Bangbüx.
+I'm a doctor.	Ik bün Dokter.
+I'm new here.	Ik bün nee hier.
+I'm not well.	Mi geiht dat slecht.
+I'm so tired!	Ik bün so mööd!
+It's raining.	Dat regent.
+It's snowing.	Dat sneet.
+Life is hard.	Dat Leven is hart.
+Life's short.	Dat Leven is kort.
+Move quietly.	Beweeg di sachten.
+My feet hurt.	Mien Fööt doot weh.
+See you soon!	Seh to!
+Shame on you!	Du schusst di wat schamen!
+She is a fox.	Se is en Voss.
+She stood up.	Se stünn op.
+She sued him.	Se hett em verklaagt.
+We are Arabs.	Wi sünd Arabers.
+We're people.	Wi sünd Minschen.
+What is love?	Wat is Leevd?
+What is that?	Wat is dat?
+Where are we?	Woneem sünd wi?
+Who are they?	Wat sünd dat för welk?
+Who is there?	’Keen is dor?
+Who will win?	’Keen winnt?
+Are you crazy?	Büst du mit ’n Dummbüdel kloppt?
+Are you happy?	Büst du blied?
+Are you happy?	Büst du tofreden?
+Are you tired?	Büst du mööd?
+Can you skate?	Kannst du skaten?
+Don't give up!	Geev man nich op!
+Feed the bird.	Foder den Vagel!
+Get a haircut.	Laat di de Hoor snieden.
+He killed him.	He hett em ümbröcht.
+He's your son.	He is dien Söhn.
+Help yourself.	Bedeen di.
+How old is he?	Wo oold is he?
+I am a Muslim.	Ik bün Muslim.
+I am a Muslim.	Ik bün Moslem.
+I believe you.	Ik glööv di.
+I have a book.	Ik heff en Book.
+I have sinned.	Ik heff sünnt.
+I like apples.	Ik mag geern Appels.
+I lost my key.	Ik heff mien Slötel vergeten.
+I owe you one.	Ik bün di een schüllig.
+I own a horse.	Mi höört en Peerd to.
+I see a house.	Ik seh en Huus.
+I want coffee.	Ik will Kaffe.
+I'm a student.	Ik bün Student.
+I'm an artist.	Ik bün en Künstler.
+I'm exhausted.	Ik bün kaputt.
+I'm important.	Ik bün wichtig.
+I'm on my way.	Ik bün op ’n Weg.
+I'm tired now.	Ik bün nu mööd.
+Is he correct?	Hett he recht?
+It is raining.	Dat regent.
+It is too hot.	Dat is to hitt.
+It's all over.	Nu is de Aven ut.
+It's fall now.	Dat is nu Harvst.
+Lock the gate.	Sluut dat Door dicht.
+My back hurts.	Mien Puckel deit weh.
+She helps him.	Se helpt em.
+She hired him.	Se hett em instellt.
+She wants him.	Se will em.
+She was brave.	Se weer dapper.
+Speak clearly.	Snack düüdlich.
+That can't be.	Dat kann nich wesen.
+That's a boat.	Dat is en Boot.
+That's a tree.	Dat is en Boom.
+That's my cat.	Dat is mien Katt.
+The war ended.	De Krieg weer toenn.
+The war ended.	De Krieg güng toenn.
+This is Japan.	Dat hier is Japan.
+This is my CD.	Dat is mien CD.
+What happened?	Wat is passeert?
+Where are you?	Woneem büst du?
+Who said that?	’Keen hett dat seggt?
+You are drunk!	Du büst duun!
+You look good.	Du süst good ut.
+You look sick.	Du süst krank ut.
+You need this.	Du bruukst dit.
+You're pretty.	Du büst smuck.
+Are you hungry?	Hest du Hunger?
+Close the door.	Maak de Döör dicht.
+Close the gate.	Maak dat Door dicht.
+Come back home.	Kaam trügg na Huus.
+Come back soon.	Kaam bald wedder.
+Dinner's ready.	Avendeten is trech.
+Do tigers purr?	Snurrt Tigers?
+Don't complain.	Jabbel nich.
+Don't complain.	Jammer nich.
+Don't say that.	Segg dat nich.
+Everybody lies.	Elkeen lüggt.
+Happy New Year!	Proost Neejohr!
+He learns fast.	He lehrt gau.
+He lives alone.	He leevt alleen.
+He went abroad.	He güng na ’t Butenland.
+He worked hard.	He deed hart arbeiden.
+He's no doctor.	He is keen Dokter.
+How deep is it?	Wo deep is dat?
+How much is it?	Wat köst dat?
+How much is it?	Woveel köst dat?
+I bike to work.	Ik föhr mit ’t Rad na Arbeid.
+I did it alone.	Ik heff dat alleen maakt.
+I dislike eggs.	Ik mag Eier nich geern.
+I drink coffee.	Ik drink Kaffe.
+I have a dream.	Ik heff en Droom.
+I like mahjong.	Ik mag Mahjong.
+I need a stamp.	Ik bruuk en Breevmark.
+I need friends.	Ik bruuk Frünnen.
+I own this car.	Dat Auto höört mi to.
+I was captured.	Ik bün fungen worrn.
+I wasn't drunk.	Ik weer nich duun.
+I'll come back.	Ik kaam wedder.
+I'm a free man.	Ik bün en free Mann.
+I'm a nice guy.	Ik bün en netten Keerl.
+I'm eating now.	Ik eet jüst.
+I'm going back.	Ik gah trügg.
+I'm not crying.	Ik ween nich.
+I'm not hiding.	Ik versteek mi nich.
+I'm used to it.	Ik bün dat wennt.
+It was a mouse.	Dat weer en Muus.
+It's brand new.	Dat is splinternee.
+It's hot today.	Dat is hitt vondaag.
+Keep listening.	Höör wieder to.
+Now I remember.	Nu weet ik wedder.
+Open your eyes.	Maak dien Ogen apen.
+Shall we dance?	Schöölt wi dansen?
+She choked him.	Se hett em wörgt.
+She fooled him.	Se hett em narrt.
+She helped him.	Se hett em hulpen.
+She hugged him.	Se hett em drückt.
+She kicked him.	Se hett em peddt.
+She kissed him.	Se hett em küsst.
+She misses him.	Se misst em.
+She trusts him.	Se vertroot em.
+That's a table.	Dat is en Disch.
+That's chicken.	Dat is Hohn.
+That's rubbish.	Dat is Tüdelkraam.
+That's the law.	Dat is dat Gesett.
+The man is old.	De Mann is oold.
+The roof leaks.	Dat Dack leekt.
+They're inside.	De sünd binnen.
+This annoys me.	Dat argert mi.
+This is broken.	Dat is kaputt.
+This is simple.	Dat is eenfach.
+This was a lie.	Dat weer en Löög.
+Try this candy.	Prööv disse Snökeree.
+Wash your face.	Wasch di dat Gesicht.
+We're students.	Wi sünd Studenten.
+What a big dog!	Wat ’n groten Hund!
+What do I need?	Wat bruuk ik?
+Where were you?	Woneem weren ji?
+Who's this guy?	’Keen is disse Fent?
+Who's this guy?	’Keen is dissen Keerl?
+You're correct.	Du hest recht.
+A fish can swim.	En Fisch kann swemmen.
+Are these yours?	Sünd dat dien?
+Are you married?	Büst du verheiraadt?
+Black suits you.	Swart steiht di.
+Can you help me?	Kannst du mi helpen?
+Do you know her?	Du kennst ehr?
+Do you know him?	Kennst du em?
+Do you remember?	Kannst du di besinnen?
+Do you think so?	Meenst du dat?
+Don't look back.	Kiek nich trügg.
+Don't tell lies.	Vertell keen Lögen.
+Enjoy your meal!	Goden Aptiet!
+He began to cry.	He füng an to wenen.
+He began to run.	He füng dat Rennen an.
+He can run fast.	He kann hart lopen.
+He has ten cows.	He hett teihn Keih.
+He has two cats.	He hett twee Katten.
+He is a teacher.	He is Schoolmeester.
+He just arrived.	He is jüst ankamen.
+He seems hungry.	He sütt hungerig ut.
+He waved at her.	He hett ehr towunken.
+He's over forty.	He is över veertig.
+Her father died.	Ehr Vader is doodbleven.
+How old are you?	Wo oold büst du?
+I don't want it.	Ik will dat nich.
+I get her point.	Ik verstah, wat se meent.
+I have brothers.	Ik heff Bröder.
+I have no money.	Ik heff keen Geld.
+I have to hurry!	Ik mutt mi spoden!
+I have two cars.	Ik heff twee Autos.
+I hurt my elbow.	Ik heff mi an ’n Ellbagen wehdaan.
+I know them all.	Ik kenn jem all.
+I live in Japan.	Ik leev in Japan.
+I love to dance.	Ik dans geern.
+I need a hammer.	Ik bruuk en Hamer.
+I need the keys.	Ik bruuk de Slötels.
+I paid the bill.	Ik heff de Reken betahlt.
+I see his house.	Ik seh sien Huus.
+I want to sleep.	Ik will slapen.
+I was not drunk.	Ik weer nich duun.
+I wish you luck.	Ik wünsch di Glück.
+I'd like a soda.	Ik harr geern en Bruus.
+I'll do my best.	Ik will mien best doon.
+I'll pay for it.	Ik betahl dat.
+I'm a bit tired.	Ik bün en beten mööd.
+I'm a masochist.	Ik bün en Masochist.
+I'm able to run.	Ik kann lopen.
+I'm almost done.	Ik bün al meist trech.
+I'm an engineer.	Ik bün Inschenör.
+I'm coming back.	Ik kaam trügg.
+I'm helping you.	Ik help di.
+Is it important?	Is dat wichtig?
+Is this a river?	Is dat en Stroom?
+It is necessary.	Dat is nödig.
+It snowed a lot.	Dat hett veel sneet.
+It's a new book.	Dat is en neet Book.
+It's lunch time.	Dat is Middagtied.
+It's warm today.	Dat is hitt vondaag.
+Jesus loves you.	Jesus hett di geern.
+Keep the change.	Beholl dat Wesselgeld.
+Leave it closed.	Laat dat dicht.
+Let's turn back.	Laat uns trügggahn.
+Life isn't fair.	Dat Leven is nich gerecht.
+My dog is white.	Mien Hund is witt.
+Put on your cap.	Sett dien Mütz op.
+Put on your cap.	Do dien Mütz op.
+Say no to drugs.	Segg Nee to Drogen.
+She forgave him.	Se hett em vergeven.
+She is stubborn.	Se is en Stievkopp.
+She lives alone.	Se leevt alleen.
+She scolded him.	Se schell em ut.
+Spanish is easy.	Spaansch is licht.
+Summer has come.	De Sommer is dor.
+Tell me a story.	Vertell mi en Dööntje.
+That is a table.	Dat is en Disch.
+That is her car.	Dat is ehr Auto.
+That is his car.	Dat is sien Auto.
+The lake is big.	De See is groot.
+This book's new.	Dit Book is nee.
+This is a horse.	Dit is en Peerd.
+This is a hotel.	Dit is en Hotel.
+This is my book.	Dat is mien Book.
+This is my desk.	Dit is mien Schrievdisch.
+Tom is a Muslim.	Tom is Muslim.
+Tom is a priest.	Tom is Preester.
+We are students.	Wi sünd Studenten.
+We went to Gifu.	Wi güngen na Gifu.
+We're all happy.	Wi sünd all blied.
+What did he say?	Wat hett he seggt?
+Where is my car?	Woneem is mien Auto?
+Where's the zoo?	Woneem is de Zoo?
+Why are we here?	Worüm sünd wi hier?
+Why did you cry?	Worüm hest du weent?
+Why is she here?	Worüm is se hier?
+You're a racist.	Du büst en Rassist.
+Are they friends?	Sünd se Frünnen?
+Are you a wizard?	Büst du en Töverer?
+Are you free now?	Hest du nu Tied?
+Can you find her?	Kannst du ehr finnen?
+Come and help us.	Kaam un help uns.
+Do you feel sick?	Föhlst du di süük?
+Do you trust her?	Vertroost du ehr?
+Does it look bad?	Sütt dat slimm ut?
+Give me the book.	Geev mi dat Book.
+He has long hair.	He hett lang Hoor.
+He is his friend.	He is sien Fründ.
+He likes oranges.	He mag geern Appelsienen.
+He played tennis.	He deed Tennis spelen.
+He screams a lot.	He schreet veel.
+How did he do it?	Woans hett he dat daan?
+I am a foreigner.	Ik bün en Butenlandschen.
+I am from Russia.	Ik bün ut Russland.
+I am not a witch.	Ik bün keen Hex.
+I bought the car.	Ik heff dat Auto köfft.
+I can't eat meat.	Ik kann keen Fleesch eten.
+I can't help you.	Ik kann di nich helpen.
+I can't stand it.	Ik kann dat nich verdregen.
+I don't allow it.	Ik verlööv dat nich.
+I don't know her.	Ik kenn ehr nich.
+I don't know him.	Ik kenn em nich.
+I don't know you.	Ik kenn di nich.
+I don't like tea.	Ik mag nich geern Tee.
+I don't like you.	Ik mag di nich.
+I found my shoes.	Ik heff mien Schoh funnen.
+I have a big dog.	Ik heff en groten Hund.
+I have a grenade.	Ik heff en Granaat.
+I have few books.	Ik heff nich veel Böker.
+I have to go now.	Ik mutt nu weg.
+I hear something.	Ik höör wat.
+I need more time.	Ik bruuk mehr Tied.
+I see your house.	Ik seh dien Huus.
+I swim every day.	Ik swemm elk Dag.
+I will shoot him.	Ik warr em doodscheten.
+I'm 25 years old.	Ik bün 25 Johr oold.
+I'm good at math.	Ik bün good in Mathe.
+I'm here for you.	Ik bün för di dor.
+I'm on your side.	Ik stah op dien Sied.
+I'm still single.	Ik bün noch jümmer Single.
+Is the work done?	Is de Arbeid daan?
+It costs 2 euros.	Dat köst twee Euro.
+It needs washing.	Dat mutt wuschen warrn.
+It was very cold.	Dat weer temlich koold.
+It's a small dog.	Dat is en lütten Hund.
+It's hot in here.	Dat is hitt hier binnen.
+It's monkey meat.	Dat is Apenfleesch.
+It's windy today.	Dat is vondaag winnig.
+Let's have a try.	Laat uns dat versöken.
+My eyes are blue.	Mien Ogen sünd blau.
+My sunburn hurts.	Mien Sünnbrand deit weh.
+No one likes war.	Nüms mag Krieg.
+She attacked him.	Se hett em angrepen.
+She defeated him.	Se hett em ünnerkregen.
+She has dry hair.	Se hett dröög Hoor.
+She is very wise.	Se is temlich wies.
+She smiled sadly.	Se deed trurig griemeln.
+She talked a lot.	Se hett veel snackt.
+She waved at him.	Se deed em winken.
+Sit at the table.	Sett jo an den Disch.
+Tell Dad to come.	Segg Papa, dat he kamen schall.
+The book's white.	Dat Book is witt.
+The box is empty.	De Kassen is leddig.
+The box is empty.	De Schachtel is leddig.
+The man is naked.	De Mann is naakd.
+The man is right.	De Mann hett recht.
+The well ran dry.	De Born is dröögfullen.
+The well ran dry.	De Pütt is dröögfullen.
+The well ran dry.	De Sood is dröögfullen.
+These are my CDs.	Dat sünd miene CDs.
+They are singers.	Se sünd Singers.
+They had no food.	Se harrn nix to eten.
+They thanked God.	Se hebbt Godd dankt.
+This man is dead.	Disse Mann is dood.
+This tastes good.	Dat smeckt good.
+Those are my CDs.	Dat sünd miene CDs.
+Try it once more.	Versöök dat noch eens wedder.
+We have two kids.	Wi hebbt twee Kinner.
+What did you say?	Wat hest du seggt?
+What should I do?	Wat schall ik doon?
+What's the cause?	Wat is de Oorsaak?
+Where's the bank?	Woneem is de Bank?
+Whose turn is it?	’Keen is an ’e Reeg?
+Why did you quit?	Worüm hest du ophöört?
+You are a doctor.	Du büst en Dokter.
+You look so pale.	Du süst so bleek ut.
+You missed a lot.	Du hest veel verpasst.
+You're in my way.	Du büst mi in ’n Weg.
+You're my father.	Du büst mien Vader.
+Your car is fast.	Dien Auto is gau.
+Advance two steps.	Gah twee Schreed vör.
+Cows give us milk.	Keih geevt uns Melk.
+Do you believe me?	Glöövst du mi?
+Do you drink wine?	Drinkst du Wien?
+Do you have money?	Hest du Geld?
+Do you have paper?	Hest du Poppeer?
+Do you like music?	Magst du Musik?
+Do you need money?	Bruukst du Geld?
+Do you want money?	Wullt du Geld?
+Do you want to go?	Wullt du gahn?
+Do you wish to go?	Wullt du gahn?
+Earth is a planet.	De Eer is en Planeet.
+Go straight ahead.	Gah liekut.
+He can't help you.	He kann di nich helpen.
+He does not smoke.	He smöökt nich.
+He had a headache.	He harr Koppwehdaag.
+He had three sons.	He harr dree Söhns.
+He has a headache.	He hett Koppwehdaag.
+He has seven sons.	He hett söven Söhns.
+He is still alive.	He leevt noch jümmer.
+He is still angry.	He is noch jümmer argerlich.
+He killed himself.	He hett sik sülvs ümbröcht.
+He ran five miles.	He lööp fiev Mielen.
+He sat next to me.	He seet blangen mi.
+He sat on the bed.	He seet op ’t Bedd.
+He told the truth.	He seed de Wohrheid.
+He turned the key.	He hett den Slötel ümdreiht.
+He's from Georgia.	He is ut Georgia.
+He's from Georgia.	He is ut Georgien.
+He's not an idiot.	He is keen Döösbaddel.
+How did you do it?	Woans hest du dat daan?
+I am coming today.	Ik kaam vondaag.
+I am from Ecuador.	Ik bün ut Ecuador.
+I didn't hear you.	Ik heff jo nich höört.
+I do not feel sad.	Ik bün nich trurig.
+I don't want meat.	Ik will keen Fleesch.
+I forgot her name.	Ik heff ehren Naam vergeten.
+I forgot his name.	Ik heff sien Naam vergeten.
+I had an accident.	Ik heff en Unfall hatt.
+I have a daughter.	Ik heff en Dochter.
+I have a headache.	Ik heff Koppwehdaag.
+I have a passport.	Ik heff en Pass.
+I have brown hair.	Ik heff bruun Hoor.
+I have many discs.	Ik heff veel Platten.
+I know how to ski.	Ik kann Ski föhren.
+I sat next to him.	Ik seet blangen em.
+I stand corrected.	Ik nehm allens trügg.
+I will go on foot.	Ik gah to Foot.
+I wrote that book.	Ik heff dat Book schreven.
+I'm able to speak.	Ik kann snacken.
+I'm always hungry.	Ik bün jümmer hungerig.
+I'm not a student.	Ik bün keen Schöler.
+I'm not a student.	Ik bün keen Student.
+I'm still thirsty.	Ik bün jümmer noch dörstig.
+I'm taking a bath.	Ik baad.
+Is that your book?	Is dat dien Book?
+Is that your room?	Is dat dien Kamer?
+It has cooled off.	Dat is afköhlt.
+It's already late.	Dat is al laat.
+It's dark outside.	Dat is buten düüster.
+It's my brother's.	Dat höört mien Broder to.
+It's not my fault.	Dat is nich mien Schuld.
+It's now or never.	Nu oder gornich!
+It's our pleasure.	Dat is uns en Freid.
+Let's go this way.	Laat uns hier langs gahn.
+Let's take a rest.	Laat uns verpuusten.
+My uncle is angry.	Mien Unkel is füünsch.
+Prices are rising.	De Priesen gaht na baven.
+Say it in English.	Segg dat op Engelsch.
+She always smiles.	Se smüüstert jümmer.
+She began to sing.	Se füng an to singen.
+She can't stop me.	Se kann mi nich ophollen.
+She cooks for him.	Se kaakt för em.
+She has long hair.	Se hett lang Hoor.
+She heard him cry.	Se hett em wenen höört.
+She is her friend.	Se is ehr Fründin.
+She is his friend.	Se is sien Fründin.
+She loves singing.	Se singt geern.
+She made him rich.	Se möök em riek.
+She smiled at him.	Se smüüster em an.
+She threw him out.	Se hett em rutsmeten.
+She tried to swim.	Se versöch to swemmen.
+She went with him.	Se is mit em gahn.
+Termites eat wood.	Termiten freet Holt.
+That boy is smart.	Disse Jung is plietsch.
+That boy is smart.	De Jung is klook.
+That cat is brown.	De Katt is bruun.
+That is your book.	Dat is dien Book.
+That's a pheasant.	Dat is en Fasaan.
+The cat is eating.	De Katt fritt.
+The dog wants out.	De Hund will rut.
+The earth rotates.	De Eer dreiht sik.
+The lemon is sour.	De Zitroon is suur.
+The man ate bread.	De Mann hett Brood eten.
+The market is big.	De Markt is groot.
+The room was warm.	De Kamer weer warm.
+There is your bag.	Dor is dien Tasch.
+They missed a lot.	Se hebbt veel verpasst.
+This car is black.	Dit Auto is swart.
+This is my friend.	Dat is mien Fründ.
+This is my sister.	Dat is miene Süster.
+Tom is my brother.	Tomás is mien Broder.
+We don't have tea.	Wi hebbt keen Tee.
+We don't know her.	Wi kennt ehr nich.
+We need your help.	Wi bruukt dien Hülp.
+We saw them leave.	Wi hebbt jem gahn sehn.
+What is happiness?	Wat is Glück?
+What was going on?	Wat weer loos?
+When do we arrive?	Wannehr sünd wi dor?
+Where do you work?	Woneem arbeidst du?
+Where've you been?	Woneem weren ji?
+Who was Mona Lisa?	’Keen weer Mona Lisa?
+Yesterday was hot.	Güstern weer ’t hitt.
+You are a bit fat.	Du büst en beten besett.
+You are my mother.	Du büst miene Moder.
+You can't stop me.	Du kannst mi nich ophollen.
+You have no taste.	Du hest keen Smack.
+You made an error.	Du hest en Fehler maakt.
+Your house is big.	Ehr Huus is groot.
+Your time is over.	Diene Tied is vörbi.
+All apples are red.	All Appels sünd rood.
+All sugar is sweet.	All Sucker is sööt.
+Did you get a beer?	Hest du en Beer kregen?
+Do as he tells you.	Do, wat he di seggt.
+Does it hurt a lot?	Deit dat dull weh?
+Does your dog bite?	Bitt dien Hund?
+He OD'd on cocaine.	He hett en Överdosis Kokain nahmen.
+He can't stay long.	He kann nich lang blieven.
+He disliked school.	He müch de School nich.
+He had an accident.	He harr en Unfall.
+He has a white cat.	He hett en witte Katt.
+He is just a child.	He is bloot en Kind.
+He is very careful.	He is temlich vörsichtig.
+He sat on the bank.	He seet op de Bank.
+He was getting old.	He deed bilütten oold warrn.
+He weighs 70 kilos.	He wiggt söventig Kilo.
+He works at a bank.	He arbeidt in ’e Bank.
+He works at a bank.	He arbeidt bi de Bank.
+He works very hard.	He arbeidt temlich hart.
+He's a little pale.	He is en beten bleek.
+He's coming closer.	He kummt neger.
+How do you do that?	Woans deist du dat?
+How much is a room?	Woveel köst en Kamer?
+I am from Columbia.	Ik bün ut Columbia.
+I can't exclude it.	Ik kann dat nich utsluten.
+I did this for you.	Ik heff dat för di daan.
+I didn't know this.	Dat heff ik nich wüsst.
+I didn't want that.	Ik wull dat nich.
+I don't have a cat.	Ik heff keen Katt.
+I don't have money.	Ik heff keen Geld.
+I don't like sushi.	Ik mag keen Sushi.
+I don't understand.	Ik verstah nich.
+I don't understand.	Dat verstah ik nich.
+I don't understand.	Ik begriep dat nich.
+I handed him a map.	Ik heff em en Koort geven.
+I know his address.	Ik kenn sien Adress.
+I know what he did.	Ik weet wat he daan hett.
+I know you're rich.	Ik weet, dat du riek büst.
+I like being alone.	Ik bün geern alleen.
+I live in the city.	Ik leev in ’e Stad.
+I lost my identity.	Ik heff mien Identität verloren.
+I sat up all night.	Ik heff de ganze Nacht waakt.
+I want my own room.	Ik will en egen Kamer.
+I want to kiss you.	Ik will di küssen.
+I woke up too late.	Ik bün to laat opwaakt.
+I'm a good teacher.	Ik bün en goden Lehrer.
+I'm a little tired.	Ik bün en beten mööd.
+I'm from Singapore.	Ik kaam ut Singapur.
+I'm not a magician.	Ik bün keen Töverer.
+I'm not going back.	Ik gah nich trügg.
+I'm very tired now.	Ik bün nu temlich mööd.
+I've cut my finger.	Ik heff mi in ’n Finger sneden.
+Is this book yours?	Is dat dien Book?
+It is Monday today.	Vondaag is Maandag.
+It was nearly noon.	Dat weer binah Middag.
+It was pitch-black.	Dat weer stockdüüster.
+It was pitch-black.	Dat weer stickendüüster.
+It was pitch-black.	Dat weer pickdüüster.
+It's not important.	Dat is nich wichtig.
+It's seven o'clock.	Dat is Klock söven.
+It's snowing today.	Dat sneet vondaag.
+It's time to sleep.	Dat is Tied to slapen.
+It's too expensive.	Dat is to düür!
+It's too expensive.	Dat is to düür.
+Italy is in Europe.	Italien is in Europa.
+Knowledge is power.	Weten is Macht.
+Listen, all of you.	Höört to, ji all.
+Look! She's coming!	Kiek! Se kummt!
+My parents are old.	Miene Öllern sünd oold.
+My wife cooks well.	Miene Froo kaakt good.
+Nothing is missing.	Fehlt nix.
+Owls hunt at night.	Ulen jaagt bi Nacht.
+Please take a seat.	Gah man sitten.
+Shall we stop soon?	Wüllt wi bald opholen?
+She does not smoke.	Se smöökt nich.
+She has seven sons.	Se hett söven Söhns.
+She heard him sing.	Se hett em singen höört.
+She is helping him.	Se helpt em.
+She is kind to him.	Se is fründlich to em.
+She is kissing him.	Se küsst em.
+She listens to him.	Se höört em to.
+She needs our help.	Se bruukt uns Hülp.
+She threatened him.	Se deed em drohn.
+She's my godmother.	Se is mien Vaddersche.
+She's only a child.	Se is man en Kind.
+Stay where you are.	Bliev wo du büst.
+That's interesting.	Dat is intressant.
+That's unimportant.	Dat is nich wichtig.
+The baby is asleep.	Dat Baby slöppt.
+The clock is wrong.	De Klock geiht verkehrt.
+The dog looks sick.	De Hund sütt krank ut.
+The dog seems sick.	De Hund sütt krank ut.
+The dress is green.	Dat Kleed is gröön.
+The ice is melting.	Dat Ies smült.
+The paper is white.	Dat Poppeer is witt.
+The summer is over.	De Sommer is vörbi.
+The table is green.	De Disch is gröön.
+The woman is naked.	De Froo is naakd.
+These are my books.	Dat sünd miene Böker.
+These aren't words.	Dat sünd keen Wöör.
+They've fooled you.	Se hebbt di narrt.
+This can't be true.	Dat kann nich wohr wesen.
+This soil is moist.	De Bodden is fuchtig.
+Those are my books.	Dat sünd miene Böker.
+Today is a hot day.	Vondaag is dat hitt.
+Turn off the light.	Maak dat Licht ut.
+Watching TV is fun.	Feernsehn kieken maakt Spaaß.
+Water is important.	Water is wichtig.
+We can't afford it.	Wi köönt dat nich tügen.
+We do not know her.	Wi kennt ehr nich.
+We do not know him.	Wi kennt em nich.
+We have to act now.	Wi mööt nu wat doon.
+We ran in the park.	Wi löpen in ’n Park.
+We're almost there.	Wi sünd al meist dor.
+What are you doing?	Wat maakst du?
+What are you doing?	Wat deist du?
+What's the problem?	Wat is dat Probleem?
+When's the wedding?	Wannehr is de Hochtied?
+Where are we going?	Wo gaht wi hen?
+Where is your room?	Woneem is dien Kamer?
+Where's the bakery?	Woneem is de Bäckeree?
+Who allowed him in?	’Keen hett em rinlaten?
+Who do you talk to?	Mit ’keen snackt du?
+Who's your teacher?	’Keen is dien Schoolmeester?
+Whose food is this?	’Keen sien Eten is dit hier?
+Whose is that book?	’Keen sien Book is dat?
+Why are you crying?	Worüm weent ji?
+Why are you crying?	Worüm weenst du?
+Why are you so mad?	Worüm büst du so wöterig?
+Why are you so sad?	Worüm sünd ji so trurig?
+Will it rain today?	Schall dat vondaag Regen geven?
+You made a mistake.	Du hest en Fehler maakt.
+You've overdone it.	Du hest dat överdreven.
+All I have is books.	Allens, wat ik heff, sünd Böker.
+Anybody can do that.	Elkeen kann dat doon.
+Are you the prophet?	Büst du de Profeet?
+Change your clothes.	Treck di wat anners an.
+Did I miss anything?	Heff ik wat verpasst?
+Do you have a child?	Hest du en Kind?
+Does your head hurt?	Deit di dien Kopp weh?
+Don't open the door.	Maak de Döör nich apen.
+Don't slam the door.	Bums de Döör nich.
+Everything is ready.	Allens is trech.
+Get her out of here.	Bring ehr weg.
+He did it for money.	He hett dat för Geld maakt.
+He did not want war.	He wull keen Krieg.
+He didn't know that.	He wüss dat nich.
+He has enough money.	He hett noog Geld.
+He has two Picassos.	He hett twee Picassos.
+He is always joking.	He jökelt jümmer rüm.
+He knows everything.	He weet allens.
+He's afraid of dogs.	He is bang vör Hunnen.
+He's always on time.	He is jümmer niep mit de Tied.
+He's the oldest son.	He is de öllst Söhn.
+His shoes are brown.	Siene Schoh sünd bruun.
+How do magnets work?	Woans funkschoneert Magneten?
+How do you feel now?	Wo föhlst du di nu?
+How much will it be?	Woveel köst dat?
+I am a fast swimmer.	Ik bün en gauen Swemmer.
+I am a teacher, too.	Ik bün ook Schoolmeester.
+I am going to sleep.	Ik gah slapen.
+I arrived too early.	Ik bün to froh ankamen.
+I built a new house.	Ik heff en neet Huus boot.
+I can come at three.	Üm dree kann ik kamen.
+I can see the light.	Ik kann dat Licht sehn.
+I can't find my key.	Ik kann mien Slötel nich finnen.
+I come from Saitama.	Ik kaam ut Saitama.
+I dreamed about you.	Ik heff von di dröömt.
+I eat with my hands.	Ik eet mit mien Hannen.
+I forgot about that.	Dat heff ik vergeten.
+I have a dictionary.	Ik heff en Wöörbook.
+I have many friends.	Ik heff veel Frünnen.
+I have to leave now.	Ik mutt nu weg.
+I have to leave now.	Ik mutt nu loos.
+I haven't eaten yet.	Ik heff noch nich eten.
+I haven't forgotten.	Ik heff dat nich vergeten.
+I know you are rich.	Ik weet, dat du riek büst.
+I like light colors.	Ik mag helle Klören.
+I love blackberries.	Ik mag Brummelbeern.
+I see what you mean.	Ik verstah, wat du meenst.
+I sent you a letter.	Ik heff di en Breev tostüürt.
+I sleep standing up.	Ik slaap in ’t Stahn.
+I think I've got it.	Ik glööv, ik heff ’t.
+I want another beer.	Ik will noch en Beer.
+I wish I were young.	Ik wull, ik weer jung.
+I won't do it again.	Ik do ’t nich wedder.
+I'll be back at six.	Ik bün Klock söss trügg.
+I'll be back at ten.	Ik bün Klock teihn trügg.
+I'm a stranger here.	Ik bün en Frömmen hier.
+I'm against the war.	Ik bün gegen den Krieg.
+I'm better than him.	Ik bün beter as he.
+I'm drinking coffee.	Ik drink Kaffe.
+I'm eating an apple.	Ik eet en Appel.
+I'm forty years old.	Ik bün veertig Johr oold.
+I'm only a customer.	Ik bün bloot en Kunn.
+I'm taller than you.	Ik bün grötter as du.
+I'm trying to sleep.	Ik versöök to slapen.
+I've borrowed a car.	Ik heff en Auto utlehnt.
+I've got a question.	Ik heff en Fraag.
+I've lost my wallet.	Ik heff mien Portmaneet verloren.
+Is everything ready?	Is allens trech?
+It is too expensive.	Dat is to düür.
+It tastes very good.	Dat hett temlich good smeckt.
+It was hard as rock.	Dat weer hart as Steen.
+Japanese are Asians.	Japaners sünd Asiaten.
+Let me have a taste.	Laat mi man proven.
+Let's try something.	Laat uns wat versöken!
+Lie on your stomach.	Legg di op ’n Buuk.
+My back still hurts.	Mien Rügg deit jümmer noch weh.
+My back still hurts.	Mien Puckel deit jümmer noch weh.
+My new dress is red.	Mien neet Kleed is rood.
+My nose is bleeding.	Mien Nees blödd.
+My throat feels dry.	Mien Strott föhlt sik dröög an.
+My trousers are wet.	Miene Büx is natt.
+Nobody speaks to me.	Nüms snackt mit mi.
+Nobody speaks to me.	Nüms praat mit mi.
+Nobody speaks to me.	Nüms küert mit mi.
+Play me some Chopin.	Speel mi en beten Chopin.
+She agreed with him.	Se deed em tostimmen.
+She boiled the eggs.	Se deed de Eier kaken.
+She danced with him.	Se hett mit em danst.
+She gave him a book.	Se geev em en Book.
+She has 2,000 books.	Se hett 2000 Böker.
+She has a white cat.	Se hett en witte Katt.
+She has no brothers.	Se hett keen Bröder.
+She is just a child.	Se is bloot en Kind.
+She is still a girl.	Se is noch en Deern.
+She kicked him hard.	Se hett em düchtig peddt.
+She locked the door.	Se möök de Döör dicht.
+She locked the door.	Se deed de Döör dichtsluten.
+She sat next to him.	Se deed blangen em sitten.
+She sat on the bank.	Se seet op de Bank.
+She still buys milk.	Se köfft noch jümmer Melk.
+She stopped smoking.	Se höör mit Smöken op.
+She understands him.	Se versteiht em.
+She watched him eat.	Se keek em bi ’t Eten to.
+Take off your shoes.	Treck dien Schoh ut.
+Thailand is in Asia.	Thailand liggt in Asien.
+That makes me angry.	Dat argert mi.
+That's a lemon tree.	Dat is en Zitronenboom.
+That's not my fault.	Dat is nich mien Schuld.
+That's true as well.	Dat is ook wohr.
+That's your funeral.	Dat is dien Gräffnis.
+The apples are ripe.	De Appels sünd riep.
+The clouds hung low.	De Wulken hüngen sied.
+The computer is new.	De Computer is nee.
+The dog bit my hand.	De Hund hett mi in ’e Hand beten.
+The house is pretty.	Dat Huus is smuck.
+The letter returned.	De Breev keem trügg.
+The radio is broken.	Dat Radio is kaputt.
+The snow has melted.	De Snee is smulten.
+This CD is my son's.	Disse CD höört mien Söhn to.
+This is my own bike.	Dat is mien egen Fohrrad.
+Tom is in the house.	Tom is in ’t Huus.
+Tom lay on his back.	Tom leeg op ’n Rügg.
+We all like cycling.	Wi föhrt all geern Fohrrad.
+We're at home today.	Vondaag sünd wi tohuus.
+We're eating apples.	Wi eet Appels.
+We're in the forest.	Wi sünd in ’n Woold.
+We're open tomorrow.	Wi hebbt morgen apen.
+We're out of danger.	Wi sünd buten Gefohr.
+We've got a problem.	Wi hebbt en Probleem.
+What are they doing?	Wat maakt se?
+What should I bring?	Wat schall ik mitbringen?
+What's in your hand?	Wat hest du in ’e Hand?
+When will you leave?	Wannehr geihst du loos?
+Where are the shoes?	Woneem sünd de Schoh?
+Where are you going?	Wo geihst du hen?
+Where have you been?	Woneem weren ji?
+Where were you born?	Woneem büst du boren?
+Who sings that song?	’Keen singt dit Leed?
+Who wrote this book?	’Keen hett dit Book schreven?
+Who wrote this poem?	’Keen hett dit Gedicht schreven?
+Who's going with me?	’Keen kummt mit mi?
+Why did he run away?	Worüm is he weglopen?
+Why did you call me?	Worüm hest du mi ropen?
+Why did you call me?	Worüm hest du mi anropen?
+Why is the sky blue?	Worüm is de Heven blau?
+You are a good cook.	Du büst en goden Kock.
+You must study more.	Du musst mehr lehren.
+You're looking good!	Ji seht good ut!
+Your father is tall.	Dien Vader is groot.
+Your shoes are here.	Diene Schoh sünd hier.
+Are you able to swim?	Kannst du swemmen?
+Are you feeling sick?	Föhlst du di süük?
+Buy the full version.	Kööp de Vullversion.
+Can I ask a question?	Dröff ik en Fraag stellen?
+Can I sit beside you?	Dröff ik blangen di sitten?
+Children need loving.	Kinner bruukt Leevd.
+Do whatever you want.	Do, wat du wullt.
+Do you have a minute?	Hest du kort Tied?
+Do you recognize him?	Kennst du em?
+Do you speak English?	Snackst du Engelsch?
+Don't make a mistake.	Maak keen Fehler.
+Fish live in the sea.	Fisch leevt in de See.
+France borders Italy.	Frankriek grenzt an Italien.
+Go to the barbershop.	Gah na ’n Putzbüdel.
+Good night, everyone!	Gode Nacht alltohoop!
+Have you fed the dog?	Hest du den Hund fuddert?
+He comes from Geneva.	He kummt ut Genf.
+He gets tired easily.	He warrt licht mööd.
+He had fifty dollars.	He harr föfftig Dollar.
+He has a good memory.	He hett en behöllern Kopp.
+He is afraid of dogs.	He is bang vör Hunnen.
+He is friendly to me.	He is fründlich to mi.
+He is my best friend.	He is mien besten Fründ.
+He wants to kiss her.	He will ehr küssen.
+He was out of breath.	He weer ganz ut ’e Puust.
+He's got a white cat.	He hett en witte Katt.
+He's offered to help.	He hett anbaden mittohelpen.
+He's taking a shower.	He duuscht.
+How many do you want?	Woveel wullt du?
+How much is one beer?	Woveel köst en Beer?
+I am eating an apple.	Ik eet en Appel.
+I am forced to do it.	Ik mutt dat doon.
+I bought fresh bread.	Ik heff frisch Brood köfft.
+I can hear something.	Ik höör wat.
+I can't afford a car.	Ik kann mi keen Auto tügen.
+I crossed the street.	Ik bün över de Straat gahn.
+I didn't see anybody.	Ik heff nüms sehn.
+I don't have a sword.	Ik heff keen Sweerd.
+I don't want to work.	Ik will nich arbeiden.
+I had a heart attack.	Ik heff en Hartanfall hatt.
+I have two daughters.	Ik heff twee Döchter.
+I just took a shower.	Ik heff jüst duuscht.
+I know her very well.	Ik kenn ehr temlich good.
+I know what you mean.	Ik weet, wat du meenst.
+I know what you mean.	Ik weet wat du meenst.
+I know your language.	Ik kenn dien Spraak.
+I like her very much.	Ik mag ehr temlich geern.
+I like reading books.	Ik lees geern Böker.
+I like to wear clogs.	Ik draag geern Holschen.
+I must buy groceries.	Ik mutt inköpen gahn.
+I need a new bicycle.	Ik bruuk en neet Fohrrad.
+I no longer like you.	Ik mag di nich mehr.
+I owe him 50,000 yen.	Ik bün em 50.000 Yen schüllig.
+I think we need help.	Mi dücht, wi bruukt Hülp.
+I usually go on foot.	Ik gah normalerwies to Foot.
+I was playing tennis.	Ik heff Tennis speelt.
+I was reading a book.	Ik heff en Book leest.
+I went to the market.	Ik bün na ’n Markt gahn.
+I won the gold medal.	Ik heff de Goldmedalje wunnen.
+I'd like to kiss you.	Ik deed di geern küssen.
+I'm allergic to fish.	Ik bün allergisch gegen Fisch.
+I'm doing well today.	Vondaag geiht mi dat good.
+I'm not at all tired.	Ik bün gornich mööd.
+I'm smarter than you.	Ik bün klöker as du.
+I'm still very tired.	Ik bün noch temlich mööd.
+I'm writing a letter.	Ik schriev en Breev.
+I've already done it.	Ik heff dat al daan.
+I've lost my friends.	Ik heff mien Frünnen verloren.
+I've run three miles.	Ik bün dree Mielen lopen.
+Is anyone else going?	Geiht dor ans noch een hen?
+It was time to leave.	Dat weer Tied to gahn.
+May I borrow this CD?	Kann ik mi disse CD utborgen?
+May I have your name?	Dröff ik dien Naam weten?
+My father's a doctor.	Mien Vader is en Dokter.
+My headache has gone.	Mien Kopp deit nich mehr weh.
+My sister is married.	Mien Süster is verheiraadt.
+My skirt is too long.	Mien Rock is to lang.
+Please have some pie.	Eet doch en Stück Koken.
+She bought him a car.	Se hett em en Auto köfft.
+She bought him a dog.	Se hett em en Hund köfft.
+She did it carefully.	Se deed dat vörsichtig.
+She found him a seat.	Se hett en Platz för em funnen.
+She has forgiven him.	Se hett em vergeven.
+She has ten children.	Se hett teihn Kinner.
+She heard him scream.	Se hett em schreen höört.
+She ironed her shirt.	Se deed ehr Shirt plätten.
+She is a quiet woman.	Se is en stille Froo.
+She knelt beside him.	Se deed blangen em kneen.
+She missed him a lot.	Se hett em dull misst.
+She plays the guitar.	Se speelt Gitarr.
+She sold him her car.	Se hett em ehr Auto verköfft.
+She told him her age.	Se hett em ehr Öller verraden.
+She wants to hug him.	Se will em drücken.
+She was well-dressed.	Se weer good antagen.
+She watched him swim.	Se keek em bi ’t Swemmen to.
+She's my best friend.	Se is mien beste Fründin.
+She's older than him.	Se is öller as he.
+She's scared of dogs.	Se is bang vör Hunnen.
+Someone stole my bag.	Een hett mien Tasch stahlen.
+That bicycle is mine.	Dat Fohrrad höört mi to.
+The dog looks hungry.	De Hund sütt hungerig ut.
+The house is haunted.	Dat spöökt in dat Huus.
+The house is haunted.	In ’t Huus spöökt dat.
+The red house is new.	Dat rode Huus is nee.
+The ship ran aground.	Dat Schipp lööp op Grund.
+The shower is broken.	De Duusch is kaputt.
+These aren't my keys.	Dat sünd nich miene Slötels.
+They want to kill me.	Se wüllt mi ümbringen.
+They went to the zoo.	Se sünd na ’n Zoo gahn.
+They're in aisle two.	De sünd in Gang Nummer twee.
+This clock is broken.	Disse Klock is kaputt.
+This gift is for you.	Dat is en Geschenk för di.
+This is all I can do.	Dat is allens, wat ik maken kann.
+Those houses are big.	De Hüüs sünd groot.
+Today is my birthday.	Vondaag is mien Geboortsdag.
+We have two children.	Wi hebbt twee Kinner.
+We've run out of tea.	Wi hebbt keen Tee mehr.
+What a big boy he is!	Wat en groten Jung he is!
+What day is it today?	Wat för ’n Dag hebbt wi vondaag?
+Where are the plates?	Woneem sünd de Tellers?
+Where's the restroom?	Woneem is de Toilett?
+Where's your brother?	Woneem is dien Broder?
+Who are those people?	Wat sünd dat för Lüüd?
+Who planted the tree?	’Keen hett den Boom plant?
+Who's coming with me?	’Keen kummt mit mi?
+Why is she so silent?	Worüm is se so still?
+You can come with me.	Du kannst mitkamen.
+You can't prove that.	Du kannst dat nich bewiesen.
+You're such an idiot!	Du büst so en Dummbüdel!
+Are you being serious?	Meenst du dat eernst?
+Be kind to old people.	Wees nett to ole Lüüd.
+Can I eat this orange?	Dröff ik disse Appelsien eten?
+Cats don't like water.	Katten möögt keen Water.
+Did you buy this book?	Hest du dit Book köfft?
+Did you like the meal?	Hest du dat Eten mücht?
+Do you believe in God?	Glöövst du an Godd?
+Do you have a website?	Hest du en Websteed?
+Do you know this song?	Kennst du dit Leed?
+Does anybody know him?	Kennt em een?
+Does he speak English?	Snackt he Engelsch?
+Does she like oranges?	Mag se Appelsienen?
+He admired my new car.	He deed mien nee Auto bewunnern.
+He has just come back.	He is jüst trüggkamen.
+He is always prepared.	He is jümmer praat.
+He says he won't come.	He seggt, dat he nich kummt.
+He speaks really well.	He snackt würklich good.
+His dad calls him Tom.	Sien Vader nöömt em „Tom“.
+How deep is Lake Biwa?	Wo deep is de Biwa-See?
+How high can you jump?	Wo hoog kannst du springen?
+I am not coming today.	Ik kaam vondaag nich.
+I call her very often.	Ik roop ehr temlich faken an.
+I can't drink alcohol.	Ik kann keen Alkohool drinken.
+I can't stand cowards.	Ik kann Bangbüxen nich utstahn.
+I can't wait any more.	Ik kann nich mehr töven.
+I didn't see anything.	Ik heff nix sehn.
+I don't care for eggs.	Ik mag Eier nich geern.
+I don't care for eggs.	Ik mag keen Eier.
+I don't drink alcohol.	Ik drink keen Alkohol.
+I don't have time now.	Ik heff nu keen Tied.
+I don't know his name.	Ik kenn sien Naam nich.
+I explained it to him.	Ik heff em dat utdüüdt.
+I have a large family.	Ik heff en grote Familie.
+I have a lot of books.	Ik heff en Barg Böker.
+I have a tourist visa.	Ik heff en Turistenvisum.
+I have an old bicycle.	Ik heff en oold Fohrrad.
+I have kidney trouble.	Ik heff dat mit de Neren.
+I have nothing to say.	Ik heff nix to seggen.
+I hid under the table.	Ik heff mi ünner ’n Disch versteken.
+I hope you'll like it.	Ik hööp, dat gefallt jo.
+I hope you'll like it.	Ik hööp, dat gefallt di.
+I know where you live.	Ik weet, woneem du wahnst.
+I learned it from you.	Ik heff dat von di lehrt.
+I like milk and bread.	Ik mag Melk un Brood.
+I like that it's soft.	Ik mag, dat dat so week is.
+I like to play soccer.	Ik speel geern Football.
+I must have dreamt it.	Ik mutt dat dröömt hebben.
+I need to get a stamp.	Ik bruuk en Breevmark.
+I rarely catch a cold.	Ik krieg kuum en Snööv.
+I seldom speak to him.	Ik snack kuum mit em.
+I used my imagination.	Ik heff miene Fantasie bruukt.
+I want to eat a mango.	Ik will en Mango eten.
+I work at the embassy.	Ik arbeid bi de Baadschop.
+I'll make some coffee.	Ik maak en beten Kaffe.
+I'm going to the bank.	Ik gah na de Bank.
+I'm going to the park.	Ik gah in ’n Park.
+I'm looking for a job.	Ik söök na en Arbeidssteed.
+I'm not afraid at all.	Ik bün gornich bang.
+I've made a discovery.	Ik heff wat opdeckt.
+Is it really all over?	Is dat worraftig allens vörbi?
+It was cold yesterday.	Güstern weer dat koold.
+It was cold yesterday.	Dat weer güstern koold.
+It's starting to rain.	Dat warrt regen.
+Let the children play.	Laat de Kinner spelen.
+Let's escape together.	Laat uns tohoop utkniepen.
+Let's start with beer.	Laat uns mit Beer anfangen.
+Lie on your left side.	Legg di op de linke Sied.
+May I leave a message?	Kann ik en Naricht dorlaten?
+Money rules the world.	Geld regeert de Welt.
+My cat died yesterday.	Mien Katt is güstern doodbleven.
+My underpants are wet.	Miene Ünnerbüx is natt.
+None of us is perfect.	Nüms von uns is perfekt.
+Our team won the game.	Uns Team hett den Weddstried wunnen.
+She beat him to death.	Se hett em doodslahn.
+She can sew very well.	Se kann temlich good neihn.
+She handed him a book.	Se hett em en Book geven.
+She has a pretty doll.	Se hett en smucke Popp.
+She has lost all hope.	Se hett all Höpen opgeven.
+She is afraid of cats.	Se is bang vör Katten.
+She is afraid of dogs.	Se is bang vör Hunnen.
+She is engaged to him.	Se is mit em verlöövt.
+She never wears green.	Se driggt nie gröön.
+She played basketball.	Se speel Basketball.
+She speaks Portuguese.	Se snackt Portugeesch.
+She wants to kiss him.	Se will em küssen.
+She watched him dance.	Se keek em bi ’t Dansen to.
+She's taller than him.	Se is grötter as he.
+Something's not right.	Dor stimmt wat nich.
+Tell me what you want.	Vertell mi, wat du wullt.
+Tell me when to begin.	Segg mi, wenn ik anfangen schall.
+The Amazon is a river.	De Amazonas is en Stroom.
+The Milky Way is huge.	De Melkstraat is gewaltig groot.
+The birds were hungry.	De Vagels weren hungerig.
+The box was too heavy.	De Kist weer to swoor.
+The boy bought a book.	De Jung hett en Book köfft.
+The boy has come home.	De Jung is na Huus kamen.
+The cat ate the mouse.	De Katt hett de Muus freten.
+The heart is a muscle.	Dat Hart is en Muskel.
+The hunter shot a fox.	De Jäger hett en Voss schaten.
+The ice is very thick.	Dat Ies is düchtig dick.
+The mountain is green.	De Barg is gröön.
+The radio is too loud.	Dat Radio is to luud.
+The soup is too salty.	De Supp is to solt.
+The thief ran quickly.	De Deev lööp gau.
+The world has changed.	De Welt hett sik ännert.
+There's no sugar here.	Dor is keen Sucker.
+This makes me curious.	Dat maakt mi neeschierig.
+This pear smells nice.	De Beer rückt good.
+Time is getting short.	De Tied warrt knapp.
+Tom is bigger than me.	Tom is grötter as ik.
+Tom is taller than me.	Tom is grötter as ik.
+Tom ruined my weekend.	Tom hett mien Wekenenn rugeneert.
+Tom scrubbed his feet.	Tom deed sien Fööt schrubben.
+War broke out in 1941.	De Krieg füng 1941 an.
+We are disturbing him.	Wi stöört em.
+We had a little water.	Wi harrn en beten Water.
+We lost a lot of time.	Wi hebbt veel Tied verloren.
+We lost a lot of time.	Ei hebbt veel Tied verloren.
+We're afraid of death.	Wi sünd bang vör ’n Dood.
+What are you studying?	Wat studeerst du?
+What did you do today?	Wat hest du vondaag maakt?
+What you say is right.	Wat du seggst is wohr.
+What's my room number?	Wat is mien Kamernummer?
+What's your full name?	Wat is dien vullen Naam?
+Where are you heading?	Wo geihst du hen?
+Where is your brother?	Woneem is dien Broder?
+Who will come with me?	’Keen kummt mit mi?
+Who wrote these poems?	’Keen hett disse Riemels schreven?
+Who wrote this letter?	’Keen hett dissen Breev schreven?
+Why did you come here?	Worüm büst du hier herkamen?
+Why has this happened?	Worüm is dat passeert?
+You need to follow me.	Du musst mit mi kamen.
+You recovered quickly.	Du hest di gau verhaalt.
+You've made a mistake.	Du hest en Fehler maakt.
+A mosquito just bit me.	En Moskito hett mi jüst staken.
+A wolf cannot be tamed.	En Wulv kann nich tähmt warrn.
+All roads lead to Rome.	All Weeg föhrt na Room.
+Are they looking at us?	Kiekt se na uns?
+Are you feeling lonely?	Föhlst du di eensaam?
+Better late than never.	Lever laat as nie!
+Could I use your phone?	Dröff ik dien Telefoon bruken?
+Did you enjoy the film?	Hett di de Film gefallen?
+Did you like the movie?	Hett di de Film gefallen?
+Do you have a computer?	Hest du en Computer?
+Do you have a question?	Hest du en Fraag?
+Do you know her father?	Kennst du ehren Vader?
+Do you need much money?	Bruukst du veel Geld?
+Does Tom like tomatoes?	Mag Tom Tomaten?
+Does he live near here?	Wahnt he in de Neegd?
+Does your stomach hurt?	Hest du Buukwehdaag?
+Everyone has his price.	Elkeen hett sien Pries.
+Give me a little money.	Geev mi en beten Geld.
+He arrived at midnight.	He is üm Middernacht ankamen.
+He can drive a car now.	He kann nu Auto föhren.
+He did nothing but cry.	He ween man bloot.
+He didn't say anything.	He seed nix.
+He had dark brown hair.	He harr düüsterbruun Hoor.
+He is a good violinist.	He is en goden Vigelienspeler.
+He is far from perfect.	He is ganz un gornich perfekt.
+He left Africa forever.	He is op alltied ut Afrika weggahn.
+He pretends to be deaf.	He stellt sik doov.
+He sang some old songs.	He süng en poor ole Leder.
+He speaks English well.	He snackt good Engelsch.
+He's a baseball player.	He is Baseballspeler.
+He's not a good person.	He is keen goden Minsch.
+He's stronger than you.	He is stärker as du.
+Here's my phone number.	Hier is mien Telefoonnummer.
+How high is that tower?	Wo hoog is disse Toorn?
+I always keep promises.	Ik holl Verspreken jümmer.
+I am eating a cucumber.	Ik eet en Gurk.
+I bought her a new car.	Ik heff ehr en neet Auto köfft.
+I can't understand you.	Ik kann di nich verstahn.
+I didn't buy that book.	Ik heff dat Book nich köfft.
+I don't have any money.	Ik heff keen Geld.
+I don't like your name.	Ik mag dien Naam nich.
+I don't speak Japanese.	Ik snack keen Japaansch.
+I don't understand you.	Ik verstah di nich.
+I have a cat and a dog.	Ik heff en Katt un en Hund.
+I have about 5,000 yen.	Ik heff üm un bi 5.000 Yen.
+I met an elderly woman.	Ik heff en öllere Froo drapen.
+I prefer coffee to tea.	Ik mag Kaffe lever as Tee.
+I prefer mineral water.	Ik mag lever Selter.
+I prefer tea to coffee.	Ik mag Tee lever as Kaffe.
+I received your letter.	Ik heff dien Breev kregen.
+I saw Liz this morning.	Ik heff Liz vonmorgen sehn.
+I sell clothing online.	Ik verkööp online Klamotten.
+I think I broke my leg.	Ik glööv, ik heff mi mien Been braken.
+I threw up three times.	Ik heff dree Maal braken.
+I want a chamomile tea.	Ik will en Kamellentee.
+I want to study abroad.	Ik will in ’t Butenland studeren.
+I was used to the heat.	Ik weer de Hitt wennt.
+I will not do it again.	Ik will ’t nich wedder doon.
+I wrote a song for you.	Ik heff en Leed för di schreven.
+I'll show you the city.	Ik will di de Stad wiesen.
+I'll tell you a secret.	Ik will di en Geheemnis verraden.
+I'm a little bit tired.	Ik bün en beten mööd.
+I'm at the airport now.	Ik bün opstunns op ’n Flegerhaven.
+I'm too tired to drive.	Ik bün to mööd to ’n Föhren.
+Is that a bus or a car?	Is dat en Bus oder en Auto?
+Is your mother at home?	Is dien Moder tohuus?
+It's pretty cold today.	Vondaag is dat temlich koold.
+Mary oiled her bicycle.	Mary hett ehr Fohrrad öölt.
+My brother is an idiot.	Mien Broder is en Idioot.
+My dream has come true.	Mien Droom is wohr worrn.
+My heart began to race.	Mien Hart füng an to puchen.
+My house is like yours.	Mien Huus is as dien.
+My husband is a doctor.	Mien Mann is Dokter.
+My son has a toothache.	Mien Söhn hett Tähnwehdaag.
+My spoon is very large.	Mien Löpel is bannig groot.
+My stomach is growling.	Mien Maag grummelt.
+My uncle drives a Ford.	Mien Unkel föhrt en Ford.
+My wife died of cancer.	Mien Froo is an Kreevt storven.
+School is over at 3:30.	De School is halvig veer ut.
+She always wears black.	Se driggt jümmer swart.
+She gave him a massage.	Se geev em en Massaasch.
+She gave him a present.	Se geev em en Geschenk.
+She gave him some food.	Se geev em en beten Eten.
+She is cooking for him.	Se kaakt för em.
+She kissed me, not him.	Se hett mi küsst, nich em.
+She knit him a sweater.	Se deed em en Pullover knütten.
+She likes birdwatching.	Se mag geern Vagels kieken.
+She likes short skirts.	Se mag korte Röck.
+She sent him a message.	Se hett em en Naricht tostüürt.
+She stood close to him.	Se stünn dicht bi em.
+She tore up the letter.	Se hett den Breev tweireten.
+She's always grumbling.	Se is jümmer an ’t Rümgrummeln.
+She's rolling in money.	Se swemmt in Geld.
+She's smarter than him.	Se is klöker as he.
+She's younger than him.	Se is jünger as he.
+Show me another camera.	Wies mi noch en annere Kamera.
+Tears came to her eyes.	Tranen schöten ehr in de Ogen.
+That's not true at all.	Dat is ganz un gor nich wohr.
+The flowers smell good.	De Blomen ruukt good.
+The hole is big enough.	Dat Lock is groot noog.
+The hole is big enough.	De Kuhl is groot noog.
+The hole is big enough.	Dat Gatt is groot noog.
+The knife is not sharp.	Dat Mest is nich scharp.
+The marsh is knee-deep.	De Sump is kneedeep.
+The situation worsened.	De Laag deed slechter warrn.
+The street is slippery.	De Straat is slibberig.
+The tea is boiling hot.	De Tee is kakendig heet.
+They eat a lot of rice.	Se eet veel Ries.
+This apple is very red.	Disse Appel is önnig rood.
+This apple tastes sour.	Disse Appel smeckt suur.
+This coat is too small.	Disse Mantel is to lütt.
+This is our friend Tom.	Dit is uns Fründ Tom.
+This table is wobbling.	Disse Disch kippelt.
+This tea is too bitter.	Disse Tee is to bitter.
+Time cannot be stopped.	Tied kann nich anhollen warrn.
+Tom isn't a lazy child.	Tom is keen looi Kind.
+Tom's looking for work.	Tom söcht na Arbeid.
+Tulips will bloom soon.	De Tulpen blöht bald.
+Water freezes at 0° C.	Water freert bi 0 °C.
+We are learning Arabic.	Wi lehrt Araabsch.
+We got lost in the fog.	Wi hebbt uns in ’n Daak verbiestert.
+We saw them last night.	Wi hebbt jem vergangen Nacht sehn.
+We used up the shampoo.	Wi hebbt dat Shampoo opbruukt.
+What do you mean by it?	Wat meenst du dor mit?
+What made her so angry?	Wat hett ehr so füünsch maakt?
+When do you need it by?	Wannehr bruukst du dat?
+Which way is the beach?	Woneem geiht dat langs na ’n Strand?
+Who did you speak with?	Mit ’keen hest du snackt?
+Who told you the story?	’Keen hett di de Geschicht vertellt?
+Why do you need change?	Worüm bruukst du Lüttgeld?
+You need to be patient.	Du musst gedüllig wesen.
+You'd better not do it.	Ji schullen dat beter nich maken.
+You'd better not do it.	Du schullst dat beter nich maken.
+You'd better not speak.	Du seggst beter nix.
+All the lights went out.	All Lichten sünd utgahn.
+Atoms are in everything.	Atooms sünd överall in.
+Can I talk to my doctor?	Kann ik mien Dokter spreken?
+Children are a blessing.	Kinner sünd en Segen.
+Could I use your pencil?	Kann ik dien Bleesticken bruken?
+Did you enjoy the movie?	Hett di de Film gefallen?
+Did you write this book?	Hest du dit Book schreven?
+Do you have any sisters?	Hest du Süstern?
+Do you have enough time?	Hest du noog Tied?
+Do you know his brother?	Kennst du sien Broder?
+Do you like to be alone?	Büst du geern alleen?
+Don't forget the ticket.	Vergeet de Fohrkoort nich.
+Don't touch the flowers.	Lang de Blomen nich an.
+Have you chosen a topic?	Hest du en Thema utsöcht?
+He can't know the truth.	He kann de Wohrheit nich weten.
+He doesn't like oranges.	He mag kene Appelsienen.
+He doesn't like oranges.	He mag keen Appelsienen.
+He doesn't look his age.	Man sütt em sien Öller nich an.
+He has a test next week.	He hett toern Week en Test.
+He is putting on weight.	He nimmt to.
+He was interested in me.	He harr Intress an mi.
+He wrote to his parents.	He hett sien Öllern schreven.
+How do you know my name?	Wo kennst du mien Naam von?
+How often do you shower?	Wo faken duuschst du?
+How old is the universe?	Wo oold is dat Universum?
+How's the weather there?	Wat is dor för ’n Weder?
+I always walk to school.	Ik gah jümmer to Foot na School.
+I can't live without TV.	Ik kann ahn Feernsehn nich leven.
+I don't drink much wine.	Ik drink nich veel Wien.
+I don't know what it is.	Ik weet nich, wat dat is.
+I feel like throwing up.	Ik föhl mi, as wenn ik kalvern mutt.
+I feel like throwing up.	Ik föhl mi, as wen ik breken mutt.
+I felt my hands tremble.	Ik heff mien Hannen beven föhlt.
+I had to work on Sunday.	Ik müss an ’n Sünndag arbeiden.
+I have lost my umbrella.	Ik heff mien Regenscherm verloren.
+I have no time tomorrow.	Ik heff morgen keen Tied.
+I hope to see you again.	Ik hööp, dat ik di wedderseh.
+I like playing football.	Ik speel geern Football.
+I like the way you walk.	Ik mag de Oord, woans du löppst.
+I like to play football.	Ik speel geern Football.
+I missed the 7:00 train.	Ik heff den Klock-7-Tog verpasst.
+I no longer have a home.	Ik heff keen Tohuus mehr.
+I play volleyball often.	Ik speel faken Volleyball.
+I remember what he said.	Ik weet noch, wat he seggt hett.
+I swim almost every day.	Ik swemm meist elk Dag.
+I want to buy ski boots.	Ik will Skisteveln köpen.
+I wanted to read a book.	Ik wull en Book lesen.
+I was born 20 years ago.	Ik bün vör twintig Johr boren.
+I'd like three of these.	Ik harr geern dree von disse.
+I'm in a bad mood today.	Ik bün vondaag slecht toweeg.
+I'm just looking around.	Ik kiek mi bloot üm.
+I'm not home on Sundays.	Ik bün sünndaags nich tohuus.
+Is her father a teacher?	Is ehr Vader Schoolmeester?
+May I take your picture?	Dröff ik en Bild von di maken?
+May I use the telephone?	Dröff ik dat Telefoon bruken?
+My brother plays guitar.	Mien Broder speelt Gitarr.
+My son is ten years old.	Mien Söhn is teihn Johr oold.
+My wife is a vegetarian.	Mien Froo is Vegetarier.
+Not every day is Sunday.	Is nich jeden Dag Sünndag.
+Paper is made from wood.	Poppeer warrt von Holt maakt.
+School starts April 8th.	De School fangt an ’n 8. April an.
+She bought a dozen eggs.	Se hett een Dutz Eier köfft.
+She bought him a camera.	Se hett em en Kamera köfft.
+She bought him a ticket.	Se hett em en Ticket köfft.
+She does not like sushi.	Se mag keen Sushi.
+She doesn't like soccer.	Se mag keen Football.
+She forgot to write him.	Se hett vergeten, em to schrieven.
+She gave birth to twins.	Se hett Tweeschen kregen.
+She is eighteen at most.	Se is nich öller as achtteihn.
+She is listening to him.	Se höört em to.
+She knows many proverbs.	Se kennt veel Seggwöör.
+She made a bet with him.	Se hett mit em weddt.
+She sent him a postcard.	Se deed em en Postkoort tostüren.
+She took him to the zoo.	Se hett em in ’n Zoo mitnahmen.
+She understands you now.	Se versteiht di nu.
+She's not a good person.	Se is keen gode Person.
+Show me another example.	Wies mi noch en Bispeel.
+Stop making such a fuss!	Stell di nich so an!
+The boy is eating bread.	De Jung itt Brood.
+The broken doll is mine.	De tweie Popp höört mi to.
+The dog is in the house.	De Hund is in ’t Huus.
+The hawk caught a mouse.	De Haavk hett en Muus fungen.
+The hotel is down there.	Dat Hotel is dor neddern.
+The letter was finished.	De Breev weer trech.
+The night's still young.	De Nacht is noch jung.
+The pain was unbearable.	De Wehdaag weer nich uttohollen.
+The shower doesn't work.	De Duusch is kaputt.
+The supermarket is open.	De Supermarkt is apen.
+There comes our teacher.	Dor kummt uns Lehrer.
+There is a fork missing.	Dor fehlt en Gavel.
+There's something wrong.	Dor stimmt wat nich.
+These apples taste good.	Disse Appels smeckt good.
+They have a large house.	Se hebbt en groot Huus.
+This is a good textbook.	Dit is en good Lehrbook.
+This smells like cheese.	Dat rückt na Kees.
+Tom knows Mary's father.	Tom kennt Mary ehr Vader.
+Watch what you're doing!	Pass op, wat du deist!
+Watch what you're doing!	Passt op, wat ji doot!
+We have a dog and a cat.	Wi hebbt en Hund un en Katt.
+We wasted a lot of time.	Wi hebbt en Barg Tied verschenkt.
+We're having a barbecue.	Wi grillt jüst.
+We're not in the jungle.	Wi sünd nich in ’n Dschungel.
+Were you born in a barn?	Büst du in en Schüün boren worrn?
+What a beautiful sunset!	Wat en smucken Sünnünnergang!
+What are you doing here?	Wat deist du hier?
+What do you like to eat?	Wat ittst du geern?
+What makes you say that?	Worüm seggst du dat?
+What're you looking for?	Wat söchst du?
+Which are the best ones?	Wat för welk sünd de besten?
+Who lives in that house?	’Keen leevt in dat Huus?
+Would you like to dance?	Wullt du geern dansen?
+You have very sexy legs.	Du hest temlich sexy Been.
+You need a lot of water.	Du bruukst veel Water.
+You were late yesterday.	Du weerst güstern to laat.
+You're everything to me.	Du büst allens för mi.
+All these books are mine.	All disse Böker sünd mien.
+Are my socks dry already?	Sünd mien Söcken al dröög?
+Ask your dad to help you.	Fraag dien Vader üm Hülp.
+Birds often fly together.	Vagels fleegt faken tohoop.
+Can I ask you a question?	Kann ik di wat fragen?
+Cats can see in the dark.	Katten köönt in ’n Düüstern sehn.
+China is a large country.	China is en groot Land.
+Choose between these two.	Wähl een von de beiden ut.
+Could you say that again?	Kannst du dat nochmaal seggen?
+Curiosity killed the cat.	Neeschierigkeid hett de Katt ümbröcht.
+Do you believe in ghosts?	Glöövst du an Spökels?
+Do you have enough money?	Hest du noog Geld?
+Do you like strawberries?	Magst du geern Eerdbeern?
+Don't tell me what to do.	Segg mi nich, wat ik doon schall.
+Gold's heavier than iron.	Gold is sworer as Iesen.
+He ate bread with butter.	He hett Botterbrood eten.
+He doesn't have any pets.	He hett keen Huusdeerten.
+He has written two books.	He hett twee Böker schreven.
+He is a man of few words.	He maakt nich veel Wöör.
+He is opening the window.	He maakt dat Finster op.
+He likes taking pictures.	He maakt geern Fotos.
+He looks old for his age.	He sütt oold ut för sien Öller.
+He might change his mind.	Villicht ännert he sien Verscheel.
+He opened his mouth wide.	He deed sien Mund wied apen.
+He showed me his new car.	He hett mi sien neet Auto wiest.
+He spends too much money.	He gifft toveel Geld ut.
+He tried to kill himself.	He versöch sik sülvs ümtobringen.
+He works as a translator.	He arbeidt as Översetter.
+He's always dissatisfied.	He is jümmer untofreden.
+He's been to the stadium.	He is na ’t Stadion wesen.
+He's gone to the stadium.	He is na ’t Stadion gahn.
+How dare you laugh at me!	Wo kannst du dat wagen, över mi to lachen?
+How does this soup taste?	Wo smeckt disse Supp?
+How much time has passed?	Woveel Tied is vergahn?
+How often do you see her?	Wo faken süst du ehr?
+How well do you know Tom?	Wo good kennst du Tom?
+I almost dropped a plate.	Ik heff binah en Teller dalsmeten.
+I am able to drive a car.	Ik kann Auto föhren.
+I arrived here yesterday.	Ik bün hier güstern ankamen.
+I bought a pair of boots.	Ik heff en Poor Steveln köfft.
+I bought a pair of shoes.	Ik heff en Poor Schoh köfft.
+I can't give up my dream.	Ik kann mien Droom nich opgeven.
+I can't live without you.	Ik kann nich ahn di leven.
+I can't thank you enough.	Ik kann di nich noog danken.
+I don't know what to say.	Ik weet nich, wat ik seggen schall.
+I don't mind if it's hot.	Dat maakt mi nix ut, wenn dat hitt is.
+I don't want to eat here.	Ik will hier nich eten.
+I don't want to hurt her.	Ik will ehr nich wehdoon.
+I failed to persuade her.	Ik kunn ehr nich övertügen.
+I have a pair of mittens.	Ik heff en Poor Fuusthanschen.
+I have to go to the bank.	Ik mutt na de Bank gahn.
+I heard someone shouting.	Ik heff een grölen höört.
+I hope he'll wait for me.	Ik hööp, dat he op mi wacht.
+I make 100 euros per day.	Ik verdeen hunnerd Euro an ’n Dag.
+I met your dad yesterday.	Ik heff güstern dien Vader drapen.
+I remember what you said.	Ik weet noch, wat du seggt hest.
+I want to be an engineer.	Ik will en Inschenör wesen.
+I want to go to the city.	Ik will na de Stad gahn.
+I was hungry and thirsty.	Ik weer hungerig un döstig.
+I was in Tokyo yesterday.	Güstern weer ik in Tokyo.
+I will not eat ice cream.	Ik schall keen Ieskreem eten.
+I wish I was young again.	Ik wull ik weer noch wedder jung.
+I've been to Paris twice.	Ik bün twee Maal in Paris wesen.
+I've spent all the money.	Ik heff allens Geld utgeven.
+I've told you everything.	Ik heff di allens vertellt.
+In a word, life is short.	Kort seggt: Dat Leven is kort.
+Is this fish still alive?	Leevt disse Fisch noch?
+It's still light outside.	Buten is dat noch hell.
+It's still light outside.	Dat is noch hell buten.
+Latin is a dead language.	Latien is en dode Spraak.
+Lincoln was a Republican.	Lincoln weer Republikaner.
+My cat killed a squirrel.	Mien Katt hett en Katteker doodmaakt.
+My parents are both dead.	Miene Öllern sünd all beid dood.
+Put the gun on the table.	Legg dat Gewehr op ’n Disch.
+Shall I come next Sunday?	Schall ik tokamen Sünndag kamen?
+She fell down the ladder.	Se füll de Ledder dal.
+She had a strange hat on.	Se dreeg en snaakschen Hoot.
+She handed him the money.	Se hett em dat Geld geven.
+She is not afraid to die.	Se is nich bang vör ’n Dood.
+She kept her eyes closed.	Se höll ehr Ogen slaten.
+She met him on the beach.	Se hett em an ’n Strand drapen.
+She met him this morning.	Se hett em vonmorgen drapen.
+She sang better than him.	Se süng beter as he.
+She took him to the lake.	Se hett em an ’n See mitnahmen.
+She wanted to understand.	Se wull dat verstahn.
+Tears ran down my cheeks.	Tranen löpen över mien Backen.
+That club is way too big.	De Knüppel is veel to groot.
+That was his catchphrase.	Dat weer so sien Snack.
+That's my favorite chair.	Dat is mien leevsten Stohl.
+The baby has a cute face.	Dat Baby hett en nüüdlich Gesicht.
+The boy can count to ten.	De Jung kann bet teihn tellen.
+The boys have gone north.	De Jungs sünd na Noorden gahn.
+The cat is in its basket.	De Katt is in ehr Korv.
+The cat was on the table.	De Katt weer op ’n Disch.
+The house has burnt down.	Dat Huus is afbrennt.
+The milk has a bad taste.	De Melk smeckt slecht.
+There is a knife missing.	Dor fehlt en Mest.
+These things aren't mine!	Dat sünd nich miene Saken!
+They are afraid of death.	Se sünd bang vör ’n Dood.
+They don't even know why.	Se weet nich maal worüm.
+They're going to kill me.	Se wüllt mi ümbringen.
+This book is about stars.	Dit Book is över Steerns.
+This house is very small.	Dit Huus is temlich lütt.
+This is as heavy as lead.	Dit is swoor as Blee.
+This is my email address.	Dat is mien E-Mail-Adress.
+This orange is delicious.	Disse Appelsien smeckt lecker.
+Tom does not like cheese.	Tom mag keen Kees.
+Tom scrubbed the bathtub.	Tom deed de Baadwann schrubben.
+Twelve is an even number.	Twölv is en lieke Tall.
+We all enjoyed the movie.	Uns hett de Film all gefullen.
+We almost froze to death.	Wi sünd meist doodfroren.
+We ordered too much food.	Wi hebbt toveel Eten bestellt.
+We raced toward the fire.	Wi löpen na dat Füür hen.
+We've got plenty of time.	Wi hebbt veel Tied.
+What are you doing today?	Wat maakst du vondaag?
+What are you looking for?	Wat söchst du?
+What are you pointing at?	Wo wiest du op?
+What do you think he did?	Wat meenst du, wat he maakt hett?
+What does this word mean?	Wat bedüüdt dit Woord?
+What does your father do?	Wat maakt dien Vader?
+What format should I use?	Wat för en Formaat schall ik bruken?
+What will the postage be?	Woveel Porto is dat?
+When does the shop close?	Wannehr maakt de Laden dicht?
+Where are you living now?	Woneem leevst du nu?
+You are our new neighbor.	Du büst uns nee Naver.
+You must clean your room.	Du musst dien Kamer oprümen.
+Add 5 to 3 and you have 8.	Tell 5 un 3 tohoop un du hest 8.
+Air is lighter than water.	Luft is lichter as Water.
+Are you still in Scotland?	Büst du jümmer noch in Schottland?
+Can I use your dictionary?	Kann ik dien Wöörbook bruken?
+Can you speak more slowly?	Kannst du en beten langsamer snacken?
+Cats hate vacuum cleaners.	Katten köönt Stoffsugers nich af.
+Divide the pizza in three.	Deel de Pizza in dree Delen.
+Do you have a credit card?	Hest du en Kreditkoort?
+Do you have any questions?	Hebbt ji Fragen?
+Do you have two computers?	Hest du twee Reekners?
+Do you like San Francisco?	Gefallt di San Francisco?
+Do you like San Francisco?	Gefallt jo San Francisco?
+Do you like tea or coffee?	Wullt du Tee oder Kaffe?
+Falcons are birds of prey.	Falken sünd Griepvagels.
+Gold is heavier than iron.	Gold is sworer as Iesen.
+Grandma likes watching TV.	Oma kickt geern Feernsehn.
+Have you ever been abroad?	Sünd ji al maal in ’t Utland wesen?
+He came back at 5 o'clock.	He keem Klock fiev trügg.
+He did what they told him.	He deed, wat se em seggt hebbt.
+He emigrated to Australia.	He is na Australien utwannert.
+He had his hair cut short.	He hett sik de Hoor kort snieden laten.
+He is old enough to drive.	He is oold noog to föhren.
+He is still having doubts.	He twievelt noch jümmer.
+He lives outside the city.	He leevt buten de Stad.
+He must be from the South.	He mutt ut ’n Süden wesen.
+He narrowly escaped death.	He is knapp ’n Dood utraakt.
+He put milk in his coffee.	He deed Melk in sien Kaffe.
+He rang me up at midnight.	He hett mi üm Middernacht anropen.
+He sent me a brief letter.	He hett mi en korten Breev tostüürt.
+He was lying on the grass.	He deed in ’t Gras liggen.
+He was too tired to study.	He weer to mööd to ’n Lehren.
+He wrote me a long letter.	He hett mi en langen Breev schreven.
+How many bags do you have?	Woveel Büdels hest du?
+How often do you eat fish?	Wo faken ittst du Fisch?
+How old are your children?	Wo oold sünd joon Kinner?
+I am very glad to see you.	Ik frei mi dull, di to sehn.
+I called him up yesterday.	Güstern heff ik em anropen.
+I can reach the top shelf.	Ik kann an dat böverste Boord recken.
+I can't explain it either.	Ik kann dat ook nich verkloren.
+I can't live without a TV.	Ik kann ahn Feernsehn nich leven.
+I can't remember his name.	Ik weet sien Naam nich mehr.
+I couldn't find his house.	Ik kunn sien Huus nich finnen.
+I didn't know where to go.	Ik wüss nich woneem ik hengahn schull.
+I don't have enough money.	Ik heff nich noog Geld.
+I don't know what that is.	Ik weet nich, wat dat is.
+I don't need anything now.	Ik bruuk nu nix.
+I forgot my email address.	Ik heff mien E-Mail-Adress vergeten.
+I have no hair on my head.	Ik heff keen Hoor op ’n Kopp.
+I ironed the handkerchief.	Ik heff dat Snuuvdook plätt.
+I need someone to talk to.	Ik bruuk een, mit den ik snacken kann.
+I saw him enter the house.	Ik heff em in ’t Huus gahn sehn.
+I sometimes dream of home.	Af un to drööm ik von tohuus.
+I speak English every day.	Ik snack elk Dag Engelsch.
+I speak English every day.	Ik snack jeden Dag engelsch.
+I think she's been crying.	Mi dücht, se hett weent.
+I want to eat Korean food.	Ik will Koreaansch eten.
+I wish I had this problem.	Ik wull ik harr dit Probleem.
+I'd like to have a coffee.	Ik harr geern en Kaffe.
+I'll lend you my notebook.	Ik lehn di mien Notizbook.
+I'm glad that you'll come.	Ik frei mi, dat du kamen wullt.
+I'm looking for a sweater.	Ik söök en Pullover.
+I'm testing my new camera.	Ik probeer mien ne’e Kamera ut.
+I'm waiting for my friend.	Ik tööv op mien Fründ.
+I've lost a little weight.	Ik heff en beten Wicht verloren.
+Is it still far from here?	Is dat noch wied von hier?
+Is there a telephone here?	Gifft dat hier en Telefoon?
+It's a quaint old village.	Dat is en smuck oold Dörp.
+It's already dark outside.	Dat is al düüster buten.
+It's easy to catch a cold.	Kannst licht en Snööv kriegen.
+It's for a friend of mine.	Dat is för en Fründ von mi.
+It's hard to quit smoking.	Dat is swoor, dat Smöken optogeven.
+May I ask how old you are?	Dröff ik fragen, wo oold du büst?
+My brother is a professor.	Mien Broder is en Perfesser.
+My children are at school.	Miene Kinner sünd in ’e School.
+My daughter caught a cold.	Miene Dochter hett en Snööv kregen.
+My father's in the garden.	Mien Vader is in ’n Goorn.
+My phone was out of order.	Mien Telefoon weer kaputt.
+None of the cars are mine.	Keeneen von de Autos höört mi to.
+Not all birds build nests.	Nich all Vagels boot Nesten.
+Oh no! I forgot my wallet.	Oh nee! Ik heff mien Portmanneet vergeten.
+Our fence is made of iron.	Uns Tuun is ut Iesen.
+She bought him some candy.	Se hett em en beten Snökerkraam köfft.
+She doesn't listen to him.	Se höört em nich to.
+She handed him his jacket.	Se hett em sien Jack geven.
+She has never visited him.	Se hett em nie besöcht.
+She has no one to talk to.	Se hett nüms to ’n Snacken.
+She is opening the window.	Se maakt dat Finster op.
+She looked at him angrily.	Se deed em argerlich ankieken.
+She met him for breakfast.	Se hett em to ’n Fröhstück drapen.
+She met him only recently.	Se hett em eerst nulest drapen.
+She showed him my picture.	Se hett em mien Bild wiest.
+She showed me her new car.	Se hett mi ehr neet Auto wiest.
+She tried to kill herself.	Se hett versöcht, ehr sülvs ümtobringen.
+She visited him in Boston.	Se hett em in Boston besöcht.
+That girl is good-looking.	De Deern sütt smuck ut.
+The apple is not yet ripe.	De Appel is noch nich riep.
+The baby opened his mouth.	Dat Baby deed sien Mund apen.
+The doctor gave it to her.	De Dokter hett ehr dat geven.
+The hunter caught the fox.	De Jäger hett ’n Voss fungen.
+The prisoner was released.	De Fungene is freelaten worrn.
+The rain lasted five days.	De Regen hett fiev Daag wohrt.
+The rain lasted five days.	De Regen hett fiev Daag anhollen.
+The store closes at seven.	De Laden maakt Klock söven dicht.
+The universe is limitless.	Dat Universum hett keen Enn.
+There's a rock in my shoe.	Dor is en Steen in mien Schoh.
+They each paid separately.	Se hebbt elk för sik betahlt.
+They go to work every day.	Se gaht elk Dag na Arbeid.
+They sell everything here.	Hier warrt allens verköfft.
+This CD belongs to my son.	Disse Cd höört mien Söhn to.
+This coffee is too bitter.	Disse Koffie is to bitter.
+This hat cost ten dollars.	Disse Hoot hett teihn Dollar köst.
+This is the flag of Japan.	Dat is de Fahn von Japan.
+Twenty families live here.	Twintig Familien leevt hier.
+We aren't afraid of death.	Wi sünd vör ’n Dood nich bang.
+We had a lot of furniture.	Wi harrn veel Möbels.
+We have a half-dozen eggs.	Wi hebbt en halv Dutz Eier.
+We walked around the pond.	Wi sünd üm ’n Diek rümgahn.
+What color is his sweater?	Wat för en Klöör hett sien Pullover?
+What did you do this week?	Wat hest du disse Week daan?
+What has brought you here?	Wat hett di hier her bröcht?
+What has brought you here?	Wat hett jo hier her bröcht?
+What kind of bird is this?	Wat för en Soort Vagel is dit?
+What's your favorite poem?	Wat is dien leevst Gedicht?
+What's your favorite song?	Wat is dien leevst Leed?
+What's your favorite wine?	Wat is dien leevst Wien?
+What's your favorite word?	Wat is dien leevst Woord?
+Where are the other girls?	Woneem sünd de annern Deerns?
+Where ever did you buy it?	Woneem hest du dat köfft?
+Where is your friend from?	Woneem is dien Fründ von af?
+Where were you last night?	Woneem büst du vergangen Nacht wesen?
+Which movie did you watch?	Wat för en Film hest du keken?
+Which movie did you watch?	Wat för en Film hebbt ji keken?
+Why didn't you believe me?	Worüm hest du mi nich glöövt?
+You can use my dictionary.	Du kannst mien Wöörbook bruken.
+You cannot go any farther.	Du kannst nich wiedergahn.
+You must repay your debts.	Du musst dien Schullen trüggbetahlen.
+You need to stop drinking.	Du musst ophören mit Drinken.
+You should take my advice.	Du schusst mien Raad annehmen.
+You'd better not go there.	Du schusst dor man beter nich hengahn.
+Count from 10 down to zero.	Tell von teihn dal na null.
+Did you bring a hair dryer?	Hest du en Föön mitnahmen?
+Do you come here every day?	Kummst du hier elk Dag her?
+Everyone except me knew it.	All wüssen se ’t, bloot ik nich.
+Frogs are afraid of snakes.	Poggen sünd bang vör Snaken.
+Green is my favorite color.	Gröön is miene leevste Klöör.
+He angrily closed the door.	He deed argerlich de Döör dichtmaken.
+He decided to quit smoking.	He harr sik överleggt, dat he dat Smöken opgeven wull.
+He does not live in Sendai.	He wahnt nich in Sendai.
+He drinks too much alcohol.	He drinkt toveel Alkohol.
+He is able to swim quickly.	He kann gau swemmen.
+He is in front of the door.	He steiht vör de Döör.
+He is sitting cross-legged.	He sitt mit överenannerleggt Been.
+He speaks a little English.	He snackt en beten Engelsch.
+He stood there for a while.	He stünn dor en Stoot.
+He was born in Switzerland.	He is in de Swiez boren.
+He'll become a father soon.	He warrt bald Vader.
+Her old cat is still alive.	Ehr ole Katt leevt noch jümmer.
+Here's my telephone number.	Hier is mien Telefoonnummer.
+His father was a policeman.	Sien Vader weer en Schandarm.
+How about going for a swim?	Schöölt wi swemmen gahn?
+How many books do you have?	Woveel Böker hest du?
+I am at home every evening.	Ik bün elk Avend tohuus.
+I ate three pieces of cake.	Ik heff dree Stück Koken eten.
+I forgot to call him today.	Ik heff vergeten em vondaag antoropen.
+I had a long talk with her.	Ik harr en lang Gespreek mit ehr.
+I let the cat into my room.	Ik leet de Katt in miene Kamer.
+I met a dog on my way home.	Op ’n Weg na Huus heff ik en Hund drapen.
+I must have made a mistake.	Ik mutt en Fehler maakt hebben.
+I still have so much to do.	Ik heff noch so veel to doon.
+I then began to understand.	Denn heff ik anfungen to verstahn.
+I threw down the newspaper.	Ik heff dat Daagbladd dalsmeten.
+I took part in the contest.	Ik heff bi ’n Weddstried mitmaakt.
+I understand what you mean.	Ik verstah, wat du meenst.
+I understand your language.	Ik verstah dien Spraak.
+I want to live in a castle.	Ik will in en Slott leven.
+I want to tell you a story.	Ik will di en Geschicht vertellen.
+I warned him of the danger.	Ik heff em vör de Gefohr wohrschaut.
+I was just taking a shower.	Ik heff mi jüst duuscht.
+I was talking to my family.	Ik heff mit mien Familie snackt.
+I wonder whose car this is.	Ik fraag mi, ’keen dit Auto tohöört.
+I would like to rent a car.	Ik deed geern en Auto hüren.
+I'm a stranger here myself.	Ik bün ook frömd hier.
+I'm scared of wild animals.	Ik bün bang vör wille Deerten.
+I'm taking my book with me.	Ik nehm mien Book mit.
+I've often heard about you.	Ik heff al faken von di höört.
+I've written three letters.	Ik heff dree Breev schreven.
+Iceland has many volcanoes.	Iesland hett veel Vulkaans.
+In other words, she's dumb.	Anners seggt, se is dumm.
+Is there a pharmacy nearby?	Gifft dat hier ümto en Avtheek?
+Isn't that skirt too short?	Is dat Kleed nich en beten kort?
+It hardly ever rains there.	Dat regent hier meist nie.
+Maybe she knows the answer.	Villicht weet se de Antwoord.
+My aunt has three children.	Mien Tante hett dree Kinner.
+My father stopped drinking.	Mien Vader deed ophören sik to besupen.
+My mother has two brothers.	Mien Moder hett twee Bröder.
+My mother's feeling better.	Mien Moder geiht dat beter.
+My parents are very strict.	Miene Öllern sünd temlich streng.
+No one can know everything.	Nüms kann allens weten.
+No one could find the cave.	Nüms kunn de Höhl finnen.
+One's new. The other's old.	Een is neet. De annere is oold.
+Put the coat on the hanger.	Häng den Mantel an ’n Haken.
+She bought a shirt for him.	Se hett em en Hemd köfft.
+She can both ski and skate.	Se kann Ski föhren un skaten.
+She didn't want him to die.	Se wull nich, dat he doodblifft.
+She forced him to sit down.	Se möök em sitten.
+She forgot to feed the dog.	Se hett vergeten, den Hund Foder to geven.
+She gave him a tender kiss.	Se geev em en Söten.
+She got no answer from him.	Se hett keen Antwoord von em kregen.
+She got the money from him.	Se hett dat Geld von em kregen.
+She has a dog and six cats.	Se hett en Hund un söss Katten.
+She has a good memory, too.	Se hett ook en behöllern Kopp.
+She has a rose in her hand.	Se hett en Roos in ’e Hand.
+She has no one to speak to.	Se hett nüms to ’n Snacken.
+She held him by the sleeve.	Se höll em an ’n Mau fast.
+She helped him tie his tie.	Se hett em hulpen, sien Slips to binnen.
+She is lying about her age.	Se lüggt bi ehr Öller.
+She is very fond of gossip.	Se sladdert temlich geern.
+She makes her mother happy.	Se maakt ehr Moder blied.
+She persuaded him to do it.	Se deed em övertügen, dat to doon.
+She ran away with the eggs.	Se is mit de Eier utneiht.
+She sent him a long letter.	Se hett em en langen Breev tostüürt.
+She took care of his wound.	Se deed sien Wunn versorgen.
+Soap helps remove the dirt.	Seep helpt gegen den Dreck.
+That book is worth reading.	Dit Book is dat Lesen weerd.
+That we are not able to do.	Dat köönt wi nich doon.
+That's why he lost his job.	Dorüm hett he sien Arbeid verloren.
+The alarm clock is ringing.	De Wecker klingelt.
+The baby is still sleeping.	Dat Baby slöppt noch.
+The boys have found a coin.	De Jungs hebbt en Münt funnen.
+The curtain caught on fire.	De Vörhang hett Füür fungen.
+The dogs are in the garden.	De Hunnen sünd in ’n Goorn.
+The engine would not start.	De Motoor wull nich starten.
+The food wasn't that great.	Dat Eten weer nich so dull.
+The fountain is over there.	De Born is dor achtern.
+The heat is terrible today.	De Hitt vondaag is gresig.
+The house is painted white.	Dat Huus is witt anstreken.
+The job is almost finished.	De Arbeid is al meist trech.
+The journey has just begun.	De Reis hett jüst anfungen.
+The storm blew down a tree.	De Storm hett en Boom ümsmeten.
+The wound started to bleed.	De Wunn füng dat Blöden an.
+There's a party after work.	Dat gifft na ’e Arbeid en Party.
+There's milk in the fridge.	In ’n Köhlschapp is Melk.
+This is a strange sentence.	Dit is en snaakschen Satz.
+This is also my first time.	Dat is ook mien eerst Maal.
+This shoe is a size bigger.	Disse Schoh is een Grött grötter.
+Today is a good day to die.	Vondaag is en goden Dag to ’n Starven.
+Tom likes to play baseball.	Tom speelt geern Baseball.
+We also went to the temple.	Wi sünd ook na ’n Tempel wesen.
+We have to go to sleep now.	Wi mööt nu slapen gahn.
+We were running to and fro.	Wi löpen op un dal.
+We'll have to do something.	Wi mööt wat doon.
+We're in need of some food.	Wi bruukt wat to eten.
+What browser are you using?	Wat för ’n Nettkieker bruukst du?
+What did you do last night?	Wat hest du vergangen Nacht maakt?
+What did you do last night?	Wat hest du güstern Avend maakt?
+What did you say yesterday?	Wat hest du güstern seggt?
+What would you like to eat?	Wat wullt du geern eten?
+What's in fashion in Paris?	Wat is in Paris Mood?
+What's the meaning of that?	Wat bedüüdt dat?
+What's your favorite novel?	Wat is dien leevsten Romaan?
+When did you learn to swim?	Wannehr hest du swemmen lehrt?
+Where did you go yesterday?	Woneem büst du güstern henwesen?
+Where did you learn French?	Woneem hest du Franzöösch lehrt?
+Where is the logic in that?	Wo blifft denn dor de Logik?
+Where is the train station?	Woneem is de Bahnhoff?
+Who is your favorite actor?	’Keen is dien leevsten Schauspeler?
+Why did he do such a thing?	Worüm hett he sowat daan?
+Why don't you listen to me?	Worüm höörst du mi nich to?
+Why don't you listen to me?	Worüm höörst du nich op mi?
+Yesterday, I bought a book.	Güstern heff ik en Book köfft.
+You are always complaining.	Du büst jümmer bloot an ’t Murren.
+You know it better than me.	Du weetst dat beter as ik.
+You must know that I snore.	Du musst weten, dat ik snurk.
+You must start immediately.	Du musst stracks anfangen.
+You put in too much pepper.	Du hest dor toveel Peper rindaan.
+You're not a child anymore.	Du büst keen Kind mehr.
+Young tigers resemble cats.	Junge Tigers seht ut as Katten.
+Your father is pretty tall.	Dien Vader is temlich groot.
+All of the balls are yellow.	All de Bäll sünd geel.
+Americans eat a lot of meat.	Amerikaners eet veel Fleesch.
+An elephant has a long nose.	En Elefant hett en lange Nees.
+At first, I had no idea why.	Toeerst wüss ik noch worüm.
+Bigger is not always better.	Grötter is nich jümmer beter.
+Blood is thicker than water.	Blood is dicker as Water.
+Chopin's music is beautiful.	Chopin sien Musik is wunnerschöön.
+Dad is coming home tomorrow.	Papa kummt morgen na Huus.
+Did you take a shower today?	Hest du di vondaag duuscht?
+Do we need a world language?	Bruukt wi en Weltspraak?
+Do you have enough blankets?	Hest du noog Deken?
+Do you have time to help me?	Hest du Tied mi to helpen?
+Do you like white chocolate?	Magst du witte Schokolaad?
+Fasten the rope to the tree.	Maak dat Tau an ’n Boom fast.
+France is in western Europe.	Frankriek liggt in Westeuropa.
+Give me two pieces of chalk.	Geev mi twee Stücken Kried.
+Gold is heavier than silver.	Gold is sworer as Sülver.
+He couldn't do such a thing.	He kunn sowat nich doon.
+He died from lack of oxygen.	He is ut Mangel an Suurstoff doodbleven.
+He is like a frog in a well.	He is as en Pogg in en Pütt.
+He is looking forward to it.	He freit sik dor al op.
+He pretended to be a doctor.	He deed vörgeven, dat he en Dokter is.
+He raises horses and cattle.	He tücht Peer un Rinner.
+He slipped on a banana peel.	He is op de Schell von en Banaan utglippt.
+He will come this afternoon.	He kummt vonnamiddag.
+Her dream is to visit Paris.	Ehr Droom is Paris to besöken.
+How many books does he have?	Woveel Böker hett he?
+How old is your grandfather?	Wo oold is dien Opa?
+I am leaving the books here.	Ik laat de Böker hier.
+I bought it for ten dollars.	Ik heff dat för teihn Dollar köfft.
+I broke my leg while skiing.	Bi ’t Skiföhren heff ik mi mien Been braken.
+I don't know if he knows it.	Ik weet nich, wat he dat weet.
+I have a shower every night.	Ik duusch elk Avend.
+I have been to the barber's.	Ik bün na ’n Putzbüdel wesen.
+I just remembered something.	Mi is jüst wat infullen.
+I spent hours reading books.	Ik heff Stünnen mit Böker lesen tobröcht.
+I told him about our school.	Ik heff em von uns School vertellt.
+I took over my father's job.	Ik heff mien Vader sien Arbeid övernahmen.
+I want to ask you something.	Ik will di wat fragen.
+I want to eat pizza tonight.	Ik will vonavend Pizza eten.
+I want to learn how to swim.	Ik will Swemmen lehren.
+I will do anything but this.	Ik do allens, man dat nich.
+I wrote a letter in English.	Ik heff en Breev op Engelsch schreven.
+I'll wait till four o'clock.	Ik tööv bet Klock veer.
+I'm older than your brother.	Ik bün öller as dien Broder.
+Is it going to snow tonight?	Schall dat vonavend Snee geven?
+Is there a cat on the table?	Sitt dor en Katt op ’n Disch?
+It rained heavily yesterday.	Dat hett güstern dull regent.
+It's just around the corner.	Dat is glieks achter de Eck.
+Let's sit down on the bench.	Laat uns op de Bank sitten gahn.
+Marble floors are beautiful.	Footboddens von Marmelsteen sünd wunnerschöön.
+May I have a glass of water?	Kann ik en Glas Water hebben?
+Maybe what you said is true.	Villicht is dat wohr, wat du seggt hest.
+My brother plays the guitar.	Mien Broder speelt Gitarr.
+My family is not that large.	Mien Famielje is nich so groot.
+My father came home at nine.	Mien Vader is Klock negen na Huus kamen.
+My favorite sport is soccer.	Mien leevsten Sport is Football.
+My grandfather was a farmer.	Mien Opa weer Buur.
+My mother has four brothers.	Mien Moder hett veer Bröder.
+Our best friend is a doctor.	Uns best Fründ is en Dokter.
+Proverbs are full of wisdom.	Seggwöör sünd vull Wiesheid.
+Put the car into the garage.	Stell dat Auto in ’e Garaasch.
+She always dresses in black.	Se tütt sik jümmer swart an.
+She cooks for him every day.	Se kaakt elk Dag för em.
+She didn't even try to help.	Se hett nich maal versöcht to helpen.
+She disappeared in the dark.	Se is in ’t Düüster verswunnen.
+She first met him in Boston.	Se hett em toeerst in Boston drapen.
+She gave him a lot of money.	Se geev em en Hümpel Geld.
+She gave him his first kiss.	Se geev em sien eersten Kuss.
+She gave me a kiss suddenly.	Se hett mi opmaal en Kuss geven.
+She grabbed him by the hand.	Se deed em bi de Hand faten.
+She greeted us with a smile.	Se deed uns mit en Smüüstern begröten.
+She is peeling the potatoes.	Se schellt de Kartuffeln.
+She killed him with a knife.	Se hett em mit en Kniev ümbröcht.
+She kissed him on the cheek.	Se hett em op de Back küsst.
+She slapped him in the face.	Se slöög em in ’t Gesicht.
+She visited him once a year.	Se hett em jümmer een Maal in ’t Johr besöcht.
+She visits him twice a year.	Se besöcht em twee Maal in ’t Johr.
+She wants to meet him again.	Se will em wedderdrepen.
+She was wearing a black hat.	Se deed en swarten Hoot dregen.
+She went with him to Boston.	Se is mit em na Boston gahn.
+She will give birth in July.	Se kriggt ehr Kind in ’n Juli.
+She's inquisitive by nature.	Se is von Natur ut neeschierig.
+Soldiers are used to danger.	Soldaten sünd Gefohr wennt.
+Someone knocked on the door.	Een hett an de Döör kloppt.
+Swimming is prohibited here.	Swemmen is hier verbaden.
+The bill must be paid today.	De Reken mutt vondaag betahlt warrn.
+The bill must be paid today.	De Tell mutt vondaag betahlt warrn.
+The city was founded in 573.	De Stad is 573 grünnt worrn.
+The gate is closed at eight.	Dat Door warrt Klock acht dichtmaakt.
+The library is to the right.	De Bökeree is rechts.
+The old man is above ninety.	De ole Mann is över negentig.
+The picture is hung crooked.	Dat Bild hangt scheev.
+The sky was completely dark.	De Heven weer ganz un gor düüster.
+The whole world is watching.	De hele Welt kickt to.
+There is no air on the moon.	Dat gifft keen Luft op ’n Maand.
+They all burst out laughing.	Se pruuschen all opmaal loos.
+They remained sitting there.	Se bleven dor sitten.
+They went fishing yesterday.	Se sünd güstern angeln gahn.
+This is too good to be true.	Dat is to good üm wohr to wesen.
+This store sells vegetables.	De Laden verköfft Grööntüüg.
+This water is safe to drink.	Dit Water kann ’n ahn Gefohr drinken.
+Today I came to work by car.	Vondaag bün ik mit dat Auto na Arbeid kamen.
+Tom is a university student.	Tom is Student.
+Tom is deaf in the left ear.	Tom is op ’t linke Ohr doov.
+Two times seven is fourteen.	Twee maal söven is veerteihn.
+We flew across the Atlantic.	Wi sünd över ’n Atlantik flagen.
+We have to close the window.	Wi mööt dat Finster dichtmaken.
+We should've stayed at home.	Wi harrn tohuus blieven schullt.
+We still have a lot of time.	Wi hebbt noch veel Tied.
+We talked about many things.	Wi hebbt över veel Saken snackt.
+We were very busy last week.	Wi harrn vörige Week veel to doon.
+What are you doing that for?	Worüm deist du dat?
+What are you doing tomorrow?	Wat maakst du morgen?
+What caused you to be angry?	Worüm büst du gnatterig?
+What languages do you speak?	Wat för Spraken snackst du?
+What were you talking about?	Wo hest du över snackt?
+What will we do if it rains?	Wat maakt wi, wenn dat Regen gifft?
+What would I do without you?	Wat deed ik ahn di doon?
+What's your favorite number?	Wat is dien leevste Tall?
+What's your native language?	Wat is dien Moderspraak?
+Where would you like to sit?	Woneem wullt du geern sitten?
+Which browser are you using?	Wat för en Nettkieker bruukst du?
+Why did you try to run away?	Worüm hest du versöcht uttoneihn?
+Why did you try to run away?	Worüm hest du versöcht uttobüxen?
+Why did you try to run away?	Worüm hest du versöcht wegtolopen?
+Will you go to Tokyo by bus?	Föhrst du mit ’n Bus na Tokyo?
+Would you look after my cat?	Passt du op mien Katt op?
+Write your name in capitals.	Schriev dien Naam in Grootbookstaven.
+You are not a child anymore.	Du büst keen Kind mehr.
+You have to clean your room.	Du musst dien Kamer oprümen.
+"She likes music." "So do I."	„Se mag Musik.“ „Ik ook.“
+A bee flew out of the window.	En Imm flöög ut dat Finster.
+All beginnings are difficult.	All Anfang is swoor.
+All those flowers look alike.	All de Blomen seht egaal ut.
+An uncle of mine is a doctor.	En Unkel von mi is Dokter.
+Are you playing with my feet?	Speelst du mit mien Fööt rüm?
+Can I pay with a credit card?	Kann ik mit Kreditkoort betahlen?
+Daddy, may I go out and play?	Papa, dröff ik rutgahn un spelen?
+Don't you have two computers?	Hest du nich twee Computers?
+French is her first language.	Franzöösch is ehr Moderspraak.
+French is her first language.	Fransch is ehr Moderspraak.
+He does not have any friends.	He hett keen Frünnen.
+He is a doctor by profession.	He is von Beroop Dokter.
+He is twice as old as she is.	He is dubbelt so oold as se.
+He is twice as old as she is.	He is dubbeld so oold as se.
+He said he'd come and he did.	He seed, dat he kummt, un he hett dat daan.
+He thinks only about himself.	He denkt bloots an sik sülvs.
+He wanted to become a farmer.	He wull Buur warrn.
+Her skin is as white as snow.	Ehr Huud is so witt as Snee.
+Hitler assumed power in 1933.	Hitler is 1933 an ’e Macht kamen.
+How far is it to the airport?	Wo wied is dat na ’n Flegerhaven?
+How many books have you read?	Woveel Böker hest du leest?
+How many mangoes do you want?	Woveel Mangos wullt du?
+I bought my sister a new hat.	ik heff miene Süster en ne’en Hoot köfft.
+I bought two bottles of milk.	Ik heff twee Buddels Melk köfft.
+I can't answer your question.	Ik kann op dien Fraag nich antern.
+I cut a branch from the tree.	Ik heff en Braken ut ’n Boom saagt.
+I don't care much for coffee.	Ik mag Kaffe nich allto geern.
+I don't drink that much beer.	Ik drink nich so veel Beer.
+I don't have anything to say.	Ik heff nix to seggen.
+I don't understand this poem.	Ik verstah dit Gedicht nich.
+I helped my father yesterday.	Ik heff mien Vader güstern hulpen.
+I never drink tea with lemon.	Ik drink nienich Tee mit Zitroon.
+I only slept for three hours.	Ik heff man dree Stünnen slapen.
+I read this in the newspaper.	Ik heff dat in ’t Daagbladd leest.
+I want to travel to the moon.	Ik will na ’n Maand flegen.
+I want you to read this book.	Ik harr geern, dat du dit Book leest.
+I will speak to you tomorrow.	Ik snack morgen mit di.
+I woke up with a sore throat.	Ik bün mit en sehr Strott opwaakt.
+I wrote a long letter to her.	Ik heff ehr en langen Breev schreven.
+I'm a little taller than you.	Ik bün en beten grötter as du.
+Is that the railroad station?	Is dat de Bahnhoff?
+It rained hard the whole day.	Dat hett den ganzen Dag düchtig regent.
+Let me go. You're choking me.	Laat mi loos, du drückst mi de Luft af.
+Let's rest for a few minutes.	Laat uns för en poor Minuten verpuusten.
+Look at that cat on the roof.	Kiek di de Katt op ’t Dack an.
+Many birds are on the branch.	Veel Vagels sitt op den Ast.
+My wife had a baby last week.	Mien Froo hett vergangen Week en Kind kregen.
+One language is never enough.	Een Spraak is nienich noog.
+Red wine goes well with meat.	Roodwien passt good bi Fleesch.
+Rice grows in warm countries.	Ries wasst in warme Länner.
+Rules are meant to be broken.	Regeln sünd dor, üm braken to warrn.
+She asked him for some money.	Se hett em üm en beten Geld beden.
+She asked him where he lived.	Se fröög em, woneem he leven deed.
+She can't ride a bicycle yet.	Se kann noch nich Fohrrad föhren.
+She did her best to help him.	Se hett ehr best daan, em to helpen.
+She didn't like him at first.	Se müch em toeerst nich.
+She doesn't know what to say.	Se weet nich, wat se seggen schall.
+She gets along well with him.	Se kummt good mit em ut.
+She has a flower in her hand.	Se hett en Bloom in ehr Hand.
+She has a flower in her hand.	Se hett en Bloom in ’e Hand.
+She invited him to her party.	Se hett em to ehr Party inlaadt.
+She is good at imitating him.	Se kann em good namaken.
+She likes to go to the beach.	Se geiht geern na ’n Strand.
+She thanked him for his help.	Se deed em för sien Hülp danken.
+She wants to go out with him.	Se will mit em utgahn.
+She was talking all the time.	Se hett de ganze Tied snackt.
+She went with him to the zoo.	Se is mit em in ’n Zoo gahn.
+Should I tell them the truth?	Schull ik jem de Wohrheid vertellen?
+Tell me how to play the game.	Vertell mi, woans dat Speel speelt warrt.
+Thanks for your quick answer.	Wees bedankt för dien gaue Antwoord.
+That problem isn't important.	Dat Probleem is nich wichtig.
+The bread really smells good.	Dat Brood rückt würklich good.
+The bucket was full of water.	De Ammel weer vull mit Water.
+The child ran into the house.	Dat Kind is in ’t Huus lopen.
+The chimney is made of brick.	De Schorsteen is ut Backsteen.
+The hunter shot the fox dead.	De Jäger hett ’n Voss doodschaten.
+The market opens at 9:00 a.m.	De Markt maakt morgens Klock negen apen.
+The queen visited the museum.	De Königin hett dat Museum besöcht.
+The rainbow has seven colors.	De Regenbagen hett söven Klören.
+The rooster crows at sunrise.	De Hahn kreiht bi Sünnopgang.
+The top is turning clockwise.	De Küsel dreiht sik mit de Klock.
+The towel is in the bathroom.	Dat Handook is in ’t Bad.
+The word is no longer in use.	Dat Woord warrt nich mehr bruukt.
+There were 30 members in all.	Dor weren alltohoop 30 Maten.
+They are talking about music.	Se snackt över Musik.
+They drink a lot of lemonade.	Se drinkt veel Bruus.
+This chair is too low for me.	Disse Stohl is för mi to sied.
+This hall holds 2,000 people.	Disse Hall hett Platz för 2.000 Lüüd.
+This shirt costs ten dollars.	Dit Hemd köst teihn Dollar.
+Tom walked across the street.	Tom güng över de Straat.
+Turn left at the next corner.	Bi de nächste Eck links.
+We could see nothing but fog.	Wi kunnen nix sehn as Mist.
+We import coffee from Brazil.	Wi importeert Kaffe ut Brasilien.
+We killed time playing cards.	Wi hebbt de Tied mit Koortenspelen doodslahn.
+We might be able to help her.	Wi köönt ehr villicht helpen.
+We played baseball yesterday.	Wi hebbt güstern Baseball speelt.
+We're looking for each other.	Wi kiekt naenanner.
+What's your favorite perfume?	Wat is dien leevst Parfüm?
+What's your favorite podcast?	Wat is dien leevsten Podcast?
+What's your favorite website?	Wat is dien leevste Websteed?
+When I awoke, it was snowing.	As ik opwaken deed, deed dat sneen.
+Where does your grandpa live?	Woneem wahnt dien Opa?
+Where does your grandpa live?	Woneem leevt dien Opa?
+Where is the railway station?	Woneem is de Bahnhoff?
+Why are you drying your hair?	Worüm dröögst du di de Hoor?
+Winter is my favorite season.	De Winter is mien leevste Johrstied.
+Would you lend me your knife?	Lehnst du mi dien Kniev?
+Would you like coffee or tea?	Wullt du Kaffe oder Tee?
+Would you like to see it now?	Wullt du dat nu sehn?
+You are not a child any more.	Du büst keen Kind mehr.
+You have such beautiful eyes.	Du hest so glaue Ogen.
+Antimatter is highly unstable.	Antimateer is temlich instabil.
+Are you interested in flowers?	Intresseerst du di för Blomen?
+At last we can afford a house.	Tominnst köönt wi uns en Huus tügen.
+Can you pronounce these words?	Kannst du disse Wöör utspreken?
+Did you call me up last night?	Hest du mi güstern avend anropen?
+Do you have someplace to stay?	Hest du en Platz, wo du blieven kannst?
+Do you understand what I mean?	Versteihst du, wat ik meen?
+For me, this is not a problem.	För mi is dat keen Probleem.
+He accused me of being a liar.	He hett mi anschülligt, en Löögner to wesen.
+He asked me what I had bought.	He fröög mi, wat ik köfft harr.
+He came in through the window.	He keem dör ’t Finster rin.
+He doesn't know French at all.	He kann gorkeen Franzöösch.
+He had more than enough money.	He harr mehr as noog Geld.
+He has not spoken for an hour.	He hett nu een Stünn nix snackt.
+He hid his toys under the bed.	He deed sien Speelkraam ünner dat Bedd versteken.
+He is eager to meet her again.	He will ehr geern wedder drapen.
+He painted a picture of a dog.	He deed en Bild von en Hund malen.
+He whispered something to her.	He tuuster ehr wat to.
+Her speech moved the audience.	Ehr Reed hett de Tokiekers anraakt.
+How is your last name written?	Wo warrt dien Tonaam schreven?
+How much did the glasses cost?	Woveel hett de Brill köst?
+I always go to school on foot.	Ik gah jümmer to Foot na School.
+I can't play tennis that well.	Ik speel nich so good Tennis.
+I don't believe it any longer.	Ik glööv dat nich mehr.
+I don't have a younger sister.	Ik heff keen jüngere Süster.
+I don't have time for reading.	Ik heff keen Tied to lesen.
+I have neither time nor money.	Ik heff keen Tied un ook keen Geld.
+I knew this moment would come.	Ik wüss, dat disse Momang kummt.
+I need some help with my work.	Ik bruuk en beten Hülp bi mien Arbeid.
+I planted roses in the garden.	Ik heff in ’n Goorn Rosen plant.
+I saw them walking arm in arm.	Ik heff jem Arm in Arm lopen sehn.
+I usually drink a lot of milk.	Ik drink normalerwies veel Melk.
+I will show you some pictures.	Ik wies di en poor Biller.
+I write in my diary every day.	Ik schriev jeden Dag in mien Dagbook.
+I wrote down her phone number.	Ik heff ehr Telefoonnummer opschreven.
+I wrote this letter in French.	Ik heff dissen Breev op Franzöösch schreven.
+I'll drive you to the airport.	Ik föhr di na ’n Flegerhaven.
+I'm going to Paris next month.	Ik gah tokamen Maand na Paris.
+I'm taking a shower right now.	Ik duusch mi jüst.
+Isn't there a pharmacy nearby?	Gifft dat hier ümto keen Avtheek?
+It's a little late for prayer.	Dat is en beten to laat för Beden.
+It's not the end of the world.	Dor geiht de Welt nich von ünner.
+Japan consumes a lot of paper.	Japan bruukt veel Poppeer.
+Let's take a break for coffee.	Laat uns en Kaffepaus maken.
+Many students bought the book.	Veel Schölers hebbt dat Book köfft.
+My computer is my best friend.	Mien Reekner is mien besten Fründ.
+My opinion differs from yours.	Ik heff en anner Verscheel as du.
+My sister is very intelligent.	Miene Süster is temlich plietsch.
+Our neighbor has broken a rib.	Uns Naver hett sik en Ribb braken.
+She doesn't have any brothers.	Se hett keen Bröder.
+She forced him to eat spinach.	Se möök em Spinaat eten.
+She gave him a piece of paper.	Se geev em en Stück Poppeer.
+She had died before I arrived.	Se weer doodbleven, bevör ik ankamen bün.
+She had nothing else to drink.	Se harr ans nix to drinken.
+She has a daughter named Mary.	Se hett en Dochter, de Mary heet.
+She has never danced with him.	Se hett nie mit em danst.
+She isn't good enough for him.	Se is nich good noog för em.
+She married him for his money.	Se hett em för sien Geld heiraadt.
+She plays tennis every Sunday.	Se speelt elk Sünndag Tennis.
+She pointed her finger at him.	Se deed mit ’n Finger op em wiesen.
+She pulled him out of the mud.	Se deed em ut ’n Mudd ruttrecken.
+She trusts him with her money.	Se vertroot em mit ehr Geld.
+She walked twenty miles a day.	Se lööp twintig Mielen an ’n Dag.
+She was in America last month.	Se weer vergangen Maand in Amerika.
+She was wearing a strange hat.	Se harr en Hoot op, de roor utsehn deed.
+The bank lent her 500 dollars.	De Bank hett ehr 500 Dollar lehnt.
+The bank lent him 500 dollars.	De Bank hett em 500 Dollar lehnt.
+The boy was sold into slavery.	De Jung is in de Slaveree verköfft worrn.
+The bus was two minutes early.	De bus keem twee Minuten to froh.
+The navy defends our seacoast.	De Marine verdeffendeert uns Küst.
+The ship is now in the harbor.	Dat Schipp is nu in ’n Haven.
+There are 31 days in December.	De Dezember hett 31 Daag.
+There is an apple on the desk.	Dor is en Appel op ’n Disch.
+There was a seal on the shore.	Dor weer en Saalhund an de Küst.
+There's no need to exaggerate.	Dat gifft keen Grund to överdrieven.
+They invited me to play cards.	Se hebbt mi inlaadt, Koorten to spelen.
+They're both expecting babies.	Se verwacht all beid Kinner.
+They're running without shoes.	Se loopt ahn Schoh.
+This knife has served me well.	Dit Kniev hett mi good deent.
+This school has many students.	Disse School hett veel Schölers.
+We like swimming in the ocean.	Wi swemmt geern in ’n Ozeaan.
+We might have frost next week.	Tokamen Week schall dat villicht Frost geven.
+We play soccer every Saturday.	Wi speelt elk Sünnavend Football.
+We play soccer every Saturday.	Wi speelt elk Saterdag Football.
+We still don't know the truth.	Wi kennt noch jümmer nich de Wohrheid.
+We stored the hay in the barn.	Wi hebbt dat Hau in ’e Schüün lagert.
+What do you have in your hand?	Wat hest du in ’e Hand?
+What is the depth of the lake?	Wo deep is de See?
+What kind of food do you like?	Wat för ’n Soort Eten magst du geern?
+Where can I pick up my ticket?	Woneem kann ik mien Koort afhalen?
+Which doctor is attending you?	Wat för ’n Dokter behannelt di?
+Who was this window broken by?	’Keen hett dit Finster tweibraken?
+Why won't my dog eat dog food?	Worüm fritt mien Hund keen Hunnfoder?
+Will you let me try once more?	Lettst du mi dat ees noch wedder versöken?
+Would you lend me your pencil?	Lehnst du mi dien Bleesticken?
+Would you like me to help you?	Wullt du, dat ik di help?
+Yesterday, I bought a red car.	Ik heff güstern en rood Auto köfft.
+Both his grandfathers are dead.	All beid sien Grootvaders sünd dood.
+Do you like playing volleyball?	Speelst du geern Volleyball?
+Do you mind if I open the door?	Maakt di dat wat, wenn ik de Döör apen maak?
+Don't throw away this magazine.	Smiet de Tiedschrift nich weg.
+English is used by many people.	Engelsch warrt von veel Minschen bruukt.
+Everybody agreed with his idea.	Elkeen deed sien Idee tostimmen.
+He entered the garden secretly.	He güng stiekum in ’n Goorn.
+He had his socks on inside out.	He harr sien Söcken verkehrt rüm an.
+He has a son and two daughters.	He hett een Söhn un twee Döchter.
+He is known as a great painter.	He is kennt as en groten Maler.
+He told her that she was right.	He seed ehr, dat se recht harr.
+He's just like his grandfather.	He is jüst as sien Grootvader.
+How did you come by this money?	Woans büst du an dit Geld kamen?
+How do you like your new class?	Wo gefallt di dien ne’e Klass?
+How many guests did you invite?	Woveel Gäst hest du inlaadt?
+I am terribly afraid of snakes.	Ik bün gresig bang vör Snaken.
+I believe you know what I mean.	Mi dücht, du weetst, wat ik meen.
+I bought two pairs of trousers.	Ik heff twee Büxen köfft.
+I have almost no money with me.	Ik heff meist keen Geld bi mi.
+I invited him over to my place.	Ik heff em na mi tohuus inlaadt.
+I invited him over to my place.	Ik heff em to mi inlaadt.
+I know almost nothing about it.	Ik weet dor meist nix över.
+I quit smoking half a year ago.	Ik heff vör en halv Johr mit Smöken ophöört.
+I told you that she was blonde.	Ik heff di seggt, dat se blond is.
+I was expecting you last night.	Ik heff di güstern Nacht verwacht.
+I was forced to work on Sunday.	Ik weer dwungen an ’n Sünndag to arbeiden.
+I've always wanted to meet you.	Ik wull di al jümmer drepen.
+I've never heard of this actor.	Ik heff von dissen Schauspeler noch nich höört.
+If you bite me, I'll bite back.	Wenn du mi bittst, denn biet ik trügg.
+It rained five successive days.	Dat regen fiev Daag an ’n Stück.
+It rained gently the whole day.	Dat regent den ganze Dag sachten.
+It was terribly cold yesterday.	Dat weer gresig koold güstern.
+Last night I had a weird dream.	Vergangen Nacht harr ik en snaakschen Droom.
+Let's measure how tall you are.	Laat uns meten, wo groot du büst.
+Lincoln was opposed to slavery.	Lincoln weer gegen de Slaveree.
+Mary stayed up late last night.	Mary is güstern avend laat opbleven.
+My cat doesn't like to get wet.	Mien Katt warrt nich geern natt.
+My sister goes to a university.	Miene Süster besöcht en Universität.
+My wallet wasn't stolen by him.	He hett mien Portmaneet nich klaut.
+Oranges grow in warm countries.	Appelsienen wasst in warme Länner.
+Paris is the capital of France.	Paris is de Höövdstad von Frankriek.
+She borrowed the book from him.	Se hett dat Book von em lehnt.
+She called me in the afternoon.	Se hett mi namiddags anropen.
+She did her best to rescue him.	Se hett ehr best daan, em to redden.
+She has a daughter who is tall.	Se hett en grote Dochter.
+She has quite a lot of clothes.	Se hett en ganzen Barg Kledaasch.
+She kissed him on the forehead.	Se hett em op ’n Vörkopp küsst.
+She kissed him on the forehead.	Se hett em op de Steern küsst.
+She persuaded him to marry her.	Se deed em övertügen, ehr to freen.
+She recognized him immediately.	Se deed em glieks kennen.
+She sat next to him on the bus.	Se deed in ’n Bus blangen em sitten.
+She scolded him for being late.	Se schell em ut, dat he to laat weer.
+She's too young to get married.	Se is to jung üm to freen.
+She's two years older than him.	Se is twee Johr öller as he.
+Spanish is her native language.	Spaansch is ehr Moderspraak.
+Strawberries are in season now.	Dat is opstunns Saison för Eerdbeern.
+Sulfur burns with a blue flame.	Swevel brennt mit en blaue Flamm.
+Sulfur is used to make matches.	Swevel warrt bruukt, üm Swevelsticken to maken.
+Thank you for your cooperation.	Wees bedankt för dien Hülp.
+That book has a bunch of pages.	Dat Book hett veel Sieden.
+The garden is behind the house.	De Goorn is achter ’t Huus.
+The lady is now drinking water.	De Daam drinkt nu Water.
+The second lesson is very easy.	Lex twee is temlich licht.
+There are many slums in Mexico.	Dat gifft veel Slums in Mexiko.
+There's a monster under my bed.	Dor sitt en Monster ünner mien Bedd.
+There's a monster under my bed.	Dor is en Monster ünner mien Bedd.
+There's no film in this camera.	Dor is keen Film in ’e Kamera.
+There's no shame in being poor.	Arm wesen is keen Schann.
+They are studying for the test.	Se lehrt för den Test.
+They could ride and shoot well.	Se kunnen good rieden un scheten.
+They had to start from scratch.	Se möten noch wedder von vörn anfangen.
+This box is filled with apples.	Disse Kist is vull mit Appels.
+This is the reason I came here.	Dat is de Grund, worüm as ik herkamen bün.
+This old house is made of wood.	Dit ole Huus is ut Holt.
+This room doesn't get much sun.	Disse Kamer kriggt nich veel Sünn af.
+This table is made of good oak.	Disse Disch is ut gode Eek maakt.
+Three people are still missing.	Dree Lüüd sünd noch jümmer misst.
+Tom doesn't know his neighbors.	Tom kennt sien Navers nich.
+We arrived here in the evening.	Wi sünd hier avends ankamen.
+We had a long wait for the bus.	Wi müssen lang op ’n Bus töven.
+We think we are over the worst.	Wi denkt, dat wi dör dat Slimmste dör sünd.
+We took a walk along the river.	Wi möken en Spazeergang langs ’n Stroom.
+What is better than friendship?	Wat is beter as Fründschop?
+What's your favorite TV series?	Wat is dien leevste TV-Serie?
+What's your favorite war movie?	Wat is dien leevsten Kriegsfilm?
+When did you learn how to swim?	Wannehr hest du swemmen lehrt?
+Where does this street lead to?	Wo föhrt disse Straat hen?
+Which is heavier, lead or gold?	Wat is sworer, Blee oder Gold?
+Who is the author of the novel?	’Keen is de Schriever von dissen Romaan?
+Why are you washing your hands?	Worüm wascht du di de Hannen?
+Why aren't you listening to me?	Worüm höörst du mi nich to?
+Why aren't you listening to me?	Worüm höörst du nich op mi?
+Would you lend me your bicycle?	Lehnst du mi dien Fohrrad?
+You have no need to be ashamed.	Du musst di dor nich för schamen.
+You have no need to be ashamed.	Du musst di nich schamen.
+You're asking the wrong person.	Du fraagst de verkehrte Persoon.
+A broken mirror brings bad luck.	En tweien Spegel bringt Unglück.
+Are you busy tomorrow afternoon?	Hest du morgen namiddag to doon?
+Belgium is not as big as France.	Belgien is nich so groot as Frankriek.
+Both sisters are very beautiful.	De Süstern sünd all beid temlich smuck.
+Come here and have a look at it.	Kaam her un kiek di dat an!
+Did I understand that correctly?	Heff ik dat richtig verstahn?
+Do you feel like going swimming?	Hest du Lust, swemmen to gahn?
+Do you have a problem with this?	Hest du dor en Probleem mit?
+Do you have any plans for today?	Hest du Plaans för vondaag?
+Do you know what time they came?	Weetst du wannehr se kamen sünd?
+Do you know who sings that song?	Weetst du, ’keen dat Leed singt?
+Everything is all right at home.	Tohuus is allens bi de Reeg.
+Have you done your homework yet?	Hest du dien Huusopgaven al maakt?
+He comes back from Sydney today.	He kummt vondaag trügg ut Sydney.
+He got dressed and went outside.	He hett sik antagen un is na buten gahn.
+He intends to buy a new bicycle.	He will en neet Fohrrad köpen.
+He is a complete stranger to me.	He is för mi en ganz Frömmen.
+He is acquainted with the mayor.	He kennt den Börgermeester.
+He lived to be eighty years old.	He is achtig Johr oold worrn.
+He may be able to come tomorrow.	Villicht kann he morgen kamen.
+He owns many valuable paintings.	He besitt veel düre Schilleraatsen.
+He sat on the bench in the park.	He seet op de Bank in ’n Park.
+He tried to get rid of the ants.	He wull de Pissmieren los warrn.
+He will come home in a few days.	He kummt in en poor Daag na Huus.
+He wiped his nose on his sleeve.	He hett sik den Snappen in ’n Mau smeert.
+Helen Keller was deaf and blind.	Helen Keller weer doov un blind.
+Her story turned out to be true.	Ehr Geschicht hett sik as wohr rutstellt.
+His English is better than mine.	Sien Engelsch is beter as mien.
+How long have you played soccer?	Wo lang hest du Football speelt?
+How many languages do you speak?	Woveel Spraken snackst du?
+I am thinking about my children.	Ik denk an mien Kinner.
+I can only tell you what I know.	Ik kann di bloot seggen, wat ik weet.
+I don't have a computer at home.	Ik heff keen Computer tohuus.
+I heard someone calling my name.	Ik heff een mien Naam ropen höört.
+I just ate sushi and drank beer.	Ik heff jüst Sushi eten un Beer drunken.
+I received her letter last week.	Ik heff ehren Breev vergangen Week kregen.
+I solved that problem by myself.	Ik heff dat Probleem al sülvs lööst.
+I wasn't listening to the radio.	Ik heff keen Radio höört.
+I went swimming after I woke up.	Na ’t Opkamen bün ik Swemmen gahn.
+I would never have guessed that.	Dat harr ik nie dacht.
+I'd like to know if that's true.	Ik wull geern weten, wat dat wohr is.
+I'd rather walk than take a bus.	Ik loop lever as mit ’n Bus to föhren.
+I'll follow you wherever you go.	Ik kaam mit di, egaal wo du hen geihst.
+In the winter, days are shorter.	In ’n Winter sünd de Daag körter.
+It is not easy to speak English.	Engelsch snacken is nich licht.
+It looks a lot worse than it is.	Dat sütt veel leger ut, as dat is.
+It was not easy to convince him.	Dat weer nich licht, em to övertügen.
+It's all part of their strategy.	Dat is allens Deel von jemehr Strategie.
+Mom made a cake for my birthday.	Mama hett för mien Geboortsdag en Koken backt.
+My idea is different from yours.	Ik heff en anner Verscheel as du.
+My mother cut my hair too short.	Mien Mudder hett mi de Hoor to kort sneden.
+Only adults may watch that film.	Bloot Vullwussen Lüüd dröfft dissen Film ankieken.
+People used to live in villages.	De Lüüd hebbt in Dörper wahnt.
+She always speaks ill of others.	Se snackt jümmer slecht von annere.
+She and I are in the same class.	Se un ik, wi sünd in de sülve Klass.
+She appears to have few friends.	Se hett woll nich veel Frünnen.
+She asked me to open the window.	Se beed mi, dat Finster apen to maken.
+She attacked him with her fists.	Se hett em mit ehr Fuusten angrepen.
+She bought two pounds of butter.	Se hett twee Pund Botter köfft.
+She gave him something to drink.	Se geev em wat to drinken.
+She had nothing to do yesterday.	Se harr güstern nix to doon.
+She looked him right in the eye.	Se hett em liek in ’t Oog keken.
+She visited him on October 20th.	Se hett em an ’n 20. Oktober besöcht.
+She wants to play golf with him.	Se will mit em Golf spelen.
+She went with him to the movies.	Se is mit em in ’t Kino gahn.
+The buses run every ten minutes.	Föhrt all teihn Minuten en Bus.
+The doctor told me to go to bed.	De Dokter hett mi seggt, dat ik to Bedd gahn schull.
+The dog was sleeping on the mat.	De Hund hett op de Matt slapen.
+The dogs bayed at the full moon.	De Hunnen hebbt den Vullmaand anblafft.
+The old man leaned on his staff.	De ole Mann löhn op sien Staff.
+The plane flew above the clouds.	De Fleger flöög över de Wulken.
+The price of rice has come down.	De Pries för Ries is fullen.
+The train was late this morning.	De Tog weer vonmorgen laat.
+The train went through a tunnel.	De Tog deed dör en Tunnel föhren.
+The twins looked after the baby.	De Tweeschen keken na ’t Baby.
+The world needs talented people.	De Welt bruukt Lüüd mit Talent.
+There are many books in my room.	Dor sünd veel Böker in mien Kamer.
+There are two boats on the lake.	Dor sünd twee Bööd op ’n See.
+There is nothing to worry about.	Dor is nix, wo een sik över Sorgen maken mutt.
+There's a huge hole in the wall.	Dor is en groot Lock in ’e Wand.
+This computer runs on batteries.	Disse Computer löppt mit Batterien.
+This soup needs a bit more salt.	Disse Supp bruukt en beten mehr Solt.
+Tom doesn't have enough friends.	Tom hett nich noog Frünn.
+Tom put another log on the fire.	Tom deed noch en Stück Holt bi ’t Füür leggen.
+Vladivostok is a city in Russia.	Wladiwostok is en Stad in Russland.
+War is a crime against humanity.	Krieg is en Verbreken gegen de Minschheid.
+We killed time by playing cards.	Wi hebbt de Tied mit Koortenspelen doodslahn.
+What are you up to this weekend?	Wat hest du dit Wekenenn vör?
+What are your plans for tonight?	Wat hest du för Plään för vonavend?
+What did you buy your boyfriend?	Wat hest du dien Fründ köfft?
+What's the meaning of this word?	Wat bedüüdt dit Woord?
+Would you like to dance with me?	Wullt du mit mi dansen?
+You can run, but you can't hide.	Du kannst weglopen, aver du kannst di nich versteken.
+You can't do two things at once.	Een kann keen twee Saken opmaal doon.
+You have to be over 18 to drive.	Du musst öller as 18 wesen, dat du föhren dröffst.
+You know quite a lot about Sumo.	Du weetst temlich veel över Sumo.
+You must read between the lines.	Du musst twüschen de Regen lesen.
+"How old are you?" "I'm sixteen."	"Wo oold büst du?" "Ik bün sössteihn."
+Can I borrow some money from you?	Kann ik wat Geld von di lehnen?
+Can I get you something to drink?	Kann ik wat to drinken kriegen?
+Can you show me how to tie a tie?	Kannst du mi wiesen, woans en Slips bunnen warrt?
+Do you mind if I open the window?	Stöört di dat, wenn ik dat Finster apendo?
+Don't come too close to the fire.	Kaam nich to dicht an ’t Füür ran.
+Don't write me such long letters.	Schriev mi nich so lange Breev.
+Even a teacher can make mistakes.	Ook en Meester kann Fehlers maken.
+Everybody knows that old trapper.	Elkeen kennt den olen Trapper.
+Germany produced many scientists.	Düütschland hett veel Wetenschoppers vörbröcht.
+He asked if I liked Chinese food.	He fröög mi, wat ik chineesch Eten mag.
+He doesn't know much about Japan.	He weet nich veel över Japan.
+He fell asleep with the radio on.	He is bi dat ane Radio toslapen.
+He has a lot of books on history.	He hett veel Böker över Geschicht.
+He has been speaking for an hour.	He hett nu för een Stünn snackt.
+He knows a lot about butterflies.	He weet veel över Botterlickers.
+He lives at the top of this hill.	He leevt op ’n Topp von dissen Barg.
+He sat surrounded by young girls.	He seet mank en Hümpel junge Deerns.
+He seems to have known the truth.	Sütt ut, as wenn he de Wohrheid wüsst hett.
+He speaks English better than me.	He snackt Engelsch beter as ik.
+I am four years younger than him.	Ik bün veer Johr jünger as he.
+I do not have anything in my bag.	Ik heff nix in mien Tasch.
+I don't expect anything from you.	Ik verwacht nix von di.
+I have two brothers and a sister.	Ik heff twee Bröder un een Süster.
+I just wanted to see if you knew.	Ik wull bloot sehn, wat du dat weetst.
+I know that you know that I know.	Ik weet, dat du weetst, dat ik dat weet.
+I need a good pair of sunglasses.	Ik bruuk en gode Sünnbrill.
+I saw a man dressed like a ninja.	Ik heff en Mann sehn, de as en Ninja antagen weer.
+I think I've forgotten something.	Ik glööv, ik heff wat vergeten.
+I was born on October 10th, 1972.	Ik bün an ’n 10. Oktober 1972 boren.
+I will be at your house at eight.	Ik bün Klock acht bi di tohuus.
+I'll give you a lift if you like.	Ik kann di mitnehmen, wenn du wullt.
+I'll stay there till six o'clock.	Ik bliev dor bet Klock söss.
+I'll take back everything I said.	Ik nehm allens trügg, wat ik seggt heff.
+I'm going to watch a scary movie.	Ik will mi en Gruelfilm ankieken.
+I've already been here two hours.	Ik bün al twee Stünnen hier.
+I've just arrived at the airport.	Ik bün jüst an ’n Flegerhaven ankamen.
+I've lived here for thirty years.	Ik heff hier dörtig Johr wahnt.
+I've never seen a whale that big.	Ik heff noch nie so en groten Waal sehn.
+It was a one hundred dollar bill.	Dat weer en Hunnert-Dollar-Schien.
+It'll cost at least five dollars.	Dat schall opminnst fiev Dollar kösten.
+It's a question of life or death.	Dat is en Fraag von Leven oder Dood.
+Liquor is not sold at this store.	In dissen Laden warrt keen Alkohol verköfft.
+Many young Romans went to Greece.	Veel junge Römers sünd na Grekenland gahn.
+My brother wants to study abroad.	Mien Broder will in ’t Butenland studeren.
+My little sister is kind of lazy.	Mien lütte Süster is en beten lösig.
+My teacher has a very soft voice.	Mien Lehrersch hett en temlich sachte Stimm.
+One boy is taller than the other.	Een Jung is grötter as de annere.
+Science produced the atomic bomb.	Wetenschop hett de Atoombumm bröcht.
+She can't have said such a thing.	Se kann sowat nich seggt hebben.
+She did her best to persuade him.	Se hett ehr best daan, em to övertügen.
+She gave birth to a healthy baby.	Se hett en gesund Baby kregen.
+She got dressed and went outside.	Se hett sik antagen un is na buten gahn.
+She hung the washing on the line.	Se hüng de Wäsch op de Lien.
+She is less intelligent than you.	Se is minner plietsch as du.
+She knitted her father a sweater.	Se hett ehren Vader en Pullover knütt.
+She remained single all her life.	Se bleev ehr Leven lang Single.
+She suffocated him with a pillow.	Se hett em mit en Küssen stickt.
+She thanked him for all his help.	Se deed em för all sien Hülp danken.
+She's two years younger than him.	Se is twee Johr jünger as he.
+Smoke is rising from the chimney.	Ut ’n Schosteen kummt Rook.
+Switzerland is a neutral country.	De Swiez is en neetraal Land.
+That red dress looks good on her.	Dat rode Kleed lett good an ehr.
+That small star is the brightest.	De lütte Steern dor is de hellst.
+The Inca were a religious people.	De Inka weren en religiös Volk.
+The atomic number for iron is 26.	De Atoomtall von Iesen is 26.
+The boy entered by the back door.	De Jung keem dör de Achterdöör rin.
+The bus arrived ten minutes late.	De Bus is teihn Minuten to laat ankamen.
+The horse was lying on the straw.	Dat Peerd leeg op ’t Stroh.
+The murderer confessed his crime.	De Mörder hett sien Verbreken tostahn.
+The museum is open to the public.	Dat Museum is för all apen.
+The traffic light changed to red.	De Ampel deed rood warrn.
+There is a television in my room.	Dor is en Kiekschapp in mien Kamer.
+There were too many people there.	Dor weren toveel Lüüd.
+These chairs are not comfortable.	Disse Stöhl sünd nich bequeem.
+They are in danger of extinction.	Se sünd von ’t Utstarven bedroht.
+This milk will keep for two days.	Disse Melk höllt sik twee Daag.
+This tree is three meters around.	Disse Boom hett en Ümfang von dree Meter.
+Today, we have to sleep outdoors.	Vondaag mööt wi buten slapen.
+Two out of five children are shy.	Twee von fiev Kinner sünd scho.
+Was it a full moon or a new moon?	Weer dat Vullmaand oder Neemaand?
+We got up at four in the morning.	Wi sünd morgens Klock veer opkamen.
+We just ate sushi and drank beer.	Wi hebbt jüst Sushi eten un Beer drunken.
+What were you doing at that time?	Wat hest du to de Tied maakt?
+What's your favorite ZZ Top song?	Wat is dien leevst Leed von ZZ Top?
+What's your favorite soccer team?	Wat is dien leevsten Footballvereen?
+When will you harvest your wheat?	Wannehr wullt du dien Weten oosten?
+Who were you going to sell it to?	’Keen wullst du dat verköpen?
+You need to finish your homework.	Du musst die Huusopgaven trechmaken.
+You should take the number 5 bus.	Du schusst man den Bus mit de Nummer 5 nehmen.
+You talk as if you were the boss.	Du snackst, as wenn du de Baas weerst.
+A bear will not touch a dead body.	En Boor geiht bi en Doden nich bi.
+A sleeping child is like an angel.	En Kind, dat slöppt, is as en Engel.
+All the other boys laughed at him.	All de annern Jungs hebbt em utlacht.
+Belgium is not as large as France.	Belgien is nich so groot as Frankriek.
+Can you tell silver and tin apart?	Kennst du den Ünnerscheed twüschen Sülver un Tinn?
+Complaining won't change anything.	Gnaddern ännert ook nix.
+Do you have any plans for tonight?	Hest du Plaans för vonavend?
+Don't throw anything on the floor.	Smiet nix an ’e Eer!
+Everyone deserves a second chance.	Elkeen verdeent en twete Changs.
+Everyone makes mistakes sometimes.	Elkeen maakt af un to Fehlers.
+France is to the south of England.	Frankriek liggt süden von England.
+God created the world in six days.	Godd hett de Welt in söss Daag schapen.
+He came from a tiny mountain town.	He deed ut en lütten Oort in de Bargen stammen.
+He gave me food and money as well.	He hett mi ook Eten un Geld geven.
+He has a lot of money in the bank.	He hett en Barg Geld op de Bank.
+He has a lot of money in the bank.	He hett en Hümpel Geld op de Bank.
+He has never been late for school.	He is nienich to laat na School kamen.
+He is old enough to understand it.	He is oold noog, üm dat to verstahn.
+He is too tired to go any farther.	He is to mööd to ’n Wiedergahn.
+He may not have known the formula.	Kann angahn, dat he de Formel nich kennt hett.
+He refused to shake hands with me.	He wull mi nich de Hand schüdden.
+He's going to have a heart attack.	He kriggt glieks en Hartanfall.
+How long have you been doing this?	Wo lang deist du dat al?
+I bought the book for ten dollars.	Ik heff dat Book för teihn Dollar köfft.
+I didn't know that dogs swim well.	Ik heff nich wüsst, dat Hunnen good swemmen köönt.
+I don't believe that ghosts exist.	Ik glööv nich, dat dat Spökels gifft.
+I don't know what happened to him.	Ik weet nich, wat em passeert is.
+I have never eaten a mango before.	Ik heff noch nie en Mango eten.
+I often catch colds in the winter.	Ik krieg in ’n Winter faken en Snööv.
+I sold the picture for 20,000 yen.	Ik heff dat Bild för 20.000 Yen verköfft.
+I want to buy a pair of ski boots.	Ik will en Poor Skisteveln köpen.
+I want to learn Chinese next year.	Ik will tokamen Johr Chineesch lehren.
+I will tell you the rest tomorrow.	Ik vertell di morgen den Rest.
+I'm often compared to my brothers.	Ik warr faken mit mien Bröder vergleken.
+I'm often compared to my brothers.	Ik warr faken mit miene Bröder vergleken.
+Is there another word for synonym?	Guifft dat en anner Woord för Synonym?
+It cost less than fifteen dollars.	Dat hett weniger as föffteihn Dollar köst.
+It's already ten o'clock at night.	Dat is al Klock teihn avends.
+Mary is going to help us tomorrow.	Mary helpt uns morgen.
+My best friend dances really well.	Mien besten Fründ danst temlich good.
+My blood pressure is 155 over 105.	Mien Blooddruck is 155 to 105.
+My box is twice as heavy as yours.	Mien Karton is twee Maal so swoor as dien.
+My family liked the dog very much.	Mien Familie hett den Hund dull mücht.
+My mother looks young for her age.	Mien Moder sütt jung ut för ehr Öller.
+Not all red apples taste the same.	Nich all rood Appels smeckt gliek.
+Our library is on the third floor.	Uns Bökeree is in ’n tweten Stock.
+She can't have written it herself.	Se kann dat nich sülvs schreven hebben.
+She couldn't look him in the face.	Se kunn em nich in ’t Gesicht kieken.
+She didn't want him to play poker.	Se wull nich, dat he Poker speelt.
+She doesn't want to talk about it.	Se will dor nich över snacken.
+She has known him for a long time.	Se hett em al en lange Tied kennt.
+She made him a cake for his party.	Se hett em en Koken för sien Party maakt.
+She stole a lot of money from him.	Se hett em en Barg Geld stahlen.
+She wanted him to help her father.	Se wull, dat he ehr Vader helpen deed.
+She wanted him to sing her a song.	Se wull, dat he ehr en Leed singt.
+She was the first one to help him.	Se weer de eerste, de em hulpen hett.
+Six months is a long time to wait.	Söss Maand to töven is en lange Tied.
+Smoking is forbidden in this area.	Smöken is in dit Rebeed verbaden.
+Sometimes a cigar is just a cigar.	Af un to is en Zigarr eenfach en Zigarr.
+Ten miles is not a short distance.	Teihn Mielen is keen korten Weg.
+That fox must have killed the hen.	Disse Voss mutt de Hehn doodmaakt hebben.
+The boy didn't change his opinion.	De Jung hett sien Verscheel nich ännert.
+The coat doesn't have any pockets.	De Mantel hett keen Taschen.
+The girl under the tree looks sad.	De Deern ünner ’n Boom sütt trurig ut.
+The soldiers set fire to the barn.	De Soldaten hebbt de Schüün anstaken.
+The wall is covered with graffiti.	De Muur is vull mit Graffitis.
+There are no roses without thorns.	Dat gifft keen Rosen ahn Doorns.
+There was a lot of snow last year.	Dat hett vergangen Johr veel Snee geven.
+There was no one else on the road.	Dor weer anners nüms op de Straat.
+They named the ship the Mayflower.	Se nömen dat Schipp „Mayflower“.
+This is the deepest lake in Japan.	Disse See is de deepste See in Japan.
+Three beers and a tequila, please.	Dree Beer un en Tequila harr ik geern.
+Tom met Mary on the way to school.	Tom hett Mary op ’n Weg na School drapen.
+Tom sat cross-legged on the floor.	Tom seet mit krüüzte Been an ’e Eer.
+We have had little snow this year.	We hebbt dit Johr nich veel Snee hatt.
+We have to look after our parents.	Wi mööt uns üm uns Öllern kümmern.
+We lost sight of her in the crowd.	Wi hebbt ehr in de Minschenmeng ut de Ogen verloren.
+What's your favorite kind of fish?	Wat is dien leevste Soort Fisch?
+What's your favorite winter sport?	Wat is dien leevst Wintersport?
+When water freezes it becomes ice.	Wenn Water freert, warrt dat Ies.
+When will your new novel come out?	Wannehr kummt dien ne’en Romaan rut?
+Where did you get those old coins?	Wo hest du disse olen Münten her?
+Who was the telephone invented by?	’Keen hett dat Telefoon utfunnen?
+Would you like something to drink?	Wullt du wat drinken?
+You must learn from your mistakes.	Du musst ut dien Fehlers lehren.
+You need to stop acting so stupid.	Du musst ophören, di so dumm to beren.
+You've drunk three cups of coffee.	Du hest dree Tassen Kaffe drunken.
+America is a country of immigrants.	Amerika is en Inwannererland.
+Ants have a well-organized society.	Miegremen hebbt en good organiseert Sellschop.
+Are you for or against the project?	Büst du för oder gegen dat Projekt?
+Can you show me the list of prices?	Kannst du mi de Prieslist wiesen?
+Cheese is easy to cut with a knife.	Kees lett sik licht mit en Mest snieden.
+Could I have a piece of cheesecake?	Kann ik en Stück Keeskoken kriegen?
+Could I have three cinnamon donuts?	Kann ik dree Kaneel-Kringels hebben?
+Did you bring your family with you?	Hest du diene Famielje mitbröcht?
+Germany is in the middle of Europe.	Düütschland is merrn in Europa.
+Have you stopped beating your wife?	Hest du ophöört, dien Froo to slahn?
+He comes home almost every weekend.	He kummt binah elk Wekenenn na Huus.
+He didn't come to school yesterday.	He is güstern nich na School kamen.
+He has been studying for two hours.	He weer al twee Stünnen bi to lehren.
+He left the house at eight o'clock.	He hett dat Huus Klock acht verlaten.
+He went to Brazil and stayed there.	He is na Brasilien gahn un dor bleven.
+He's been asleep for ten hours now.	He slöppt nu al teihn Stünnen.
+He's standing in front of the door.	He steiht vör de Döör.
+He's the black sheep of the family.	He is dat swarte Schaap in ’e Famielje.
+His hands were deep in his pockets.	Sien Hannen steken deep in sien Taschen.
+His sister can't talk to you today.	Sien Süster kann vondaag nich mit di snacken.
+His youngest son is five years old.	Sien jüngsten Söhn is fiev Johr oold.
+Hurry up, and you'll catch the bus.	Nu man gau, denn kriggst den Bus noch.
+I am convinced that he is innocent.	Ik bün dor von övertüügt, dat he unschüllig is.
+I am grateful to you for your help.	Ik bün di dankbor för dien Hülp.
+I am playing a game with my sister.	Ik speel en Speel mit miene Süster.
+I answered the questions correctly.	Ik heff de Fraag korrekt antert.
+I can't remember where I bought it.	Ik weet nich mehr, woneem ik dat köfft heff.
+I can't think of his name just now.	Mi fallt sien Naam jüst nich in.
+I don't like telling him the truth.	Ik vertell em nich geern de Wohrheid.
+I don't like telling you the truth.	Ik vertell di nich geern de Wohrheid.
+I don't like the taste of tomatoes.	Ik mag den Smack von Tomaten nich.
+I don't want to go to school today.	Ik will vondaag nich na School gahn.
+I have no intention of getting wet.	Ik heff nich vör, natt to warrn.
+I have two brothers and one sister.	Ik heff twee Bröder un een Süster.
+I think the rain's getting heavier.	Mi dücht, de Regen warrt duller.
+I will go cycling even if it rains.	Ik gah Radföhren, ook wenn dat regent.
+I've got two brothers and a sister.	Ik heff twee Bröder un een Süster.
+It is difficult to give up smoking.	Dat is swoor, dat Smöken optogeven.
+It was very cold yesterday evening.	Dat weer temlich koold güstern avend.
+Last year, there was a lot of snow.	Vergangen Johr hett dat veel Snee geven.
+My dog often pretends to be asleep.	Mien Hund deit faken so, as wenn he slöppt.
+My father doesn't really talk much.	Mien Vader snackt nich würklich veel.
+Our galaxy is called the Milky Way.	Uns Galaxie warrt Melkstraat nöömt.
+Our soccer team has a good defense.	Uns Footballmannschop hett en gode Afwehr.
+Please say the alphabet in reverse.	Segg man dat Alfabeet trüggoors op.
+She could not believe what she saw.	Se kunn nich löven, wat se sehn deed.
+She couldn't take her eyes off him.	Se kunn ehr Ogen nich von em kriegen.
+She didn't want him to go overseas.	Se wull nich, dat he na Översee geiht.
+She taught him everything she knew.	Se hett em allens lehrt, wat se wüss.
+She worked from morning till night.	Se deed von morgens bet avends arbeiden.
+Soccer players make a lot of money.	Footballspelers verdeent veel Geld.
+Some kinds of food make us thirsty.	Welk Soorten Eten maakt uns döstig.
+Stop blaming him for your mistakes.	Geev em nich de Schuld för diene Fehlers.
+Take the oranges out of the fridge.	Nehm de Appelsienen ut ’n Köhlschapp.
+The fat woman was holding a monkey.	De fette Froo deed en Aap hollen.
+The fire fighters put out the fire.	De Füürwehrlüüd hebbt dat Füür utdaan.
+The house was surrounded by fields.	Dat Huus weer von Feller ümgeven.
+The king went hunting this morning.	De König is vonmorgen jagen gahn.
+The lion is the king of the jungle.	De Lööw is de Köning von ’n Dschungel.
+This is the house where I was born.	In dit Huus bün ik boren.
+We don't negotiate with terrorists.	Wi verhannelt nich mit Terroristen!
+What is the population of New York?	Woveel Inwahners hett New York?
+What you said is complete nonsense.	Wat du seggt hest is schieren Tüdelkraam.
+What you said is complete nonsense.	Wat du seggt hest is tohoop Tüdelkraam.
+What's your favorite YouTube video?	Wat is dien leevst Youtube-Video?
+What's your favorite constellation?	Wat is dien leevst Steernteken?
+What's your favorite kind of apple?	Wat is dien leevste Soort Appel?
+What's your favorite kind of candy?	Wat is dien leevste Soort Snökerkraam?
+When was it that you first met her?	Wannehr hest du ehr dat eerste Maal drapen?
+Which do you prefer, tea or coffee?	Wat magst du lever, Tee oder Kaffe?
+Which of the two is more expensive?	Welken von de twee is dürer?
+Why don't you come dancing with me?	Worüm kummst du nich mit mi dansen?
+Write your name in capital letters.	Schriev dien Naam in Grootbookstaven.
+You have to read between the lines.	Du musst twüschen de Regen lesen.
+You need to read between the lines.	Du musst twüschen de Regen lesen.
+Both of my parents have passed away.	Miene Öllern sünd all beid dood.
+Can you recommend a good dictionary?	Weetst du en good Wöörbook?
+Christmas falls on Sunday this year.	Wiehnachten fallt dit Johr op en Sünndag.
+Christmas falls on Sunday this year.	Dit Johr fallt Wiehnachten op en Sünndag.
+Did you hear about yesterday's fire?	Hest du von dat Füür güstern höört?
+Do you see the entrance of the park?	Süst du den Ingang von ’n Park?
+Don't let children play in the road.	Laat de Kinner nich op de Straat spelen.
+Everybody knows that you are a liar.	Elkeen weet, dat du en Lögensack büst.
+Fish and red wine don't go together.	Fisch un Roodwien passt nich tohoop.
+God helps those who help themselves.	Help di sülvs, denn helpt di Godd.
+Have you ever seen a film this good?	Hest du al maal son goden Film sehn?
+He has four children to provide for.	He hett för veer Kinner to sorgen.
+He is the black sheep of the family.	He is dat swarte Schaap in ’e Familie.
+He lost his eyesight in an accident.	He hett sien Ogenlicht bi en Unfall verloren.
+He told me that his father was dead.	He hett mi vertellt, dat sien Vader dood is.
+He who risks nothing, gains nothing.	De nix waagt, winnt nix.
+Here is a present for your birthday.	Hier is en Geschenk to dien Geboortsdag.
+How many hours of sleep do you need?	Woveel Stünnen Slaap bruukst du?
+I could not afford to buy a bicycle.	Ik kunn dat nich tügen, mi en Fohrrad to köpen.
+I went to Disneyland with my mother.	Ik bün mit mien Moder na Disneyland wesen.
+I'm beginning to miss my girlfriend.	Ik fang an, mien Fründin to missen.
+If you eat so much, you'll get sick.	Wenn du so veel ittst, warrst du noch krank.
+It is necessary for you to go there.	Du musst dor hengahn.
+It rained all through the afternoon.	Dat hett ’n ganzen Namiddag dör regent.
+Look that word up in the dictionary.	Kiek dat Woord in ’t Wöörbook na.
+Many people in the world are hungry.	Veel Lüüd op de Welt liedt Hunger.
+Meat and eggs have a lot of protein.	Fleesch un Eier hebbt veel Protein.
+My brother lives in a small village.	Mien Broder leevt in en lütt Dörp.
+My mother bakes bread every morning.	Mien Mudder backt elk Morgen Brood.
+My sister is cooking in the kitchen.	Miene Süster kaakt in ’e Köök.
+Open your mouth and close your eyes.	Maak den Mund op un de Ogen dicht.
+She blamed him for all her problems.	Se geev em Blaam för all ehr Probleems.
+She brushes her hair in the morning.	Se börst morgens ehr Hoor.
+She can swim as fast as her brother.	Se kann jüstso gau swemmen as ehr Broder.
+She couldn't hold back her laughter.	Se kunn ehr Lachen nich trügghollen.
+She gave him something hot to drink.	Se geev em wat warm to drinken.
+She has forgiven him for everything.	Se hett em allens vergeven.
+She lost her hat, but soon found it.	Se harr ehren Hoot verloren, hett em aver gau wedderfunnen.
+She said that she's living in Osaka.	Se seed, dat se in Osaka leevt.
+Slavery is a crime against humanity.	Slaveree is en Verbreken gegen de Minschheid.
+That class has 15 boys and 28 girls.	In de Klass sünd 15 Jungs un 28 Deerns.
+The English alphabet has 26 letters.	Dat engelsche Alphabet hett 26 Bookstaven.
+The alarm clock is ten minutes fast.	De Wecker geiht teihn Minuten vör.
+The car door doesn't close properly.	De Autodöör geiht nich önnig to.
+The rule does not apply in our case.	De Regel gellt in uns Fall nich.
+The trumpet is a musical instrument.	De Trumpeet is en Musiekinstrument.
+Their house is far from the station.	Jemehr Huus is wied af von ’n Bahnhoff.
+There is no answer to your question.	Dat gifft op dien Fraag keen Antwoord.
+There's no doubt that he's innocent.	Dor is keen Twievel, dat he unschüllig is.
+They have brown skin and black hair.	Se hebbt brune Huud un swart Hoor.
+They have two sons and one daughter.	Se hebbt twee Söhns un een Dochter.
+We have been waiting here for hours.	Wi hebbt hier al Stünnen töövt.
+We have enough money to buy this CD.	Wi hebbt noog Geld üm disse CD to köpen.
+We managed to swim across the river.	Wi hebbt dat schafft, dör ’n Stroom to swemmen.
+We will teach him to read and write.	Wi schöölt em dat Lesen un Schrieven lehren.
+We yawn when we are short of oxygen.	Wi jappt, wenn wi nich noog Suurstoff kriegt.
+What did you come here so early for?	Worüm büst du hier so tiedig herkamen?
+Which chair did you put the book on?	Op wat för ’n Stohl hest du dat Book packt?
+Why did you say such a stupid thing?	Worüm hest du so ’n Dummtüüg seggt?
+Will you come to the party tomorrow?	Kummst du to de Party morgen?
+Would you like another piece of pie?	Wullt du noch en Stück Koken?
+You don't have to thank me for that.	Dor bruukst du mi nich för to danken.
+You're going in the wrong direction.	Du geihst in de verkehrte Richt.
+You're the only one who can do this.	Du büst de eenzige, de dat doon kann.
+All of a sudden, the lights went out.	Opmaal güngen de Lichten ut.
+China is the biggest country in Asia.	China is dat gröttste Land in Asien.
+He acquired French when he was young.	He hett Fransch lehrt, as he jung weer.
+He dried his wet clothes by the fire.	He deed siene natten Klamotten an ’t Füür drögen.
+Here is the book you are looking for.	Hier is dat Book, na dat du söchst.
+I have nothing to do with the affair.	Ik heff mit de Saak nix to doon.
+I haven't read today's newspaper yet.	Ik heff dat Dagbladd von vondaag noch nich leest.
+I met her at the station by accident.	Ik heff ehr tofällig an ’n Bahnhoff drapen.
+I wonder if what I wrote was correct.	Ik fraag mi, wat dat richtig weer, wat ik schreven heff.
+I'll give you a good piece of advice.	Ik will di en goden Raad geven.
+I'm halfway through this crime novel.	Ik bün mit dissen Krimi halv dör.
+If I were a bird, I could fly to you.	Wenn ik en Vagel weer, denn kunn ik na di henflegen.
+In Japan, there are many hot springs.	In Japan gifft dat veel warme Borns.
+It was dark when I reached the hotel.	Dat weer düüster, as ik bi ’t Hotel ankeem.
+It was so cold that I couldn't sleep.	Dat weer so koold, dat ik nich slapen kunn.
+It won't be long before we can start.	Duurt nich lang, denn köönt wi anfangen.
+My aunt grows tomatoes in her garden.	Miene Tante tütt Tomaten in ehren Goorn.
+My daughter likes to play with dolls.	Mien Dochter speelt geern mit Poppen.
+She couldn't convince him to go home.	Se kunn em nich övertügen, na Huus to gahn.
+She gave him something cold to drink.	Se geev em wat koold to drinken.
+She was stupid enough to believe him.	Se weer dumm noog, em to löven.
+Show me the photos you took in Paris.	Wies mi de Fotos, de du in Paris opnahmen hest.
+Some were farmers, some were hunters.	Welk weren Buurn, welk weren Jägers.
+That cheese is made from goat's milk.	De Kees is ut Zegenmelk maakt.
+The carpenter is measuring the floor.	De Discher mitt den Bodden ut.
+The children were sliding on the ice.	De Kinner hebbt op ’t Ies sliddert.
+The children were sliding on the ice.	De Kinner hebbt op ’t Ies slinnert.
+The children were sliding on the ice.	De Kinner hebbt op ’t Ies glitscht.
+The lamp went out, and all was black.	De Lamp deed utgahn un allens weer düüster.
+The length of this ship is 30 meters.	Dat Schipp is dörtig Meter lang.
+The president put off visiting Japan.	De Präsident hett sien Besöök in Japan afseggt.
+The same is true of all human beings.	Dat sülve kannst von all Minschen seggen.
+The situation is bad enough as it is.	De Laag is so al leeg noog.
+The world doesn't revolve around you.	De Welt dreiht sik nich üm di.
+There are many flowers in the garden.	Dor sünd veel Blomen in ’n Goorn.
+There were about one thousand people.	Dor weren bi dusend Lüüd.
+There's a car in front of the church.	Dor steiht en Auto vör de Kark.
+There's an old movie theater in town.	In de Stadt gifft dat en oold Kino.
+There's nothing like a good hot bath.	Gifft nix, wat beter is as en hitt Bad.
+These days nobody believes in ghosts.	Hüdigendaags löövt nüms mehr an Spökels.
+This Sunday is Mother's Day in Spain.	Dissen Sünndag is Moderdag in Spanien.
+This book is divided into four parts.	Dit Book is in veer Delen ünnerdeelt.
+This hotel is better than that hotel.	Dit Hotel is beter as dat Hotel.
+Tom likes reading English literature.	Tom mag geern engelsche Litteretur lesen.
+We couldn't make out what she wanted.	Wi kunnen nich rutkriegen, wat se wull.
+Would you lend your dictionary to me?	Lehnst du mi dien Wöörbook?
+You can see the whole city from here.	Von hier ut kannst du de ganze Stad sehn.
+You don't have to wait until the end.	Du bruukst nich bet to ’n Enn töven.
+You don't know what it is to be poor.	Du weetst nich, wat dat heet, arm to wesen.
+Your daughter is not a child anymore.	Diene Dochter is keen Kind mehr.
+After the lightning, came the thunder.	Na ’t Lüchten keem dat Rummeln.
+America's Civil War lasted four years.	De Amerikaansche Börgerkrieg hett veer Johr duurt.
+April is the fourth month of the year.	De April is de veerte Maand in ’t Johr.
+Could you put these bags in the trunk?	Kannst du disse Taschen in ’n Kuffer packen?
+Could you show me the way to the port?	Kunnst du mi den Weg na ’n Haven wiesen?
+Has the Foreign Secretary arrived yet?	Is de Butenminister al ankamen?
+He does not take care of his children.	He kümmert sik nich üm sien Kinner.
+He has quite a few valuable paintings.	He besitt veel düre Schilleraatsen.
+He is the tallest person in the class.	He is de Gröttste in de Klass.
+Her friend waited for her by the gate.	Ehr Fründ hett an de Poort op ehr töövt.
+Her plan seems to be better than mine.	Ehr Plaan lett beter as mien.
+I always drink milk with my breakfast.	Ik drink jümmer Melk to mien Fröhstück.
+I get a call from her once in a while.	Se röppt mi hen un wenn maal an.
+I have no strength to lift this stone.	Ik heff nich noog Kraft, den Steen to lüchten.
+I have two brothers and three sisters.	Ik heff twee Bröder un dree Süstern.
+I hope we'll be able to keep in touch.	Ik hööp, dat wi in Kuntakt blieven köönt.
+I'm listening to Björk's latest song.	Ik höör jüst dat ne’este Leed von Björk.
+I'm unable to translate this sentence.	Ik kann dissen Satz nich översetten.
+I've only been online for ten minutes.	Ik bün bloot för teihn Minuten online wesen.
+If I were you, I'd go home right away.	Wenn ik du weer, deed ik glieks na Huus gahn.
+Is Japanese taught in your school now?	Warrt in dien School nu Japaansch lehrt?
+It is just a year since I got married.	Dat is nu jüst en Johr, dat ik verheiraadt bün.
+It was the biggest mistake of my life.	Dat weer de gröttste Fehler von mien Leven.
+She came three minutes after I called.	Se keem dree Minuten, nadem ik ehr anropen harr.
+She was made to wait for over an hour.	Se müss mehr as een Stünn töven.
+Smiling is a cheap way to be prettier.	Smüüstern is en goodkopen Weg üm smucker to wesen.
+Taste this wine to see if you like it.	Prööv dissen Wien, üm to sehn, wat du em magst.
+That's what you get for not listening.	Dat kummt dor von, wenn een nich tohöört.
+The airplane took off ten minutes ago.	De Fleger is vör teihn Minuten loosflagen.
+The children were playing in the dirt.	De Kinner hebbt in ’n Dreck speelt.
+The children were playing in the park.	De Kinner hebbt in ’n Park speelt.
+The company wants to employ 20 people.	Dat Ünnernehmen will twintig Lüüd instellen.
+The house with the green roof is mine.	Dat Huus mit dat gröne Dack höört mi to.
+The ship was flying the American flag.	Dat Schipp hett de amerikaansche Flagg hisst.
+The soldiers were guarding the bridge.	De Soldaten hebbt de Brügg bewaakt.
+The two mountains are of equal height.	De twee Bargen sünd lieker hoog.
+The view from the summit is very nice.	De Utblick von ’n Topp is temlich schöön.
+There are 340 species of hummingbirds.	Dat gifft 340 Soorten von Kolibris.
+There are two zombies inside my house.	Dor sünd twee Zombies in mien Huus.
+There were a lot of birds in the tree.	Dor weer en Barg Vagels in ’n Boom.
+There's almost no water in the bucket.	Dor is meist keen Water in ’n Ammel.
+They're in trouble. Can you help them?	Se hebbt Malesch. Kannst du jem helpen?
+We tried it again, but couldn't do it.	Wi hebbt dat noch wedder versöcht, aver kunnen dat nich doon.
+We've finished cleaning our classroom.	Wi sünd mit dat Reinmaken von uns Klassenruum trech worrn.
+What do you call this bird in English?	Wo heet disse Vagel op Engelsch?
+What's your favorite operating system?	Wat is dien leevst Bedrievssysteem?
+Which is larger, the sun or the earth?	Wat is grötter, de Sünn oder de Eer?
+You should have completed it long ago.	Du schusst dat al lang trech hebben.
+All you have to do is press the button.	Allens, wat du doon musst, is, den Knoop to drücken.
+General Motors laid off 76,000 workers.	General Motors hett 76.000 Lüüd aflohnt.
+He speaks as though he knew everything.	He deed snacken, as wenn he allens wüss.
+Her novel was translated into Japanese.	Ehr Romaan is op Japaansch översett worrn.
+His daughter has become a pretty woman.	Sien Dochter is en smucke Froo worrn.
+I got a cramp in my leg while swimming.	Ik heff bi ’t Swemmen en Ramm in ’t Been kregen.
+I listened, but I didn't hear anything.	Ik heff tolüüstert, aver ik heff nix höört.
+I often played tennis when I was young.	Ik heff faken Tennis speelt, as ik jung weer.
+I received a letter three months later.	Ik heff dree Maand later en Breev kregen.
+I'm reading a book on American history.	Ik lees en Book över amerikaansche Geschicht.
+My pencil fell off the edge of my desk.	Mien Bleesticken is von mien Disch dalfullen.
+One of Jesus' disciples was named Paul.	Een von Jesus sien Apostels hett Paulus heten.
+One of the children left the door open.	Een von de Kinner hett de Döör apen stahn laten.
+She didn't try to translate the letter.	Se hett nich versöcht, den Breev to översetten.
+She didn't want him to stay any longer.	Se wull nich, dat he noch länger blifft.
+She had an appointment with the doctor.	Se harr en Termin bi ’n Dokter.
+She invited him in for a cup of coffee.	Se hett em op en Köppken Koffie inlaadt.
+She stood as close to him as she could.	Se stünn so dicht bi em as dat güng.
+She talked him into buying a new house.	Se hett em rümsnackt, en neet Huus to köpen.
+The first month of the year is January.	De eerste Maand von ’t Johr is de Januar.
+The picture looks better at a distance.	Dat Bild sütt von wieden beter ut.
+The rebels took control of the capital.	De Rebellers hebbt de Kuntroll över de Höövdstad övernahmen.
+The youngsters were singing folk songs.	De jungen Lüüd hebbt Volksleder sungen.
+There is no bus service to the village.	Dor föhrt keen Bus na dat Dörp.
+There was a castle here many years ago.	Vör veel Johren stünn hier en Slott.
+This bike belongs to my little brother.	Dit Fohrrad höört mien lütten Broder to.
+This high humidity makes me feel tired.	De hoge Luftfuchtigkeid maakt mi ganz dösig.
+This is the book that I told you about.	Dat is dat Book, von dat ik di vertellt heff.
+This lake is the deepest lake in Japan.	Disse See is de deepste See in Japan.
+Washington's army has captured Trenton.	Washington sien Armee hett Trenton innahmen.
+You're holding my hand in that picture.	Op dat Bild höllst du mien Hand.
+A drunken man was sleeping on the bench.	En dunen Keerl slööp op de Bank.
+A frog in a well doesn't know the ocean.	En Pogg in en Sood kennt ’n Ozeaan nich.
+A lot of people starved during that war.	Veel Lüüd sünd in den Krieg verhungert.
+Africa is a continent; Greenland is not.	Afrika is en Weltdeel, Gröönland nich.
+Did you write down the telephone number?	Hest du de Telefoonnummer opschreven?
+He only paid ten dollars for that shirt.	He hett man teihn Dollar för dat Hemd betahlt.
+Her dress is blue with white polka dots.	Ehr Kleed is blau mit witte Plackens.
+I have studied Italian for a few months.	Ik heff för en poor Maand Italieensch lehrt.
+I know the reason that she quit her job.	Ik kenn den Grund, worüm as se ehr Steed opgeven hett.
+I was annoyed that she was still asleep.	Ik heff mi argert, dat se jümmer noch slapen hett.
+I'm ashamed to go out dressed like this.	Ik schaam ruttogahn, so antagen.
+I'm not able to translate this sentence.	Ik kann dissen Satz nich översetten.
+If you want a pencil, I'll lend you one.	Wenn du en Bleesticken bruukst, lehn ik di een.
+Language and culture can't be separated.	Spraak un Kultur laat sik nich vonenanner lösen.
+Mary is the prettiest girl in her class.	Maria is de smuckste Deern in ehr Klass.
+My income is twice as large as yours is.	Ik verdeen dubbelt so veel as du.
+My son can already count to one hundred.	Mien Söhn kann al bet hunnerd tellen.
+Please put a lump of sugar in my coffee.	Deist du mi en Kluuntje in mien Koffie?
+Red-haired people tend to have freckles.	Roodhoorte Lüüd hebbt faken Sünnsprütten.
+Scary movies will frighten the children.	Grulige Films warrt de Kinner woll bangmaken.
+Seeing the fresh lobster made me hungry.	As ik den frischen Hummer sehn heff, bün ik hungerig worrn.
+She gave him all the money that she had.	Se hett em all dat Geld geven, wat se harr.
+She looked after my children last night.	Se hett vergangen Nacht op mien Kinner oppasst.
+She scolded him for not mowing the lawn.	Se schell em ut, dat he den Rasen nich meiht harr.
+She seems to be in love with my brother.	Dat lett, as wenn se in mien Broder verleevt is.
+That boy talks as if he were a grown up.	De Jung snackt as en grootwussen Minsch.
+The building is one hundred meters high.	Dat Huus is hunnert Meter hoog.
+The building is one hundred meters high.	Dat Gebüüd is hunnerd Meter hoog.
+The bus arrived ten minutes behind time.	De Bus keem teihn Minuten to laat.
+The children should go outside and play.	De Kinner schullen na buten gahn un spelen.
+The girl kissed her father on the cheek.	De Deern küss ehr Vader op de Back.
+The sale of cigarettes should be banned.	Dat Verköpen von Zigaretten schull verbaden wesen.
+The town was exactly the same as before.	De Stad weer jüst as vörher.
+The worst thing about spring is the mud.	Dat Slimmste an ’t Vörjohr is de Mudd.
+There are a lot of earthquakes in Japan.	Dat gifft veel Eerdbeven in Japan.
+There are many galaxies in the universe.	Dat gifft veel Galaxien in ’t Universum.
+There are only three girls in the class.	Dat gifft man dree Deerns in ’e Klass.
+We can't see the other side of the moon.	Wi köönt de Achtersied von ’n Maand nich sehn.
+We're worried about Grandpa and Grandma.	Wi maakt uns Sorgen över Oma un Opa.
+What Tom said gave a lot of people hope.	Wat Tom seggt hett, hett veel Lüüd Hööp geven.
+A few months later, Israel invaded Egypt.	En poor Maand later is Israel in Ägypten inmarscheert.
+A swarm of hornets attacked the children.	En Swarm Peerhöörnken hett de Kinner angrepen.
+After a brief peace, war broke out again.	Na en korten Freden deed wedder Krieg utbreken.
+After the storm, the sea was quiet again.	Na ’n Storm weer de See wedder rohig.
+Are you saying that I don't have a brain?	Wullt du seggen, dat ik keen Bregen heff?
+Buenos Aires is the capital of Argentina.	Buenos Aires is de Höövdstad von Argentinien.
+Go get her medicine and a glass of water.	Haal man ehr Medizin un en Glas Water.
+He doesn't know what he's supposed to do.	He weet nich, wat he doon schall.
+He has grown three centimeters this year.	He is dit Johr dree Zentimeter wussen.
+How long have you been studying Japanese?	Wo lang hest du Japaansch lehrt?
+How many tractors did you sell last week?	Woveel Treckers hest du vergangen Week verköfft?
+I asked my mother if breakfast was ready.	Ik heff mien Moder fraagt, wat dat Fröhstück trech is.
+I didn't know where to go, or what to do.	Ik wüss nich, woneem ik hengahn oder wat ik doon schull.
+I don't like this shirt. Show me another.	Mi gefallt dit Hemd nich. Wies mi en anner.
+I haven't heard from him for a long time.	Ik heff al lang nix mehr von em höört.
+I just hope nothing goes wrong this time.	Ik hööp man bloot, dat disse Tuur nix scheev geiht.
+I saw the teacher walk across the street.	Ik heff den Schoolmeester över de Straat gahn sehn.
+I spent the weekend reading a long novel.	Ik heff dat Wekenenn tobröcht, en lang Romaan to lesen.
+I stayed at my uncle's during the summer.	Ik heff den Sommer bi mien Unkel verbröcht.
+My life would be meaningless without you.	Mien Leven deed nix bedüden ahn di.
+My neighbor's dog won't eat dry dog food.	De Hund von mien Naver will keen Dröögfoder freten.
+One of the suitcases is completely empty.	Een von de Kuffers is ganz leddig.
+She attacked him with a pair of scissors.	Se hett em mit en Scheer angrepen.
+She is no less beautiful than her sister.	Se is nich minner smuck as ehr Süster.
+She sat next to him with her eyes closed.	Se deed blangen em sitten un harr de Ogen slaten.
+She talked him into going to the concert.	Se hett em rümsnackt, na dat Kunzert to gahn.
+She was stupid enough to go out with him.	Se weer dumm noog, mit em uttogahn.
+Strawberries are expensive in the winter.	Eerdbeern sünd in ’n Winter düür.
+The farmer keeps his tractor in the barn.	De Buur hett sien Trecker in ’e Schüün stahn.
+The pyramids were built in ancient times.	De Pyramiden sünd in ’e antike Tied boot worrn.
+The size of the universe is unimaginable.	De Grött von dat Universum is unvörstellbor.
+The worst thing about summer is the heat.	Dat Slimmste an ’n Sommer is de Hitt.
+The worst thing about winter is the snow.	Dat Slimmste an ’n Winter is de Snee.
+The young man that you saw is my brother.	De Jungkeerl, den du sehn hest, is mien Broder.
+Those who know me know that I'm Catholic.	De, de mi kennt, weet, dat ik kathoolsch bün.
+We're expecting a good harvest this year.	Wi verwacht en gode Oost dit Johr.
+What happened to you? You look miserable.	Wat is di mallöört? Du süst gresig ut.
+When you're hungry, anything tastes good.	Wenn du Hunger hest, smeckt allens good.
+You have little to gain and much to lose.	Du hest wenig to winnen un veel to verleren.
+You look tired. You should rest a little.	Du süst mööd ut. Du schusst di en beten utrohn.
+A whale is no more a fish than a horse is.	En Waal is lieker veel en Fisch as en Peerd dat is.
+All you need is to get a driver's license.	Allens wat du bruukst, is en Föhrerschien to maken.
+Always have your dictionary close at hand.	Heff jümmer dien Wöörbook bi ’e Hand.
+Can you make out what he is trying to say?	Kannst du verstahn, wat he seggen will?
+He has two sisters who both live in Kyoto.	He hett twee Süstern, de all beid in Kyoto leevt.
+He is always complaining of ill treatment.	He jabbelt jümmer, dat he slecht behannelt warrt.
+He was forced to resign as prime minister.	He müss as Premierminister Bott geven.
+I grind my own coffee beans every morning.	Ik mahl elk Morgen mien egen Kaffebohnen.
+I'm looking for your sister. Where is she?	Ik söök na dien Süster. Woneem is de?
+I'm standing outside the church right now.	Ik stah jüst buten de Kark.
+It isn't easy to learn a foreign language.	Dat is nich licht, en frömme Spraak to lehren.
+It's not enough to know only one language.	Dat reckt nich, man een Spraak to könen.
+Many countries have problems with poverty.	Veel Länner hebbt Probleems mit Armood.
+Many weeds were growing among the flowers.	Mank de Blomen wüss veel Unkruud.
+She couldn't convince him to ride a horse.	Se kunn em nich övertügen, op en Peerd to rieden.
+She didn't even try to do the right thing.	Se hett nich maal versöcht, dat richtige to doon.
+She repeatedly said that she was innocent.	Se hett jümmer wedder seggt, dat se unschüllig is.
+Switch on the light. I can't see anything.	Maak dat Licht an. Ik kann nix sehn.
+Thai is the official language of Thailand.	Thai is de Amtsspraak von Thailand.
+That store sells newspapers and magazines.	Disse Laden verköfft Dagbläder un Tiedschriften.
+That's the stupidest thing I've ever said.	Dat is dat Dümmste, wat ik mien Leevdag seggt heff.
+The clock stopped. It needs a new battery.	De Klock is stahnbleven. De bruukt en ne’e Batterie.
+The policeman took the knife from the boy.	De Schandarm nehm ’n Jung dat Mest af.
+The tanker has only a small crew on board.	De Tanker hett man en lütte Kru.
+There are sentences which everybody knows.	Dat gifft Sätz, de elkeen kennt.
+Tom hasn't seen Mary for more than a year.	Tom hett Mary al mehr as een Johr nich mehr sehn.
+We know of more than 100 billion galaxies.	We kennt mehr as 100 Milljarden Galaxien.
+What will you live on while you are there?	Wo wullt du von leven, wenn du dor büst?
+What's your favorite programming language?	Wat is dien leevste Programmeerspraak?
+Will you lend me your bicycle for an hour?	Lehnst du mi dien Fohrrad för en Stünn?
+All you have to do is push this red button.	Allens, wat du doon musst, is dissen roden Knoop drücken.
+Are there still enough chairs for everyone?	Sünd dor noog Stöhl för all?
+As for me, I like chicken better than pork.	Wat mi angeiht, ik mag lever Hohn as Swien.
+Astronomy deals with the stars and planets.	Astronomie hannelt von Steerns un Planeten.
+Dad, will you please let me borrow the car?	Papa, dröff ik mi dat Auto utlehnen?
+Guns don't kill people. People kill people.	Wapen bringt keen Minschen üm. Minschen bringt Minschen üm.
+He will arrive on the afternoon of the 5th.	He schall namiddags an ’n Föfften ankamen.
+Her behavior isn't normal for a young girl.	Ehr Verhollen is nich normaal för en jung Deern.
+How long have you been waiting for the bus?	Wo lang hest du op ’n Bus töövt?
+I like to go to the movies with my friends.	Ik gah geern mit mien Frünnen na ’t Kino.
+I read five different magazines each month.	Ik lees elk Maand fiev verscheden Tiedschriften.
+I told you to open the hood, not the trunk.	Ik heff di seggt, du schasst de Motoorluuk apenmaken, nich den Kuffer.
+I've made a list of things I'd like to buy.	Ik heff en List mit Saken opstellt, de ik geern köpen deed.
+If you were in my place, what would you do?	Wat deedst du an mien Steed?
+In the morning, he was still in a bad mood.	He weer morgens noch ganz gnuddelig.
+It is not easy to learn a foreign language.	Dat is nich licht, en frömme Spraak to lehren.
+Life is not an exact science, it is an art.	Dat Leven is keen exakte Wetenschop, dat is en Kunst.
+Malaria is a disease that mosquitoes carry.	Malaria is en Krankheit, de von Moskitos överdragen warrt.
+Many trees lose their leaves in the winter.	Veel Bööm smiet jemehr Loff in ’n Winter af.
+More tractors meant fewer horses and mules.	Mehr Treckers hebbt minner Peer un Muuldeerten bedüüdt.
+She couldn't convince him to give a speech.	Se kunn em nich övertügen, en Reed to hollen.
+She didn't want him to pamper the children.	Se wull nich, dat he de Kinner verpimpelt.
+She scolded him for not doing his homework.	Se schell em ut, dat he sien Huusopgaven nich daan harr.
+She was always quarreling with her parents.	Se hett sik jümmer mit ehr Öllern streden.
+Show me the doll that you bought yesterday.	Wies mi de Popp, de du güstern köfft hest.
+That sort of flattery will get you nowhere.	Disse Flatteree bringt di gornix.
+The policeman suspected the man was guilty.	De Schandarm deed em för schüllig hollen.
+There are fifty stars on the American flag.	De amerikaansche Flagg hett föfftig Steerns.
+There are nine million bicycles in Beijing.	Dat gifft negen Milljonen Fohrrääd in Peking.
+This is the end of the world as we know it.	Dat is dat Enn von de Welt as wi ehr kennt.
+We are the same age, but different heights.	Wi sünd lieker oold, man verscheden groot.
+Would you mind waiting another ten minutes?	Maakt di dat wat, wenn du nochmaal teihn Minuten töven musst?
+Would you prefer a window or an aisle seat?	Wullt du lever en Sitt an ’t Finster oder an ’n Gang hebben?
+You should return home before it gets dark.	Du schusst man na Huus gahn, ehr dat düüster warrt.
+A bright red ladybug landed on my fingertip.	En hell rode Goddskoh is op mien Fingerdopp lannt.
+A new school building is under construction.	En nee Schoolhuus warrt jüst boot.
+Children who are thirsty should drink water.	Döstige Kinner schullen Water drinken.
+Her hair was long enough to reach the floor.	Ehr Hoor weer so lang, dat dat bet an ’e Eer recken deed.
+I bought a dozen spoons and two dozen forks.	Ik heff en Dutz Löpels un twee Dutz Gaveln köfft.
+I wish I had gone to the theater last night.	Ik wull, ik weer güstern avend in ’t Theater gahn.
+If I knew his address, I would write to him.	Ik deed em schrieven, wenn ik sien Adress wüss.
+In each beehive there can only be one queen.	In elk Immen kann dat man een Immenmoor geven.
+It was a long time before she understood me.	Dat hett lang duurt, bet dat se mi verstahn hett.
+My cat purrs when I scratch behind his ears.	Mien Katt snurrt, wenn ik ehr achter de Ohren krau.
+Real friendship is more valuable than money.	Echte Fründschop is mehr weerd as Geld.
+She is curious to find who sent the flowers.	Se is neeschierig, ’keen ehr de Blomen tostüürt hett.
+She's not the kind of girl you think she is.	Se is nich de Soort Deern, de du denkst.
+Ten years have gone by since my father died.	Teihn Johr sünd nu rüm, dat Vadder doodbleven is.
+That isn't going to happen, and you know it.	Dor kummt nix na un dat weetst du ok.
+The male peacock has colorful tail feathers.	Dat Heken von ’n Pageluun hett bunte Steertfeddern.
+There are fifty states in the United States.	De Vereenigten Staten hebbt föfftig Bundsstaten.
+They want to take part in the Olympic Games.	Se wüllt bi de Olympschen Spelen mitmaken.
+This book is to me what the Bible is to you.	Dit Book is för mi dat, wat för di de Biebel is.
+This is a problem for young people to solve.	Dit is en Probleem, dat junge Lüüd lösen mööt.
+Which do you prefer, white wine or red wine?	Wat wullt du lever, Wittwien oder Roodwien?
+Would you please look after my dog tomorrow?	Kannst du morgen op mien Hund oppassen?
+A crowd soon gathered around the fire engine.	Gau sammel sik en Hümpel Lüüd üm ’t Füüwehrauto.
+A stranger is standing in front of the house.	En Frömmen steiht vör dat Huus.
+Alexander Graham Bell invented the telephone.	Alexander Graham Bell hett dat Telefoon utklamüsert.
+He's got the biggest eyebrows I've ever seen.	He hett de gröttsten Ogenbraan, de ik je sehn heff.
+His new book is going to come out next month.	Sien neet Book schall tokamen Maand rutkamen.
+His plane has not arrived at the airport yet.	Sien Fleger is noch nich an ’n Flegerhaven ankamen.
+I must have lost my purse in the supermarket.	Ik mutt mien Geldbüdel in ’n Supermarkt verloren hebben.
+I want a car, but I have no money to buy one.	Ik will en Auto hebben, man ik heff keen Geld üm een to köpen.
+I was able to swim faster when I was younger.	Ik kunn gauer swemmen as ik jünger weer.
+I wonder why tennis is played in mini-skirts.	Ik fraag mi, worüm se Tennis in Miniröck speelt?
+It is difficult for me to pronounce the word.	Dat fallt mi swoor, dat Woord uttospreken.
+It looks like the dog wants something to eat.	Sütt ut, as wenn de Hund wat to freten hebben will.
+She has known him since they were very young.	Se hett em von lütt op an kennt.
+She heard him cry in the middle of the night.	Se hett em merrn in ’e Nacht wenen höört.
+The actress looks younger than she really is.	De Schauspelerin sütt jünger ut as wat se is.
+The boy and the girl seem to know each other.	De Jung un de Deern kennt sik woll.
+The dog was covered in mud from head to foot.	De Hund weer von Kopp bet Foot mit Mudd vullkleit.
+The gardener didn't let us walk on the grass.	De Goorner hett uns nich verlöövt, op dat Gras to lopen.
+The horse chafed at the bit put in its mouth.	Dat Peerd deed dör dat Bitt in sien Muul unrohig warrn.
+The ice on the lake couldn't bear his weight.	Dat Ies op ’n See kunn sien Wicht nich dregen.
+There are not enough chairs for us to sit on.	Dor sünd nich noog Stöhl, dat wi all sitten köönt.
+They regarded the man as a danger to society.	Se hebbt den Mann as Gefohr för de Sellschop ansehn.
+A tuft of hair showed from underneath her cap.	En Pull Hoor keek ünner ehr Huuv rut.
+A tuft of hair showed from underneath her cap.	En Pull Hoor keek ünner ehr Mütz rut.
+According to the radio, it will snow tomorrow.	Dat Radio seggt, dat dat morgen sneen schall.
+Don't ever compare your wife to another woman.	Vergliek dien Froo nienich mit en annere Froo.
+For a moment there, I thought he had gone mad.	För en Ogenblick heff ik dacht, dat he dull worrn weer.
+He listened to the music with his eyes closed.	He deed mit toe Ogen Musik hören.
+He loves to make a mountain out of a molehill.	He maakt geern en Barg ut en Mollhümpel.
+He selected a pair of socks to match his suit.	He deed en Poor Söcken utsöken, de to sien Antog passen deden.
+He was absent from school because he was sick.	He weer nich in ’e School, denn he weer krank.
+I bought the book for myself, not for my wife.	Ik heff dit Book för mi sülvs köfft, nich för mien Froo.
+I bought the novel on which the film is based.	Ik heff den Romaan köfft, von den de Film kummt.
+I can talk about anything with my best friend.	Ik kann mit mien besten Fründ över allens snacken.
+I don't want to have anything to do with that.	Ik will dor nix mit to doon hebben.
+I prefer going for a walk to seeing the movie.	Ik will lever en Spazeergang maken as ’n Film to kieken.
+I would like to read some books about Lincoln.	Ik wull geern en poor Böker över Lincoln lesen.
+It's better for me to have a fish than a bird.	Dat is beter för mi, wenn ik en Fisch heff un keen Vagel.
+J.F. Kennedy was buried in Arlington Cemetery.	J. F. Kennedy is op ’n Karkhoff Arlington begraven.
+Learning a foreign language requires patience.	Dat Lehren von en Frömdspraak feddert Gedüür.
+My brother loves taking pictures of mountains.	Mien Broder maakt geern Biller von Bargen.
+She kissed me on the cheek and said goodnight.	Se deed mi op de Back küssen un seed mi gode Nacht.
+She looks young, but in reality she's over 40.	Se sütt jung ut, man in Wohrheid is se över 40.
+She talked him into buying her a diamond ring.	Se hett em rümsnackt, ehr en Demantring to köpen.
+Some people like coffee and others prefer tea.	Welk Lüüd möögt Kaffe un anner Lüüd möögt lever Tee.
+The Socialist Party only got 18% of the votes.	De Sozialistische Partei hett man 18% von de Stimmen kregen.
+The first edition was published ten years ago.	De eerste Utgaav is vör teihn Johr rutkamen.
+The lawyer believed in his client's innocence.	De Avkaat deed an de Unschuld von sien Mandant glöven.
+The moment he caught sight of me, he ran away.	Glieks as he mi to sehn kreeg, lööp he weg.
+The potato was so hot that it burned my mouth.	De Kartuffel weer so heet, dat se mi den Mund verbrennt hett.
+The robot was so lifelike that it was uncanny.	De Roboter weer so levensecht, dat dat grugelig weer.
+There aren't many students who can read Latin.	Dat gifft nich veel Schölers, de Latiensch lesen köönt.
+They want to participate in the Olympic Games.	Se wüllt bi de Olympschen Spelen mitmaken.
+This book is easy enough for children to read.	Dit Book is eenfach noog, dat ook Kinner dat lesen köönt.
+This camel is so tame that anyone can ride it.	Dit Kameel is so tamm, dat elkeen dat rieden kann.
+This flower is yellow and the others are blue.	Disse Bloom is geel un de annern sünd blau.
+Today is Saturday and tomorrow will be Sunday.	Vondaag is Sünnavend un morgen is Sünndag.
+You can hear the water dripping from the pipe.	Du kannst dat Water ut de Piep drüppen hören.
+He married twice and had more than 20 children.	He hett twee Maal heiraadt un harr mehr as twintig Kinner.
+How can you say that our soldiers died in vain?	Wo kannst du seggen, dat uns Soldaten för nix storven sünd?
+How long did it take us to translate this book?	Wo lang hebbt wi bruukt, dit Book to översetten?
+I can't remember where this little doodad goes.	Ik weet nich mehr, wo dit lütte Dingsbums rinhöört.
+I have a friend who feeds his dog strawberries.	Ik heff en Fründ, de sien Hund Eerdbeern to freten gifft.
+I went to church every Sunday when I was a boy.	As Jung bün ik jeden Sünndag na Kark gahn.
+If I didn't have money I wouldn't have a house.	Wenn ik keen Geld harr, harr ik keen Huus.
+India gained independence from Britain in 1947.	Indien is 1947 von Grootbritannien unafhängig worrn.
+It's hard for him to live on his small pension.	Dat is hart för em, mit sien lütte Rent dörtokamen.
+Just one year has gone by since my friend died.	Is nu jüst een Johr verleden, dat mien Fründ doodbleven is.
+Kelantan is one of the states in West Malaysia.	Kelantan is een von de Staten in West-Malaysia.
+She couldn't convince him to buy her a new car.	Se kunn em nich övertügen, ehr en neet Auto to köpen.
+She didn't want him to go out with other women.	Se wull nich, dat he mit annere Froonslüüd utgeiht.
+She is trying to save as much money as she can.	Se versöcht so veel to sporen as man geiht.
+The picture on the wall was painted by Picasso.	Dat Bild an ’e Wand is von Picasso maalt worrn.
+The students hold their teacher in high regard.	De Schölers estemeert jemehr Schoolmeester temlich.
+There's going to be a three-mile race tomorrow.	Dat schall morgen en Dree-Mielen-Rennen geven.
+Thousands of foreigners visit Japan every year.	Dusende Frömme besöökt Japan elk Johr.
+Tom puts salt on just about everything he eats.	Tom deit an meist allens, wat he itt, Solt.
+What is the student population at your college?	Woveel Studenten hett diene Universität?
+Who has more fans, Celine Dion or Mariah Carey?	’Keen hett mehr Fans, Celine Dion oder Mariah Carey?
+You alone can do it, but you can't do it alone.	Du alleen kannst dat doon, aver du kannst dat nich alleen doon.
+You should set a good example to your children.	Du schusst dien Kinner en good Vörbild wesen.
+A healthy man does not know the value of health.	En gesunnen Minsch weet de Gesundheid nich to estemeren.
+A strange figure suddenly came through the door.	En gediegen Postüür keem opmaal rin ’e Döör.
+God gave her a beautiful face and a sweet voice.	Godd hett ehr en smuck Gesicht un en söte Stimm geven.
+He feels this new law will restrict his freedom.	Em weer, dat dat ne’e Gesett sien Freeheid minnern schull.
+He went to America to study American literature.	He is Amerika gahn üm amerikaansche Literatur to studeren.
+I closed the door so that they wouldn't hear us.	Ik möök de Döör dicht, dat se uns nich hören deden.
+I haven't eaten anything in the past three days.	Ik heff in de vergangen dree Daag nix eten.
+I often use SSH to access my computers remotely.	Ik bruuk faken SSH üm von annerwegens op mien Reekner roptokamen.
+I saw a fishing boat about a mile off the shore.	Ik heff en Fischerboot üm un bi een Miel von de Küst af sehn.
+I was searching for something that didn't exist.	Ik weer op de Söök na wat, wat dat nich geven deed.
+It's been a long time since I last spoke French.	Dat is al lang her, dat ik toletzt Franzöösch snackt heff.
+Many people are suffering from the lack of food.	Veel Lüüd hebbt ünner en Mangel an Eten to lieden.
+My sister was on a diet for a week, but gave up.	Miene Süster hett för een Week Diät maakt, aver denn opgeven.
+New York City policemen wear dark blue uniforms.	De Schandarms in New York draagt düüsterblaue Uniformen.
+Rocket technology improved during World War Two.	De Raketentechnologie is düchtig vörankamen in ’n Tweten Weltkrieg.
+She has two cats. One is white and one is black.	Se hett twee Katten, een is witt un een swart.
+The cat chased the mouse, but couldn't catch it.	De Katt jöög de Muus, man kunn ehr nich fangen.
+The village is located high up in the mountains.	Dat Dörp liggt hoog baven in ’e Bargen.
+To make a tart, you need eggs, butter and sugar.	Üm en Tort to maken, bruukst du Eier, Botter un Sucker.
+Two months have passed since he left for France.	Dat is twee Maand her, dat he na Frankriek gahn is.
+Cover your mouth when you cough, sneeze, or yawn.	Holl de Hand vör ’n Mund, wenn du kröchst, pruuscht oder jappst.
+He drank a cup of tea and then asked for another.	He drünk en Köppken Kaffe un hett denn üm noch een beden.
+I had hardly gone to bed when the telephone rang.	Ik weer jüst in ’t Bedd gahn, as dat Telefoon klingel.
+Neptune is the eighth planet of the solar system.	Neptun is de achte Planeet von dat Sünnsysteem.
+Once upon a time, there was a beautiful princess.	Vör lange, lange Tied weer dor eens en smucke Prinzess...
+Practice is the best way to improve your English.	Öven is de beste Weg, dien Engelsch to verbetern.
+She helped her younger brother with his homework.	Se hett ehren jüngern Broder bi de Huusopgaven hulpen.
+Teaching children is easier than teaching adults.	Kinner ünnerrichten geiht lichter as Grootwussene to ünnerrichten.
+The Great Wall of China is over 5,500 miles long.	De Chineesch Müür is över 5.500 Mielen lang.
+The Great Wall of China is over 5,500 miles long.	De Chineesch Müür is över 8.800 Kilometer lang.
+The capital city of the Netherlands is Amsterdam.	De Höövdstad von de Nedderlannen is Amsterdam.
+There are more than 50,000 books in this library.	Dor sünd mehr as 50.000 Böker in disse Bökeree.
+There's nothing in this world that I'm afraid of.	Dat gifft nix op de Welt, wo ik vör bang bün.
+This is very good ice cream. Won't you have some?	Dat Ies smeckt good. Wullt du würklich nix hebben?
+We got up early so that we could see the sunrise.	Wi sünd froh opstahn, dat wi den Sünnopgang sehn köönt.
+Which do you like better, white wine or red wine?	Wat magst du lever, Wittwien oder Roodwien?
+A policeman asked the girls if the car was theirs.	En Schendarm fröög de Deerns, wat dat Auto jem tohören deed.
+Do you know the difference between silver and tin?	Kennst du den Ünnerscheed twüschen Sülver un Tinn?
+He was made to sign the contract against his will.	He müss den Verdrag gegen sien Willen ünnerschrieven.
+I don't mind the cold, but I can't stand the heat.	Küll maakt mi nix ut, aver Hitt kann ik nich af.
+I don't want to hear any more of your complaining.	Ik will nix mehr von dien Gejabbel hören.
+I read in the newspaper that he had been murdered.	Ik heff in dat Bladd leest, dat he ümbrocht worrn is.
+She couldn't convince him to write a song for her.	Se kunn em nich övertügen, en Leed för ehr to schrieven.
+She heard him scream, so she ran into his bedroom.	Se hett em schreen höört un is na sien Slaapkamer rönnt.
+The hummingbird is the smallest bird in the world.	De Kolibri is de lüttste Vagel op de Welt.
+The sofa is wide enough for four people to sit on.	Dat Sofa is breed noog, dat veer Lüüd dor op sitten köönt.
+There are over 2,500 types of snakes in the world.	Dat gifft mehr as 2500 Soorten Snaken op de Welt.
+Which do you like best, apples, oranges or grapes?	Wat magst du opleevst: Appels, Appelsienen oder Wiendruven?
+"Have you seen my cell phone?" "It's on the table."	„Hest du mien Mobieltje sehn?“ „Dat liggt op ’n Disch.“
+He was very tall and thin, with long arms and legs.	He weer temlich groot un dünn, mit lange Arms un Been.
+I wonder how many horses died during the Civil War.	Ik fraag mi, woveel Peer in ’n Börgerkrieg doodbleven sünd.
+If you see the cat in this picture, please call us.	Wenn du de Katt op dit Bild süst, denn roop an.
+India was governed by Great Britain for many years.	Indien is vele Johren lang von Grootbritannien regeert worrn.
+It smells like something is burning in the kitchen.	In ’e Köök rückt wat brennerig.
+Someone is at the front door. Go and see who it is.	Dor is een an de Döör. Gah man un kiek ’keen dat is.
+The boy was searching for the key that he had lost.	De Jund deed na ’n Slötel söken, den he verloren harr.
+The equator divides the earth into two hemispheres.	De Äquater deelt de Eer in twee Halvscheden.
+We are both looking for something that isn't there.	Wi sünd all beid op de Söök na wat, wat nich dor is.
+What's your favorite thing to do in your free time?	Wat deist du opleevst in dien fre’e Tied?
+Wikipedia is the best encyclopedia on the Internet.	Wikipedia is dat beste Nakieksel op ’t Internett.
+He fell asleep behind the wheel and had an accident.	He is achter ’t Stüür toslapen un harr en Unfall.
+How old were you when you had your first girlfriend?	Wo oold weerst du, as du dien eerste Fründin harrst?
+I don't understand what the author is trying to say.	Ik verstah nich, wat de Autor dor mit seggen will.
+I want to contact him. Do you know his phone number?	Ik will em anropen. Hest du sien Telefoonnnummer?
+If I were invisible I wouldn't have to dress myself.	Wenn ik unsichtbor weer, denn müss ik nix anhebben.
+Look carefully. I'm going to show you how it's done.	Kiek good to. Ik wies di, wo dat geiht.
+One drop of the poison is enough to kill 160 people.	Een Drüppen von dat Gift reckt, üm 160 Lüüd ümtobringen.
+Our ancestors arrived in this country 150 years ago.	Uns Vöröllern kemen vör 150 Johr in dit Land an.
+Our house has seven rooms including the dining room.	Uns Huus hett söven Kamern, de Stuuv mittellt.
+She looked at me with tears running down her cheeks.	Se keek mi an un harr Tranen, de ehr Backen dalrullen deden.
+She sat next to him wishing she were somewhere else.	Se deed blangen em sitten un deed sik wünschen, dat se annerwegens weer.
+The back seat of the car will hold three passengers.	De Achterbank von ’t Auto hett Platz för dree Lüüd.
+The girl closed her eyes and listened to the pastor.	De Deern deed ehr Ogen dicht un höör ’n Pastoor to.
+The more I think about it, the less I understand it.	Wo mehr ik dör över nadenk, wo weniger verstah ik dat.
+The sperm whale can dive to a depth of 1,000 meters.	De Pottwaal kann bet in en Deepd von dusend Meter duken.
+There are over 800,000 Basque speakers in the world.	Dat gifft mehr as 800.000 Lüüd op de Welt, de Basksch snacken doot.
+There were shepherds keeping watch over their flock.	Dor weren Schäpers, de op jemehr Hood oppassen deden.
+There were two red hats on this table two hours ago.	Vör twee Stünnen weren dor twee rode Hööd op dissen Disch.
+We are busy preparing for our wedding and honeymoon.	Wi harrn dor mit to doon, allens för uns Hochtied un Honnigmaand praat to maken.
+We often come across Japanese tourists in this area.	In dit Viddel drippt een faken japaansche Turisten.
+When I hear this song, I think of you, and miss you.	Wenn ik dit Leed höör, denn denk ik an di un miss di.
+Daniel Gabriel Fahrenheit was born in 1686 in Danzig.	Daniel Gabriel Fahrenheit is 1686 in Danzig boren.
+He bribed that politician with a great deal of money.	He deed den Politiker mit en groten Hümpel Geld smeren.
+He couldn't speak because the audience was too noisy.	He kunn nich snacken, vonwegen dat de Tokiekers to luud weren.
+I am highly honored by the presence of the president.	Dat is för mi en grote Ehr, dat vondaag de Präsident dor is.
+I could hardly believe my ears when I heard the news.	Ik kunn mien Ohren kuum glöven, as ik de Narichten höört heff.
+One drop of this poison is enough to kill 160 people.	Een Druppen von dat Gift reckt üm 160 Lüüd ümtobringen.
+The church is decorated with flowers for the wedding.	De Kark is för de Hochtied mit Blomen smückt.
+The principal shook hands with each of the graduates.	De Rekter deed elkeen von de Schoolafgängers de Hannen schüdden.
+You should look after the children from time to time.	Du schusst af un to maal na de Kinner kieken.
+You should look over the contract before you sign it.	Du schusst di den Verdrag dörkieken, ehrdat du em ünnerschriffst.
+A lot of children don't hear the difference very well.	Veel Kinner höört den Verscheel nich so good.
+He took care of the business after his father's death.	Na sien Vader sien Dood hett he sik üm dat Geschäft kümmert.
+This caterpillar will turn into a beautiful butterfly.	Disse Ruup schall woll en smucken Botterlicker warrn.
+When I hear that song, I think about when I was young.	Wenn ik dit Leed höör, denn denk ik an de Tied as ik jung weer.
+Your mother must've been beautiful when she was young.	Diene Moder mutt smuck wesen hebben, as se jung weer.
+All horses are animals, but not all animals are horses.	All Peer sünd Deerten, man nich all Deerten sünd Peer.
+How is it that you know so much about Japanese history?	Wo kummt dat, dat du so veel von japaansche Geschicht afkennst?
+I can't turn the shower off. Could you check it for me?	Ik kann de Duusch nich utkriegen. Kannst du dat för mi nakieken?
+I had to study hard to keep up with the other students.	Ik müss driest lehren, dat ik mit de annern Schölers mithollen kunn.
+If you cut the tail off of a lizard, it will grow back.	Wenn du en Eerdkrüper den Steert afsniddst, denn wasst he wedder na.
+She looks young, but actually she's older than you are.	Se sütt jung ut, aver in Würklichkeid is se öller as du.
+Speak louder. Your grandfather's hearing isn't so good.	Snack luder. Dien Opa höört nich mehr so good.
+The doctor recommended that you should give up smoking.	De Dokter rekumdeer, dat du dat Smöken opgeven schusst.
+There are a lot of stars which are larger than our sun.	Dat gifft veel Steerns, de grötter as uns Sünn sünd.
+Tom has never dated a girl whose name ends with an "s."	Tom is nie mit en Deern utgahn, de ehr Naam achtern en „s“ harr.
+I can tell you nothing more. I've already said too much.	Ik kann di nich mehr vertellen. Ik heff al toveel seggt.
+I was curious to know why people had been staring at me.	Ik wull geern weten, worüm as mi de Lüüd angluupt harrn.
+If I had known her address, I would have written to her.	Harr ik ehr Adress weten, harr ik ehr schreven.
+She tries to keep up with what is going on in the world.	Se versöcht an ’n Ball to blieven, wat op de Welt so vör sik geiht.
+The Panama Canal connects the Atlantic with the Pacific.	De Panama-Kanaal verbinnt den Atlantik mit ’n Pazifik.
+The captain is responsible for the safety of passengers.	Dat is ’n Koptein sien Opgaav, dat de Fohrgäst seker sünd.
+We associate Darwin's name with the theory of evolution.	Wi verbinnt Darwin sien Naam mit de Evolutionstheorie.
+You should spend more time outside and less time inside.	Du schusst mehr Tied buten tobringen un weniger binnen.
+Everyone would like to believe that dreams can come true.	Jedereen will geern glöven, dat Drööm wohr warrn köönt.
+He used all his strength to crawl out of the wrecked car.	He deed all sien Knööv bruken, üm ut dat Autowrack to krupen.
+How tall do you think my daughter will be in three years?	Wat meenst du, wo groot miene Dochter in dree Johr wesen schall?
+There are many politicians who don't keep their promises.	Gifft veel Politikers, de jemehr Verspreken nich hollen doot.
+A child who has lost both his parents is called an orphan.	En Kind, dat siene beiden Öllern verloren hett, heet Weetkind.
+A nuclear war will bring about the destruction of mankind.	En Atoomkrieg warrt den Ünnergang von de Minschheid bringen.
+He is French by birth, but he is now a citizen of the USA.	He is von Geboort Franzoos, man nu is he en Börger von de USA.
+She wanted to die because she couldn't satisfy her parents.	Se wull starven, vonwegen dat se ehr Öllern nich tofreden maken kunn.
+She's only two years old, but she can already count to 100.	Se is man twee Johr oold, aver kann al bet hunnerd tellen.
+Tell me the reason why you want to live in the countryside.	Segg mi den Grund, worüm as du op ’n Lannen leven wullt.
+They were all so tired that they could do nothing but yawn.	Se weren all so mööd dat se anners nix as jappen kunnen.
+I have a cat and a dog. The cat's black and the dog's white.	Ik heff en Katt un en Hund. De Katt is swart un de Hund is witt.
+Nobody knows what it is that has been bothering him so much.	Nüms weet, wat em so pieren deed.
+You say Nessie is an imaginary being, but I think she exists.	Du seggst, Nessie is man en inbillit Wesen, man ik segg, dat ehr dat gifft.
+I don't care if the early bird gets the worm. I want to sleep.	Dat kehrt mi nich, dat de fröhe Vagel den Worm fangt, ik will slapen.
+I have a cat and a dog. The cat is black and the dog is white.	Ik heff en Katt un en Hund. De Katt is swart un de Hund is witt.
+On a good day, you can see the coast of Estonia from Helsinki.	An en goden Dag kannst du von Helsinki ut de Küst von Eestland sehn.
+You might not like this beer at first. It's an acquired taste.	Dat Beer smeckt di villicht toeerst nich. Man mutt sik an ’n Smack wennen.
+Do you have any idea how many people died when the Titanic sunk?	Weetst du, woveel Lüüd doodbleven sünd, as de Titanic ünnergahn is?
+The Balkan Mountain range runs across Bulgaria from west to east.	De Balkan-Bargkeed löppt von West na Oost dör Bulgarien.
+I usually take a shower after I play tennis, but today I couldn't.	Normalerwies duusch ik na ’n Tennis, man vondaag kunn ik nich.
+The poor old man became so thin that now he's just skin and bones.	De arme ole Mann is so dünn worrn, dat he man noch Huud un Knaken is.
+They looked at the photo taken of me when I was a boy and laughed.	Se hebbt sik dat Foto von mi as lütt Jung ankeken un lacht.
+A molecule of water is made up of one oxygen and two hydrogen atoms.	En Watermoküül besteiht ut een Suurstoff- un twee Waterstoff-Atooms.
+Generally speaking, girls are better at learning languages than boys.	In ’t Allgemeen sünd Deerns beter bi ’t Spraken lehren as Jungs.
+The train was so packed that I had to stand up during the whole trip.	De Tog weer so proppenvull, dat ik de ganze Fohrt stahn müss.
+His favorite baseball team is the Giants, but he likes the Lions, too.	Sien leevste Baseball-Mannschop sünd de Giants, man he mag de Lions ook.
+She persuaded him to do it even though she knew it wasn't a good idea.	Se deed em övertügen, dat to doon, ofschoonst se wüss, dat dat keen gode Idee weer.
+Chimpanzees normally have their first child at age 13, humans at age 19.	Schimpansen hebbt jemehr eerst Kind mit 13, Minschen mit 19.
+The tooth fairy teaches children that they can sell body parts for money.	De Tähnfee lehrt Kinner, dat se Delen von jemehr Liev för Geld verköpen köönt.
+I have a son and a daughter. The one is in New York, and the other in London.	Ik heff en Söhn un en Dochter. De een is in New York un de annere in London.
+In countries such as Norway and Finland, they have lots of snow in the winter.	In Länner so as Noorwegen un Finnland hebbt se in ’n Winter en Hümpel Snee.
+A man with a watch knows what time it is, a man with two watches is never sure.	En Mann mit een Klock weet jümmer, wat de Tied is. En Mann mit twee Klocken is nie nich wiss.
+Barcelona is the capital of Catalonia, and is the second biggest city in Spain.	Barcelona is de Höövdstad von Katalonien un de tweetgröttste Stad in Spanien.
+My five year old daughter always goes to kindergarten happy and full of energy.	Mien fiev Johr ole Dochter geiht jümmer blied un kregel na ’n Kinnergoorn.
+Is it possible for you to come to the office an hour earlier than usual tomorrow?	Kanst du morgen een Stünn fröher as ans in ’t Büro kamen?
+Tom thought it would be a good idea to start a website that sold nothing but popcorn.	Tom dach, dat dat en gode Idee is, en Websteed optomaken, de ans nix verköfft as Popcorn.
+Democracy is the worst form of government, except all the others that have been tried.	Demokratie is de leegste Form för en Regeren, maal afsehn von all de annern de betherto utprobeert worrn sünd.
+It's better to use plastic chopsticks and wash them than to use disposable chopsticks.	Dat is beter, Plastik-Eetsticken to bruken un jem to waschen, as Wegsmiet-Eetstickens to bruken.
+I began driving our tractor when I was 12 years old to help my father out at harvest time.	Ik heff dat Treckerföhren anfungen, as ik twölv weer un mien Vader in ’e Oorntied hulpen heff.
+In theory, there is no difference between theory and practice. But, in practice, there is.	In ’e Theorie gifft dat keen Ünnerscheed twüschen Theorie un Praxis. Aver in ’e Praxis gifft dat een.
+It had the head of a woman, the body of a lion, the wings of a bird, and the tail of a serpent.	Dat harr den Kopp von en Froo, den Liev von en Löwen, de Flögels von en Vagel un den Steert von en Snaak.
+If you don't want to put on sunscreen, that's your problem. Just don't come complaining to me when you get a sunburn.	Wenn du keen Sünnkreem bruken wullt, denn is dat dien Saak. Aver jabbel later nich, wenn du en Sünnbrand kriggst.
+As a prank, some students let three goats loose inside their school after painting the numbers 1, 2 and 4 on the sides of the goats. The teachers spent most of the day looking for goat number 3.	Ut Undöögd hebbt en poor Schölers dree Zegen in jemehr School freelaten, de de Tallen 1, 2 un 4 an ’e Sied opmaalt harrn. De Schoolmeesters hebbt ’n Rest von Dag tobröcht, de Zeeg mit de Nummer 3 to söken.

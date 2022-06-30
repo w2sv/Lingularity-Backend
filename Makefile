@@ -17,7 +17,7 @@ install-spacy-models:
 test: mypy pytest doctest coverage-report  # run with -k flag in order to continue in case of recipe failure
 
 mypy:
-	mypy backend/
+	mypy backend/src/
 
 pytest:
 	coverage run -m pytest -vv tests/ --randomly-seed=69
@@ -30,13 +30,11 @@ doctest:
 	python -m pytest \
 				-vv \
 				--doctest-modules \
-				--doctest-continue-on-failure ./backend/
+				--doctest-continue-on-failure ./backend/src/
 
 ##############
 # Publishing #
 ##############
-
-publish-patched: test patch-version _publish
 
 patch-version:
 	poetry version patch

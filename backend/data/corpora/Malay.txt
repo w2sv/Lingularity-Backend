@@ -1,0 +1,401 @@
+Wow!	Wau!
+Wow!	واو!
+Wow!	Wah!
+Wow!	واه!
+Attack!	Serang!
+Forget it.	Lupakannya.
+Forget it.	Lupakanlah.
+Do come in.	Silakan masuk.
+I just ate.	Saya baru sudah makan.
+I'm hungry.	Perut lapar.
+I'm hungry.	Laparnya...
+Is it true?	Betulkah?
+Is it true?	Benarkah?
+Smell this.	Bau ini.
+Smell this.	باو اين.
+Smell this.	Hidu ini.
+Smell this.	هيدو اين.
+Are you new?	Awak baru?
+I'm at home.	Saya sedang berada di rumah.
+I'm thirsty.	Saya dahaga.
+What's that?	Apa itu?
+I don't know.	Tak tahu.
+I don't know.	Tidak tahu.
+I hate tests.	Saya benci ujian.
+I hate tests.	ساي بنچي اوجين.
+I hate tests.	Saya benci peperiksaan.
+I hate tests.	ساي بنچي ڤڤريقساءن.
+I can't drive.	Saya tidak boleh memandu.
+I can't drive.	ساي تيدق بوليه ممندو.
+I like yellow.	Saya suka kuning.
+I like yellow.	ساي سوک كونيڠ.
+It is raining.	Hari sedang hujan.
+Stop fighting!	Berhenti berlawan!
+Stop fighting!	برهنتي برلاون!
+Stop fighting!	Berhenti bergaduh!
+Stop fighting!	برهنتي برڬادوه!
+Who's at home?	Siapa ada di rumah?
+Catch the ball.	Tangkap bola.
+Catch the ball.	تڠكڤ بولا.
+Fold the towel.	Lipat tuala.
+Fold the towel.	ليڤت توالا.
+Good luck, Tom.	Semoga berjaya, Tom.
+Good luck, Tom.	سموݢ برجاي⹁ توم.
+I have no clue.	Saya tiada pembayang langsung.
+I'm not pretty.	Saya tak cantik.
+It's expensive.	Harganya mahal.
+Please come in.	Silakan masuk.
+Balls are round.	Bola adalah bulat.
+Balls are round.	بولا اداله بولت.
+How old are you?	Berapakah umur awak?
+How old are you?	Umur berapa?
+I had to resign.	Saya terpaksa meletakkan jawatan.
+I have a family.	Saya sudah berkeluarga.
+It was too late.	Ia sudahpun terlambat.
+Please sit down.	Sila duduk.
+We have ponchos.	Kami ada poncho.
+We have ponchos.	کامي اد ڤونچو.
+What can you do?	Apa yang boleh awak lakukan?
+I regret nothing.	Saya tak menyesal langsung.
+Is that possible?	Bolehkah begitu?
+It still happens.	Ia masih berlaku.
+My throat is dry.	Tekak saya kering.
+Tom hurt himself.	Tom mencederakan dirinya.
+Tom hurt himself.	توم منچدراكن ديريڽ.
+Everyone is drunk.	Semua orang mabuk.
+I'll eat an apple.	Saya akan makan sebiji epal.
+Let's begin, then.	Jadi, mari mula.
+Let's begin, then.	جادي⹁ ماري مولا.
+Let's begin, then.	Jadinya, ayuh mulakan.
+Let's begin, then.	جاديڽ⹁ ايوه مولاکن.
+Life is enjoyable.	Hidup adalah menyeronokkan.
+Please look again.	Sila lihat kembali.
+Stealing is wrong.	Mencuri itu salah.
+Stealing is wrong.	منچوري ايت ساله.
+There is one less.	Seorang tidak cukup.
+We believe in God.	Kami percaya kepada Tuhan.
+We believe in God.	Kami percaya kepada Allah.
+What's a pandemic?	Apa itu pandemik?
+What's a pandemic?	اڤ ايت ڤندميک؟
+Bananas are yellow.	Pisang berwarna kuning.
+Bananas are yellow.	ڤيسڠ برورنا كونيڠ.
+Hold on one second.	Tunggu sebentar.
+How was Tom killed?	Bagaimana Tom telah dibunuh?
+I'll eat the apple.	Saya akan makan epal itu.
+I'm going to do it.	Saya akan melakukannya.
+I'm not unemployed.	Saya tidak menganggur
+Is there any sugar?	Ada gula?
+Real men drink tea.	Lelaki sebenar minum teh.
+That was my intent.	Itulah niat saya.
+That was my intent.	Itulah tujuan saya.
+Tom is a beekeeper.	Tom ialah pemelihara lebah.
+Tom is a beekeeper.	توم اياله ڤمليهارا لبه.
+What are you doing?	Awak buat apa?
+What's the problem?	Apa masalahnya?
+You need not do so.	Kamu tak perlu buat pun.
+You need not do so.	كامو تق ڤرلو بوات ڤون.
+Are you always busy?	Adakah awak sentiasa sibuk?
+I don't have change.	Saya tiada duit pecah.
+I must convince Tom.	Saya mesti meyakinkan Tom.
+I tested everything.	Saya sudah menguji kesemuanya.
+I tested everything.	ساي سوده مڠوجي كسمواڽ.
+I'm eating an apple.	Saya sedang makan sebiji epal.
+My neck hurts today.	Leher saya sakit hari ini.
+Tom passed the test.	Tom telah lulus ujian.
+Tom passed the test.	توم تله لولوس اوجين.
+We're eating apples.	Kami sedang makan epal.
+Where is the toilet?	Tandas di mana?
+Why can't I hug you?	Kenapa saya tidak boleh memeluk kamu?
+Why can't I hug you?	كنڤ ساي تيدق بوليه مملوق كامو؟
+You never showed up.	Tetapi awak tidak datang
+He's eating an apple.	Dia sedang makan sebiji epal.
+I can't get involved.	Saya tidak boleh terlibat.
+I can't get involved.	Saya tidak boleh masuk campur.
+I can't walk anymore.	Saya sudah tak larat untuk berjalan.
+I know how Tom feels.	Saya tahu apa yang Tom rasa.
+I know how Tom feels.	ساي تاهو اڤ يڠ توم راس.
+I know how Tom feels.	Saya tahu perasaan Tom.
+I know how Tom feels.	ساي تاهو ڤراساءن توم.
+I like to eat apples.	Saya suka makan epal.
+May I eat this apple?	Bolehkah saya makan epal ini?
+No one was listening.	Tiada siapa yang mendengar.
+No one was listening.	تياد سياڤا يڠ مندڠر.
+Tom isn't very happy.	Tom tidak begitu gembira.
+We took a wrong turn.	Kita telah masuk ke simpang yang salah.
+When will you return?	Bilakah awak pulang?
+When will you return?	Bilakah awak akan kembali?
+A table has four legs.	Meja mempunyai empat kaki.
+A table has four legs.	ميجا ممڤوڽاءي امڤت كاكي.
+A table has four legs.	Meja ada empat kaki.
+A table has four legs.	ميجا اد امڤت كاكي.
+Don't waste your time.	Jangan bazirkan masa awak dengan sia-sia.
+Give me back my money.	Pulangkan balik duit saya.
+Give me back my money.	ڤولڠکن باليق دوءيت ساي.
+I'm at home right now.	Saya sedang berada di rumah.
+She's eating an apple.	Dia sedang makan sebiji epal.
+We love eating apples.	Kami suka makan epal.
+We love eating apples.	Saya suka makan epal
+What you say is right.	Apa yang kamu katakan itu benar.
+What you say is right.	اڤ يڠ کامو کاتاکن ايت بنر.
+Do you know her father?	Awak kenal bapanya?
+I don't take vacations.	Saya tidak mengambil cuti.
+I don't take vacations.	ساي تيدق مڠمبيل چوتي.
+I have to get to class.	Saya mesti pergi ke kelas.
+I have to get to class.	ساي مستي ڤرڬي ككلس.
+I know what I'm saying.	Saya tahu apa yang saya katakan.
+I know what I'm saying.	ساي تاهو اڤ يڠ ساي كاتاكن.
+I know what's going on.	Saya tahu apa yang sedang berlaku.
+I'll call you tomorrow.	Esoklah saya akan telefon awak.
+It might rain tomorrow.	Esok mungkin hujan.
+Please throw this away.	Tolong buang sampah ini.
+That happens sometimes.	Ia berlaku kadang-kadang.
+The rooster is crowing.	Ayam itu sedang berkokok.
+What are you doing now?	Awak sedang buat apa?
+What's Tom angry about?	Apa yang Tom marahkan?
+Can I see your notebook?	Bolehkah saya lihat buku nota awak?
+Could you wait a moment?	Boleh awak tunggu sebentar?
+I want to eat apple pie.	Saya hendak makan pai epal.
+I was at home yesterday.	Semalam saya berada di rumah.
+I'm fine. How about you?	Saya baik. Bagaimana dengan awak?
+I'm here because of Tom.	Saya di sini kerana Tom.
+Let's practice together.	Mari kita berlatih bersama-sama.
+The sky is getting dark.	Nampaknya, langit semakin gelap.
+This is so embarrassing.	Ini sungguh memalukan.
+Tom has to learn French.	Tom perlu belajar Perancis.
+Tom has to learn French.	توم ڤرلو بلاجر ڤرنچيس.
+Tom sent Mary to Boston.	Tom telah menghantar Mary ke Boston.
+Tom sent Mary to Boston.	توم تله مڠهنتر ماري كبوستون.
+Who among us is perfect?	Siapakah antara kita yang sempurna?
+Last night I was at home.	Semalam saya berada di rumah.
+Let's discuss this later.	Nantilah kita bincang kemudian.
+Please turn up the radio.	Tolong kuatkan radio itu.
+Thank you for the coffee.	Terima kasih untuk kopi ini.
+Thank you for the coffee.	تريما كاسيه اونتوق كوڤي اين.
+There's a secret passage.	Terdapat suatu laluan rahsia.
+Tom is a little confused.	Tom sedang keliru sedikit.
+Can I ask you for a favor?	Boleh saya minta tolong sesuatu?
+Can I ask you for a favor?	بوليه ساي مينتا تولوڠ سسواتو؟
+Could I borrow some money?	Boleh saya pinjam duit awak?
+His temperature is normal.	Suhu dia biasa sahaja
+I cannot fix the computer.	Saya tidak boleh membaiki komputer.
+I don't remember his name.	Saya tidak ingat namanya.
+I don't remember his name.	ساي تيدق ايڠت نامڽ.
+My father loves my mother.	Bapa saya mencintai ibu saya.
+The results were negative.	Keputusannya adalah negatif.
+Tom said you needed a job.	Tom kata awak perlukan pekerjaan.
+Which cat just gave birth?	Kucing yang mana yang baru melahirkan anak?
+Why do you look so gloomy?	Mengapa awak kelihatan muram?
+I didn't cheat on the test.	Saya tidak meniru di dalam ujian.
+I didn't cheat on the test.	ساي تيدق منيرو ددالم اوجين.
+I didn't cheat on the test.	Saya tidak menipu di dalam peperiksaan.
+I didn't cheat on the test.	ساي تيدق منيڤو ددالم ڤڤريقساءن.
+I gave Tom my phone number.	Saya telah memberikan nombor telefon saya kepada Tom.
+Please see me after recess.	Sila jumpa saya selepas waktu rehat.
+Sound travels very quickly.	Bunyi bergerak sangat laju.
+Sound travels very quickly.	بوڽي برݢرق ساڠت لاجو.
+This is the latest fashion.	Ini ialah fesyen terkini.
+This song is easy to learn.	Lagu ini adalah mudah untuk dipelajari.
+Tom got here at about 2:30.	Tom sampai ke sini lebih kurang pada pukul 2:30.
+Tom got here at about 2:30.	توم سمڤاي کسيني لبيه کورڠ ڤد ڤوکول 2:30.
+Tom isn't as short as I am.	Tom tidak serendah saya.
+Tom isn't as short as I am.	توم تيدق سرنده ساي.
+Where did you study French?	Dimanakah kamu belajar Perancis?
+Where did you study French?	دمانکه کامو بلاجر ڤرنچيس؟
+You should wash this shirt.	Anda patut basuh baju ini.
+You've got to come with me.	Awak mesti datang bersama saya.
+I can't express my feelings.	Saya tidak boleh meluahkan perasaan saya.
+I've never done that before.	Saya tidak pernah lagi melakukannya sebelum ini.
+I've never done that before.	ساي تيدق ڤرنه لاݢي ملاکوکنڽ سبلوم اين.
+My hobby is writing stories.	Hobi saya ialah menulis cerita.
+The city was wrapped in fog.	Bandar itu telah diselubungi kabus.
+You need to wash this shirt.	Anda patut basuh baju ini.
+Be careful! The floor is wet.	Hati-hati! Lantai basah.
+Be careful! The floor is wet.	هاتي٢! لنتاي باسه.
+Be careful! The floor is wet.	Jaga-jaga! Lantai itu basah.
+Be careful! The floor is wet.	جاݢ‌٢! لنتاي ماسيه باسه.
+He decided to become a pilot.	Dia memutuskan untuk menjadi juruterbang.
+I didn't know Tom would come.	Saya tak tahu bahawa Tom akan datang.
+I've got a frog in my throat.	Saya ada katak di dalam tekak saya
+Reading classics is not easy.	Membaca karya klasik tidak mudah.
+The tree fell down by itself.	Pokok itu tumbang dengan sendirinya.
+Tom goes to school with Mary.	Tom pergi ke sekolah dengan Mary.
+Tom is sitting in the garden.	Tom sedang duduk di dalam taman.
+Tom is sitting in the garden.	Tom sedang duduk di taman bunga.
+What would you like to drink?	Encik mahu minum apa?
+All living things need oxygen.	Semua benda hidup memerlukan oksigen.
+Everyone I know has done that.	Semua orang yang saya kenal telah melakukannya.
+Everyone I know has done that.	سموا اورڠ يڠ ساي كنل تله ملاكوكنڽ.
+Oslo is the capital of Norway.	Oslo ialah ibu negara Norway.
+That's not the correct answer.	Jawapan itu salah.
+Tom thought Mary was a genius.	Tom menyangka bahawa Mary ialah genius.
+Tom thought Mary was a genius.	توم مڽڠک بهاوا ماري اياله ڬينيوس.
+We finally published the book.	Kami akhirnya telah menerbitkan buku itu.
+You're respected by everybody.	Awak dihormati oleh semua orang.
+Did you understand what I said?	Awak faham apa yang saya cakap?
+I don't want to see your faces.	Saya tidak mahu melihat muka kamu.
+I don't want to see your faces.	Saya tidak mahu melihat muka awak.
+I had no idea what I was doing.	Saya tidak tahu apakah yang sedang saya lakukan.
+I have to take out the garbage.	Saya perlu membuang sampah.
+I have to take out the garbage.	ساي ڤرلو ممبواڠ سمڤه.
+I'll call you tomorrow morning.	Esok pagi, saya akan telefon awak.
+To start with, who is that man?	Sebagai permulaan, siapakah lelaki itu?
+You don't need to say anything.	Kamu tak perlu cakap apa-apa.
+You don't need to say anything.	كامو تق ڤرلو چاكڤ اڤ٢.
+I didn't ask you not to do that.	Saya tidak menyuruh awak untuk tidak melakukan hal itu.
+I was at home all day yesterday.	Semalam saya berada di rumah sepanjang hari.
+I won't let him come here again.	Saya tidak akan membiarkan dia datang ke sini semula.
+I'll be there as quick as I can.	Saya akan ke sana secepat mungkin.
+I'll be there as quick as I can.	ساي اكن كسان سچڤت موڠكين.
+Tom suggested that we wait here.	Tom telah mencadangkan agar kita menunggu di sini.
+We came here to enjoy ourselves.	Kami datang ke sini untuk kami berseronok.
+Where is the registrar's office?	Dimanakah pejabat pendaftaran?
+You're too young to drive a car.	Kamu terlalu muda untuk memandu kereta.
+You're too young to drive a car.	كامو ترلالو مودا اونتوق ممندو كريتا.
+Did you see where I put my watch?	Nampak tak di mana saya letak jam tangan saya?
+Her face was drenched with sweat.	Muka dia habis basah kuyup dengan peluh.
+Her face was drenched with sweat.	موک دي هابيس باسه کويوڤ دڠن ڤلوه.
+Her face was drenched with sweat.	Habis basah lencun mukanya dengan peluh.
+Her face was drenched with sweat.	هابيس باسه لنچون موکاڽ دڠن ڤلوه.
+This information is confidential.	Maklumat ini adalah sulit.
+Tom and Mary are playing mahjong.	Tom dan Mary sedang bermain Mahjong.
+Tom is getting better bit by bit.	Tom semakin baik sedikit demi sedikit.
+We went to the movies last night.	Kami telah pergi menonton wayang itu malam tadi.
+I forgot what I was trying to say.	Saya sudah lupa apa yang saya mahu katakan.
+I forgot what I was trying to say.	ساي سوده لوڤا اڤ يڠ ساي ماهو كاتكن.
+I screamed at the top of my lungs.	Saya menjerit dengan sepenuh hati saya.
+I screamed at the top of my lungs.	ساي منجريت دڠن سڤنوه هاتي ساي.
+Mary is beautiful and intelligent.	Mary seorang yang jelita lagi bijaksana.
+Mary is beautiful and intelligent.	ماري سأورڠ يڠ جليتا لاݢي بيجقسان.
+Mary is beautiful and intelligent.	Mary seorang yang cantik dan pintar.
+Mary is beautiful and intelligent.	ماري سأورڠ يڠ چنتيق دان ڤينتر.
+That sounds like a waste of money.	Bunyinya seperti membazir duit.
+That sounds like a waste of money.	بوڽيڽ سڤرتي ممبذير دوءيت.
+The sale will be over in two days.	Jualan akan tamat dalam masa dua hari.
+What would you like to drink, sir?	Encik mahu minum apa?
+Do you want to play tennis with us?	Adakah awak hendak bermain tenis dengan kami?
+I don't think that he knows Hebrew.	Saya tidak rasa dia tahu bahasa Hebrew.
+Let me have a look at those photos.	Mari saya lihat gambar-gambar itu
+Tom doesn't want to get in trouble.	Tom tidak mahu terlibat dengan masalah.
+You don't have to be here tomorrow.	Awak tidak perlu handir ke sini esok
+I thought Tom and Mary were married.	Saya sangkakan Tom dan Mary telah berkahwin.
+I want to buy a shirt for my sister.	Saya ingin beli baju untuk adik saya.
+My cousins are coming in a few days.	Saudara-mara saya akan datang beberapa hari lagi.
+My cousins are coming in a few days.	ساودارا-مارا ساي اكن داتڠ ببراڤ هاري لاڬي.
+Tom is in his bedroom, sound asleep.	Tom di dalam biliknya, nampaknya dia telah tidur.
+Tom is in his bedroom, sound asleep.	توم ددالم بيليقڽ، نمڤقڽ دي تله تيدور.
+Tom is making a cup of tea for Mary.	Tom sedang membuat secawan teh untuk Mary.
+Tom wasn't happy with Mary's answer.	Tom tidak berpuas hati dengan jawapan Mary.
+From now on, we'll meet in this room.	Bermula dari sekarang, kita akan bertemu di bilik ini.
+I didn't know that you couldn't sing.	Saya tak tahu pula yang kamu tak boleh menyanyi.
+I didn't know that you couldn't sing.	ساي تق تاهو ڤولا يڠ كامو تق بوليه مڽاڽي.
+I want to buy a shirt for my brother.	Saya ingin beli baju untuk adik saya.
+I want to go, but I don't have money.	Saya mahu pergi, tetapi saya tiada wang.
+Tom, there's someone here to see you.	Tom, ada seseorang di sini mahu berjumpa awak.
+We need to buy a new washing machine.	Kita perlu beli mesin basuh baharu.
+We need to buy a new washing machine.	كيت ڤرلو بلي ميسين باسوه بهارو.
+You need to get off at the next stop.	Awak perlu turun di perhentian berikutnya.
+You never used to treat me like this.	Awak tidak pernah melayan saya seperti ini.
+You should check your blood pressure.	Kamu harus periksa tekanan darahmu
+You should check your blood pressure.	Anda harus periksa tekanan darah anda
+Do you happen to know what time it is?	Sekarang pukul berapa?
+Do you happen to know what time it is?	Adakah kamu tahu sekarang pukul berapa?
+Do you happen to know what time it is?	سكارڠ ڤوكول براڤ؟
+Do you happen to know what time it is?	اداكه كامو تاهو سكارڠ ڤوكول براڤ؟
+I don't want to play with you anymore.	Saya tidak mahu main dengan awak lagi.
+Is there something you want to ask me?	Ada sesuatu yang kamu mahu tanya pada saya?
+Is there something you want to ask me?	اد سسواتو يڠ كامو ماهو تاڽ ڤد ساي؟
+She insists on her son being innocent.	Dia bertegas bahawa anak lelakinya tidak bersalah.
+The next pandemic could be even worse.	Pandemik seterusnya pasti akan lebih teruk.
+The next pandemic could be even worse.	ڤندميک ستروسڽ ڤستي اكن لبيه تروق.
+There are questions no one can answer.	Terdapat soalan yang tiada siapa boleh menjawabnya.
+There are questions no one can answer.	ترداڤت سوءالن يڠ تياد سياڤ بوليه منجاوبڽ.
+There are questions no one can answer.	Ada soalan yang tidak ada siapa pun mampu menjawabnya.
+There are questions no one can answer.	اد سوءالن يڠ تيدق اد سياڤ ڤون ممڤو منجاوبڽ.
+Tom picked some pink flowers for Mary.	Tom telah memetik beberapa bunga merah jambu untuk Mary.
+Why are you asking me these questions?	Kenapa kamu menanyakan soalan ini kepada saya?
+Why are you asking me these questions?	كنڤ كامو مناڽاكن سوءالن اين كڤد ساي؟
+Are there any beautiful parks in Japan?	Adakah ada taman yang cantik di Jepun?
+How many cylinders does an engine need?	Berapakah belujur yang enjin perlukan?
+How many cylinders does an engine need?	براڤكه بلوجور يڠ اينجين ڤرلوكن؟
+I don't think that we should trust Tom.	Saya tak rasa kita perlu mempercayai Tom.
+I don't think that we should trust Tom.	ساي تق راس كيت ڤرلو ممڤرچاياءي توم.
+I don't think that we should trust Tom.	Saya rasa kita tidak perlu percaya Tom.
+I don't think that we should trust Tom.	ساي راس كيت تيدق ڤرلو ڤرچاي توم.
+I really like riding my bike to school.	Saya suka berbasikal ke sekolah.
+I really like riding my bike to school.	ساي سوک برباسيکل کسکوله.
+I suggested that the plan be postponed.	Saya telah mencadangkan supaya rancangan tersebut ditangguhkan.
+I think that I was followed by someone.	Saya rasa saya diekori seseorang tadi
+It's hot outside, so let's talk inside.	Di luar panas, jadi mari kita berbual-bual di dalam rumah.
+Santa Claus was standing in the garden.	Santa Klaus berdiri di taman tadi.
+You are not permitted to touch the art.	Awak tidak dibenarkan untuk menyentuh lukisan itu.
+I should tell Tom what needs to be done.	Saya patut beritahu Tom apa yang perlu dibuat.
+I should tell Tom what needs to be done.	ساي ڤاتوت بريتاهو توم اڤ يڠ ڤرلو دبوات.
+I'm sorry I opened your mail by mistake.	Saya minta maaf saya telah membuka surat awak secara tidak sengaja.
+I'm thinking of launching a new website.	Saya rasa mahu membuat laman sesawang baharu.
+I'm thinking of launching a new website.	ساي راس ماهو بوات لامن سسواڠ بهارو.
+My eyes are very sensitive to the light.	Mata saya sangat peka kepada cahaya.
+My eyes are very sensitive to the light.	Mata saya sangat sensitif kepada cahaya.
+What do you want to be when you grow up?	Apa yang awak ingin jadi apabila awak besar?
+What kind of house does Tom want to buy?	Apakah jenis rumah yang Tom mahu beli?
+What kind of house does Tom want to buy?	اڤاکه جنيس رومه يڠ توم ماهو بلي؟
+What kind of house does Tom want to buy?	Rumah jenis apakah yang Tom mahu beli?
+What kind of house does Tom want to buy?	رومه جنيس اڤاکه يڠ توم ماهو بلي؟
+You're sure to succeed, whatever you do.	Apa sahaja yang kamu lakukan, pastinya ia akan berjaya.
+You're sure to succeed, whatever you do.	اڤ سهاج يڠ کامو لاکوکن⹁ ڤستي اي اکن برجاي.
+How do you find the volume of a cylinder?	Bagaimanakah kamu mencari isi padu belujur?
+How do you find the volume of a cylinder?	باڬايماناكه كامو منچاري ايسي ڤادو بلوجور؟
+I can't believe that Tom did that for me.	Saya tidak percaya Tom telah buat itu untuk saya.
+No one has used that building since 2013.	Tiada sesiapa yang menggunakan bangunan itu sejak 2013.
+No one has used that building since 2013.	تياد سسياڤ يڠ مڠݢوناکن باڠونن ايت سجق 2013.
+She's not my girlfriend. She's my sister.	Dia bukan teman wanita saya. Dia kakak saya.
+I really don't understand what's so funny.	Sungguh saya tidak faham apakah yang lucu sangat.
+I thought Tom used to be a French teacher.	Saya sangkakan Tom merupakan guru Perancis dahulu.
+I thought Tom used to be a French teacher.	ساي سڠکاکن توم مروڤاکن ݢورو ڤرنچيس داهولو.
+If possible, I'd like to meet you tonight.	Kalau boleh, saya ingin berjumpa dengan awak malam ini.
+Please indicate what action you will take.	Sila tunjukkan apa yang awak hendak lakukan
+What do stores do with unsold merchandise?	Apa yang dibuat oleh kedai dengan barangan yang tidak dijual
+What's your favorite line from that movie?	Apakah ayat kegemaran kamu dari wagam itu?
+What's your favorite line from that movie?	اڤاکه ايات کݢمرن کامو دري واݢم ايت؟
+Everyone's waiting to see what Tom will do.	Semua orang menunggu untuk melihat apa yang Tom akan lakukan.
+Everyone's waiting to see what Tom will do.	سموا اورڠ منوڠڬو اونتوق مليهت اڤ يڠ توم اكن لاكوكن.
+It's evident to everybody that he's in love.	Jelas kepada semua orang bahawa dia sedang dilamun cinta.
+These problems must be dealt with carefully.	Masalah-masalah ini hendaklah ditangani dengan berhati-hati.
+As she grew older, she became more beautiful.	Semakin dia menjadi tua, dia menjadi semakin cantik.
+In Esperanto there are only 16 grammar rules.	Dalam bahasa Esperanto terhadap hanya 16 peraturan tatabahasa.
+Rain is the water that falls from the clouds.	Hujan ialah air yang jatuh daripada awan.
+His parents told him to get into a university.	Ibu bapanya menyuruh dia untuk masuk ke universiti.
+His parents told him to get into a university.	ايبو باڤڽ مڽوروه دي اونتوق ماسوق كأونيۏرسيتي.
+The food in this restaurant is very expensive.	Harga makanan di kedai ini sangat mahal.
+When I got there, there was no more cake left.	Bila saya sampai sana, kek telah pun habis.
+The lecture on the budget was very interesting.	Syarahan tentang belanjawan itu sangat menarik.
+Tom says he isn't yet sure what the problem is.	Tom kata dia masih belum pasti lagi apa masalahnya.
+Tom says he isn't yet sure what the problem is.	توم كات دي بلوم ڤستي لاڬي اڤ ماسئلهڽ.
+It doesn't seem like it's going to stop raining.	Hujan ini nampaknya tidak akan berhenti.
+Even though I can speak Chinese, I can't read it.	Walaupun saya boleh bertutur dalam bahasa Cina, saya tidak boleh membaca tulisannya.
+I went to see the doctor, only to find him absent.	Saya telah pergi untuk berjumpa doktor, semata-mata untuk mendapati dia cuti.
+You'd better go to see your family doctor at once.	Lebih baik awak pergi berjumpa doktor keluarga awak serta-merta.
+Do you really think we'll find something out there?	Adakah kamu rasa kita akan dapat cari sesuatu di sini?
+Do you really think we'll find something out there?	اداكه كامو راس كيت اكن داڤت چاري سسواتو دسيني؟
+Now you've come of age, you have the right to vote.	Sekarang awak telah cukup umur, awak mempunyai hak untuk mengundi.
+Could you please shut the window? It's cold in here.	Bolehkah kamu tolong tutupkan tingkap? Dalam ni sejuk.
+I can't do without an air conditioner in the summer.	Saya tidak boleh buat apa-apa di musim panas tanpa penghawa dingin.
+I can't do without an air conditioner in the summer.	ساي تيدق بوليه بوات اڤ٢ دموسيم ڤانس تنڤا ڤڠهاوا ديڠين.
+I'm trying to figure out why the engine won't start.	Saya sedang mencari apa puncanya enjin ini tidak mahu hidup.
+I'm trying to figure out why the engine won't start.	ساي سدڠ منچاري اڤ ڤونچاڽ اينجين اين تيدق ماهو هيدوڤ.
+The sperm whale can dive to a depth of 1,000 meters.	Air mani ikan paus boleh menyelam sedalam 1,000 meter.
+The sperm whale can dive to a depth of 1,000 meters.	اءير ماني ايكن ڤاءوس بوليه مڽلم سدالم 1,000 ميتر.
+One hour of thoughtlessness can cause years of tears.	Satu jam dalam keadaan tidak berfikir boleh menyebabkan tangisan bertahun-tahun.
+Tom agreed to be here at 2:30, but he's not here yet.	Tom telah bersetuju untuk berada di sini pada pukul 2:30, tetapi dia masih belum sampai lagi.
+You've got to carry out your commitment at all costs.	Awak perlu melaksanakan tanggungjawab awak dengan apa cara sekali pun.
+All of the children had gone to bed before it got dark.	Semua budak telah masuk tidur sebelum ia menjadi gelap.
+Japan plays an important role in promoting world peace.	Jepun memainkan peranan penting dalam mempromosikan keamanan dunia.
+Should the Suez and Panama Canals be internationalized?	Patutkah Terusan Suez dan Panama diantarabangsakan?
+Children should keep away from the river. It's dangerous.	Kanak-kanak patut menjauhi sungai. Ia berbahaya.
+I opened the door and saw two boys standing side by side.	Saya membuka pintu dan melihat dua budak lelaki berdiri sebelah-menyebelah.
+Tom wishes Mary wouldn't always go shopping on Saturdays.	Tom berharap agar Mary tidak akan selalu keluar membeli-belah pada hari Sabtu.
+I can't afford to eat at an expensive restaurant like this.	Saya tidak mampu makan di kedai mahal seperti ini.
+Lincoln's biography is read by children all around the world.	Kehidupan Lincoln dibaca oleh kanak-kanak di seluruh dunia.
+Atlanta, Georgia has one of the busiest airports in the world.	Atlanta, Georgia mempunyai salah satu daripada lapangan terbang tersibuk di dunia.
+I was asked to buy some cakes on the way home from the office.	Saya telah diminta untuk membeli sedikit kek dalam perjalanan pulang dari pejabat.
+I hope Tom isn't doing something he isn't supposed to be doing.	Saya harap Tom tidak akan buat sesuatu yang dia tidak sepatutnya buat.
+I hope Tom isn't doing something he isn't supposed to be doing.	ساي هارڤ توم تيدق اكن بوات سسواتو يڠ دي تيدق سڤاتوتڽ بوات.

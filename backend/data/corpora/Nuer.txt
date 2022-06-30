@@ -1,0 +1,1178 @@
+Hi.	Maalɛ.
+Run!	ŋɔcɛ!
+Run.	Ŋɔacɛ jɛ.
+Who?	Ŋa?
+Wow!	Ayiëëc!
+Fire!	Yɔ̱tɛ!
+Help!	Luäkni̱!
+Hide.	Tɔ̱w rɔ.
+Hide.	Tɔ̱a̱wɛ rɔ̱.
+Jump!	Yor rɔ!
+Stay.	Teyni̱.
+Stop!	Cuŋni̱!
+Wait!	Li̱pni̱.
+Begin.	Tokɛ.
+Hello!	Maalɛ!
+I try.	Ɣɔ̱a̱nä jɛ.
+I won!	Cä naath leny!
+Relax.	Päli̱ rɔ piny.
+Shoot!	Bärɛ!
+Smile.	Doth duɔɔth.
+Freeze!	Cuŋni̱ cik!
+Get up.	Jiɛc rɔ.
+Got it?	Ciɛ liŋi̱?
+He ran.	Cɛ ŋɔc.
+Hop in.	Bër rɛc.
+Hug me.	Kuak ɣä.
+I know.	Ŋa̱cä jɛ.
+I lost.	Cä bath.
+I quit.	Cä thuɔ̱k.
+I work.	La la̱tdä.
+Really?	Ɛ thuɔ̱k?
+We try.	Ci̱ nɛy ɛ ɣɔ̱n.
+We won.	Ci̱ nɛy naath leny.
+Ask Tom.	Thiec Töm.
+Be calm.	Teni̱ kɛ päl piny.
+Be cool.	Kɔ̱cni̱.
+Be fair.	Pääri̱ naath.
+Be kind.	Jakni̱ rɔ kä rami̱ gɔaa lɔc.
+Be nice.	Teyni̱ ɛ gɔaa.
+Call me.	Cɔl ɣä.
+Call us.	Cɔl nɛy.
+Come in.	Bër rɛc.
+Drop it!	Päliɛ pɛ̈ɛ̈n.
+Get out!	Wër raar!
+Get out.	Bër raar.
+Get out.	Wër raar.
+Goodbye!	Wër kɛ mal!
+Goodbye!	Wiaa kɛ mal.
+Hang on!	Ka̱pɛ rɔ̱.
+He came.	Cɛ ben.
+He runs.	La ŋɔcɛ jɛ.
+Help me!	Luäk ɣä!
+Help me.	Luäk ɣä.
+Hold on.	Cuŋni̱.
+I agree.	Can mat.
+I'm hit!	Ca ɣä pi̱m.
+Join us.	Mätni̱ rɔ nɛy.
+Keep it.	A tekɛ ji̱.
+Kiss me.	Cim ɣä.
+Me, too.	Mäni̱ ɣän.
+Open up.	Lɛpɛ.
+Perfect!	Cɛ gɔaa ɛlɔ̱ŋ!
+Show me.	Nyuthni̱ jɛ ɣä.
+Shut up!	Bitni̱!
+Skip it.	Bälɛ.
+Stop it.	Pälɛ.
+Take it.	Naŋɛ.
+Tell me.	Lärɛ jɛ ɣä.
+Tom won.	Töm cɛ naath leny.
+Wake up.	Keri̱.
+We know.	Ŋäc nɛyɛ.
+We lost.	Ci̱ nɛy bath.
+Welcome.	Bër kɛ mal.
+Welcome.	Biaa kɛ mal.
+Who won?	Ɛŋa ci̱ naath lenyɔ?
+You run.	Ŋɔcɛ.
+You run.	JI̱n riŋi̱.
+Back off.	Ti̱cni̱ rɔ jɔk.
+Be quiet.	Bitni̱.
+Be still.	/Cu rɔ wany.
+Cuff him.	Yiɛini̱ tetkɛ.
+Get away!	Woc rɔɔdu!
+Get down!	Wër piny!
+Get down!	Bër piny.
+Get lost.	Bathni̱.
+Get real!	Lar thuɔ̱k!
+Go ahead.	Wër kɛ wä nhiam.
+Good job!	Ci̱ lät ɛ gɔaa!
+Grab him.	Käpɛ.
+He spoke.	Cɛ ruac.
+He tries.	La ɣɔ̱nɛ jɛ.
+Help Tom.	Luäk Töm.
+How deep?	Pek luëŋdɛ di̱?
+How nice!	Ɛŋu gɔaa ɛ nɛ!
+Hurry up.	Pɛ̈thni̱.
+Hurry up.	Pɛ̈thɛ.
+I forgot.	Cä pa̱l ruëëc.
+I resign.	Cä rɔ ka̱p cuɔ̱ŋ.
+It works.	La lätdɛ.
+Leave it.	Bäny ni̱ jɛ piny.
+Leave me.	Bäny ni̱ ɣä piny.
+Leave us.	Bäny ni̱ nɛy piny.
+Look out!	Nɛn nɔmɔ!
+Look out!	Liecni̱!
+Marry me.	Kuɛn ɣä.
+She came.	Cɛ ben.
+She died.	Cɛ li̱w.
+She runs.	La ŋɔcɛ jɛ.
+Sit down!	Nyuuri̱!
+Sit here.	Nyuri̱ ɛn gua̱a̱th ɛmɛ.
+Speak up!	Ruacni̱!
+Stand by.	Cuŋni̱ thiäkä.
+Stand up!	Jiɛc rɔ!
+Take Tom.	Naŋ Töm.
+Tell Tom.	Läriɛ Töm.
+They won.	Cikɛ naath leny.
+Tom died.	Töm cɛ li̱w.
+Tom left.	Töm cɛ jiɛn.
+Tom lied.	Töm cɛ kac kac.
+Tom lost.	Töm cɛ bath.
+Tom paid.	Töm cɛ yio̱o̱kɛ yuɔr piny.
+Tom wept.	Töm ci̱ lɔcdɛ jiath.
+Trust me!	Ŋäth ɣä!
+Try some.	Ɣɔ̱n mi̱ tɔt.
+Try this.	Ɣɔ̱n nɛmɛ.
+Use this.	Läätni̱ nɛmɛ.
+Watch me.	Guic ɣä.
+Watch us.	Guic nɛy.
+We agree.	Ci̱ nɛy mat.
+What for?	Kɛ kui̱ ŋukä?
+Who died?	Ɛŋa ci̱ li̱wɔ?
+Write me.	Gɔ̱r ɣä.
+After you.	Kɔru.
+Aim. Fire!	Nirɛ. Yɔ̱tɛ!
+Answer me.	Loc ɣä.
+Birds fly.	Diit la pärkɛ.
+Call home!	Yɔ̱tni̱ cieŋ.
+Calm down.	Päli̱ yieyku piny.
+Catch him.	Käpɛ.
+Come back.	Lunyni̱ jɔk.
+Come here.	Bër gua̱th ɛmɛ.
+Come home.	Bër cieŋ.
+Come soon.	Bër kɛ pɛ̈th.
+Cool down.	Kɔ̱cni̱.
+Dogs bark.	Jio̱o̱k guää kɛn.
+Excuse me.	Guänyni̱ ɣä.
+Excuse me?	Deri̱ ɣä guënyi̱?
+Follow me.	Guri̱ ɣä.
+Follow us.	Guri̱ nɛy.
+Forget it.	Bälɛ.
+Forget me.	Päli̱ ɣä ruëëc.
+Get going.	Mali̱ wee.
+Get ready.	Riali rɔ ikä.
+Goodnight.	Nini̱ kɛ mal.
+Goodnight.	Niɛnɛ kɛ mal.
+Grab that.	Käp nɔmɔ.
+Grab this.	Käp nɛmɛ.
+He shaved.	Cɛ muɔ̱t.
+He smiled.	Cɛ duɔɔth doth.
+Hold fire.	Ka̱pɛ mäc cuɔ̱ŋ.
+I laughed.	Cä to̱k dɔl.
+It rained.	Cɛ dɛ̈m.
+It stinks.	Ŋuänyɛ.
+It's work.	Jɛn lätɛ.
+Keep calm.	Päli̱ rɔɔdu piny.
+Leave now.	Jiɛni̱ ɛn tämɛ.
+Loosen up.	Lony rɔɔdu.
+Move over.	Yuth rɔɔdu.
+Nice shot!	Ciɛ bär ɛgɔaa!
+Of course.	Ɛ puc.
+Open fire!	Lɛp mac!
+Read this.	Kuɛn nɛmɛ.
+Search me.	Go̱rä.
+Seize him!	Ka̱pɛ jɛ!
+Seriously?	Loti ni jɛ?
+Seriously?	Dera Thuɔ̱k ɛ puci̱?
+She cried.	Cɛ wiee.
+She tried.	Cɛ ɣɔ̱n.
+She walks.	La jälɛ.
+Sit still.	Nyuri̱ ɛ til.
+Sit there.	Nyuri̱ ɛn gua̱a̱th ɛmi̱.
+Start now.	Tok ɛ ɛntämɛ.
+Stay away.	Teyni̱ nɔ̱nä.
+Stay back.	Teyni̱ jɔk.
+Stay calm.	Päli̱ rɔdu piny.
+Stay down!	Teyni piny!
+Stay thin.	Teyni̱ ciw.
+Step back.	Kacni̱ jɔk.
+Stop here.	Cuŋni̱ ɛn gua̱a̱th ɛmɛ.
+Stop that!	Pälɛ!
+Stop them.	Käpni̱ kɛ cuɔ̱ŋ.
+Take care.	Tit rɔdu.
+Take mine.	Naŋ duŋdä.
+Take this.	Naŋ nɛmɛ.
+Thank you.	Ci̱ lɔcdä tɛɛth.
+They fell.	Ci̱ kɛ tɛɛth.
+They left.	Ci̱ kɛ jiɛɛn.
+They lied.	Ci̱ kɛn kackac.
+They lost.	Ci̱ kɛ bath.
+They swam.	Cikɛ kɛt.
+Tom cried.	Töm cɛ wiee.
+Tom drove.	Töm cɛ gɛɛr.
+Tom knows.	Töm ŋäcɛ jɛ.
+Tom moved.	Töm cɛ ɣöth.
+Tom waved.	Töm cɛ mal lar.
+Try again.	Ɣɔ̱nɛ ɛnyɔk.
+Turn left.	Ri̱tni̱ rɔ caam.
+Wait here.	Li̱pni̱ ɛn gua̱a̱th ɛmɛ.
+Watch out!	Tit rɔ!
+We talked.	Ci̱ nɛy ruac.
+We waited.	Ci̱ nɛy liep.
+Well done!	Ci̱ lät ɛ gɔaa!
+Who knows?	Ŋa ŋäcɛ?
+Wonderful!	Gɔaa ɛ lɔ̱ŋ!
+You idiot!	Jin thägäräŋ!
+You tried.	Ciɛ ɣɔ̱n.
+You tried.	ɣɔ̱nɛ.
+Ask anyone.	Pekni̱ kɛ ram thiecɛ.
+Be careful.	Tit rɔɔdu.
+Be patient.	Li̱pni̱ kɛ biɛt.
+Choose one.	Kuany kɛl.
+Come quick!	Bër kɛ pɛ̈th!
+Definitely!	Ɛjɛn pa̱ny!
+Eat slowly.	Mi̱thni̱ ɛ määth.
+Fire burns.	Mac la waŋɛ naath.
+Follow him.	Guriɛ.
+Forget him.	Päliɛ ruëëc.
+Forgive me.	Päli̱ ɣä ikä.
+God exists.	Kuoth tëë thi̱n.
+He laughed.	Cɛ to̱kdɔl.
+He's lying.	Tëë kac.
+Hurry back.	Mal luny jɔk.
+Hurry home.	Wër cieŋ kɛ pɛ̈th.
+I chuckled.	Cä yuɔr ro̱o̱l.
+I have won.	Cä naath läny.
+I ran home.	Ɣän cä riŋ cieŋ.
+I'm normal.	Thiɛl ɤä diw.
+Ignore him.	Dhɔtdɛ.
+Jesus wept.	Yecu cɛ wiee.
+Just relax.	A lɔ̱ŋni̱ ji̱n.
+Keep quiet!	Bitni̱!
+Keep quiet.	Bitni̱.
+Look there.	Guic gua̱a̱mi̱.
+Mama cried.	Ma̱ma̱ cɛ wiee.
+Never mind!	/Cu diɛɛr thi̱n.
+No comment.	Thiɛlɛ mi̱ bä mat thi̱n.
+No problem!	Thiɛlɛ riɛk.
+Once again.	Locɛ ɛ nyɔk.
+Please sit.	Deri̱ nyuur.
+Quiet down.	Bitni̱.
+Say cheese.	Ŋɛny lɛcku.
+She smiled.	Cɛ duɔthdoth.
+Stand back!	Cuŋni̱ jɔk!
+Start here.	Tok ɛ ɛn gua̱a̱th ɛmɛ.
+Start over.	Tok ɛ nyɔk.
+Stay awake.	Teyni̱ jinä.
+Stay close.	Teyni̱ thiäkä.
+Stay quiet.	Ta̱yɛ bitdä.
+Stay quiet.	Teyni̱ bitdä.
+Stay there.	Teyni̱ ɛn wi̱ni̱.
+Step aside.	Ŋuɛnyni̱ rɔdu gekä.
+Stop lying.	Päl kac.
+Stop there.	Cuŋni̱ ɛn gua̱a̱th ɛmɔ.
+Study hard.	Kueni̱ ɛ bum.
+Take cover!	Tɔ̱w rɔɔdu.
+Take these.	Naŋ ti̱ti̱.
+Taste this.	Met nɛmɛ.
+That hurts.	Bɛcɛ.
+That works.	La lätɛ ɛn nɔmɔ.
+They stood.	Ci̱ kɛ rɔ̱ jiac cuɔ̱ŋ.
+They tried.	Ci̱ kɛn ɛ ɣɔ̱n.
+This works.	Nɛmɛ la lätɛ.
+Tom agreed.	Ci̱ Töm mat kɛ jɛ.
+Tom agrees.	Töm la mätɛ kɛ jɛ.
+Tom burped.	Töm cɛ jia̱r.
+Tom called.	Töm cɛ ciöt.
+Tom danced.	Töm cɛ döny.
+Tom drinks.	Töm la mäthɛ.
+Tom drives.	Töm la gerɛ.
+Tom helped.	Töm cɛ luäk.
+Tom jumped.	Töm cɛ rɔ yor.
+Tom looked.	Töm cɛ guic.
+Tom nodded.	Töm cɛ wi̱dɛ tɛŋ.
+Tom shaved.	Töm cɛ muɔ̱t.
+Tom smiled.	Töm cɛ duɔɔth doth.
+Tom snores.	Töm la rua̱tɛ.
+Tom waited.	Töm cɛ liep.
+Tom yawned.	Töm cɛ ŋaam.
+Turn right.	Ri̱tni̱ rɔ cueec.
+We are men.	Kɛ kɔn wutni̱.
+We laughed.	Ci̱ nɛy to̱kdɔl.
+You called?	Ci̱ yɔa̱ti̱?
+You decide.	Carɛ ɛ ji̱n.
+Anyone home?	Tëkɛ rami̱ te cieŋi̱?
+Be yourself.	Teyni̱ kɛ ta̱a̱du.
+He resigned.	Cɛ rɔ̱ woc.
+Hello again.	Malɛ ɛnyɔk.
+How are you?	Mal puɔ̱nydu?
+I apologize.	Cä duer lar.
+I love dogs.	Nhɔakä Jio̱o̱k.
+I overslept.	Cä pek ni̱n.
+I overslept.	Cä ni̱ɛn kɛ ni̱än mi̱ di̱i̱t.
+Is she nice?	Jɛn gɔaa ɛ?
+Keep trying.	Kokniɛ thi̱n.
+Money talks.	Ruacni̱ yio̱w.
+Nobody came.	Thiɛlɛ rami ci̱ ben.
+Nobody died.	Thiɛlɛ rami̱ ci̱ li̱w.
+Nobody lied.	Thiɛlɛ rami̱ ci̱ kac kac.
+Please sing.	Deri̱ ben kɛt kɛ dit.
+Release him.	Lonyɛ.
+Remember it.	Timɛ.
+Say nothing.	/Cu duɔ̱ɔ̱r lar.
+Settle down!	Yiɛthni̱ rɔ piny!
+Sleep tight.	Nini̱ gɔaa.
+Stand aside.	Cuŋni̱ gekä.
+Stand still!	Cuŋni̱ ɛ til.
+Start again.	Tok ɛ nyɔk.
+Step inside.	Känyni̱ rɛc.
+Stop crying.	Päl wiee.
+Stop moving!	/Cu jäl!
+Stop trying.	Päl wiee.
+Stop! Thief!	Cuŋni! Ɛ Cuer!
+Tea, please.	Deri̱ ɣä moc ca̱y.
+That helped.	Cɛ naath luäk ɛn nɔmɔ.
+That worked.	Cɛ lät ɛn nɔmɔ.
+They burned.	Ci̱ kɛ waaŋ.
+They hugged.	Ci̱ kɛ rɔ̱ kuak.
+They kissed.	Ci̱kɛ rɔ̱ cim.
+They obeyed.	Ci̱ kɛn ɛ luɔ̱th.
+They smiled.	Ci̱ kɛ duɔɔth doth.
+They waited.	Ci̱ kɛ liep.
+They walked.	Ci̱ kɛ ja̱l.
+They yelled.	Ci̱ kɛ rual.
+This stinks.	Nɛmɛ la ŋuänyɛ.
+Tom blinked.	Töm ci̱ wäŋkɛ we niɛw.
+Tom clapped.	Töm cɛ tetkɛ pat.
+Tom coughed.	Töm cɛ kiɛl.
+Tom drowned.	Töm cɛ di̱ŋ.
+Tom escaped.	Töm cɛ rɔ kual.
+Tom kneeled.	Töm cɛ mua̱kɛ yiath piny.
+Tom laughed.	Töm cɛ to̱kdɔl.
+Turn around.	Ri̱t rɔ.
+Walk slowly.	Jäli̱ ɛmääth.
+We need you.	Go̱o̱r nɛy ji̱.
+We promised.	Ci̱ nɛy rɔ yac.
+We remember.	La tim nɛyɛ.
+We survived!	Ci̱ nɛy kään!
+What's good?	Ɛŋu gɔa ɔ?
+Who took it?	Ɛ ŋa naŋ jɛ mɔ ?
+Wood floats.	Jiɛn ti̱ ko̱o̱t la thɔaarkɛ.
+Work slowly.	Lätni̱ ɛmääth.
+Abandon ship!	Ba̱nyɛ babuur piny.
+Anybody here?	Tëkɛ rami te ɛn gua̱a̱th ɛmɛ?
+Anybody home?	Tëkɛ rami̱ te cieŋi̱?
+Anybody hurt?	Tëkɛ rami̱ ca moc buɔ̱t?
+Anything new?	Tëkɛ mi̱ ci̱ rɔ gɛr?
+Come outside.	Bër raar.
+Come quickly.	Bër kɛ pɛ̈th.
+Did you sign?	Ji̱ ci̱ thaany?
+Drive safely.	Geri̱ ɛ gɔaa.
+Drive slowly.	Geri̱ ɛmääth.
+Fear nothing.	/Cu dual kɛ duɔ̱ɔ̱r.
+Good evening.	Malɛ kɛ thiaŋ.
+Hello, girls.	Malɛ, nyiti̱.
+How annoying!	Ɛŋu cɛ ɣä cuil inɛ!
+How horrible!	Ɛmi̱ jiääk mi̱ te idi!
+How romantic!	Kä ɛ nhök mi̱ gɔaa mi̱ te i̱di̱!
+I understand.	Cɛ wä lɔɔcdä.
+I understood.	Cä liŋ.
+I've done it.	Cä thuk.
+Keep reading.	Wër kɛ kuën.
+Ladies first.	Män kɛ nhiam.
+Move quietly.	Ja̱li̱ bitdä.
+Nobody asked.	Thiɛlɛ rami̱ ci thiec.
+Nobody knows.	Thiɛlɛ ram ŋäcɛ.
+Please hurry!	Deri̱ pɛ̈th!
+Please leave.	Deri̱ Jiɛni̱, la̱ŋä ni̱ ji̱.
+Please smile.	Mäni̱ duɔɔth doth bɛ.
+Recess ended.	Ci̱ lua̱ŋ thuɔ̱k.
+Someone came.	Tëkɛ rami̱ ci̱ ben.
+Step forward.	Bër nhiam.
+Stop arguing.	Päl ŋaknɔm.
+Stop filming.	Päl thuɔ̱r.
+Stop gawking.	Päl guecdä ɛ ɛlɔ̱ŋ i̱nɔ.
+Stop pushing.	Päl ɣökdɛ.
+Stop reading.	Päl kuën.
+Stop smoking.	Päl ma̱th tapä.
+Stop staring.	Päl guec.
+Stop talking.	Päl ruac.
+Stop whining.	Päl ŋiɛyŋiɛy.
+Stop yelling.	Päl yuaal.
+They escaped.	Ci̱ kɛ rɔ̱ kual.
+They laughed.	Ci̱ kɛ to̱kdɔl.
+They refused.	Ci̱ kɛn ɛ lo̱k.
+They stopped.	Ci̱ kɛ cuɔ̱ŋ.
+They sweated.	Ci̱ leth kɛ näk.
+Things break.	La tiɛ̈th ŋuak.
+Tom answered.	Ci̱ Töm ɛ loc.
+Tom approved.	Töm cɛ nhɔk.
+Tom insisted.	Töm cɛ lo̱k.
+Tom listened.	Töm cɛ liɛŋ.
+We apologize.	Ci̱ nɛy duer.
+We hated Tom.	Ci̱ nɛy Töm lo̱k.
+We know them.	Kɔn ŋäc nɛy kɛ.
+We need glue.	go̱r kɔn do̱o̱p.
+We overslept.	Ci̱ nɛy pek ni̱n.
+We succeeded.	Ci̱ kɔnɛ luäŋ.
+Welcome back.	Lunyni̱ jɔk kɛ mal.
+Welcome home.	Bër cieŋ kɛ mal.
+Welcome home.	Bia cieŋ kɛ mal.
+Years passed.	Ci̱ run wä.
+You know her.	Ji̲n ŋäc ci̲ jɛ.
+You're lying.	Jɛn ɛ gua̱n kac kä.
+Anything else?	Tëkɛ mi̱ dɔ̱ŋ?
+Call security!	Cɔl ga̱a̱ŋ!
+Do we need it?	Dee kɔnɛ go̲r ?
+Eat something.	Cam duɔ̱ɔ̱r.
+Everyone dies.	Nɛy diaal li̱wkɛ.
+Flowers bloom.	Gaakni̱ la lɛpkɛ rɔ̱.
+Help yourself.	Luäk rɔɔdu.
+How beautiful!	Ɛmi̱ gɔaa ɛ idi!
+I trusted him.	ɤän ŋa̲thä jɛ
+Only Tom left.	Ɛ Töm tëë caam.
+Quiet, please.	Metni̱ biɛt.
+Save yourself.	Kän rɔɔdu.
+Say something.	Lar duɔ̱ɔ̱r.
+She overslept.	Cɛ pekni̱n.
+Show yourself.	Nyoth rɔɔdu.
+Speak clearly.	Ruacni̱ ɛ jɔc.
+Start running.	Tok wuɔ̱ɔ̱r.
+Start singing.	Tok kët.
+Start writing.	Tok gua̱r.
+Stay positive.	Cari̱ mi̱ gɔaa.
+Stay together.	Ta̱yɛ kɛɛl.
+Stop fighting!	Päl ko̱r!
+Stop laughing.	Päl to̱k.
+Stop shooting.	Päl ba̱a̱r.
+Stop worrying.	Päl diɛɛr.
+Stuff happens.	La ŋɔak ɛ tuɔɔk.
+Suit yourself.	Luäk rɔ.
+Thanks anyway.	Ci̱ lɔcdä tɛɛth bä.
+They heard it.	Ci̱ kɛnɛ li̱ɛŋ.
+They screamed.	Ci̱ kɛ wa̱k.
+They vanished.	Ci̱ kɛ riaw.
+They're drunk.	,Ci̲ kɛn yɔ̲ŋ.
+Things change.	La gɛr ŋuak rɔ̱diɛn.
+Tom confessed.	Töm cɛ duerɛ lat.
+Tom had a job.	Töm tëkɛ la̱t.
+Tom is driven.	Töm laa gëërɛ.
+Tom overslept.	Cɛ pek ni̱n ɛn Töm.
+We understand.	Ci̱ wä lɔɔcda.
+What happened?	Ɛŋu ci̱ tuɔk ɔ?
+Will Tom come?	Bi̲ Töm cop ?
+Does Tom dance?	Töm laa do̱nyɛ?
+Eat everything.	Cam ti̱ diaal.
+Eat everything.	Camɛ ti̱ diaal.
+Everybody lies.	Nɛy diaal la kɛn kac ɛ kac.
+Good afternoon.	Malɛ kɛ cäŋdäär.
+Happy birthday!	Tɛ̈thlɔac mi̱ gɔaa kɛ cäŋdäpä!
+He disappeared.	Cɛ riaw.
+Hello everyone!	Mal kɔni̱!
+I have nothing.	Thiɛlɛ mi̱ tee kɛ Ɣä.
+I said stop it!	Cä lar i̱ pälɛ!
+Keep listening.	Ŋotni̱ kɛ mi̱ li̱ŋni̱.
+Louder, please.	Mäni̱ jɔwdu kap nhial bɛ.
+She's not sick.	Thiɛlɛ jɛ juëëy.
+Smoke appeared.	Ci̱ tol jɔɔc.
+Smoking stinks.	Ma̱th tapä ŋuenyɛ.
+Someone called.	Tëkɛ rami̱ ci̱ yɔ̱a̱t.
+Start counting.	Tok kuën.
+Stop resisting!	Päl kuäär!
+Tell everybody.	Läriɛ nɛydiaal.
+They quarreled.	Ci̱kɛ gua̱c.
+They want more.	Go̱o̱r kɛn ti̱ ŋuaan.
+Things changed.	Ci̱ ŋuak rɔ̱ gɛr.
+Tom apologized.	Töm cɛ duer lar.
+Watch yourself.	Guic rɔɔdu.
+We trusted Tom.	Töm ŋäth nɛyɛ.
+We volunteered.	Ci̱ nɛy luäk thöp ɛ thiɛl kök.
+Behave yourself.	Luthni̱ rɔɔdu.
+Congratulations!	Ci̱ lät agɔaa!
+Did you drop it?	Ci̱ jɛ pa̱l ruëëc ?
+Do you know CPR?	Ji̱n ŋäci̱ CPR?
+Drive carefully.	Geri̱ kɛ tiit.
+Everyone dreams.	Nɛy diaal la kɛn la̱a̱k ɛ läk ikä.
+Everyone smiled.	Ci̱ nɛy diaal duɔɔthdoth.
+Everyone waited.	Ci̱ nɛy diaal liep.
+He's my brother.	Jɛn ɛ dämaar.
+He's very timid.	Jɛn po̱cɛ ɛlɔ̱ŋ.
+How interesting!	Ɛmi̱ gɔaa mi̱ i̱di̱ ɛn nɛmɛ!
+I turned Tom in.	Töm bi̱ la̱th rɛc.
+Let me be happy.	Jakni̱ lɔcdä kä tɛɛth.
+Let's finish up.	Canɛ jɛ thuk.
+Let's finish up.	Canɛ thuk.
+Look after them.	Guic kɛ.
+My door is open.	Thi̱i̱kdä tee ɣo̱o̱ŋkä.
+My hair is gray.	Ci̱ mi̱äm kä low.
+My kids love me.	Gaatkä nhɔk kɛn ɤä.
+Oh, don't worry.	Wɔ̲a̲w ,cudiɛɛr
+Please continue.	Deri̱ we kɛ wä.
+She disappeared.	Cɛ riaw.
+Somebody called.	Tëkɛ rami̱ ci̱ ciöt.
+Someone coughed.	Tëkɛ rami̱ ci̱ kiɛl.
+Take everything.	Naŋ ti̱ diaal.
+They understood.	Ci̱ kɛn ɛ liŋ.
+Tom disappeared.	Töm cɛ bath.
+Tom is a tailor.	Töm ɛ ko̱o̱c biäyni
+Tom volunteered.	Töm cɛ luäk thöp ɛ thiɛl kök.
+Tom was too fat.	Töm cɛ kɔn dho̱k.
+Watch carefully.	Gui̱c ni̱ gɔaa.
+We all love you.	Kɔn dial nhɔk nɛy yiɛɛ.
+We heard voices.	Ca̱kɔ jiööth liŋ
+Write something.	Gɔ̱r duɔ̱ɔ̱r.
+Accidents happen.	Guäcni̱ la tuɔɔkɛ.
+Are you busy now?	Ti̱i̱kɛ mi lätdi ɛntämɛ?
+Choose carefully.	Mekni̱ ɛ gɔaa.
+Come immediately.	Ŋali̱ ben ɛn tämɛ.
+Do you work here?	Ji̱ läti̱ ɛn gua̱a̱th ɛmɛ?
+Everyone changes.	La nɛy diaal rɔ̱ɔ̱diɛn ɛ gɛɛr.
+Everyone cheered.	Ci̱ nɛy diaal tetkiɛn pat.
+Everyone laughed.	Ci nɛy diaal to̱kdɔl.
+Everyone noticed.	Ci̱ nɛy diaal ɛ ŋa̱c.
+He saved my life.	jɛn cɛ ɣä kän.
+I appreciated it.	Ci lɔcdä tɛɛth.
+I hope Tom knows.	Ɣän ŋa̱thä jɛ ɛn ɣöö ŋäc Töm ɛ.
+I love this area.	ɤän nhɔakä gua̲a̲th ɛmɛ.
+Listen carefully.	Liŋni̱ agɔaa.
+Nobody will come.	̈Thiɛlɛ/ram mi̲ ben.
+Nothing happened.	Thiɛlɛ mi̱ ci̱ tuɔɔk.
+Prepare yourself.	Riali̱ rɔɔdu ikä.
+Respect yourself.	Luthni̱ rɔɔdu.
+She died from TB.	Jɛn ci̱Ti̱bii ɛ näk.
+Sit here with us.	Nyuri̱ kɛ nɛy kɛɛl gua̱th ɛmɛ.
+Somebody laughed.	Tëkɛ rami̱ ci̱ to̱kdɔl.
+Someone screamed.	tëkɛ rami̱ ci̱ wak.
+Stop apologizing.	Päl lär dui̱rä.
+The man ran away.	Ɛn wut cɛ rɔ bar.
+This is our plan.	Nɛmɛ ɛ ca̲p da.
+Tom was troubled.	Töm nyoonɛ nath.
+Watch yourselves.	Guɛcɛ rɔ̱ɔ̱dun.
+We don't want it.	Kɔn /ci nɛy ɛ go̱r.
+We just did that.	Ci̱ëë ci̱ nɛy ɛ la̱r ji̱.
+We like children.	Nhɔk nɛy dho̱li̱.
+We need supplies.	Kɔn go̱r nɛy luäk kuakni̱.
+We're architects.	Kɛ kɔn ta̱th duëëli̱.
+You know nothing.	Thiɛlɛ mi ŋäci.
+You must go back.	Ji̱n dëri̱ loc jɔk.
+Deal us the cards.	Bi̱ Töm ji̱ luäk.
+Deal us the cards.	Lep ni nɛy katni̱.
+Everybody laughed.	Ci̱ nɛy diaal to̱k dɔl.
+Everyone screamed.	Nɛy diaal ci̱kɛ wa̱k.
+Exercise outdoors.	Wër ŋari raar.
+Goodnight, Mother.	Nini̱ kɛ mal ma̱ma̱.
+Happy anniversary!	Tɛ̈thlɔac kɛ tiem duɔ̱ɔ̱rä.
+How do I stop Tom?	Ɣän bä Töm ka̱p cuɔ̱ŋ i̱ di̱ ?
+I do love flowers.	Ɣän nhɔakä gaakni̱ jiɛn.
+I don't feel good.	Ɣän thi̱ɛlɛ ɣä tɛ̈thlɔaac mi̱ gɔaa.
+I have an earache.	Ɣän ta̱a̱ kɛ bɛ̈ɛ̈c ji̱äth.
+I like the colors.	ɤän nhɔakä biɛlɛ.
+I like this music.	ɤän nhɔkä bul ɛmɛ.
+I often work late.	La la̲tä kɛ jɔak guäthni̲ di̲aal
+I'm just visiting.	Duŋdä guel.
+It's all gone now.	Bi̱ kɛn diaal thuɔ̱k.
+It's no big thing.	/Thiɛlɛ mi̲ di̲i̲tia̲ thi̲n.
+Love isn't enough.	Nhök /cɛ rɔ̱ŋ.
+My cat loves milk.	Nyawdä nhɔkɛ cak.
+Please reconsider.	Deriɛ met nyɔk kɛ guec.
+Somebody answered.	Tëkɛ rami̱ ci̱ luɔ̱c.
+Something changed.	Tëkɛ mi̱ ci̱ rɔ gɛr.
+That's not my car.	Ci̱ɛ jɛn thurbi̱lä.
+This beef is good.	Ri̲ŋ ɛmɛ gɔa ɛ
+Tom has no answer.	Töm thiɛlɛ mi̲ cɛ loc.
+Tom loved bananas.	Töm nhɔkɛ bëlɛɛni
+Tom was born here.	Töm dapkɛ jɛ ɛn wänɛ.
+Tom was born here.	Töm dap jɛ gua̱mɛ.
+We can't talk now.	/canɛ bi lat ɛntämɛ.
+We'll go tell Tom.	Bi̱ nɛy ɛ la̱r Töm.
+What are we doing?	Ji̱ ɛ ŋu läti̱ mɔ ?
+What did Tom want?	Töm go̱rɛ ni̱ ŋu mɛn dan?
+You're a good man.	Ɛ ji̱n wut mi̱ gɛaa
+You're dead wrong.	Ci̱ duer ɛlɔ̱ŋ.
+All sugar is sweet.	,THok kër kɛliw limɛɛ.
+Do you like ginger?	Nhɔki̱ daŋdalɛ?
+Does Tom drink tea?	Ɛn Töm la mäthɛ kɛ cäy?
+Everything matters.	Ti̱ diaal te kɛn kɛ luɔt.
+Happy Thanksgiving!	Cäŋ tɛthkä lɔaac mi̱ gɔaa!
+I didn't know that.	ɤän cän jɛ ŋäc.
+I have to meet Tom.	Ɣan go̱o̱rä bä jek kɛ Töm.
+I loved that house.	Ɣän nhɔakä duel ɛmɔ.
+I think Tom is bad.	Di̱ɛwä jɛ Töm ji̱ääkɛ.
+I want Tom to help.	Ɣän göörä Töm bɛ luäk.
+I want Tom to help.	Go̱o̱rä ɣöö bi̱ Töm ɣä luäk.
+I wanted red shoes.	Göörä war mi̱ dɛ̈ɛ̈r.
+I was only kidding.	Ɣän duŋdä muɔŋ.
+Isn't that our job?	Nɔmɔ /CIA la̲tdun?
+Return immediately.	Lunyni̱ jɔk kɛ pɛ̈th.
+Something happened.	Tëkɛ mi̱ ci̱ tuɔɔk.
+Tell Tom I'll come.	Ji̱n läri̱ jɛ Töm i̱ bä ben.
+That's our problem.	Jɛn ɛ riɛk da.
+The door is locked.	Ca bap gäk
+The telephone rang.	Ci̱ talɛpɔn yiɔ̱t.
+They're not hungry.	Ci̱ pɔth kɛ näk.
+This is a template.	Nɛmɛni̱ jɛn ɛ ta̱mpälɛɛt.
+Tom ate in silence.	Töm mi̱thɛ bitkä.
+Tom ate in silence.	Töm cɛ mi̱th ni bitkä.
+Tom ate in silence.	Töm cɛ mi̱th kɛ biɛt.
+Tom ate in silence.	Töm cɛ mi̱th bitdɛ.
+Tom played all day.	Töm cɛ ŋarkɛ cäŋdäär kɛɛliw.
+We do that as well.	Ci̲ nɛy jɛ la̲t ɛ lo̲ŋ.
+You are free to go.	Lɔri̱ kɛ we du.
+You like elephants.	Cetdi kɛ guɔ̲r.
+You're very lonely.	Ɛ ji̱n nikä rɔaadu.
+You're very lonely.	Ɛ Ji̱n kärɔadu.
+You're very lonely.	Tikä rɔaadu.
+Your house is huge.	Duelu ɛ mi̱ di̱i̱t.
+All eyes were on me.	Wäŋ di̱aal guic kɛ ni̱ ɣä.
+Can you start today?	Dëri̱ jɛ tok ɛn wa̱lɛ ?
+Did you believe Tom?	Ɛn Töm puɔ̱nydɛ ci̱ jɛ ŋäth ?
+Everybody knows you.	Naath diaal ŋäc kɛn ji̱.
+Everybody knows you.	Nɛy diaal ŋäc kɛni̱.
+I arrived home late.	Ɣän cä cop kɛ jɔak ciëŋ.
+I heard a door open.	Cä bap li̱ŋ ɛ lɛ̈p kɛ jɛ.
+I like cold weather.	Ɣän nhɔakä ji̱ɔm mi̱ kɔ̱c kɔ̱ɔ̱c
+I'm not saying that.	Ci̱en lar ni̱ɛ nɔmɔ.
+I'm only a freshman.	Ɛ ɣän rami̱ kulɛ tok ni̱ jɛ.
+I'm still listening.	Kɛ gua̱th ɛmɛ ŋuɔtä li̱äŋ.
+Let's go there soon.	Banɛ wä gua̲th ɛmi kɛ gua̲th mi̱ thia̲k.
+Many fish are dying.	Meeri̲ rɛc li̲w kɛ.
+No bones are broken.	Thiɛlɛ cɔ̲w ti̲ ci̲ töl.
+Somebody intervened.	Tëkɛ rami̱ ci̱ rɔ mat thi̱n.
+The soup's very hot.	Cuɛy leth kɛ ɛ lɔ̱ŋ.
+This beer is bitter.	Kɔaŋ ɛmɛ kɛc ɛ.
+This isn't possible.	Nɛmɛ ci̱ɛ thuɔ̱k.
+Tom isn't too young.	Töm /cɛ lɛn ŋuot kɛ kuɛ̈.
+Tom isn't too young.	Töm /cɛ lɛn ŋuot ɛla ŋuɛ̈t.
+Tom stopped singing.	Töm käpni̲ tuar cuɔ̲ɔ̲ŋ.
+Tom wasn't grieving.	Töm /cɛ te pärä.
+Tom went by bicycle.	Töm cɛ wä kɛ Ɣa̱nyjiɛlɛ.
+What room is Tom in?	Ɛ duel ɛndiɛn tee Töm thi̱n nɔ?
+Why are you running?	Ɛ ŋu ri̱ŋi̱ kɛ ji̱ mɔ ?
+Women don't like me.	Män ci̱ kɛn ɣä nhɔk ?
+You can go home now.	Dëri̱ wee ci̱ëŋ ɛn täämɛ.
+You need to lay low.	Göɛ ɣöö dee yuɔth piny.
+You should be tired.	Di̠ɛwä jɛ bi̠ cuuc.
+You wouldn't get it.	/Ciɛ bi̱ jek.
+All you need is time.	Jɛn görɛ ɣöö bi̱ gua̱th ri̱ali̱kä.
+Did the car look old?	Guɛc kɛ thurbi̲l ɛmɛ ce̲tkɛ dɔaaŋ?
+Don't break my heart.	/Cu lɔcdä to̱l.
+Don't worry about us.	Cu di̱ɛɛr kɛ kui̱da.
+Has Tom quit smoking?	Ci̱ Töm ma̱th tapkä päl ?
+He sent for a doctor.	Cɛ ja̲ kä ki̲m
+I can't speak French.	Ɣän ruacä kɛ thok Pi̱rɛɛny.
+I need some time off.	Ɣän görä thaak lɔ̱ŋkä.
+I used to drink beer.	Laa määthä kɛ bi̱rɛɛ.
+I usually wear jeans.	Ɣän la la̱thä jakɛt ni̱ ciaaŋ.
+I wanted to call you.	Ɣän bä ji̱ cɔal jɔk.
+I was here last year.	Mëë thaar ta̱a̱ ɛn gua̱th ɛmɛ.
+I was planning on it.	Cä jɛ car ɛn ɣoö bä lät.
+I'll need some tools.	Go̱r nɛy tha̱a kuakni̱
+I'm a man, not a boy.	Ɛ ɣän wut, ci̱änɛ dhöl.
+I'm a private person.	Ɛɤän rami̲ tɛ̲̈ɛ̲̈.
+I'm going to be sick.	Ɣän bɛ ɣä moc juey.
+I'm going to be sick.	Bɛ ɣä moc juey.
+I'm not ready to die.	Ɣän ka̱n rɔriali̱kä kɛ li̱a̱a̱.
+It can happen easily.	Derɛ tuɔɔk kɛ duɔ̲ɔ̲p mi̲ thi̲a̲k thi̲a̲k.
+Let's not discuss it.	Cuanɛ ruac kɛ kui̲dɛ.
+Saturday was special.	Cäŋkä ba̱kɛl rɛl gɔydɛrɔ.
+Tell them what to do.	Läri̱ kɛ mi̱n dee kɛnɛ lät.
+These are dark times.	Ni̱n ɛ ti̱i̱ kɛ ni̱n ti̱ bɛ̈cbɛ̈ɛ̈c.
+They don't trust Tom.	Ci̱ kɛn Töm ŋäth.
+They're able to sing.	Kɛn ŋäckɛ diit.
+This book isn't mine.	Ɛn bok ɛmɛ ciɛ/duŋdä.
+This looks like silk.	Jɛn ce̱tkɛ kɛ cäth.
+Tom broke the window.	Ci̱ Töm wërnyi̱n to̱l.
+Tom had things to do.	Töm tëë ŋɔak ti̲ de̲rɛ la̲t.
+Tom has lots of toys.	Töm tëë kɛɛ kuak ŋarä ti̲ ŋuan.
+Tom is a good tenant.	:Töm ɛ cääk ŋɔaani̱ mi̱ gɔaa.
+Tom is just thirteen.	Töm ɛ run wäl diɔk
+Tom left an hour ago.	Töm cɛ ji̱ɛn kɛ kɔr thaakni̱ ti̱ ci̱ wee.
+Tom let Mary do that.	̈Töm canɛ jɛ la̲t i̲nɛ.
+We know your brother.	Kɔn ŋäc nɛy dämuɔɔr.
+What do you men want?	Nɛkun go̱r kɛn ni̱ ŋu ?
+Who invited you guys?	Ɛŋa ci yiɛ la̱rlärɔ?
+You should know that.	Däri jɛ ŋa̱c.
+All I want is freedom.	Min göörä kärɔa ɛ lɔar
+Can Tom do that today?	Bi Töm nɔmɔ la̱t ɛn walɛ?
+Can we change history?	Dee kɔn lɛ̈ɛ̈ŋ ɛmɛ gɛr?
+Do you have two books?	Ti̱kɛ buɔkni da̱ŋ rɛw?
+Do you have two books?	Ti̱kɛ buɔni rɛw?
+Do you live here, Tom?	Töm, ciëŋ i̲ ɛn gua̲th ɛmɛ ?
+He didn't go to class.	Känɛ we duel gɔ̱ɔ̱kä.
+He is afraid of death.	Jɛn dualɛ kɛ li̱a̱.
+He went back to Japan.	Cɛ locjɔk k̈ä Japan
+How was the interview?	Teetdi̱ ɛn thiëëcni ?
+I don't feel too well.	Puɔ̱nydä /cɛ puɔl.
+I don't see a problem.	Ka̱nɛ nɛn ɛn ri̱ɛk.
+I gave them some food.	Cä kɛ moc kɛ kuän.
+I must go and see him.	Bä jɛ yi̱k wee nɛn.
+I myself was confused.	Ɣän puɔ̱nydä cɛ ɣä yi̱c.
+I'm telling the truth.	Ɣän la̱rä ni thuɔk.
+Let me see your notes.	Ɛ tin ci̱ gɔa̱r piny nɛ̈nä.
+Let's just go see him.	Ɛduundan la we̲ banɛ jɛ wë nɛn
+More work is required.	G̲o̲rɛ la̲t mi̲ di̲i̲t.
+Put it where you want.	K,uëŋ ni jɛ guɔ̲a̲th ɛn nhɔki̲
+That's what I'm doing.	Ɛ jɛn lɛ̈lä mɔ.
+That's what I'm doing.	Ɛ jɛn la̱tä mɔ.
+The bridge was bombed.	Kubri̱ ca mär.
+Tom was wearing a wig.	Töm cɛ wi̲i̲k la̲th.
+Tom wears glasses now.	Töm cɛ nääni la̱th ɛn täämɛ
+We're not that stupid.	/Ci̱ nɛy ŋɔak kui̱c inɔ.
+What else did you see?	Ɛ ŋu dɔŋ ci̱ nɛn nɔ ?
+Who'll do that for us?	Ɛŋa bi̱ nɔmɔ lät kä kɔnɔ?
+Who'll do that for us?	Ɛŋa bi̱ nɔmɔ lät kä kɔ mɔ?
+Why would Tom do that?	Ɛŋu dee Töm nɔmɔ la̱t kɛ jɛ mɔ?
+You need to wait here.	Go̱o̱ri̱ ɣöö bi̱ liep ɛn gua̱th ɛmɛ.
+Come by this afternoon.	Ber kɛ gua̲a̲th thiaaŋ ɛmɛ.
+Do you play the guitar?	Ji̱ laa ŋari̱ kɛ thom?
+Does Tom have a chance?	Dee Töm tëë kɛ baŋ?
+Everyone looks worried.	Gui̱ɛcä nɛy diaal ciɛ di̱ɛɛr kɛn.
+Good evening, everyone.	cia thiaŋ kɛ mal.
+He looked at his watch.	Jɛn guicɛ thaak dɛ.
+He looks down on women.	La guicɛ män piny.
+I assume I was invited.	Diɛwä jɛ caa ɤä cɔl
+I bought three oranges.	Cä lemuuni̱ da̱ŋ di̱ɔ̱k kɔk.
+I want to learn karate.	Ɣän göörä ŋi̱i̱c Karate kä
+I'll stay home tonight.	ɤän bä tee ciëŋ ɛn thiaani̲.
+I'll talk to Tom alone.	Bä ruac kɛ Töm kärɔa.
+I'm not your boyfriend.	Ciɛ ɣän luumdu.
+It was raining heavily.	Cɛ dɛ̈m ɛ lɔ̱ŋ.
+May I start eating now?	Dee mi̱äth tok ?
+My father will help me.	Bi̲ gua̲a̲r ɤä luäk.
+My neck hurts a little.	ŋuäkdä bɛcɛ kä mi̱ tɔt.
+My neck hurts a little.	ŋuäkdä bɛcɛ ɛ määth.
+Shall I carry your bag?	Dee bɛ̈ɛ̈kdu kap?
+Someone made a mistake.	Ram kɛl cɛ duer la̱t.
+Tell Tom to hurry back.	Läri̱ kɔ ɣöö bi̱ Töm luny jɔk.
+This is Tom's umbrella.	Kumca̱ŋ ɛmɛ ɛ duŋ Töm.
+Tom crossed the border.	Töm cɛ key ŋok.
+Tom did an amazing job.	Töm cɛ la̱t mi̱ gääy nath lät.
+Tom did this correctly.	Ci̱ Töm ɛ la̱t kɛ gua̱a̱thdɛ
+Tom drives a black car.	Töm gɛrɛ thurbi̲i̲l mi ca̲r.
+Tom gave Mary a dollar.	Töm cɛ Mɛri̱ moc kɛ Dɔlɔr.
+Tom has a nice bicycle.	Töm tee kɛ ji̱o̱k thiɛliɛk mi̱ gɔaa.
+Tom is as tall as I am.	Töm jɛn bärɛ ce̱t kɛ ɣä
+Tom is at the computer.	tom jɛnɛ ka computɛr.
+Tom isn't afraid of us.	Töm cɛ dual kɛ kɔn.
+Tom isn't very careful.	Töm cɛ rɔ tiit.
+Tom looks very content.	Töm cätdɛ mi tɛth lɔcdɛ.
+Tom won't be with Mary.	Töm ci̱ kɛn bi̱ tee kɛɛl kɛnɛ Mɛri̱.
+Tom won't believe Mary.	Töm /cɛ mɛrɛ ŋäth.
+We have an orange tree.	Tee nɛy kɛ jiath lemuun.
+We have to do this now.	Banɛ jɛ dhil la̱t ɛntäämɛ.
+We'll obey these rules.	Bi̱ kɔn ŋuɔ̱t yi̱k luɔ̱th.
+What's your story, Tom?	Ɛŋu la muɔŋdu, Töm?
+What's your story, Tom?	Ɛŋu la caalku, Töm?
+Why's Tom still crying?	Ɛ ŋu ro̱t kɛ Töm ɔ ?
+Will you study tonight?	Bi̱ kuën ɛn wääri̱?
+Caesar was born in Rome.	Köthɛɛr dapkɛ jɛ kä Röm.
+He died three years ago.	Cɛ li̱w kɛ kɔr run ti jiɛn diɔ̱k ti ci wä.
+I can't leave Australia.	Ɣän cän Athi̱ra̱li̱aa bi̱ ba̱ny pi̱ny.
+I didn't buy either one.	Thi̱ɛlɛ mi̱ cä kɔk kä kɛn da̱ŋ rɛw.
+I discussed it with Tom.	Ɣän ci̱ nɛy ruac kɔnɛ Töm.
+I don't do that anymore.	Cänɛ bi̱ la̱t ɛ we wee nhiam.
+I don't want Tom to win.	Cänɛ go̱r i̱ bi̱ Töm pa̱a̱th.
+I know that Tom is bald.	Ɣän ŋa̱cä Töm i̱ ɛ wi̱c laaŋ.
+I like fishing with Tom.	Ɣän nhɔkä dëp rɛc kɔnɛ Töm kɛɛl
+I might be able to help.	Dɔ̲ŋ bä kɛ luäŋ kɛ luäk.
+I owe you a big apology.	La̱rä ji̱ dua̱r kɛ kui̱ päli̱kä.
+I should do that myself.	Ɣän nɛmɔ dee jɛ la̱t.
+I think Tom is confused.	Ɣän di̱ɛwä jɛ ɛn ɣöö ci̱ Töm wi̱dɛ nyuɔn.
+I thought you liked Tom.	Di̱ɛɛwä jɛ nhɔki̱ Töm.
+Is this milk still good?	Kɛn cak ŋuɔt kɛn kɛ gɔɔy ?
+Let's run away together.	Can rɔ̱ɔ̱dan bar kɛɛl.
+Mary can speak Japanese.	Mɔri̱ kui̱cɛ thok Japaan.
+My wife loves apple pie.	Ci̱ëkdä nhɔkɛ Ɣa̱pɛl.
+Spend some time with me.	Teyni kɛɛl kɛ ɣä kɛ thaaŋ guäthni
+Tell Tom what Mary said.	Lätniɛ Töm ɛn min ci mɛrɛ jɛ lar.
+The baby's name was Tom.	Ci̲öt gatkä ɛn ciɔalɛ Töm.
+The lion is eating meat.	Jɛn lony laa camɛni̲ ri̲ŋ.
+They took our passports.	Cikɛn pa̱th-puɔt nikɔ ka̱n.
+This house is very good.	Duël ɛmɛ jɛn gɔayɛ ɛlɔ̱ŋ.
+Those days are now over.	Ɛn tämɛ ni̲n ɛ tɔ̲ cikɛ thuɔk
+Tom will never trust me.	Tön ɛ puc cɛ ɣä ŋäth.
+What did Tom want to do?	Töm go̱rɛ ɣöö bɛ ŋu la̱t ɔ ?
+Are you a coffee drinker?	Ɛ ji̱n määth bunkä?
+Can you open this for me?	Ji̱n de̱ri̱ ɣä lëp nɛmni̱ ?
+Did you do that recently?	Pay i jɛ la̱t?
+I got something from Tom.	Ɣän cä ŋɔakni̱ jek kä Töm.
+I know that I don't know.	Ɣän ŋa̱cä jɛ ɛn ɣöö kuäcä jɛ.
+I want to be young again.	Nhɔakä ɣöö bi̱ ɣän ɛ ŋuɛ̈t.
+I want to paint my house.	Ɣän görä ɣöö ba duëlä rɔth.
+I will help him tomorrow.	Bä jɛ luäk i̱ ruun.
+I'll join you for dinner.	Bärɔ ma̱t ji kɛ mieth thiaŋ.
+I'm going to go with Tom.	Wa̱a̱kɛ bakɔ we kɛɛl kɔnɛ Töm.
+I'm going to go with Tom.	Ɣän wa̱a̱kɛ kɛ ɣöö bakɔ we kɛɛl kɔnɛ Töm.
+My father has a good job.	Gua̲r tee kɛ la̲t mi̲ gɔaa.
+Please don't waste water.	Ji̱n cu ŋar kɛ pi̱.
+She has to study science.	Bɛ thaany gɔ̱r.
+She speaks ten languages.	Jɛn ruac kɛ thuk ti̱ cuɔp kɛ wäl.
+The apples are delicious.	Apɛl jɛn comɛ.
+Tom also lives in Boston.	Töm jɛn ci̱ëëŋɛ kä Buɔth tɔɔm.
+Tom and I study together.	Ɣän ɛ nɛy ɛ kuën kɔnɛ Töm.
+Tom gave us a lot to eat.	Töm cɛ nɛy moc mi̲th ti̲ cam kɛ.
+Tom knew Mary was hungry.	Ŋäc Tömɛi̲ Mɛri̲ näk bɔthɛ.
+Tom opened the blue door.	Ci̱ Töm bap mi̱ yiëël lɛp.
+We need to do more tests.	Go̱o̱r nɛy la̱t ɣɔ̱ɔ̱ni̱ ti̱ kɔkiɛn.
+We've lost our umbrellas.	Ci̱ nɛy kumca̱ŋ ni̱kɔ bath.
+Would you please help us?	Gɔayɛ dëri̱ nɛy luäk?
+Are all these books yours?	Kɛn buɔkni dial ɛ ti̱ni kɛ nyi̱n ku ?
+Could you take my picture?	Deri̠ ɣä thur?
+Did you play tennis today?	Dëra mi̱ ci̱ ŋar kɛ tɛni̱i̱th ɛn wa̱lɛ?
+How does this camera work?	Ci̱ thuurɛ ɛmɛ lät i̱ di̱ ?
+I can be there in an hour.	Bä yi̱k cop kɛ kɔr thaakä.
+I can't tell you anything.	Thiɛlɛ mi̱ dee la̱ri̱.
+I didn't sit in the front.	Ɣän /ka̱n nyuur nhiam
+I go to college in Boston.	Ɣän bä wee kä Bo̱thtɔɔm Kɔ̱ɔ̱li̱c.
+I knew that Tom was a bum.	Töm ɣän ŋa̱cä jɛ ɛ lät mi̱ gɔaa.
+I know Tom is a nonsmoker.	Ŋa̱cä jɛ i̱ ci̱ Töm ma̱th kɛ tap.
+I know Tom is intelligent.	Ɣän ŋa̱cä jɛ ɛn Töm i̱ ram mi̱ pɛl pɛl.
+I want to go out with you.	Görä ɣöö dëë wä ja̱l kɔn ji̱.
+I was thinking of leaving.	Ta̱a̱ rɛy cärkä kɛ ɣöö dee ji̱ɛn,
+I will look the other way.	Bä duɔ̱ɔ̱p dɔdi̱ɛn gui̱c.
+I'm not writing about you.	/Cien gɔ̱r kɛ kui̱du.
+I'm not writing about you.	/Cien gɔ̲r kɛ kui̱du.
+I'm the one who saved Tom.	To̱m ɛ ɣän ram kɛl mi̱ tëëk jɛ,
+Is this your first flight?	Nɛmɛ ɛ jɛn riäy ɛn jiɛcrɔ kɛ nhiam
+Many residents were angry.	Ji̱ ciëëŋni̱ ti ŋuan gakɛ.
+Not even one taxi stopped.	Cäŋɛni tɛkthi̱ kɛl känɛ cuɔ̱ŋ.
+OK Tom, that should do it.	Tön ɛ jɛn, go̱r bi̱ nɛmɛni̱ la̱t.
+This box is full of books.	Ɛn thänduk ɛmɛ cɛ thi̱a̱ŋ kɛ buɔkni̱.
+Tom and I were both wrong.	Ɣän kɔnɛ Töm kɔn da̱ŋ rɛw ci̱ nɛy bath.
+Tom can't drive very well.	Töm jɛn kui̱cɛ gër thuɔ̱rbiɛɛl.
+Tom didn't deserve to die.	Töm /cɛ rɔ̱ŋ kɛ lia̱.
+Tom didn't deserve to die.	Töm /cɛ rɔ̱ŋ kɛ ɣöö bɛ li̱w.
+Tom has eyesight problems.	Töm jɛn tee kɛ riɛk gui̱äc.
+Tom is Canadian, isn't he?	Töm ɣäni̱ raan Kɛnɛdɛ di̱?
+Tom left the room quietly.	Töm cɛ jiɛɛn dueel ni bitdä.
+Tom left the room quietly.	Töm cɛ dueel ba̱nypiny ni bitdä.
+Tom told me you'd do that.	Ci̲ Töm la̲r ɤa i̲ /cië bi̲ la̲t.
+Tom was happy to see Mary.	Töm ci̱ lɔcdɛ tɛɛth kɛ nën Mɛɛrɛ.
+We do everything together.	Kɔn lätnɛy ti ŋuan kɛɛl.
+We need some help in here.	Go̱r nɛy luääk kɛ gua̱a̱th ɛmɛ
+Why didn't Tom come today?	Ɛŋu mi ken Töm ben ɛn walɛ?
+Why should I learn French?	Ɣän ɛ ŋu gɔ̱a̱rä thok Pi̱rɛɛny kɛ jɛ mɔ?
+Would you like some water?	Dee lɔcdu pi̲w go̲r?
+You'll never see me again.	Ji̲n ci̲ ɤä bi̲ nyɔk kɛ nën.
+Your cat is looking at us.	Nyawdu jɛn giicɛ nɛy.
+Are you going out tomorrow?	̈Bi̲ we raar i̲ ruun ?
+Do we have a meeting today?	Tee kɔn kɛ duɔl kɛ cäŋ ɛmɛ?
+Have you read the book yet?	Ci ji̱n book kuɛn i̱nun?
+Have you read the book yet?	Ci kuën kɛ book inun?
+Have you read the book yet?	ŋotdi keni book ni kuɛn i̱nun?
+Have you read the book yet?	Keni book ni kuɛn i̱nun?
+He was elected mayor again.	Ca jɛ kuany ɛla mɛ-yɔr ɛ nyɔk.
+I don't drink beer anymore.	Ciänɛ mäthä kɛ Bi̱raa.
+I don't really like movies.	Ciän mubini nhɔk
+I don't think I'm handsome.	Cän jɛ ŋäth i̲ ɛ ɤän balaŋ.
+I had the right to do that.	Ta̱a̱ kɛ cuɔ̱ɔ̱ŋ kɛ lätni̠ kä nɔmɔ.
+I knew Tom was lying to us.	ŋacja jɛ ɛn ɣoo kac jɛ ni jɛ.
+I know where you were born.	Ɣän ŋa̱cä gua̱a̱th ɛn dap kɛ ji̱ thi̱n.
+I know you miss me as well.	Ŋa̱cä jɛ ɛn ɣöö ci̱ ɣä tim bä.
+I studied there a year ago.	Ɣän gɔ̱a̱rä thi̱n kɛ ruɔ̱n ëë ci we.
+I think Tom could fix this.	Di̱ɛwä jɛ ɛn ɣöö bi̱ Tom ɛ ri̱ali̱kä .
+I used to be rich like you.	Cä kɔn ti̱i̱l cie ji.
+Let me tell you what I see.	Ɛ ji̲ la̲rä mi̲n cä nɛn
+Tom and Mary sang together.	Töm kɛnɛ mɛrɛ ci̱kɛ dit kɛt kɛɛl.
+Tom and Mary sang together.	Töm kɛnɛ Mɛrɛ ci̱kɛ tuar kɛɛl.
+Tom doesn't have a website.	Thiɛlɛ Töm wɛpthay
+Tom doesn't like my family.	Töm /cɛ ji̱ dhɔarä nhɔk.
+Tom is sound asleep in bed.	Töm ce̱tɛ mi̱ cɛ tɛ̱c wi̱i̱dhaaŋkä
+Tom knew that I loved Mary.	ŋäc Töm ɤöö nhɔakä Mary
+Tom said he was unemployed.	Töm ɛjɛni̱ thiɛlɛ la̱t.
+Tom says he has experience.	Töm tee kɛ ŋäc.
+Tom's dream is coming true.	Ci̱ läk Töm dia̱ thuɔ̱k.
+We have no school tomorrow.	thiɛlɛ nɛy (kɔn) duel gɔ̱rä i̱ruun.
+We study English every day.	Ɛ nɛy ɛ kuën kɛ ,Ingili̲i̲c ni ciaaŋ
+When do you have breakfast?	Ɛ guääth ɛndiɛn bi̱ mäth ruɔ̱n waaŋ cam kɛ jɛ mɔ ?
+How about I buy you a drink?	Kä mi̱ cä ji̱ kök mi̱ mathi̱?
+I believe that he is honest.	Ɣän ŋa̱thä jɛ i̱ ɛ gua̱n luäŋkä.
+I don't want to take a bath.	Ɣän /cien jɛ go̱r i̱, bä puaak.
+I got up thirty minutes ago.	Ɣan ca rɔ ji̱ɛc kɛ kɔr mi̱nitni̱ ti̱ jji̱ɛn da̱ŋ di̱ɔ̱k
+I know Tom was lying to you.	Ɣän ŋa̱cä jɛ ci̱ Töm kac lat ti̱ ,
+I sat down by the telephone.	Cä nyuur kut Talɛponä.
+I think you're a bad father.	Ɣän diɛwä jɛ ɛji̱ gua̱ndi̱i̱t mi̱ jiääk.
+If Tom were here, he'd help.	Mi tee Töm ɛn wanɛ, dërɛ luäk
+My house has three bedrooms.	Duëlä tee kɛ dhaŋni̱ da̱ŋ di̱ɔ̱k.
+The baby seems to be asleep.	Gat cetɛ kɛ mi̲ cɛ ni̲ɛɛn.
+Tom said he liked that book.	Töm cɛ lar i̲ nhɔkɛ bok ɛmɔ.
+Tom was walking very slowly.	Töm cɛ ja̱l ɛmääth ɛlɔ̱ŋ.
+Tom went swimming with Mary.	Töm go̲r kët kɛnɛ Mëri̲
+Tom's money won't last long.	Töm /ci̱ yio̱o̱kɛ bi̱ jääny.
+We'll be back on track soon.	Bi̲ nɛy luny dup kɛ pɛ̈th
+What you did made Tom angry.	Min ci la̱t cɛ To̱m jak kä gak.
+Who will you be coming with?	Bia ben kɛɛl yiɛnɛ ŋa?
+You told me I could do that.	Ci̱ jɛ la̱r ɣä ɛn ɣöö dee jɛ luäŋ.
+You're not thinking clearly.	Ji ci̱ cäär kɛ thuɔ̱k.
+Your phone was switched off.	Ci̱ talɛpɔndu rɔdɛ gäk.
+Are you allowed to fish here?	Ca ji pa̱l ɣöö bi dɛɛp gua̱mɛ?
+Are you allowed to fish here?	Ca ji nhök ɣöö bi dɛɛp gua̱mɛ?
+Are you allowed to fish here?	Ca ji jakä ɣöö bi dɛɛp gua̱mɛ?
+As I said, we have a problem.	Cä lar,te kɔn kɛ riɛk.
+Did Tom really tell you that?	C̲i̲ Töm ɛ la̲ri̲ ɛ thuɔ̲k?
+Didn't you know Tom did that?	Ciɛ ŋäc i̱ ci Töm ɛ la̱t?
+Dolphins are playful animals.	Dɔlpi̲i̲n ɛlëy gua̲n ŋaarkä.
+Has Tom completed his degree?	Ɛn Töm cɛ di̱kri̱i̱dɛ thuk?
+Has Tom completed his degree?	Ɛn Töm cɛ di̱k-ri̱i̱dɛ thuk?
+He'll be married next Sunday.	Jɛn bɛ kuɛɛn kɛ cäŋ kuɔ̱th ɛ bi̱ ben nɔ.
+How do you know what Tom did?	Ŋäci jɛ idi̱ ŋu ci Töm ɛ la̱t ɔ?
+I always wondered about that.	Laa ga̲a̲c̲ ni̲ ci̲aŋkɛ jɛn nɔmɔ.
+I barely make any profit now.	Dakni̱ rëp mi̱ kua̱lɛ jek ɛntämɛ.
+I didn't report the accident.	ɤän cän mi̲ ci̲ tuɔ̲ɔ̲k bi tho̲p.
+I don't know where I'll live.	kui̲äcä gua̲a̲th in bä ci̲e̲ŋ thi̲n
+I don't want to talk anymore.	Ɣän cänɛ gör i̱ tee ram mi̱ bi̱ nɛy ruac.
+I would like a word with you.	Dëë met ruac kɛ ji̱.
+It was a risk we had to take.	Baa ri̲ɛk banɛ ka̲nɔ
+She asked him where he lived.	Ca jɛ thi̱ëëc kɛ gua̱a̱th ɛn ci̱ëëŋɛ thi̱n.
+That doesn't to matter to me.	Nɛmɛ jɛn thiɛlɛ mi̱ gɛɛr kä ɣä.
+Tom didn't want to stop Mary.	Töm cɛ go̱r i̱ bɛ Mɛri̱ ka̱p cuɔ̱ɔ̱ŋ.
+Tom has a very beautiful dog.	Töm tee kɛ ji̱o̱k mi̱ gɔaa ɛlɔ̱ŋ.
+Tom has never fallen in love.	Töm /kenɛ raan met nhɔk.
+Tom is a professional driver.	Töm ɛ geer mi̱ ci̱ thuɔ̱k thi̱n.
+Tom is completely unreliable.	Töm caa jɛ ŋäth ɛ puc.
+Tom is doing fine without us.	Töm wëë gɔaa ɛ thiɛlɛ kɔn thi̱n.
+Tom isn't likely to be awake.	Töm /cɛ rɔ bi̲ luäŋ kɛ ker
+Tom owns a yellow sports car.	Töm tee burbil Ithpɔtkä mi̲ yaan mi̲ la duŋdɛ
+Tom really worries about you.	Töm diɛɛrɛ kɛ kui̱i̱du.
+Tom wasn't forced to do that.	Töm ka̱nɛ kuɔ̱k ɣöö lɛlɛ nɔmɔ.
+Tom will be moving to Boston.	Töm gɛrɛ rɔ wee kä Bɔ̱thtɔɔm
+Tom won't visit you tomorrow.	Töm /cɛ ji bi gui̱l i̱, ruun.
+Tom's request surprised Mary.	Mɛrɛ cɛ ga̱a̱c kɛ thiëëc Töm.
+Tomorrow is Monday, isn't it?	Iruun ɛ jiëcla̱t, /kiɛ ciɛ jɛn?
+We didn't bring enough water.	/Ken nɛy pi̱ ti̱ rɔ̱ŋ nööŋ.
+Are you and your sister close?	Thi̲e̲e̲ki̲ yiɛnɛ nyi̲muɔɔri̲?
+Can I have some water, please?	Dee piw ti̱ tɔt jek kä ji̱?
+Everyone was dressed in black.	Nɛy diaal c5kɛ bi̱ääyni ti̱ ca̱a̱r la̱th ni wënkä.
+How many chickens did you buy?	Kɛ manpɛ̈lɛ̈ɛ̈kni̱ da̱ŋ di̱ cia kɔk tɔni̱?
+I got that for almost nothing.	Ɣän thiɛlɛ duɔ̱r mi̱ cä jek thi̱n.
+I just want to be your friend.	Ɣän go̱o̱rä ɣöö bi̱ ji̱n ɛ määthdä.
+I know someone should do that.	Ɣän ŋa̱cä jɛ i̱ dee ram kɛl ɛ la̱t kä kɛ.
+I must finish this work first.	Bä la̱t ɛmɛ yi̱k thuk kɛ nhiam.
+I need to tell Tom everything.	Görä ɤöö bä Töm la̲r ŋɔak dial.
+I want to return to Australia.	Göörä loc kä Ɣuri̱thi̱ra̱li̱aa.
+I'm sorry that you can't stay.	ɤän cä duär /ci kɔn bi̲ ciëŋ kɛl.
+It's been three years already.	Jɛn cɛ tee kɛ run da̱ŋ di̱ɔ̱k.
+It's easy for you to say that.	Thɛ̱̈kɛ kä ji deri jɛ lar inɔ.
+It's easy for you to say that.	Thɛ̱̈kɛ deri jɛ lat.
+My eyes get tired very easily.	Wäŋkä la kɛn ŋala cuc kɛ pɛ̈th.
+Please give me a cup of water.	Dërɛ gɔaa ɛn ɣöö bi̱ ɣä moc kɛ kubay piini̱..
+Tom and Mary are doing better.	Töm kɛnɛ Mɛri̱ lät kɛn a gɔaa.
+Tom and Mary are really drunk.	Töm kɛnɛ Mɛri cikɛ yɔ̱ŋ pa̱ny.
+Tom cut his hand when he fell.	Ci Töm tetdɛ ŋok min cɛ pɛɛn
+Tom doesn't have any children.	Töm jɛn thiɛlɛ jɛ gaat.
+Tom is not as patient as Mary.	Ɣän ciä ji̱ baay kɛ ramdɔdiɛn ?
+Tom is not as patient as Mary.	Töm /ciɛ luääk ce̱tkɛ Mëri̱.
+Tom said that Mary was eating.	Ci̱ Töm ɛ lar i̱ ŋɔt Mɛri̱ kɛ mi̱äth.
+Tom speaks French really well.	Töm ŋäcɛ ruac thuɔk pi̲rɛny ɛlo̲ŋ.
+Tom will try it one more time.	Töm bɛ nyɔk kɛ ɣɔ̱n kä kɛɛl.
+Would you like me to help you?	Nhɔki̱ jɛ i̱ dëë ji̱ luäk ?
+Both Tom and I failed the exam.	Ɣän kɔnɛ Töm ci̱ nɛy pɛ̈ɛ̈n kä Ɣɔ̱ɔ̱n.
+Both Tom and Mary like bananas.	Töm kɛnɛ mɛri̲ nhɔk kɛn muuth.
+Did you come with your husband?	Jin ci ben yiɛnɛ cɔwdu?
+Did you talk to Tom about that?	Ci̱aa ruac yi̱ɛnɛ Töm kɛ kui̱ kä nɔmɔ?
+Does he know that you love him?	Jɛn ŋäcɛ ɣöö nhɔki̱ jɛ.
+Finish it before you go to bed.	Thukɛ ɛŋoti̲ käni̲ wee tɔ̲ɔ̲c.
+I don't have any classes today.	Thiɛlɛ ɤä ki̲lɛ̈th kɛ cäŋ wa̲lɛkä.
+I don't want to see this again.	Cänɛ gör i̲ bä nyɔk kɛ nën.
+I hope that I see Tom tomorrow.	Ŋa̱thä jɛ ɛn ɣöö bä Töm nɛn iruun.
+I poured water into the bucket.	Cä pi̱w wuɔc rɛy jɛndɛlkä,.
+I poured water into the bucket.	Cä pi̱w wuɔc rɛy jɛndɛlkä.
+I took this picture a week ago.	Cä thuurɛ ɛmɛ kän kɛ juɔk ëë ci̱ wee.
+I want to go play in the river.	Görä ɣöö bä wä ŋar yieer.
+Just help me with this baggage.	Luäkä kɛ bɛ̈ɛ̈k ɛmɛ.
+Most Americans like hamburgers.	Nɛy ti̱ ŋuan ni kɛn kä Amëri̱ka nhɔk kɛn Amäri̱gɛr.
+My father bought me some books.	Ci̲ gua̲rä ko̲k buɔkni.
+No one asked me not to do that.	Thiɛlɛ ram kɛl mi̲ ci ɤä thiëëc i̲ /cu jɛ lät.
+People say I have a nice voice.	Ci̲ nath wëë ta̲a̲ kɛ jɔw mi̲ gɔaa.
+Tom and Mary work in Australia.	Töm kɛnɛ Mɛrɛ lätkɛ kä ɣɔ̱thi-ra-lia.
+Tom bought Mary some chocolate.	Töm cɛ Mɛrɛ kök cɔ-kɔ-lɛt.
+Tom has a 13-year-old daughter.	Töm tëkɛ nyaadɛ mi tekɛ run 13.
+Tom listened to Mary carefully.	Töm cɛ Mɛri̲ liŋ kɛ päl pi̲ny.
+Tom saw Mary eating a sandwich.	Töm cɛ nɛn Mɛrɛ mi̱thɛ kɛ Tha̱nduuc .
+Tom told me that he had a cold.	Töm cɛ la̱r ɣä i̱ tëë kɛ thony thoony
+Tom was very happy to see Mary.	Töm ci̱ lɔcdɛ tɛ̈ɛ̈th kɛ ɣöö cɛ Mɛri̱.
+Wet clothes stick to your skin.	Bie̱yni ti ɣɔ̱c duapkɛ rɔ̱ puɔ̱ɔ̱nydu.
+Yes. We should be very careful.	ɤään. Banɛ dhil te̲ kɛ tiit.
+You should go brush your teeth.	Wer görɛ ɣöö dëri̱ lɛcku we toth.
+Your performance was very good.	Jin ci̱ mi̱ gɔaani̱ jɛn la̱t ɛlo̱ŋ
+Big people aren't always strong.	Nɛy ti̱n di̱i̱t/kɛn la bum ni̱ ciaaŋ.
+Do you want to come to my place?	Ji̲n go̲ri ɤöö dëri̲ ben gua̲ath ciɛɛŋkädä?
+I actually haven't even met Tom.	Kɛ thuɔ̲k /ka̲n ji̲e̲k kɔnɛ Töm.
+I need to know why Tom did that.	Görä ɤöö bä ŋa̲ci̲ ɛŋu lät Töm nɔmɔ kɛ jɛ mɔ
+I still have other things to do.	Yän ŋuɔtdä ta̱a̱ tikɔ̱ŋ ti la̱tdä
+I think you're absolutely right.	Ɛ thuɔ̱k ɣän ŋa̱thä jɛ i̱ ciɛ la̱t kɛliw..
+I thought Tom didn't work today.	Cä diw i̱ Töm känɛ lät ɛn wa̱lɛ.
+I want Tom to move to Australia.	Görä ɣöö Töm bɛ ɣo̱th kä Ɣɔthtralia.
+I'm happy that you're my friend.	Tɛ]th lɔcdä kɛ ɣöö ɛ ji̱n määthdä.
+If you do it at all, do it well.	Mi̱ wi jɛ cak la̱t, lätni̱ jɛ agɔa.
+Mary is having a new dress made.	Mɛri tëkɛ bi̱i̱ mi pay la̱t.
+Mary is having a new dress made.	Mɛri tëkɛ bi̱i̱ mi pay tɛm.
+Mary is having a new dress made.	Mɛri tëkɛ bi̱i̱ mi pay kɔc.
+The Jacksons moved to Australia.	Ci Jakthɔn ɤo̲th kä Awuthi̲raliaa.
+They were rich as well as happy.	Kɛ nɛy ti̲ ria̲ŋ ria̲a̲ŋ kä tɛthlo̲ckiɛn.
+Tom didn't do that the easy way.	Töm /känɛ la̲t kɛ duɔ̲ɔ̲p mi̲ thia̲kthia̲k
+Tom has a lot of good qualities.	Tönm tee kɛ gɔy ti̲ ŋuan
+Tom is a very gregarious person.	Töm ɛ ram ŋäc muɔŋ ɛ lɔ̱ŋ.
+Tom said that he was unemployed.	Töm ɛjɛni̱ thiɛlɛ la̱t.
+Tom used to drink a lot of milk.	Töm la maathɛ cak ti ŋuan.
+Tom won't be able to go with us.	Jɛn cɛ gɔaa i̱ we kɔ kɛ Töm kɛɛl.
+What time do you arrive at work?	Ɛ thaak di̲? laa cupi̲ ciëëŋ kɛ jɛ mɔ.
+Be careful not to make Tom angry.	Tiitɛ ɛn ɣöö cuu lɔc Töm jaa kä jiäk.
+He wants a watch just like yours.	Go̱o̱rɛ thaak mi ce̱t nikɛ duŋdu.
+I asked Tom for his phone number.	ɤän cä Töm thi̲ëëc kɛ nɔmbɔr talɛpɔnkädɛ.
+I couldn't sleep much that night.	Ɣän /cän bi̱ tɔ̱ɔ̱c kɛ thiaaŋ ɛmɛ ɛlɔ̱ŋ.
+I even surprise myself sometimes.	Tha̱a̱ŋ guääthni̱ ɣän laa wi̱i̱dä yi̱i̱cɛ
+I feel sick whenever I see blood.	Mii̱ cä ri̱ɛm nɛn laa ɣa̱ mocɛ kɛ juëy.
+I have many friends that help me.	ta̲a̱ kɛ mäthni ti̱ ŋuan ti laa ɤä a luäk.
+I'd like to cook chicken tonight.	Ɛn wäri̱ görä ɣöö bä thaal kɛ manpɛ̈lɛ̈k.
+I'm not a student. I'm a teacher.	Ciɛ ɣän dho̱o̱l duëël gɔ̱ɔ̱rkä. Ɛ ɣän ŋi̱i̱c.
+If Tom comes, please let me know.	Mi̱ ci̱ Töm cop, Ɣän a ŋa̱cä jɛ.
+Tom and Mary only have one child.	Töm kɛnɛ Mɛrɛ tekɛ gat kɛl kärɔa.
+Tom bought what he needed to buy.	Töm cɛ mëë go̱rɛ kɔkɛ kɔk.
+Tom called some friends for help.	Ci̲ Töm mɔ̈thni̲ kɛ cɔl kɛ kui̲c luɔ̈kä
+We don't joke about these things.	/Ci̱ nɛy ŋar kɛ kui kä ti̱ti̱.
+We were as surprised as you were.	Ci̱ nɛy ga̱a̱c ni̱ kɛ jɛn ga̱a̱c ëë ci̱ ga̱a̱c kɛ ji̱.
+Your blood pressure is very high.	Jin ci̲ di̲i̲t riɛmdu kac nhial ɛlo̲ŋ.
+Do you feel like doing that today?	Jeki rɔ cet bi nɛmi la̲t ɛn walɛ?
+I didn't find everything I needed.	/Ka̲n tin go̱o̱rä kɛn dial jëk
+I showed Tom how to tie a bowline.	Ɣän cä Töm nyuɔ̱th ta̱a̱ ɛn yiankɛ kuin -bäär kɛ jɛ.
+I still think I can get something.	Ɣän ca̱a̱rä kɛ ɣöö dee duɔ̱ɔ̱r jëk.
+I told Tom all about the accident.	Cä la̱t Töm kɛɛliw ɛn riɛk.
+People are still afraid to go out.	Kɛn nath ŋot kɛ dual kɛ ben diɛn raar.
+Those are nice gloves you have on.	Gɔwkɛ kɛn gölöpni tɔ̱ ci la̱thɔ̱.
+Tom told me he didn't like boxing.	Töm cɛ la̱r ɣä i̱ lo̱kɛ bɔ-thiŋ.
+Tom told me he didn't like boxing.	Töm cɛ la̱r ɣä i̱ lo̱kɛ piääm.
+What did you think of the wedding?	Ɛŋu ɛn mëë caari̱ kɛ kui̱ kuën?
+Why do we have to go to Australia?	Ɛŋu dënɛ we̲ kɛ jɛ mɔ kä A̲thtɔrɔ̲lia?
+You'll feel better in a few hours.	Bi puɔ̱nydu päär kɛ dägiɛɛkni ti tɔt.
+Did you fill out the questionnaire?	Cikɛ thie̱ŋ kɛn thie̱cni?
+Do you think that Tom will like me?	Diiwi̲ jɛ i̲ bi̲ Töm ɤä nhɔk?
+Have I done something to annoy you?	tee kɛ mi̲ cä la̲t ɛ jiäk mi̲ de lɔcdu yia̲r?
+I definitely don't need to do that.	Cänä go̲r ɛ puc ɛn ɤöö bä nɔmɔ la̲t.
+I don't understand how it happened.	Ka̱n mi̱n ci̱ tuɔk ŋa̱c ɛn tämɛ.
+I think Tom won't do that tomorrow.	Kɛ ca̱rä Töm cɛ bi la̱t iruun.
+I think Tom won't do that tomorrow.	Carä jɛ Töm cɛ bi la̱t iruun.
+I went swimming with Tom yesterday.	Cä we kɛt kɔnɛ Töm pan.
+I wonder if I could really do that.	Di̱ɛɛrä mi̱ dee nɔmɔ la̱t.
+I'm going to give this book to Tom.	Go̱o̱rä ɣöö bä Töm ka̱m bok ɛmɛ.
+It looks like the TV isn't working.	Gui̱ɛcä jɛ ɛn ɣöö Ti̱bi̱iciën ɛmɛ cɛ la̱t.
+Must I always do everything myself?	ba ti dial lat kɛ ka rɔa da.
+The man was held in police custody.	Ɛn wut ca la̱th tetdä kumɛ.
+Tom died in 2013 from tuberculosis.	Ci̲ Töm li̲w kɛ ti̲bi̲i̲kulööth kɛ 2013.
+Tom injured his elbow when he fell.	Töm cɛ ciälɛ näk mëë cɛ pɛ̈n.
+Tom is hiding something. I know it.	Töm tëkɛ mi cɛ tɛ̱̈ɛ̱̈. ŋa̱cä jɛ.
+Tom is hiding something. I know it.	Töm cɛ duɔ̱ɔ̱r tɛ̱̈ɛ̱̈. ŋa̱cä jɛ.
+Tom said that he heard Mary crying.	Töm cɛ lar i̱, cɛ mɛrɛ liŋ ro̱tdɛ.
+We should probably talk about that.	Diɛwä jɛ dee kɔn ruac kɛ kui̱ kä nɔmɔ.
+We want you to be the team captain.	Go̲r nɛy ɤöö bi̲ ji̲nɛ bo̲o̲th bunä
+Why would I want to go there alone?	Ɛŋu mi dë wä thɔ̱ŋɔ jɛ kärɔadä?
+Why would I want to go there alone?	Ɛŋu mi dä weŋä ɣän kärɔa ɛn thɔ̱ŋɔ?
+I can't make out what she is saying.	/Ci̱en min latdɛ dee luäŋ kɛ no̱ŋ raar.
+I know that Tom is thirty years old.	Ɣän ŋa̱cä jɛ i̱ tee Töm kɛ ruun ti̱ jiɛn di̱ɔ̱k.
+I saw Tom walking towards the beach.	Töm cä nɛɛn jälɛ wee kɛ thok yiëër
+I'm waiting for Tom to fix the sink.	liɛpa ni tom bɛ thaak wakani ben lat.
+She was very surprised at the sight.	cɛ ga̱a̱c ɛlɔ̱ŋ kɛ nëndɛ.
+They wanted to stay in their houses.	Go̱o̱r kɛn ɣöö dekɛ te duëli̱kiɛn.
+Who do you think should get the job?	Ɛ ŋa di̱w yi̱ɛnɛ mɔ i̱ dëë la̱t jek ?
+Close the window before going to bed.	Gäk wërnyindu ɛ ŋot käni̱ we kä dhaŋdu
+Do you still enjoy watching cartoons?	Ɛn guiäc karɛto̱ni̱ jalɛ lɔcdu kä tɛ̈ɛ̈th?
+I cry whenever I listen to this song.	ɤän mi̲ cä dïït ɛmɔ li̲ŋ la ,ɤän ɛ wi̲ää.
+I haven't eaten anything in six days.	Ɣän thiɛlɛ mi̱ cä cam kɛ ni̱n bäkɛl.
+Not many people would agree with you.	/cikɛ nɛi ti ŋuan bi mat kɛ ji.
+Some people are allergic to tomatoes.	Tha̱ŋ nath lo̱k kɛn mi̱äth Tomatomni̱.
+Tom hoped that he'd be offered a job.	Töm guicɛ jɛ dɔ̱ŋ dëë moc la̱t.
+Tom is expected to get back tomorrow.	Dɔ̲ŋ bi̲ Töm lunyjɔk irun
+Tom just called me a few minutes ago.	Töm payɛ ɣä yɔ̱di̱ kä kɛ gua̱a̱th in tɔt in pay wä.
+Tom will be interested in doing that.	Töm nhɔkɛ jɛ i̱ bɛ la̱t ɛmɛni̱ yi̱k la̱t.
+I didn't want to answer that question.	/Ci̲änɛ go̲ri̲ bä thi̲e̲c ɛmɔ loc.
+I don't need to be at today's meeting.	ɤän cänɛ go̲r i̲ bä tee kä duɔl ca̲ŋ ɛmɛ.
+I doubt Tom has finished his homework.	Di̲ɛwä ɤöö /kän Töm la̲t ci̲ëŋ thuk
+I suspect Tom will eventually do that.	Cä ga̱a̱c ɛlɔ̱ŋ kɛ ɣöö dëë Töm nɛmɛ tok ɛ jɛn.
+I used to go out with a guy named Tom.	Cä kɔnɛ ja̱lä raar kɔnɛ gar mi cɔalkɛ Töm.
+There's nothing surprising about that.	Thiɛlɛ mi̱ la ga̱a̱c kɛ kuidɛ.
+This church has stained glass windows.	Ɛn duel Kuɛɔ̱th ɛmɛ ci̱ nëëni wër nyinikɛ lɔth.
+Tom helped the old man cross the road.	Töm cɛ gua̱ndi̱i̱t luäk kɛ ŋuɔ̱k caarkä.
+Tom said he wasn't old enough to vote.	Töm cɛ lar i̱ kenɛ ni di̱t ɛlɔ̱ŋ kɛ ɣöö bɛ yuɔr.
+Tom said that he didn't want to dance.	Töm cɛ lar ɛnɣöö /cɛ bi döny.
+Tom said that he didn't want to dance.	Töm cɛ lar i̱ jɛn /cɛ go̱r i̱ bɛ duth.
+We're getting married in three months.	Kɛ kɔr pääthni̱ da̱ŋ diɔ̱k ba kuënda puɔ̱t.
+I had no idea that was going to happen.	Thi̲ɛlɛ ɤä ca̲r kɛ min bi̲ tuɔɔk
+I think that Tom is going to dump Mary.	Ca̱rɛ diɛwä Töm bɛ Mɛri päl.
+I think that Tom is going to dump Mary.	Yän carä jɛ ɛn Töm bɛ Mɛri päl.
+It'll be more difficult than you think.	Bɛ buɔ̱m ɛlɔ̱ŋ ɛ lenyni̱ ca̱r in cari jɛ.
+No, I'm not going to smell your armpit.	Ɣëy, /cien rɔ̱thdu bi̱ ŋuäc.
+Our meetings hardly ever start on time.	Duɔ̱li̱kɔn bumɛ ɛlɔ̱ŋi̱ bakɛ tok kɛ pɛ̈th
+This book is written in simple English.	Ɛn bok ɛmɛ ca gɔ̱r kɛ kɛ thok Liŋɛli̱i̱th mi̱ thia̱k.
+Tom gives Mary everything she asks for.	Töm laa kämɛ Mɛɛrɛ mɔ cɛ thi̲ecɔ.
+Tom is now learning to ride a tricycle.	Töm täämɛ ŋi̱i̱cɛ rɔ kɛ gër jiöök thɛliɛk.
+Tom may not be telling the whole truth.	Töm dɔ̱ŋ /kenɛ thuɔ̱k lat kɛɛliw.
+You should attend to your own business.	Bi̱ yi̲k guɔ̲ɔ̱r ni la̱tdu kärɔa.
+Does Tom know what you're talking about?	Dëraa mi̲ ŋäc Töm min ruaci̲ kɛ kui̲dɛ i̲nu?
+I don't think I know anyone around here.	Ka̲nɛ car ɛn höö tëë kɛ rami ŋa̲cä ɛn guäth ɛmɛ
+I knew that Tom would be a good teacher.	ɤän ŋa̲cä jɛ Töm bɛ yik ɛ ŋi̲i̲c mi gɔaa.
+The car I rented from you has a problem.	Thurbil ëë cä dɛn kä ji̱ tëëkɛ riɛk.
+Tom is the one who told me not to leave.	ɛ töm ɛn mee jio̲k ɤä ɛnee i̲ /cu jiɛn
+Tom was the last to leave the classroom.	Töm ɛjɛn be̲ raar kɛ jɔakɔ kä rɛy kilɛ̈ɛ̈th.
+Two weeks of heavy rain led to flooding.	Nhial ɛn ci̱ dɛ̈ɛ̈m kɛ juɔ̱kni̱ rɛw cɛ cään mi̱ di̱i̱t no̱o̱ŋ ɛlo̱ŋ.
+Are you going to tell me what's going on?	Bi̱ ɣä la̱r min tuɔɔk?
+Are you saying you don't want to do that?	Lari ni ɣöö /ciɛ bi la̱t ɛn nɔmɔ inun?
+I don't remember how to use the shredder.	/Cienɛ tit ɛn la̱t ɛ lät kɛ nyueey wargakni̱ mɛ.
+Is it true Tom used to live in Australia?	Ɛ thuɔ̱k inun ɛn Töm cɛ kɔn cieŋ kä Ɣu-thɛ-ra-lia?
+That's exactly what Tom and I were doing.	Ɛ jɛn nɔmɔ pa̱ny ɛn mëë la̱tä kɔnɛ Töm.
+Tom didn't quite understand how to do it.	/Kän Töm duɔ̲ɔ̲p in la̲t jɛ kɛ jɛ ŋa̲c ɛgɔa.
+Tom had never been so afraid in his life.	Töm /kenɛ met dual inɛ rɛy tekädɛ.
+They give good service at that restaurant.	Tho̲p kɛn la̲t mi̲ gɔa ɛn due̲l kua̲n ɛmi̲i̲
+Tom said he thought Mary was in Australia.	Töm cɛ lar i̱ ŋäcɛ ni ɣöö te Mɛrɛ kä ɣɔ̱thi-ra-lia.
+We should've done what Tom asked us to do.	Dënɛ min ci̲ Töm kɔn jiöki̲ dënɛ la̲t la̲t.
+It isn't like I have anything better to do.	Cerɛ mi̱ thiɛlɛ mi̱ gɔaa mi̱ lɛ̈lä.
+It was yesterday that Tom broke the window.	Ɛ pan ɛn mëë ci̱ Töm wernyin tiath.
+It'll take me about three hours to do that.	Bi̠ la̱tdɛ ɣä naŋ thaani̠ da̱ŋ di̠ɔ̱k.
+Neither Tom nor Mary has called the police.	/Cië Töm kiɛ Mëri̱ cɔl Poli̱i̱th ɔ.
+That's one of the things I was looking for.	Ɛ jɛn kɛl ëë göörä ɛlɔŋ.
+Tom and Mary live close to a national park.	Töm kɛnɛ Mɛri̲ ci̲e̲ŋ kɛn thi̲e̲e̲kä näti̲nɔl pak.
+Tom didn't tell Mary why he didn't do that.	Töm kenɛ jɛ la̱r mɛri ɛŋu mi kenɛ jɛ la̱t kɛ jɛ.
+Tom never really wanted to leave Australia.	Töm cɛ nhɔk i̱ pälɛ Ɣawuthi̱ra̱li̱aa
+Camel milk is good for people with diabetes.	Gɔayɛ ɛlɔ̱ŋ kɛn ɣöö dee nath ti̱n tee kɛ juëy thok këër ruëëth kɛ cak jamɛ̈ɛ̈l
+I doubt Tom really had to do that yesterday.	/Ka̲nɛ ŋäth i̲de̲ Töm nɔmɔ la̲t pan
+They should've hired someone more qualified.	Gɔaa ni̱ ɣöö ci̱ ëë cia no̱o̱ŋni̱ nɛy ti̱ lua̱ŋ la̱t.
+We won't do what Tom says he wants us to do.	/Ci nɛy min ci Töm ɛ lari baa la̲t bi la̲t
+Have you ever done anything like this before?	Ci̱ mi̱ cie nɛmɛ met la̱t ni̱ wen?
+Her father could swim well when he was young.	Ɛn gua̱n ketdɛ ɛgɔa mëë ŋuotdɛ ɛ ŋuɛ̈t.
+Her father could swim well when he was young.	Gua̱n ketdɛ ɛgɔa mëë ŋuotdɛ ɛ ŋuɛ̈t.
+Tom told Mary that he wasn't afraid of death.	Töm cɛ Mɛri̱ jiök i̱ /cɛ dual kɛ lia̱a̱.
+Are you saying that you don't want to do that?	Lari ni ɣöö /ciɛ bi la̱t ɛn nɔmɔ inun?
+He will be angry to learn that she told a lie.	Bɛ ŋɛ̈ɛ̈ny mi̲ wëë ŋa̲ci ci̲ nyaamɔ kac lat
+I want you to forget everything you saw today.	ɣän göörä jɛ bikɛ pa̱l ruëëc kɛn ti̱diaal tin ci nɛn ɛn walɛ.
+I want you to forget everything you saw today.	Göörä jɛ bi̱kɛ pa̱lruëëc kɛndiaal kɛn tin ci nɛn ɛn wa̱lɛ.
+Tom isn't going to find what he's looking for.	Töm/ känɛ mi̱n go̱o̱rɛ jek.
+I thought that you told me you didn't know Tom.	Ŋa̲cä ni̲ ɤöö ciɛ lar ɤä i̲kui̲ci̲ Töm.
+Tom has been working here for over three years.	To̱m cɛ jääŋ kɛ la̱t ɛn gua̱a̱th ɛmɛ kɛ kɔr ruuni̱ da̱ŋ di̱ɔ̱k.
+We both knew that eventually this would happen.	Kɔn da̱ŋrɛw ŋäc nɛi ɛ kɛ kɔrɛ bɛ dhil tuɔɔk.
+We both knew that eventually this would happen.	Kɔn da̱ŋrɛw ŋa̱c nɛi ɛ kɛ guutdɛ bɛ dhil tuɔɔk.
+We're going to have to do something about that.	Bi̱ kɔn duɔ̱ɔ̱r yi̱k la̱t kɛ kui̱dɛ.
+I will have to take on someone to do Tom's work.	Ɣän bä ram kɛl jakä ɣöö bɛ la̱t Töm ɛmɛ la̱t.
+I'm cold. Would you mind turning the heating on?	Näk kɔ̱c ɣä. Derɛ gɔaa mi̱ ci̱ ji̱ɔm in läthläth lɛp?
+Listen carefully and do exactly what I tell you.	Liŋɛ ɛgɔaa kuɛ la̱t cetkɛ min cä jɛ la̱r ji.
+Mary said she thought Tom would be back by 2:30.	Mɛri̲ cɛ jɛ lar i̲ de Töm ben ɛnee kɛɛ thaak 2.30
+She goes jogging every morning before breakfast.	La wëë wur kɛ kuɛ̈ŋ ɛ ŋot kuän ruɔ̱nwaaŋ.
+The police will look into the cause of the fire.	Bi polith ɛ guic ɛn nin tuok waŋ.
+The police will look into the cause of the fire.	Bi boltharkɛɛt ɛ guic ɛn nin tuok waŋ.
+Tom doesn't want to be dependent on his parents.	Töm /cɛ go̱r i̱ ba lua̱kɛ ni̱ jɛ ɛ ciëëmani̱.
+Everyone on the bus was asleep except the driver.	Ci̲ nɛy diaal tin tee rɛy bäthkä ni̲ɛn ɛni gëër kärɔadɛ kän niɛnɔ.
+I've never seen this kind of thing happen before.	/Ka̱nɛ met nɛn ɛn mi̱ cie nɛmɛ tuɔkɛ, ni̱ wal.
+Tom said he thought that Mary would be back soon.	Ci Tömɛ lari̲ ŋäcɛ nï ɤöö bi Mɛrï mal lunyjɔk kɛ pɛ̈th
+Tom said that he thought Mary looked discouraged.	Ci̲ Tömɛ lari̲ caarɛ jɛi̲ jiäk lɔc Mɛri̲
+Tom was buried in the cemetery behind the church.	Töm ca kony gua̱a̱th kunyä min te jɔɔk luak kuɔth.
+That game is easy, once you learn the basic rules.	Ŋar ɛmɔ thia̲kɛ, mi ci ŋuɔ̲tkɛ ŋa̲c
+I know Tom could do that if he puts his mind to it.	Ɣän ŋa̱cä jɛ de Töm ɛ la̱t, mi cɛ cärɛ kuëŋ thi̱n.
+If you teach me your language, I'll teach you mine.	Mi wi̱i̱ ɣä ŋie̱e̱c kɛ thoodu, Bä ji ŋie̱e̱c kɛ thoodä.
+Tom told me some things he probably shouldn't have.	Töm cɛ ɣä la̱r duɔ̱ɔ̱r mi dɔ̱ŋ cɛ de jek.
+We don't really need to worry about that happening.	/ci kɔna lɛn go̱r i̱ banɛ diɛɛr kɛ mä tuɔɔki.
+We don't really need to worry about that happening.	/ci kɔnɛ go̱r i̱ banɛ lɛ diɛɛr kɛ min ci tuɔɔk.
+Don't you think it odd that she was in such a hurry?	Keniɛ car ï tëë ta̱ dɔ̱diɛn ɛn ta̱a̱ ëë pɛ̈th kɛ jɛ?
+Does Tom have a good relationship with Mary's parents?	Tee Töm kɛ maar mi̲ gɔaa kɛ ci̲ëë maani̲ mëri̲?
+Tom should probably not tell Mary about what happened.	Dɔ̱ŋ /cɛ dee gɔaa i̱ dee Töm Mɛrɛ la̱r min ci̱ tuɔɔk.
+Tom thinks that Mary and I can take care of ourselves.	Töm carɛ jɛ i̱ ɣän kɔnɛ Mɛri̱ dee nɛy rɔ̱ luäŋ kɛ tiet.
+My father bought this house for us when we got married.	Ci̱ gua̱a̱r nɛy kök duel ɛmɛ mëë ci̱ nɛy kuɛɛn.
+Tom was lying to Mary when he said he wouldn't do that.	Töm cɛ Mëri̱ ka̱ckaac i̱ känɛ jɛ la̱t.
+What makes you think that Tom is planning on resigning?	Ɛŋu jak ji kä ɤöö biɛ car I gör Töm ɤöö bɛ la̲t pal ɔ?
+I can't go to the party because I can't get a babysitter.	/Cien bi̱ wä gua̱a̱th ŋarä kɛ ɣöö /cien rami̱ guic gaat bi̱ jek.
+Tom never would've done what you've accused him of doing.	Töm /cɛ mɔ ciɛ cäk i̱kä mɔ kɛ jɛ dee met la̱t.
+Tom said that he thought that Mary was unhappy in Boston.	Töm cɛ lar inɛ diɛwɛ jɛ Mɛri ci lɔcdɛ tɛth kä Bothton.
+Mary was sitting in front of the mirror, brushing her hair.	Mɛrɛ cɛ nyuur nhiam neenä, guɛtdɛ mie̱mkɛ.
+Tom didn't seem surprised when I told him Mary needed to do that.	Töm kenɛ ga̱a̱c me cä jiök i Mɛri go̱o̱rɛ la̱tdɛ.
+Tom tried to remember the last time he had visited an art museum.	Töm cɛ ɣɔ̱n i̱ carɛ gua̱a̱th ëë jɔak ëë cɛ wä kä Mudhi̱öm.
+Do you remember the first time you and I went to Australia together?	Mëë wee kɔn kä Ɣuthi̱rali̱a ɣän kɔnɛ ji̱ kɛ wedan ëë nhiam timi̱ jɛ ?
+I'm pretty sure that Tom hasn't done everything he was supposed to have done.	ŋa̱thä jɛ Töm kenɛ tin derä luäŋ kɛ lätni la̱t.
+I don't remember exactly what this cost, but it was over three hundred dollars.	/Ci̠en pek in kɔakɛ jɛ tit a gɔaa, duŋdɛ ɣöö kɔakɛ jɛ kɛ pek mi̠ bääl kurdi̠ɔ̱k.
+When Tom bought his car, he didn't know that it had been involved in a serious accident.	Mëë kɔk Töm thurbilɛ, känɛ ŋa̱c i̱ ca kɔn yi̱ɛth.

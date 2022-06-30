@@ -1,0 +1,683 @@
+Run!	Korri!
+Jump.	Salto egin.
+Stop!	Geldi!
+Attack!	Eraso!
+Really?	Ez da izango!
+Is it bad?	Txarra al da?
+It's cold.	Hotza dago.
+Of course!	Noski!
+Forgive me.	Barkatu
+I love golf.	Golfak liluratu egiten nau.
+I want more.	Gehiago nahi dut.
+Keep trying.	Probatzen jarraitu.
+Unbelievable!	Sinestezina!
+He's not sick.	Ez dago gaixorik.
+I love my mom.	Gure ama maite dut.
+It is raining.	Euria ari du.
+They're awake.	Esna daude.
+Here's the car.	Hemen da autoa.
+I'm an old man.	Agure bat naiz.
+I'm bored here.	Aspertuta nago hemen.
+Is he a doctor?	Doktorea da?
+Tom's Canadian.	Tom Kanadarra da.
+Do you remember?	Gogoratzen al zara?
+He likes tigers.	Tigreak gustoko ditu.
+Here is the car.	Hemen da autoa.
+I have two cats.	Bi katu dauzkat.
+I need you, Tom.	Zu beher zaitut, Tom.
+I read a letter.	Eskutitz bat irakurtzen ari naiz.
+It's a surprise.	Sorpresa bat da.
+This won't hurt.	Hau ez du minik emango.
+Tom can't dance.	Tom ezin du dantzarik egin.
+Tom chose a hat.	Tom kapela bat aukeratu zuen.
+Turn on the gas.	Gasa piztu.
+He is not stupid.	Ez da tentela.
+How can Tom help?	Nola lagundu ahal du Tomek?
+I agree with him.	Harekin bat nator.
+I have Tom's key.	Tomen giltza daukat.
+I have to fix it.	Hori konpondu behar dut.
+The train's late.	Trena berandu doa.
+This is my money.	Hau nire dirua da.
+Tom dressed well.	Tomek ondo jantzi zen.
+Tom dresses well.	Tomek ondo janzten da.
+Tom is fixing it.	Tom konpontzen hari du.
+Where is my comb?	Nire orrazia non da?
+Will Tom do that?	Tomek hori egingo zuen?
+French isn't easy.	Frantsesa ez da erraza.
+He is intelligent.	Inteligentea da.
+I sat on the sofa.	Sofan eseri nintzen.
+I will choose one.	Bat hautatuko dut.
+I won first place.	Lehen postua irabazi nuen.
+Is this important?	Importantea da hau?
+It's our pleasure.	Pozten gara.
+May I leave early?	Goiz atera ahal naiz?
+Please correct it.	Zuzendu, mesedez.
+She hates running.	Korrika egitea ez du batere gogoko.
+That's a big fish.	Hori arrain handia da.
+The book is small.	Liburua txikia da.
+They were in love.	Maitemindurik zeuden.
+They were on sale.	Salgai zeuden.
+They weren't busy.	Ez ziren lanpeturik.
+This has been fun.	Jostagarria izan da hau.
+This is Tom's car.	Hau Tom-en autoa da.
+This is a problem.	Hau problema bat da.
+This is a tragedy.	Hau trajedia da.
+This is for keeps.	Hau betiko da.
+This is my family.	Hau gure familia da.
+This is our fault.	Hori gure errua da.
+This is our house.	Hauxe da gure etxea.
+This is your stop.	Hau zure geldialdia da.
+This isn't a trap.	Hau ez da tranpa.
+This isn't for me.	Hau ez da niretzat.
+This isn't my car.	Hau ez da nire autoa.
+This room is cold.	Gela hau hotza da.
+This was my fault.	Ene errua izan da.
+Time's on my side.	Denbora gure alde.
+Tom didn't scream.	Tomek ez zuen oihukatu.
+Who made the doll?	Nork egin zuen panpina?
+You may park here.	Hemen aparkatu dezakezu.
+Aren't you worried?	Kezkatuta ez al zaude?
+Does he have money?	Ba al du dirurik?
+Dogs are like that.	Txakurrak horrekoak dira.
+I coughed up blood.	Odola eztul nuen.
+I looked around me.	Nire inguruan begiratu nuen.
+I lost my passport.	Nire pasaportea galdu nuen.
+I'm Mary's husband.	Mary-ren senarra naiz.
+I'm very forgetful.	Oso ahazkorra naiz.
+I'm very forgetful.	Ahazkorra naiz oso.
+It's not important.	Ez du garrantzirik.
+It's very hot here.	Bero asko egiten du hemen.
+Mary is a feminist.	Maria feminista da.
+Tom does that, too.	Tomek hori egiten du ere bai
+What are you doing?	Zer ari zara egiten?
+What is that sound?	Zer da soinu hori?
+Aren't you Canadian?	Kanadarra ez al zara?
+Aren't you a singer?	Abeslaria ez al zara?
+Aren't you finished?	Amaitu ez al duzu?
+Cyprus is an island.	Zipre uharte bat da.
+Do you like my hair?	Nire ilea gustatzen zaizu ?
+Give me back my bag.	Emaidazu atzera nire poltsa.
+I don't like flying.	Ez zait hegan egitea gustatzen.
+I get scared easily.	Oso erraz beldurtzen naiz.
+I had fun in Boston.	Bostonen ondo pasatu nuen
+I have a dishwasher.	Ontzi-garbitzaile bat dut.
+I have to repair it.	Hori konpondu behar dut.
+I have to stop them.	Gelditu behar diet.
+I know Tom did that.	Badakit Tomek hori egin zuela.
+I like it very much.	Oso atsegin dut.
+I like snowboarding.	Snowboard-a egitea gustatzen zait.
+I play the trombone.	Tronboia jotzen dut.
+I saw Tom in Boston.	Tomek Boston ikusi nuen.
+I should thank them.	Eskertu beharko nieke.
+I won't do it again.	Ez dut berriro egingo.
+I'll tell the truth.	Egia esango dut
+I'll tell the truth.	Egia esango dut.
+I'll try to find it.	Bilatzen saiatuko naiz
+I'll try to find it.	Aurkitzen saiatuko naiz.
+I'm not always late.	Ez naiz beti berandu iristen.
+I'm sick of burgers.	Azkenean Tom garaitu nuen.
+I've lost my wallet.	Diru-zorroa galdu dut.
+Is it far from here?	Hemendik urrun al dago?
+It's a big decision.	Erabaki garrantzitsua da.
+It's very cold here.	Hotz asko egiten du hemen.
+Listen to the birds.	Entzun txoriak.
+My notebook is pink.	Nire kuadernoa ez de arrosa.
+She has convulsions.	Konbultsioak zeuzkan.
+This is Tom's house.	Hau Tomek etxea da.
+This is my son, Tom.	Hau nire semea da, Tom.
+This was my mistake.	Hau nire errua izan da.
+Tom did that for me.	Tomek hori egin zuen nigatik.
+Tom drove all night.	Tomek gau osoa gidatu uen.
+Tom is always tired.	Tomek beti nekatuta dago.
+Tom said I did that.	Tomek hori egin nuela esan zuen.
+Tom saved our lives.	Tomek gure bizitzak salbatu zituen.
+We're among friends.	Lagunen artean gaude.
+What should I bring?	Zer eraman behar dut?
+When will it happen?	Noiz gertatuko da?
+Where are you going?	Nora zoaz?
+Where's Tom's watch?	Non dago Tom-en erlojua?
+Who's Tom afraid of?	Zertaz da Tom beldur?
+Why is Tom standing?	Zergatik dago Tom altxatuta?
+Why isn't Tom tired?	Zergatik ez dago nekatuta Tom?
+Would you like some?	Apur bat nahiko zenuke ?
+Are those Tom's sons?	Horiek dira Tom-en semeak?
+Did Tom do that well?	Tomek hori ondo egin ahal zuen?
+Did the car look old?	Autoa zaharra al zirudien?
+Do you like football?	Futbola gustatzen zaizu ?
+Do you not like them?	Ez dituzu gustuko ?
+Don't go there alone.	Ez zaitez joan bakarrik.
+Get out of the house.	Etxetik irten zaitez
+I got a B in physics.	B bat daukat fisikan.
+I think I understood.	Uste dut ulertu nuela
+I wake up very early.	Oso goiz jaikitzen naiz.
+I'm Tom's new lawyer.	Tom-en abokatu berria naiz
+This book is smaller.	Liburu hau txikiagoa da.
+Tom isn't doing that.	Tomek ez dago hori egiten.
+Tom just kept eating.	Tomek jaten jarraitu zuen.
+Tom was up all night.	Tom gau guztia altxatuta eman zuen.
+Would you like a dog?	Txakur bat nahiko zenuke ?
+Would you like a job?	Lan bat nahiko zenuke ?
+You should get ready.	Prestatu beharko zinateke.
+Do you know those men?	Gizon horiek ezagutzen dituzu?
+Do you like your work?	Zure lana atsegin al duzu?
+Don't forget about us!	Ez ahaztu gurekin gero!
+He broke his left arm.	Bere ezker besoa hautsi zuen.
+He fell off the horse.	Zalditik jausi zen.
+He looks like a horse.	Zaldi baten antza dauka.
+I know where you live.	Badakit non bizi zaren.
+I sent Tom some money.	Diru pixka bat bidali nion Tomiri
+I was deceived by him.	Hark engainatu ninduen.
+I've worked very hard.	Oso gogor egin dut lan
+Please copy this page.	Orri hau kopiatu, mesedez
+The library was empty.	Liburutegia utzik zegoen.
+Tom is a student, too.	Tomek ikaslea da ere bai.
+Tom is doing his work.	Tom bere lana egiten ari da.
+Tom just kept singing.	Tomek abesten jarraitu zuen.
+Tom just kept talking.	Tomek hitz egiten jarraitu zuen.
+Tom, are you out here?	Tom, hor kanpoan zaude?
+Tomorrow is a holiday.	Bihar jaieguna da.
+Where are the showers?	Dutxak non dira?
+Would you like coffee?	Kafea nahiko zenuke ?
+You have a nice house.	Etxe polita daukazu.
+Are you going with Tom?	Tomerekin zoaz?
+Does the bus stop here?	Autobusa hemen gelditzen al da?
+He handles horses well.	Zaldiekin ondo konpontzen da.
+He won the race easily.	Lasterketa aise irabazi zuen.
+I couldn't wake Tom up.	Ezin izan nuen Tom altxatu.
+I couldn't wake Tom up.	Ezin izan nuen Tom esnatu.
+I don't speak Japanese.	Ez dut japoniera hitz egiten.
+I finally defeated Tom.	Azkenean Tom-i irabazi diot
+I finally defeated Tom.	Azkenean Tom garaitu nuen.
+I had a special ticket.	Ticket berezi bat daukat.
+I know Tom helped Mary.	Badakit Tom Mary lagundu zuela
+I know Tom helped Mary.	Badakit Tom-ek Mary lagundu zuela.
+I want to see a doctor.	Mediku bat ikusi nahi dut.
+I'm not angry about it.	Ez nago horregatik haserre.
+It was extremely weird.	Oso arraroa izan zen.
+Let's go to the picnic.	Goazen piknikera.
+That was cooked in oil.	Koipean prestatu zen.
+They can speak Spanish.	Gaztelaniaz badakite.
+They can speak Spanish.	Espainieraz badakite.
+This is a big decision.	Hau erabaki garrantzitsua da.
+What inspires you most?	Zerk inspiratzen zaitu gehien ?
+Where are the scissors?	Non daude artaziak?
+Would you like to talk?	Hitz egitea gustatuko litzaizuke ?
+Did you come here alone?	Bakarrik etorri zara?
+Don't forget the ticket.	Ez ahaztu txartelik.
+He will visit his uncle.	Bere osaba bisitatuko du.
+His name is known to me.	Bere izena ezagutzen dut.
+It's not like you think.	Ez da zuk pentsatzen duzun modukoa.
+That's how Tom likes it.	Horrela gustazen zaio Tom-i.
+They forgot my birthday.	Nire urtebetetzea ahaztu zuten.
+Tom didn't get very far.	Tom ez zen oso urrun joan.
+Tom isn't able to do it.	Tomek ezin du hau egin.
+Tom isn't able to do it.	Tomek ezin du egin.
+Tom likes country music.	Tomek country musika gustuko du.
+Tom lives with his aunt.	Tom bere izebarekin bizi da.
+Tom looks like a monkey.	Tom tximino bat dirudi.
+Tom says he sings tenor.	Tomek deritzo tenor abesten duela.
+What do chimpanzees eat?	Zer jaten dute tximinoak?
+What do chimpanzees eat?	Zer jaten dute txinpanzeek?
+Who wants hot chocolate?	Nork nahi du txokolate beroa?
+Would you like anything?	Gauzaren bat nahiko zenuke ?
+Would you like some tea?	Té apur bat nahiko zenuke ?
+Are those Tom's children?	Haiek dira Tom-en semeak?
+Are those Tom's children?	Dira horiek Tom-en umeak?
+Do you know who did that?	Badakizu nork egin zuen hori?
+Do you like this perfume?	Perfume hau gustatzen zaizu ?
+Do you like what you see?	Ikusten duzuna gustuko duzu ?
+Do you want pizza or not?	Pizza nahi duzu ala ez?
+Do your parents like Tom?	Zure gurasoak gustuko ahal dute Tom?
+Doing that was difficult.	Hori egitea zaila zen.
+How do you like your tea?	Nola gustatzen zaizu tea ?
+I don't want to help you.	Ez dizut lagundu nahi.
+I forgot to feed the dog.	Txakurra elikatzeaz ahaztu nuen.
+I have a pain in my neck.	Lepoko mina daukat.
+I think it's time to eat.	Jateko ordua dela uste dut.
+I used to try to do that.	Ni hori egitea saiatzen nintzen.
+I'm glad to see you back.	Pozik nago bueltatu zarelako.
+I'm going to wash my car.	Nire autoa garbituko dut.
+I'm sure that isn't true.	Seguru nago hori gezurra dela.
+I've never been so tired.	Ez naiz inoiz hain nekaturik egon.
+Is there an app for that?	Ba dago horretarako aplikaziorik?
+It's really cold in here.	Hotz handia egiten du hemen.
+Let's go to the aquarium.	Goazen aquariumera
+Mary is my type of woman.	Mary nire gustuko emakumea da.
+My father builds bridges.	Nire aitak zubiak eraikitzen ditu.
+Please lend me your book.	Utz iezadak, mesedez, hire liburua.
+Please lend me your book.	Utz iezadazu, mesedez, zure liburua.
+That does not make sense.	Horrek ez du zentzurik.
+The cat was on the table.	Katua mahai gainean zegoen.
+The rebels were executed.	Errebeldeak exekutatuta izan ziren.
+These things aren't mine!	Gauza hauek ez dira nireak!
+Tom doesn't like to lose.	Tom-i ez zaio galtzea gustatzen.
+We don't really know Tom.	Ez dugu Tom guztiz ezagutzen.
+Who did you ask for help?	Nori eskatu zenion laguntza?
+Who's coming to the show?	Nor etorriko da ikuskizunera?
+Aren't you three brothers?	Ez zarete hiru neba-arreba?
+Do you like to drink beer?	Garagardoa edatea gustuko duzu?
+Does Tom like his parents?	Gustuko ahal ditu Tomek bere gurasoak ?
+Doing that was a bad idea.	Hori egitea idea txarra izan zen.
+Doing that was a bad idea.	Hori egitea ideia txarra zen
+Don't touch the wet paint.	Ez ukitu pintura freskoa.
+Give me three more apples.	Emaidazu hiru sagar gehiago.
+I only have three dollars.	Hiru dolar besterik ez ditut.
+I'll stay here until 2:30.	Hemen geratuko naiz 2:30-ra arte.
+It rains a lot in Okinawa.	Euri asko egiten du Okinawan.
+Maybe Tom thinks I'm dead.	Beharbada, Tomek hilda nagoela pentsatzen du.
+My mom still calls me Tom.	Nire amak oraindik Tom deitzen nau .
+Thank you for your advice.	Eskerrik asko gomendioagatik.
+This is my favorite shirt.	Hau nire kamiseta gogokoena da.
+Tom found something shiny.	Tom zerbait disdiratsu aurkitu zuen.
+Tom is a very wise person.	Tom pertsona oso jakituna da.
+Tom isn't in jail anymore.	Tom ez da kartxean gehiagorik egongo.
+Tom quite often gets sick.	Oso ohikoa da Tom gaixorik jartzea.
+What did you think I'd do?	Zer pentsatzen zenuen nik egingo nukeela?
+Who did Tom say was lying?	Nork esan zuen Tomek gezurra esaten ari zela?
+Who was Tom swimming with?	Norekin zegoen Tomek igeri egiten?
+Why wasn't Tom here today?	Zergatik Tomek ez zegoen gaur hemen?
+Will you do that with Tom?	Hori egingo zenuke Tomerekin batera?
+Would you like to do that?	Hori egitea gustatuko litzaizuke ?
+Animals are afraid of fire.	Animaliak suaren beldur dira.
+Animals are afraid of fire.	Piztiak suaren beldur dira.
+Can you repair these shoes?	Konpondu diezaizkidazu zapata hauek?
+Did you know I have a blog?	Bazenekien blog bat daukadala?
+Do you still want some tea?	Oraindik ere nahi duzu te pixka bat?
+Do you still want some tea?	Oraindik nahi duzu te pixka bat?
+Do you still want some tea?	Jarraitzen duzu tea nahi izaten?
+Does Tom know I can't swim?	Badaki Tomek ezin dudala igeririk egin?
+Does Tom really want to go?	Tomek benetan joan nahi da?
+Does Tom speak French, too?	Tomek frantsesez ere hitz egiten du?
+He decided to quit smoking.	Erretzeari uztea erabaki zuen.
+How many cars does Tom own?	Zenbat kotxeak dauzka Tomek?
+I'd love to dance with you.	Gustura dantzatuko nintzateke zurekin.
+I'm sure Tom could do that.	Seguru nago Tomek hori egin ahal duela.
+I've never seen him before.	Ez dut bera inoiz lehenago ikusi.
+Isn't that skirt too short?	Ez da gona hori motzegia?
+It's just your imagination.	Haren imajinazioa besterik ez da.
+It's raining cats and dogs.	Mangia jardun.
+Parking isn't allowed here.	Hemen ezin da aparkatu.
+She has two thousand books.	Bi mila liburu dauzka.
+Thank you for your loyalty.	Eskerrik asko zure leialtasunagatik.
+This is just what I wanted.	Hau da justu nahi nuena.
+Tom did that intentionally.	Tomek hori egin zuen nahigabe.
+Tom isn't going to do that.	Tom ez du hori egingo.
+Tom needs to do that today.	Tomek hori egin behar du gaur.
+Who did Tom go skiing with?	Norekin joan zen Tom-ek eskiatzera.
+You aren't afraid, are you?	Ez daukazu beldurrik, ezta?
+You aren't afraid, are you?	Zu ez zaude beldurtuta, edo bai?
+You can use the dictionary.	Hiztegia erabili dezakezu.
+You must've measured wrong.	Txarto neurtu duzu, ziur.
+You need to take your time.	Zure denbora hartu beharko duzu.
+Your French is good enough.	Zuk nahiko ondo dakizu frantsesez.
+Your French is good enough.	Zuk nahiko ondo egiten duzu frantsesez.
+He doesn't know how to swim.	Ez daki igeri egiten.
+He may be on the next train.	Hurrengo trenean egon daiteke.
+He's staying with his uncle.	Bere osabarekin geratuko da.
+How about going on a picnic?	Egingo al dugu piknik bat?
+I haven't seen you for ages.	Ez zaitut aspaldian ikusi.
+I know you think I'm stupid.	Badakit tuntuna naizela pentsatzen duzula
+I met your father yesterday.	Zure aitarekin egon nintzen atzo.
+I regularly run in the park.	Normalki parkean korrika egiten dut.
+I'm going to brush my teeth.	Garbitu egingo ditut nire hortzak.
+I'm utterly convinced of it.	Horretaz guztiz konbentzituta nago.
+I've thought a lot about it.	Horri buruz asko pentsatu dut
+No one can move the big box.	Ezin du inork kaxa handia mugitu.
+Tell me all about your trip.	Zure irteerari buruz konta iezaiadazu.
+This is my money, not yours.	Hau nire dirua da, ez zurea.
+Tom and I did that together.	Tomek eta biok elkarrekin egin genuen.
+Tom and I did that together.	Tom eta biok hori egin genuen elkar.
+Tom and Mary are doing that.	Tomek eta Marik hori egiten ari dira.
+Tom has lots of weird ideas.	Tomek ideia arraro asko ditu.
+Tom really likes to do that.	Tomek izugarri gustuko du hori egitea.
+Tom smiled when he saw Mary.	Mary ikusi ondoren Tomek irribarre egin zuen.
+Tom wasn't ready to do that.	Tom ez zegoen prestatuta hori egiteko.
+Tom wasn't ready to do that.	Tomek hori egiteko ez zegoen prest.
+We hope Tom doesn't do that.	Espero dugu tom ez egitea hori
+We hope Tom doesn't do that.	Espero dugu Tomek hori ez egitea.
+What are your working hours?	Zein da zure lanordua?
+Who is your favorite author?	Nor da gogokoen duzun egilea?
+Do you know where the zoo is?	Ba al dakizu non den zooa?
+He had a big box in his arms.	Kaxa handi bat zeukan bere besoetan.
+He ran away with the diamond.	Diamantearekin ihes egin du.
+I will get in touch with you.	Harremanetan jarriko natzaizu.
+I'm being paranoid, aren't I?	Estoy siendo paranoide, ¿no?
+I'm really not enjoying this.	Ez nago hau disfrutatzen.
+May I borrow your calculator?	Utziko didazu kalkulagailua?
+Prices seem to be going down.	Salneurriak jaisten ari direla dirudi.
+There's no point going there.	Horra joateak ez dauka zentzurik.
+This is a huge waste of time.	Denbora galtze izugarria da.
+This is an old Scottish song.	Hau Eskoziako abesti zahar bat da.
+Tom called Mary this morning.	Tomek Mary-ri deitu zion goiz honetan.
+Tom caused a lot of problems.	Tomek arazo asko eragin zituen.
+Tom met Mary three years ago.	Tomek Mary ezagutu zuen orain dela hiru urte.
+Tom never seems to get angry.	Tom ez dirudi inoiz dagoenik haserretuta.
+Tom never seems to get tired.	Tom ez dirudi inoiz nekatuta dagoenik.
+Tom should've arrived by now.	Tom dagoeneko iritsia behar zuen.
+Tom talked to Mary yesterday.	Tomek Mary-rekin hitz egin zuen atzo.
+We were playing on the beach.	Hondartzan jolasten ari ginen.
+We're sorry that it happened.	Gertatutakoaz damututa gaude.
+What happened in the meeting?	Zer gertatu zen bileran?
+What happened isn't a secret.	Gertatutakoa ez da sektretu bat.
+What happened was a disgrace.	Ezbehar bat da gertatu zena.
+What's happened to the money?	Zer gertatu da diruarekin?
+What's likely to happen next?	Zer izango da hurrengoa?
+You know that Tom likes cars.	Dakizunez Tom-i autoak gustatzen zaizkio.
+You know that Tom likes cars.	Dakizunez Tom-i gustatzen zaizkio autoak.
+You may choose what you like.	Gogoko duzuna aukera dezakezu.
+You might run into Tom there.	Tomengana korriketan joan beharko zenuke.
+After he ate, Tom went to bed.	Jan eta gero Tom ohera joan zen.
+All that glitters is not gold.	Zulo bat ixteko, beste bat ireki
+All that glitters is not gold.	Beltz guztiak ez dira ikatz
+An awful thing happened today.	Gauza oso txar bat gertatu da gaur.
+Are you with us or against us?	Gurekin zaude ala gure kontra zaude?
+He dozed off in history class.	Historiako klasean lo geratu zen.
+He is accustomed to hard work.	Lan gogorra egitera ohituta dago.
+His name is known to everyone.	Bere izena denek ezagutzen dute.
+I have an uncle who does that.	Osaba bat daukat hori egiten duela.
+I think it won't happen again.	Berriro gertatuko ez dela uste dut.
+I'd rather sit somewhere else.	Gustatu litzaidake beste leku batean jesartzea.
+I'll be home in about an hour.	Etxean egongo naiz ordu betean.
+I'll drive you to the airport.	Nik gidatuko zaitut aireporturaino.
+Is it here that the bus stops?	Autobusa gelditzen den tokia hemen al da?
+It's not going to be that bad.	Ez da horren txarra izango.
+Many bad things have happened.	Gauza txar asko gertatu dira.
+My canary was killed by a cat.	Katu batek hil zuen nire kanarioa.
+Please tell me how to do that.	Mesedez, esaidazu nola egin hori.
+Rome is a city worth visiting.	Roma bisitatzea merezi duen hiria da.
+Something incredible happened.	Zerbait harrigarria gertatu zen.
+That's not what happened here.	Halakorik ez da hemen gertatu.
+That's why it hasn't happened.	Horrexegatik ez da gertatu.
+There is an apple on the desk.	Sagar bat dago idazmahai gainean.
+Tom died from a drug overdose.	Tom droga gaindosi batek jota hil zen.
+Tom has lost the will to live.	Tom-ek bizitzeko gogoa galdu du.
+Tom is a strong kid, isn't he?	Tom indartsua da, ezta?
+Tom is ambidextrous, isn't he?	Tom eskuma-ezkerti da, ezta?
+Tom was killed in a car crash.	Tom hil zen auto istripu batean.
+Tom was thirteen when he died.	Tomek hamahiru urte zituen hil zenean
+Tom wasn't sure what happened.	Tom ez zegoen ziur gertatu zenari buruz.
+We've seen that happen before.	Hori gertatzea lehenago ere ikusi genuen.
+What happened can't be undone.	Gertatutakoa ezin da konpondu.
+Where do you buy your dresses?	Non erosi dituzu zure soinekoak?
+Who is your favorite composer?	Nor da gogokoen duzun musikagilea?
+You never know what'll happen.	Zer gertatuko den ezin duzu inoiz jakin.
+A pine cone fell on Tom's head.	Pinaburu bat erori zen Tomen buruan.
+All I know is that I was drunk.	Dakidan guztia mozkor nenbilela da.
+He'll have to do without a gun.	Pistolarik gabe egin beharko du.
+How do you say that in Italian?	Nola esaten da hori italieraz?
+I didn't read a book yesterday.	Atzo ez nuen liburu bat irakurri.
+I didn't sleep well that night.	Gau hartan ez nuen ondo lo egin.
+I hope this won't happen again.	Hau berriro ez gertatzea espero dut.
+I will give him another chance.	Beste aukera bat emango diot.
+I'll wait here until she comes.	Bera heldu arte itxarongo dut.
+If anyone can do that, Tom can.	Edonork egin ahal badu, Tomek ahal du.
+It won't just happen overnight.	Ez da gauean bakarrik gertatuko.
+My girlfriend is a good dancer.	Nire neskalaguna dantzari ona da.
+None of that actually happened.	Errealitatean ez zen halakorik gertatu.
+She is not home, but at school.	Ez dago etxean, eskolan baizik.
+That all happened before lunch.	Guzti hori bazkaldu baino lehen gertatu zen.
+That never happened, of course.	Noski, hori ez da inoiz gertatu.
+That's happening far too often.	Hori gehiegitan gertatzen ari da.
+The enemy attacked us at night.	Etsaiak gauez eraso zigun.
+The same thing happened Monday.	Astelehenean gauza bera gertatu zen.
+Tom insisted it never happened.	Tomek inoiz ez zela gertatu insistitu zuen.
+Tom is always causing problems.	Tomek beti arazoak eragiten ditu.
+Tom said not to worry about it.	Tomek horretaz ez kezkatzeko esan zuen.
+Tom said that he had been busy.	Tomek oso lanpeturik zebilela esan zuen.
+Tom said that he was very busy.	Tomek oso lapenturik zegoela esan zuen.
+Tom said you were good-looking.	Tomek erakargarri zeudela esan du.
+Tom saw Mary dancing with John.	Tomek Mary Johnekin dantzatzen ikusi zuen.
+Tom should've listened to Mary.	Tomek Mary entzun behar izan zuen.
+Tom sleeps with his mouth open.	Tomek aho zabalik lo egiten du.
+Tom slipped off his headphones.	Tomeri entzungailuak labaindu zitzaizkion.
+Tom spent all day on the beach.	Tomek egun osoa igaro zuen hondartzan.
+Tom went quickly up the stairs.	Tomek azkar igo zituen eskailerak.
+Typhus is a contagious disease.	Tifusa gaixotasun kutsakor bat da.
+We need to make a big decision.	Erabaki garrantzitsu bat egin behar dugu.
+We're all going to die someday.	Guztiok hilko gara egunen batean.
+What have you done with my bag?	Zer egin duzu nire poltsarekin?
+What was your first pet's name?	Zein izan zen zure lehen maskotaren izena?
+What was your first pet's name?	Zein izan zen zure lehenengo maskotaren izena.
+Who did you want to dance with?	Norekin dantzatu nahi zenuen?
+Why do you think Tom hates you?	Zergatik pentsatzen duzu Tomek gorroto zaituela?
+Would you please open the door?	Irekiko zenuke, mesedez, atea?
+Do you not see the problem here?	Ez duzu ikusten problemarik hemen?
+Do you speak a foreign language?	Atzerriko hizkuntzarik hitz egiten duzu?
+Don't let that dog come near me!	Ez utzi zakurrari niregana hurbiltzen!
+Either we all go or nobody goes.	Guztiok goaz edo ez da inork joaten.
+He prefers football to baseball.	Berak nahiago du futbola baseballa baino.
+I don't know exactly where I am.	Ez dakit zehazki non nagoen.
+I don't want to lose my deposit.	Ez dut nire gordailua galdu nahi.
+I think that's what's happening.	Uste dut hori dela gertatzen ari dena.
+I'll see you at the hotel later.	Gero hotelean ikusiko zaitut.
+I'm here now because I love you.	Hemen nago orain maite zaitudalako.
+I've already lost too much time.	Denbora asko galdu dut jadanik
+It isn't easy to memorize dates.	Datak buruz ikastea ez da erraza.
+It's ideal weather for a picnic.	Eguraldi ideala dago piknik baterako.
+People like you are the problem.	Zu bezalako jendea da arazoa.
+There's not much happening here.	Ez da aparteko ezer gertatzen hemen.
+Tom and Mary are doing that now.	Tomek eta Marik hori egiten ari dira oraintxe bertan.
+Tom and Mary won't go to Boston.	Tom eta Mary ez dira Bostonera joango.
+Tom knew Mary needed to do that.	Tomek Mary hori egin behar zuela zekien.
+Tom knew Mary shouldn't do that.	Tomek Mary hori ez zuela egin behar zekien.
+Tom told Mary he studied French.	Tomek Mary-ri frantsesa ikasi zuela esan zion.
+Tom wanted to do that last week.	Tomek hori egitea nahi izan zuen aurreko astean.
+Tom's aware of what's happening.	Tomek badaki zer gertzten ari den.
+Tom's grandfather couldn't read.	Tomen aititea ezin zuen irakurri.
+We're scared it'll happen again.	Berriro gertatzeko beldur gara.
+What has actually happened here?	Zer gertatu da azken boladan hemen?
+What's happened in the meantime?	Zer gertatu zen bitartean?
+What's happening here is absurd.	Hemen gertatzen ari denak ez du zentzurik.
+Would you like to dance with me?	Nirekin dantza egingo?
+Your wife is a very lucky woman.	Zure emaztea zorte handiko emakumea da.
+Do you want to know what I think?	Zer pentsatzen dudan jakin nahi duzu ?
+He has a lot of books on history.	Historiari buruzko hamaika liburu ditu.
+He returned from Holland in June.	Holandatik itzuli zen Ekainean.
+Hopefully, it won't happen again.	Zorionez, ez da berriro gertatuko.
+How many years did Tom work here?	Zenbat urtez lan egin du Tomek hemen?
+I haven't talked to Tom all week.	Ez dut Tomekin hitz egin aste osoan.
+I imagine you must be very tired.	Zuk oso nekatuta egon behar zara irudi dezaket.
+I've packed my suitcases already.	Gorde egin ditut maletak iada.
+She is getting better day by day.	Egunez egun hobetzen ari da.
+This is a complete waste of time.	Hau denbora alferrik galtzea da.
+We had lots of fun at the picnic.	Primeran pasa genuen piknikean.
+You may choose any book you like.	Gogoko duzun liburua aukera dezakezu.
+I don't know anything about Japan.	Ez dakit ezer Japoniari buruz.
+Italy is a very beautiful country.	Italia oso herri ederra da.
+My camera is different from yours.	Nire kamera zurearen desberdina da.
+There is less time than I thought.	Uste nuena baino denbora gutxiago dago.
+Those shoes won't do for climbing.	Oinetako horiek ez dira eskalatzeko egokiak.
+Tom and I sometimes work together.	Tom eta biok batzutan elkar lan egiten dugu
+Tom and Mary didn't do that alone.	Tomek eta Maryk ez zuten hori bakarrik egin.
+Tom asked me what I wanted to eat.	Tom galdetu zian zer nahi nuen jateko.
+We always want what we don't have.	Beti nahi dugu ez duguna.
+You may choose whichever you want.	Gogoko duzuna aukera dezakezu.
+You may choose whichever you want.	Nahiago duzuna aukera dezakezu.
+Are you really going to drink that?	Benetan hori edango duzu?
+Are you smarter than your children?	Zure semeek baino azkarrago zara?
+He came by car instead of by train.	Kotxez etorri zen trenez etorri beharrean.
+He likes all animals except horses.	Animalia guztiak gogoko ditu zaldiak izan ezik.
+He wants to learn without studying.	Ikasi gabe jakin nahi du.
+I'll try to do it as fast as I can.	Saiatuko naiz ahalik eta azkarren egiten.
+Is it OK if I park my scooter here?	Ondo dago hemen nire scooterara aparkatzen badut?
+My father is out in the garden now.	Aita orain kanpoan da, lorategian.
+That is why he was late for school.	Horregatik heldu zen berandu eskolara.
+The ceremony began with his speech.	Zeremonia bere hitzaldiarekin hasi zen.
+This box is not as big as that one.	Kaxa hau ez da beste hori bezain handia.
+Tom didn't know what he should say.	Tomek ez zekien zer esan beharko luke.
+Tom didn't really like the concert.	Tomek ez zuen kontzertua gustoko izan.
+Tom didn't want to leave his house.	Tomek ez du bere etxea utzi nahi.
+Tom died in prison three years ago.	Tom kartzelan hil zen duela hiru urte.
+Tom says he just wants to be happy.	Tom-ek bakarrik zoriontsu izatea nahi duela esan du.
+What kind of things make you angry?	Zelako gauzak haserratsen dizute?
+What makes you think Tom hates you?	Zerk eragiten dizu pentsatzea Tom gorroto dizula?
+What songs are you best at singing?	Zeintzuik dira obeto abesten ditun abestiak?
+Will he be able to catch the train?	Trena garaiz hartzeko gai izango ote da?
+Accuracy is important in arithmetic.	Zehaztasuna garrantzitsua da aritmetikan.
+Did you find out anything about Tom?	Tomi buruz zerbait aurkitu duzu?
+Does Tom know we can't speak French?	Badaki Tomek guk ezin dugula frantsesez hitz egin?
+I don't know what happened that day.	Ez dakit zer gertatu zen egun horretan.
+I don't think what Tom said is true.	Ez dut uste Tom-ek esan duena egia dela.
+I thought you said nobody liked Tom.	Ino
+I was roused by the sound of a bell.	Txirrinak esnatu ninduen.
+I've done everything I needed to do.	Egin behar nuen guztia egin dut.
+My camera is much better than yours.	Nire kamera zurea baino askoz hobeagoa da.
+Rome has a lot of ancient buildings.	Erroman antzinako eraikin anitz dira.
+Thanks to you I've lost my appetite.	Zure erruz gosea pasa zait.
+The angry mob attacked the building.	Haserretutako jendetzak eraikina eraso egin zuen.
+Tom and Mary had fun at the concert.	Tomek eta Maryk ondo pasatu zuten kontzertuan.
+We reported the theft to the police.	Poliziari lapurretaren berri eman genion.
+By the way, have you seen him lately?	Bide batez, azkenaldian ikusi al duzue?
+Could you come to tomorrow's meeting?	Biharko bilerara etorri ahal izango zara?
+Either Tom is lying or Mary is lying.	Edo Tom dabil gezurretan edo Mary dabil gezurretan.
+His name is known all over the world.	Bere izena mundu osoan da ezaguna.
+I knew Tom wouldn't be so busy today.	Badakit Tom ez dagoela hain lanpetuta gaur.
+I wish people could be more like you.	Jendea zu bezalakoa izatea gustatuko litzaidake.
+I'm surprised Tom can't speak French.	Harritzen nau Tomek Frantzesa ez jakitea.
+My camera is the same as your camera.	Nire kamera zurearen berdina da.
+Please ask Tom to wait in his office.	Esan Tomiri bulegoan itzaroteko, mesedez.
+These things always happen in threes.	Bi ezkero, hiru seguru
+They don't always obey their parents.	Ez diete beti gurasoei jaramon egiten.
+Tom and Mary became lifelong friends.	Tom eta Mary betiko lagun bihurtu ziren.
+Tom and Mary need to buy some things.	Tom eta Mary zerbait erosi behar dute.
+Tom and Mary need to buy some things.	Tom eta Maria erosi behar dute gauza batzuk.
+Tom and Mary need to buy some things.	Tom eta Mary gauza batzuk erosi behar dituzte
+Could you please give the baby a bath?	Mesedez, baina dezakezu umea?
+He reported the details with accuracy.	Berak zehaztasunak zuzentasunez kontatu zituen.
+I can't do it without somebody's help.	Ezin dut egin beste baten laguntzarik gabe.
+I have no strength to lift this stone.	Ez dut harri hau jasotzeko indarrik.
+I think that would give me a headache.	Uste dut eman al didala buruko mina.
+Please make three copies of this page.	Orri honen hiru kopia egin, mesedez
+She prefers staying home to going out.	Nahiago du etxean egotea irtetea baino.
+The island is a paradise for children.	Aurrentzat irla paradisu bat da.
+Tom and Mary are doing that with John.	Tomek eta Marik hori egiten ari dira Jonekin batera.
+Tom didn't mention that he'd met Mary.	Tomek ez zuen esan Mary kusiko zuela.
+Tom didn't offer us anything to drink.	Tomek ez zigun edateko ezer eskaini.
+Tom didn't take his umbrella with him.	Tomek ez zuen bere euritakoa hartu.
+Tom didn't tell us why we should come.	Tom-ek ez zigun esan zergatik etorri beharko ginateke.
+Tom doesn't ever come here by himself.	Tom ez da inoiz hona bakarrik etortzen.
+Tom doesn't go to school here anymore.	Tom ez doa hemen eskola jada.
+Tom doesn't know I'm Mary's boyfriend.	Tom-ek ez daki Mary-ren mutil laguna naizela.
+Tom doesn't know where he wants to go.	Tomek ez daki nora joan nahi duen.
+Tom doesn't want to buy anything else.	Tom-ek ez du ezer gehiagorik erosi nahi.
+Tom found this clock at a garage sale.	Tomek erloju hau aurkitu zuen garaje-salerosketa batean.
+We talked on the phone until midnight.	Gau erdira arte ibili zen telefonoz hitz egiten.
+Why do you think you need a bodyguard?	Zergatik uste duzu sorosle bat behar duzula?
+He is suffering from a serious illness.	Gaixotasun serio batengatik sufritzen ari da.
+His name is known all over the country.	Bere izena aberri osoan da ezaguna.
+Let's discuss what happened last night.	Eztabaidatu dezagun azkeneko gauan gertatutakoa.
+Tom thought Mary might like to do that.	Tomek Mary hori egitea gustuko izango zuela pentsatu zuen.
+What I want now is not money, but time.	Nik orain nahi dudana ez da dirua, denbora baizik.
+You may choose whichever book you like.	Gogoko duzun liburua aukera dezakezu.
+By the way, what time will you go there?	Bide batez, ze ordutan joango zara horra?
+Could you please tell me how to do that?	Esan ahal didazu nola egin hori, mesedez?
+Don't worry. Everything's under control.	Ez kezkatu. Dena kontrolpean dago.
+I thought Tom wasn't nervous doing that.	Tom gauza hori egiten urduri ez zegoela uste dut.
+I thought Tom would be able to help you.	Tom, zu laguntzeko kapaza dela uste dut.
+I've been able to read since I was five.	Irakurtzeko gai izan naiz bost urte neukanetik.
+This bike belongs to my younger brother.	Bizikleta hau nire anai txikiarena da.
+We couldn't see the top of the mountain.	Ezin genuen mendiko tontorra ikusi.
+Which one of you two are coming with me?	Zuek biok, biotatik nor etorriko da nirekin?
+Would you please tell me how to do that?	Esango zenidake nola egin hori?
+All the leaves on the tree turned yellow.	Zuhaitzaren hosto guztiak hori kolorekoak bihurtu ziren.
+Another problem is where to stop the car.	Beste arazo bat kotxea non gelditzea da.
+Check up on the accuracy of this article.	Begiratu artikulu honen zuzentasuna.
+Could you tell me the way to Tokyo Tower?	Esango zenidake Tokyo Dorrerako bidea nondik den?
+Do you know where I can buy one of those?	Badakizu non erosi ahal dudan horrelako bat?
+He worked hard at the risk of his health.	Gogor lan egin zuen, bere osasunaren kaltean.
+I have no time to explain this in detail.	Detaileekin azaltzeko denborarik ez daukat.
+I thought Tom might ask Mary to help him.	Tomek Mary laguntza eskatu ziola pentsatu nuen.
+Tom told me he was determined to do that.	Tomek esan zidan Mary gose zela uste zuela.
+You know something about this, don't you?	Zuk badakizu zerbait honi buruz, ezta?
+Can someone tell me where the keyboard is?	Esan ahal dit norbaitek giltzadia non dagoen?
+He made an important scientific discovery.	Aurkikunta zientifiko garrantzitsua egin zuen.
+His name is known to everyone in our town.	Bere izena herri osoan da ezaguna.
+I cheered myself up by listening to music.	Musika entzunez igo nuen nire animoa.
+I didn't do that because I didn't want to.	Ez nuen gauza hori egin, nahi ez nuelako.
+I didn't drink much at last night's party.	Ez nuen asko edan atzoko festan.
+I didn't have enough money to pay my rent.	Alokairua ordaintzeko diru nahikoa ez dut.
+I studied English very hard day after day.	Ingelesa goror ikasi nuen egunero-egunero.
+It would be better for you not to do that.	Hobeto izango da hori egiten ez baduzu.
+There can be more than one correct answer.	Erantzun zuzen bat baino gehiago egon ahal dira.
+Tom and Mary went to the harvest festival.	Tom eta Mary uzta-jaialdira joan ziren.
+Tom told Mary not to be afraid to do that.	Tomek hori egiteko beldurrik ez izatea esan zion Maryri
+You must be careful not to make Tom angry.	Kontuz ibili behar zara Tom ez azerretzeko.
+All of a sudden, the door shut with a bang.	Bat-batean, ate kolpe batez itxi zen.
+He guessed the answers with great accuracy.	Erantzuna asmatu zuen zehaztasun handiz.
+I met my teacher on the way to the station.	Geltokirako bidean nire irakaslearekin topo egin nuen.
+Tom spent his thirtieth birthday in Boston.	Tom-ek, Bostonen pasatu zuen bere hamahirugarren urtebetetzea.
+What a beautiful Sunday to read in the sun.	Zelako igande polita eguzkipean irakurtzeko.
+Do you think Tom believed what you told him?	Uste duzu Tomek esan zeniola sinetsi zuela?
+I couldn't fall asleep because of the noise.	Zaratagatik ezin izan nuen lo hartu.
+I don't think I could do that kind of thing.	Ez dut uste horrelako gauzarik egin ahal ditzakedanik.
+I like the same kind of music that Tom does.	Tom gustuko duen musika berbera gustuko dut.
+It'll take him two days to finish this work.	Lan hau bukatzeko bi egun behar ditu.
+Alexander Graham Bell invented the telephone.	Alexander Graham Bell mugikorra asmatu zuen,.
+Don't tell me what's possible and what's not.	Ez esan niri zer den posible eta zer ez.
+I do not know whether to accept or to refuse.	Ez dakit onartu ala ez.
+Napoleon needed money for a war with Britain.	Napoleonek dirua behar izan zuen Britainiaren kontrako gerrarako
+People from China play another kind of chess.	Txinatarrek beste xake mota batean ibiltzen dira.
+The boy was lying on his stomach watching TV.	Mutila buruz behera zegoen telebistari begira.
+We visited the historic sites of the country.	Herrialdeko hiri historikoak bisitatu genituen.
+I don't mind being criticized when I am wrong.	Ez zait inporta oker nagoenean norbaitek ni kritikatzea.
+I thought I heard someone banging on the wall.	Norbait horman kolpeka ari zela entzun nuela iruditu zitzaidan.
+I've only spoken to Tom once since I got here.	Hor nagoenetik, aldi batean soilik hitz egin dut Tomekin.
+I've only spoken to Tom once since I got here.	Hemen nagoenetik bakarrik hitz egin dut aldi batez Tomekin.
+Tom didn't tell me the reason why he was late.	Tom ez zidan esan berandu etortzearen arrazoia.
+Would you like to have dinner with us tonight?	Gurekin afaltzera etorri nahiko zenuke gaur gauean?
+Would you like to have dinner with us tonight?	Gustatuko litzaizuke gauean gurekin afaltzea?
+Believe it or not, I'm not sarcastic this time.	Sinetsi edo ez, ez nago sarkastikoa izaten une honetan.
+He got up early in order to attend the meeting.	Bileran parte hartzeko goiz jaiki zen.
+I began to doubt the accuracy of his statement.	Adierazpen honen zuzentasunaz zalantzatan hasi nintzen.
+Tom and Mary have spent a lot of time together.	Tom eta Mary denbora asko igaro dute batera.
+Tom and Mary have spent a lot of time together.	Tom eta Mary denbora asko eman dute elkar.
+Tom doesn't always understand what's happening.	Tom ez du beti ulertzen pasatzen ari dena.
+Tom doesn't remember where he put his passport.	Tom ez du gogoratzen no jarri duen bere pasaportea.
+Tom isn't allowed to do just anything he wants.	Tom-ek ia-ia nahi duen edozein gauza egin dezake.
+Dinner is ready, so we can eat whenever we want.	Afaria pronto dagoenez, nahi dugunean jan dezakegu.
+He translated the book from French into English.	Liburua frantsesetik ingelesera itzuli zuen.
+How will you spend the coming three-day holiday?	Nola igaroko dituzu datozen hiru jai egunak?
+If you don't have any money, I'll lend you some.	Dirurik ez baduzu, utziko dizut pixka bat.
+Tom and Mary have never been to that restaurant.	Tom and Mary ez dira inoiz egon jatetxe horretan.
+You seemed convinced that Tom wanted to do that.	Konbentzituta zenidurien oso Tomek hori egin nahi zuela.
+You seemed convinced that Tom wanted to do that.	Oso konbentzituta zenidurien Tomek hori egin nahi zuela.
+Tom and Mary promised me that they'd wash my car.	Tomek eta Maryk nire autoa garbituko dutela zin egin didate.
+Tom and Mary promised me that they'd wash my car.	Tom eta Mary sin egin zidaten nire autoa garbitu zutela.
+Tom showed up at the party dressed like a pirate.	Tom pirataz jantzita agertu zen jaian.
+Who else, other than you, knows about Tom's past?	Nork gehiago, zutaz gain, ezagutzen Tom-en iragana?
+Dozens of young people attended the demonstration.	Dozenaka gazte joan ziren manifestaldira.
+He could not accept a strange woman as his mother.	Berak ezingo zuen emakume arrotz bat bere amatzat onartu.
+His helplessness appeals to her motherly sympathy.	Bere babesgabetasunak bere amaren gupida eskatzen du.
+I met too many people to remember all their names.	Jende gehiegi ezagutu nituen guztien inzenetaz gogoratzeko.
+I'd like a chance to explain why I did what I did.	Zergatik egin nuen egin nuena azaltzeko aukera bat izatea gustoko litzaidake.
+What sort of people hang out at a place like this?	Zer nolako jendea dabil honelako leku batetan?
+When I was your age, I walked to school every day.	Zure adina nuenean, oinez joaten nintzen eskolara egunero.
+It's already eleven o'clock. I must be leaving now.	Hamaikak dira jada. Oraintxe joan beharra dut.
+Tom said his parents allow him to do what he wants.	Tomem dio gurasoek nahi duena egiten uzten diotela.
+I don't have to go back to Boston until next Monday.	Ez dut Bostonera bueltatu behar hurrengo astelehenerarte.
+If you don't help me, it won't get finished on time.	Laguntzen ez badidazu, ez dut garaiz amaituko.
+It's very impolite of you to decline her invitation.	Ez da batere gizalegekoa bere gonbidapenari muzin egitea.
+There was a pink slip waiting for her at the office.	Bazegoen kulero arrosa bat bere zain bulegoan.
+They agreed to look into the causes of the accident.	Istripuaren arrazoiak ikertuko zituztela adostu zuten.
+Two-thirds of the people here tonight are Canadians.	Gaur gauean hemen dauden pertsonen bi herena Kanadiarrak dira.
+You're going to hurt yourself if you aren't careful.	Mina egingo diozu zure buruari kontuz ibiltzen ez bazara.
+I'm not sure if that was a good thing or a bad thing.	Ez nago ziur ea gauza ona edo txarra denik.
+I'm not sure if that was a good thing or a bad thing.	Ez nago ziur idei on edo txar bat denik.
+I'm not sure if that was a good thing or a bad thing.	Ez nago ziur ideia ona edo txarra denik.
+No one shall be arbitrarily deprived of his property.	Arrazoirik gabe, ez zaio inori bere jabegoa kenduko.
+Tom and Mary have dinner together almost every night.	Tom eta Mary elkarrekin afaltzen dute gauero.
+Some people are for the plan and others are against it.	Batzuk planaren alde daude eta beste batzuk aurka.
+Tom is suspected of being involved in the bank robbery.	Tom banku batean lapurretan ibili den susmagarri da.
+Tom and Mary go to school together almost every morning.	Tom eta Mary elkarrekin joaten dira eskolara goizero.
+We stayed up until about 2:30 studying for today's test.	Egon ginen ikasten gaurko azterketarako 2:30k arte.
+I've only been here for a day and I already want to leave.	Egun batean bakarrik egon naiz eta jadanik joan nahi dut.
+I've only been here for a day and I already want to leave.	Bakarrik egon nintzen egun baterako eta gustatuko litzaidake hemen geratzea.
+CO₂ has a lot to do with the so-called greenhouse effect.	CO₂ horrek lotura handia du negutegi efektuarekin.
+I thought you were going to keep Tom here until I got back.	Uste nuen zuk Tom hemen mantenduko zenuela ni heltzen nintzen bitartean.
+Since he was injured in an accident, he could no longer walk.	Istripu batetan zauritu zenetik, ezin izan du berriz ibili.
+U.S.S.R. stands for the "Union of Soviet Socialist Republics".	SESB akronimoak adierazten du Sobietar Errepublika Sozialisten Batasuna.
+If you don't have enough money to buy that, I'll lend you some.	Ez badaukazu nahikoa diru hori erosteko, utziko dizut pixka bat.
+Some scientists believe that the greenhouse effect is imaginary.	Zientzialari batzuek uste dute negutegi efektua alegiazkoa dela.
+In China, there's a saying that you can't judge a person by appearance.	Txinan esaten ari dira pertsona bat bere itxuragatik epai daitekeela.
+Today, we can tell how the weather will be with a high degree of accuracy.	Gaur egun esan dezakegu nolako eguraldia egingo duen zehaztasun handiarekin.
+Tom wants to know when you'll go to Australia and how long you'll be there.	Tom-ek jakin nahi du noiz joango zaren Australiara eta zenbat denbora emango duzu bertan.

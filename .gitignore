@@ -19,4 +19,4 @@ logging.txt
 /dist/
 
 # Credentials
-/backend/database/credentials.ini
+/backend/src/database/credentials.ini

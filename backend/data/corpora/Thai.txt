@@ -1,0 +1,4076 @@
+Hi.	สวัสดี
+Run.	วิ่ง
+Who?	ใคร?
+Wow!	ว้าว!
+Fire!	ยิง!
+Help!	ช่วยด้วย!
+Jump!	กระโดด!
+Jump.	กระโดด
+Stop!	หยุด!
+Wait.	รอก่อน
+Go on.	ต่อไป
+Hello!	สวัสดี!
+Hurry!	เร็ว ๆ!
+I see.	ฉันเข้าใจแล้ว
+I try.	ฉันลองแล้ว
+I won!	ฉันชนะ!
+Oh no!	ไม่นะ!
+Relax.	พักผ่อน
+Smile.	ยิ้ม!
+Attack!	โจมตี!
+Cheers!	เชียร์!
+Freeze!	ฟรีส!
+Freeze!	แข็ง!
+Get up.	ตื่น
+Go now.	ไปเลยตอนนี้
+Got it!	เข้าใจแล้ว!
+Got it!	จับได้แล้ว!
+Got it!	ทำได้แล้ว!
+Got it?	เข้าใจมั้ย?
+He ran.	เขาวิ่ง
+Hop in.	กระโดดไป
+Hug me.	กอดฉัน
+I fell.	ฉันล้ม
+I left.	ฉันออก
+I lied.	ฉันโกหก
+I lost.	ฉันแพ้
+I quit.	ฉันออก
+I work.	ฉันทำงาน
+I'm 19.	ฉันอายุ 19 ปี
+I'm OK.	ฉันโอเค
+I'm OK.	ฉันไม่เป็นไร
+I'm up.	ฉันตื่น
+Listen.	ฟัง
+Listen.	ฟังนะ
+No way!	ไม่มีทาง!
+Really?	จริงเหรอ!
+Thanks!	ขอบคุณ
+Try it.	ลองมัน
+We try.	พวกเราลองแล้ว
+We won.	เราชนะ
+Why me?	ทำไมต้องเป็นฉัน?
+Ask Tom.	ถามทอม
+Awesome!	สุดยอด!
+Beat it.	ทำลายมัน
+Call me.	โทรหาฉัน
+Come in.	เข้ามาข้างใน
+Get out!	ออกไป!
+Get out.	ออกไป
+Go away!	ไปไกล ๆ!
+Go away.	ไปซะ
+Go away.	ไปไกล ๆ
+Go home.	กลับบ้าน
+Goodbye!	ลาก่อน!
+He runs.	เขาวิ่ง
+Help me!	ช่วยฉันด้วย!
+Help me.	ช่วยฉัน
+Hi, Tom.	สวัสดีทอม
+Hold it!	จับมันไว้!
+I agree.	ฉันเห็นด้วย
+I'll go.	ฉันจะไป
+I'm Tom.	ฉันคือทอม
+I'm hot.	ฉันร้อน
+I'm ill.	ฉันป่วย
+I'm shy.	ฉันอาย
+It's OK.	มันพอได้
+It's OK.	มันโอเค
+It's me.	ฉันเอง
+Me, too.	ฉันด้วยเหมือนกัน
+Open up.	เปิดออก
+Perfect!	เยี่ยมยอด!
+Perfect!	พอดีเป๊ะ!
+Show me.	แสดงให้ฉัน
+Shut up!	เงียบ!
+Tell me.	บอกฉัน
+Tom ran.	ทอมวิ่ง
+Wake up!	ตื่น!
+Wake up.	ตื่น
+Wash up.	ล้าง
+We lost.	เราแพ้
+Welcome.	ยินดีต้อนรับ
+Who won?	ใครชนะ?
+You run.	คุณวิ่ง
+Be a man.	เป็นลูกผู้ชายหน่อย
+Be quiet.	เงียบ ๆ
+Call Tom.	โทรหาทอม
+Cheer up!	สู้ตาย!
+Don't go.	อย่าไป
+Find Tom.	หาทอม
+Grab Tom.	จับทอม
+Grab him.	จับเขา
+Have fun.	ขอให้สนุก
+How deep?	ลึกแค่ไหน?
+Hurry up.	เร็วเข้า
+I forgot.	ฉันลืม
+I got it.	ฉันเข้าใจแล้ว
+I'm fine.	ฉันสบายดี
+I'm full.	ฉันอิ่มแล้ว
+I'm lazy.	ฉันขี้เกียจ
+I'm sure.	ฉันแน่ใจ
+I'm weak.	ฉันอ่อนแอ
+It's Tom.	มันคือทอม
+It's his.	มันเป็นของเขา
+It's red.	มันเป็นสีแดง
+Kiss Tom.	จูบทอม
+Look out!	ระวัง!
+Marry me.	แต่งงานกับฉัน
+Save Tom.	ช่วยทอม
+Speak up!	พูดมา!
+Stand up!	ยืนขึ้น!
+Stop Tom.	หยุดทอม
+Take Tom.	เอาทอมไป
+Tell Tom.	บอกทอม
+Tom came.	ทอมมา
+Tom died.	ทอมตาย
+Tom fell.	ทอมล้ม
+Tom knew.	ทอมรู้
+Tom left.	ทอมออกไปแล้ว
+Tom lied.	ทอมโกหก
+Tom lies.	ทอมโกหก
+Tom lost.	ทอมแพ้
+Tom paid.	ทอมจ่าย
+Tom quit.	ทอมแแก
+Tom's up.	ทอมลุกขึ้น
+Too late.	สายเกินไป
+Try hard.	พยายามอย่างหนัก
+Use this.	ใช้นี่สิ
+Warn Tom.	เตือนทอม
+Watch me.	ดูฉัน
+We agree.	พวกเราเห็นด้วย
+We tried.	พวกเราเหนื่อย
+We're #1.	พวกเราคือที่หนึ่ง
+We're OK.	เราโอเค
+We're OK.	เราไม่เป็นอะไร
+What for?	เพื่ออะไร?
+Who came?	ใครมา?
+Answer me.	ตอบฉัน
+Birds fly.	นกบิน
+Catch Tom.	จับทอม
+Come here.	มานี่
+Excuse me.	ขออนุญาต
+Excuse me.	ขออนุญาตครับ
+Excuse me.	ขออนุญาตค่ะ
+Excuse me.	ขอโทษครับ
+Excuse me.	ขอโทษค่ะ
+Excuse me.	ขออภัยค่ะ
+Excuse me.	ขออภัยครับ
+Follow me.	ตามฉันมา
+Get a job.	ออกไปหางานทำเลย
+Goodnight.	ราตรีสวัสดิ์
+Hands off.	เอามือออกไป
+He's a DJ.	เขาเป็นดีเจ
+He's rich.	เขารวย
+How is it?	มันเป็นอย่างไร?
+How is it?	มันสบายดีไหม?
+How's Tom?	ทอมเป็นไงบ้าง?
+I am sick.	ฉันป่วย
+I can fly.	ฉันบินได้
+I fainted.	ฉันเป็นลม
+I give up.	ฉันยอมแพ้
+I hate it.	ฉันเกลียดมัน
+I like it.	ฉันชอบมัน
+I miss it.	ฉันคิดถึงมัน
+I promise.	ฉันสัญญา
+I want it.	ฉันต้องการมัน
+I'll swim.	ฉันจะว่ายน้ำ
+I'm a cop.	ฉันเป็นตำรวจ
+I'm a pro.	ฉันเป็นระดับมืออาชีพนะ
+I'm angry.	ฉันโกรธ
+I'm bored.	ฉันเบื่อ
+I'm going.	ฉันกำลังไปอยู่
+I'm ready!	ฉันพร้อมแล้ว!
+I'm ready.	ฉันพร้อมแล้ว
+I'm tired.	ฉันเหนื่อย
+I'm tired.	ฉันเพลีย
+Is it you?	นั่นใช่คุณไหม?
+It's 3:30.	ตอนนี้ 3.30 น.
+It's 3:30.	ตอนนี้เวลาสามโมงครึ่ง
+It's a TV.	มันคือทีวี
+It's cold.	มันเย็น
+It's food.	มันเป็นอาหาร
+It's food.	มันคืออาหาร
+It's mine.	มันเป็นของฉัน
+Let me go.	ปล่อยฉันไป
+Of course!	แน่นอน!
+Say hello.	พูดสวัสดี
+She cried.	เธอร้องไห้
+She walks.	เธอเดิน
+Slow down.	ช้าลงหน่อย
+Stay home.	อยู่บ้าน
+Thank you.	ขอบคุณ
+That's it.	แค่นั้นแหละ
+That's me.	นั่นคือฉัน
+They fell.	พวกเขาล้มลง
+Tom cooks.	ทอมทำอาหาร
+Tom moved.	ทอมย้ายบ้าน
+Tom waved.	ทอมแกว่ง
+Tom works.	ทอมทำงาน
+Try again.	ลองอีกครั้ง
+Turn left.	เลี้ยวซ้าย
+We failed.	เราล้มเหลว
+We waited.	เรารอคอย
+What's up?	ว่าไง?
+Who cares?	ใครสน?
+Who knows?	ใครจะรู้?
+Who's Tom?	ใครคือทอม?
+Wonderful!	ยอดเยี่ยม!
+You drive.	คุณขับ
+Am I wrong?	ฉันผิดหรือเปล่า?
+Are you OK?	คุณโอเคมั้ย
+Are you OK?	คุณสบายดีไหม
+Be careful.	ระวัง
+Birds sing.	นกร้องเพลง
+Choose one.	เลือกอย่างหนึ่ง
+Definitely!	แน่นอน!
+Don't jump!	อย่ากระโดด!
+Don't move!	อยาขยับ!
+Don't move.	อย่าขยับ
+Find a job.	หางานทำ
+Follow him.	ตามเขาไป
+Forget Tom.	ลืมทอม
+Get a life!	อย่ามายุ่ง จะทำอะไรก็ไป
+Get a life.	อย่ามายุ่ง จะทำอะไรก็ไป
+God exists.	พระเจ้ามีอยู่จริง
+Hello, Tom.	สวัสดีทอม
+How lovely!	ช่างน่ารักจริง ๆ!
+I am a boy.	ฉันเป็นเด็กผู้ชาย
+I am a man.	ฉันเป็นผู้ชาย
+I am happy.	ฉันมีความสุข
+I can't go.	ฉันไม่สามารถไปได้
+I disagree.	ฉันไม่เห็นด้วย
+I found it.	ฉันเจอมันแล้ว
+I hear you.	ฉันได้ยินคุณ
+I hope not.	ฉันหวังว่าไม่
+I know her.	ฉันรู้จักเธอ
+I like R&B.	ฉันชอบเพลงอาร์แอนด์บี
+I like art.	ฉันชอบศิลปะ
+I like him.	ฉันชอบเขา
+I like tea.	ฉันชอบชา
+I like you.	ฉันชอบคุณ
+I made tea.	ฉันทำชา
+I may come.	ผมอาจจะมา
+I miss you.	ฉันคิดถึงคุณ
+I need you.	ฉันต้องการคุณ
+I want Tom.	ฉันต้องการทอม
+I want you.	ฉันต้องการคุณ
+I'm a twin.	ฉันเป็นฝาแฝด
+I'm hungry!	ฉันหิว!
+I'm so fat.	ฉันอ้วนมาก
+I'm thirty.	ฉันอายุสามสิบ
+Is that it?	คือเท่านั้นหรือ?
+Is that it?	แค่เท่านั้นหรือ?
+Is this it?	แค่เท่านี้หรือ?
+It's a bet.	พนันได้เลย
+It's a fad.	มันเป็นเทร็นใหม่
+It's funny.	มันตลก
+It's my CD.	มันคือซีดีของฉัน
+Keep quiet.	เงียบ
+Let's kiss.	จูบกันเถอะ
+No problem.	ไม่มีปัญหา
+Pick it up.	หยิบมันขึ้นมา
+She smiled.	เธอยิ้ม
+Stay close.	อยู่ใกล้ ๆ
+Stay there.	ไปอยู่ตรงนั่น
+Step aside.	หลีกทาง
+Take a bus.	ขึ้นรถเมล์
+Take a nap.	นอนสักงีบ
+That's Tom.	นั่นทอม
+This is it.	นี่ไง
+Tom agrees.	ทอมเห็นด้วย
+Tom jumped.	ทอมกระโดด
+Tom snored.	ทอมกรน
+Tom stayed.	ทอมอาศัยอยู่
+Tom walked.	ทอมเดิน
+Tom'll pay.	ทอมจะจ่าย
+Tom's fast.	ทอมรวดเร็ว
+Tom's sick.	ทอมป่วย
+Wait a sec.	รอแป๊ปนึง
+We are men.	พวกเราคือผู้ชาย
+We want it.	พวกเราต้องการมัน
+We're lost.	พวกเราหลงทาง
+What a day!	คำนี้มีสองความหมาย แล้วแต่สถานการณ์ 1. วันนี้เป็นวันที่แย่มากๆ 2. วันนี้เป็นวันที่เยี่ยมมากๆ
+What is it?	มันคืออะไร?
+Wood burns.	ไม้ไหม้
+Are you Tom?	คุณคือทอมใช่ไหม
+Come inside.	เข้ามาข้างใน
+Count me in.	นับฉันด้วย
+Did Tom die?	ทอมตายไหม?
+Did Tom eat?	ทอมกินหรือเปล่า?
+Don't worry.	ไม่ต้องกังวล
+Flip a coin.	1. เป็นการบอกให้ตัดสินใจเลือกอย่างใดอย่างหนึ่ง 2. ให้โยนเหรียญเลือกหัวหรือก้อย
+Go home now.	กลับบ้านทันที
+Go with Tom.	ไปกับทอม
+Grab a seat.	นั่งซิ (เป็นคำพูดที่ไม่เป็นทางการ)
+Have a beer.	ดื่มเบียร์ซิ
+Have a look.	มาดูซิ
+Have a seat.	นั่งสิ (พูดแบบสุภาพ)
+Have we met?	พวกเราเคยเจอกันแล้วหรือยัง?
+He can come.	เขาสามารถมาได้
+He is alone.	เขาอยู่คนเดียว
+He's a liar.	เขาเป็นคนขี้โกหก
+How are you?	คุณสบายดีไหม?
+How are you?	คุณเป็นอย่างไร?
+I am a cook.	ฉันเป็นพ่อครัว แม่ครัว
+I bought it.	ฉันซื้อมัน
+I don't lie.	ฉันไม่ได้โกหก
+I feel good.	ฉันรู้สึกดี
+I feel sick.	ฉันรู้สึกป่วย
+I got dizzy.	ฉันมึน
+I got fined.	ฉันถูกปรับ
+I had a cat.	ฉันเคยมีแมว
+I hate dogs.	ฉันเกลียดสุนัข
+I hate sand.	ฉันเกลียดทราย
+I have time.	ฉันมีเวลา
+I know this.	ฉันรู้สิ่งนี้
+I like beer.	ฉันชอบเบียร์
+I like rock.	ฉันชอบเพลงร็อค
+I like that.	ฉันชอบมัน
+I like this.	ฉันชอบสิ่งนี้
+I live here.	ฉันอาศัยอยู่ที่นี่
+I own a car.	ฉันมีรถยนต์
+I recovered.	ฉันหายแล้ว
+I said that.	ฉันพูดมัน
+I saw a UFO.	ฉันเคยเห็นจานบินยูเอฟโอ
+I saw a dog.	ฉันเคยเห็นสุนัข
+I trust him.	ฉันเชื่อเขา
+I trust you.	ฉันไว้ใจคุณ
+I won again.	ฉันชนะอีกแล้ว
+I won't lie.	ฉันจะไม่โกหก
+I'll get in.	ฉันจะเข้าไป
+I'm a baker.	ฉันเป็นคนทำขนมปัง ขนมอบ
+I'm a medic.	ฉันเป็นหมอฝึกหัด ฉันเป็นนักเรียนแพทย์
+I'm a woman.	ฉันเป็นผู้หญิง
+I'm at home.	ฉันอยู่บ้าน
+I'm fasting.	ฉันอดอาหาร
+I'm furious.	ฉันโมโห
+I'm nervous.	ฉันประหม่า
+I'm not fat.	ฉันไม่ได้อ้วน
+I'm staying.	ฉันกำลังพักอยู่
+I'm thirsty.	ฉันกระหายน้ำ
+I'm worried.	ฉันกังวล
+Is Tom here?	ทอมอยู่นี่ไหม?
+Is Tom hurt?	ทอมเจ็บหรือเปล่า?
+Is it legal?	มันถูกกฎหมายหรือไม่?
+Is it yours?	มันเป็นของคุณหรือเปล่า?
+Is this art?	นี่เป็นศิลปะเหรอ?
+It can't be!	เป็นไปไม่ได้!
+It'll break.	มันจะพัง
+It's a date.	ความหมายตรงตัวคือ โอเค นัดกันแล้วนะ / โอเค ตามนั้น
+It's a deal.	โอเค ตามนั้นล่ะ
+It's a doll.	มันคือตุ๊กตา
+It's a fact.	มันคือความจริง
+It's a fake.	มันเป็นของปลอม มันปลอม
+It's a gift.	1. มันคือของขวัญ 2. พูดเมื่อเราทำอะไรที่คนอื่นทำไม่ได้ เพื่อที่จะเน้นว่า ฉันทำได้เพราะฉันมีความสามารถพิเศษที่ติดตัวมา
+It's a harp.	มันคือฮาร์ป
+It's a rule.	มันเป็นกฏ
+It's a scam.	มันคือการหลอกหลวง
+It's a sign.	1. ความหมายตรงตัว มันคือป้ายจราจร ป้ายบอกทาง 2. มันคือลางบอกเหตุ
+It's a trap.	มันคือหลุมพราง
+Let's dance.	มาเต้นกันเถอะ
+Let's start!	เริ่มกันเลย!
+Make a list.	จดใว้ว่ามีอะไรบ้าง
+Make a wish.	ให้อธิษฐาน อธิษฐานซิ
+Many thanks.	ขอบคุณมาก
+Money talks.	เงินบันดาลทุกสิ่ง
+Nobody came.	ไม่มีใครมา
+Pick a date.	เลือกวัน
+Say goodbye.	พูดกล่าวลา
+She's a dog.	หล่อนคือสุนัข(ตัวเมีย)
+Stand still!	หยุดนิ่ง!
+Step inside.	ก้าวเข้ามาข้างใน
+Stop moving!	หยุดเคลื่อนที่!
+Take a bath.	อาบน้ำ
+Take a bite.	ลองกัดชิมดูสักคำซิ
+There it is.	นั่นไง
+Tom cheered.	ทอมให้กำลังใจ
+Tom coughed.	ทอมไอ
+Tom is deaf.	ทอมเป็นคนหูหนวก
+Tom is gone.	ทอมจากไปแล้ว
+Tom is last.	ทอมเป็นคนสุดท้าย
+Tom is lazy.	ทอมขี้เกียจ
+Tom left me.	ทอมทิ้งฉัน
+Tom listens.	ทอมฟัง
+Tom refused.	ทอมปฏิเสธ
+Tom saw her.	ทอมเห็นเธอ
+Tom's bored.	ทอมเบื่อ
+Tom's funny.	ทอมเป็นคนตลก
+Tom's happy.	ทอมมีความสุข
+Tom's right.	ทอมถูก
+Tom's young.	ทอมเด็ก
+Trust in me.	เชื่อในตัวฉัน
+Walk slowly.	เดินช้า ๆ
+We love Tom.	พวกเรารักทอม
+We met here.	เราพบกันที่นี่
+We miss Tom.	เราคิดถึงทอม
+We'll be OK.	เราจะโอเค
+We'll be OK.	เราจะไม่เป็นอะไร
+We're right.	เราพูดถูก
+What's that?	นั่นคืออะไร?
+Who are you?	คุณคือใคร?
+Who is that?	นั่นใคร?
+Who's dying?	ใครกำลังจะตาย?
+You're cute.	คุณน่ารัก
+You're wise.	คุณฉลาด
+Anybody here?	มีใครอยู่ที่นี่ไหม?
+Anybody home?	มีใครอยู่บ้านไหม?
+Are you busy?	คุณยุ่งอยู่ใช่ไหม?
+Are you okay?	คุณสบายดีไหม?
+Are you sure?	คุณแน่ใจหรือ?
+Bring him in.	นำเขาเข้ามา
+Can you cook?	คุณทำอาหารได้ไหม
+Come and see.	มาดู
+Come forward.	มาข้างหน้า
+Count to ten.	นับถึงสิบ
+Don't be shy.	อย่าอายเลย
+Don't litter!	อย่าทิ้งขยะ!
+Drive slowly.	ขับช้าๆ
+Give me that.	เอามันให้ฉัน
+Go away, Tom.	ไปให้พ้น, ทอม
+Go to school.	ไปโรงเรียน
+Good evening.	สวัสดีตอนเย็น
+Happy Easter!	สุขสันต์วันอีสเตอร์!
+He is asleep.	เขากำลังหลับ
+I am working.	ฉันกำลังทำงาน
+I called you.	ฉันโทรหาคุณ
+I can't help.	ฉันช่วยอะไรไม่ได้
+I drank milk.	ฉันดื่มนม
+I drink milk.	ฉันดื่มนม
+I have hives.	ฉันมีลมพิษ
+I have money.	ฉันมีเงิน
+I like fruit.	ฉันชอบผลไม้
+I love music.	ฉันรักเสียงเพลง
+I must study.	ฉันต้องเรียน
+I need to go.	ฉันต้องไปแล้ว
+I understand.	ฉันเข้าใจ
+I want to go.	ฉันอยากไป
+I was hungry.	ฉันหิว
+I'll ask Tom.	ฉันจะถามทอม
+I'm bleeding.	ฉันมีเลือดออก
+I'm busy now.	ตอนนี้ฉันไม่ว่าง
+I'm free now.	ตอนนี้ฉันว่าง
+I'm homesick.	ฉันคิดถึงบ้าน
+I'm not free.	ฉันไม่ว่าง
+Is Tom crazy?	ทอมเป็นบ้าเหรอ?
+Is that okay?	นั่นใช้ได้ไหม
+It took time.	มันใช้เวลา
+It was black.	มันเป็นสีดำ
+It was white.	มันเป็นสีขาว
+Keep reading.	อ่านต่อไป
+She is eight.	เธออายุแปดปี
+She is happy.	เธอมีความสุข
+She knows me.	เธอรู้จักฉัน
+Should we go?	เราควรไปไหม?
+Stay at home.	อยู่บ้าน
+Stop the car.	หยุดรถ
+Stop yelling!	หยุดตะโกน!
+That is mine.	นั่นเป็นของฉัน
+They escaped.	พวกเขาหลบหนีไปแล้ว
+They're gone.	พวกเขาไปแล้ว
+They're weak.	พวกเขาอ่อนแอ
+This is food.	นี่คืออาหาร
+This is free.	นี่ฟรี
+Tom answered.	ทอมตอบ
+Tom finished.	ทอมเสร็จแล้ว
+Tom helps us.	ทอมช่วยเรา
+Tom is my ex.	ทอมเป็นแฟนเก่าของฉัน
+Tom knows us.	ทอมรู้จักพวกเรา
+Tom loves me.	ทอมรักฉัน
+Tom stutters.	ทอมเดินโซเซ
+Tom's polite.	ทอมสุภาพ
+Tom's thirty.	ทอมอายุสามสิบ
+Tom, wake up.	ทอม ตื่น
+Unbelievable!	เหลือเชื่อ!
+Unbelievable!	ไม่น่าเชื่อ!
+We are Arabs.	เราเป็นชาวอาหรับ
+We have time.	เรามีเวลา
+We're crying.	เรากำลังร้องไห้
+We're hungry.	พวกเราหิว
+What is love?	รักคืออะไร?
+What is this?	นี่คืออะไร?
+Who will win?	ใครจะชนะ?
+You can rest.	คุณสามารถพักได้
+Are you crazy?	คุณบ้าหรือ?
+Are you happy?	คุณมีความสุขไหม?
+Are you ready?	พร้อมรึยัง
+Are you there?	คุณอยู่ที่นั่นหรือไม่?
+Are you tired?	คุณเหนื่อยไหม
+Ask any woman.	ถามผู้หญิงที่ไหนก็ได้
+Chess is hard.	หมากรุกเป็นเรื่องยาก
+Do I know you?	ฉันรู้จักคุณหรือเปล่า?
+Does Tom know?	ทอมรู้ไหม?
+Don't do that.	อย่าทำอย่างนั้น
+Don't give up!	อย่ายอมแพ้!
+Flowers bloom.	ดอกไม้บาน
+He drank beer.	เขาดื่มเบียร์
+He has a maid.	เขามีสาวใช้
+He hugged her.	เขากอดเธอ
+He is English.	เขาเป็นคนอังกฤษ
+He talks well.	เขาพูดได้ดี
+He walks fast.	เขาเดินเร็ว
+He went blind.	เขาตาบอด
+He's not home.	เขาไม่ได้อยู่บ้าน
+He's studying.	เขากำลังศึกษาอยู่
+I believe you.	ฉันเชื่อคุณ
+I did my duty.	ผมทำหน้าที่ของผม
+I feel unwell.	ฉันรู้สึกไม่สบาย
+I felt lonely.	ฉันรู้สึกเหงา
+I hate Boston.	ฉันเกลียดบอสตัน
+I hate coffee.	ฉันเกลียดกาแฟ
+I hate losing.	ฉันเกลียดการแพ้
+I have to win.	ฉันต้องชนะ
+I like trains.	ฉันชอบรถไฟ
+I love apples.	ฉันรักแอปเปิล
+I never drink.	ฉันไม่เคยดื่ม
+I said I'd go.	ฉันบอกว่าฉันจะไป
+I saw a mouse!	ฉันเห็นหนู!
+I see a house.	ฉันเห็นบ้าน
+I see a queen.	ฉันเห็นราชินี
+I want to cry.	ฉันอยากร้องไห้
+I want to eat.	ฉันอยากกิน
+I'll buy that.	ฉันจะซื้อมัน
+I'll go there.	ฉันจะไปที่นั่น
+I'll kill him.	ฉันจะฆ่าเขา
+I'm Tom's mom.	ฉันเป็นแม่ของทอม
+I'm a teacher.	ฉันคือครู
+I'm a tourist.	ฉันเป็นนักท่องเที่ยว
+I'm not a spy.	ฉันไม่ใช่สายลับ
+I'm very poor.	ฉันจนมาก
+I've got time.	ฉันมีเวลา
+Is that a dog?	นั่นเป็นสุนัขเหรอ?
+Is that a dog?	นั่นใช่สุนัขเหรอ?
+Is this yours?	นี่เป็นของคุณหรือไม่?
+It's all mine.	มันเป็นของผมทั้งหมด
+Lock the gate.	ล็อคประตู
+May I ask why?	ฉันขอถามได้มั้ยว่าทำไม?
+My cat is wet.	แมวของฉันเปียก
+My dog ate it.	สุนัขของฉันกินมัน
+My dog ate it.	หมาของฉันกินมัน
+My head aches.	หัวฉันปวด
+No one saw me.	ไม่มีใครเห็นฉัน
+Send it to me.	ส่งมันมาหาฉัน
+She bent down.	เธอก้มลง
+She hired him.	เธอจ้างเขา
+She is French.	เธอเป็นคนฝรั่งเศส
+She is French.	เธอเป็นคนชาวฝรั่งเศส
+She is crying.	เธอกำลังร้องไห้
+She is eating.	เธอกำลังกิน
+She likes him.	เธอชอบเขา
+She wants him.	เธอต้องการเขา
+Speak clearly.	พูดอย่างชัดเจน
+Speak quietly.	พูดเบา ๆ
+Start singing.	เริ่มร้องเพลง
+Stay together.	อยู่ด้วยกัน
+Stop dreaming.	หยุดฝัน
+Stop worrying.	หยุดกังวล
+That's a fact.	นั่นคือความจริง
+That's my car.	นั่นรถของฉัน
+That's my job.	นั่นคืองานของผม
+That's not OK.	นั่นไม่โอเค
+There you are.	นั่นแหละ
+There you are.	นั่นไง
+They're spies.	พวกมันเป็นสายลับ
+This is Japan.	นี่คือญี่ปุ่น
+This is a DVD.	นี่คือดีวีดี
+Tom ate alone.	ทอมกินคนเดียว
+Tom disagreed.	ทอมไม่เห็นด้วย
+Tom graduated.	ทอมจบการศึกษา
+Tom is boring.	ทอมน่าเบื่อ
+Tom is in bed.	ทอมอยู่บนเตียง
+Tom lost hope.	ทอมหมดความหวัง
+Tom loves you.	ทอมรักคุณ
+Tom protested.	ทอมประท้วง
+Tom warned us.	ทอมเตือนเรา
+Tom was a spy.	ทอมคือสปาย
+Tom was a spy.	ทอมเป็นสปาย
+Tom was a spy.	ทอมเป็นสายลับ
+Tom was a spy.	ทอมคือสายลับ
+Tom was lucky.	ทอมโชคดี
+Tom went pale.	ทอมหน้าซีด
+Tom will sing.	ทอมจะร้องเพลง
+Tom's adopted.	ทอมเป็นลูกบุญธรรม
+We are hungry.	พวกเราหิว
+We got robbed.	พวกเราถูกปล้น
+We helped Tom.	พวกเราช่วยทอม
+We'll be here.	เราจะอยู่ที่นี่
+We'll be late.	เราจะสาย
+We're curious.	พวกเราอยากรู้
+We're kidding.	พวกเราล้อเล่น
+We've arrived.	เรามาถึงแล้ว
+What happened?	เกิดอะไรขึ้น?
+Where are you?	คุณอยู่ที่ไหน?
+Who disagreed?	ใครไม่เห็นด้วย?
+Who was right?	ใครถูก?
+Will you come?	คุณจะมาไหม
+You are wrong.	คุณผิด
+You can do it.	คุณสามารถทำมันได้
+You look busy.	คุณดูยุ่ง
+Are you hiding?	คุณกำลังหลบซ่อนอยู่เหรอ?
+Are you hungry?	คุณหิวไหม?
+Can I help you?	ฉันช่วยคุณได้ไหม?
+Can I sit here?	ฉันนั่งตรงนี้ได้ไหม?
+Can I sit here?	ฉันนั่งที่นี่ได้ไหม?
+Can I sit here?	ขอฉันนั่งตรงนี้ได้ไหม?
+Close the book.	ปิดหนังสือ
+Cows eat grass.	วัวกินหญ้า
+Cut it in half.	ผ่าครึ่งมัน
+Dinner's ready!	อาหารเย็นพร้อมแล้ว!
+Do you like it?	คุณชอบมันไหม?
+Do you love it?	คุณรักมันไหม?
+Do you love me?	คุณรักฉันไหม?
+Don't back off.	อย่าถอย
+Don't be silly.	อย่าโง่
+Don't stop him.	อย่าหยุดเขา
+Good afternoon.	สวัสดีตอนบ่าย
+Happy birthday!	สุขสันต์วันเกิด!
+He could do it.	เขาสามารถทำมันได้
+He doesn't lie.	เขาไม่ได้โกหก
+He is an actor.	เขาเป็นนักแสดง
+He seems tired.	เขาดูเหนื่อย
+He went to bed.	เขาเข้านอน
+I accept gifts.	ฉันรับของขวัญ
+I am too short.	ฉันเตี้ยเกินไป
+I am too short.	ฉันสั้นเกินไป
+I broke my leg.	ฉันทำขาฉันหัก
+I can hear you.	ฉันสามารถได้ยินเสียงคุณ
+I hate Mondays.	ฉันเกลียดวันจันทร์
+I hate ironing.	ฉันเกลียดการรีดผ้า
+I have a dream.	ฉันมีความฝัน
+I have a horse.	ฉันมีม้า
+I like English.	ฉันชอบภาษาอังกฤษ
+I love flowers.	ฉันรักดอกไม้
+I love lasagna.	ฉันรักลาซัญญา
+I love my city.	ฉันรักเมืองของฉัน
+I often travel.	ฉันมักจะเดินทาง
+I punished Tom.	ฉันลงโทษทอม
+I raise cattle.	ฉันเลี้ยงวัว
+I saw her swim.	ฉันเห็นเธอว่ายน้ำ
+I saw him jump.	ฉันเห็นเขากระโดด
+I think we can.	ฉันคิดว่าเราทำได้
+I'll finish it.	ผมจะทำมันให้เสร็จ
+I'll stay here.	ฉันจะอยู่ที่นี่
+I'll teach you.	ฉันจะสอนคุณ
+I'm a free man.	ฉันเป็นคนอิสระ
+I'm a prisoner.	ฉันเป็นนักโทษ
+I'm an atheist.	ฉันเป็นคนไม่เชื่อในพระเจ้า
+I'm doing fine.	ฉันสบายดี
+It isn't cheap.	มันไม่ถูก
+It may be true.	มันอาจเป็นจริง
+It's too small.	มันเล็กเกินไป
+It's very good.	มันดีมาก
+Leave me alone!	ทิ้งฉันไว้คนเดียว!
+Let's practice.	มาฝึกกัน
+Let's watch TV.	ดูทีวีกันเถอะ
+May I sit here?	ฉันขอนั่งที่นี่ได้ไหม?
+My joints ache.	ข้อของฉันปวด
+My name is Tom.	ฉันชื่อว่าทอม
+Nobody hurt me.	ไม่มีใครทำร้ายฉัน
+Nobody hurt me.	ไม่มีใครทำร้ายผม
+Nobody laughed.	ไม่มีใครหัวเราะ
+Only God knows.	พระเจ้าเท่านั้นที่รู้
+She can't swim.	เธอว่ายน้ำไม่เป็น
+She can't swim.	เธอว่ายน้ำไม่ได้
+She loves cats.	เธอรักแมว
+She's pregnant.	เธอท้อง
+Stop grumbling.	หยุดบ่น
+Stop resisting!	หยุดขัดขืน!
+Summer is over.	ฤดูร้อนสิ้นสุดลงแล้ว
+The dog barked.	สุนัขเห่า
+The dog barked.	หมาเห่า
+They let me go.	พวกเขาปล่อยฉันไป
+They quarreled.	พวกเขาทะเลาะกัน
+They were busy.	พวกเขายุ่ง
+They're broken.	พวกมันหัก
+They're broken.	พวกมันพัง
+This is boring.	นี่มันน่าเบื่อ
+Tom died there.	ทอมตายที่นั่น
+Tom drank milk.	ทอมดื่มนม
+Tom is dancing.	ทอมกำลังเต้น
+Tom is elderly.	ทอมเป็นผู้สูงอายุ
+Tom is staying.	ทอมกำลังอาศัยอยู่
+Tom is strange.	ทอมแปลก
+Tom is yawning.	ทอมกำลังหาว
+Tom isn't here.	ทอมไม่ได้อยู่ที่นี่
+Tom knows Mary.	ทอมรู้จักแมรี่
+Tom knows this.	ทอมรู้สิ่งนี้
+Tom likes that.	ทอมชอบสิ่งนั้น
+Tom needs help.	ทอมต้องการความช่วยเหลือ
+Tom turned red.	ทอมหน้าแดง
+Tom wants Mary.	ทอมต้องการแมรี่
+Tom will speak.	ทอมจะพูด
+Wash your feet.	ล้างเท้าของคุณ
+We can do that.	เราสามารถทำเช่นนั้นได้
+We made him go.	เราทำให้เขาไป
+We need a plan.	เราต้องการแผน
+We'll be there.	เราจะไปที่นั่น
+Were you alone?	คุณอยู่คนเดียวเหรอ
+What do you do?	คุณทำอะไร?
+Where's my car?	รถของฉันอยู่ไหน?
+Who broke this?	ใครทำลายสิ่งนี้?
+Who will do it?	ใครจะทำมัน?
+Who wrote this?	ใครเป็นคนเขียนเรื่องนี้?
+Why do you ask?	คุณถามทำไม?
+Why is Tom wet?	ทำไมทอมถึงเปียก?
+Wipe your eyes.	เช็ดตาของคุณ
+Yes, I know it.	ใช่ฉันรู้
+Are these yours?	พวกนี้เป็นของคุณหรือไม่?
+Are you married?	คุณแต่งงานแล้วหรือยัง
+Are you wounded?	คุณบาดเจ็บหรือเปล่า
+Black suits you.	ชุดสีดำเหมาะกับคุณ
+Call my husband.	โทรหาสามีของฉัน
+Call the police!	โทรหาตำรวจ!
+Can I keep this?	ฉันจะเก็บสิ่งนี้ไว้ได้ไหม?
+Can you hear us?	คุณได้ยินเราไหม?
+Can you show me?	แสดงให้ฉันดูได้ไหม?
+Close your book.	ปิดหนังสือของคุณ
+Congratulations!	ขอแสดงความยินดี!
+Did anyone call?	มีใครโทรมาไหม
+Did you like it?	คุณชอบมันไหม?
+Do you love her?	คุณรักเธอไหม?
+Do you miss Tom?	คุณคิดถึงทอมไหม?
+Do you remember?	คุณจำได้ไหม?
+Does this count?	อย่างนี้นับไหม?
+Don't overdo it.	อย่าหักโหมจนเกินไป
+Drive carefully.	ขับรถอย่างระมัดระวัง
+Enjoy your food.	เพลิดเพลินกับอาหารของคุณ
+Everyone's dead.	ทุกคนตายไปแล้ว
+Go to the store.	ไปที่ร้าน
+Green suits you.	สีเชียวเหมาะสมกับคุณ
+He began to run.	เขาเริ่มวิ่ง
+He has a camera.	เขามีกล้อง
+He is a painter.	เขาเป็นจิตรกร
+He likes tigers.	เขาชอบเสือ
+He loves coffee.	เขารักกาแฟ
+Help me, please.	โปรดช่วยฉันด้วย
+How do we do it?	เราจะทำมันอย่างไร?
+How old are you?	คุณอายุเท่าไหร่?
+I am busy today.	วันนี้ฉันยุ่ง
+I bought a book.	ฉันซื้อหนังสือ
+I escaped death.	ฉันรอดพ้นจากความตาย
+I escaped death.	ฉันหนีความตาย
+I get up at six.	ฉันตื่นตอนหกโมง
+I have to sleep.	ฉันต้องนอน
+I hope Tom wins.	ฉันหวังว่าทอมจะชนะ
+I just got home.	ฉันเพิ่งกลับมาถึงบ้าน
+I like to laugh.	ฉันชอบหัวเราะ
+I love weddings.	ฉันรักงานแต่งงาน
+I made that one.	ฉันทำอันนั้น
+I need a laptop.	ฉันต้องการแล็ปท็อป
+I need the keys.	ฉันต้องการกุญแจ
+I prefer coffee.	ฉันชอบกาแฟมากกว่า
+I see a pattern.	ฉันเห็นรูปแบบ
+I want this one.	ฉันต้องการอันนี้
+I want this one.	ฉันอยากได้อันนี้
+I was a teacher.	ฉันเป็นครู
+I work at a bar.	ฉันทำงานที่บาร์
+I'll follow you.	ฉันจะติดตามคุณ
+I'll remind you.	ผมจะเตือนคุณ
+I'll sleep here.	ฉันจะนอนที่นี่
+I'm a bit tired.	ฉันเหนื่อยนิดหน่อย
+I'm a good cook.	ฉันเป็นพ่อครัวที่ดี
+I'm eating here.	ฉันกินข้าวที่นี่
+I'm going to go.	ฉันกำลังจะไป
+I'm leaving now.	ฉันจะไปแล้ว
+I'm not a robot.	ฉันไม่ใช่หุ่นยนต์
+I'm not sulking.	ฉันไม่ได้ร้องไห้
+I'm watching TV.	ฉันกำลังดูทีวี
+Is it near here?	มันอยู่ใกล้ที่นี่หรือเปล่า
+Is that boy Tom?	ทอมคือผู้ชายคนนั้นเหรอ?
+Is this a river?	นี่คือแม่น้ำใช่ไหม
+It is up to you.	มันขึ้นอยู่กับคุณ
+It's an antique.	มันเป็นของโบราณ
+It's artificial.	มันเป็นของเทียม
+It's impossible.	มันเป็นไปไม่ได้
+It's not Monday.	มันไม่ใช่วันจันทร์
+It's not a fish.	มันไม่ใช่ปลา
+It's not enough.	มันไม่พอ
+It's too bright.	มันสว่างเกินไป
+Leave a message.	ฝากข้อความไว้
+Let me help you.	ให้ฉันช่วยคุณ
+Let's try again.	ลองอีกครั้ง
+Merry Christmas!	สุขสันต์วันคริสต์มาส!
+Open the window.	เปิดหน้าต่าง
+Remove your hat.	ถอดหมวกของคุณ
+She is too weak.	เธออ่อนแอเกินไป
+She looks young.	เธอดูเด็ก
+She's on a diet.	เธอกำลังลดน้ำหนัก
+Spanish is easy.	ภาษาสเปนง่าย
+Stop doing that.	หยุดทำสิ่งนั้น
+That won't work!	นั่นจะไม่ทำงาน!
+That's a pencil.	นั่นคือดินสอ
+That's about it.	นั่นคือทั้งหมด
+That's too long.	นั่นยาวเกินไป
+That's too long.	นั่นนานเกินไป
+That's too much.	นั่นมากเกินไป
+The car is blue.	รถมีสีน้ำเงิน
+The dog is dead.	สุนัขตายแล้ว
+The dog is dead.	หมาตายแล้ว
+The sun has set.	พระอาทิตย์ตกดินแล้ว
+The taxi's here.	แท็กซี่มาแล้ว
+They are actors.	พวกเขาเป็นนักแสดง
+They feared you.	พวกเขากลัวคุณ
+They're outside.	พวกเขาอยู่ข้างนอก
+This is for Tom.	นี่สำหรับทอม
+Tom didn't know.	ทอมไม่รู้
+Tom drinks beer.	ทอมดื่มเบียร์
+Tom had a knife.	ทอมมีมีด
+Tom is a writer.	ทอมเป็นนักเขียน
+Tom is laughing.	ทอมหัวเรา
+Tom snores, too.	ทอมกรนด้วยเช่นกัน
+Tom trusts Mary.	ทอมไว้วางใจแมรี่
+Tom wants money.	ทอมต้องการเงิน
+Tom was furious.	ทอมโกรธ
+Tom's different.	ทอมแตกต่าง
+We need to talk.	เรามีเรื่องต้องคุยกัน
+We should party.	พวกเราควรปาตี้กัน
+We want it back.	เราต้องการมันกลับ
+We want to know.	เราอยากรู้
+We're Canadians.	พวกเราคือชาวแคนาดา
+We're gardeners.	พวกเราเป็นชาวสวน
+We're prisoners.	เราเป็นนักโทษ
+What is it like?	มันเป็นอย่างไร?
+What time is it?	ตอนนี้เวลากี่โมง?
+What's Tom like?	ทอมเป็นคนอย่างไร?
+What's going on?	เกิดอะไรขึ้น?
+What's your job?	คุณทำอาชีพอะไร?
+When can we eat?	เรากินได้เมื่อไหร่
+Who called them?	ใครเรียกพวกเขา?
+Who teaches you?	ใครสอนคุณ?
+Write something.	เขียนอะไรบางอย่าง
+You know better.	คุณรู้ดีกว่า
+You look strong.	คุณดูแข็งแรง
+You look stupid.	คุณดูโง่
+You must be Tom.	คุณต้องเป็นทอม
+You promised me.	คุณสัญญากับผมแล้ว
+You'll get lost.	คุณจะหลงทาง
+You're an idiot.	คุณเป็นคนโง่
+You're my woman.	คุณคือผู้หญิงของฉัน
+A girl phoned me.	หญิงสาวโทรมาหาฉัน
+Are we safe here?	ที่นี่เราปลอดภัยไหม
+Aren't you tired?	คุณไม่เหนื่อยเหรอ?
+Birds have wings.	นกมีปีก
+Call me tomorrow.	โทรหาฉันพรุ่งนี้
+Can I have a hug?	ขอกอดได้ไหม?
+Can you see them?	คุณมองเห็นพวกเขามั้ย?
+Come sit with us.	มานั่งกับเราสิ
+Did you love Tom?	คุณรักทอมไหม?
+Do you have kids?	คุณมีลูกไหม
+Do you live here?	คุณอาศัยอยู่ที่นี่หรือไม่?
+Don't ask me why.	อย่าถามฉันว่าทำไม
+Don't leave town.	อย่าออกจากเมือง
+Don't provoke me.	อย่ายั่วยุฉัน
+Don't talk to me.	อย่าคุยกับฉัน
+Everybody danced.	ทุกคนเต้น
+Everybody laughs.	ทุกคนหัวเราะ
+Everybody waited.	ทุกคนรอ
+Everyone changes.	ทุกคนเปลี่ยนแปลง
+He behaved badly.	เขาประพฤติตัวไม่ดี
+He has a Picasso.	เขามีปิกัสโซ
+He has long legs.	เขามีขายาว
+Her name is Mary.	เธอชื่อมาเรีย
+I am from Russia.	ฉันมาจากรัสเซีย
+I believe in you.	ฉันเชื่อในตัวคุณ
+I called in sick.	ผมโทรหาคนไข้
+I don't know yet.	ฉันยังไม่รู้เลย
+I don't know you.	ฉันไม่รู้จักคุณ
+I don't like her.	ฉันไม่ชอบเธอ
+I don't like tea.	ฉันไม่ชอบชา
+I hate chemistry.	ฉันเกลียดเคมี
+I have a big dog.	ฉันมีหมาตัวใหญ่
+I have a new car.	ฉันมีรถคันใหม่
+I hear something.	ฉันได้ยินอะไรบางอย่าง
+I like fresh air.	ฉันชอบอากาศบริสุทธิ์
+I like languages.	ฉันชอบภาษา
+I like this room.	ฉันชอบห้องนี้
+I lost the watch.	ฉันทำนาฬิกาข้อมือหาย
+I love ice cream.	ฉันรักไอศกรีม
+I love to travel.	ฉันรักการเดินทาง
+I need more time.	ฉันต้องการเวลามากกว่านี้
+I own this store.	ผมเป็นเจ้าของร้านนี้
+I sell umbrellas.	ฉันขายร่ม
+I waited a month.	ผมรอมาหนึ่งเดือนแล้ว
+I waited for Tom.	ฉันรอทอม
+I walk to school.	ฉันเดินไปโรงเรียน
+I want you to go.	ฉันอยากให้คุณไป
+I won't help you.	ฉันจะไม่ช่วยคุณ
+I'll be punished.	ฉันจะถูกลงโทษ
+I'm 18 years old.	ฉันอายุ 18 ปี
+I'm a vegetarian.	ฉันเป็นมังสวิรัติ
+I'm from America.	ฉันมาจากอเมริกา
+I'm not a coward.	ฉันไม่ใช่คนขี้ขลาด
+I'm not like Tom.	ฉันไม่เหมือนทอม
+I'm not sure why.	ฉันไม่แน่ใจว่าทำไม
+I'm proud of you.	ฉันภูมิใจในตัวเธอ
+Is Tom at school?	ทอมอยู่ที่โรงเรียนไหม?
+Is everything OK?	ทุกอย่างโอเคไหม?
+Is that from Tom?	นั่นมาจากทอมเหรอ?
+Is this your car?	นี่คือรถของคุณหรือไม่
+It isn't a virus.	มันไม่ใช่ไวรัส
+It's a good idea.	มันเป็นความคิดที่ดี
+It's a good idea.	มันเป็นไอเดียที่ดี
+It's a pineapple.	มันคือสับปะรด
+It's not a virus.	มันไม่ใช่ไวรัส
+Let's have a try.	มาลองดูกัน
+Light the candle.	จุดเทียน
+Listen carefully.	ตั้งใจฟัง
+My dog likes you.	สุนัขของฉันชอบคุณ
+My dog likes you.	หมาของฉันชอบคุณ
+No one helped me.	ไม่มีใครช่วยฉัน
+Nobody said that.	ไม่มีใครพูดสิ่งนั้น
+Nothing happened.	ไม่มีอะไรเกิดขึ้น
+Our TV is broken.	ทีวีของเราเสีย
+Please let me go.	โปรดปล่อยฉันไป
+Raise your hands.	ยกมือคุณขึ้น
+Rome is in Italy.	กรุงโรมอยู่ในอิตาลี
+School is boring.	โรงเรียนน่าเบื่อ
+See you tomorrow.	เจอกันพรุ่งนี้
+She said goodbye.	เธอบอกลา
+She smiled at me.	เธอยิ้มให้ฉัน
+That bag is mine.	กระเป๋านั้นเป็นของฉัน
+There's no hurry.	ไม่ต้องรีบร้อน
+They are doctors.	พวกเขาเป็นหมอ
+They are singers.	พวกเขาเป็นนักร้อง
+They got married.	พวกเขาแต่งงานแล้ว
+They lied to you.	พวกเขาโกหกคุณ
+They work for me.	พวกเขาทำงานให้ฉัน
+Tom always loses.	ทอมแพ้เสมอ
+Tom avoided Mary.	ทอมหลีกเลี่ยงแมรี่
+Tom is an orphan.	ทอมเป็นเด็กกำพร้า
+Tom isn't coming.	ทอมไม่มา
+Tom married Mary.	ทอมแต่งงานกับแมรี่
+Tom stopped Mary.	ทอมหยุดแมรี่
+Tom was arrested.	ทอมถูกจับ
+Tom won't listen.	ทอมไม่ฟัง
+Try reading this.	ลองอ่านดูนะ
+Water the plants.	รดน้ำต้นไม้
+We arrived first.	เรามาถึงก่อน
+We depend on you.	เราขึ้นอยู่กับคุณ
+We don't have it.	เราไม่มีมัน
+We just have fun.	เราแค่สนุกกัน
+We live in peace.	เราอยู่อย่างสงบสุข
+We met in Boston.	เราพบกันที่บอสตัน
+Were you excited?	คุณตื่นเต้นไหม
+What did you buy?	คุณซื้ออะไร?
+What did you say?	คุณพูดอะไร?
+What do you know?	คุณรู้อะไร?
+What do you make?	คุณสร้างอะไร?
+What do you mean?	คุณหมายถึงอะไร?
+What do you need?	คุณต้องการอะไร?
+What do you want?	คุณต้องการอะไร?
+What is she like?	เธอเป็นคนแบบไหน?
+What is this for?	นี่มีไว้เพื่ออะไร?
+What woke you up?	คุณตื่นเพราะอะไร?
+What's it called?	มันเรียกว่าอะไร?
+What's your name?	คุณชื่ออะไร
+Where can I park?	ฉันจอดรถได้ที่ไหน?
+Where did you go?	คุณไปไหน?
+Where is Tom now?	ตอนนี้ทอมอยู่ไหนแล้ว?
+Where is my book?	หนังสือของฉันอยู่ไหน?
+Where is my comb?	หวีของฉันอยู่ที่ไหน
+Where's your bag?	กระเป๋าของคุณอยู่ที่ไหน
+Who's that woman?	ผู้หญิงคนนั้นคือใคร?
+Why didn't I die?	ทำไมฉันถึงยังไม่ตาย?
+You can't say no.	คุณไม่สามารถปฏิเสธได้
+You know me well.	คุณรู้จักฉันดี
+You look so pale.	คุณดูซีดมาก
+You made Tom cry.	คุณทำให้ทอมร้องไห้
+You must tell me.	คุณต้องบอกฉัน
+You need friends.	คุณต้องการเพื่อน
+You should sleep.	คุณควรจะนอน
+You should sleep.	เธอควรจะนอน
+Yours was better.	ของคุณดีกว่า
+An error was made.	เกิดข้อผิดพลาด
+Are you our enemy?	คุณเป็นศัตรูของเราเหรอ?
+Are you ready yet?	พร้อมรึยัง
+Call the hospital.	โทรหาโรงพยาบาล
+Can you translate?	คุณแปลได้ไหม?
+Champagne, please.	ขอแชมเปญได้ไหม
+Did Tom kiss Mary?	ทอมจูบแมรี่ไหม?
+Did you shoot Tom?	คุณยิงทอมหรือ?
+Do you drink beer?	คุณดื่มเบียร์ไหม?
+Do you have a car?	คุณมีรถไหม?
+Do you have money?	คุณมีเงินไหม?
+Do you like juice?	คุณชอบน้ำผลไม้ไหม?
+Do you need money?	คุณต้องการเงินไหม?
+Do you see a rose?	คุณเห็นดอกกุหลาบหรือไม่?
+Don't go in there.	อย่าเข้าไปข้างใน
+Don't hurt anyone.	อย่าทำร้ายใคร
+Everything's fine.	ทุกอย่างเรียบร้อยดี
+Get everybody out.	พาทุกคนออกไป
+Good morning, Tom.	อรุณสวัสดิ์ ทอม
+Good morning, Tom.	สวัสดีตอนเช้า ทอม
+Happy anniversary!	สุขสันต์วันครบรอบ!
+He had a headache.	เขาปวดหัว
+He is a physicist.	เขาเป็นนักฟิสิกส์
+He sat on the bed.	เขานั่งบนเตียง
+He speaks English.	เขาพูดภาษาอังกฤษ
+He was very happy.	เขามีความสุขมาก
+He wrote a letter.	เขาเขียนจดหมาย
+He's just arrived.	เขาเพิ่งมาถึง
+Her eyes are blue.	ดวงตาของเธอเป็นสีฟ้า
+Hey, listen to me.	เฮ้ฟังฉัน
+How do we do that?	เราจะทำอย่างนั้นได้อย่างไร?
+How's your father?	พ่อคุณเป็นอย่างไร
+I appreciate that.	ฉันขอขอบคุณสำหรับสิ่งนั้น
+I ate a hamburger.	ฉันกินแฮมเบอร์เกอร์แล้ว
+I bathe every day.	ฉันอาบน้ำทุกวัน
+I built a shelter.	ฉันสร้างที่พักพิง
+I can go with you.	ผมไปกับคุณได้
+I can read French.	ฉันอ่านภาษาฝรั่งเศสได้
+I can't do it now.	ฉันทำมันไม่ได้ในตอนนี้
+I couldn't refuse.	ฉันปฏิเสธไม่ได้
+I didn't go alone.	ผมไม่ได้ไปคนเดียว
+I didn't see that.	ฉันไม่เห็นสิ่งนั้น
+I don't blame you.	ฉันไม่โทษคุณ
+I don't know that.	ฉันไม่รู้นั่น
+I don't like kids.	ฉันไม่ชอบเด็ก
+I don't like that.	ฉันไม่ชอบสิ่งนั้น
+I felt very proud.	ฉันภูมิใจมาก
+I had a good idea.	ฉันมีไอเดียดี ๆ
+I had an accident.	ฉันประสบอุบัติเหตุ
+I hate this store.	ฉันเกลียดร้านนี้
+I have a headache.	หัวฉันปวด
+I have my reasons.	ผมมีเหตุผลของผม
+I just moved here.	ฉันเพิ่งย้ายมาที่นี่
+I know Tom snores.	ฉันรู้ว่าทอมกรน
+I like jazz music.	ฉันชอบดนตรีแจ๊ส
+I like rainy days.	ผมชอบวันที่ฝนตก
+I like watermelon.	ฉันชอบแตงโม
+I love rock music.	ฉันรักร็อค
+I love that movie.	ฉันรักภาพยนตร์เรื่องนั้น
+I made a decision.	ฉันตัดสินใจ
+I saw him running.	ฉันเห็นเขาวิ่ง
+I think I'm right.	ฉันคิดว่าฉันพูดถูก
+I want to go back.	ฉันอยากกลับไป
+I'm boiling water.	ฉันกำลังต้มน้ำ
+I'm just guessing.	ฉันแค่คาดเดา
+I'm not an expert.	ฉันไม่ใช่ผู้เชี่ยวชาญ
+I'm not giving up.	ฉันไม่ยอมแพ้
+I'm not religious.	ฉันไม่นับถือศาสนา
+I'm taking a bath.	ฉันกำลังอาบน้ำ
+I've lost my keys.	ฉันทำกุญแจของฉันหาย
+Is somebody there?	มีใครอยู่ตรงนั้นมั้ย?
+Is that a new car?	นั่นใช่รถยนต์ใหม่ไหม?
+Is this seat free?	ที่นั่งนี้ว่างหรือไม่?
+It was our choice.	มันคือทางเลือกของเรา
+It's a dictionary.	มันคือพจนานุกรม
+It's not my fault.	มันไม่ใช่ความผิดของฉัน
+It's snowing here.	หิมะตกที่นี่
+It's time for bed.	ได้เวลานอน
+Let's get started.	มาเริ่มกันเถอะ
+Life is beautiful.	ชีวิตช่างสวยงาม
+Look into my eyes.	มองเข้าไปในตาของฉัน
+May I talk to you?	ฉันขอคุยกับคุณได้ไหม?
+My cat loves toys.	แมวของผมชอบของเล่น
+My glass is empty.	แก้วของฉันว่างเปล่า
+Nobody wants that.	ไม่มีใครต้องการสิ่งนั้น
+Peaches are sweet.	ลูกพีชมีรสหวาน
+Please forgive us.	โปรดยกโทษให้เราด้วย
+See you next week.	เจอกันใหม่อาทิตย์หน้า
+She isn't married.	เธอไม่ได้แต่งงาน
+She sells flowers.	เธอขายดอกไม้
+She was very busy.	เธอยุ่งมาก
+She's not a child.	เธอไม่ใช่เด็ก
+Smell this flower.	สูดกลิ่นดอกไม้นี้
+Something changed.	บางอย่างเปลี่ยนแปลงไป
+Termites eat wood.	ปลวกกินไม้
+That book is mine.	หนังสือเล่มนั้นเป็นของฉัน
+That was ages ago.	นั่นเมื่อนานมาแล้ว
+That won't happen.	มันจะไม่เกิดขึ้น
+That's not enough.	เท่านั้นยังไม่พอ
+The horse is mine.	ม้าเป็นของฉัน
+The meat is tough.	เนื้อแข็ง
+The music stopped.	เพลงหยุดแล้ว
+The river is wide.	แม่น้ำกว้าง
+There is no water.	ไม่มีน้ำ
+These are for you.	พวกนี้สำหรับคุณ
+They all ran away.	พวกเขาทั้งหมดวิ่งหนีไป
+They are teachers.	พวกเขาเป็นครู
+They are teachers.	พวกเขาเป็นอาจารย์
+They arrested Tom.	พวกเขาจับทอม
+They heard crying.	พวกเขาได้ยินเสียงร้องไห้
+They're dangerous.	พวกมันอันตราย
+They're now alone.	ตอนนี้พวกเขาโดดเดี่ยว
+They're using you.	พวกเขากำลังใช้คุณ
+This apple is bad.	แอปเปิ้ลนี้ไม่ดี
+This may help you.	สิ่งนี้อาจช่วยคุณได้
+Today is Saturday.	วันนี้เป็นวันเสาร์
+Tom didn't see it.	ทอมไม่ได้เห็นมีน
+Tom frightened me.	ทอมทำให้ฉันกลัว
+Tom gave me a pen.	ทอมให้ปากกาแก่ฉัน
+Tom got suspended.	ทอมถูกพักงาน
+Tom had breakfast.	ทอมกินอาหารเช้า
+Tom is a tall man.	ทอมเป็นชายร่างสูง
+Tom is doing that.	ทอมกำลังทำเช่นนั้น
+Tom is our friend.	ทอมเป็นเพื่อนของเรา
+Tom is the winner.	ทอมเป็นผู้ชนะ
+Tom isn't smiling.	ทอมไม่ยิ้ม
+Tom likes oranges.	ทอมชอบส้ม
+Tom likes writing.	ทอมชอบการเขียน
+Tom made Mary cry.	ทอมทำให้แมรี่ร้องไห้
+Tom shut his eyes.	ทอมหลับตาของเขา
+Tom wants revenge.	ทอมต้องการแก้แค้น
+Tom was insincere.	ทอมไม่จริงใจ
+Tom wears glasses.	ทอมสวมแว่นตา
+Try it once again.	ลองมันอีกครั้ง
+Turn on the radio.	เปิดวิทยุ
+Water is a liquid.	น้ำเป็นของเหลว
+We gave them food.	เราให้อาหารพวกเขา
+We met that night.	เราพบกันในคืนนั้น
+We went to church.	พวกเราไปที่โบสถ์
+We'll go with you.	พวกเราจะไปกับคุณ
+Were you attacked?	คุณถูกทำร้ายเหรอ
+What did you need?	คุณต้องการอะไร?
+What is happiness?	อะไรคือความสุข?
+What is happiness?	ความสุขคืออะไร?
+What is your name?	คุณชื่ออะไร?
+What's Tom's goal?	เป้าหมายของทอมคืออะไร
+What's that thing?	สิ่งนั้นคืออะไร?
+What's the answer?	คำตอบคืออะไร
+Where do you live?	คุณอาศัยอยู่ที่ไหน?
+Where do you park?	คุณจอดรถที่ไหน
+Where is the bank?	ธนาคารอยู่ที่ไหน?
+Where shall we go?	เราควรไปที่ไหน?
+Where's my father?	พ่อของฉันอยู่ที่ไหน?
+Where's your home?	บ้านคุณอยู่ไหน
+Who told you that?	ใครบอกสิ่งนั้นแก่คุณ?
+Why are you angry?	ทำไมคุณถึงโกรธ?
+Why is snow white?	ทำไมหิมะมีสีขาว
+You are in my way.	เธอขวางทางฉันอยู่
+You can trust him.	คุณสามารถเชื่อเขาได้
+You could help me.	คุณสามารถช่วยฉัน
+You could help us.	คุณสามารถช่วยเราได้
+You got here fast.	คุณมาถึงที่นี่อย่างรวดเร็ว
+You have no proof.	คุณไม่มีหลักฐาน
+You must be alert.	คุณต้องตื่นตัว
+You should try it.	คุณควรลองมัน
+You're a bookworm.	คุณคือหนอนหนังสือ
+You're not normal.	คุณไม่ปกติ
+Your seat is here.	ที่นั่งของคุณอยู่ที่นี่
+Bananas are yellow.	กล้วยมีสีเหลือง
+Can I use your pen?	ฉันขอใช้ปากกาของคุณได้ไหม?
+Can you come early?	คุณมาเร็วหน่อยได้ไหม
+Check your pockets.	ตรวจสอบกระเป๋าของคุณ
+Do you like apples?	คุณชอบแอปเปิลไหม?
+Do you remember me?	คุณจำได้ไหม?
+Does Tom like Mary?	ทอมชอบแมรี่ไหม?
+Does Tom live here?	ทอมอาศัยอยู่ที่นี่ไหม?
+Does your dog bite?	สุนัขของคุณกัดหรือไม่?
+Don't eat too much.	อย่ากินมากเกินไป
+Everyone liked him.	ใครๆ ก็ชอบเขา
+Everything is over.	ทุกสิ่งทุกอย่างจบแล้ว
+Everything matters.	ทุกสิ่งทุกอย่างมีความสำคัญ
+Forget I said that.	ลืมไปเลยว่าฉันพูดมัน
+Give me your phone.	เอาโทรศัพท์คุณให้ฉัน
+Have we met before?	เราเคยพบกันมาก่อนไหม?
+He doesn't like us.	เขาไม่ชอบเรา
+He learned to swim.	เขาเรียนว่ายน้ำ
+Here is my bicycle.	นี่คือจักรยานของฉัน
+Hi, my name is Tom.	สวัสดีฉันชื่อทอม
+How do you know me?	คุณรู้จักผมได้ยังไง
+How does Tom do it?	ทอมทำได้อย่างไร
+How is your mother?	แม่คุณสบายดีมั้ย?
+I already saw this.	ผมเห็นนี่แล้ว
+I already told you.	ผมบอกคุณแล้ว
+I also like apples.	ฉันชอบแอปเปิ้ลด้วยเช่นกัน
+I believe I'll win.	ผมเชื่อว่าผมจะชนะ
+I came to warn you.	ผมมาเพื่อเตือนคุณ
+I can ride a horse.	ฉันขี่ม้าได้
+I can't follow you.	ฉันไม่สามารถติดตามคุณได้
+I didn't know that.	ฉันไม่รู้สิ่งนั้น
+I didn't notice it.	ผมไม่ได้สังเกตมัน
+I don't believe it!	ฉันไม่เชื่อมัน!
+I don't need a gun.	ฉันไม่ต้องการปืน
+I don't want sugar.	ฉันไม่ต้องการน้ำตาล
+I don't want to go.	ฉันไม่ต้องการไป
+I feel like crying.	ฉันรู้สึกอยากร้องไห้
+I had to walk home.	ฉันต้องเดินกลับบ้าน
+I have a white cat.	ฉันมีแมวสีขาว
+I have to know why.	ฉันต้องรู้ว่าทำไม
+I have what I need.	ฉันมีสิ่งที่ฉันต้องการ
+I hope you like it.	ฉันหวังว่าคุณจะชอบมัน
+I knew how to swim.	ฉันรู้วิธีว่ายน้ำ
+I know my daughter.	ฉันรู้จักลูกสาวของฉัน
+I know who you are.	ฉันรู้ว่าคุณเป็นใคร
+I know you love me.	ฉันรู้ว่าคุณรักฉัน
+I know you're near.	ผมรู้ว่าคุณอยู่ใกล้
+I know your secret.	ฉันรู้ความลับของคุณ
+I like mathematics.	ฉันชอบคณิตศาสตร์
+I like that answer.	ผมชอบคำตอบนั้น
+I looked around me.	ฉันมองไปรอบ ๆ
+I lost my umbrella.	ฉันทำร่มหาย
+I really like them.	ผมชอบพวกเขาจริงๆ
+I tried everything.	ผมพยายามทุกอย่างแล้ว
+I trust the police.	ผมเชื่อใจตำรวจ
+I want to kiss Tom.	ฉันต้องการจูบทอม
+I want to kiss Tom.	ฉันอยากจูบทอม
+I was at home then.	ฉันอยู่ที่บ้านตอนนั้น
+I was having lunch.	ฉันกำลังทานอาหารกลางวัน
+I was having lunch.	ฉันกำลังกินอาหารกลางวัน
+I was the only man.	ฉันเป็นผู้ชายคนเดียว
+I watch television.	ฉันดูโทรทัศน์
+I worked in Boston.	ฉันทำงานในบอสตัน
+I'd like to try it.	ฉันอยากลองมันดู
+I'll be right back.	เดี๋ยวฉันจะกลับมา
+I'll explain later.	เดี๋ยวฉันอธิบายทีหลัง
+I'll vouch for you.	ฉันจะรับรองให้สำหรับคุณ
+I'm a little tired.	ฉันเหนื่อยนิดหน่อย
+I'm at the airport.	ฉันอยู่ที่สนามบิน
+I'm good at tennis.	ฉันเก่งเทนนิส
+I'm twice your age.	ฉันมีอายุสองเท่าของคุณ
+I've already tried.	ผมพยายามแล้ว
+I've got to see it.	เราต้องได้เห็นมัน
+I've never met him.	ฉันไม่เคยพบเขา
+Is Tom a Christian?	ทอมเป็นชาวคริสต์หรือไม่?
+Is Tom from Boston?	ทอมมาจากบอสตันเหรอ?
+Is Tom still awake?	ทอมยังตื่นอยู่ไหม?
+It helped me a lot.	มันช่วยฉันได้มาก
+It helped me a lot.	มันช่วยฉันอย่างมาก
+It is Monday today.	วันนี้เป็นวันจันทร์
+It is a long story.	มันเป็นเรื่องยาว
+It isn't important.	มันไม่สำคัญ
+It must be a virus.	มันต้องเป็นไวรัส
+It'll be dark soon.	อีกไม่นานก็จะมืดแล้ว
+It's a Cuban cigar.	มันคือซิการ์คิวบา
+It's not a problem.	มันไม่ใช่ปัญหา
+It's raining again.	ฝนตกอีกแล้ว
+Leaves are falling.	ใบไม้กำลังร่วงหล่น
+Let's meet tonight.	คืนนี้พบกันครับ
+Look who's talking.	ดูว่าใครกำลังพูดอยู่
+My arm still aches.	แขนผมยังปวด
+My father was busy.	พ่อของฉันไม่ว่าง
+My father was busy.	พ่อของฉันยุ่ง
+My legs still hurt.	ขาของฉันยังเจ็บอยู่
+My wife is cooking.	ภรรยาของฉันกำลังทำอาหาร
+No one can stop me.	ไม่มีใครหยุดผมได้
+No one is laughing.	ไม่มีใครหัวเราะ
+Nobody understands.	ไม่มีใครเข้าใจ
+Please take a bath.	กรุณาอาบน้ำ
+Please take a bath.	โปรดอาบน้ำ
+Please take a seat.	กรุณานั่ง
+She bought chicken.	เธอซื้อไก่
+She has no manners.	เธอไม่มีมารยาท
+She lives with him.	เธออาศัยอยู่กับเขา
+She picked flowers.	เธอหยิบดอกไม้
+Something happened.	เกิดอะไรบางอย่างขึ้น
+Something is wrong.	บางสิ่งบางอย่างไม่ถูกต้อง
+Take off your coat.	ถอดเสื้อของคุณ
+That book is small.	หนังสือเล่มนั้นเล็ก
+That river is long.	แม่น้ำสายนั้นยาว
+That's too complex.	สิ่งนั้นมันซับซ้อนเกินไป
+The crow flew away.	กาบินหนีไป
+The doors are open.	ประตูเปิด
+The knife is dirty.	มีดสกปรก
+The tree fell down.	ต้นไม้ล้มลง
+The water was cold.	น้ำเย็น
+This book is small.	หนังสือเล่มนี้มีขนาดเล็ก
+This is way better.	แบบนี้ดีกว่ามาก
+This isn't natural.	นี่ไม่ใช่เรื่องธรรมชาติ
+Tom almost laughed.	ทอมเกือบหัวเราะ
+Tom cooks with gas.	ทอมทำอาหารด้วยแก๊ส
+Tom has been upset.	ทอมอารมณ์เสีย
+Tom has three cars.	ทอมมีรถสามคัน
+Tom is Mary's boss.	ทอมเป็นหัวหน้าของแมรี่
+Tom is Mary's boss.	ทอมเป็นบอสของแมรี่
+Tom is a celebrity.	ทอมเป็นคนดัง
+Tom likes it there.	ทอมชอบมันที่นั่น
+Tom looks like you.	ทอมดูเหมือนคุณ
+Tom started crying.	ทอมเริ่มร้องไห้
+Tom teaches French.	ทอมสอนภาษาฝรั่งเศส
+Tom will need help.	ทอมจะต้องการความช่วยเหลือ
+Tom's disappointed.	ทอมผิดหวัง
+Tom, where are you?	ทอม คุณอยู่ไหน?
+We adopted a child.	เรารับลูกบุญธรรม
+We didn't build it.	เราไม่ได้สร้างมันขึ้นมา
+We know everything.	พวกเรารู้ทุกอย่าง
+We ran out of food.	เราหมดอาหาร
+We were happy then.	ตอนนั้นเรามีความสุข
+We were very tired.	พวกเราเหนื่อยมาก
+We won the contest.	เราชนะการแข่งขัน
+We'll have a party.	เราจะมีงานเลี้ยง
+Were you born here?	คุณเกิดที่นี่ไหม?
+What a small world!	โลกใบนี้ช่างเล็กเหลือเกิน!
+What did you drink?	คุณดื่มอะไร?
+What does she have?	เธอมีอะไร?
+What're you saying?	คุณพูดว่าอะไร?
+When does it begin?	มันเริ่มเมื่อไหร่?
+When will this end?	เรื่องนี้จะจบเมื่อไหร่
+Where are my shoes?	รองเท้าฉันอยู่ไหน?
+Where are you from?	คุณมาจากไหน?
+Where did you work?	คุณทำงานที่ไหน?
+Where does it hurt?	มันเจ็บที่ไหน?
+Where is it hidden?	มันซ่อนอยู่ที่ไหน?
+Where's the butter?	เนยอยู่ที่ไหน?
+Who are those guys?	คนพวกนั้นคือใคร?
+Who made this cake?	ใครทำเค้กนี้?
+Whose beer is this?	เบียร์นี้ของใคร?
+Whose book is this?	หนังสือนี่ของใคร?
+Why are you crying?	คุณร้องไห้ทำไม?
+Why can't you come?	ทำไมคุณมาไม่ได้?
+Why were you there?	ทำไมคุณถึงอยู่ที่นั่น?
+Will it hurt a lot?	มันจะเจ็บมากไหม?
+You are very brave.	คุณกล้าหาญมาก
+You could be wrong.	คุณอาจคิดผิด
+You got very drunk.	คุณเมามาก
+You have cute eyes.	คุณมีดวงตาที่น่ารัก
+You know it's true.	คุณรู้ว่ามันเป็นเรื่องจริง
+You look very pale.	คุณดูซีดมาก
+You may use my car.	คุณอาจใช้รถของฉันได้
+You may use my car.	คุณใช้รถของฉันได้
+You might meet him.	คุณอาจพบเขา
+You must be joking!	คุณต้องล้อเล่นแน่ๆเลย
+You need to go now.	คุณต้องไปเดี๋ยวนี้
+You're a good wife.	คุณเป็นภรรยาที่ดี
+You're still young.	คุณยังเด็กอยู่
+A truck hit the dog.	รถบรรทุกชนสุนัข
+Answer the question.	ตอบคำถาม
+Are there survivors?	มีผู้รอดชีวิตไหม
+Are you on Facebook?	คุณใช้ Facebook หรือเปล่า
+Bring me my glasses.	เอาแว่นฉันมาให้ฉัน
+But I don't want to.	แต่ฉันไม่อยาก
+Can he speak French?	เขาพูดภาษาฝรั่งเศสได้ไหม?
+Could it be a virus?	มันอาจเป็นไวรัสไหม?
+Do you go to school?	คุณไปโรงเรียนไหม?
+Do you have to cook?	คุณต้องทำอาหารไหม
+Do you keep a diary?	คุณเขียนไดอารี่ตลอดไหม?
+Do you like dancing?	คุณชอบเต้นไหม?
+Do you like singing?	คุณชอบร้องเพลงไหม?
+Does your head hurt?	หัวของคุณเจ็บไหม?
+Don't go down there.	อย่าลงไปข้างล่างนะ
+Don't go in my room.	อย่าเข้าไปในห้องของฉัน
+Don't lose patience.	อย่าหมดความอดทน
+Don't you miss that?	คุณพลาดนั่นไม่ใช่หรือ?
+Elephants eat grass.	ช้างกินหญ้า
+Enjoy your holidays.	สนุกกับวันหยุดของคุณ
+Everything is cheap.	ทุกอย่างราคาถูก
+Everything is ready.	ทุกอย่างพร้อมแล้ว
+Go jump in the lake.	ไปกระโดดในทะเลสาบ
+Has he returned yet?	เขากลับมาแล้วหรือยัง?
+He accepted my idea.	เขายอมรับความคิดของฉัน
+He is a rude person.	เขาเป็นคนที่หยาบคาย
+He is overconfident.	เขามีความมั่นใจมากเกินไป
+He is very busy now.	ตอนนี้เขายุ่งมาก
+He wrote the report.	เขาเขียนรายงาน
+How are you feeling?	คุณรู้สึกอย่างไร?
+How did you find us?	คุณเจอพวกเราได้อย่างไร
+How did you find us?	คุณพบพวกเราได้อย่างไร
+How old is your son?	ลูกคุณอายุเท่าไหร่?
+I admire his talent.	ฉันชื่นชมความสามารถของเขา
+I almost got killed.	ผมเกือบถูกฆ่า
+I already bought it.	ฉันซื้อมันไปแล้ว
+I arrived yesterday.	ฉันมาถึงเมื่อวานนี้
+I can't believe you.	ฉันเชื่อคุณไม่ได้
+I can't draw a bird.	ฉันวาดนกไม่ได้
+I can't tell anyone.	ผมบอกใครไม่ได้
+I didn't bring them.	ผมไม่ได้พาพวกเขามา
+I disagree with Tom.	ผมไม่เห็นด้วยกับทอม
+I disagree with you.	ฉันไม่เห็นด้วยกับคุณ
+I don't believe you.	ฉันไม่เชื่อคุณ
+I don't like school.	ฉันไม่ชอบโรงเรียน
+I don't want to eat.	ฉันไม่อยากกิน
+I finally got a job.	ในที่สุดฉันก็มีงานทำ
+I grew up in Boston.	ฉันเติบโตขึ้นมาในบอสตัน
+I have a high fever.	ฉันมีไข้สูง
+I have to go to bed.	ฉันต้องไปนอนแล้ว
+I hear with my ears.	ฉันได้ยินด้วยหูของฉัน
+I hope Tom is right.	ฉันหวังว่าทอมถูกต้อง
+I just want to know.	ฉันแค่อยากรู้
+I know this is hard.	ฉันรู้ว่านี่เป็นเรื่องยาก
+I know where she is.	ฉันรู้ว่าเธออยู่ที่ไหน
+I like Boston a lot.	ฉันชอบบอสตันมาก
+I like your article.	ฉันชอบบทความของคุณ
+I love this company.	ฉันรักบริษัทนี้
+I make €100 a day.	ฉันได้เงินวันละ 100 ยูโร
+I remember this map.	ผมจำแผนที่นี้ได้
+I saw you yesterday.	ฉันเห็นคุณเมื่อวานนี้
+I talked to friends.	ฉันคุยกับเพื่อน
+I think it's unfair.	ผมคิดว่ามันไม่ยุติธรรม
+I took a wrong turn.	ผมเลี้ยวผิด
+I want a cup of tea.	ฉันต้องการชาถ้วยนึง
+I want to come home.	ผมอยากกลับบ้าน
+I will be back soon.	ฉันจะกลับมาเร็วๆ นี้
+I will be back soon.	เดี๋ยวฉันจะกลับมาเร็วๆนี้
+I will try it again.	ฉันจะลองมันอีกครั้ง
+I work in a factory.	ฉันทำงานในโรงงาน
+I'll call you later.	ผมจะโทรหาคุณทีหลัง
+I'll read it to you.	ผมจะอ่านให้คุณฟัง
+I'm a tennis player.	ฉันเป็นนักเทนนิส
+I'm not a celebrity.	ฉันไม่ใช่คนดัง
+I'm not busy either.	ฉันก็ไม่ยุ่งเหมือนกัน
+I'm not coming home.	ผมจะไม่กลับบ้าน
+I'm not complaining.	ฉันไม่ได้บ่น
+I'm not in the mood.	ฉันไม่มีอารมณ์
+I'm very hungry now.	ฉันหิวมากตอนนี้
+I've got a headache.	หัวฉันปวด
+I've got a headache.	ฉันปวดหัว
+I've lost my wallet.	ฉันทำกระเป๋าเงินของฉันหาย
+Is it far from here?	มันไกลจากที่นี่ไหม?
+Isn't anybody there?	ไม่มีใครอยู่ที่นั่นเหรอ
+It isn't about that.	มันไม่ใช่อย่างนั้น
+It was a bad choice.	มันเป็นทางเลือกที่ไม่ดี
+It wasn't difficult.	มันไม่ยากหรอก
+It's time to get up.	ได้เวลาตื่นนอนแล้ว
+It's worse that way.	มันแย่กว่านั้นอีก
+Let's try something.	ลองทำดู!
+Let's try something.	มาลองบางอย่างกันเถอะ
+Let's try something.	ลองทำอะไรสักอย่างกัน
+Look at the picture.	ดูที่รูปภาพ
+More coffee, please.	ขอกาแฟเพิ่มได้ไหม
+My hair is too long.	ผมของฉันยาวเกินไป
+Nobody would see us.	จะไม่มีใครเห็นเรา
+See you in two days.	เจอกันใหม่อีกสองวัน
+She gave up smoking.	เธอเลิกสูบบุหรี่
+She stopped talking.	เธอหยุดพูด
+Take off your shoes.	ถอดรองเท้าของคุณ
+Thailand is in Asia.	ประเทศไทยอยู่ในทวีปเอเชีย
+That boy is running.	เด็กชายคนนั้นกำลังวิ่ง
+That was my mistake.	นั่นคือความผิดพลาดของฉัน
+That's not my fault.	นั่นไม่ใช่ความผิดของฉัน
+That's why I'm here.	นั่นเป็นเหตุผลที่ฉันมาที่นี่
+The apples are ripe.	แอปเปิ้ลสุก
+The boy got scolded.	เด็กชายโดนดุ
+The law was changed.	กฎมีการเปลี่ยนแปลง
+The server was down.	เซิร์ฟเวอร์หยุดทำงาน
+They ruined my life.	พวกเขาทำลายชีวิตของฉัน
+They're like family.	พวกเขาเหมือนครอบครัว
+They're our friends.	พวกเขาเป็นเพื่อนเรา
+They're still alive.	พวกเขายังมีชีวิตอยู่
+This beef is tender.	เนื้อนี่ละมุน
+This desk is broken.	โต๊ะนี้พัง
+This desk is broken.	โต๊ะนี้หัก
+This is an old book.	นี่เป็นหนังสือเก่า
+This is their house.	นี่คือบ้านของพวกเขา
+This paper is rough.	กระดาษนี้หยาบ
+Those are my things.	พวกนั้นคือของของฉัน
+Three weeks went by.	สามสัปดาห์ผ่านไป
+Time is running out.	เวลากำลังจะหมด
+Tom bites his nails.	ทอมกัดเล็บของเขา
+Tom brought flowers.	ทอมนำดอกไม้มา
+Tom cried all night.	ทอมร้องไห้ทั้งคืน
+Tom cut Mary's hair.	ทอมตัดผมของแมรี่
+Tom didn't say that.	ทอมไม่ได้พูดอย่างนั้น
+Tom has a black eye.	ทอมมีตาสีดำ
+Tom helped a little.	ทอมช่วยเล็กน้อย
+Tom is a vegetarian.	ทอมเป็นมังสวิรัติ
+Tom is always happy.	ทอมมีความสุขเสมอ
+Tom is buying bread.	ทอมซื้อขนมปังอยู่
+Tom is going to win.	ทอมกำลังจะชนะ
+Tom isn't ready yet.	ทอมยังไม่พร้อม
+Tom left in a hurry.	ทอมไปอย่างเร่งรีบ
+Tom lives near here.	ทอมอาศัยอยู่ใกล้ที่นี่
+Tom might know Mary.	ทอมอาจจะรู้จักแมรี่
+Tom never wears red.	ทอมไม่เคยใส่สีแดง
+Tom opened a window.	ทอมเปิดหน้าต่าง
+Tom questioned Mary.	ทอมถามแมรี่
+Tom refuses to talk.	ทอมปฏิเสธที่จะพูด
+Tom shouted at Mary.	ทอมตะโกนใส่แมรี่
+Tom started dancing.	ทอมเริ่มเต้น
+We are good friends.	พวกเราเป็นเพื่อนที่ดี
+We didn't expect it.	เราไม่ได้คาดหวังมัน
+We dislike violence.	เราไม่ชอบความรุนแรง
+We grew up together.	เราโตมาด้วยกัน
+We need to help Tom.	เราต้องช่วยทอม
+We should celebrate.	พวกเราควรฉลองกัน
+We traveled on foot.	เราเดินทางด้วยการเดินเท้า
+We're eating apples.	เรากำลังกินแอปเปิ้ล
+We're not in danger.	เราไม่ตกอยู่ในอันตราย
+We've done our duty.	เราได้ทำหน้าที่ของเรา
+What does that mean?	หมายความว่าอะไร
+What'll you give me?	คุณจะให้อะไรผม
+What's it made from?	มันทำมาจากอะไร?
+What's this key for?	กุญแจนี้มีไว้ทำอะไร?
+When did you get up?	คุณตื่นนอนเมื่อไหร่?
+When will you leave?	คุณจะไปเมื่อไหร่?
+Where are you going?	คุณกำลังจะไปไหน?
+Where is the toilet?	ห้องน้ำอยู่ที่ไหน?
+Where were you born?	คุณเกิดที่ไหน?
+Where's Tom's watch?	นาฬิกาของทอมอยู่ที่ไหน?
+Which book is yours?	หนังสือเล่มไหนของคุณ?
+Who do you work for?	คุณทำงานให้กับใคร?
+Who is your teacher?	ครูของคุณคือใคร?
+Who stole the apple?	ใครขโมยแอปเปิ้ล?
+Why am I doing this?	ทำไมฉันถึงทำอย่างนี้ ?
+Why are you running?	ทำไมคุณวิ่ง?
+Why can't I do that?	ทําไมฉันถึงทําอย่างนั้นไม่ได้
+Why can't you do it?	ทำไมคุณถึงทำไม่ได้
+Why didn't you come?	ทำไมคุณถถึงไม่มา?
+Will you go with us?	คุณจะไปกับเราไหม?
+Would Tom like that?	ทอมจะชอบสิ่งนั้นไหม?
+You can rely on him.	คุณสามารถพึ่งพาเขาได้
+You look like a cop.	คุณดูเหมือนตำรวจ
+You look very tired.	คุณดูเหนื่อยมาก
+You speak very fast.	คุณพูดเร็วมาก
+You're wasting time.	คุณกำลังเสียเวลา
+You're way too late.	คุณสายเกินไป
+Your father is tall.	พ่อของคุณสูง
+Your memory is good.	ความจำของคุณดี
+America is beautiful.	อเมริกานั้นสวยงาม
+Apples grow on trees.	แอปเปิ้ลเติบโตบนต้นไม้
+Are these yours, Tom?	พวกนี้เป็นของคุณไหมทอม?
+Are you Tom's mother?	คุณเป็นแม่ของทอมหรือเปล่า?
+Are you working hard?	คุณทำงานหนักไหม
+Are your hands clean?	มือของคุณสะอาดหรือยัง?
+Can Tom speak French?	ทอมพูดภาษาฝรั่งเศสได้ไหม?
+Can you speak French?	คุณพูดภาษาฝรั่งเศสได้ไหม?
+Could we have a fork?	เราขอส้อมได้ไหม?
+Did I miss something?	ฉันพลาดอะไรไปรึเปล่า?
+Did you do your best?	คุณทำดีที่สุดแล้วหรือยัง
+Do whatever you like.	ทำในสิ่งใดก็ได้ที่คุณชอบ
+Do you get up at six?	คุณตื่นหกโมงไหม?
+Do you have a pencil?	คุณมีดินสอไหม?
+Do you have any cash?	คุณมีเงินสดไหม?
+Do you have any pets?	คุณมีสัตว์เลี้ยงไหม?
+Do you speak English?	คุณพูดภาษาอังกฤษได้ไหม?
+Do you understand me?	คุณเข้าใจฉันไหม?
+Do you want to dance?	คุณอยากเต้นไหม?
+Does Tom like Boston?	ทอมชอบบอสตันไหม?
+Don't open your book.	อย่าเปิดหนังสือของคุณ
+Don't worry about it!	อย่ากังวลกับมันเลย!
+Everyone has secrets.	ทุกคนมีความลับ
+Fish live in the sea.	ปลาอาศัยอยู่ในทะเล
+Flowers attract bees.	ดอกไม้ดึงดูดผึ้ง
+Give me a day or two.	ให้เวลาฉันสักวันสองวัน
+Give me three months.	ให้เวลาฉันสามเดือน
+Go back to your seat.	กลับไปที่นั่งของคุณ
+He arrived too early.	เขามาถึงเร็วเกินไป
+He built a new house.	เขาสร้างบ้านใหม่
+He crossed the river.	เขาข้ามแม่น้ำ
+He is afraid to swim.	เขากลัวที่จะว่ายน้ำ
+He is reading a book.	เขากำลังอ่านหนังสือ
+He lent me two books.	เขาให้ฉันยืมหนังสือสองเล่ม
+He likes watching TV.	เขาชอบดูทีวี
+He lost his eyesight.	เขาสูญเสียการมองเห็น
+How big is this park?	สวนสาธารณะนี้ใหญ่ขนาดไหน?
+How deep is the lake?	ทะเลสาบมีความลึกแค่ไหน?
+How far can you swim?	คุณว่ายน้ำได้ไกลแค่ไหน
+I always feel hungry.	ฉันรู้สึกหิวเสมอ
+I am eating an apple.	ฉันกินแอปเปิ้ล
+I am terribly hungry.	ฉันหิวมาก
+I bought her a clock.	ฉันซื้อนาฬิกาให้เธอ
+I can hear something.	ฉันได้ยินอะไรบางอย่าง
+I can see the target.	ฉันเห็นเป้าหมายแล้ว
+I can't sleep at all!	ผมนอนไม่หลับเลย
+I could make changes.	ผมสามารถทำการเปลี่ยนแปลงได้
+I don't go to school.	ฉันไม่ไปโรงเรียน
+I fell off the chair.	ผมตกจากเก้าอี้
+I forgot his address.	ฉันลืมที่อยู่ของเขา
+I go there every day.	ผมไปที่นั่นทุกวัน
+I have a few friends.	ฉันมีเพื่อนไม่กี่คน
+I have a stomachache.	ฉันปวดท้อง
+I have gained weight.	ฉันน้ำหนักขึ้น
+I have three cameras.	ฉันมีกล้องสามตัว
+I knew this was real.	ผมรู้ว่านี่คือเรื่องจริง
+I know her very well.	ฉันรู้จักเธอเป็นอย่างดี
+I know her very well.	ฉันรู้จักเธอดี
+I know it's not easy.	ฉันรู้ว่ามันไม่ง่าย
+I know it's not hard.	ฉันรู้ว่ามันไม่ยาก
+I live a simple life.	ฉันใช้ชีวิตเรียบง่าย
+I love French movies.	ฉันรักภาพยนตร์ฝรั่งเศส
+I met Tom on the way.	ฉันพบทอมระหว่างทาง
+I need to study math.	ฉันต้องเรียนคณิตศาสตร์
+I paid $200 in taxes.	ฉันจ่ายภาษีไป 200 ดอล
+I think I understand.	ฉันคิดว่าฉันเข้าใจ
+I think you're right.	ฉันคิดว่าคุณพูดถูก
+I'm depending on you.	ฉันขึ้นอยู่กับคุณ
+I'm glad you're home.	ผมดีใจที่คุณกลับบ้าน
+I'm going to be fine.	ฉันจะสบายดี
+I'm in love with you.	ฉันตกหลุมรักคุณแล้ว
+I'm looking for work.	ฉันกำลังมองหางาน
+I'm not at all tired.	ฉันไม่เหนื่อยทั้งหมดเลย
+I'm sorry I can't go.	ฉันขอโทษ ฉันไม่สามารถไปได้
+I'm thirty years old.	ฉันมีอายุสามสิบปี
+I'm writing a letter.	ฉันกำลังเขียนจดหมาย
+I'm your best friend.	ฉันเป็นเพื่อนสนิทของคุณ
+I've lost my glasses.	ฉันทำแว่นตาฉันหาย
+Is it open on Sunday?	มันเปิดวันอาทิตย์ไหม
+Is this pencil yours?	ดินสอนี้เป็นของคุณหรือ?
+Is this pencil yours?	ดินสอนี้เป็นของคุณใช่ไหม?
+Is this pencil yours?	ดินสอนี้ใช่ของคุณมั๊ย?
+It is in the kitchen.	มันอยู่ในห้องครัว
+It isn't hard for me.	มันไม่ยากสําหรับผม
+It may rain tomorrow.	พรุ่งนี้อาจจะมีฝน
+It may rain tomorrow.	ฝนอาจจะตกพรุ่งนี้
+It was hot yesterday.	เมื่อวานอากาศโคตรร้อนเลย
+It'll cost me my job.	มันจะทำให้ฉันเสียงาน
+It's not a classroom.	มันไม่ใช่ห้องเรียน
+It's not raining yet.	ฝนยังไม่ตก
+Just call the police.	แค่โทรหาตำรวจ
+Just close your eyes.	แค่หลับตาของคุณ
+Keep the door locked.	ล็อคประตูไว้
+Let me say one thing.	ให้ฉันพูดสิ่งนึง
+Let's sing and dance.	ร้องเพลงและเต้นรำกันเถอะ
+Lincoln died in 1865.	ลินคอล์นเสียชีวิตในปี 1865
+Many trees fell down.	ต้นไม้จำนวนมากล้มลง
+May I have a receipt?	ฉันขอใบเสร็จได้ไหม?
+Nobody spoke with me.	ไม่มีใครพูดกับฉัน
+Our fridge is broken.	ตู้เย็นของเราเสีย
+Rabbits love carrots.	กระต่ายรักแคร์รอต
+Shall we take a taxi?	เราจะนั่งแท็กซี่กันไหม?
+She can speak French.	เธอสามารถพูดภาษาฝรั่งเศสได้
+She sang pretty well.	เธอร้องเพลงได้ดี
+She's as busy as Tom.	เธอยุ่งเหมือนทอม
+Sorry for being late.	ขอโทษที่มาสาย
+Stop calling me that.	เลิกเรียกผมแบบนั้นได้แล้ว
+Sumatra is an island.	สุมาตราเป็นเกาะ
+Tell him who you are.	บอกเขาว่าคุณเป็นใคร
+Thanks for asking me.	ขอบคุณที่ถามผม
+That bicycle is mine.	จักรยานนั่นเป็นของฉัน
+That's disappointing.	นั่นน่าผิดหวัง
+That's what Tom said.	นั่นคือสิ่งที่ทอมพูด
+The beer's very cold.	เบียร์เย็นมาก
+The fan doesn't work.	พัดลมไม่ทำงาน
+The house is haunted.	บ้านถูกผีสิง
+The wind calmed down.	ลมสงบลง
+There is a gold coin.	มีเหรียญทอง
+There's no food left.	ไม่มีอาหารเหลือ
+They deserve respect.	พวกเขาสมควรได้รับความเคารพ
+They don't like cats.	พวกเขาไม่ชอบแมว
+They're not here yet.	พวกเขายังไม่มา
+They're not soldiers.	พวกเขาไม่ใช่ทหาร
+This bicycle is mine.	จักรยานนี้เป็นของฉัน
+This car is like new.	รถคันนี้เหมือนใหม่
+This is Tom's school.	นี่คือโรงเรียนของทอม
+This is all my fault.	ทั้งหมดเป็นความผิดของผม
+This is for you, Tom.	นี่เพื่อคุณ, ทอม
+This is really weird.	นี่มันแปลกจริง ๆ
+This tea smells good.	ชานี้มีกลิ่นดี
+This will cost €30.	ราคา 30 ยูโรค่ะ/ครับ
+Those apples are big.	แอปเปิ้ลเหล่านั้นมีขนาดใหญ่
+Tom checked the time.	ทอมดูเวลา
+Tom doesn't eat meat.	ทอมไม่กินเนื้อ
+Tom had many friends.	ทอมมีเพื่อนมากมาย
+Tom has a family now.	ทอมมีครอบครัวแล้ว
+Tom has a silk scarf.	ทอมมีผ้าพันคอไหม
+Tom hates raw onions.	ทอมเกลียดหัวหอมดิบ
+Tom is a wealthy man.	ทอมเป็นคนร่ำรวย
+Tom is almost asleep.	ทอมใกล้จะหลับแล้ว
+Tom is chopping wood.	ทอมกำลังตัดไม้
+Tom is now in prison.	ตอนนี้ทอมอยู่ในคุก
+Tom is ready to lead.	ทอมพร้อมที่จะเป็นผู้นำ
+Tom is still puzzled.	ทอมยังงงอยู่
+Tom is very handsome.	ทอมหล่อมาก
+Tom likes to do that.	ทอมชอบทำอย่างนั้น
+Tom should talk less.	ทอมควรพูดให้น้อยลง
+Tom tends to be late.	ทอมมักจะมาสาย
+Tom understands Mary.	ทอมเข้าใจแมรี่
+Tom wants to do that.	ทอมต้องการทำเช่นนั้น
+Tom was a good boxer.	ทอมเป็นนักมวยที่ดี
+Tom works for a bank.	ทอมทำงานให้ธนาคาร
+Tom's making his bed.	ทอมจัดเตียงของเขา
+Tom's room is locked.	ห้องของทอมล็อกอยู่
+Water reflects light.	น้ำสะท้อนแสง
+We need to chat soon.	เราต้องคุยกันเร็วๆนี้
+We sang while hiking.	เราร้องเพลงขณะเดินป่า
+We're ready to leave.	เราพร้อมที่จะออกแล้ว
+What do you men want?	ผู้ชายคุณต้องการอะไร
+What's my punishment?	อะไรคือบทลงโทษของฉัน?
+Where are my glasses?	แว่นตาของฉันอยู่ที่ไหน?
+Where is the library?	ห้องสมุดอยู่ที่ไหน?
+Where is your father?	พ่อของคุณอยู่ที่ไหน?
+Where is your school?	โรงเรียนของคุณอยู่ที่ไหน?
+Which ones are Tom's?	อันไหนคือของทอม
+Why are you so happy?	ทำไมคุณมีความสุขมาก?
+Why doesn't Tom talk?	ทำไมทอมไม่พูด?
+Why don't you listen?	ทำไมคุณถึงไม่ฟัง?
+Would you like to go?	คุณอยากจะไปไหม?
+You aren't my mother.	คุณไม่ใช่แม่ของฉัน
+You may use this car.	คุณอาจใช้รถคันนี้
+You should head west.	คุณควรมุ่งไปทางทิศตะวันตก
+You should let it go.	คุณควรปล่อยมันไป
+You're a good mother.	คุณเป็นแม่ที่ดี
+You've got to fix it.	คุณต้องแก้ไขมัน
+Your answer is wrong.	คำตอบของคุณผิด
+Your parents hate me.	พ่อแม่เธอไม่ชอบฉัน
+Above all, be patient.	เหนือสิ่งอื่นใด มีความอดทน
+All my books are gone.	หนังสือทั้งหมดของผมหายไป
+Am I talking too much?	ผมพูดมากเกินไปไหม
+Any child can do that.	เด็กทุกคนสามารถทำได้
+Are you afraid of Tom?	คุณกลัวทอมไหม?
+Are you getting tired?	คุณเหนื่อยไหม?
+Are you talking to me?	คุณกำลังพูดกับฉันหรือเปล่า?
+Can I open the window?	ฉันเปิดหน้าต่างได้ไหม?
+Can you keep a secret?	คุณเก็บไว้เป็นความลับได้ไหม?
+Children love to sing.	เด็กๆชอบร้องเพลง
+Did Tom pass the exam?	ทอมสอบผ่านไหม
+Did you buy Tom a dog?	คุณซื้อสุนัขให้ทอมหรือไม่
+Do you enjoy studying?	เธอสนุกกับการเรียนมั้ย?
+Do you have a lighter?	คุณมีไฟแช็คไหม?
+Do you know your size?	คุณรู้ขนาดของคุณไหม?
+Do you like this city?	คุณชอบเมืองนี้ไหม
+Do you want to go out?	คุณอยากไปข้างนอกไหม
+Does Tom travel a lot?	ทอมเดินทางบ่อยไหม
+Does he speak English?	เขาพูดภาษาอังกฤษได้ไหม?
+Does she have a piano?	เธอมีเปียโนไหม?
+Does she like oranges?	เธอชอบส้มหรือไม่?
+Everyone is different.	เราทุกคนต่างกัน
+Everyone must do this.	ทุกคนต้องทำอย่างนี้
+Everything is working.	ทุกอย่างทำงานได้
+Get back in the house.	กลับเข้าบ้านกันเถอะ
+Give us three minutes.	ให้เวลาเราสามนาที
+Have they arrived yet?	พวกเขามาถึงหรือยัง?
+He broke his left arm.	เขาหักแขนซ้ายของเขา
+He has a lot of money.	เขามีเงินจำนวนมาก
+He hasn't arrived yet.	เขายังมาไม่ถึง
+He is good at singing.	เขาร้องเพลงเก่ง
+He is wearing glasses.	เขากำลังใส่แว่นตา
+He sat reading a book.	เขานั่งอ่านหนังสือ
+He shouted, "Get out!"	เขาตะโกน "ออกไป!"
+He teaches us English.	เขาภาษาอังกฤษให้พวกเรา
+He's not always happy.	เขาไม่ได้มีความสุขเสมอ
+He's shorter than Tom.	เขาเตี้ยกว่าทอม
+How did you cook this?	คุณทำอาหารนี้ได้อย่างไร
+How long did you stay?	คุณอยู่นานแค่ไหน?
+How long does it take?	มันจะใช้เวลานานแค่ไหน?
+I bet you know French.	ฉันพนันว่าคุณรู้ภาษาฝรั่งเศส
+I bought it last week.	ฉันซื้อมันเมื่อสัปดาห์ที่แล้ว
+I can't sell you that.	ผมไม่สามารถขายสิ่งนั้นให้คุณได้
+I dislike being alone.	ฉันไม่ชอบอยู่คนเดียว
+I don't have a sister.	ฉันไม่มีพี่สาวหรือน้องสาว
+I don't have time now.	ตอนนี้ฉันไม่มีเวลาแล้ว
+I don't know his name.	ฉันไม่รู้ชื่อของเขา
+I don't need your job.	ฉันไม่ต้องการงานของคุณ
+I don't work at night.	ผมไม่ได้ทำงานตอนกลางคืน
+I drank tea yesterday.	ฉันดื่มชาเมื่อวานนี้
+I fear we're too late.	ฉันกลัวว่าเราจะสายเกินไป
+I found out the truth.	ฉันพบความจริง
+I have nothing to say.	ฉันไม่มีอะไรที่จะพูด
+I have to go to sleep.	ฉันต้องไปนอนแล้ว
+I know it's difficult.	ผมรู้มันยาก
+I like dogs very much.	ฉันชอบสุนัขมาก
+I like helping people.	ผมชอบช่วยคน
+I like to buy clothes.	ฉันชอบซื้อเสื้อผ้า
+I love that tradition.	ผมชอบประเพณีนั้น
+I never liked biology.	ฉันไม่เคยชอบชีววิทยา
+I paid about 50 bucks.	ฉันจ่ายไปประมาณ 50 ดอลลาร์
+I said goodbye to Tom.	ฉันบอกลากับทอม
+I think we should run.	ผมคิดว่าเราควรวิ่ง
+I tried to find a job.	ผมพยายามหางาน
+I want to participate.	ฉันต้องการมีส่วนร่วม
+I want to say goodbye.	ฉันอยากจะบอกลา
+I want to wash my car.	ผมอยากล้างรถ
+I was happy yesterday.	เมื่อวานฉันมีความสุข
+I wonder what this is.	ผมสงสัยว่านี่คืออะไร
+I'd accept that offer.	ผมยอมรับข้อเสนอนั้น
+I'd like nothing more.	ผมไม่ต้องการอะไรอีกแล้ว
+I'd rather live alone.	ผมขออยู่คนเดียวดีกว่า
+I'm going to help you.	ผมจะไปช่วยคุณ
+I'm going to miss Tom.	ฉันจะคิดถึงทอม
+I'm going to the bank.	ฉันจะไปธนาคาร
+I'm leaving it to you.	ฉันจะทิ้งมันไว้กับคุณ
+I'm moving next month.	ผมจะย้ายในเดือนหน้า
+I'm not on Tom's team.	ฉันไม่ได้อยู่ในทีมของทอม
+I'm the one they want.	ฉันเป็นคนที่พวกเขาต้องการ
+I've helped Tom a lot.	ฉันช่วยทอมมามากแล้ว
+I've never shot a gun.	ผมไม่เคยยิงปืน
+Is that what Tom said?	นั่นคือสิ่งที่ทอมพูดหรือเปล่า?
+Is that what you said?	นั่นคือสิ่งที่คุณพูดหรือ?
+Is your watch correct?	นาฬิกาข้อมือของคุณถูกต้องหรือไม่
+It means a great deal.	มันมีความหมายมาก
+It's an imported item.	มันเป็นสินค้านำเข้า
+It's been a long week.	มันเป็นสัปดาห์ที่ยาวนาน
+It's driving me crazy.	มันทำให้ฉันบ้า
+It's probably a virus.	มันอาจเป็นไวรัส
+It's totally my fault.	มันเป็นความผิดของฉันทั้งหมด
+Keep in touch with me.	ติดต่อกับฉัน
+Lay down on the couch.	นอนลงบนโซฟา
+Let's play volleyball.	มาเล่นวอลเลย์บอลกัน
+Like father, like son.	เหมือนพ่อ เหมือนลูกชาย
+Mary is a girl's name.	แมรี่เป็นชื่อของเด็กผู้หญิง
+May I open the window?	ฉันขอเปิดหน้าต่างได้ไหม?
+May I sit next to you?	ฉันขอนั่งข้าง ๆ คุณได้ไหม
+My baggage is missing.	สัมภาระของฉันหายไป
+Please close the door.	กรุณาปิดประตู
+Please don't say that.	กรุณาอย่าพูดอย่างนั้น
+Please don't say that.	โปรดอย่าพูดอย่างนั้น
+Please don't touch me.	กรุณาอย่าแตะต้องฉัน
+Please think about it.	โปรดคิดเกี่ยวกับมัน
+Put it where you like.	วางไว้ในตำแหน่งที่คุณชอบ
+She agreed to my idea.	เธอเห็นด้วยกับความคิดของฉัน
+She refused his offer.	เธอปฏิเสธข้อเสนอของเขา
+She's smaller than me.	เธอตัวเล็กกว่าฉัน
+That isn't how I feel.	นั่นไม่ใช่สิ่งที่ผมรู้สึก
+That isn't quite true.	นั่นไม่จริงเลย
+That looks like blood.	นั่นดูเหมือนเลือด
+That works every time.	มันได้ผลทุกครั้ง
+That's all we ever do.	นั่นคือทั้งหมดที่เราทำ
+That's not my mistake.	นั่นไม่ใช่ความผิดผม
+The price is going up.	ราคากำลังขึ้น
+The streets are clean.	ถนนสะอาด
+The wind blew all day.	ลมพัดทั้งวัน
+They made me go there.	พวกเขาทำให้ฉันไปที่นั่น
+They should apologize.	พวกเขาควรขอโทษ
+This is not my ticket.	นี่ไม่ใช่ตั๋วของฉัน
+Tom appeared confused.	ทอมดูสับสน
+Tom bought some bread.	ทอมซื้อขนมปังมาพอประมาณ
+Tom fixed my computer.	ทอมซ่อมคอมพิวเตอร์ของฉัน
+Tom has three cameras.	ทอมมีกล้องสามตัว
+Tom is at the airport.	ทอมอยู่ที่สนามบิน
+Tom is in a book club.	ทอมเป็นสมาชิกของชมรมหนังสือ
+Tom is weak in French.	ทอมไม่เก่งภาษาฝรั่งเศส
+Tom likes being alone.	ทอมชอบอยู่คนเดียว
+Tom might have cancer.	ทอมอาจเป็นมะเร็ง
+Tom took all my money.	ทอมเอาเงินทั้งหมดของฉันไป
+Tom tore the paper up.	ทอมฉีกกระดาษ
+Tomorrow is Christmas.	พรุ่งนี้เป็นวันคริสต์มาส
+Wait here for a while.	รอที่นี่สักครู่
+We cut the pie in two.	เราตัดพายเป็นสองส่วน
+We'll catch up to you.	เราจะติดต่อกลับไปหาคุณ
+What were your duties?	หน้าที่ของคุณคืออะไร
+What's wrong with you?	เกิดอะไรขึ้นกับคุณ?
+Where is the bathroom?	ห้องน้ำอยู่ที่ไหน?
+Where is the elevator?	ลิฟต์อยู่ที่ไหน?
+Who is in charge here?	ใครเป็นผู้รับผิดชอบที่นี่?
+Who is this money for?	เงินนี่สำหรับใคร
+Whose side are you on?	คุณอยู่ฝ่ายใด?
+Why do you hate women?	ทำไมคุณถึงเกลียดผู้หญิง?
+Will it rain tomorrow?	ฝนจะตกไหมพรุ่งนี้
+You look pretty tired.	คุณดูเหนื่อยมาก
+You must come with me.	คุณต้องมากับฉัน
+You need to pay first.	คุณต้องจ่ายเงินก่อน
+You recovered quickly.	คุณหายเร็ว
+You're very beautiful.	คุณสวยมาก
+2539 is a prime number.	2539 เป็นจำนวนเฉพาะ
+All I have is one book.	ฉันมีแค่หนังสือเล่มเดียว
+Are you Tom's daughter?	คุณใช่ลูกสาวของทอมไหม?
+Better late than never.	มาสายดีกว่าไม่มา
+Call me when it's done.	โทรหาผมเมื่อเสร็จแล้ว
+Charity begins at home.	การกุศลเริ่มต้นที่บ้าน
+Could you walk the dog?	คุณช่วยพาสุนัขไปเดินเล่นได้ไหม
+Did you have breakfast?	คุณกินข้าวเช้าหรือยัง?
+Did you see him go out?	คุณเห็นเขาออกไปไหม?
+Do you dream in French?	คุณฝันในภาษาฝรั่งเศสไหม?
+Do you know the reason?	คุณรู้เหตุผลไหม?
+Do you know who she is?	คุณรู้ไหมว่าเธอเป็นใคร?
+Do you like this house?	คุณชอบบ้านหลังนี้ไหม
+Do you need more money?	คุณต้องการเงินเพิ่มไหม
+Do you see the raccoon?	คุณเห็นแรคคูนไหม
+Does that happen often?	มันเกิดขึ้นบ่อยไหม
+Every child knows this.	เด็กทุกคนรู้เรื่องนี้
+Everything's quiet now.	ตอนนี้ทุกอย่างเงียบสงบ
+French isn't difficult.	ภาษาฝรั่งเศสไม่ยาก
+Hasn't Tom arrived yet?	ทอมยังไม่มาอีกเหรอ
+Have you read this yet?	คุณอ่านนี่หรือยัง
+Have you seen the news?	คุณเห็นข่าวไหม
+He asked for my advice.	เขาขอคำแนะนำจากฉัน
+He attempted to escape.	เขาพยายามหลบหนี
+He did nothing but cry.	เขาไม่ทำอะไรนอกจากร้องไห้
+He died of lung cancer.	เขาเสียชีวิตด้วยโรคมะเร็งปอด
+He kept reading a book.	เขาอ่านหนังสือต่อไป
+He stayed at the hotel.	เขาพักที่โรงแรม
+He still wants to come.	เขายังคงต้องการที่จะมา
+He went to the dentist.	เขาไปหาหมอฟัน
+How wide is this river?	แม่น้ำสายนี้กว้างเท่าไหร่?
+I admit that I'm wrong.	ฉันยอมรับว่าฉันผิด
+I always keep promises.	ฉันรักษาสัญญาเสมอ
+I believe Tom is right.	ฉันเชื่อว่าทอมพูดถูก
+I bought her a new car.	ฉันซื้อรถใหม่ให้เธอ
+I can't find my wallet.	ผมหากระเป๋าตังค์ไม่เจอ
+I can't just stay here.	ผมอยู่ที่นี่ไม่ได้
+I could never fool you.	ผมไม่เคยหลอกคุณได้
+I couldn't stop crying.	ฉันหยุดร้องไห้ไม่ได้
+I don't agree with you.	ฉันไม่เห็นด้วยกับคุณ
+I don't have any money.	ฉันไม่มีเงินเลย
+I don't like it at all.	ฉันไม่ชอบมันเลย
+I don't like that name.	ฉันไม่ชอบชื่อนั้น
+I don't normally dance.	ปกติผมไม่เต้น
+I don't speak Japanese.	ฉันพูดภาษาญี่ปุ่นไม่ได้
+I don't understand you.	ฉันไม่เข้าใจคุณ
+I have many colleagues.	ผมมีเพื่อนร่วมงานหลายคน
+I have no alternatives.	ผมไม่มีทางเลือกอื่น
+I have to find the key.	ผมต้องหากุญแจ
+I haven't said yes yet.	ผมยังไม่ได้ตอบตกลง
+I just want to go home.	ฉันแค่อยากกลับบ้าน
+I like speaking French.	ฉันชอบพูดภาษาฝรั่งเศส
+I prefer rice to bread.	ผมชอบข้าวมากกว่าขนมปัง
+I saw Tom at the party.	ฉันเห็นทอมที่งานเลี้ยง
+I think you lied to me.	ฉันคิดว่าคุณโกหกฉัน
+I told him to be quiet.	ผมบอกให้เขาเงียบ
+I used to believe that.	ผมเคยเชื่ออย่างนั้น
+I want to do it myself.	ฉันต้องการทำมันเอง
+I was in the mountains.	ตอนนั้นฉันอยู่ในเขา
+I was three hours late.	ผมมาสายสามชั่วโมง
+I will gladly help you.	ฉันยินดีที่จะช่วยคุณ
+I will stay home today.	ฉันจะอยู่บ้านวันนี้
+I won't be coming back.	ผมจะไม่กลับมา
+I wonder what happened.	ฉันสงสัยว่าเกิดอะไรขึ้น
+I'd be glad to do that.	ผมยินดีที่จะทำอย่างนั้น
+I'll take them with me.	ผมจะพาพวกเขาไปกับผม
+I'll wash my car today.	ผมจะล้างรถวันนี้
+I'm a pretty lucky guy.	ผมเป็นคนที่โชคดีมาก
+I'm not going with you.	ฉันจะไม่ไปกับคุณ
+I'm not here every day.	ผมไม่ได้อยู่ที่นี่ทุกวัน
+I'm worried about them.	ฉันเป็นห่วงพวกเขา
+I've finished studying.	ผมเรียนจบแล้ว
+I've never been abroad.	ฉันไม่เคยไปต่างประเทศ
+I've said that already.	ผมเคยพูดไปแล้ว
+Is it a recent picture?	นี่เป็นภาพล่าสุดรึเปล่า?
+Isn't that what I said?	นั่นคือสิ่งที่ฉันพูดไม่ได้เหรอ?
+It doesn't look so bad.	มันดูไม่แย่เลย
+It doesn't surprise me.	มันไม่แปลกใจเลยสำหรับฉัน
+It isn't an easy sport.	มันไม่ใช่กีฬาที่ง่าย
+It just wasn't our day.	มันไม่ใช่วันของเรา
+It was in the basement.	มันอยู่ในห้องใต้ดิน
+It wasn't made of wood.	มันไม่ได้ทำจากไม้
+It's October the third.	วันนี้คือวันที่สามตุลาคม
+Just follow your heart.	เพียงทำตามหัวใจของคุณ
+Let me cut the carrots.	ฉันขอตัดแครอท
+Let's sit on the grass.	มานั่งบนพื้นหญ้ากันเถอะ
+Mind your own business!	ไปยุ่งกับเรื่องของตัวเองเถอะ
+My wife died of cancer.	ภรรญาของฉันตายจากโรคมะเร็ง
+No one sat in the back.	ไม่มีใครนั่งข้างหลัง
+Our plans have changed.	แผนของเราเปลี่ยนไปแล้ว
+Please show up on time.	กรุณามาตรงเวลา
+Please teach me French.	โปรดสอนภาษาฝรั่งเศสให้ฉัน
+Rabbits have long ears.	กระต่ายมีหูยาว
+She begged him to stay.	เธอขอร้องให้เขาอยู่
+She has a lot of money.	เธอมีเงินจำนวนมาก
+She writes beautifully.	เธอเขียนอย่างสวยงาม
+She's at the hotel now.	เธออยู่ที่โรงแรมแล้วตอนนี้
+She's at the hotel now.	ตอนนี้เธออยู่ที่โรงแรมแล้ว
+Somebody's watching us.	มีใครบางคนกำลังมองเรา
+That's of no use to me.	นั่นไม่มีประโยชน์สำหรับผม
+The key is on the desk.	กุญแจอยู่บนโต๊ะ
+The man died of cancer.	ชายคนนั้นเสียชีวิตด้วยโรคมะเร็ง
+The river has dried up.	แม่น้ำแห้งขอด
+The river is dangerous.	แม่น้ำอันตราย
+The street is deserted.	ถนนร้าง
+The train left on time.	รถไฟออกตรงเวลา
+These pearls look real.	ไข่มุกเหล่านี้ดูเหมือนจริง
+They agreed on a price.	พวกเขาตกลงราคา
+They can understand me.	พวกเขาเข้าใจฉัน
+They moved in recently.	พวกเขาพึ่งย้ายเข้ามา
+They wanted an apology.	พวกเขาต้องการคำขอโทษ
+They went to the beach.	พวกเขาไปที่ชายหาด
+This bowl is too small.	ชามนี้เล็กเกินไป
+This is a fun activity.	นี่เป็นกิจกรรมที่สนุก
+This is mine, isn't it?	นี่เป็นของฉันไม่ใช่เหรอ?
+This is our friend Tom.	นี่คือทอมเพื่อนของเรา
+Tom admitted he'd lied.	ทอมยอมรับว่าเขาโกหก
+Tom always exaggerates.	ทอมพูดเกินจริงเสมอ
+Tom couldn't find Mary.	ทอมหาแมรี่ไม่เจอ
+Tom died because of me.	ทอมตายเพราะฉัน
+Tom had some questions.	ทอมมีคำถามบางอย่าง
+Tom has three ex-wives.	ทอมมีภรรยาเก่าสามคน
+Tom is good at driving.	ทอมขับรถได้เก่ง
+Tom isn't in the truck.	ทอมไม่อยู่ในรถบรรทุก
+Tom spoke very quickly.	ทอมพูดเร็วมาก
+Tom took off his socks.	ทอมถอดถุงเท้าของเขา
+Tom tried to kiss Mary.	ทอมพยายามจูบแมรี่
+Tom wants you to do it.	ทอมต้องการให้คุณทำ
+We don't like violence.	เราไม่ชอบความรุนแรง
+We don't make mistakes.	เราไม่ทำผิดพลาด
+We need a little sugar.	เราต้องการน้ำตาลเล็กน้อย
+We need to protect Tom.	เราจำเป็นต้องปกป้องทอม
+We sometimes meet them.	บางครั้งพวกเราพบพวกเขา
+We want the same thing.	เราต้องการสิ่งเดียวกัน
+We'll be there at 2:30.	เราจะไปที่นั่นเวลา 2:30 น.
+We're going to be fine.	เราจะไม่เป็นไร
+We're not millionaires.	เราไม่ใช่เศรษฐี
+We've never gone there.	เราไม่เคยไปที่นั่น
+Weddings are expensive.	งานแต่งงานมีราคาแพง
+What a beautiful night!	ช่างเป็นค่ำคืนที่สวยงาม!
+What is the book about?	หนังสือเล่มนี้เกี่ยวกับอะไร?
+What is the exact time?	เวลาที่แน่นอนคืออะไร
+What's that boy's name?	เด็กชายคนนั้นชื่ออะไร
+Where can I get a taxi?	ฉันจะหาแท็กซี่ได้ที่ไหน?
+Where did you get that?	คุณได้มันมาจากไหน?
+Where's the toothpaste?	ยาสีฟันอยู่ที่ไหน?
+Which one will you buy?	คุณจะซื้ออันไหน
+Who discovered America?	ใครค้นพบอเมริกา?
+Who told you the story?	ใครเล่าเรื่องให้คุณฟัง?
+Why are you in my room?	ทำไมคุณถึงอยู่ในห้องของผม
+Why aren't you dressed?	ทำไมคุณไม่แต่งตัว
+Would you like to come?	คุณอยากจะมาไหม?
+You have a good memory.	คุณมีความจำดี
+You look like a monkey.	คุณดูเหมือนลิง
+You may use my new car.	คุณอาจใช้รถใหม่ของฉัน
+You must not do it now.	คุณต้องไม่ทำมันตอนนี้
+You're Canadian, right?	คุณเป็นคนแคนาดา ใช่ไหม?
+All the apples are gone.	แอปเปิ้ลทั้งหมดหายไป
+Are you still out there?	คุณยังอยู่ที่นั่นไหม
+Are you working tonight?	คืนนี้คุณทำงานไหม
+Aren't these your books?	พวกนี้ไม่ใช่หนังสือของคุณเหรอ?
+Barking dogs never bite.	สุนัขเห่าไม่เคยกัด
+Barking dogs never bite.	หมาเห่าไม่เคยกัด
+Both sisters are pretty.	พี่สาวหรือน้องสาวทั้งสองสวย
+Can you get it repaired?	คุณช่วยซ่อมมันได้ไหม
+Did you push the button?	คุณกดปุ่มหรือไม่?
+Did you push the button?	คุณได้กดปุ่มไหม?
+Did you write this book?	คุณได้เขียนหนังสือเล่มนี้ไหม?
+Do you love your mother?	คุณรักแม่ของคุณหรือไม่?
+Do you shower every day?	คุณอาบน้ำทุกวันหรือไม่?
+Everybody has to adjust.	ทุกคนต้องปรับตัว
+Everybody laughed at me.	ทุกคนหัวเราะเยาะฉัน
+Everyone laughed at him.	ทุกคนหัวเราะเยาะเขา
+He got lost in the city.	เขาหลงทางในเมือง
+He has written a letter.	เขาเขียนจดหมาย
+He is fond of adventure.	เขาชอบผจญภัย
+He looked up at the sky.	เขาแหงนหน้ามองท้องฟ้า
+He was dressed in black.	เขาแต่งชุดดำ
+He's mumbling something.	เขาพึมพำอะไรสักอย่าง
+I can't afford a lawyer.	ผมไม่มีเงินจ่ายค่าทนาย
+I can't find a good job.	ผมหางานดีๆไม่ได้
+I can't stand this cold.	ฉันทนกับความเย็นนี้ไม่ได้
+I can't talk about this.	ผมพูดเรื่องนี้ไม่ได้
+I don't know what it is.	ฉันไม่รู้ว่ามันคืออะไร
+I don't want to give up.	ฉันไม่ต้องการยอมแพ้
+I followed Tom's advice.	ผมทำตามคำแนะนำของทอม
+I had breakfast at 7:30.	ฉันทานอาหารเช้าเวลา 7:30 น.
+I have a date on Monday.	ผมมีนัดในวันจันทร์
+I have a lot of flowers.	ฉันมีดอกไม้จำนวนมาก
+I have a wonderful life.	ผมมีชีวิตที่ยอดเยี่ยม
+I knew you wouldn't win.	ผมรู้ว่าคุณจะไม่ชนะ
+I like the way you walk.	ฉันชอบวิธีที่คุณเดิน
+I like your proposition.	ฉันชอบข้อเสนอของคุณ
+I take a bath every day.	ฉันอาบน้ำทุกวัน
+I think he will succeed.	ฉันคิดว่าเขาจะประสบความสำเร็จ
+I think this is genuine.	ผมคิดว่านี่เป็นของแท้
+I thought you hated Tom.	ฉันคิดว่าคุณเกลียดทอม
+I turned down the offer.	ผมปฏิเสธข้อเสนอ
+I want to meet with Tom.	ฉันต้องการพบกับทอม
+I want you to come here.	ผมอยากให้คุณมาที่นี่
+I was telling the truth.	ผมกำลังพูดความจริง
+I wasn't given a chance.	ผมไม่ได้รับโอกาส
+I wasn't ready to leave.	ผมไม่พร้อมที่จะจากไป
+I wish we had more time.	ฉันหวังว่าเราจะมีเวลามากขึ้น
+I'd like to go with you.	ฉันอยากไปกับคุณ
+I'll always be with you.	ผมจะอยู่กับคุณเสมอ
+I'll pay by credit card.	ผมจะจ่ายด้วยเครดิตการ์ด
+I'll visit you tomorrow.	ฉันจะไปหาคุณพรุ่งนี้
+I'll visit you tomorrow.	ฉันจะมาพบคุณพรุ่งนี้
+I'm a bit short on cash.	ผมขาดเงินสดนิดหน่อย
+I'm content with my job.	ฉันพอใจกับงานของฉัน
+I'm feeling much better.	ฉันรู้สึกดีขึ้นมาก
+I'm not a child anymore.	ฉันไม่ใช่เด็กอีกต่อไป
+I'm not so good at this.	ผมไม่เก่งเรื่องนี้
+I'm waiting for a train.	ฉันกำลังรอรถไฟ
+I'm watching television.	ฉันกำลังดูโทรทัศน์
+I've been fooled before.	ผมเคยโดนหลอกมาก่อน
+Is your father a doctor?	พ่อของคุณเป็นหมอใช่ไหม?
+Is your father a doctor?	พ่อของคุณเป็นหมอหรือ?
+It makes my life easier.	มันทำให้ชีวิตผมง่ายขึ้น
+It may freeze next week.	มันอาจแข็งในสัปดาห์หน้า
+It's awfully cold today.	วันนี้อากาศหนาวมาก
+It's still not too late.	มันยังไม่สายเกินไป
+It's the correct answer.	นั่นคือคำตอบที่ถูกต้อง
+It's too noisy to sleep.	มันเสียงดังเกินไปที่จะนอนหลับ
+It's unfortunately true.	มันเป็นเรื่องจริงที่น่าเสียดาย
+Let's make a sandcastle.	มาทำปราสาททรายกัน
+Mary has just come home.	แมรี่เพิ่งกลับมาถึงบ้าน
+My father went to China.	พ่อของฉันไปที่ประเทศจีน
+My parents are divorced.	พ่อแม่ของฉันหย่ากัน
+My uncle gave me a book.	ลุงของฉันให้หนังสือแก่ฉัน
+No one came out to help.	ไม่มีใครออกมาช่วย
+Our options are limited.	ทางเลือกของเรามีจำกัด
+Put the book on my desk.	วางหนังสือไว้บนโต๊ะของผม
+She came home very late.	เธอกลับบ้านดึกมาก
+She has attractive eyes.	เธอมีดวงตาที่น่าดึงดูด
+She is very intelligent.	เธอฉลาดมาก
+She knows many proverbs.	เธอรู้สุภาษิตมากมาย
+She must be over eighty.	เธอต้องมีอายุมากกว่า 80 ปี
+She usually wears jeans.	เธอมักจะใส่กางเกงยีนส์
+She wouldn't let him in.	เธอไม่ยอมให้เขาเข้ามา
+She'll make a good wife.	เธอจะสร้างภรรยาที่ดี
+Somebody sent us a gift.	มีคนส่งของขวัญมาให้เรา
+Stay away from the door.	อยู่ห่างจากประตู
+Study English every day.	เรียนภาษาอังกฤษทุกวัน
+Thank you for listening.	ขอบคุณสำหรับการรับฟัง
+That isn't my signature.	นั่นไม่ใช่ลายเซ็นของผม
+That's absolutely right.	นั่นถูกต้องอย่างแน่นอน
+The exit is on the left.	ทางออกอยู่ทางซ้าย
+The printer needs paper.	เครื่องพิมพ์ต้องการกระดาษ
+There is a page missing.	มีหน้าหายไป
+There's no one with Tom.	ไม่มีใครอยู่กับทอม
+There's no school today.	วันนี้ไม่มีเรียน
+There's something wrong.	มีบางอย่างผิดปกติ
+They say it's up to you.	พวกเขาบอกว่ามันขึ้นอยู่กับคุณ
+This river is beautiful.	แม่น้ำสายนี้สวยงาม
+Tom came here last week.	ทอมมาที่นี่เมื่อสัปดาห์ที่แล้ว
+Tom doesn't like school.	ทอมไม่ชอบโรงเรียน
+Tom is a French teacher.	ทอมเป็นครูสอนภาษาฝรั่งเศส
+Tom is about thirty now.	ทอมอายุประมาณสามสิบ
+Tom is helping his wife.	ทอมกำลังช่วยภรรยาของเขา
+Tom is right behind you.	ทอมอยู่ข้างหลังคุณ
+Tom is tidying his room.	ทอมกำลังจัดห้องของเขา
+Tom ran toward the door.	ทอมวิ่งไปที่ประตู
+Tom signed the contract.	ทอมเซ็นสัญญา
+Tom told us to be quiet.	ทอมบอกให้เราเงียบ
+Tom was in the audience.	ทอมอยู่ในกลุ่มผู้ชม
+Tom was very nice to me.	ทอมดีกับฉันมาก
+Tom will be cooperative.	ทอมจะให้ความร่วมมือ
+Tom's wife supports him.	ภรรยาของทอมสนับสนุนเขา
+Tomorrow is my birthday.	พรุ่งนี้เป็นวันเกิดของฉัน
+We don't have a problem.	เราไม่มีปัญหา
+We don't have any water.	เราไม่มีน้ำ
+We had a lot of chances.	เรามีโอกาสมากมาย
+We'll finish this later.	เราจะจบเรื่องนี้ทีหลัง
+What a beautiful flower!	ช่างเป็นดอกไม้ที่สวยงามจริง ๆ!
+What are you looking at?	คุณกำลังมองอะไรอยู่?
+What happened in Boston?	เกิดอะไรขึ้นในบอสตัน?
+What sports do you like?	คุณชอบกีฬาอะไร?
+What're you saying, Tom?	คุณกำลังพูดว่าอะไร ทอม?
+When will you come home?	คุณจะกลับบ้านเมื่อไหร่?
+Where is the restaurant?	ร้านอาหารอยู่ที่ไหน?
+Where is the toothpaste?	ยาสีฟันอยู่ที่ไหน?
+Which way are you going?	คุณจะไปทางไหน
+Who are you waiting for?	คุณกำลังรอใคร?
+Who are you working for?	คุณทำงานให้ใคร?
+Who did you do that for?	คุณทำอย่างนั้นเพื่อใคร
+Who told you about that?	ใครบอกคุณเรื่องนั้น
+Why are you apologizing?	คุณจะขอโทษทำไม?
+Why did it take so long?	ทำไมมันนานจัง
+Why didn't you help Tom?	ทำไมคุณไม่ช่วยทอม
+Why don't we start over?	ทำไมเราไม่เริ่มต้นใหม่
+Will it be hot tomorrow?	พรุ่งนี้จะร้อนไหม?
+Write your address here.	เขียนที่อยู่ของคุณที่นี่
+You are doing very well.	คุณทำได้ดีมาก
+You can sit if you want.	คุณนั่งได้ถ้าคุณต้องการ
+You can swim, can't you?	คุณว่ายน้ำได้ไม่ใช่หรือ?
+You don't have to hurry.	คุณไม่จำเป็นต้องรีบ
+You have beautiful lips.	คุณมีริมฝีปากที่สวยงาม
+You have three problems.	คุณมีสามปัญหา
+You must be more polite.	คุณต้องสุภาพมากกว่านี้
+You seem busy right now.	ตอนนี้คุณดูยุ่งมาก
+You wouldn't believe me.	คุณจะไม่เชื่อฉัน
+You're everything to me.	คุณคือทุกสิ่งทุกอย่างของฉัน
+Your guests are waiting.	แขกของคุณกำลังรอ
+Your house is fantastic.	บ้านของคุณวิเศษมาก
+Your house is fantastic.	บ้านของคุณน่าอัศจรรย์มาก
+Anyone can make mistakes.	ทุกคนสามารถทำผิดพลาดได้
+Are we going to help Tom?	เราจะช่วยทอมไหม
+Are you looking for work?	คุณกำลังมองหางานใช่ไหม?
+Are you writing a letter?	คุณกำลังเขียนจดหมายหรือไม่?
+Can I cancel this ticket?	ฉันยกเลือกตั๋วนี้ได้หรือไม่?
+Curiosity killed the cat.	ความอยากรู้อยากเห็นฆ่าแมวตาย
+Did he tell you anything?	เขาบอกอะไรกับคุณบ้างไหม?
+Did you have a good time?	คุณสนุกไหม?
+Did you turn off the gas?	คุณปิดแก๊สไหม?
+Do whatever he tells you.	ทำตามสิ่งที่เขาบอกคุณ
+Do you have any siblings?	คุณมีพี่น้องไหม?
+Do you know those people?	คุณรู้จักคนพวกนั้นไหม
+Do you know what he said?	คุณรู้ไหมว่าเขาพูดอะไร?
+Do you like French wines?	คุณชอบไวน์ฝรั่งเศสไหม?
+Do you like my new shirt?	คุณชอบเสื้อตัวใหม่ของผมไหม
+Do you speak my language?	คุณพูดภาษาของผมได้ไหม
+Don't be afraid to dance.	อย่ากลัวการเต้น
+Don't drink so much beer.	อย่าดื่มเบียร์มากนัก
+Everybody makes mistakes.	ทุกคนทำสิ่งผิดพลาดหมด
+Everyone knows it's true.	ทุกคนรู้ว่ามันคือเรื่องจริง
+Have you been vaccinated?	คุณฉีดวัคซีนหรือยัง
+Have you ever seen a UFO?	คุณเคยเห็นยูเอฟโอไหม?
+Have you paid your taxes?	คุณจ่ายภาษีแล้วหรือยัง
+He always keeps his word.	เขารักษาคำพูดเสมอ
+He came back from Canada.	เขากลับมาจากแคนาดา
+He looks like his father.	เขาดูเหมือนพ่อของเขา
+He resigned as president.	เขาลาออกจากตำแหน่งประธาน
+He tried to learn French.	เขาพยายามเรียนภาษาฝรั่งเศส
+How far do we have to go?	เราต้องไปอีกไกลแค่ไหน?
+How's Tom going to do it?	ทอมจะทำมันได้อย่างไร?
+I admitted that I did it.	ผมยอมรับว่าผมทำ
+I ate too much yesterday.	เมื่อวานฉันกินมากเกินไป
+I called everyone I know.	ผมโทรหาทุกคนที่ผมรู้จัก
+I can't live without you.	ฉันอยู่ไม่ได้โดยไม่มีคุณ
+I can't stand it anymore.	ฉันทนมันไม่ไหวแล้ว
+I can't stand it anymore.	ฉันทนมันไม่ได้อีกแล้ว
+I can't stand this noise.	ฉันทนเสียงรบกวนนี้ไม่ได้
+I didn't see their faces.	ผมไม่เห็นหน้าพวกเขาเลย
+I don't believe in magic.	ฉันไม่เชื่อในเวทย์มนตร์
+I don't know how to cook.	ฉันไม่รู้ว่าจะทำอาหารอย่างไร
+I don't like you anymore.	ฉันไม่ชอบคุณอีกต่อไป
+I have no definite plans.	ฉันไม่มีแผนที่แน่นอน
+I have some French books.	ฉันมีหนังสือภาษาฝรั่งเศส
+I kind of liked the idea.	ผมชอบความคิดนี้
+I knew Tom would be late.	ผมรู้ว่าทอมจะมาสาย
+I learned a lot from Tom.	ฉันเรียนรู้อะไรมากมายจากทอม
+I learned a lot from you.	ฉันเรียนรู้อะไรมากมายจากคุณ
+I make too many mistakes.	ผมทำผิดมากเกินไป
+I need to call my lawyer.	ผมต้องโทรหาทนายของผม
+I ordered you to get out.	ผมสั่งให้คุณออกไป
+I put cream in my coffee.	ฉันใส่ครีมลงไปในกาแฟของฉัน
+I really love this beach.	ผมรักชายหาดนี้จริงๆ
+I really need some money.	ผมต้องการเงินจริงๆ
+I received an invitation.	ฉันได้รับคำเชิญ
+I should've studied more.	ฉันควรศึกษาเพิ่มเติม
+I think I drank too much.	ผมคิดว่าผมดื่มมากเกินไป
+I think it's fascinating.	ผมคิดว่ามันน่าสนใจ
+I think that he is right.	ฉันคิดว่าเขาพูดถูก
+I thought Tom was asleep.	ผมคิดว่าทอมหลับแล้ว
+I told you Tom was ready.	ฉันบอกแล้วว่าทอมพร้อมแล้ว
+I used to live in Boston.	ฉันเคยอยู่ที่บอสตัน
+I want to find true love.	ฉันต้องการหารักแท้
+I'll be flying to Boston.	ฉันจะบินไปบอสตัน
+I'll call you back later.	ฉันจะโทรกลับหาคุณในภายหลัง
+I'll do anything you ask.	ผมจะทำทุกอย่างที่คุณขอ
+I'll stay here for a bit.	ฉันจะอยู่ที่นี่สักพัก
+I'm glad I'm not a woman.	ฉันดีใจที่ฉันไม่ใช่ผู้หญิง
+I'm in a really bad mood.	ผมอารมณ์เสียมาก
+I'm interested in French.	ฉันสนใจภาษาฝรั่งเศส
+I'm not allowed to do it.	ผมไม่ได้รับอนุญาตให้ทำ
+I'm not going to do that.	ฉันจะไม่ทำอย่างนั้น
+I'm sick of eating beans.	ผมเบื่อที่จะกินถั่ว
+I'm tired of eating meat.	ผมเบื่อการกินเนื้อ
+I've always wanted a pet.	ผมเคยต้องการสัตว์เลี้ยง
+Is your father a teacher?	พ่อของคุณเป็นครูหรือไม่?
+It's a bit strange to me.	มันค่อนข้างแปลกสำหรับฉัน
+It's not good to overeat.	การกินมากเกินไปไม่ดี
+It's time to wake Tom up.	ได้เวลาปลุกทอมแล้ว
+Japan is in eastern Asia.	ประเทศญี่ปุ่นอยู่ในเอเชียตะวันออก
+Mary is a beautiful lady.	แมรี่เป็นผู้หญิงที่สวย
+Mary is my ex-girlfriend.	แมรี่เป็นแฟนเก่าของฉัน
+May I go to the restroom?	ขอฉันไปห้องน้ำได้ไหม?
+My account was suspended.	บัญชีของผมถูกระงับ
+My brother became a cook.	พี่ชายของฉันไปเป็นพ่อครัว
+My brother became a cook.	น้องชายของฉันไปเป็นพ่อครัว
+My father drives to work.	พ่อของฉันขับรถไปทำงาน
+My father is in his room.	พ่อของฉันอยู่ในห้องของเขา
+My husband is a good man.	สามีของฉันเป็นคนดี
+My sister likes painting.	น้องสาวผมชอบวาดรูป
+Never be this late again.	อย่าสายแบบนี้อีกนะ
+Never mind what she said.	ไม่ต้องสนใจว่าเธอพูดอะไร
+No one but Tom does that.	ไม่มีใครนอกจากทอมทำเช่นนั้น
+No one can get in or out.	ไม่มีใครเข้าหรือออกได้
+Nobody came to the party.	ไม่มีใครมางานเลี้ยง
+Not all people like dogs.	ไม่ใช่ทุกคนที่จะชอบสุนัข
+One can always find time.	คนหนึ่งสามารถหาเวลาได้เสมอ
+Please give me this book.	กรุณาให้หนังสือเล่มนี้แก่ฉัน
+Please give me this book.	โปรดให้หนังสือเล่มนี้แก่ฉัน
+Please sign this receipt.	โปรดเซ็นชื่อลงในใบเสร็จนี้
+Please speak more loudly.	กรุณาพูดดังขึ้น
+Please stop bothering us.	กรุณาหยุดรบกวนเรา
+Please tell me your name.	กรุณาบอกชื่อของคุณ
+Prices continued to rise.	ราคายังคงเพิ่มขึ้น
+She looks like a teacher.	เธอดูเหมือนครู
+She looks like a teacher.	เธอดูเหมือนอาจารย์
+She made the doll for me.	เธอทำตุ๊กตาให้ฉัน
+She was dressed in black.	เธอแต่งตัวด้วยชุดดำ
+Should I call you a taxi?	ฉันควรเรียกแท็กซี่ให้คุณไหม?
+So what are you implying?	แล้วคุณหมายถึงอะไร
+Thanks for your comments.	ขอบคุณสำหรับคำตอบรับของคุณ
+That happened in October.	ที่เกิดขึ้นในเดือนตุลาคม
+That is why he got angry.	นั่นคือเหตุผลที่เขาโกรธ
+That toy is made of wood.	ของเล่นนั้นทำจากไม้
+That's my favorite chair.	นั่นเป็นเก้าอี้ตัวโปรดของฉัน
+The first lesson is easy.	บทเรียนแรกเป็นเรื่องง่าย
+There's no need to hurry.	ไม่จำเป็นต้องรีบร้อน
+These days I'm very busy.	ทุก ๆ วันนี้ฉันยุ่งมาก
+They already got married.	พวกเขาแต่งงานกันแล้ว
+They didn't go back home.	พวกเขาไม่ได้กลับบ้าน
+They have nothing to eat.	พวกเขาไม่มีอะไรกิน
+This book belongs to you.	หนังสือเล่มนี้เป็นของคุณ
+This box contains apples.	กล่องนี้มีแอปเปิ้ล
+This is driving me crazy.	นี่ทำให้ฉันบ้า
+This is what Tom gave me.	นี่คือสิ่งที่ทอมให้ฉัน
+Tom and I are doing fine.	ทอมกับฉันสบายดี
+Tom and Mary live nearby.	ทอมกับแมรี่อาศัยอยู่ใกล้ๆกัน
+Tom arrived home at 2:30.	ทอมกลับถึงบ้านเวลา 2:30 น.
+Tom didn't do the dishes.	ทอมยังไม่ได้ล้างจาน
+Tom didn't pass the exam.	ทอมไม่ผ่านการสอบ
+Tom didn't want anything.	ทอมไม่ต้องการอะไร
+Tom does the best he can.	ทอมทำดีที่สุดแล้ว
+Tom does want to do that.	ทอมต้องการทำเช่นนั้น
+Tom goes to night school.	ทอมไปโรงเรียนกลางคืน
+Tom has worked very hard.	ทอมทำงานหนักมาก
+Tom is a very clever man.	ทอมเป็นคนที่ฉลาดมาก
+Tom is a very clever man.	ทอมเป็นชายที่ฉลาดมาก
+Tom is having dinner now.	ตอนนี้ทอมกำลังทานอาหารเย็น
+Tom is holding something.	ทอมกำลังถืออะไรบางอย่าง
+Tom is looking for a job.	ทอมกำลังมองหางาน
+Tom is still at the mall.	ทอมยังอยู่ที่ห้าง
+Tom left after breakfast.	ทอมออกไปหลังอาหารเช้า
+Tom likes to play soccer.	ทอมชอบเล่นฟุตบอล
+Tom was speaking to Mary.	ทอมพูดกับแมรี่
+Tom will definitely come.	ทอมจะมาแน่นอน
+Tom worked day and night.	ทอมทำงานทั้งวันทั้งคืน
+Walk as fast as possible.	เดินให้เร็วที่สุดเท่าที่เป็นไปได้
+Wash your face and hands.	ล้างหน้าและมือของคุณ
+We could meet after work.	เราคงได้เจอกันหลังเลิกงาน
+We don't have to do this.	เราไม่จำเป็นต้องทำสิ่งนี้
+We have run out of sugar.	น้ำตาลเราหมดแล้ว
+We went skiing in Canada.	เราไปเล่นสกีในแคนาดา
+What are you looking for?	คุณมองหาอะไร?
+What do you want with me?	คุณต้องการอะไรจากฉัน?
+What does Tom want to do?	ทอมต้องการอะไร
+What have you been doing?	คุณทำอะไรลงไป
+What school do you go to?	คุณไปโรงเรียนไหน
+What you suspect is true.	สิ่งที่คุณสงสัยเป็นความจริง
+When did you get married?	คุณแต่งงานเมื่อไร?
+Who turned off the light?	ใครปิดไฟ?
+Who turned the light off?	ใครปิดไฟ?
+Why did you open the box?	ทำไมคุณถึงเปิดกล่อง?
+You can do it, can't you?	คุณสามารถทำมันได้ ไม่ใช่หรือ?
+You can do it, can't you?	คุณทำได้ ใช่ไหม
+You can't erase the past.	คุณไม่สามารถลบอดีตได้
+You have to pay for that.	คุณต้องจ่ายเงินสำหรับสิ่งนั้น
+You must give up smoking.	คุณต้องเลิกสูบบุหรี่
+You swim well, don't you?	คุณก็ว่ายน้ำได้ดีไม่ใช่หรือ?
+You'll do well, I'm sure.	คุณจะทำได้ดีผมแน่ใจ
+You're lying to yourself.	คุณกำลังโกหกตัวเอง
+You're tired, aren't you?	คุณเหนื่อยแล้วไม่ใช่หรือ?
+Your daughter's on drugs.	ลูกสาวของคุณติดยาเสพติด
+Are you free this weekend?	สุดสัปดาห์นี้คุณว่างไหม
+Are you telling the truth?	คุณกำลังพูดความจริงหรือไม่?
+Aren't you going to do it?	คุณจะไม่ทำมันเหรอ?
+Could you tell me the way?	คุณช่วยบอกทางให้ผมได้ไหม
+Did the police arrest Tom?	ตำรวจจับกุมทอมไหม?
+Do you have a credit card?	คุณมีบัตรเครดิตหรือไม่?
+Do you know what they did?	คุณรู้ไหมว่าพวกเขาทำอะไร
+Everyone else is sleeping.	คนอื่นๆหลับแล้ว
+Everything is upside down.	ทุกอย่างกลับหัว
+Forgive me for being late.	ยกโทษให้ฉันที่มาสายที
+French bread is delicious.	ขนมปังฝรั่งเศสอร่อย
+He doesn't understand you.	เขาไม่เข้าใจคุณ
+He drank a bottle of wine.	เขาดื่มไวน์หนึ่งขวด
+He extended his right arm.	เขาขยายแขนขวาของเขา
+He's sleeping like a baby.	เขากำลังนอนหลับเหมือนเด็กทารก
+How does this device work?	อุปกรณ์นี้ทำงานอย่างไร
+How many colors are there?	มีกี่สี?
+I bought a red sports car.	ฉันซื้อรถสปอร์ตสีแดง
+I can take care of myself.	ผมดูแลตัวเองได้
+I can't approve your plan.	ผมไม่สามารถอนุมัติแผนของคุณ
+I can't live without a TV.	ฉันอยู่ไม่ได้ถ้าไม่มีทีวี
+I can't speak French well.	ฉันพูดภาษาฝรั่งเศสไม่เก่ง
+I didn't see anyone there.	ผมไม่เห็นใครที่นั่น
+I don't care what he does.	ฉันไม่สนใจสิ่งที่เขาทำ
+I don't care what he does.	ฉันไม่สนใจว่าเขาทำอะไร
+I don't have any cavities.	ฉันไม่มีฟันผุเลย
+I don't have time for you.	ฉันไม่มีเวลาสำหรับคุณ
+I don't know what that is.	ฉันไม่รู้ว่าสิ่งนั้นคืออะไร
+I don't like bad children.	ฉันไม่ชอบเด็กไม่ดี
+I don't like what he said.	ฉันไม่ชอบสิ่งที่เขาพูด
+I don't understand French.	ฉันไม่เข้าใจภาษาฝรั่งเศส
+I don't want to go to bed.	ฉันไม่อยากเข้านอน
+I failed the driving test.	ผมสอบตกใบขับขี่
+I feel bad for what I did.	ผมรู้สึกแย่กับสิ่งที่ผมทำ
+I forgot to lock the door.	ฉันลืมล็อคประตู
+I got something in my eye.	มีอะไรบางอย่างอยู่ในตาของฉัน
+I had Tom take my picture.	ฉันให้ทอมถ่ายรูปฉัน
+I have a surprise for you.	ฉันมีเซอร์ไพรส์ให้คุณ
+I have no idea who she is.	ฉันไม่รู้ว่าเธอเป็นใคร
+I have no plans for today.	ผมไม่มีแผนสําหรับวันนี้
+I haven't eaten lunch yet.	ฉันยังไม่ได้กินข้าวกลางวัน
+I hope we didn't wake you.	ฉันหวังว่าเราไม่ได้ปลุกคุณ
+I just wanted to warn you.	ผมแค่อยากจะเตือนคุณ
+I know you don't know Tom.	ฉันรู้ว่าคุณไม่รู้จักทอม
+I like all kinds of music.	ฉันชอบดนตรีทุกประเภท
+I need to earn more money.	ผมต้องหาเงินเพิ่ม
+I retired three years ago.	ผมเกษียณเมื่อสามปีที่แล้ว
+I should apologize to Tom.	ผมควรขอโทษทอม
+I suspect that isn't true.	ผมสงสัยว่ามันไม่จริง
+I swore I'd never do that.	ผมสาบานว่าจะไม่ทำอย่างนั้น
+I think about Tom all day.	ฉันคิดถึงทอมตลอดทั้งวัน
+I think it's the best way.	ฉันคิดว่ามันเป็นวิธีที่ดีที่สุด
+I turned the computer off.	ฉันปิดคอมพิวเตอร์
+I walked out of the movie.	ผมเดินออกจากโรงหนัง
+I want some of that stuff.	ผมต้องการของบางอย่าง
+I want to buy this jacket.	ฉันอยากซื้อแจ็คเก็ตตัวนี้
+I want to know the reason.	ฉันต้องการทราบเหตุผล
+I want to know the reason.	ฉันอยากรู้เหตุผล
+I wanted you to keep that.	ผมอยากให้คุณเก็บมันไว้
+I was a fool to trust you.	ผมเป็นคนโง่ที่เชื่อใจคุณ
+I was nearly hit by a car.	ฉันเกือบโดนรถชน
+I work for an oil company.	ฉันทำงานให้บริษัทน้ำมัน
+I'll go with Tom and Mary.	ฉันจะไปกับทอมกับแมรี่
+I'll wait at the bus stop.	ฉันจะรอที่ป้ายรถเมล์
+I'm going out for a drink.	ผมจะออกไปดื่ม
+I'm never late for school.	ฉันไม่เคยมาโรงเรียนสาย
+I'm never late for school.	ผมไม่เคยไปโรงเรียนสาย
+I'm not going to say that.	ฉันจะไม่พูดอย่างนั้น
+I'm not going to touch it.	ฉันไม่แตะมันหรอก
+I'm sure Tom will be back.	ผมแน่ใจว่าทอมจะกลับมา
+I'm too old to start over.	ผมแก่เกินไปที่จะเริ่มต้นใหม่
+I've only been there once.	ผมเคยไปที่นั่นแค่ครั้งเดียว
+If only I could sing well.	ถ้าเพียงแค่ฉันร้องเพลงได้ดี
+It depends on the context.	มันขึ้นอยู่กับบริบท
+It's a critical situation.	มันเป็นสถานการณ์ที่สำคัญ
+It's a difficult language.	มันเป็นภาษาที่ยาก
+It's always been that way.	มันเป็นอย่างนั้นเสมอ
+It's been raining all day.	ฝนตกทั้งวันเลย
+Japanese houses are small.	บ้านญี่ปุ่นมีขนาดเล็ก
+Just what's going on here?	เกิดอะไรขึ้นที่นี่
+My work is just beginning.	งานของฉันพึ่งเริ่มเท่านั้น
+Our teacher seldom laughs.	อาจารย์ของเราไม่ค่อยหัวเราะ
+She advised him not to go.	เธอแนะนำให้เขาไม่ไป
+She walked very carefully.	เธอเดินอย่างระมัดระวัง
+Someone hacked my account.	มีคนแฮคบัญชีของฉัน
+Staying at home is boring.	อยู่ที่บ้านน่าเบื่อ
+Summers are very hot here.	ฤดูร้อนที่นี่ร้อนมาก
+Thank you for your advice.	ขอบคุณสำหรับคำแนะนำของคุณ
+Thanks for the compliment.	ขอบคุณสำหรับคำอวยพร
+That book was interesting.	หนังสือเล่มนั้นน่าสนใจ
+That's from Tom, isn't it?	นั่นมาจากทอมไม่ใช่หรือ?
+The company went bankrupt.	บริษัทล้มละลาย
+The dogs barked all night.	สุนัขเห่าทั้งคืน
+The game's about to begin.	เกมกำลังจะเริ่มแล้ว
+The king abused his power.	กษัตริย์ใช้อำนาจในทางที่ผิด
+The show's about to start.	การแสดงกำลังจะเริ่มขึ้น
+The situation is hopeless.	สถานการณ์สิ้นหวัง
+There's bread in the oven.	มีขนมปังอยู่ในเตาอบ
+These shoes are too small.	รองเท้าคู่นี้เล็กเกินไป
+They live near the school.	พวกเขาอาศัยอยู่ใกล้โรงเรียน
+They worship every Sunday.	พวกเขานมัสการทุกวันอาทิตย์
+This coffee is too bitter.	กาแฟนี้ขมเกินไป
+This is my younger sister.	นี่คือน้องสาวของฉัน
+This is our last day here.	นี่เป็นวันสุดท้ายของเราที่นี่
+This machine is worthless.	เครื่องยนต์นี้ไร้ค่า
+Tom climbed onto the roof.	ทอมปีนขึ้นไปบนหลังคา
+Tom died at the age of 97.	ทอมเสียชีวิตเมื่ออายุ 97 ปี
+Tom gave his father a tie.	ทอมมอบเน็กไทให้พ่อของเขา
+Tom gave me back my money.	ทอมคืนเงินให้ผม
+Tom has the right to vote.	ทอมมีสิทธิ์ในการออกเสียงลงคะแนน
+Tom invited you to dinner.	ทอมชวนคุณไปทานอาหารเย็น
+Tom is Mary's grandfather.	ทอมเป็นปู่ของแมรี่
+Tom is trying to scare us.	ทอมพยายามที่จะทำให้เรากลัว
+Tom is very fat, isn't he?	ทอมอ้วนมากใช่ไหม
+Tom rejected our proposal.	ทอมปฏิเสธข้อเสนอของเรา
+Tom wants his money today.	ทอมต้องการเงินของเขาในวันนี้
+Tom was the last to enter.	ทอมเป็นคนสุดท้ายที่เข้ามา
+Tom will be a good doctor.	ทอมจะเป็นหมอที่ดี
+Tom's house wasn't locked.	บ้านของทอมไม่ได้ล็อค
+Was Tom at work yesterday?	เมื่อวานทอมทำงานหรือเปล่า
+We need to obey the rules.	เราจำเป็นต้องทำตามกฎ
+We should talk about this.	เราควรพูดถึงเรื่องนี้
+We suspected him of lying.	เราสงสัยว่าเขาโกหก
+We want to get back there.	เราอยากกลับไปที่นั่น
+We're not going to Boston.	เราจะไม่ไปบอสตัน
+What are you studying now?	ตอนนี้คุณกำลังเรียนอะไร
+What country are you from?	คุณมาจากประเทศอะไร?
+What kind of fish is that?	นั่นเป็นปลาชนิดอะไร?
+What's your father's name?	พ่อของคุณชื่ออะไร?
+What's your friend's name?	เพื่อนของคุณชื่ออะไร?
+Where are you guys headed?	พวกคุณจะไปที่ไหน
+Which color do you prefer?	คุณชอบสีอะไร?
+Write on every other line.	เขียนทุกบรรทัด
+Yeah, that's what I'll do.	ใช่นั่นคือสิ่งที่ฉันจะทำ
+Yesterday was my birthday.	เมื่อวานเป็นวันเกิดของฉัน
+You can stay till tonight.	คุณสามารถอยู่ได้จนถึงคืนนี้
+You forgot to buy lettuce.	คุณลืมซื้อผักกาดหอม
+You should take a day off.	คุณควรพักผ่อนหนึ่งวัน
+You'd better come with me.	คุณควรมากับผมดีกว่า
+You'd better keep working.	คุณทำงานต่อไปดีกว่านะ
+You'll have to pay double.	คุณจะต้องจ่ายสองเท่า
+You've made a bad mistake.	คุณได้ทำผิดพลาดที่ร้ายแรง
+All of the dogs were alive.	สุนัขทุกตัวยังมีชีวิตอยู่
+All of the dogs were alive.	หมาทุกตัวยังมีชีวิตอยู่
+All the seats are reserved.	ที่นั่งทั้งหมดถูกจองไว้
+An apple fell off the tree.	แอปเปิ้ลหล่นลงมาจากต้นไม้
+Are you American or French?	คุณเป็นชาวอเมริกันหรือฝรั่งเศส
+Are you going to stay long?	คุณจะอยู่นานไหม?
+Can you answer this riddle?	คุณช่วยไขปริศนานี้ได้ไหม?
+Can you give me an example?	คุณยกตัวอย่างให้ฉันได้ไหม?
+Can you weigh this, please?	คุณช่วยชั่งน้ำหนักสิ่งนี้ได้ไหม?
+Do all of you speak French?	คุณทั้งหมดพูดภาษาฝรั่งเศสได้ไหม?
+Do you do your own laundry?	คุณซักรีดเสื้อผ้าของตัวเองหรือไม่?
+Do you go to school by bus?	ณไปโรงเรียนโดยรถโดยสารประจำทางหรือไม่?
+Do you have a large family?	คุณมีครอบครัวใหญ่ไหท?
+Do you have a twin brother?	คุณมีพี่ชายฝาแฝดหรือไม่?
+Do you know how old Tom is?	คุณรู้ไหมว่าทอมอายุเท่าไหร่
+Do you know what they said?	คุณรู้ไหมว่าพวกเขาพูดว่าอะไร?
+Do you remember that store?	คุณจำร้านนั้นได้ไหม
+Do you seriously mean that?	คุณหมายถึงอย่างนั้นจริงหรือ
+Do you want some more rice?	คุณต้องการข้าวอีกไหม
+Do you want to say goodbye?	คุณต้องการที่จะบอกลาไหม?
+Does Tom intend to do that?	ทอมตั้งใจทำอย่างนั้นเหรอ
+Excuse me, what time is it?	ขอโทษนะ ตอนนี้เวลาเท่าไหร่?
+Excuse me, what time is it?	ขอโทษครับ ตอนนี้เวลาเท่าไหร่ครับ?
+Excuse me, what time is it?	ขอโทษค่ะ ตอนนี้เวลาเท่าไหร่คะ?
+Fill the bottle with water.	เติมน้ำลงในขวดให้เต็ม
+He comes here twice a week.	เขามาที่นี่สองครั้งต่อสัปดาห์
+He decided to quit smoking.	เขาตัดสินใจเลิกสูบบุหรี่
+He is studying agriculture.	เขากำลังศึกษาการเกษตร
+He showed us some pictures.	เขาแสดงบางภาพให้เราเห็น
+I admit that I wasn't sure.	ผมยอมรับว่าผมไม่แน่ใจ
+I can't raise my right arm.	ผมยกแขนขวาไม่ได้
+I can't say that to my dad.	ฉันไม่สามารถพูดแบบนั้นกับพ่อของฉันได้
+I can't say that to my dad.	ฉันพูดสิ่งนั้นกับพ่อของฉันไม่ได้?
+I don't know her real name.	ฉันไม่รู้จักชื่อจริงของเธอ
+I don't know what you like.	ผมไม่รู้ว่าคุณชอบอะไร
+I don't want to leave here.	ผมไม่อยากไปจากที่นี่
+I drank two cups of coffee.	ฉันดื่มกาแฟสองแก้ว
+I enjoyed talking with him.	ฉันยินดีที่ได้คุยกับเขา
+I feel like having a drink.	ฉันรู้สึกอยากดื่ม
+I have nothing more to say.	ฉันไม่มีอะไรจะพูดอีกแล้ว
+I have things I need to do.	ผมมีสิ่งที่ต้องทำ
+I haven't been here before.	ผมไม่เคยมาที่นี่มาก่อน
+I haven't seen Tom all day.	ฉันไม่เห็นทอมทั้งวัน
+I just need some fresh air.	ผมแค่ต้องการอากาศบริสุทธิ์
+I left my phone in the car.	ฉันทิ้งโทรศัพท์ไว้ในรถ
+I must have made a mistake.	ฉันต้องทำผิดพลาดไปแล้วแน่เลย
+I need to go eat something.	ผมต้องไปหาอะไรกิน
+I often wear black clothes.	ผมมักจะใส่เสื้อผ้าสีดำ
+I only spent three dollars.	ฉันใช้เงินแค่สามเหรียญเท่านั้น
+I only spent three dollars.	ผมใช้เงินไปแค่สามดอลล่าร์
+I saw a little boy running.	ฉันเห็นเด็กชายตัวเล็กกำลังวิ่ง
+I teach biology and French.	ฉันสอนชีววิทยาและภาษาฝรั่งเศส
+I thought I'd be safe here.	ผมคิดว่าผมจะปลอดภัยที่นี่
+I wanted to know the truth.	ผมอยากรู้ความจริง
+I was unable to go outside.	ผมไม่สามารถออกไปข้างนอกได้
+I wish I knew where he was!	ฉันหวังว่าฉันรู้ว่าเขาอยู่ที่ไหน!
+I worked all day yesterday.	ฉันทำงานทั้งวันเมื่อวานนี้
+I wrote a letter in French.	ฉันเขียนจดหมายเป็นภาษาฝรั่งเศส
+I'd like to study in Paris.	ฉันอยากเรียนที่ปารีส
+I'm satisfied with my work.	ฉันพอใจกับงานของฉัน
+I'm trying to learn French.	ผมพยายามเรียนภาษาฝรั่งเศส
+I've always been a fighter.	ฉันเป็นนักสู้เสมอ
+I've been focusing on that.	ฉันมุ่งเน้นไปที่นั่น
+I've done a lot of skating.	ฉันเล่นสเก็ตมามากแล้ว
+I've done a lot of surfing.	ฉันโต้คลื่นไปมากแล้ว
+I've forgotten your number.	ฉันลืมเบอร์ของคุณ
+I've lived here since 2013.	ฉันอยู่ที่นี่มาตั้งแต่ปี 2556
+I've never seen a real cow.	ฉันไม่เคยเห็นวัวจริง
+Is food scarce around here?	อาหารที่นี่หายากไหม
+It all gives me a headache.	ทุกอย่างทำให้ผมปวดหัว
+It isn't safe to swim here.	ว่ายน้ำที่นี่ไม่ปลอดภัย
+It seemed like a good plan.	ดูเหมือนเป็นแผนที่ดี
+It's always been like that.	มันเป็นอย่างนั้นเสมอ
+It's much too cold to swim.	มันเย็นเกินกว่าที่จะว่ายไป
+It's none of your business.	มันไม่ใช่ธุระของคุณ
+Let me pay for your coffee.	ให้ฉันจ่ายค่ากาแฟคุณ
+Let's look at the raw data.	มาดูข้อมูลดิบกัน
+Many people like to travel.	ผู้คนมากมายชอบที่จะเดินทาง
+Mary is a very pretty girl.	แมรี่เป็นเด็กผู้หญิงที่น่ารักมาก
+Mary spoke Japanese slowly.	แมรี่พูดภาษาญี่ปุ่นช้าๆ
+May I sit here for a while?	ผมขอนั่งตรงนี้สักครู่ได้ไหม
+Most of us need to do that.	พวกเราส่วนใหญ่ต้องทำเช่นนั้น
+Most of us want to do that.	พวกเราส่วนใหญ่ต้องการทำเช่นนั้น
+No one knows his real name.	ไม่มีใครรู้ชื่อจริงของเขา
+Nobody's going to hire you.	ไม่มีใครจะจ้างคุณ
+Please make a contribution.	กรุณามีส่วนร่วม
+Put in a little more sugar.	ใส่น้ำตาลอีกเล็กน้อย
+Put that book on the chair.	วางหนังสือนั่นไว้บนเก้าอี้
+Rome wasn't built in a day.	กรุงโรมไม่ได้สร้างเสร็จภายในวันเดียว
+She has a talent for music.	เธอมีความสามารถด้านดนตรี
+She married a rich old man.	เธอแต่งงานกับชายชราที่ร่ำรวย
+She was blackmailed by him.	เธอโดนเขา แบล็คเมล์
+Smoking isn't allowed here.	ที่นี่ห้ามสูบบุหรี่
+That book is worth reading.	หนังสือเล่มนั้นคุ้มค่าที่จะอ่าน
+That won't change anything.	นั่นจะไม่เปลี่ยนแปลงอะไรทั้งสิ้น
+That's my problem with Tom.	นั่นคือปัญหาของฉันกับทอม
+The bird flapped its wings.	นกกระพือปีก
+The medicine tastes bitter.	ยามีรสขม
+The rainy season has begun.	หน้าฝนเริ่มขึ้นแล้ว
+The snake swallowed a frog.	งูกลืนกบ
+There are no stars tonight.	คืนนี้ไม่มีดาว
+There isn't much food left.	อาหารเหลือไม่มากแล้ว
+They were born in Thailand.	พวกเขาเกิดในประเทศไทย
+This car was made in Japan.	รถคันนี้ผลิตในประเทศญี่ปุ่น
+This is a strange sentence.	นี่เป็นประโยคที่แปลก
+This is between Tom and me.	นี่เป็นเรื่องระหว่างทอมกับผม
+This is never going to end.	มันจะไม่มีวันจบ
+This is where my dad works.	นี่คือที่ที่พ่อฉันทำงาน
+This river is deepest here.	แม่น้ำนี้ลึกที่สุดที่นี่
+This river is not polluted.	แม่น้ำนี้ไม่มีมลพิษ
+This table is made of wood.	โต๊ะนี้ทำจากไม้
+This task took three hours.	งานนี้ใช้เวลาสามชั่วโมง
+This word comes from Greek.	คำนี้มาจากภาษากรีก
+This yogurt tastes strange.	โยเกิร์ตนี้รสชาติแปลก ๆ
+Tom did all of the talking.	ทอมทำทุกอย่างที่พูด
+Tom is an excellent father.	ทอมเป็นพ่อที่ยอดเยี่ยม
+Tom is confident he'll win.	ทอมมั่นใจว่าเขาจะชนะ
+Tom isn't a morning person.	ทอมไม่ใช่คนตื่นเช้า
+Tom read the letter slowly.	ทอมอ่านจดหมายอย่างช้าๆ
+Tom told me that he's well.	ทอมบอกฉันว่าเขาสบายดี
+Tom traveled around Europe.	ทอมเดินทางไปทั่วยุโรป
+Tom wants to be a diplomat.	ทอมต้องการเป็นนักการทูต
+Tom, your life's in danger.	ทอม ชีวิตคุณกำลังตกอยู่ในอันตราย
+Turn off the radio, please.	กรุณาปิดวิทยุ
+We can't do that right now.	เราไม่สามารถทำสิ่งนั้นได้ในตอนนี้
+We don't care what he does.	เราไม่สนใจสิ่งที่เขาทำ
+What are you and Tom up to?	คุณและทอมกำลังทำอะไรอยู่
+What are you talking about?	คุณกำลังพูดถึงอะไร?
+What do they want from Tom?	พวกเขาต้องการอะไรจากทอม?
+What time will you be here?	คุณจะมาที่นี่กี่โมง
+What would you like to eat?	คุณอยากทานอะไร?
+What're you planning to do?	คุณวางแผนที่จะทำอะไร
+Where's the nearest church?	โบสถ์ที่ใกล้ที่สุดอยู่ที่ไหน
+Which book are you reading?	คุณกำลังอ่านหนังสือเล่มไหนอยู่?
+Who's the fastest one here?	ใครที่เร็วที่สุดที่นี่?
+Will you look after my cat?	คุณจะดูแลแมวผมไหม
+World War II ended in 1945.	สงครามโลกครั้งที่สองสิ้นสุดลงในปี 1945
+You are always complaining.	คุณบ่นตลอด
+You do what you have to do.	คุณทำสิ่งที่คุณต้องทำ
+You haven't changed at all.	คุณไม่ได้เปลี่ยนไปเลย
+You must leave immediately.	คุณต้องไปทันที
+You need to get some sleep.	คุณต้องนอนหลับพักผ่อน
+You ought to do that today.	คุณควรจะทำวันนี้
+You shouldn't be back here.	คุณไม่ควรกลับมาที่นี่
+You're going the wrong way.	คุณกำลังไปในทางที่ผิด
+You're not listening to me.	คุณไม่ได้ฟังฉัน
+All the windows were closed.	หน้าต่างทั้งหมดถูกปิด
+Are you sure we can do that?	คุณแน่ใจไหมว่าเราสามารถทำได้
+Cats are very clean animals.	แมวเป็นสัตว์ที่สะอาดมาก
+Did you watch TV last night?	เมื่อคืนคุณได้ดูทีวีหรือเปล่า?
+Didn't you have class today?	วันนี้คุณไม่มีเรียนเหรอ
+Do you have today's tickets?	คุณมีตั๋วสำหรับวันนี้ไหม
+Do you want a cup of coffee?	คุณต้องการกาแฟซักแก้วไหม?
+Doesn't Tom want to do that?	ทอมต้องการทำอย่างนั้นไม่ใช่เหรอ?
+Don't talk in the classroom.	อย่าพูดในห้องเรียน
+Everyone forgot my birthday.	ทุกคนลืมวันเกิดผม
+Have you sent the email yet?	คุณส่งอีเมลล์หรือยัง
+He doesn't have any friends.	เขาไม่มีเพื่อนเลย
+He was sitting on the floor.	เขานั่งอยู่บนพื้น
+Her dream is to visit Paris.	ความฝันของเธอคือไปเที่ยวปารีส
+How are things in Australia?	ออสเตรเลียเป็นอย่างไรบ้าง?
+How are you doing in school?	คุณเป็นอย่างไรในโรงเรียน?
+How long will you stay here?	คุณจะอยู่ที่นี่อีกนานแค่ไหน?
+How much is that in dollars?	นั่นราคาเท่าไหร่ในดอลลาร์
+I admit that I wasn't happy.	ผมยอมรับว่าผมไม่มีความสุข
+I bumped into Tom in Boston.	ฉันชนทอมในบอสตัน
+I can't think of everything.	ฉันไม่สามารถคิดได้ทุกอย่าง
+I could answer his question.	ฉันตอบคำถามของเขาได้
+I don't have any more ideas.	ฉันไม่มีไอเดียอย่างอี่นอีกแล้ว
+I don't think you'd like it.	ผมไม่คิดว่าคุณจะชอบมัน
+I don't want to do it again.	ฉันไม่ต้องการที่จะทำมันอีกครั้ง
+I felt it wasn't safe there.	ผมรู้สึกว่าที่นั่นไม่ปลอดภัย
+I have finished my homework.	ฉันทำการบ้านฉันเสร็จแล้ว
+I have no idea how I did it.	ฉันไม่รู้ว่าฉันทำมันได้อย่างไร
+I have nothing better to do.	ฉันไม่มีอะไรดีกว่าที่จะทำ
+I have something else to do.	ผมมีอย่างอื่นที่ต้องทำ
+I know you don't believe me.	ผมรู้ว่าคุณไม่เชื่อผม
+I met Tom several years ago.	ผมพบทอมเมื่อหลายปีก่อน
+I must be missing something.	ผมต้องพลาดอะไรบางอย่าง
+I only have one friend left.	ฉันเหลือเพื่อนเพียงคนเดียว
+I reckon that's a good idea.	ผมคิดว่านั่นเป็นความคิดที่ดี
+I solved the problem easily.	ฉันแก้ไขปัญหาได้อย่างง่ายดาย
+I swim once or twice a week.	ผมว่ายน้ำสัปดาห์ละหนึ่งหรือสองครั้ง
+I think it'll rain tomorrow.	ผมคิดว่าพรุ่งนี้ฝนจะตก
+I thought he was my brother.	ฉันคิดว่าเขาเป็นพี่ชายของฉัน
+I understand everything now.	ตอนนี้ผมเข้าใจทุกอย่างแล้ว
+I used to do that sometimes.	ผมเคยทำอย่างนั้นบางครั้ง
+I want to dye my hair black.	ผมอยากย้อมผมสีดำ
+I want to sit in the middle.	ฉันอยากนั่งตรงกลาง
+I want to talk to the press.	ผมอยากคุยกับนักข่าว
+I was trying to talk to you.	ฉันพยายามคุยกับคุณ
+I was very tired last night.	เมื่อคืนฉันเหนื่อยมาก
+I'll be thirty next October.	ผมจะอายุสามสิบในเดือนตุลาคมปีหน้า
+I'll find you another table.	ผมจะหาโต๊ะอื่นให้คุณ
+I'll let you do the talking.	ผมจะให้คุณพูดเอง
+I'm more beautiful than you.	ฉันสวยกว่าคุณ
+I'm not very good at French.	ฉันไม่ค่อยเก่งภาษาฝรั่งเศส
+I'm pleased with Tom's work.	ผมพอใจกับงานของทอม
+I'm talking about my friend.	ฉันกําลังพูดถึงเพื่อนฉัน
+I'm usually home on Mondays.	ผมมักจะกลับบ้านในวันจันทร์
+I'm waiting for your answer.	ผมกำลังรอคำตอบจากคุณ
+I've been waiting all night.	ผมรอมาทั้งคืน
+I've got two kids in school.	ผมมีลูกสองคนในโรงเรียน
+I've put on a little weight.	ผมมีน้ำหนักขึ้นเล็กน้อย
+I've seen that movie before.	ฉันเคยดูหนังเรื่องนั้นมาก่อน
+Is it made of wood or metal?	มันทำจากไม้หรือโลหะ?
+It was the only thing to do.	มันเป็นสิ่งเดียวที่ต้องทำ
+It's cheaper to go by train.	ไปรถไฟถูกกว่า
+It's due to open in October.	จะเปิดให้บริการในเดือนตุลาคม
+Let's rest here for a while.	พักที่นี่สักพักเถอะ
+Mom is getting dinner ready.	แม่กำลังเตรียมอาหารเย็น
+Most people think I'm crazy.	คนส่วนใหญ่คิดว่าฉันบ้า
+My father is in good health.	พ่อของฉันมีสุขภาพที่ดี
+My grandson is still a baby.	หลานชายของฉันยังเป็นเด็ก
+My guess is that it'll rain.	ฉันเดาว่าฝนจะตก
+Nobody knows where Tom went.	ไม่มีใครรู้ว่าทอมไปไหน
+Oh, no! My passport is gone!	ไม่นะ! พาสปอร์ดฉันหายไปแล้ว!
+She likes jazz, and so do I.	เธอชอบแจ๊สและฉันก็เช่นกัน
+She seems to be a good cook.	เธอดูเหมือนจะเป็นแม่ครัวที่ดี
+She treated him like a king.	เธอปฏิบัติต่อเขาดั่งราชา
+She was almost hit by a car.	เธอเกือบจะถูกรถชน
+Take off your socks, please.	กรุณาถอดถุงเท้าของคุณ
+Ten houses were burned down.	บ้านสิบหลังถูกไฟไหม้
+Thank you for understanding.	ขอบคุณที่เข้าใจ
+Thanks for your explanation.	ขอบคุณสำหรับคำอธิบายของคุณ
+Thanks for your hospitality.	ขอบคุณสำหรับการต้อนรับของคุณ
+That isn't the right answer.	นั่นไม่ใช่คำตอบที่ถูกต้อง
+That's a difficult question.	นั่นเป็นคำถามที่ยาก
+That's what smart people do.	นั่นคือสิ่งที่คนฉลาดทำ
+That's what we want to know.	นั่นคือสิ่งที่เราอยากที่จะรู้
+The circus has come to town.	คณะละครสัตว์มาถึงเมืองแล้ว
+The flu is going around now.	ตอนนี้ไข้หวัดใหญ่กำลังระบาด
+The police think you did it.	ตำรวจคิดว่าคุณเป็นคนทำ
+The soup is a bit too salty.	น้ำซุปเค็มไปหน่อย
+There are too many tourists.	มีนักท่องเที่ยวมากเกินไป
+They already know the truth.	พวกเขารู้ความจริงแล้ว
+They are about the same age.	พวกเขาอายุใกล้เคียงกัน
+This building is very large.	ตึกนี้ใหญ่มาก
+This is a comfortable chair.	เก้าอี้ตัวนี้นั่งสบายจัง
+This rope isn't long enough.	เชือกนี้ยาวไม่พอ
+This website is very useful.	เว็บไซต์นี้มีประโยชน์มาก
+Tom bought an electric bike.	ทอมซื้อจักรยานไฟฟ้า
+Tom has high blood pressure.	ทอมมีความดันโลหิตสูง
+Tom has written three books.	ทอมเขียนหนังสือสามเล่ม
+Tom is drinking some coffee.	ทอมกำลังดื่มกาแฟ
+Tom is liked by his friends.	ทอมเป็นที่รักของเพื่อนของเขา
+Tom is responsible for this.	ทอมเป็นคนรับผิดชอบเรื่องนี้
+Tom is the man of my dreams.	ทอมคือผู้ชายในฝันของฉัน
+Tom just packed up and left.	ทอมพึ่งเก็บของและจากไป
+Tom wants to be on our team.	ทอมต้องการอยู่ในทีมของเรา
+Tom was kicked off the team.	ทอมถูกไล่ออกจากทีม
+Tom was out late last night.	ทอมออกไปตอนดึกเมื่อคืนนี้
+Tom was the last to go home.	ทอมเป็นคนสุดท้ายที่กลับบ้าน
+Tom works from nine to five.	ทอมทำงานตั้งแต่เก้าโมงเช้าถึงห้าโมงเย็น
+Twenty years already passed.	ยี่สิบปีผ่านไปแล้ว
+We don't have time to sleep.	เราไม่มีเวลานอน
+We feel the same way you do.	เรารู้สึกแบบเดียวกับคุณ
+We get together once a year.	เรามารวมตัวกันปีละครั้ง
+We know our work isn't done.	เรารู้ว่างานของเรายังไม่เสร็จ
+We're a peace-loving nation.	พวกเราคือประเทศที่รักสันติภาพ
+Were you at home last night?	เมื่อคืนคุณอยู่บ้านไหม?
+What are you thinking about?	คุณคิดเกี่ยวกับอะไร?
+What books do you recommend?	คุณแนะนำหนังสือเล่มไหน
+Where are you at the moment?	ตอนนี้คุณอยู่ที่ไหน
+Where did I put my car keys?	ฉันเอากุญแจรถยนต์ของฉันไปไว้ไหน
+Where did I put the car key?	ฉันเอากุญแจรถยนต์ไปไว้ไหน
+Why are you studying French?	ทำไมคุณถึงเรียนภาษาฝรั่งเศส?
+Why don't you let Tom drive?	ทำไมคุณไม่ให้ทอมขับรถ
+You can go home if you like.	คุณกลับบ้านได้ถ้าต้องการ
+You know why I'm here today.	คุณรู้ว่าทำไมผมถึงมาที่นี่วันนี้
+You must show your passport.	คุณต้องแสดงหนังสือเดินทางของคุณ
+You need to be more careful.	คุณต้องระวังให้มากขึ้นกว่านี้
+You should begin right away.	คุณควรเริ่มต้นทันที
+You will see the difference.	คุณจะเห็นความแตกต่าง
+You're right about that one.	คุณพูดถูกเกี่ยวกับเรื่องนั้น
+You're so impatient with me.	เธอใจร้อนกับฉันจังเลย
+"You talk too much," he said.	"คุณพูดมากไป" เขากล่าว
+All the world speaks English.	ทั่วโลกพูดภาษาอังกฤษ
+Are you going to buy the car?	คุณจะไปซื้อรถใช่ไหม
+Can I have your phone number?	ฉันขอเบอร์โทรศัพท์ของคุณได้ไหม?
+Could you please repeat that?	คุณกรุณาพูดสิ่งนั้นซ้ำได้ไหม?
+Did you read that thick book?	คุณอ่านหนังสือเล่มหนาเล่มนั้นหรือยัง?
+Did you really tell Tom that?	คุณบอกเรื่องนั้นกับทอมจริงๆ หรือ?
+Do you come here every night?	คุณมาที่นี่ทุกคืนเหรอ
+Do you often have to do that?	คุณต้องทำอย่างนั้นบ่อยไหม
+Do you think this is too big?	คุณคิดว่ามันใหญ่เกินไปเหรอ
+Do you want my email address?	คุณต้องการอีเมลล์ผมไหม
+Do you want to do it with me?	คุณต้องการทำมันกับฉันมั้ย
+Don't lean against this wall.	อย่าพิงกำแพงนี้
+Don't put books on the table.	อย่าวางหนังสือไว้บนโต๊ะ
+Don't underestimate my power.	อย่าประมาทพลังของฉัน
+Every problem has a solution.	ทุกปัญหามีทางออก
+Has the mailman already come?	บุรุษไปรษณีย์มาแล้วหรือยัง?
+Have you ever been to Europe?	คุณเคยไปยุโรปไหม?
+Have you ever sung in French?	คุณเคยร้องเพลงเป็นภาษาฝรั่งเศสบ้างไหม?
+He asked me what my name was.	เขาถามฉันว่าฉันชื่อฉันคืออะไร
+He came home late last night.	เมื่อคืนนี้เขากลับบ้านสาย
+He decided to become a pilot.	เขาตัดสินใจที่จะเป็นนักบิน
+He didn't answer my question.	เขาไม่ได้ตอบคำถามของฉัน
+He refused to take the bribe.	เขาปฏิเสธที่จะรับสินบน
+Here's something interesting.	นี่คือสิ่งที่น่าสนใจ
+His house is near the subway.	บ้านของเขาอยู่ใกล้รถไฟใต้ดิน
+How far is it to the airport?	สนามบินอยู่ไกลแค่ไหน?
+How is your job search going?	หางานเป็นไงบ้าง?
+How many cars have you owned?	คุณมีรถยนต์กี่คัน
+How many flowers did you buy?	คุณซื้อดอกไม้กี่ดอก?
+I bought two bottles of milk.	ผมซื้อนมสองขวด
+I brush my teeth twice a day.	ฉันแปลงฟันวันละสองครั้ง
+I brush my teeth twice a day.	ฉันแปลงฟันสองครั้งต่อวัน
+I came by to feed Tom's fish.	ผมมาให้อาหารปลาของทอม
+I can't remember what I said.	เราจำไม่ได้ว่าพูดอะไรไป
+I didn't want to take a taxi.	ผมไม่อยากไปแท็กซี่
+I don't know if there's time.	ฉันไม่รู้ว่ามีเวลาหรือเปล่า
+I don't like your suggestion.	ผมไม่ชอบคำแนะนำของคุณ
+I don't understand this word.	ฉันไม่เข้าใจคำนี้
+I don't want to go any place.	ผมไม่อยากไปไหน
+I don't want to go to school.	ฉันไม่อยากไปโรงเรียน
+I don't want to work for Tom.	ผมไม่อยากทำงานให้ทอม
+I got up early to go fishing.	ผมตื่นเช้าเพื่อไปตกปลา
+I have a lot of things to do.	ฉันมีหลายสิ่งที่ต้องทำ
+I have no time to read books.	ฉันไม่มีเวลาอ่านหนังสือ
+I have very little time left.	ผมมีเวลาเหลือน้อยมาก
+I know Tom is a veterinarian.	ผมรู้ว่าทอมเป็นสัตวแพทย์
+I know you aren't interested.	ผมรู้ว่าคุณไม่สนใจ
+I missed my bus this morning.	ฉันตกรถเมล์เมื่อเช้านี้
+I missed my bus this morning.	ฉันขึ้นรถเมล์ไม่ทันเมื่อเช้านี้
+I need a taxi to the airport.	ผมต้องการแท็กซี่ไปสนามบิน
+I promise to do my very best.	ผมสัญญาว่าจะทำให้ดีที่สุด
+I seem to have caught a cold.	ดูเหมือนว่าฉันติดหวัดแล้ว
+I shouldn't have doubted you.	ผมไม่ควรสงสัยคุณ
+I slept very well last night.	ฉันนอนหลับดีมากเมื่อคืน
+I slept very well last night.	เมื่อคืนฉันนอนหลับดีมาก
+I study from eight to eleven.	ฉันเรียนตั้งแต่แปดโมงถึงสิบเอ็ดโมง
+I think that Tom will resign.	ฉันคิดว่าทอมจะลาออก
+I thought everybody liked it.	ฉันคิดว่าทุกคนชอบมัน
+I thought you knew this area.	ผมคิดว่าคุณรู้จักแถวนี้
+I thought you were my friend.	ฉันคิดว่าคุณเป็นเพื่อนของฉัน
+I want to get a tourist visa.	ผมต้องการทำวีซ่าท่องเที่ยว
+I want to travel to the moon.	ฉันอยากเดินทางไปดวงจันทร์
+I was very worried about Tom.	ผมเป็นห่วงทอมมาก
+I would like a cup of coffee.	ฉันต้องการกาแฟหนึ่งแก้ว
+I'd like to be a millionaire.	ฉันอยากเป็นเศรษฐี
+I'll attend the next meeting.	ฉันจะเข้าร่วมการประชุมครั้งต่อไป
+I'll find someone to help us.	ผมจะหาคนมาช่วยเรา
+I'm doing this for my family.	ฉันทำสิ่งนี้เพื่อครอบครัวของฉัน
+I'm going to take you to Tom.	ผมจะพาคุณไปหาทอม
+I'm not going to forgive you.	ผมจะไม่ยกโทษให้คุณ
+I'm sorry, I can't stay long.	ฉันขอโทษฉันอยู่นานไม่ได้
+I'm sure you'll both do well.	ผมแน่ใจว่าคุณทั้งคู่จะทําได้ดี
+I'm worried about all of you.	ผมเป็นห่วงพวกคุณทุกคน
+It certainly looks like rain.	ดูเหมือนฝนจะตกแน่นอน
+It looks as if it might rain.	ดูเหมือนว่าฝนจะตก
+It's not as easy as it looks.	มันไม่ง่ายเหมือนที่เห็น
+It's so nice to stay at home.	มันดีมากที่ได้อยู่บ้าน
+Let me finish eating, please.	ผมขอกินให้เสร็จก่อนนะ
+Let us know if you're coming.	แจ้งให้เราทราบถ้าคุณจะมา
+Let's not quarrel about this.	อย่าทะเลาะกันเรื่องนี้
+Mary likes both Tom and John.	แมรี่ชอบทั้งทอมและจอห์น
+Mary was like a sister to me.	แมรี่เป็นเหมือนน้องสาวของผม
+May I borrow your dictionary?	ฉันขอยืมพจนานุกรมของคุณได้ไหม?
+My brother is still sleeping.	พี่ชายของฉันยังนอนอยู่?
+My father is fifty years old.	พ่อของฉันมีอายุห้าสิบปี
+One language is never enough.	ภาษาเดียวไม่เคยพอ
+Our problems aren't over yet.	ปัญหาของเรายังไม่จบ
+Please give me a cup of milk.	กรุณาให้นมฉันหนึ่งถ้วย
+Please give me a cup of milk.	กรุณาให้นมหนึ่งถ้วยกับฉัน
+Please read page ninety-four.	โปรดอ่านหน้าเก้าสิบสี่
+Please turn in your homework.	กรุณาส่งการบ้านของคุณ
+Shall we watch the movie now?	พวกเราจะดูหนังตอนนี้เลยมั้ย?
+She saw a tall man yesterday.	เธอเห็นชายร่างสูงเมื่อวานนี้
+Some of these apples are bad.	แอปเปิ้ลบางลูกไม่ดี
+Tell me what your problem is.	บอกผมว่าปัญหาของคุณคืออะไร
+That might've been a mistake.	นั่นอาจเป็นความผิดพลาด
+That's a job I wouldn't want.	นั่นเป็นงานที่ฉันไม่ต้องการ
+That's because you're a girl.	นั่นเป็นเพราะว่าคุณเป็นผู้หญิง
+The bucket was full of water.	ถังเต็มไปด้วยน้ำ
+The capital of Italy is Rome.	เมืองหลวงของอิตาลีคือโรม
+The fire truck is on its way.	รถดับเพลิงกำลังมา
+The sick child sat up in bed.	เด็กป่วยนั่งบนเตียง
+The snow has all melted away.	หิมะละลายไปหมดแล้ว
+The water level is very high.	ระดับน้ำสูงมาก
+There's just not enough time.	มีเวลาไม่พอ
+There's nothing for me to do.	ไม่มีอะไรให้ฉันทำ
+They didn't give us anything.	พวกเขาไม่ได้ให้อะไรเราเลย
+This book sold well in Japan.	หนังสือเล่มนี้ขายดีในญี่ปุ่น
+This is the official website.	นี่คือเว็บไซต์อย่างเป็นทางการ
+Tom and Mary aren't home yet.	ทอมกับแมรี่ยังไม่กลับบ้าน
+Tom didn't apply for the job.	ทอมไม่ได้สมัครงาน
+Tom is a high school student.	ทอมเป็นนักเรียนมัธยมปลาย
+Tom is as tall as his father.	ทอมสูงเท่ากับพ่อของเขา
+Tom is looking for a way out.	ทอมกำลังมองหาทางออก
+Tom likes talking about Mary.	ทอมชอบพูดถึงแมรี่
+Tom quickly put out the fire.	ทอมรีบดับไฟ
+Tom said he didn't know this.	ทอมบอกว่าเขาไม่รู้เรื่องนี้
+Tom says he wants to do that.	ทอมบอกว่าเขาต้องการทำอย่างนั้น
+Tom was telling us the truth.	ทอมบอกความจริงกับเรา
+Tom's death wasn't a suicide.	การตายของทอมไม่ใช่การฆ่าตัวตาย
+We don't have this in Europe.	เราไม่มีสิ่งนี้ในยุโรป
+We have lots of things to do.	เรามีหลายสิ่งให้ทำ
+We were born on the same day.	เราเกิดในวันเดียวกัน
+We'll stay here until Monday.	เราจะอยู่ที่นี่จนถึงวันจันทร์
+What are you concerned about?	คุณกังวลเรื่องอะไร
+What you say is usually true.	สิ่งที่คุณพูดมักเป็นจริง
+When is the next guided tour?	เมื่อไหร่จะมีการนำเที่ยวอีก
+Where did you see that woman?	คุณเห็นผู้หญิงคนนั้นอยู่ที่ไหน?
+Where did you see that woman?	คุณเห็นผู้หญิงคนนั้นที่ไหน
+Which is the smallest planet?	ดาวเคราะห์ดวงไหนเล็กที่สุด?
+Which pair of shoes is yours?	รองเท้าคู่ไหนเป็นของคุณ
+Why don't you sit next to me?	ทำไมคุณไม่นั่งข้างผม
+Why's everyone looking at me?	ทำไมทุกคนมองมาที่ฉัน?
+Yesterday, I studied all day.	เมื่อวานฉันเรียนทั้งวัน
+You always forget your money.	คุณลืมเงินของคุณเป็นประจำ
+You can't live without water.	คุณไม่สามารถอยู่ได้โดยปราศจากน้ำ
+You did that right this time.	ครั้งนี้คุณทำถูกต้องแล้ว
+You didn't tell me the truth.	คุณไม่ได้บอกความจริงกับผม
+You know his name, don't you?	คุณรู้ชื่อเขาใช่ไหม
+You must follow school rules.	คุณต้องปฏิบัติตามกฎของโรงเรียน
+You need to do that tomorrow.	เธอต้องทำพรุ่งนี้
+You won't find anything here.	คุณจะไม่พบอะไรที่นี่
+You're not telling the truth.	คุณไม่ได้บอกความจริง
+"Thank you." "You're welcome."	"ขอบคุณ" "ไม่เป็นอะไร"
+A few of the balls are yellow.	ลูกบอลบางลูกเป็นสีเหลือง
+All that glitters is not gold.	สิ่งที่เปล่งประกายนั่นไม่ใช่ทองคำ
+Are any seats still available?	ยังมีที่นั่งว่างไหม
+Are you really that desperate?	นี่คุณสิ้นหวังขนาดนั้นเลยเหรอ?
+Can you pronounce these words?	คุณออกเสียงคำเหล่านี้ได้ไหม?
+Did Tom tell you his password?	ทอมบอกรหัสผ่านเขากับคุณหรือเปล่า
+Did you know Tom wouldn't win?	คุณรู้ไหมว่าทอมจะไม่ชนะ
+Did you leave the window open?	คุณเปิดหน้าต่างทิ้งไว้หรือไม่?
+Did you pass your examination?	คุณสอบผ่านหรือเปล่า
+Do you have a pen in your car?	คุณมีปากกาอยู่ในรถไหม?
+Do you have any cheaper rooms?	คุณมีห้องที่ถูกกว่านี้ไหม?
+Do you know a good restaurant?	คุณรู้จักร้านอาหารดีๆไหม
+Do you like going to concerts?	คุณชอบไปดูคอนเสิร์ตไหม?
+Do you really not remember me?	คุณจำผมไม่ได้จริงๆหรอ
+Do you think Tom will be late?	คุณคิดว่าทอมจะมาสายไหม
+Do you want to study together?	คุณอยากเรียนด้วยกันไหม
+Does Tom need to go right now?	ทอมต้องไปตอนนี้หรือไม่?
+Don't anybody leave this room.	ห้ามใครออกจากห้องนี้
+He doesn't speak our language.	เขาไม่ได้พูดภาษาของเรา
+He doesn't speak our language.	เขาบ่ได้พูดภาษาของหมู่เฮา
+How can we solve this problem?	เราจะแก้ปัญหานี้อย่างไร
+How is your last name written?	นามสกุลของคุณเขียนอย่างไร
+How long have you been abroad?	คุณอยู่ต่างประเทศมานานเท่าไหร่แล้ว?
+How much did you pay for that?	คุณจ่ายไปเท่าไหร่
+I can do that better than you.	ผมสามารถทำได้ดีกว่าคุณ
+I don't eat junk food anymore.	ผมไม่กินอาหารขยะอีกต่อไป
+I don't have time to exercise.	ผมไม่มีเวลาออกกำลังกาย
+I don't have time to meet you.	ผมไม่มีเวลาไปพบคุณ
+I don't know when he's coming.	ฉันไม่รู้ว่าเขาจะมาเมื่อไหร่
+I don't want Tom to stay here.	ผมไม่อยากให้ทอมอยู่ที่นี่
+I drink coffee in the morning.	ฉันดื่มกาแฟในตอนเช้า
+I got a letter from my friend.	ฉันได้รับจดหมายจากเพื่อนของฉัน
+I have an orange and an apple.	ฉันมีส้มและแอปเปิ้ล
+I just don't know what to say.	ฉันแค่ไม่รู้จะพูดอะไร
+I knew they were your friends.	ฉันรู้ว่าพวกเขาเป็นเพื่อนคุณ
+I know that you can do better.	ผมรู้ว่าคุณทําได้ดีกว่านี้
+I learned to live without her.	ฉันเรียนรู้การอยู่โดยที่ไม่มีเธอ
+I like the sound of the piano.	ฉันชอบเสียงของเปียโน
+I plan to get back home today.	ผมตั้งใจจะกลับบ้านวันนี้
+I prefer not to talk about it.	เราไม่อยากคุยเกี่ยวกับเรื่องนี้
+I really need to hit somebody.	ฉันจำเป็นต้องตีใครสักคน
+I regret eating those oysters.	ฉันเสียใจที่ได้ทานหอยนางรมนั่น
+I saw a house with a red roof.	ผมเห็นบ้านที่มีหลังคาสีแดง
+I saw the moon above the roof.	ฉันเห็นดวงจันทร์อยู่เหนือหลังคา
+I think his life is in danger.	ฉันคิดว่าชีวิตของเขาตกอยู่ในอันตราย
+I thought that was impossible.	ผมคิดว่ามันเป็นไปไม่ได้
+I want to be an honest person.	ฉันต้องการเป็นคนซื่อสัตย์
+I want to be friends with you.	ผมอยากเป็นเพื่อนกับคุณ
+I want to do better next time.	ฉันต้องการที่ทำดีขึึ้นในเวลาหน้า
+I want to do that immediately.	ฉันต้องการที่จะทำมันในทันที
+I was accustomed to hard work.	ฉันคุ้นชินกับการทำงานหนัก
+I wish you could come with us.	ฉันหวังว่าคุณจะมากับเราได้
+I work for a shipping company.	ฉันทำงานให้กับบริษัทขนส่ง
+I'll be moving out next month.	ฉันจะย้ายออกเดือนหน้า
+I'll go to the hospital today.	ผมจะไปโรงพยาบาลวันนี้
+I'll pick you up after school.	ผมจะไปรับคุณหลังเลิกเรียน
+I'm ready to leave this place.	ผมพร้อมที่จะออกจากที่นี่
+I'm sure you've misunderstood.	ผมแน่ใจว่าคุณเข้าใจผิด
+I've been busy for three days.	ฉันยุ่งเป็นเวลาสามวันแล้ว
+I've been very busy this week.	สัปดาห์นี้ผมยุ่งมาก
+I've got a three-year-old son.	ผมมีลูกชายอายุสามขวบ
+I've seen this picture before.	ผมเคยเห็นรูปนี้มาก่อน
+I've still got a lot to learn.	ฉันยังมีอะไรอีกมากมายให้เรียนรู้
+It isn't likely to rain today.	ฝนไม่น่าจะตกวันนี้
+It was cheaper than I thought.	มันถูกกว่าที่ฉันคิด
+It was very cold that evening.	เย็นวันนั้นอากาศหนาวมาก
+It's not easy to quit smoking.	การเลิกบุหรี่ไม่ใช่เรื่องง่าย
+Just say what you want to say.	แค่พูดในสิ่งที่คุณต้องการจะพูด
+Let's try to solve the riddle.	ลองไขปริศนากันดู
+Look at me when I talk to you!	มองมาที่ฉันเมื่อฉันคุยกับคุณ!
+Many people disagree with you.	หลายคนไม่เห็นด้วยกับคุณ
+My family is very proud of me.	ครอบครัวของฉันภูมิใจในตัวฉันมาก
+My younger brother watches TV.	น้องชายของฉันดูโทรทัศน์
+Nobody ever comes to visit me.	ไม่เคยมีใครมาเยี่ยมผม
+Oranges are rich in vitamin C.	ส้มอุดมไปด้วยวิตามินซี
+Please feed the dog every day.	กรุณาให้อาหารสุนัขทุกวัน
+Please give me another chance.	โปรดให้โอกาสฉันอีกครั้ง
+Please wait outside the house.	โปรดรอนอกบ้าน
+Please wait outside the house.	กรุณารอนอกบ้าน
+School begins at eight-thirty.	โรงเรียนเริ่มต้นที่แปดโมงสามสิบ
+She was pleased with the gift.	เธอพอใจกับของขวัญ
+She's really smart, isn't she?	เธอฉลาดจริง ๆ ไม่ใช่หรือ?
+Tea was introduced from China.	ชาถูกนำมาจากประเทศจีน
+The beach isn't far from here.	ชายหาดอยู่ไม่ไกลจากที่นี่
+The box is too heavy to carry.	กล่องหนักเกินกว่าที่จะแบก
+The train was delayed by snow.	รถไฟล่าช้าเพราะหิมะ
+These cookies are star-shaped.	คุกกี้พวกนี้เป็นรูปดาว
+They were watching television.	พวกเขาดูโทรทัศน์
+This beer contains 5% alcohol.	เบียร์นี้มีแอลกอฮอล์ 5%
+This wine is made from grapes.	ไวน์นี้ทำมาจากองุ่น
+Three of Tom's cats have died.	แมวสามตัวของทอมตายแล้ว
+Today I need to go home early.	วันนี้ผมต้องกลับบ้านเร็ว
+Tom and Mary are good friends.	ทอมกับแมรี่เป็นเพื่อนที่ดี
+Tom did something very stupid.	ทอมทำอะไรที่โง่มาก ๆ
+Tom didn't expect this at all.	ทอมไม่ได้คาดหวังสิ่งนี้เลย
+Tom doesn't understand French.	ทอมไม่เข้าใจภาษาฝรั่งเศส
+Tom has a lot of French books.	ทอมมีหนังสือภาษาฝรั่งเศสมากมาย
+Tom is giving the baby a bath.	ทอมกำลังอาบน้ำให้ลูก
+Tom left town three weeks ago.	ทอมออกจากเมืองไปเมื่อสามสัปดาห์ก่อน
+Tom lives here all by himself.	ทอมอาศัยอยู่ที่นี่คนเดียว
+Tom put some coins in the box.	ทอมใส่เหรียญลงในกล่อง
+Tom saw blood on Mary's hands.	ทอมเห็นเลือดบนมือของแมรี่
+Tom should cancel the meeting.	ทอมควรยกเลิกการประชุม
+Tom wasn't wearing a raincoat.	ทอมไม่ได้ใส่เสื้อกันฝน
+Tom's imagination was aroused.	จินตนาการของทอมถูกกระตุ้น
+We have something to tell you.	เรามีบางอย่างจะบอกคุณ
+We like swimming in the ocean.	เราชอบว่ายน้ำในมหาสมุทร
+We need to leave here at once.	เราต้องออกจากที่นี่ทันที
+We sometimes swim in the lake.	บางครั้งเราก็ว่ายน้ำในทะเลสาบ
+We stored the hay in the barn.	เราเก็บหญ้าแห้งไว้ในโรงนา
+We were eating lunch together.	เรากำลังกินข้าวกลางวันด้วยกัน
+Were you really home schooled?	คุณเรียนที่บ้านจริงๆเหรอ
+What did you do with my pants?	คุณทำอะไรกับกางเกงของฉัน?
+What does Tom want to achieve?	ทอมต้องการบรรลุอะไร
+What is the price of this cap?	หมวกนี้ราคาเท่าไหร่?
+What made Tom do such a thing?	อะไรทำให้ทอมทำอย่างนั้น
+What subject do you like best?	วิชาใดที่คุณชอบมากที่สุด?
+What time did the meeting end?	การประชุมจบกี่โมง
+What time does the store open?	ร้านค้าเปิดกี่โมง?
+What time does the store open?	ร้านค้าเปิดเมื่อไหร่?
+When did you arrive in Boston?	คุณมาถึงบอสตันเมื่อไหร่?
+Where did Tom buy this coffee?	ทอมซื้อกาแฟนี้ที่ไหน
+Where is the Japanese Embassy?	สถานทูตญี่ปุ่นอยู่ที่ไหน?
+Which season do you like best?	คุณชอบฤดูไหนมากที่สุด
+Who buried the gold bars here?	ใครฝังแท่งทองคำที่นี่?
+Who does your laundry for you?	ใครซักเสื้อผ้าของคุณให้คุณ
+Whose dog is playing with Tom?	สุนัขของใครเล่นกับทอม
+Why do rabbits have long ears?	ทำไมกระต่ายถึงมีหูยาว?
+Why don't you stay for dinner?	ทำไมคุณไม่อยู่ทานอาหารเย็น
+Why weren't we told the truth?	ทำไมพวกเราไม่ได้ถูกบอกความจริงมา?
+Will you please let me go now?	คุณปล่อยให้ฉันไปแล้วได้ไหม?
+You don't have to do anything.	คุณไม่ต้องทำอะไร
+You have no right to go there.	คุณไม่มีสิทธิ์ไปที่นั่น
+You shouldn't eat fatty foods.	คุณไม่ควรกินอาหารที่มีไขมัน
+You'd better go back home now.	คุณควรกลับบ้านตอนนี้
+You're not going to like this.	คุณจะไม่ชอบสิ่งนี้
+A century is one hundred years.	หนึ่งศตวรรษคือหนึ่งร้อยปี
+Antibiotics can't kill viruses.	ยาปฏิชีวนะไม่สามารถฆ่าไวรัสได้
+Anyone can use this dictionary.	ทุกคนสามารถใช้พจนานุกรมนี้ได้
+Are you interested in politics?	คุณสนใจการเมืองหรือไม่?
+Are you ready to start working?	คุณพร้อมที่จะเริ่มงานหรือยัง
+Bee stings can be very painful.	โดนผึ่งต่อยอาจจะเจ็บปวดมาก
+Come along with us if you like.	มากับพวกเราถ้าคุณชอบ
+Could you help us after school?	คุณช่วยเราหลังเลิกเรียนได้ไหม?
+Did Tom show up at the meeting?	ทอมไปที่ประชุมมั๊ย?
+Do you know how to drive a car?	คุณรู้วิธีขับรถยนต์หรือไม่?
+Do you mind if I open the door?	คุณรังเกียจไหมถ้าฉันเปิดประตู?
+Do you regret having done that?	คุณเสียใจไหมที่ทำอย่างนั้น
+Do you think Tom could help us?	คุณคิดว่าทอมช่วยเราได้มั้ย?
+Does Tom need to go right away?	ทอมจำเป็นต้องไปเลยมั้ย?
+Does someone here speak French?	มีคนที่นี่พูดภาษาฝรั่งเศสได้ไหม?
+Don't feed the pigeons, please.	กรุณาอย่าให้อาหารนกพิราบ
+Don't waste your time on these.	อย่าเสียเวลากับสิ่งเหล่านี้
+Everyone here can speak French.	ทุกคนที่นี่สามารถพูดภาษาฝรั่งเศสได้
+Have you ever been to an opera?	คุณเคยไปโรงอุปรากรหรือไม่?
+He disappeared without a trace.	ขาหายตัวไปอย่างไร้ร่องรอย
+He is leaving Chicago tomorrow.	วันพรุ่งนี้เขาจะเดินทางออกจากชิคาโก้
+He threw a stone into the pond.	เขาโยนก้อนหินลงไปในบ่อ
+How long did you talk with Tom?	คุณคุยกับทอมมานานเท่าไหร่แล้ว?
+How many children were injured?	เด็กบาดเจ็บกี่คน
+How many times must I tell you?	ผมต้องบอกคุณอีกกี่ครั้ง
+I asked him where he was going.	ผมถามเขาว่าเขาจะไปไหน
+I brought some friends with me.	ผมพาเพื่อนมาด้วย
+I can understand your language.	ฉันเข้าใจภาษาของคุณ
+I can't live that kind of life.	ฉันใช้ชีวิตแบบนั้นไม่ได้
+I deleted the file by accident.	ผมลบไฟล์โดยไม่ตั้งใจ
+I don't understand your answer.	ผมไม่เข้าใจคำตอบของคุณ
+I don't want to see that again.	ผมไม่อยากเห็นสิ่งนั้นอีก
+I found a dollar in the street.	ฉันพบดอลลาร์ในถนน
+I found what I was looking for.	ฉันเจอสิ่งที่ฉันกำลังมองหา
+I gave her her dictionary back.	ฉันให้พจนานุกรมของเธอกลับมาให้เธอ
+I had a pretty happy childhood.	ผมมีความสุขในตอนเด็ก
+I have a pain in my little toe.	ฉันมีอาการปวดที่นิ้วก้อยเท้าของฉัน
+I have to prepare for the test.	ผมต้องเตรียมตัวสำหรับการสอบ
+I heard a noise in the bedroom.	ฉันได้ยินเสียงในห้องนอน
+I hope you have a good weekend.	ผมหวังว่าคุณจะมีวันหยุดสุดสัปดาห์ที่ดี
+I missed the train by a minute.	ฉันพลาดรถไฟไปหนึ่งนาที
+I need a screwdriver to fix it.	ผมต้องการไขควงเพื่อซ่อมมัน
+I thought I heard Tom coughing.	ผมคิดว่าผมได้ยินเสียงทอมไอ
+I thought that they'd heard us.	ฉันคิดไปว่าพวกเขาจะได้ยินเรา
+I thought you wanted the truth.	ผมคิดว่าคุณต้องการความจริง
+I want to get my mind off work.	ผมอยากพักสมองจากงาน
+I wanted to know what happened.	ผมอยากรู้ว่าเกิดอะไรขึ้น
+I was late for the appointment.	ฉันมาสายกว่าการนัดหมาย
+I wasn't able to lift that box.	ผมไม่สามารถยกกล่องนั้นได้
+I watched a tennis match on TV.	ฉันดูการแข่งขันเทนนิสทางทีวี
+I won't be able to repair that.	ผมไม่สามารถซ่อมมันได้
+I'll give you a simple example.	ผมจะให้ตัวอย่างง่ายๆแก่คุณ
+I'm going to come back for you.	ผมจะกลับมาหาคุณ
+I'm impressed with your French.	ฉันประทับใจกับภาษาฝรั่งเศสของคุณ
+I'm looking for a place to sit.	ผมกำลังหาที่นั่ง
+I'm so much older than you are.	ผมอายุมากกว่าคุณมาก
+I'm sure that Tom will be back.	ผมแน่ใจว่าทอมจะกลับมา
+I'm sure we could arrange that.	ผมแน่ใจว่าเราจัดการได้
+I'm the one who made this mess.	ผมเป็นคนทำเรื่องวุ่นวายนี้เอง
+I'm the youngest in the family.	ฉันอายุน้อยที่สุดในครอบครัว
+I've always been a hard worker.	ผมทำงานหนักมาตลอด
+I've been here for three hours.	ผมอยู่ที่นี่มาสามชั่วโมงแล้ว
+I've played sports all my life.	ผมเล่นกีฬามาทั้งชีวิต
+I've seen Tom on TV many times.	ฉันเคยเห็นทอมทางทีวีหลายครั้ง
+In town, the shops were closed.	ในเมืองร้านค้าถูกปิด
+It doesn't bother you, does it?	มันไม่รบกวนคุณใช่ไหม
+It hasn't snowed here in years.	ที่นี่ไม่มีหิมะตกมาหลายปีแล้ว
+It rained five successive days.	ฝนตกติดต่อกันห้าวัน
+It's a waste of time and money.	มันเปลืองเวลาและเงิน
+It's not easy raising children.	มันไม่ง่ายเลยที่จะเลี้ยงลูก
+It's only a temporary solution.	มันเป็นเพียงวิธีแก้ปัญหาชั่วคราว
+Learning a language takes time.	การเรียนภาษาต้องใช้เวลา
+Let's play tennis after school.	ลองเล่นเทนนิสหลังเลิกเรียน
+Let's wait until Tom gets back.	รอจนกว่าทอมจะกลับมา
+Mary is the woman of my dreams.	แมรี่คือผู้หญิงในฝันของฉัน
+Mary wants to become a teacher.	แมรี่ต้องการเป็นครู
+Mary wants to become a teacher.	แมรี่อยากเป็นครู
+May I go with you on your walk?	ผมขอเดินไปกับคุณได้ไหม
+My girlfriend is a good dancer.	แฟนของฉันเป็นนักเต้นที่ดี
+Nobody stayed to help clean up.	ไม่มีใครอยู่ช่วยทำความสะอาด
+None of us want that to happen.	ไม่มีใครอยากให้มันเกิดขึ้น
+Please add my name to the list.	กรุณาเพิ่มชื่อของฉันลงในรายการ
+She was afraid to travel alone.	เธอกลัวที่จะเดินทางคนเดียว
+She whispered something to him.	เธอกระซิบบางอย่างกับเขา
+Songwriting is a hobby of mine.	การแต่งเพลงเป็นงานอดิเรกของผม
+The boy made his parents happy.	เด็กผู้ชายทำให้พ่อแม่ของเขามีความสุข
+The moon was above the horizon.	ดวงจันทร์อยู่เหนือขอบฟ้า
+The virus is spreading rapidly.	ไวรัสกำลังแพร่กระจายอย่างรวดเร็ว
+There are some eggs in the box.	มีไข่บางส่วนอยู่ในกล่อง
+There's a monster under my bed.	มีสัตว์ประหลาดใต้เตียงฉัน
+These plants are all poisonous.	พืชเหล่านี้ล้วนมีพิษ
+This is a great place to start.	นี่เป็นจุดเริ่มต้นที่ดี
+This is one of the basic rules.	นี่เป็นหนึ่งในกฎพื้นฐาน
+This is some of your best work.	นี่คือผลงานที่ดีที่สุดของคุณ
+This is where Tom used to work.	นี่คือที่ที่ทอมเคยทำงาน
+This isn't as easy as it looks.	มันไม่ง่ายอย่างที่คิด
+Those houses are 500 years old.	บ้านพวกนั้นมีอายุ 500 ปี
+Tom and I are going to be fine.	ทอมกับฉันจะสบายดี
+Tom and I went to the cemetery.	ทอมกับผมไปสุสาน
+Tom doesn't go fishing anymore.	ทอมไม่ไปตกปลาแล้ว
+Tom is definitely going to win.	ทอมจะชนะแน่นอน
+Tom is going to sell his house.	ทอมกำลังจะขายบ้านของเขา
+Tom is not able to drive a car.	ทอมขี่รถไม่ได้
+Tom is pouring a glass of milk.	ทอมกำลังรินนมหนึ่งแก้ว
+Tom isn't telling us the truth.	ทอมไม่ได้บอกความจริงกับพวกเรา
+Tom knows nothing about Boston.	ทอมไม่รู้อะไรเลยเกี่ยวกับบอสตัน
+Tom knows that we aren't happy.	ทอมรู้ว่าเราไม่มีความสุข
+Tom often eats fish for dinner.	ทอมมักจะกินปลาเป็นอาหารเย็น
+Tom owns an estate in Scotland.	ทอมเป็นเจ้าของที่ดินในสก๊อตแลนด์
+Tom picked up the broken glass.	ทอมหยิบแก้วที่แตก
+Tom thinks that he's so clever.	ทอมคิดว่าเขาฉลาดมาก
+Tom walked back into the hotel.	ทอมเดินกลับเข้าไปในโรงแรม
+Tom wanted to hire a detective.	ทอมต้องการจ้างนักสืบ
+Tom was crying when I got home.	ทอมร้องไห้เมื่อฉันกลับถึงบ้าน
+Tom's car was stuck in the mud.	รถของทอมติดอยู่ในโคลน
+Tonight, I feel like going out.	คืนนี้ผมรู้สึกอยากไปข้างนอก
+We have to plan for the future.	เราต้องวางแผนสำหรับอนาคต
+We want a room for four nights.	เราต้องการห้องพักสำหรับสี่คืน
+We've read what you've written.	เราอ่านสิ่งที่คุณเขียนแล้ว
+What did you get for Christmas?	คุณได้อะไรสำหรับวันคริสต์มาส?
+What else would you like to do?	คุณอยากทำอะไรอีก
+What is the name of this river?	แม่น้ำนี้ชื่อว่าอะไร?
+What were you even doing there?	คุณไปทำอะไรที่นั่น
+What's that have to do with me?	สิ่งนั้นเกี่ยวข้องกับฉันอย่างไร?
+When do you intend to visit us?	คุณตั้งใจจะมาเยี่ยมเราเมื่อไหร่
+When does the next train leave?	รถไฟขบวนถัดไปจะออกเมื่อไหร่?
+Where is the cathedral located?	มหาวิหารตั้งอยู่ที่ไหน?
+Which is heavier, lead or gold?	อันไหนที่หนักกว่า ตะกั่วหรือทองคำ?
+Which is heavier, lead or gold?	อะไรหนักกว่ากัน ตะกั่วหรือทองคำ?
+Why don't you come to my place?	ทำไมคุณไม่มาที่บ้านผม
+Why is everybody looking at us?	ทำไมทุกคนมองเรา
+Why should I give money to you?	ทำไมผมต้องให้เงินคุณ
+You have always been a fighter.	คุณเป็นนักสู้เสมอ
+You'll get everything you want.	คุณจะได้ทุกอย่างที่คุณต้องการ
+Your glasses fell on the floor.	แว่นตาของคุณหล่นลงบนพื้น
+A ship sank near here yesterday.	เรือจมใกล้ที่นี่เมื่อวานนี้
+All plants need water and light.	พืชทุกชนิดต้องการน้ำและแสงสว่าง
+Are you finished with your work?	คุณทำงานของคุณเสร็จแล้วหรือยัง?
+Are you ready to talk to me now?	คุณพร้อมที่จะคุยกับฉันตอนนี้ไหม
+Classes are starting again soon.	ชั้นเรียนจะเริ่มขึ้นอีกครั้งในไม่ช้า
+Do Tom and Mary have to do that?	ทอมกับแมรี่ต้องทำอย่างนั้นเหรอ?
+Do you feel like going swimming?	คุณรู้สึกอยากไปว่ายน้ำไหม?
+Don't ever come back here again.	อย่ากลับมาที่นี่อีก
+Don't forget to bring bug spray.	อย่าลืมนำสเปรย์กันแมลงมาด้วย
+Don't forget to wash your hands.	อย่าลืมล้างมือนะ
+Don't let opportunities pass by.	อย่าปล่อยให้โอกาสหลุดมือไป
+Don't you want to see your kids?	คุณไม่อยากเจอลูกๆเหรอ
+Everyone needs to work together.	ทุกคนต้องทำงานด้วยกัน
+Five times seven is thirty-five.	ห้าคูณเจ็ดได้สามสิบห้า
+Have any letters arrived for me?	มีจดหมายมาให้ฉันบ้างไหม?
+He was born in the 19th century.	เขาเกิดในศตวรรษที่ 19
+He's three years older than her.	เขาแก่กว่าเธอสามปี
+How long do I have to stay here?	ฉันต้องอยู่ที่นี่นานแค่ไหน?
+How much does my debt amount to?	หนี้ของผมมีจํานวนเท่าไหร่
+I am accustomed to cold weather.	ฉันคุ้นเคยกับสภาพอากาศเย็น
+I decided to go abroad to study.	ฉันตัดสินใจไปศึกษาต่อต่างประเทศ
+I didn't feel like buying a car.	ผมไม่รู้สึกอยากซื้อรถ
+I didn't know Tom had been sick.	ผมไม่รู้ว่าทอมป่วย
+I don't have a key to this room.	ผมไม่มีกุญแจห้องนี้
+I don't know if I have the time.	ฉันไม่รู้ว่ามีเวลามั้ย
+I don't like traveling by train.	ผมไม่ชอบเดินทางโดยรถไฟ
+I don't remember the exact date.	ผมจำวันที่ที่แน่นอนไม่ได้
+I had the documents sent to Tom.	ฉันมีเอกสารส่งให้ทอม
+I have a cousin who is a lawyer.	ฉันมีลูกพี่ลูกน้องซึ่งเป็นทนายความ
+I haven't found the problem yet.	ผมยังไม่พบปัญหา
+I hear you, but I don't see you.	ฉันได้ยินคุณ แต่ฉันมองไม่เห็นคุณ
+I just wanted to check my email.	ฉันแค่ต้องการตรวจสอบอีเมลของฉัน
+I need you to sign these papers.	ผมต้องการให้คุณเซ็นเอกสารเหล่านี้
+I only drank three cans of beer.	ผมดื่มเบียร์แค่สามกระป๋อง
+I really don't understand women.	ผมไม่เข้าใจผู้หญิงเลย
+I really need to speak with you.	ผมอยากคุยกับคุณจริงๆ
+I swear I won't do that anymore.	ผมสาบานว่าจะไม่ทำอย่างนั้นอีกแล้ว
+I think Tom is being reasonable.	ฉันคิดว่าทอมมีเหตุผล
+I think Tom wants me to do that.	ฉันคิดว่าทอมอยากให้ฉันทำอย่างนั้น
+I think that's already happened.	ผมคิดว่ามันเกิดขึ้นแล้ว
+I thought that you were working.	ผมคิดว่าคุณกำลังทำงาน
+I want you to keep your promise.	ฉันต้องการให้คุณรักษาสัญญาของคุณ
+I work for the Canadian embassy.	ผมทำงานให้สถานทูตแคนาดา
+I'll take two or three days off.	ฉันจะหยุดสองหรือสามวัน
+I'm asking you for your opinion.	ผมขอความเห็นคุณ
+I'm deeply concerned about this.	ผมกังวลเรื่องนี้มาก
+I'm going to exercise every day.	ผมจะออกกำลังกายทุกวัน
+I'm sorry to have disturbed you.	ฉันขอโทษที่รบกวนคุณ
+I'm thirty years older than you.	ผมแก่กว่าคุณสามสิบปี
+I've already forgotten his name.	ผมลืมชื่อเขาไปแล้ว
+I've never been late for school.	ฉันไม่เคยไปโรงเรียนสาย
+If I were you, I wouldn't do it.	ถ้าฉันเป็นคุณ ฉันจะไม่ทำมัน
+If it ain't broke, don't fix it.	ถ้ามันยังไม่พังอย่าซ่อมมัน
+It doesn't matter what she said.	ไม่สำคัญว่าเธอจะพูดอะไร
+Kids are smarter than you think.	เด็กฉลาดกว่าที่คุณคิด
+Last night, I dreamed about you.	เมื่อคืนฉันฝันเกี่ยวกับคุณ
+Let's wait for the rain to stop.	รอให้ฝนหยุดตก
+My dream is to be a firefighter.	ความฝันของผมคือการเป็นนักดับเพลิง
+My father is very angry with me.	พ่อของฉันโกรธฉันมาก
+My father sometimes goes abroad.	บางครั้งพ่อของฉันไปต่างประเทศ
+My friends invited me to dinner.	เพื่อนของฉันชวนฉันไปทานอาหารค่ำ
+My mother hates writing letters.	แม่ของฉันเกลียดการเขียนจดหมาย
+My mother made a sweater for me.	แม่ของฉันทำเสื้อกันหนาวให้ฉัน
+Of course she can speak English.	แน่นอนเธอพูดภาษาอังกฤษได้
+Our house has a termite problem.	บ้านเรามีปัญหาเรื่องปลวก
+Please say hello to your family.	โปรดทักทายครอบครัวของคุณ
+She advised him to see a lawyer.	เธอแนะนำให้เขาไปหาทนายความ
+She gets up early every morning.	เธอตื่นเช้าทุกเช้า
+She is afraid of her own shadow.	เธอกลัวเงาของเธอเอง
+She translated it word for word.	เธอแปลมันเป็นคำ ๆ
+Someone is hiding in the corner.	ใครบางคนซ่อนตัวอยู่ที่มุมห้อง
+Someone is knocking on the door.	มีคนกำลังเคาะประตู
+Someone is knocking on the door.	ใครบางคนกำลังเคาะประตู
+Thank you for giving this to me.	ขอบคุณที่มอบสิ่งนี้ให้ผม
+That's the most important thing.	นั่นคือสิ่งที่สำคัญที่สุด
+The bicycle by the door is mine.	จักรยานที่อยู่ข้างประตูเป็นของฉัน
+The room was filled with people.	ห้องเต็มไปด้วยผู้คน
+There wasn't a cloud in the sky.	ไม่มีเมฆบนท้องฟ้า
+There's a park behind our house.	มีสวนหลังบ้านเรา
+There's been a misunderstanding.	มีการเข้าใจผิดเกิดขึ้น
+They don't want you on the team.	พวกเขาไม่อยากให้คุณอยู่ในทีม
+They were afraid of the teacher.	พวกนั้นกลัวคุณครู
+This book is really interesting.	หนังสือเล่มนี้น่าสนใจจริงๆ
+Tom asked Mary if she loved him.	ทอมถามแมรี่ว่าเธอรักเขาหรือไม่
+Tom came to my office yesterday.	ทอมมาที่ออฟฟิศผมเมื่อวาน
+Tom got arrested Monday morning.	ทอมถูกจับเช้าวันจันทร์นี้
+Tom has been crying all morning.	ทอมร้องไห้ทั้งเช้าเลย
+Tom has been waiting in his car.	ทอมกำลังรออยู่ในรถของเขา
+Tom has decided to sell his car.	ทอมตัดสินใจขายรถของเขา
+Tom is watching the news report.	ทอมกำลังดูรายงานข่าว
+Tom likes trying out new things.	ทอมชอบลองสิ่งใหม่ ๆ
+Tom put his wallet on the table.	ทอมวางกระเป๋าเงินของเขาบนโต๊ะ
+Tom put the key into his pocket.	ทอมใส่กุญแจลงในกระเป๋าของเขา
+Tom said that he was unemployed.	ทอมบอกว่าเขาว่างงาน
+Tom said that he wasn't married.	ทอมบอกว่าเขายังไม่แต่งงาน
+Tom should've bought a used car.	ทอมควรจะซื้อรถมือสอง
+Tom took his daughter to school.	ทอมพาลูกสาวไปโรงเรียน
+Tom uses honey instead of sugar.	ทอมใช้น้ำผึ้งแทนน้ำตาล
+Tom walks his dog every morning.	ทอมพาสุนัขของเขาไปเดินเล่นทุกเช้า
+We haven't yet washed our hands.	เรายังไม่ได้ล้างมือ
+We live in a democratic society.	เราอยู่ในสังคมประชาธิปไตย
+What do you think of Tom's poem?	คุณคิดอย่างไรกับบทกวีของทอม?
+What time did Tom say he'd come?	ทอมบอกว่าเขาจะมาเวลาเท่าไหร่
+What's your favorite snack food?	อาหารขบเคี้ยวที่คุณชอบที่สุดคืออะไร
+Where would you most like to go?	คุณอยากไปที่ไหนมากที่สุด
+Why didn't you follow my advice?	ทำไมคุณไม่ทำตามคำแนะนำของฉัน?
+Why does Tom want to go with us?	ทำไมทอมต้องการไปกับเรา?
+Would you like to dance with me?	คุณต้องการที่จะเต้นรำกับฉันไหม?
+You can't do two things at once.	คุณไม่สามารถทำสองสิ่งในทีเดียวได้
+You couldn't live without water.	คุณไม่สามารถอยู่ได้โดยปราศจากน้ำ
+You have at least three options.	คุณมีอย่างน้อยสามทางเลือก
+You have lovely eyes, don't you?	คุณมีดวงตาที่น่ารัก หรือไม่ใช่
+You have to eat nutritious food.	คุณต้องกินอาหารที่มีคุณค่าทางโภชนาการ
+You're Tom's friend, aren't you?	คุณเป็นเพื่อนของทอมใช่ไหม
+"How old are you?" "I'm sixteen."	"คุณอายุเท่าไหร่?" "ฉันอายุสิบหกปี"
+About what time will Tom be back?	ทอมจะกลับมากี่โมง
+Are we supposed to be doing this?	เราควรที่จะทำแบบนี้มั้ยเนี่ย?
+Are you still going to walk home?	คุณยังจะเดินกลับบ้านอยู่ไหม
+Can I have my money back, please?	ผมขอเงินคืนได้ไหมครับ
+Copper conducts electricity well.	ทองแดงนำไฟฟ้าได้ดี
+Do you know who broke the window?	คุณรู้หรือเปล่าว่าใครทำกระจกแตก?
+Do you know who wrote this novel?	คุณรู้ไหมว่าใครเป็นคนเขียนนิยายเรื่องนี้?
+Do you want to know who did this?	คุณอยากรู้ไหมว่าใครทำ
+Don't waste your time on trifles.	อย่าเสียเวลาของคุณกับเรื่องไร้สาระ
+How many people are in the house?	มีคนอยู่ในบ้านกี่คน
+Hurry up, or you'll miss the bus.	เร็วเข้า หรือคุณจะตกรถเมล์
+I advised Tom to see the dentist.	ผมแนะนำให้ทอมไปหาหมอฟัน
+I asked him if he wanted a watch.	ฉันถามเขาว่าเขาต้องการนาฬิกาข้อมือหรือไม่
+I ate a burger, then went to bed.	ฉันกินเบอร์เกอร์จากนั้นก็เข้านอน
+I can't sleep with the lights on.	ฉันนอนเปิดไฟไม่ได้
+I can't stand that noise anymore.	ผมทนเสียงนั้นไม่ไหวแล้ว
+I definitely won't do that again.	ฉันจะไม่ทำอย่างนั้นอีกแน่นอน
+I did that the way you suggested.	ผมทำตามที่คุณแนะนำ
+I didn't want to come here today.	วันนี้ผมไม่อยากมาที่นี่
+I don't know who to consult with.	ฉันไม่รู้ว่าปรึกษากับใครดี
+I don't think Tom knows anything.	ผมคิดว่าทอมไม่รู้อะไรเลย
+I don't think Tom will hurt Mary.	ฉันไม่คิดว่าทอมจะทำร้ายแมรี่
+I don't think that you'd like it.	ผมไม่คิดว่าคุณจะชอบมัน
+I don't want to argue about that.	ฉันไม่ต้องการที่จะโต้แย้งเกี่ยวกับเรื่องนี้
+I feel terrible about my mistake.	ผมรู้สึกแย่มากกับความผิดพลาดของผม
+I had a strange dream last night.	เมื่อคืนที่ฉันฝันแปลก ๆ
+I had to admit that it was funny.	ฉันยอมรับว่ามันเป็นเรื่องตลก
+I have no place to sleep tonight.	ฉันไม่มีที่ให้นอนคืนนี้
+I haven't been able to reach Tom.	ผมไม่สามารถติดต่อทอมได้
+I haven't watched that video yet.	ผมยังไม่ได้ดูวิดีโอนั้น
+I know a good Italian restaurant.	ฉันรู้จักร้านอาหารอิตาเลียนที่ดี
+I love you more than you love me.	ผมรักคุณมากกว่าที่คุณรักผม
+I saw something moving out there.	ฉันเห็นบางสิ่งบางอย่างเคลื่อนที่อยู่ข้างนอกนั่น
+I want to buy a cheap dictionary.	ฉันต้องการซื้อพจนานุกรมถูก ๆ
+I want you to do that right away.	ผมต้องการให้คุณทำทันที
+I wasn't aware that Tom did that.	ฉันไม่รู้ว่าทอมทำอย่างนั้น
+I will go there even if it rains.	ฉันจะไปที่นั่นถึงแม้ฝนจะตก
+I wish he would write more often.	ฉันหวังว่าเขาจะเขียนบ่อยขึ้น
+I won't be able to sleep tonight.	ฉันไม่น่าจะนอนหลับได้คืนนี้
+I won't force anybody to do that.	ผมจะไม่บังคับใครให้ทำอย่างนั้น
+I'm the first one to get to work.	ผมเป็นคนแรกที่ไปทำงาน
+I'm tired of watching television.	ฉันเหนื่อยกับการดูโทรทัศน์
+I've got more money than Tom has.	ฉันมีเงินมากกว่าที่ทอมมี
+I've heard quite a lot about you.	ฉันเคยได้ยินเกี่ยวกับคุณมากเลยทีเดียว
+It was smaller than I'd expected.	มันเล็กกว่าที่ผมคาดไว้
+It's difficult to find work here.	มันยากที่จะหางานทำที่นี่
+Let's take turns rowing the boat.	ผลัดกันพายเรือกันเถอะ
+My father bought this hat for me.	พ่อของฉันซื้อหมวกใบนี้ให้ฉัน
+My father is free this afternoon.	พ่อของฉันว่างในบ่ายนี้
+No one thinks that you're stupid.	ไม่มีใครคิดว่าคุณโง่
+Nobody could get in the building.	ไม่มีใครสามารถเข้าไปในอาคารได้
+Our baseball team is very strong.	ทีมเบสบอลของพวเราแข็งแกร่งมาก
+Ten years is a long time to wait.	สิบปีเป็นเวลาที่ยาวนานสำหรับการรอคอย
+Thanks to you, I arrived on time.	ขอบคุณกับคุณ ฉันมาถึงตรงเวลา
+That box is bigger than this one.	กล่องนั้นใหญ่กว่ากล่องนี้
+That's not a real diamond, is it?	นั่นไม่ใช่เพชรแท้ใช่ไหม
+The sky became darker and darker.	ท้องฟ้ามืดเรื่อย ๆ
+The storm caused a lot of damage.	พายุก่อให้เกิดความเสียหายมากมาย
+The train should be here on time.	รถไฟควรมาถึงตรงเวลา
+There's no need to speak so loud.	ไม่จำเป็นต้องพูดดังมาก
+This T-shirt is too small for me.	เสื้อยืดตัวนี้เล็กเกินไปสำหรับฉัน
+This building is near completion.	อาคารนี้ใกล้เสร็จแล้ว
+Tom doesn't have a job right now.	ตอนนี้ทอมไม่มีงานทำ
+Tom doesn't want to talk to Mary.	ทอมไม่อยากคุยกับแมรี่
+Tom gets up early in the morning.	ในตอนเช้าทอมตื่นแต่เช้า
+Tom is facing financial problems.	ทอมกำลังเผชิญกับปัญหาทางการเงิน
+Tom knows that he has to do that.	ทอมรู้ว่าเขาต้องทำอย่างนั้น
+Tom pointed the remote at the TV.	ทอมชี้รีโมทไปที่ทีวี
+Tom rides his bicycle everywhere.	ทอมขี่จักรยานไปทุกที่
+Tom said aliens had abducted him.	ทอมบอกมนุษย์ต่างดาวลักพาตัวเขาไป
+Tom said he was asked to do that.	ทอมพูดว่าเขาขอให้ทำอย่างนั้น
+Tom said he was enjoying himself.	ทอมพูดว่าเขาสนุกกับตัวเขาเอง
+Tom said he was happy to do that.	ทอมพูดว่าเขามีความสุขที่ได้ทำมัน
+Tom speaks two foreign languages.	ทอมพูดสองภาษาต่างประเทศ
+Tom was on the same flight as me.	ทอมอยู่บนเที่ยวบินเดียวกับผม
+Tom worked until late last night.	เมื่อคืนทอมทำงานจนดึก
+We enjoyed swimming in the river.	เราสนุกกับการว่ายน้ำในแม่น้ำ
+We grow vegetables in our garden.	เราปลูกผักในสวนของเรา
+We have something else in common.	พวกเราต่างมีสิ่งอื่นที่เหมือนกัน
+We're running out of fresh water.	น้ำจืดเราหมด
+What do you do in your free time?	เวลาว่างคุณทำอะไร?
+What do you do in your free time?	คุณทำอะไรในเวลาว่าง?
+What kind of food don't you like?	อาหารอะไรที่คุณไม่ชอบ
+What you do with it is up to you.	สิ่งที่คุณทำกับมันขึ้นอยู่กับคุณ
+When are you going to talk to me?	คุณจะคุยกับผมเมื่อไหร่
+Where did you go to in Australia?	คุณไปเที่ยวที่ไหนในออสเตรเลีย
+Why didn't you ever tell me that?	ทำไมคุณไม่เคยบอกผม
+Why don't you get Tom to do that?	ทำไมคุณไม่ให้ทอมทำอย่างนั้นล่ะ?
+You did so much better this time.	ครั้งนี้คุณทำได้ดีมาก
+You don't look like you're happy.	คุณดูไม่มีความสุขเลย
+You looked like you were furious.	คุณดูเหมือนโกรธมาก
+You shouldn't break your promise.	คุณไม่ควรผิดสัญญา
+You're in better shape than I am.	เธอรูปร่างดีกว่าฉันเสียอีก
+A ball is floating down the river.	ลูกบอลลอยลงมาตามแม่น้ำ
+Actually, Tom is my older brother.	อันที่จริงทอมเป็นพี่ชายของฉัน
+Arabic is read from right to left.	ภาษาอารบิคจะอ่านจากขวาไปซ้าย
+Are you satisfied with the result?	คุณพอใจกับผลลัพธ์หรือไม่?
+Birds of a feather flock together.	คนพวกเดียวกันแห่ไปด้วยกัน
+Can you please sign this document?	คุณช่วยเซ็นเอกสารนี้ได้ไหม
+Could I have a pillow and blanket?	ฉันขอหมอนและผ้าห่มได้ไหม?
+Did Tom have sandwiches for lunch?	ทอมกินแซนด์วิชสำหรับอาหารกลางวันหรือไม่
+Do you remember what Tom was like?	คุณจำได้มั้ยว่าทอมเป็นอย่างไร?
+Do you understand what I'm saying?	คุณเข้าใจสิ่งที่ฉันพูดไหม?
+Do you want to go to the hospital?	คุณอยากไปโรงพยาบาลหรือเปล่า
+Do you want to have steak tonight?	คุณต้องการสเต็กคืนนี้หรือไม่?
+Elephants live in Asia and Africa.	ช้างอาศัยอยู่ในเอเชียและแอฟริกา
+Everybody wants to sit beside her.	ทุกคนต้องการนั่งข้างเธอ
+God created the earth in six days.	พระเจ้าสร้างโลกในหกวัน
+Have you heard about the accident?	คุณเคยได้ยินเกี่ยวกับอุบัติเหตุเหรอ?
+He is learning how to drive a car.	เขากำลังเรียนรู้วิธีขับรถยนต์
+How did you know that I had a dog?	คุณรู้ได้ยังไงว่าผมมีหมา
+How many days are there in a week?	ในหนึ่งสัปดาห์มีกี่วัน?
+How often do you read comic books?	คุณอ่านหนังสือการ์ตูนบ่อยแค่ไหน
+I almost forgot to bring my lunch.	ผมเกือบลืมเอาอาหารกลางวันมา
+I don't know much about computers.	ฉันไม่ค่อยรู้เรื่องเกี่ยวกับคอมพิวเตอร์มากนัก
+I don't know much about computers.	ฉันรู้เรื่องเกี่ยวกับคอมพิวเตอร์ไม่มากนัก
+I don't know what this word means.	ฉันไม่รู้ว่าคำนี้หมายถึงอะไร
+I don't know when he'll come back.	ฉันไม่รู้ว่าเมื่อไหร่เขาจะกลับมา
+I doubt that it can get any worse.	ผมสงสัยว่ามันจะแย่กว่านี้
+I had a cup of coffee at the cafe.	ฉันดื่มกาแฟหนึ่งแก้วที่ร้านกาแฟ
+I hope that I don't get suspended.	ผมหวังว่าผมจะไม่โดนพักงาน
+I knew Tom wasn't going to listen.	ผมรู้ว่าทอมจะไม่ฟัง
+I know I didn't do anything wrong.	ฉันรู้ว่าฉันไม่ได้ทำอะไรผิด
+I must've parked my car elsewhere.	ผมต้องจอดรถไว้ที่อื่น
+I need to speak to Tom personally.	ผมต้องคุยกับทอมเป็นการส่วนตัว
+I reached the village before dark.	ฉันไปถึงหมู่บ้านก่อนมืด
+I said it wasn't a very good idea.	ฉันบอกว่ามันไม่ใช่ความคิดที่ดี
+I saw a cat running after the dog.	ฉันเห็นแมวตัวหนึ่งวิ่งตามหลังหมา
+I spend my free time with my kids.	ฉันใช้เวลาว่างกับลูกๆ
+I spent twelve hours on the train.	ฉันใช้เวลาสิบสองชั่วโมงบนรถไฟ
+I still haven't apologized to Tom.	ผมยังไม่ได้ขอโทษทอม
+I think that Tom is a good person.	ฉันคิดว่าทอมเป็นคนดี
+I think that it'll be a good game.	ผมคิดว่ามันจะเป็นเกมที่ดี
+I think that you should apologize.	ผมคิดว่าคุณควรขอโทษ
+I thought that I had lost my keys.	ผมคิดว่าผมทำกุญแจหาย
+I try to be positive all the time.	ฉันพยายามที่จะมองในด้านบวกตลอดเวลา
+I want to know where you're going.	ผมอยากรู้ว่าคุณจะไปไหน
+I want to run for class president.	ผมอยากลงสมัครเป็นประธานนักเรียน
+I was able to answer the question.	ฉันสามารถตอบคำถามได้
+I went to sleep during the lesson.	ฉันนอนระหว่างเรียน
+I wouldn't eat that if I were you.	ฉันจะไม่กินมันหรอกถ้าฉันเป็นคุณ
+I'd like my coffee after the meal.	ผมต้องการกาแฟหลังอาหาร
+I'd like to reserve a single room.	ฉันต้องการจองห้องเดี่ยว
+I'd rather stay home and watch TV.	ผมอยากจะอยู่บ้านและดูทีวี
+I'll be back in four or five days.	ฉันจะกลับมาในอีกสี่หรือห้าวัน
+I'll be here for three more years.	ผมจะอยู่ที่นี่อีกสามปี
+I'll tell Tom what has to be done.	ผมจะบอกทอมว่าต้องทำอะไร
+I'm afraid the rules have changed.	ผมกลัวว่ากฎจะเปลี่ยน
+I'm eating dinner with my husband.	ฉันกินข้าวเย็นกับสามีของฉัน
+I'm married and I have a daughter.	ผมแต่งงานแล้วและมีลูกสาว
+I've known Tom since we were kids.	ฉันรู้จักทอมตั้งแต่เรายังเด็ก
+If I were rich, I would go abroad.	ถ้าฉันรวยฉัน จะไปต่างประเทศ
+If I'd known, I would've told you.	ถ้าผมรู้ผมจะบอกคุณ
+Is this your first visit to Japan?	นี่เป็นครั้งแรกที่คุณมาญี่ปุ่นใช่ไหม
+It gets cold at night around here.	ตอนกลางคืนที่นี่อากาศหนาว
+It looks like your dog is thirsty.	ดูเหมือนว่าหมาของคุณจะหิวน้ำ
+It's really difficult to describe.	มันอธิบายยากจริงๆ
+It's the book you are looking for.	นี่มันหนังสือเล่มที่คุณกำลังหาอยู่
+It's time to perform the ceremony.	ถึงเวลาเริ่มพิธีการแล้ว
+Mary took out the eggs one by one.	แมรี่หยิบไข่ออกทีละฟอง
+My mother is a psychology teacher.	แม่ของฉันเป็นอาจารย์ด้านจิตวิทยา
+Nobody can run as fast as Tom can.	ไม่มีใครวิ่งได้เร็วเท่าทอม
+Nobody had any idea what I wanted.	ไม่มีใครรู้ว่าผมต้องการอะไร
+Our library is on the third floor.	ห้องสมุดของเราอยู่ชั้นสาม
+Our main problem remains unsolved.	ปัญหาหลักของเรายังไม่ได้รับการแก้ไข
+Phoenix is the capital of Arizona.	ฟีนิกซ์เป็นเมืองเอกของรัฐแอริโซนา
+She is traveling around the world.	เธอกำลังเดินทางรอบโลก
+She must have been very beautiful.	เธอต้องสวยมาก ๆ แน่
+She visited her husband in prison.	เธอไปเยี่ยมสามีที่ติดคุก
+Thanks for always making me smile.	ขอบคุณที่ทำให้ผมยิ้มได้เสมอ
+That's not the reason that I quit.	นั่นไม่ใช่เหตุผลที่ผมลาออก
+That's the car that I want to buy.	นั่นคือรถที่ผมอยากซื้อ
+The boy talks as if he were a man.	เด็กชายพูดราวกับว่าเขาเป็นผู้ชาย
+The doctor hasn't gotten here yet.	หมอยังไม่มาที่นี่
+The meeting will be held tomorrow.	การประชุมจะมีขึ้นในวันพรุ่งนี้
+The old man spoke to me in French.	ชายชราพูดกับฉันเป็นภาษาฝรั่งเศส
+The weather is cold all year here.	ที่นี่อากาศหนาวทั้งปี
+Tom didn't really care about that.	ทอมไม่สนใจเรื่องนั้นหรอก
+Tom doesn't look at all convinced.	ทอมดูไม่มั่นใจเลย
+Tom likes to make paper airplanes.	ทอมชอบทำเครื่องบินกระดาษ
+Tom quickly drove to the hospital.	ทอมรีบขับรถไปโรงพยาบาล
+Tom sat looking out of the window.	ทอมนั่งมองออกไปนอกหน้าต่าง
+Try not to be late again tomorrow.	พรุ่งนี้พยายามอย่าสายอีกหละ
+We all live in the same dormitory.	เราทุกคนอยู่ในหอพักเดียวกัน
+We have just a few more questions.	เรามีคำถามอีกสองสามข้อ
+We need to talk about the problem.	เราต้องคุยกันถึงปัญหา
+We'll eat lunch together at 12:30.	เราจะทานอาหารเที่ยงด้วยกันตอนเที่ยงครึ่ง
+What are we going to do about Tom?	เราจะทำอย่างไรกับทอม?
+What color do you think Tom likes?	คุณคิดว่าทอมชอบสีอะไร?
+What do you usually do on Sundays?	ปกติคุณทำอะไรในวันอาทิตย์
+When are you going to get married?	คุณจะแต่งงานเมื่อไหร่?
+Which is larger, Japan or England?	อะไรใหญ่กว่ากัน ญี่ปุ่นหรืออังกฤษ?
+Which one do you think is correct?	คุณคิดว่าอันไหนถูก?
+Which plan do you think is better?	คุณคิดว่าแผนไหนดีกว่ากัน
+Which train are you going to take?	คุณจะขึ้นรถไฟขบวนไหน
+Why don't you eat some vegetables?	ทำไมคุณไม่กินผักบ้าง?
+You seem to know a lot about this.	ดูเหมือนคุณจะรู้เรื่องนี้มาก
+You're in trouble now, aren't you?	ตอนนี้คุณกำลังมีปัญหาใช่ไหม
+You're making absolutely no sense.	คุณไม่มีเหตุผลเลย
+All my neighbors are very friendly.	เพื่อนบ้านของฉันทุกคนเป็นมิตรมาก
+Can you tell me where you're going?	คุณบอกผมได้ไหมว่าคุณจะไปไหน
+Children should obey their parents.	เด็ก ๆ ควรเชื่อฟังพ่อแม่
+Children should obey their parents.	เด็ก ๆ ควรเชื่อฟังผู้ปกครอง
+Could you call again later, please?	กรุณาโทรอีกครั้งในภายหลังได้ไหม?
+Did you bring an umbrella with you?	คุณเอาร่มมาด้วยไหม
+Did your husband have many enemies?	สามีของคุณมีศัตรูมากไหม?
+Do you have any plans for tomorrow?	คุณมีแผนจะทำอะไรพรุ่งนี้ไหม?
+Do you have any plans for tomorrow?	พรุ่งนี้คุณมีแผนจะทำอะไรไหม?
+Do you know the reason I came here?	คุณรู้ไหมว่าทำไมผมมาที่นี่
+Do you know where my cell phone is?	คุณรู้ไหมว่ามือถือผมอยู่ไหน
+Do you think I need to lose weight?	คุณคิดว่าผมต้องลดน้ำหนักไหม
+Do you want to speak with a lawyer?	คุณอยากคุยกับทนายไหม
+Does Tom intend to become a doctor?	ทอมตั้งใจที่จะเป็นหมอหรือไม่?
+Have both of you already had lunch?	คุณทั้งคู่ทานข้าวเที่ยงหรือยัง
+He is afraid to fly in an airplane.	เขากลัวที่จะบินบนเครื่องบิน
+He warned us not to enter the room.	เขาเตือนเราไม่ให้เข้าไปในห้อง
+Hopefully, the truth will come out.	หวังว่าความจริงจะปรากฏ
+How many close friends do you have?	คุณมีเพื่อนสนิทกี่คน?
+How many people were in attendance?	มีผู้เข้าร่วมกี่คน
+I agree with Tom a hundred percent.	ฉันเห็นด้วยกับทอมร้อยเปอร์เซ็นต์
+I am looking forward to seeing you.	ฉันรอคอยที่จะได้เห็นคุณ
+I am tired and I want to go to bed.	ฉันเหนื่อยและอยากไปนอน
+I can't play tennis as well as you.	ผมเล่นเทนนิสได้ไม่ดีเท่าคุณ
+I didn't think that anybody saw us.	ผมไม่คิดว่าจะมีใครเห็นเรา
+I don't feed my dog in the morning.	ฉันไม่ได้ให้อาหารสุนัขในตอนเช้า
+I don't plan to buy anything today.	วันนี้ผมไม่มีแผนจะซื้ออะไร
+I don't remember where I bought it.	ฉันจำไม่ได้ว่าซื้อที่ไหน
+I don't think banks are open today.	ผมไม่คิดว่าธนาคารจะเปิดวันนี้
+I don't think that's a good theory.	ผมไม่คิดว่านั่นเป็นทฤษฎีที่ดี
+I don't want to go to the hospital.	ฉันไม่ต้องการไปโรงพยาบาล
+I don't want to go to the hospital.	ฉันไม่อยากไปโรงพยาบาล
+I had a dream about you last night.	ฉันฝันเกี่ยวกับคุณเมื่อคืน
+I had never been on a plane before.	ฉันไม่เคยนั่งเครื่องบินมาก่อนเลย
+I had never met any of them before.	ผมไม่เคยพบพวกเขามาก่อน
+I have a lot of friends to help me.	ฉันมีเพื่อนมากมายที่ช่วยฉัน
+I hope to see you again in October.	ผมหวังว่าจะได้พบคุณอีกในเดือนตุลาคม
+I know Tom won't do that with Mary.	ฉันรู้ว่าทอมจะไม่ทำอย่างนั้นกับแมรี่
+I opened the box and looked inside.	ฉันเปิดกล่องและมองเข้าไปข้างใน
+I raised my hand to ask a question.	ฉันยกมือขึ้นเพื่อถามคำถาม
+I returned the book to the library.	ฉันคืนหนังสือที่ห้องสมุด
+I saw many birds yesterday morning.	ฉันเห็นนกหลายตัวเมื่อวานนี้ตอนเช้า
+I think I've made the right choice.	ผมคิดว่าผมเลือกถูกแล้ว
+I think you should get out of here.	ผมคิดว่าคุณควรออกไปจากที่นี่
+I thought that you were interested.	ผมคิดว่าคุณสนใจ
+I want to talk to Tom after school.	ผมอยากคุยกับทอมหลังเลิกเรียน
+I was absent from school yesterday.	ฉันไม่มาโรงเรียนเมื่อวานนี้
+I wasn't able to get there in time.	ผมไม่สามารถไปถึงที่นั่นได้ทันเวลา
+I wish that I could do that myself.	ฉันหวังว่าฉันสามารถทำมันได้ด้วยตัวเอง
+I wish that I could turn back time.	ผมหวังว่าผมจะย้อนเวลากลับไปได้
+I'd like to forget the whole thing.	ผมอยากจะลืมเรื่องทั้งหมด
+I'm not saying I'm better than Tom.	ผมไม่ได้บอกว่าผมดีกว่าทอม
+I've been drinking too much coffee.	ฉันดื่มกาแฟมากเกินไป
+I've been studying for three hours.	ฉันเรียนมาสามชั่วโมงแล้ว
+I've finished watering the flowers.	ฉันรดน้ำดอกไม้เสร็จแล้ว
+I've never actually seen a giraffe.	ผมไม่เคยเห็นยีราฟจริงๆ
+I've promised not to do that again.	ฉันสัญญาว่าจะไม่ทำอย่างนั้นอีก
+Is there something you want to buy?	มีอะไรที่เธอต้องการจะซื้อมั้ย?
+Let me have a look at those photos.	ให้ฉันดูรูปเหล่านั้น
+Let's not do anything we'll regret.	อย่าทำอะไรที่เราจะเสียใจ
+May I have a glass of milk, please?	ฉันขอนมหนึ่งแก้วได้ไหม?
+Maybe they can help us find a cure.	บางทีพวกเขาอาจช่วยเราหาวิธีรักษาได้
+Please move the TV set to the left.	กรุณาขยับทีวีไปทางซ้าย
+She accused me of making a mistake.	เธอกล่าวหาว่าฉันทำผิด
+She goes to the movies once a week.	เธอไปดูหนังสัปดาห์ละครั้ง
+She is a fluent speaker of English.	เธอเป็นคนพูดภาษาอังกฤษได้คล่อง
+She is learning how to drive a car.	เธอกำลังเรียนวิธีขับรถ
+She thinks of her boss as a father.	เธอนับถือเจ้านายของเธอเหมือนกับพ่อ
+She will get married to a rich man.	เธอจะแต่งงานกับคนรวย
+That looks fun. I'd like to try it.	นั่นดูน่าสนุก ฉันอยากลองมันดู
+The bear began tearing at the tent.	หมีเริ่มฉีกเตนท์
+The boy caught the dog by the tail.	เด็กชายจับหมาที่หาง
+The lion is the king of the jungle.	สิงโตเป็นราชาแห่งป่า
+The train is 10 minutes late today.	วันนี้รถไฟมาสาย 10 นาที
+The two girls smiled at each other.	เด็กหญิงสองคนยิ้มให้กัน
+This flower is beautiful, isn't it?	ดอกไม้นี้มีสวยไม่ใช่เหรอ
+This is always the way it has been.	นี่คือสิ่งที่เคยเป็นมาเสมอ
+This movie is highly controversial.	หนังเรื่องนี้เป็นเรื่องที่ถกเถียงกันอย่างมาก
+This novel consists of three parts.	นวนิยายเรื่องนี้ประกอบด้วยสามส่วน
+Tom aimed his pistol at the target.	ทอมเล็งปืนพกของเขาไปที่เป้า
+Tom dropped off the kids at school.	ทอมไปส่งลูกที่โรงเรียน
+Tom finished the job in three days.	ทอมทำงานเสร็จภายในสามวัน
+Tom got a thirty percent pay raise.	ทอมได้ค่าจ้างเพิ่มสามสิบเปอร์เซ็นต์
+Tom has ordered food for all of us.	ทอมสั่งอาหารให้พวกเราทุกคน
+Tom hasn't cleaned the kitchen yet.	ทอมยังไม่ได้ทำความสะอาดห้องครัว
+Tom isn't really such a bad person.	ทอมไม่ได้เป็นคนเลวจริงๆ
+Tom met Mary a couple of years ago.	ทอมพบแมรี่เมื่อสองสามปีก่อน
+Tom told me that he had no regrets.	ทอมบอกผมว่าเขาไม่เสียใจ
+Tom told us that he had a headache.	ทอมบอกเราว่าเขาปวดหัว
+Tom was trying to help his parents.	ทอมพยายามช่วยพ่อแม่ของเขา
+Tom's in the construction business.	ทอมอยู่ในธุรกิจก่อสร้าง
+Using a computer can save you time.	การใช้คอมพิวเตอร์ช่วยให้คุณประหยัดเวลา
+We have to work harder from now on.	จากนี้ไปเราต้องทำงานหนักขึ้น
+We've been trying to sell our land.	เราพยายามที่จะขายที่ดินของเรา
+What do you think she is doing now?	คุณคิดว่าเธอกำลังทำอะไรอยู่ตอนนี้
+What was Tom's motive for doing it?	ทอมมีแรงจูงใจอะไรในการทำ?
+Why does Tom need to do that today?	ทำไมทอมต้องทำอย่างนั้นในวันนี้?
+Would you like to come to my party?	คุณอยากที่จะมาปาร์ตี้ของฉันหรือไม่?
+Would you please turn on the light?	ช่วยเปิดไฟหน่อยครับ
+You should be careful what you say.	คุณควรระวังสิ่งที่คุณพูด
+A lot of students do part-time jobs.	นักเรียนจำนวนมากทำงานนอกเวลา
+A lot of students do part-time jobs.	นักเรียนจำนวนมากทำงานพาร์ทไทม์
+Can I borrow your book for a minute?	ขอฉันยืมหนังสือสักครู่ได้มั้ย
+Columbus discovered America in 1492.	โคลัมบัสค้นพบอเมริกาในปี 1492
+Could you bring us the bill, please?	คุณช่วยนำใบเสร็จมาให้เราได้ไหม?
+Did you find out anything about Tom?	ระบบการเขียนทั้งหมดมีทั้งข้อดีและข้อเสีย
+Don't look at me with such sad eyes.	อย่ามองฉันด้วยสายตาเศร้า ๆ อย่างนั้น
+Every time Tom sees Mary, he smiles.	ทุกครั้งที่ทอมเห็นแมรี่เขาจะยิ้ม
+Have you finished reading the novel?	คุณอ่านนิยายจบแล้วหรือยัง?
+He couldn't understand the sentence.	เขาไม่สามารถเข้าใจประโยคได้
+Hopefully, the weather will be good.	หวังว่าอากาศจะดี
+How much damage did the storm cause?	พายุสร้างความเสียหายเท่าไหร่
+I can't speak fluent Indonesian yet.	ฉันยังพูดภาษาอินโดนีเซียไม่คล่อง
+I can't stand that noise any longer.	ฉันไม่ทนต่อเสียงรบกวนนั้นต่อไปไม่ไหวแล้ว
+I don't want Tom to know about that.	ผมไม่ต้องการให้ทอมรู้เรื่องนั้น
+I don't want to see your face again.	ผมไม่อยากเห็นหน้าคุณอีก
+I don't want to walk home by myself.	ผมไม่อยากเดินกลับบ้านคนเดียว
+I got my bicycle repaired yesterday.	ผมเอาจักรยานไปซ่อมเมื่อวาน
+I lost my key somewhere around here.	ฉันทำกุญแจของฉันหายไปแถวนี้
+I suggest you don't do that anymore.	ผมแนะนำคุณว่าอย่าทำอย่างนั้นอีก
+I want you to go to Boston with Tom.	ฉันต้องการให้คุณไปบอสตันกับทอม
+I wouldn't drink that if I were you.	ฉันจะไม่ดื่มมันหรอกถ้าฉันเป็นคุณ
+I'll remember this incident forever.	ฉันจะจำเหตุการณ์นี้ตลอดไป
+I'm glad that you're over your cold.	ผมดีใจที่คุณหายหวัดแล้ว
+I'm trying to work out this problem.	ฉันพยายามหาทางแก้ไขปัญหานี้
+I'm very willing to do that for you.	ผมเต็มใจทำเพื่อคุณ
+I'm waiting for my friend to arrive.	ผมรอเพื่อนมารับ
+In this case, I think he is correct.	ในกรณีนี้ฉันคิดว่าเขาถูกต้อง
+Is this the book you're looking for?	นี่ใช่หนังสือที่คุณตามหาอยู่รึเปล่า?
+Is this the key you are looking for?	นี่คือกุญแจที่คุณกำลังมองหาใช่ไหม?
+Is this the key you are looking for?	นี่ใช่กุญแจที่คุณกำลังมองหาไหม?
+Is this your glass or your sister's?	นี่คือแก้วของคุณหรือของน้องสาวของคุณ
+Many of my friends are still single.	เพื่อนของฉันหลายคนยังโสด
+My grandfather was an archaeologist.	ปู่ของฉันเป็นนักโบราณคดี
+My mother carefully opened the door.	แม่ของฉันเปิดประตูอย่างระมัดระวัง
+Please speak as clearly as possible.	กรุณาพูดให้ชัดเจนที่สุด
+Please speak as clearly as possible.	กรุณาพูดให้ชัดเจนเท่าที่เป็นไปได้
+Several of the reports were missing.	รายงานหลายฉบับหายไป
+Thaw out the meat before cooking it.	ละลายเนื้อก่อนทำอาหาร
+The accident happened two hours ago.	อุบัติเหตุเกิดขึ้นเมื่อสองชั่วโมงก่อน
+The answer to this question is easy.	คำตอบสำหรับคำถามนี้ง่าย
+The bus leaves every thirty minutes.	รถเมล์ออกทุกสามสิบนาที
+There isn't any coffee in the house.	ที่บ้านไม่มีกาแฟ
+There's plenty of food in the house.	ที่บ้านมีของกินเยอะเลย
+They have drunk two bottles of wine.	พวกเขาดื่มไวน์สองขวด
+Tom didn't hear Mary enter the room.	ทอมไม่ได้ยินแมรี่เข้ามาในห้อง
+Tom doesn't want to live on his own.	ทอมไม่อยากอยู่คนเดียว
+Tom found an old safe in his garage.	ทอมเจอตู้เซฟเก่าในโรงรถ
+Tom got locked up for armed robbery.	ทอมโดนขังข้อหาลักทรัพย์โดยมีอาวุธ
+Tom has everything a man could want.	ทอมมีทุกอย่างที่ชายคนใดต้องการ
+Tom has just finished eating dinner.	ทอมเพิ่งกินข้าวเย็นเสร็จ
+Tom helps his mother in the kitchen.	ทอมช่วยแม่ของเขาในครัว
+Tom is painting his room light blue.	ทอมกำลังทาสีห้องของเขาเป็นสีฟ้า
+Tom kept me waiting for three hours.	ทอมให้ผมรอสามชั่วโมง
+Tom made me wait for thirty minutes.	ทอมทำให้ผมรอสามสิบนาที
+Tom ran out of his house in a hurry.	ทอมรีบวิ่งออกจากบ้านของเขา
+Tom really enjoys playing the drums.	ทอมสนุกกับการเล่นกลอง
+We generally drink tea after a meal.	เรามักจะดื่มชาหลังอาหาร
+We want to go to Boston and Chicago.	เราอยากไปที่บอสตันและชิคาโก
+We've been traveling for three days.	เราเดินทางกันมา 3 วันแล้ว
+What do you think of Tom's attitude?	คุณคิดอย่างไรกับทัศนคติของทอม?
+What do you want me to do with this?	คุณต้องการให้ฉันทำอะไรกับสิ่งนี้?
+What is this fish called in English?	ปลานี้เรียกว่าอะไรในภาษาอังกฤษ?
+When I grow up, I want to be a king.	เมื่อฉันโตขึ้น ฉันอยากเป็นราชา
+Where there is smoke, there is fire.	ที่ไหนมีควันที่นั่นมีไฟ
+Where's the nearest telephone booth?	ตู้โทรศัพท์ที่ใกล้ที่สุดอยู่ที่ไหน
+You polished your shoes, didn't you?	คุณขัดรองเท้าแล้วใช่ไหม
+You should get to the airport early.	คุณควรไปถึงสนามบินก่อนเวลา
+Your room must always be kept clean.	ห้องของคุณจะต้องสะอาดอยู่เสมอ
+Any student can answer that question.	นักเรียนคนไหนก็สามารถตอบคำถามนั้นได้
+At one time, there was a bridge here.	ครั้งหนึ่ง เคยมีสะพานที่นี่
+Brush your teeth before going to bed.	แปรงฟันก่อนเข้านอน
+Could I have one more coffee, please?	ขอกาแฟอีกสักแก้ว ได้ไหม?
+Did Tom draw this picture by himself?	ทอมวาดรูปนี้ด้วยตัวเองเหรอ?
+English is an international language.	ภาษาอังกฤษเป็นภาษาสากล
+How many cans of beer have you drunk?	คุณดื่มเบียร์ไปกี่กระป๋องแล้ว
+I can help you today for a few hours.	วันนี้ฉันสามารถช่วยคุณได้สองสามชั่วโมง
+I didn't want anything bad to happen.	ผมไม่อยากให้สิ่งไม่ดีเกิดขึ้น
+I don't have to answer that question.	ฉันไม่จำเป็นต้องตอบคำถามนั้น
+I don't have to answer your question.	ฉันไม่จำเป็นต้องตอบคำถามของคุณ
+I don't know what that guy's name is.	ผมไม่รู้ว่าชายคนนั้นชื่ออะไร
+I don't really like to talk about it.	ผมไม่อยากพูดถึงมันจริงๆ
+I don't think Tom has any money left.	ผมไม่คิดว่าทอมจะมีเงินเหลือ
+I have known him since he was a baby.	ฉันรู้จักเขามาตั้งแต่เขายังเป็นเด็ก
+I need to borrow some money from you.	ผมต้องขอยืมเงินคุณ
+I plan to wash my car this afternoon.	ผมตั้งใจจะล้างรถบ่ายนี้
+I started learning Chinese last week.	ฉันเริ่มเรียนภาษาจีนเมื่อสัปดาห์ที่แล้ว
+I suspected Tom was lying about that.	ผมสงสัยว่าทอมจะโกหกเรื่องนั้น
+I used to play here when I was a kid.	ผมเคยเล่นที่นี่ตอนผมเป็นเด็ก
+I want you to fly to Boston tomorrow.	ฉันอยากให้คุณบินไปบอสตันในวันพรุ่งนี้
+I wanted to speak in French with Tom.	ฉันอยากพูดในภาษาฝรั่งเศสกับทอม
+I would rather stay home than go out.	ฉันค่อนข้างอยากอยู่บ้านมากกว่าที่จะออกไป
+I'm going to have to get back to you.	I'm going to have to get back to you.
+I'm going to play tennis next Monday.	ผมจะเล่นเทนนิสวันจันทร์หน้า
+I'm not able to answer that question.	ผมไม่สามารถตอบคำถามนั้นได้
+My son still believes in Santa Claus.	ลูกชายของฉันยังเชื่อในซานตาคลอส
+My younger brother is still sleeping.	น้องชายของฉันยังคงนอนหลับอยู่
+Nobody could give the correct answer.	ไม่มีใครสามารถให้คำตอบที่ถูกต้องได้
+Nothing remained in the refrigerator.	ไม่มีอะไรเหลืออยู่ในตู้เย็น
+Please fill in this application form.	กรุณากรอกแบบฟอร์มใบสมัครนี้
+She appears to have a lot of friends.	เธอดูเหมือนว่ามีเพื่อนมากมาย
+She bought a new house the other day.	เธอซื้อบ้านใหม่เมื่อวันก่อน
+She returned the book to the library.	เธอคืนหนังสือให้ห้องสมุด
+She's not his sister, but his mother.	เธอไม่ใช่พี่สาวของเขา แต่เป็นแม่ของเขา
+That's what I want most in the world.	นั่นคือสิ่งที่ผมต้องการมากที่สุดในโลก
+The cost of living here is very high.	ค่าครองชีพที่นี่สูงมาก
+The people I work with are very nice.	คนที่ผมทำงานด้วยใจดีมาก
+The trouble is that you're too young.	ปัญหาคือคุณยังเด็กเกินไป
+Their apples aren't as tasty as ours.	แอปเปิลของพวกเขาไม่อร่อยเท่าของพวกเรา
+There was an earthquake this morning.	เกิดแผ่นดินไหวเมื่อเช้านี้
+Tom didn't have a fever this morning.	ทอมไม่มีไข้เมื่อเช้านี้
+Tom has been gone almost three years.	ทอมหายไปเกือบสามปี
+Tom has been in prison since October.	ทอมติดคุกตั้งแต่เดือนตุลาคม
+Tom is putting the children to sleep.	ทอมกำลังส่งเด็กเข้านอน
+Tom is the only one that can do that.	ทอมเป็นคนเดียวที่ทำได้
+Tom is the youngest one in our class.	ทอมอายุน้อยที่สุดในชั้นเรียนของเรา
+Tom just called me a few minutes ago.	ทอมพึ่งโทรหาผมเมื่อไม่กี่นาทีที่แล้ว
+Tom lives near an abandoned building.	ทอมอาศัยอยู่ใกล้อาคารร้าง
+We need to finish painting our house.	เราต้องทาสีบ้านให้เสร็จ
+We were very sleepy the next morning.	พวกเราง่วงนอนมากในเช้าวันรุ่งขึ้น
+What are we going to have for supper?	เราจะทานอะไรเป็นอาหารเย็น
+What do you want me to do with these?	คุณต้องการให้ฉันทำอะไรกับสิ่งเหล่านี้
+Where can I exchange yen for dollars?	ฉันจะแลกเปลี่ยนเงินเยนเป็นดอลลาร์ได้ที่ไหน
+Who did you vote for in the election?	คุณลงคะแนนให้ใครในการเลือกตั้ง?
+Why don't you listen to Tom's advice?	ทำไมคุณไม่ฟังคำแนะนำของทอม?
+Will three hundred dollars be enough?	สามร้อยดอลลาร์จะพอไหม
+You'd get in trouble if you did that.	คุณจะมีปัญหาถ้าคุณทำอย่างนั้น
+Construction started October 20, 2013.	การก่อสร้างเริ่มต้นเมื่อ 20 ตุลาคม 2013
+Construction started October 20, 2013.	การก่อสร้างเริ่มต้นเมื่อ 20 ตุลาคม พ.ศ. 2556
+Did you hear about the fire yesterday?	คุณได้ยินเรื่องไฟไหม้เมื่อวานนี้ไหม
+Does Tom belong to the club you're in?	ทอมเป็นสมาชิกชมรมที่คุณอยู่หรือไม่?
+Does Tom really have to do that today?	ทอมต้องทำนั่นวันนี้จริง ๆ มั้ย?
+Have you been waiting for a long time?	คุณรอนานหรือยัง
+Have you ever heard her sing on stage?	คุณเคยได้ยินเธอร้องเพลงบนเวทีบ้างไหม?
+Have you ever seen sausage being made?	คุณเคยเห็นวิธีทำไส้กรอกไหม?
+Have you ever written a letter to Tom?	คุณเคยเขียนจดหมายถึงทอมไหม?
+He earns more money than he can spend.	เขาได้รับเงินมากกว่าที่เขาสามารถใช้จ่ายได้
+Helen Keller was blind, deaf and mute.	เฮเลน เคลเลอร์เป็นคนตาบอด หูหนวก และเป็นใบ้
+I can't give you an answer right away.	ผมไม่สามารถให้คําตอบคุณได้ในทันที
+I can't understand what you're saying.	ฉันไม่เข้าใจสิ่งที่คุณพูด
+I cut the article out of the magazine.	ฉันตัดบทความออกจากนิตยสาร
+I decided to tell her that I love her.	ฉันตัดสินใจบอกเธอว่าฉันรักเธอ
+I decided to tell him that I love her.	ฉันตัดสินใจบอกเขาว่าฉันรักเธอ
+I don't believe that that's the truth.	ผมไม่เชื่อว่านั่นคือเรื่องจริง
+I heard the children singing together.	ฉันได้ยินเด็ก ๆ ร้องเพลงด้วยกัน
+I know someone who speaks French well.	ฉันรู้จักคนที่พูดภาษาฝรั่งเศสได้ดี
+I once wanted to be an astrophysicist.	ฉันเคยต้องการที่จะเป็นนักดาราศาสตร์ฟิสิกส์
+I only slept for about thirty minutes.	ผมนอนแค่สามสิบนาที
+I shouldn't have treated you that way.	ผมไม่ควรทำอย่างนั้นกับคุณ
+I think it is best not to be impolite.	ฉันคิดว่าเป็นการดีที่สุดถ้าจะไม่สุภาพ
+I thought Tom wasn't scared of snakes.	ผมคิดว่าทอมไม่ได้กลัวงู
+I told them to send me another ticket.	ฉันบอกให้พวกเขาส่งตั๋วอีกใบมาให้
+I wanted to know what the problem was.	ผมอยากรู้ว่าปัญหาคืออะไร
+I was thirteen years old at that time.	ตอนนั้นผมอายุสิบสาม
+I'm not going to work for you anymore.	ผมจะไม่ทำงานให้คุณแล้ว
+I've been coughing since this morning.	ผมไอมาตั้งแต่เช้านี้
+If you don't behave, Santa won't come.	ถ้าคุณไม่ประพฤติตามซานต้าก็จะไม่มา
+If you're going to do it, do it today.	ถ้าคุณจะทำต้องทำวันนี้
+It would be better to leave it unsaid.	ไม่พูดซะจะดีกว่า
+It's way too hot to do anything today.	วันนี้ร้อนเกินกว่าจะทำอะไร
+My son can neither read nor write yet.	ลูกชายของฉันยังไม่สามารถอ่านหรือเขียนได้
+My wife is preparing dinner right now.	ภรรยาของฉันกำลังเตรียมอาหารเย็นอยู่ในขณะนี้
+She gave the children two apples each.	เธอให้แอปเปิ้ลแก่เด็กคนละสองลูก
+She often goes to the movies with him.	เธอมักจะไปดูหนังกับเขา
+The book that I bought is on the desk.	หนังสือที่ผมซื้ออยู่บนโต๊ะ
+There's an even easier way to do that.	มีวิธีที่ง่ายกว่านั้นอีก
+They are very interested in astronomy.	พวกเขาสนใจดาราศาสตร์มาก
+This house is nearly thirty years old.	บ้านหลังนี้อายุเกือบสามสิบปี
+Tom doesn't know I'm Mary's boyfriend.	ทอมไม่รู้ว่าฉันเป็นแฟนของแมรี่
+Tom has a house not too far from here.	ทอมมีบ้านอยู่ไม่ไกลจากที่นี่
+Tom is on the other side of the river.	ทอมอยู่อีกฟากของแม่น้ำ
+Tom lost a lot of money at the casino.	ทอมเสียเงินเยอะที่คาสิโน
+Tom was asked by Mary to mow the lawn.	แมรี่ขอให้ทอมตัดหญ้า
+Tom's speech ended on a positive note.	คำพูดของทอมจบลงด้วยหมายเหตุที่เป็นบวก
+Two children are sitting on the fence.	เด็กสองคนกำลังนั่งอยู่บนรั้ว
+What are you going to make for dinner?	คุณจะทำอะไรสำหรับอาหารเย็น
+What time did you go to bed yesterday?	เมื่อวานคุณนอนกี่โมง?
+You shouldn't be afraid of the future.	คุณไม่ควรกลัวอนาคต
+Are all of you friends with each other?	พวกคุณทุกคนเป็นเพื่อนกันหรือเปล่า?
+Both Tom and Mary have dyed their hair.	ทั้งทอมและแมรีย้อมสีผมของพวกเขา
+Do you remember your father's birthday?	คุณจำวันเกิดของพ่อคุณได้ไหม?
+Harvard University was founded in 1636.	มหาวิทยาลัยฮาร์วาร์ดก่อตั้งขึ้นในปี 1636
+He is teaching Spanish to the children.	เขาสอนภาษาสเปนให้เด็กๆ
+He will be a good husband to my sister.	เขาน่าจะเป็นสามีที่ดีของน้องสาวฉัน
+He will be a good husband to my sister.	เขาน่าจะเป็นสามีที่ดีของพี่สาวฉัน
+How long are you planning to stay here?	คุณวางแผนที่จะอยู่ที่นี่นานเท่าไหร่
+I didn't know Mary was your girlfriend.	ฉันไม่รู้ว่าแมรี่เป็นแฟนคุณ
+I didn't know what was in the envelope.	ผมไม่รู้ว่าอะไรอยู่ในซอง
+I didn't take part in the conversation.	ฉันไม่ได้มีส่วนร่วมในการสนทนา
+I haven't finished the translation yet.	ฉันยังแปลไม่เสร็จ
+I heard you were thinking of resigning.	ฉันได้ยินว่าคุณกำลังคิดที่จะลาออก
+I know that we're a long way from home.	ผมรู้ว่าเราอยู่ไกลจากบ้าน
+I need to know the exact date and time.	ผมต้องการทราบวันที่และเวลาที่แน่นอน
+I think you're a very attractive woman.	ผมคิดว่าคุณเป็นผู้หญิงที่มีเสน่ห์มาก
+I want the same dictionary as you have.	ฉันต้องการพจนานุกรมเดียวกันกับที่คุณมี
+I was the only one to get here on time.	ผมเป็นคนเดียวที่มาที่นี่ทันเวลา
+I wasn't the one who broke this window.	ผมไม่ใช่คนที่ทำหน้าต่างนี้แตก
+I'd like to know where Tom hid his key.	ผมอยากรู้ว่าทอมซ่อนกุญแจไว้ที่ไหน
+I'm not going to go to Boston with Tom.	ฉันจะไม่ไปบอสตันกับทอม
+Is there anything else you want to ask?	คุณจะถามอะไรอีกไหม
+Lake Biwa is the largest lake in Japan.	ทะเลสาบบิวะเป็นทะเลสาบที่ใหญ่ที่สุดในญี่ปุ่น
+Luckily, the police arrived right away.	โชคดีที่ตำรวจมาถึงทันที
+My younger brother is taller than I am.	น้องชายของฉันสูงกว่าฉัน
+She acted in a play for the first time.	เธอแสดงละครเป็นครั้งแรก
+She's been in the hospital for a month.	เธออยู่ในโรงพยาบาลมาแล้วหนึ่งเดือน
+There was a blue notebook on the table.	มันมีสมุดสีน้ำเงินบนโต๊ะ
+There's only one towel in the bathroom.	ในห้องน้ำมีผ้าเช็ดตัวผืนเดียว
+Tom didn't know what he should believe.	ทอมไม่รู้ว่าเขาควรเชื่ออะไร
+Tom had a farm not too far from Boston.	ทอมมีฟาร์มอยู่ไม่ไกลจากบอสตัน
+Tom said some horrible things about me.	ทอมพูดสิ่งที่ไม่ดีเกี่ยวกับฉัน
+Tom says that he likes cycling to work.	ทอมบอกว่าเขาชอบปั่นจักรยานไปทำงาน
+Tom threw scraps of bread to the ducks.	ทอมโยนเศษขนมปังให้เป็ด
+Tom walked over to Mary and hugged her.	ทอมเดินไปหาแมรี่และกอดเธอ
+Unfortunately, my father isn't at home.	น่าเสียดาย พ่อของฉันไม่ได้อยู่บ้าน
+We have something special for you, sir.	เรามีบางสิ่งที่พิเศษสำหรับคุณครับท่านสุภาพบุรุษ
+We liked the food, especially the fish.	เราชอบอาหาร โดยเฉพาะปลา
+Which one do you think I should choose?	คุณคิดว่าผมควรเลือกอันไหน
+You haven't been here before, have you?	คุณไม่เคยมาที่นี่ก่อนใช่ไหม?
+You left the cake in the oven too long.	คุณทิ้งเค้กไว้ในเตาอบนานเกินไป
+You're not going to get fired, are you?	คุณจะไม่โดนไล่ออกใช่ไหม
+Are you interested in foreign languages?	คุณสนใจในภาษาต่างประเทศหรือไม่?
+Are you interested in foreign languages?	คุณสนใจภาษาต่างประเทศไหม
+Do you always go to bed before midnight?	คุณเข้านอนก่อนเที่ยงคืนตลอดไหม
+How many symphonies did Beethoven write?	เบทโฮเฟินเขียนซิมโฟนีมาเท่าไหร่แล้ว?
+I don't feel like eating anything today.	วันนี้ฉันไม่อยากกินอะไรเลย
+I don't think your father would approve.	ผมไม่คิดว่าพ่อคุณจะเห็นด้วย
+I know what the children are looking at.	ผมรู้ว่าเด็กๆ กำลังดูอะไร
+I went to the airport to meet my father.	ฉันไปที่สนามบินเพื่ิอพบกับพ่อของฉัน
+I wonder if Tom really has a girlfriend.	ผมสงสัยว่าทอมมีแฟนแล้วจริงหรือ
+I would be happy to teach you that song.	ผมยินดีที่จะสอนเพลงนั้นให้คุณ
+I'm far from pleased with your behavior.	ผมไม่พอใจพฤติกรรมของคุณ
+I've told you everything I can think of.	ผมบอกคุณทุกอย่างที่ผมคิดไปแล้ว
+If you're happy, then I'm happy for you.	ถ้าคุณมีความสุขผมก็ยินดีกับคุณ
+It looks like you've got other problems.	ดูเหมือนว่าคุณมีปัญหาอื่น ๆ
+It seems to me that Tom is too careless.	สำหรับฉันดูเหมือนว่าทอมประมาทเกินไป
+Someday I'll buy a cotton candy machine.	สักวันฉันจะซื้อเครื่องทำสายไหม
+The French flag is blue, white, and red.	ธงชาติฝรั่งเศสมีสีน้ำเงิน, ขาว, และแดง
+The chemical formula for water is H₂O.	สูตรทางเคมีของน้ำคือ H₂O
+The children are growing up really fast.	เด็กๆโตเร็วมาก
+The meeting is to be held here tomorrow.	พรุ่งนี้จะมีการประชุมที่นี่
+There are a lot of things we need to do.	มีหลายอย่างที่เราต้องทำ
+There are some empty bottles in the box.	มีขวดเปล่าอยู่ในกล่อง
+There is a garden in front of the house.	มีสวนอยู่หน้าบ้าน
+There is almost no water in this bottle.	แทบไม่มีน้ำเลยในขวดนี้
+They speak English and French in Canada.	พวกเขาพูดภาษาอังกฤษและฝรั่งเศสในแคนาดา
+This is the church where we got married.	นี่คือโบสถ์ที่เราแต่งงานกัน
+Tom advised Mary to eat more vegetables.	ทอมแนะนำให้แมรี่กินผักมากขึ้น
+Tom and Mary are both Canadian citizens.	ทั้งทอมและแมรี่เป็นชาวแคนาดา
+Tom doesn't believe in life after death.	ทอมไม่เชื่อในชีวิตหลังความตาย
+Tom doesn't know what Mary wants to buy.	ทอมไม่รู้ว่าแมรี่ต้องการซื้ออะไร
+Tom hasn't come to work for three weeks.	ทอมไม่มาทำงานสามอาทิตย์แล้ว
+Tom is frequently free in the afternoon.	ทอมมักจะว่างในตอนบ่าย
+Tom plays soccer every day after school.	ทอมเล่นฟุตบอลทุกวันหลังเลิกเรียน
+We must move this statue very carefully.	เราต้องย้ายรูปปั้นนี้อย่างระมัดระวังมาก
+We've gotten a lot of positive feedback.	เราได้รับการตอบรับเชิงบวกมากมาย
+What do you call this insect in English?	คุณเรียกแมลงชนิดนี้เป็นภาษาอังกฤษว่าอะไร
+What do you want to do in the afternoon?	คุณต้องการทำอะไรตอนบ่าย?
+What kind of fish do you eat most often?	คุณกินปลาอะไรบ่อยที่สุด
+When was the last time you played chess?	คุณเล่นหมากรุกครั้งสุดท้ายเมื่อไหร่
+You should phone Tom as soon as you can.	คุณควรโทรหาทอมให้เร็วที่สุด
+Don't use the elevator if there's a fire.	อย่าใช้ลิฟต์ถ้ามีไฟไหม้
+How long did this book take you to write?	คุณใช้เวลาเขียนหนังสือเล่มนี้นานเท่าไหร่
+How long will this cold weather continue?	อากาศหนาวนี้จะดำเนินต่อไปอีกนานขนาดไหน?
+I always take a bath before going to bed.	ฉันอาบน้ำก่อนนอนเสมอ
+I am looking for a present for my mother.	ฉันกำลังมองหาของขวัญให้กับแม่ของฉัน
+I can speak Chinese, but I can't read it.	ฉันพูดภาษาจีนได้ แต่ฉันอ่านไม่ออก
+I can't remember when he moved to Boston.	ฉันจำไม่ได้ว่าเขาย้ายไปบอสตันเมื่อไหร่
+I don't know anything about the accident.	ฉันไม่รู้อะไรเกี่ยวกับอุบัติเหตุ
+I have a boss who's much younger than me.	ฉันมีเจ้านายที่อายุน้อยกว่าฉันมาก
+I know that wasn't the answer you wanted.	ผมรู้ว่านั่นไม่ใช่คำตอบที่คุณต้องการ
+I know the reason why Tom was doing that.	ฉันรู้เหตุผลที่ทอมทำอย่างนั้น
+I study French for three hours every day.	ผมเรียนภาษาฝรั่งเศสสามชั่วโมงทุกวัน
+I think you're asking the wrong question.	ผมคิดว่าคุณถามคำถามผิด
+I thought that we'd outsmarted everybody.	ฉันคิดว่าเราจะเอาชนะทุกคน
+I tried to write down everything he said.	ผมพยายามเขียนทุกอย่างที่เขาพูด
+I will teach you how to fish next Sunday.	ผมจะสอนวิธีตกปลาให้คุณวันอาทิตย์หน้า
+I wouldn't be able to live without music.	ผมอยู่ไม่ได้ถ้าไม่มีดนตรี
+I'll call them tomorrow when I come back.	ฉันจะโทรหาพวกเขาพรุ่งนี้เมื่อฉันกลับมา
+Most people write about their daily life.	คนส่วนใหญ่เขียนเกี่ยวกับชีวิตประจำวันของพวกเขา
+My mother has been sick since last month.	แม่ฉันป่วยมาตั้งแต่เดือนที่แล้ว
+My mother is making a cake for my father.	แม่ฉันทำเค้กให้พ่อฉัน
+My room is three times as large as yours.	ห้องของฉันมีขนาดใหญ่เป็นสามเท่าของคุณ
+Thank you for teaching me so many things.	ขอบคุณที่สอนอะไรหลายๆ อย่างให้ผม
+That looks delicious. I'd like to try it.	นั่นดูน่าอร่อย ฉันจะลองชิมดู
+The food was so good that I ate too much.	อาหารอร่อยมากจนฉันกินมากเกินไป
+There are many red flowers in the garden.	มีดอกไม้สีแดงมากมายในสวน
+There is too much furniture in the house.	มีเฟอร์นิเจอร์มากเกินไปในบ้าน
+This is the house that I used to live in.	นี่คือบ้านที่ฉันเคยอยู่
+Tom and I've been friends for many years.	ทอมกับผมเป็นเพื่อนกันมาหลายปีแล้ว
+Tom and Mary invited me to their wedding.	ทอมและแมรี่เชิญฉันไปงานแต่งงาน
+Tom didn't say anything, but just smiled.	ทอมไม่ได้พูดอะไรได้แต่ยิ้ม
+Tom got paid a lot less than he expected.	ทอมได้รับเงินน้อยกว่าที่เขาคาดไว้มาก
+Tom has less money than his brother does.	ทอมมีเงินน้อยกว่าพี่ชายเขา
+Tom has less money than his brother does.	ทอมมีเงินน้อยกว่าน้องชายเขา
+Tom has lost interest in studying French.	ทอมเสียความสนใจในการเรียนภาษาฝรั่งเศส
+Tom poured some apple juice into a glass.	ทอมเทน้ำแอปเปิ้ลลงในแก้ว
+Tom said Mary was coming over for dinner.	ทอมบอกว่าแมรี่กำลังมาในมื้อเย็น
+Tom said something I couldn't understand.	ทอมพูดบางอย่างที่ฉันไม่เข้าใจ
+Tom spends too much time on the computer.	ทอมใช้เวลากับคอมพิวเตอร์มากเกินไป
+Tom was working for an insurance company.	ทอมทำงานให้บริษัทประกัน
+Tom's dog is much bigger than Mary's dog.	สุนัขของทอมตัวใหญ่กว่าสุนัขของแมรี่มาก
+Tom's dog is much bigger than Mary's dog.	หมาของทอมตัวใหญ่กว่าหมาของแมรี่มาก
+We should leave here as soon as possible.	เราควรออกจากที่นี่ให้เร็วที่สุด
+What prevented Tom from coming yesterday?	อะไรทำให้ทอมไม่มาเมื่อวานนี้?
+When the cat is away, the mice will play.	แมวไม่อยู่หนูร่าเริง
+Would you please not leave the door open?	คุณช่วยอย่าเปิดประตูทิ้งไว้ได้ไหม?
+Would you please not leave the door open?	คุณกรุณาอย่าเปิดประตูทิ้งไว้ได้ไหม?
+You should be respectful to your parents.	คุณควรเคารพพ่อแม่คุณ
+You're lucky that you didn't get injured.	คุณโชคดีที่คุณไม่บาดเจ็บ
+Can someone tell me where the keyboard is?	มีใครสามารถบอกฉันได้มั้ยว่าแป้นพิมพ์อยู่ที่ไหน?
+Do you go to school on foot or by bicycle?	คุณไปโรงเรียนด้วยการเดินไปหรือขี่จักรยานไป?
+Everyone wants to meet you. You're famous!	ทุกคนต้องการพบคุณ คุณโด่งดังแล้ว!
+He must be very angry to say such a thing.	เขาจะต้องโกรธมากที่จะพูดสิ่งนี้
+I agree with you that we should try again.	ฉันเห็นด้วยกับคุณว่าเราควรลองอีกครั้ง
+I didn't know apple trees grow from seeds.	ฉันไม่รู้ว่าต้นแอปเปิ้ลเติบโตจากเมล็ด
+I don't have any money to pay for the bus.	ผมไม่มีเงินจ่ายค่ารถเมล์
+I don't have any problem getting to sleep.	ผมไม่มีปัญหาในการนอนหลับ
+I forgot to take my medicine this morning.	เช้านี้ผมลืมกินยา
+I had to walk because there were no taxis.	ฉันต้องเดินเพราะไม่มีแท็กซี่
+I have already finished reading this book.	ฉันอ่านหนังสือเล่มนี้เสร็จแล้ว
+I think that it's going to be a busy week.	ผมคิดว่ามันจะเป็นสัปดาห์ที่ยุ่ง
+I was surprised Tom didn't come yesterday.	ผมแปลกใจที่ทอมไม่มาเมื่อวาน
+I've been sitting here for almost an hour.	ผมนั่งอยู่ที่นี่มาเกือบชั่วโมงแล้ว
+She was very beautiful when she was young.	เธอสวยมากตอนที่เธอยังเด็ก
+Thai is the official language in Thailand.	ภาษาไทยเป็นภาษาราชการในประเทศไทย
+Thai is the official language of Thailand.	ภาษาไทยเป็นภาษาราชการของประเทศไทย
+That's the stupidest thing I've ever said.	นั่นคือสิ่งที่โง่ที่สุดที่ฉันเคยพูด
+The plane took off at exactly ten o'clock.	เครื่องบินออกตอนสิบโมง
+There are many good restaurants in Boston.	มีร้านอาหารดี ๆ มากมายในบอสตัน
+There are still things that we need to do.	ยังมีสิ่งที่เราต้องทำ
+There is an urgent need for social change.	การเปลี่ยนแปลงทางสังคมเป็นสิ่งจำเป็นเร่งด่วนของที่นั่น
+There's no water coming out of the shower.	ไม่มีน้ำไหลออกมาจากฝักบัว
+Tom came down to breakfast in his pajamas.	ทอมลงมาทานอาหารเช้าในชุดนอน
+Tom didn't come to school on October 20th.	ทอมไม่ได้มาโรงเรียนในวันที่ยี่สิบตุลาคม
+Tom recognized Mary as soon as he saw her.	ทอมจำแมรี่ได้ทันทีที่เขาเห็นเธอ
+Tom says he doesn't know a thing about it.	ทอมบอกว่าเขาไม่รู้อะไรเกี่ยวกับมัน
+Tom says you want to go to Boston with us.	ทอมบอกว่าคุณต้องการไปบอสตันกับเรา
+Tom will be sleeping in the guest bedroom.	ทอมจะนอนในห้องนอนแขก
+What kind of bicycle does Tom want to buy?	ทอมต้องการซื้อจักรยานแบบไหน
+You shouldn't keep a wild animal as a pet.	คุณไม่ควรเลี้ยงสัตว์ป่าเป็นสัตว์เลี้ยง
+You're not the only one with this problem.	คุณไม่ใช่คนเดียวที่มีปัญหานี้
+You've already had breakfast, haven't you?	คุณทานอาหารเช้าแล้วใช่ไหม
+Are you sure there were only three of them?	คุณแน่ใจเหรอว่ามีแค่สามคน
+Could you please repeat what you just said?	ช่วยพูดซ้ำในสิ่งที่คุณพึ่งพูดได้ไหม
+Did you find the book you were looking for?	คุณเจอหนังสือที่ตามหาตอนนั้นหรือยัง
+Have you ever received a blood transfusion?	คุณเคยได้รับการถ่ายเลือดหรือไม่
+Have you finished your French homework yet?	คุณทำการบ้านภาษาฝรั่งเศสเสร็จแล้วหรือยัง?
+He translated a Japanese novel into French.	ขาแปลนวนิยายญี่ปุ่นเป็นภาษาฝรั่งเศส
+How long have you been waiting for the bus?	คุณรอรถเมล์มานานเท่าไหร่แล้ว?
+I am afraid they don't get along very well.	ฉันเกรงว่าพวกเขาไปด้วยกันได้ไม่ค่อยดีเท่าไหร่
+I know you're supposed to be working today.	ผมรู้ว่าวันนี้คุณต้องทำงาน
+I met my teacher on the way to the station.	ฉันพบคุณครูระหว่างทางไปสถานี
+I would like to go to the concert with you.	ฉันอยากไปที่คอนเสิร์ตกับคุณ
+I'd be unhappy, but I wouldn't kill myself.	ฉันจะไม่มีความสุข แต่ฉันจะไม่ฆ่าตัวตาย
+I'm going to study French for one semester.	ฉันจะเรียนภาษาฝรั่งเศษเป็นเวลาหนึ่งเทอม
+Let's consider the worst that could happen.	ลองพิจารณาสิ่งที่แย่ที่สุดที่อาจเกิดขึ้นได้
+My ex-husband no longer lives in this city.	สามีเก่าของฉันไม่อาศัยอยู่ในเมืองนี้อีกต่อไป
+My grandfather passed away three years ago.	ปู่ของผมเสียชีวิตเมื่อสามปีที่แล้ว
+My mother wants me to study in Switzerland.	แม่ของฉันต้องการให้ฉันเรียนที่สวิตเซอร์แลนด์
+The simplest solutions are always the best.	ทางแก้ปัญหาที่ง่ายที่สุดมักจะเป็นทางที่ดีที่สุดเสมอ
+This is a very good way to learn languages.	นี่เป็นวิธีที่ดีมากในการเรียนรู้ภาษา
+Tom bought the cheapest thing in the store.	ทอมซื้อของที่ถูกสุดในร้าน
+Tom is always so negative about everything.	ทอมให้มองเห็นทุกอย่างในแง่ลบเสมอ
+Tom was supposed to do that, but he didn't.	ทอมควรทำอย่างนั้นแต่เขาไม่ทำ
+Why aren't you doing what I told you to do?	ทำไมคุณไม่ทำตามที่ผมบอก
+You should have knocked before you came in.	คุณควรเคาะประตูก่อนที่จะเข้ามา
+Amsterdam is the capital of the Netherlands.	อัมสเตอร์ดัมเป็นเมืองหลวงของเนเธอร์แลนด์
+Don't give any of these things to your kids.	อย่าเอาของพวกนี้ให้ลูกคุณ
+He gave the police a false name and address.	เขาให้ชื่อและที่อยู่ปลอมกับตำรวจ
+How many people were present at the meeting?	มีคนเข้าร่วมประชุมกี่คน?
+I don't want to work under these conditions.	ฉันไม่ต้องการทำงานภายใต้เงื่อนไขเหล่านี้
+I have plenty of time, but not enough money.	ฉันมีเวลาเหลือเฟือ แต่มีเงินไม่พอ
+I have plenty of time, but not enough money.	ผมมีเวลามากมายแต่มีเงินไม่พอ
+I know most people here don't like swimming.	ผมรู้ว่าคนส่วนใหญ่ที่นี่ไม่ชอบว่ายน้ำ
+I will give you a bicycle for your birthday.	ฉันจะให้จักรยานแก่คุณสำหรับวันเกิด
+In order to do that, you have to take risks.	ในการทำเช่นนั้น คุณต้องยอมรับความเสี่ยง
+It takes years to master a foreign language.	ใช้เวลาหลายปีกว่าจะชำนาญภาษาต่างประเทศ
+It was so cold yesterday that I stayed home.	เมื่อวานนี้มันหนาวมากจนฉันอยู่บ้าน
+Social customs vary from country to country.	วัฒนธรรมทางสังคมมีการแปรเปลี่ยนไปในแต่ละประเทศ
+The escaped prisoner hasn't yet been caught.	นักโทษที่หลบหนียังไม่ถูกจับ
+Tom put salt in his coffee instead of sugar.	ทอมใส่เกลือในกาแฟของเขาแทนที่จะเป็นน้ำตาล
+Tom tried to pick up his keys with his toes.	ทอมพยายามหยิบกุญแจของเขาขึ้นมาด้วยนิ้วเท้าของเขา
+We've been here for the last couple of days.	เราอยู่ที่นี่มาสองวันแล้ว
+You can't buy anything if you have no money.	คุณไม่สามารถซื้ออะไรได้ถ้าคุณไม่มีเงิน
+Your wish will come true in the near future.	ความปรารถนาของคุณจะเป็นจริงในอนาคตอันใกล้
+Earthquakes and floods are natural disasters.	แผ่นดินไหวและน้ำท่วมเป็นภัยธรรมชาติ
+Even though he apologized, I'm still furious.	ถึงเขาจะขอโทษ ฉันก็ยังโกรธ
+Even though he apologized, I'm still furious.	ถึงเขาจะขอโทษแล้ว แต่ฉันก็ยังโกรธ
+I got here just a few minutes before you did.	ฉันมาถึงที่นี่ก่อนคุณไม่กี่นาที
+I realize now why I shouldn't have done that.	ฉันเข้าใจแล้วว่าทำไมฉันไม่ควรทำอย่างนั้น
+I still don't understand what the problem is.	ผมยังไม่เข้าใจว่าปัญหาคืออะไร
+I think that Tom would be afraid of your dog.	ฉันคิดว่าทอมน่าจะกลัวหมาของเธอนะ
+I usually do my shopping at this supermarket.	ฉันมักจะซื้อของที่ซูเปอร์มาร์เก็ตนี้
+I wonder why Tom didn't come to Mary's party.	ฉันสงสัยว่าทำไมทอมถึงไม่มาที่ปาร์ตี้ของแมรี่
+I would've liked to have gone there with you.	ผมอยากจะไปที่นั่นกับคุณ
+I'll do my best not to disturb your studying.	ฉันจะพยายามสุดความสามารถที่จะไม่รบกวนการเรียนของเธอ
+In Venice, there are always lots of tourists.	ในเวนิสมีนักท่องเที่ยวจำนวนมากเสมอ
+People don't like what they can't understand.	ผู้คนมักไม่ชอบในสิ่งที่พวกเขาไม่เข้าใจ
+She was ready to give him back all his money.	เธอพร้อมที่จะคืนเงินทั้งหมดให้เขา
+The box was so heavy that I couldn't lift it.	กล่องหนักมากจนยกไม่ได้
+The more you have, the more you have to lose.	ยิ่งมีมาก ก็ยิ่งต้องเสียมาก
+The price of food has gone up a lot recently.	ราคาอาหารขึ้นมากในช่วงนี้
+There are many words that I don't understand.	มีหลายคำที่ฉันไม่เข้าใจ
+There were almost no passengers on the train.	แทบไม่มีผู้โดยสารบนรถไฟเลย
+There's got to be a better way of doing this.	มันต้องมีทางที่ดีกว่านี้
+These books are mine and those books are his.	หนังสือกองนี้ของฉัน ส่วนกองโน้นน่ะของเค้า
+Tom knew right away something had gone wrong.	ทอมรู้ทันทีว่ามีบางอย่างผิดปกติ
+We couldn't go out because of the heavy rain.	เราออกไปไม่ได้เพราะฝนตกหนัก
+What time did you close the store last night?	เมื่อคืนคุณปิดร้านกี่โมง
+You need to be more positive about your work.	คุณต้องมีทัศนคติที่ดีต่องานของคุณ
+Avoid crossing this street when it is raining.	หลีกเลี่ยงการข้ามถนนเส้นนี้เมื่อฝนตก
+He marches to the beat of a different drummer.	เขาเดินตามจังหวะของมือกลองคนละคน
+I can't sleep because it's too bright outside.	ผมนอนไม่หลับเพราะข้างนอกสว่างเกินไป
+I hear she is going to get married next month.	ผมได้ยินว่าเธอจะแต่งงานเดือนหน้า
+I was thirsty, but there was nothing to drink.	ผมหิวน้ำแต่ไม่มีอะไรให้ดื่ม
+I wonder what Tom's motive for doing that was.	ฉันสงสัยว่าทอมมีเหตุผลอะไรในการทำอย่างนั้น
+She went to see him in the hospital every day.	เธอไปพบเขาที่โรงพยาบาลทุกวัน
+Tom is a boy's name and Mary is a girl's name.	ทอมเป็นชื่อของเด็กชายและแมรี่เป็นชื่อของเด็กหญิง
+What will happen if there's power failure now?	จะเกิดอะไรขึ้นถ้ามีไฟฟ้าขัดข้องตอนนี้?
+When Tom found out about that, he was furious.	เมื่อทอมรู้เรื่องนี้เขาก็โกรธจัด
+You shouldn't be drinking on an empty stomach.	คุณไม่ควรดื่มในขณะท้องว่าง
+A lot of people are dealing with allergies now.	ผู้คนจำนวนมากกำลังเผชิญกับอาการแพ้ในขณะนี้
+He officially announced himself as a candidate.	เขาประกาศตัวเป็นผู้ท้าชิงอย่างเป็นทางการ
+How many students are there in your university?	ในมหาวิทยาลัยของคุณมีนักเรียนกี่คน?
+I don't believe that black cats cause bad luck.	ฉันไม่เชื่อว่าแมวดำก่อให้เกิดโชคร้าย
+I was bitten by a lot of insects in the forest.	ฉันถูกแมลงหลายตัวกัดในป่า
+I'd love to go to the museum with you tomorrow.	ฉันอยากไปพิพิธภัณฑ์กับคุณพรุ่งนี้
+Is it true that horses sleep while standing up?	จริงหรือไม่ที่ม้าหลับขณะยืน
+One million people lost their lives in the war.	หนึ่งล้านคนเสียชีวิตในสงคราม
+The policeman arrested him for drunken driving.	ตำรวจกุมตัวเขาเพราะเมาแล้วขับ
+Tom is a man's name and Mary is a woman's name.	ทอมเป็นชื่อของผู้ชายและแมรี่เป็นชื่อของผู้หญิง
+We're delighted with the way things turned out.	เราพอใจกับสิ่งที่เกิดขึ้น
+I didn't see any children playing on the swings.	ผมไม่เห็นเด็กเล่นชิงช้าเลย
+I just lay on the beach and watched people swim.	ผมแค่นอนบนชายหาดและดูคนว่ายน้ำ
+I know what I want. I just haven't found it yet.	ฉันรู้ว่าฉันต้องการอะไร แค่ฉันยังไม่ได้พบมัน
+I wonder what the weather will be like tomorrow.	ฉันสงสัยว่าพรุ่งนี้อากาศจะเป็นอย่างไร
+I'm looking for someone to do my laundry for me.	ฉันกำลังมองหาคนซักเสื้อผ้าสำหรับฉัน
+It wasn't the first time that Tom had been late.	นี่ไม่ใช่ครั้งแรกที่ทอมมาสาย
+Most students are preparing for the final exams.	นักเรียนส่วนใหญ่เตรียมความพร้อมสำหรับการสอบปลายภาค
+The meeting lasted a lot longer than I expected.	การประชุมใช้เวลานานกว่าที่ผมคาดไว้มาก
+This is the street that I was telling you about.	นี่คือถนนที่ผมบอกคุณ
+Tom reminded Mary that she had to do that today.	ทอมเตือนแมรี่ว่าเธอต้องทำสิ่งนั้นวันนี้
+Tom said Mary didn't think John really did that.	ทอมพูดว่าแมรี่ไม่ได้คิดว่าจอห์นทำอย่างนั้นจริง
+Trees give off oxygen and absorb carbon dioxide.	ต้นไม้ให้ออกซิเจนและดูดซับคาร์บอนไดออกไซด์
+We went to the museum to study Japanese history.	เราไปที่พิพิธภัณฑ์เพื่อศึกษาประวัติศาสตร์ญี่ปุ่น
+Why does the US government let people have guns?	ทำไมรัฐบาลสหรัฐปล่อยให้คนมีปืน?
+How long did it take for the ambulance to arrive?	นานไหมกว่ารถพยาบาลจะมาถึง
+I couldn't help laughing when I heard that story.	ฉันอดหัวเราะไม่ได้เมื่อได้ยินเรื่องนั้น
+I have a lot of work that still needs to be done.	ฉันมีงานที่ต้องทำมากมาย
+I have to write a letter. Do you have some paper?	ฉันต้องเขียนจดหมาย คุณมีกระดาษบ้างไหม?
+Mt. Everest is the highest mountain in the world.	ภูเขาเอเวอเรสต์เป็นภูเขาที่สูงที่สุดในโลก
+Mt. Everest is the highest mountain in the world.	ยอดเขาเอเวอเรสต์เป็นยอดเขาที่สูงที่สุดในโลก
+That was probably what influenced their decision.	นั่นอาจเป็นสิ่งที่มีอิทธิพลต่อการตัดสินใจของพวกเขา
+There's no need to hurry. We have plenty of time.	ไม่จำเป็นต้องรีบร้อน เรามีเวลาเหลือเฟือ
+Tom was sitting in the dark, smoking a cigarette.	ทอมนั่งในความมืด สูบบุหรี่
+I think Tom is from Australia, but I may be wrong.	ฉันคิดว่าทอมมาจากออสเตรเลีย แต่ฉันอาจจะผิดก็ได้
+I've persuaded Tom to stay in Boston until Monday.	ฉันเกลี้ยกล่อมทอมให้อยู่ในบอสตันจนถึงวันจันทร์
+Mary is wearing the dress her mother made for her.	แมรี่สวมชุดที่แม่ของเธอทำให้
+Tom escaped from the castle, disguised as a woman.	ทอมหนีออกจากปราสาท ปลอมตัวเป็นผู้หญิง
+You must learn English whether you like it or not.	คุณต้องเรียนภาษาอังกฤษไม่ว่าคุณจะชอบหรือไม่
+You should read a lot of books while you're young.	คุณควรอ่านหนังสือจำนวนมากในขณะที่คุณยังเด็ก
+I can't tell her now. It's not that simple anymore.	ฉันบอกเธอไม่ได้ตอนนี้ มันไม่ง่ายอย่างนั้นอีกแล้ว
+It would take forever for me to explain everything.	มันคงใช้เวลานานมากสำหรับฉันที่จะอธิบายทุกอย่าง
+It's one of the most beautiful cities in the world.	มันคือหนึ่งในเมืองที่สวยที่สุดในโลก
+The man confessed that he had robbed the old woman.	ผู้ชายสารภาพว่าเค้าปล้นผู้หญิงแก่คนนั้น
+Tom and Mary are having a little financial trouble.	ทอมและแมรี่มีปัญหาทางการเงินเล็กน้อย
+Do you think Tom knew that that was going to happen?	คุณคิดว่าทอมรู้ว่ามันจะเกิดขึ้นหรือเปล่า
+He was poor for a long time, but he is well off now.	เขาเคยเป็นคนจนมาเป็นเวลานาน แต่ตอนนี้เขาดีแล้ว
+He was wrong in thinking that she'd come to see him.	เขาคิดผิดว่าเธอจะมาพบเขา
+How many hours a week do you spend in the classroom?	คุณใช้เวลาในห้องเรียนกี่ชั่วโมงต่อสัปดาห์
+I asked around and everybody says Tom is a good guy.	ฉันได้ถามกับคนรอบข้างและทุกคนต่างก็บอกว่าทอมเป็นคนที่ดี
+I enjoyed the concert except that the hall was cold.	ฉันสนุกกับคอนเสิร์ตยกเว้นห้องโถงมีอากาศเย็น
+Tom and Mary don't have enough money to buy a house.	ทอมและแมรี่ไม่มีเงินพอซื้อบ้าน
+Compare your sentence with the one on the blackboard.	เปรียบเทียบประโยคของคุณกับประโยคในกระดานดำ
+How much would you charge me to do my laundry for me?	คุณคิดค่าบริการฉันเท่าไรสำหรับการซักรีดให้ฉัน
+I wonder where to hang this picture that Tom gave me.	ฉันสงสัยว่าจะแขวนรูปที่ทอมให้มาตรงไหนดี
+Whenever I find something I like, it's too expensive.	เมื่อใดก็ตามที่ฉันพบบางสิ่งที่ฉันชอบมันจะแพงเกินไป
+You should look over the contract before you sign it.	คุณควรตรวจสัญญาก่อนลงชื่อ
+All writing systems have advantages and disadvantages.	ระบบการเขียนทั้งหมดมีทั้งข้อดีและข้อเสีย
+Back in high school, I got up at 6 a.m. every morning.	กลับมาตอนมัธยม ฉันตื่นนอนเวลา 6 โมงเช้าทุกเช้า
+Don't be so glum about it. Life has its ups and downs.	อย่ามัวแต่กังวลมัน ชีวิตมีช่วงขึ้นและลง
+If you really want to know, all you have to do is ask.	ถ้าคุณอยากรู้จริง ๆ สิ่งที่คุณต้องทำคือถาม
+Only Tom would have the guts to do that kind of thing.	ทอมเท่านั้นที่จะมีความกล้าที่จะทำสิ่งอย่างนั้น
+Some parents refuse to have their children vaccinated.	ผู้ปกครองบางคนปฏิเสธที่จะให้บุตรได้รับการฉีดวัคซีน
+There is a bookstore in front of the department store.	มีร้านหนังสือหนึ่งแห่งอยู่หน้าห้างสรรพสินค้า
+Tom and his brother have very different personalities.	ทอมและพี่ชายของเขามีนิสัยที่ต่างกันมาก
+Tom and his brother have very different personalities.	ทอมและน้องชายของเขามีนิสัยที่ต่างกันมาก
+What's the difference between religion and philosophy?	ศาสนากับปรัชญาต่างกันอย่างไร?
+What's the difference between religion and philosophy?	อะไรคือสิ่งแตกต่างระหว่างศาสนากับปรัชญา?
+Germany adopted a social security system in the 1880's.	เยอรมนีเริ่มใช้ระบบประกันสังคมในปี 1880
+Our school prohibits us from going to the movies alone.	โรงเรียนของเราห้ามไม่ให้เราไปดูหนังคนเดียว
+The doctor continued to observe the patient's behavior.	แพทย์ยังคงสังเกตพฤติกรรมของผู้ป่วยอย่างต่อเนื่อง
+Do you have anything in the refrigerator that I can eat?	คุณมีอะไรในตู้เย็นที่ฉันกินได้ไหม
+I've always wondered what it'd be like to have siblings.	ฉันสงสัยอยู่เสมอว่ามันจะเป็นอย่างไรที่มีพี่น้อง
+Did you see the sunrise earlier? It was really beautiful.	คุณได้เห็นพระอาทิตย์ขึ้นเมื่อกี้ไหม? มันสวยมากเลย
+How do you know you're not mistaking me for someone else?	คุณรู้ได้อย่างไรว่าไม่ได้สับสนฉันกับคนอื่น
+Just go about your business and don't keep looking at me.	แค่ไปทำงานของคุณและเลิกมองฉัน
+The football game might be called off on account of rain.	ฟุตบอลอาจจะยกเลิกเพราะฝนตก
+When you open the door, the light comes on automatically.	เมื่อคุณเปิดประตูไฟจะสว่างขึ้นโดยอัตโนมัติ
+I met my teacher by accident at the restaurant last night.	เมื่อคืนนี้ฉันเจอกับครูของฉันโดยบังเอิญ
+The real problem is you don't even know we have a problem.	ปัญหาที่แท้จริงคือคุณไม่รู้ด้วยซ้ำว่าเรามีปัญหา
+Tom can't come to work today because he doesn't feel well.	ทอมไม่สามารถมาทำงานได้ในวันนี้เพราะเขารู้สึกไม่สบาย
+While we were on holiday, a neighbor took care of our cat.	ระหว่างที่พวกเราไปเที่ยววันหยุดกัน มีเพื่อนบ้านคนหนึ่งช่วยดูแลแมวของพวกเราให้
+Washing dishes is something that I don't really enjoy doing.	การล้างจานเป็นสิ่งที่ผมไม่ชอบทำ
+I suspect Tom won't tell Mary what happened to him yesterday.	ฉันคิดว่าทอมจะไม่บอกแมรี่ว่าเกิดอะไรขึ้นกับเขาเมื่อวานนี้
+Tom and Mary will probably not tell John about what they did.	ทอมและแมรีคงไม่บอกจอห์นหรอกว่าพวกเขาทำอะไรลงไป
+Have you ever been to that Japanese restaurant on Park Street?	คุณเคยไปร้านอาหารญี่ปุ่นที่ถนนปาร์กหรือยัง
+He listened very carefully in order not to miss a single word.	เขาฟังอย่างระมัดระวังเพื่อไม่ให้พลาดแม้แต่คำเดียว
+I have a cat and a dog. The cat is black and the dog is white.	ฉันมีแมวและสุนัข แมวมีสีดำและสุนัขมีสีขาว
+Mary is wearing the same dress that she was wearing yesterday.	แมรี่ใส่ชุดเดิมตัวเมื่อวาน
+Tom said he thought that I was the only one who had to do that.	ทอมบอกว่าเขาเป็นคน ๆ เดียวที่ต้องทำสิ่งนั้น
+We have to use the stairs because the elevator is out of order.	เราต้องใช้บันไดเพราะลิฟต์เสีย
+They had to change their schedule because the train arrived late.	พวกเขาต้องเปลี่ยนตารางเวลาเพราะรถไฟมาสาย
+Tom thought that Mary and I wouldn't enjoy doing that by ourselves.	ทอมคิดว่าแมรีและฉันจะไม่สนุกกับการไปทำสิ่งนั้นกันเอง
+The police compared the fingerprints on the gun with those on the door.	ตำรวจเปรียบเทียบลายนิ้วมือบนปืนกับที่อยู่บนประตู
+Before you put the knife away, please wipe it dry so that it will not rust.	ก่อนเก็บมีดเช็ดให้แห้งด้วย จะได้ไม่เป็นสนิม
+If I had known about your illness, I could have visited you in the hospital.	ถ้าฉันรู้เรื่องที่คุณป่วย ฉันอาจจะไปเยี่ยมคุณที่โรงพยาบาล
+Some people say that you shouldn't check your email first thing in the morning.	บางคนบอกว่า ไม่ควรตรวจสอบอีเมลเป็นสิ่งแรกในตอนเช้า
+Hand washing is recommended to prevent the spread of contagious diseases like a coronavirus.	แนะนำให้ล้างมือเพื่อป้องกันการแพร่กระจายของโรคติดต่อเช่นโคโรนาไวรัส
+If you spend too much time in the sun without putting on sunscreen, you are likely to get a sunburn.	หากคุณใช้เวลาอยู่กลางแดดมากเกินไปโดยไม่ใส่ครีมกันแดด คุณมีโอกาสถูกแดดเผา

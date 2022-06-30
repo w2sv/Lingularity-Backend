@@ -2,8 +2,7 @@ from time import time
 
 import pytest
 
-from backend.components.tts import TTS
-from backend.components.tts._google_client import GoogleTTSClient
+from backend.src.components.tts import GoogleTTSClient, TTS
 
 
 @pytest.mark.parametrize('language, text', [
@@ -45,7 +44,6 @@ class TestGoogleTTS:
     ])
     def test_get_language_identifier(self, language, identifier):
         assert GoogleTTSClient._get_identifier(language) == identifier
-
 
     @pytest.mark.parametrize('language, expected', [
         ('Khmer', True),

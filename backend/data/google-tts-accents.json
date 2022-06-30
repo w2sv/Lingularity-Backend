@@ -1,0 +1,28 @@
+{
+  "English": {
+    "Australia": "com.au",
+    "United Kingdom": "co.uk",
+    "United States": "com",
+    "Canada": "ca",
+    "India": "co.in",
+    "Ireland": "ie",
+    "South Africa": "co.za"
+  },
+  "French": {
+    "France": "fr",
+    "Canada": "ca"
+  },
+  "Mandarin": {
+    "China Mainland": null,
+    "Taiwan": null
+  },
+  "Portuguese": {
+    "Brazil": "com.br",
+    "Portugal": "pt"
+  },
+  "Spanish": {
+    "Spain": "es",
+    "Mexico": "com.mx",
+    "United States": "com"
+  }
+}

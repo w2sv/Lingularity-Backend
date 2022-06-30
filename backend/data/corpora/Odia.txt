@@ -1,0 +1,102 @@
+Help!	ସାହାଯ୍ୟ କର !
+Jump!	ଡିଅଁ!
+Jump.	ଡିଁଅ।
+Stop!	ରହିଯାଅ!
+Wait!	ଅପେକ୍ଷା କର!
+Wait.	ଅପେକ୍ଷା କର।
+Hello!	ନମସ୍କାର!
+I try.	ମୁଁ ଚେଷ୍ଟା କରେ।
+Relax.	ଆରାମ କର।
+Smile.	ହସ।
+Got it!	ବୁଝିଲି।
+Really?	ସତରେ?
+Thanks!	ଧନ୍ୟବାଦ!
+We try.	ଆମେ ଚେଷ୍ଟା କରୁ।
+Why me?	ମୁଁ କାହିଁକି?
+Beat it.	ତାକୁ ହରେଇ ଦିଅନ୍ତୁ।
+Come on!	ଆରେ ଆସ!
+Get out.	ବାହର।
+Goodbye!	ଶୁଭ ବିଦାୟ
+Me, too.	ମୁଁ ବି।
+Open up.	ଖୋଲିଦିଅ।
+Wash up.	ଧୋଇଦିଅ
+Welcome.	ସ୍ୱାଗତ!
+Cheer up!	ଖୁସି ଜମାଅ!
+Get away!	ଯା ଏଠୁ!
+Go ahead!	ଆଗାନ୍ତୁ!
+Go ahead.	ଆଗାନ୍ତୁ।
+Have fun.	ମଜା କର।
+How cute!	କେତେ ସୁନ୍ଦର!
+How deep?	କେତେ ଗଭୀର?
+Look out!	ବାହାରକୁ ଦେଖ!
+Speak up!	କିଛିକୁହ!
+Terrific!	ଭୟଙ୍କର!
+What for?	କଣ ପାଈଁ?
+What fun!	କି ମଜା!
+Who am I?	ମୁଁ କିଏ ?
+Who am I?	ମୁଁ କିଏ?
+Answer me.	ଉତ୍ତର ଦିଅନ୍ତୁ।
+Come here.	ଏଠିକୁ ଆସ।
+Follow me.	ମୋ ପଛରେ ଆସନ୍ତୁ।
+Forget it.	ଭୁଲିଯାଅ।
+Good luck.	ଶୁଭେଚ୍ଛା
+Goodnight.	ଶୁଭରାତ୍ରୀ।
+How awful!	କି ଖରାପ କଥା!
+I laughed.	ମୁଁ ହସିଲି।
+Look back!	ପଛକୁ ଅନାଂନ୍ତୁ
+She cried.	ସେ କାନ୍ଦିଲେ।
+She tried.	ସେ ଚେଷ୍ଟା କଲେ।
+She walks.	ସେ ଚାଲନ୍ତି
+Sit tight.	ସିଧା ବସ।
+Try again.	ଆଉଥରେ ଚେଷ୍ଟା କର।
+Wonderful!	ଅତି ସୁନ୍ଦର!
+You tried.	ଆପଣ ଚେଷ୍ଟା କଲେ।
+All aboard!	ସମସ୍ତେ ଅଛନ୍ତି!
+Bottoms up!	ତଳରୁ ଉପର!
+Definitely!	ନିଶ୍ଚିତ!
+Fire burns.	ନିଆଁ ପୋଡ଼େ।
+Never mind!	ଛାଡ!
+Shadow him.	ତାକୁ ଅନୁସରଣ କରନ୍ତୁ।
+She smiled.	ସେ ହସିଲେ ।
+Step aside.	କଡ଼ ଛାଡ଼।
+I overslept.	ମୁଁ ବେଶି ଶେଇଗଲି।
+Many thanks.	ଅନେକ ଧନ୍ୟବାଦ।
+Money talks.	ପଇସା କଥାହୁଏ।
+Tom frowned.	ଟମ୍ ମୁହଁ ଗେନ୍ଧରା କଲେ।
+Beef, please.	ଗୋମାଂସ ଦ୍ଅନ୍ତୁ।
+Fish, please.	ମାଛ ଦିଅନ୍ତୁ।
+Please hurry.	ଦୟାକରି ଶିଘ୍ର।
+Check, please.	ଯାନ୍ଚକର, ଦୟାକରି।
+Flowers bloom.	ଫୁଲ ଫୁଟେ।
+How wonderful!	କେତେ ଆଶ୍ଚର୍ୟଯନକ!
+Stop grumbling.	ଗୁଁ ଗୁଁ ହେବା ବନ୍ଦ କର।
+They quarreled.	ସେମାନେ ଝଗଡ଼ା କଲେ।
+Attention please!	ଦୟାକରି ଧ୍ୟାନ ଦିଅନ୍ତୁ!
+Nothing happened.	କିଛି ହେଇନି।
+Everybody laughed.	ସମସ୍ତେ ହସିଲେ ।
+How can we do that?	ଆମେ ତାହା କିପରି କରିବୁ?
+How should we do that?	ଆମେ ତାହା କିପରି କରିବୁ?
+I refrain from drinking.	ମୁଁ ନିଶାପାନ ଠାରୁ ଦୂରରେ ରହେ।
+Tom could be incompetent.	ଟମ୍ ଅଦକ୍ଷ୍ୟ ହୋଇପାରେ |
+I'm very sensitive to heat.	ମୁଁ ଉତ୍ତାପ ପ୍ରତି ବହୁତ ସମ୍ବେଦନଶୀଳ।
+Nothing would persuade him.	ତାଂକୁ ବୁଝାଇ ହେବନାହିଁ।
+Tom always sits in the back.	ଟମ୍ ସଦା ପଛରେ ବସେ।
+My parents won't let me date.	ମୋର ପିତାମାତା ମୋତେ ପ୍ରେମ ସମ୍ପର୍କ ଗଢିବାକୁ ଦିଅନ୍ତି ନାହିଁ |
+Tom and Mary are now engaged.	ଟମ୍ ଏବଂ ମେରୀଙ୍କର ନିର୍ବନ୍ଧ ହୋଇ ଯାଇଛି।
+Did you see anyone suspicious?	ତୁମେ କୌଣସି ସନ୍ଦେହଜନକ ବ୍ୟକ୍ତିଙ୍କୁ ଦେଖିଲ କି?
+I don't like the way Tom sang.	ଟମ୍ ର ଗାଇବାର ଶୈଳି ମୁଁ ପସନ୍ଦ କରିଲି ନାହିଁ।
+I don't like the way Tom sang.	ଟମ୍ ର ଗାଇବାର ଶୈଳି ମୋତେ ପସନ୍ଦ ହୋଇଲା ନାହିଁ।
+I can't make out what she wants.	ସେ କଣ ଚାହୁଁଛି ମୁଁ ବୁଝିପାରୁନାହିଁ |
+Tom says he didn't study French.	ଟମ୍ କହୁଛି ଯେ ସେ ଫରାସୀ ଶିକ୍ଷା କରିନାହିଁ।
+Tom was like a big brother to me.	ଟମ୍ ମୋର ବଡ଼ ଭାଈ ପରିକା ଥିଲେ
+Some of the patients are suffering.	କିଛି ରୋଗୀ କଷ୍ଟ ପାଉଛନ୍ତି ।
+Tom won't be very impressed by that.	ଟମ୍ ତାହା ଦ୍ୱାରା ବହୁତ ପ୍ରଭାବିତ ହେବ ନାହିଁ।
+You didn't look like you were lonely.	ତୁମକୁ ଦେଖିଲେ ଏକାକୀ ପରେ ମନେ ହେଉନଥିଲ |
+He was told to get off at the station.	ତାଂକୁ ସ୍ଟେସନ୍ ରେ ଓଲ୍ହେଇ ଯିବା ପାଇଁ କୁହାଯାଇଥିଲା।
+Leave the matter to me. I'll see to it.	ଏ ବିଷୟ ମୋ ଉପରେ ଛାଡି଼ଦିଅନ୍ତୁ। ମୁଁ ବୁଝିଦେବି।
+How far is it to the post office from here?	ଏଠାରୁ ଡାକଘର କେତେ ଦୂର?
+She lost her only son in the traffic accident.	ସେ ତାଂକର ଏକମାତ୍ର ପୁତ୍ର କୁ ଟ୍ରାଫିକ୍ ଦୁର୍ଘଟଣାରେ ହରେଇଲେ।
+I didn't think Tom would tell Mary how to do that.	ମୁଁ ଏହା ଭାବିନଥିଲି ଯେ ଟମ୍ ମେରୀକୁ କହିବ ସେ କାର୍ଯ୍ୟଟି କିପରି କରାଯିବ |
+I thought that Tom said he was planning to do that.	ମୁଁ ଭାବିଲି ଯେ ଟମ୍ କହିଲା ସେ ତାହା କରିବା ପାଇଁ ଯୋଜନା କରୁଥିଲା।
+You could talk to a different counselor if you want to.	ଆପଣ ଚାହିଁବେ ଯଦି ଅନ୍ୟ ପରାମର୍ଶଦାତା ସହିତ କଥା ହୋଈପାରିବେ।
+Do you really think Tom is the only one here who can speak French?	ତୁମେ କଣ ପ୍ରକୃତରେ ଏହା ଭାବୁଛ ଯେ ଏଠାରେ କେବଳ ଟମ୍ ହିଁ ଫ୍ରେଞ୍ଚ୍ ବୋଲିପାରିବ?

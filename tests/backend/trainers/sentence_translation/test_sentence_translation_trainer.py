@@ -1,6 +1,6 @@
 import pytest
 
-from backend.trainers.sentence_translation import modes, SentenceTranslationTrainerBackend
+from backend.src.trainers.sentence_translation import modes, SentenceTranslationTrainerBackend
 
 
 @pytest.mark.parametrize('language, train_english, tts_available, sentence_data_filter, n_traverse_sentences', [
@@ -8,13 +8,13 @@ from backend.trainers.sentence_translation import modes, SentenceTranslationTrai
         'Galician', False, False, modes.random.filter_sentence_data, 30
     ),
     (
-        'French', False, True, modes.diction_expansion.filter_sentence_data, 70
+        'Bulgarian', False, True, modes.diction_expansion.filter_sentence_data, 70
     ),
     (
         'Arabic', False, True, modes.simple.filter_sentence_data, 130
     ),
     (
-        'German', True, True, modes.simple.filter_sentence_data, 130
+        'Assamese', True, True, modes.simple.filter_sentence_data, 130
     ),
 ])
 def test_sentence_translation_trainer(language, train_english, tts_available, sentence_data_filter, n_traverse_sentences):

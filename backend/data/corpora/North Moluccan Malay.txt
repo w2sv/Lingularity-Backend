@@ -1,0 +1,175 @@
+Who?	Sapa?
+I know.	Kita tau.
+Listen.	Dengar!
+Thanks!	Trima kasi!
+Why me?	Bikiapa kong kita?
+Go away.	Bajao!
+Me, too.	Kita lagi.
+Birds fly.	Burung tarbang.
+Follow me.	Iko kita.
+I fainted.	Kita semaput.
+I laughed.	Kita tatawa.
+It's 8:30.	Ini su stenga sambilan.
+Look back!	Lia kabalakang!
+She cried.	Dia manangis.
+She walks.	Dia tatawa.
+Birds sing.	Burung manyanyi.
+She smiled.	Dia senyum.
+Tom is ugly.	Tom tu tara bae.
+Walk slowly.	Bajalang palang-palang.
+Are you lost?	Ngana ilang ka?
+Drive slowly.	Bawa kendaraan palang-palang.
+I don't know.	Kita tara tau.
+I understand.	Kita mangarti.
+I'm not here.	Kita tara di sini.
+Ladies first.	Parampuang kamuka.
+Let's go eat.	Tong makang mari!
+Let's go eat.	Makang mari!
+Let's go eat.	Mari torang makang.
+Let's go eat.	Mari la torang makang.
+Let's go eat.	Mari la torang pigi makang.
+Let's go eat.	Tong pi makang mari!
+Stop smoking.	Barenti baisap!
+Stop talking.	Barenti bacarita.
+I hate French.	Kita binci bahasa Prancis.
+I like French.	Kita suka bahasa Prancis.
+I love French.	Kita suka skali bahasa Prancis.
+It's 2:00 p.m.	Ini su siang jam dua.
+Who called me?	Sapa pangge kita tu?
+I speak French.	Kita bicara deng bahasa Prancis.
+I study French.	Kita balajar bahasa Prancis.
+I teach French.	Kita mangajar bahasa Prancis.
+Is that French?	Itu bahasa Prancis?
+Louder, please.	Tolong kase basar suara sadiki.
+They're joking.	Dorang basedu saja.
+I was too small.	Kita talalu kacil.
+I'm going to go.	Kita mu pigi.
+Let's fly kites.	Mari torang kase tarbang falinggir.
+Tom was running.	Tom ada lari.
+We study French.	Torang balajar bahasa Prancis.
+He speaks French.	Dia bicara deng bahasa Prancis.
+I eat everything.	Samua-samua kita makang.
+I sell umbrellas.	Kita bajual payung-payung.
+Listen carefully.	Dengar bae-bae.
+Nothing happened.	Tara bikiapa-bikiapa.
+She may be French.	Mangkali dia orang Prancis.
+She may be French.	Dia ini mangkali orang Prancis.
+They spoke French.	Dorang bicara deng bahasa Prancis.
+Tom speaks French.	Tom bicara deng bahasa Prancis.
+What is your name?	Ngana pe nama sapa?
+Who speaks French?	Sapa bicara deng bahasa Prancis?
+I can speak French.	Kita bisa bahasa Prancis.
+Is everyone hungry?	Samua su lapar?
+Tom studies French.	Tom balajar bahasa Prancis.
+Tom teaches French.	Tom mangajar bahasa Prancis.
+What are you doing?	Ngana ada bikiapa tu?
+What are you doing?	Ngana ada biking apa tu?
+Can he speak French?	Dia bisa bahasa Prancis?
+French is difficult.	Bahasa Prancis tu susa.
+How old is your car?	Ngana pe oto tu su barapa taong?
+I speak French, too.	Kita bicara deng bahasa Prancis lagi.
+I speak French, too.	Kita tau bahasa Prancis lagi.
+I will be back soon.	Nanti kita bale lagi.
+I'm richer than you.	Kita deng ngana tu kita yang kaya.
+I'm richer than you.	Kita deng ngana tu kita labe kaya.
+I've studied French.	Kita su balajar bahasa Prancis.
+No one could see us.	Tarada yang bisa lia torang.
+Please speak French.	Tolong bicara deng bahasa Prancis.
+Can Tom speak French?	Tom bisa bahasa Prancis?
+Can you speak French?	Ngana bisa bahasa Prancis?
+He will study French.	Dia akang balajar bahasa Prancis.
+I don't use Facebook.	Kita tara pake efbi.
+I don't use Facebook.	Kita tara pake fesbuk.
+I love French movies.	Kita suka skali felem Prancis.
+She can speak French.	Dia bisa bahasa Prancis.
+This will cost €30.	Ini akang torang bayar 30 pound.
+We have no more rice.	Torang pe nasi su sisa ini suda.
+Who broke the bottle?	Sapa kase pica botol tu?
+He also speaks French.	Dia bicara deng bahasa Prancis lagi.
+He understands French.	Dia mangarti bahasa Prancis.
+I dialed Tom's number.	Kita telfon pa Tom pe nomor telfon.
+I have to go to sleep.	Kita musti nae tidor skarang.
+I hid behind the tree.	Kita basambunyi di pohong pe balakang.
+I should study French.	Kita musti balajar bahasa Prancis.
+I'm not good at lying.	Kita tara pintar bafoya.
+My French is terrible.	Kita pe bahasa Prancis ancor.
+She's eight years old.	Dia su lapan taong.
+She's eight years old.	Dia pe umur su lapan taong.
+Tom knows some French.	Tom cuma tau bahasa Prancis sasadiki.
+Tom teaches us French.	Tom mangajar pa torang bahasa Prancis.
+Tom teaches us French.	Tom kase ajar bahasa Prancis pa torang.
+What's your father do?	Ngana pe papa ada bikiapa?
+I didn't hear anything.	Kita tara dengar apa-apa.
+I was hungry, so I ate.	Karna kita su lapar, jadi kita makang suda.
+I was in the mountains.	Itu hari kita di gunung.
+I'll go there by plane.	Kita mu pigi kasana deng pesawat.
+Tom bought a newspaper.	Tom bali koran.
+Tom is learning French.	Tom ada balajar bahasa Prancis.
+Tom understands French.	Tom mangarti bahasa Prancis.
+We hid behind the tree.	Torang basambunyi di pohong pe balakang.
+Who teaches you French?	Sapa kase ajar bahasa Prancis.
+Don't walk on the grass.	Jang bajalang di rumpu-rumpu.
+You speak French, right?	Ngana tau bahasa Prancis, io to?
+I would do it if I could.	Kalo kita bisa tu kita su biking suda.
+I played soccer yesterday.	Kalmaring kita barmaeng bola kaki.
+I spent 100 dollars today.	Ini hari kita su pake doi saratus dolar.
+I was hungry, so I ate it.	Karna kita su lapar, jadi kita makang itu suda.
+It's the third of October.	Ini su 3 Oktober.
+It's the third of October.	Ini su bulan spulu tanggal tiga.
+Tom knows a lot of people.	Tom kanal orang banya skali.
+Tom said it cost too much.	Tom bilang dia pe harga talalu mahal.
+You don't like it, do you?	Ngana tara suka itu barang, io to?
+Does Tom understand French?	Tom mangarti bahasa Prancis?
+Is that what you're asking?	Itu yang ngana tanya tadi tu?
+Tom speaks French fluently.	Tom bicara pake bahasa Prancis bagus skali.
+I brought something for you.	Kita ada bawa satu barang for kase ngana.
+Most people think I'm crazy.	Banya orang kira kita gila.
+Tom prefers speaking French.	Tom lebe suka bicara deng bahasa Prancis.
+What do you do after dinner?	Abis makang malam ngana mu biking apa?
+Did Tom die in that accident?	Batul ka tarada Tom mati pas tatabrak tu?
+Speaking French is difficult.	Bicara deng bahasa Prancis tu susa.
+Won't you join us for dinner?	Ngana tara mau pigi makang malam deng torang?
+You understand French, right?	Ngana mangarti bahasa Prancis, io to?
+I don't have any money at all.	Kita tarada doi, satu sen me tarada.
+She pretended to be a student.	Dia bafoya jadi ana murid.
+I acted like I didn't know her.	Kita babiking mudel deng kita tara tau dia ni.
+Where can we make a phone call?	Di mana torang bisa batelfon?
+"Who is it?" "It's your mother."	"Sapa itu?" "Dia ngana pe mama."
+"Who is it?" "It's your mother."	"Dia itu sapa?" "Dia itu ngana pe mama."
+I waited for an hour and a half.	Kita baku tunggu satu jam stenga.
+I'm sorry, but I can't help you.	Kita minta maaf, kita tara bisa bantu ngana.
+I'm sorry, but I can't help you.	Kita minta maaf e barang tara bisa bantu ngana kong.
+What do you think of my new hat?	Menurut ngana kita pe topi ni bagimana?
+This morning, I bicycled to work.	Kita pigi nae speda for pigi karja pagi-pagi.
+Tom almost died in that accident.	Tom amper maninggal pas dia tatabrak.
+You're angry with me, aren't you?	Ngana mara kita, io?
+You're angry with me, aren't you?	Ngana mara pa kita, io to?
+"What day is it?" "It's Wednesday."	"Ini hari hari apa?" "Hari Rabu."
+"Where does it hurt?" "Everywhere."	"Sake di mana?" "Samua-samua sake."
+He warned us not to enter the room.	Dia bilang torang jang maso dalam situ.
+How many close friends do you have?	Ngana pe tamang dekat ada barapa orang?
+Although Tom is sick, he's swimming.	Tom sake me pigi barenang.
+Few people live to be 100 years old.	Orang-orang yang umur sampe saratus tu cuma sadiki.
+If you can come tomorrow, please do.	Kalo ngana bisa datang beso tu datang da.
+You hid behind the tree, didn't you?	Ngana basambunyi di pohong pe balakang, io?
+I usually eat at home with my family.	Kita biasa makang deng keluarga di ruma.
+Please write your date of birth here.	Tulis ngana pe tanggal lahir tu.
+How long have you been learning English?	Su barapa lama ngana balajar bahasa Inggris?
+If you speak French, I won't understand.	Kalo ngana bicara bahasa Prancis, akang kita tara mangarti.
+He has a fear that his brother will fail.	Dia tako dia pe ade tara lulus.
+He has a fear that his brother will fail.	Dia tako dia pe kaka tara lulus.
+How old were you when you left Australia?	Ngana pe umur barapa taong pas ngana kase tinggal Australia?
+I like listening to music, especially jazz.	Kita suka dengar musik, apalagi jazz tu.
+Tom saw his name written on the blackboard.	Tom lia dia pe nama tatulis di papan tulis.
+It's really dark here. I can't see anything.	Galap skali di sini. Kita tara bisa lia apa-apa.
+There is no need for a comma in this sentence.	Tara bole ada koma di kalimat ini.
+You need a passport to enter a foreign country.	Kalau ngana mu pigi negara laeng tu ngana musti ada paspor.
+Tom is in the kitchen, cutting up some vegetables.	Tom ada bairis sayor di dapur.
+We were late for school because it rained heavily.	Torang tarlambat sampe di skola barang ujang basar skali kong.
+It's about three kilometers from here to the coast.	Sini tu tiga kilo dari pante.
+It's about three kilometers from here to the coast.	Di sini tu tiga kilometer dari pante.
+If we leave now, we could be back in Boston by 2:30.	Kalau torang pigi skarang, torang bisa bale di Boston jam stenga tiga.
+I felt so sleepy that I could hardly keep my eyes open.	Kita manganto skali sampe mata mu tabuka me susa bahaya.
+I didn't know that Tom and Mary were brother and sister.	Kita tara tau kalo Tom deng Mary baku ade-kaka.
+Forks were used for many years in Europe and the Near East, but only for cooking.	Orang-orang di Eropa deng di Asia sabala barat tamba deng Mesir su biasa pake forok deng taong, tapi dong cuma pake mumasa saja.
+Tom and Mary booked a room with two beds, but when they arrived at the hotel, there was only one bed.	Tom deng Mary pasang kamar satu yang tampa tidor ada dua, tapi pas dorang sampe di hotel tu dia pe tampa tidor cuma satu.

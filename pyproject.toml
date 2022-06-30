@@ -4,9 +4,7 @@ version = "0.1.7"
 description = "Lingularity Backend"
 authors = ["Janek Zangenberg <zangenbergjanek@googlemail.com>"]
 license = "GPL-3.0"
-include = [
-    "backend/database/credentials.ini"
-]
+include = ["backend/database/credentials.ini"]
 
 [tool.poetry.dependencies]
 python = "~3.9"
@@ -25,7 +23,7 @@ textacy = "*"  # mining
 more_itertools = "*"
 
 [tool.poetry.scripts]
-install-spacy-models = "backend.ops.spacy_models.download:download_models"
+install-spacy-models = "backend.src.ops.spacy_models.download:download_models"
 
 [tool.poetry.dev-dependencies]
 mypy = "*"

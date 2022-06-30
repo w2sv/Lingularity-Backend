@@ -1,0 +1,2211 @@
+Hi.	Tere.
+Wow!	Vau!
+Wow!	Ohoo!
+Wow!	Ohohoo!
+Stop!	Seis!
+Stop!	Lõpeta!
+Stop!	Oot!
+Go on.	Jätka.
+Go on.	Lase käia.
+Go on.	Anna minna.
+Hello!	Tere.
+I see.	Ahaa.
+I see.	Ah nii.
+I try.	Ma proovin
+I won!	Võitsin!
+Oh no!	Oi ei!
+Smile.	Naerata.
+Cheers!	Terviseks!
+Get up.	Tõuse üles!
+Go now.	Mine nüüd.
+He ran.	Ta jooksis.
+Hug me.	Kallista mind.
+Hug me.	Võta mul ümbert kinni.
+I fell.	Ma kukkusin.
+I know.	Ma tean.
+I lost.	Ma kaotasin.
+I quit.	Mina lõpetan.
+I'm 19.	Olen üheksateistkümnene.
+I'm 19.	Olen 19.
+I'm 19.	Olen 19 aastat vana.
+I'm OK.	Minuga on kõik korras.
+Listen.	Kuula.
+Listen.	Kuule.
+Really?	Kas tõesti?
+Really?	Tegelikult ka?
+Thanks!	Tänud!
+Thanks!	Tänan!
+Thanks!	Suur tänu!
+Thanks!	Suured tänud!
+We try.	Proovime.
+Why me?	Miks mina?
+Why me?	Miks just mina?
+Ask Tom.	Küsi Tomi käest.
+Be calm.	Ole rahulik.
+Be cool.	Rahu!
+Be cool.	Ole rahulik.
+Beat it.	Kao ära.
+Call me.	Helista mulle.
+Come on!	Ole nüüd!
+Get out!	Mine välja!
+Get out!	Välja!
+Go away.	Mine ära.
+Go away.	Lahku.
+Goodbye!	Hüvasti.
+Goodbye!	Head aega.
+Goodbye!	Nägemiseni!
+Hang on!	Pea vastu!
+Hang on.	Kannata.
+He came.	Ta tuli.
+He runs.	Ta jookseb.
+Help me!	Aita mind!
+Help me!	Aidake mind!
+Help me!	Appi!
+Help me.	Aita mind.
+Hold it!	Hoia!
+Hold it!	Ära liigu!
+I agree.	Olen nõus.
+I agree.	Nõustun.
+I'm fat.	Ma olen paks.
+I'm hit!	Sain pihta!
+I'm shy.	Ma olen häbelik.
+I'm shy.	Ma olen tagasihoidlik.
+I'm wet.	Olen märg.
+It's OK.	Pole viga.
+It's OK.	Pole hullu.
+It's me!	Mina siin!
+It's me!	See olen mina!
+Join us.	Ühine meiega.
+Keep it.	Jäta see endale.
+Keep it.	Jäta endale.
+Keep it.	Hoia see endale.
+Keep it.	Hoia see omale.
+Kiss me.	Suudle mind.
+Kiss me.	Anna mulle musi.
+Me, too.	Mina ka.
+Open up.	Tee lahti.
+Open up.	Suu lahti!
+Perfect!	Perfektne!
+Perfect!	Ideaalne!
+See you.	Näeme!
+Show me.	Näita mulle.
+Take it.	Võta see.
+Take it.	Võta see endale.
+Take it.	Võta see omale.
+Tell me.	Ütle mulle.
+Wake up!	Ärka üles!
+Wash up.	Pese end ära.
+Wash up.	Mine pessu.
+Wash up.	Pese käed ära.
+Why not?	Miks mitte?
+You run.	Sa jooksed.
+Have fun.	Lõbutse hästi.
+How cute!	Kui armas!
+How cute!	Nii nunnu!
+How deep?	Kui sügav?
+Hurry up.	Tee kiiremini.
+I'll pay.	Mina maksan.
+Look out!	Ettevaatust!
+She lied.	Ta valetas.
+Terrific!	Suurepärane!
+Forget it.	Unusta ära.
+He is old.	Ta on vana.
+I am here.	Ma olen siin.
+I am sick.	Ma olen haige.
+I can run.	Ma suudan joosta.
+I can run.	Ma saan joosta.
+I can run.	Ma oskan joosta.
+I fainted.	Ma minestasin.
+I'm a man.	Ma olen mees.
+I'm angry.	Ma olen vihane.
+I'm awake.	Olen ärkvel.
+I'm happy.	Ma olen õnnelik.
+Of course!	Muidugi!
+Pardon me?	Kuidas palun?
+Stay home.	Jää koju.
+Stay home.	Jääge koju.
+Try again.	Proovi uuesti.
+Try again.	Proovige uuesti.
+Wonderful!	Suurepärane!
+You tried.	Sa üritasid.
+Definitely!	Muidugi!
+Definitely!	Kindlasti!
+Definitely!	Raudselt!
+Definitely!	Surmkindlalt!
+Definitely!	Loomulikult!
+Don't come.	Ära tule.
+He's happy.	Ta on õnnelik.
+Hello, Tom.	Tere, Tom.
+I felt bad.	Ma tundsin end halvasti.
+I'm hungry!	Ma olen näljane!
+Press here.	Vajuta siia.
+Tom'll pay.	Tom maksab.
+We want it.	Me tahame seda.
+Am I stupid?	Kas ma olen loll?
+Be yourself.	Ole sa ise.
+He got away.	Ta pääses minema.
+He is happy.	Ta on õnnelik.
+How are you?	Kuidas sul läheb?
+I feel sick.	Mul on süda paha.
+I live here.	Ma elan siin.
+I saw a dog.	Ma nägin koera.
+I'm at home.	Ma olen kodus.
+I'm chicken.	Mina olen kana.
+I'm curious.	Ma olen uudishimulik.
+I'm falling.	Ma langen.
+I'm sad now.	Nüüd ma olen kurb.
+It's a pity.	Kahju.
+Nobody came.	Mitte keegi ei tulnud.
+Nobody came.	Mitte kedagi ei tulnud.
+Wait for me.	Oodake mind!
+Walk slowly.	Kõnni aeglaselt.
+Walk slowly.	Kõndige aeglaselt.
+What's this?	Mis see on?
+Who are you?	Kes sa oled?
+Anything new?	Kas on midagi uut?
+Beef, please.	Loomaliha, palun.
+Can you read?	Kas sa oskad lugeda?
+Don't forget.	Ära unusta.
+Drive slowly.	Sõida aeglaselt.
+Drive slowly.	Sõitke aeglaselt.
+Good evening.	Tere õhtust.
+I can try it.	Ma võin proovida.
+I don't sing.	Ma ei laula.
+I have a car.	Mul on auto.
+I have a cat.	Mul on kass.
+I have a cow.	Mul on lehm.
+I have to go.	Ma pean minema.
+I have to go.	Mul on vaja minna.
+I hear music.	Ma kuulen muusikat.
+I like fruit.	Mulle meeldivad puuviljad.
+I talk a lot.	Ma räägin palju.
+I'm thinking.	Ma mõtlen.
+I'm very shy.	Ma olen väga häbelik.
+Is it enough?	Kas sellest piisab?
+Is this love?	Kas see on armastus?
+Please do it.	Palun tee seda.
+Please do so.	Palun tee nii.
+Please hurry.	Palun kiirusta.
+Please hurry.	Palun kiirustage.
+Sweet dreams!	Häid unenägusid!
+They hate me.	Nad vihkavad mind.
+This is food.	See on toit.
+Tom's thirty.	Tom on kolmkümmend.
+Unbelievable!	Uskumatu!
+Unbelievable!	Ei või olla!
+We apologize.	Me palume vabandust.
+We knew this.	Me teadsime seda.
+What is this?	Mis see on?
+Are you crazy?	Oled sa hull?
+Are you tired?	Kas sa oled väsinud?
+Check, please.	Tšekk, palun.
+Flowers bloom.	Lilled õitsevad.
+He is falling.	Ta langeb.
+I am studying.	Ma õpin.
+I miss my cat.	Ma igatsen oma kassi.
+I miss my cat.	Ma tunnen oma kassist puudust.
+I read a book.	Ma loen raamatut.
+I see the dog.	Ma näen seda koera.
+I want a book.	Ma tahan raamatut.
+I'll help you.	Ma aitan sind.
+I'm tired now.	Ma olen praegu väsinud.
+Is that blood?	Kas see on veri?
+Is that wrong?	Kas see on vale?
+It's too cold.	On liiga külm.
+Love is blind.	Armastus on pime.
+Play it again.	Mängi seda uuesti.
+Russia is big.	Venemaa on suur.
+Stand up, Tom.	Tõuse püsti, Tom.
+That's absurd!	See on absurd!
+This is a dog.	See on koer.
+Tom likes you.	Sa meeldid Tomile.
+Wait a moment.	Oota veidi.
+Wait a moment.	Oota korra.
+Wait a moment.	Oota natuke.
+We need a car.	Meil on autot vaja.
+Who's winning?	Kes võidab?
+You may begin.	Sa võid alustada.
+You may begin.	Te võite alustada.
+Apples are red.	Õunad on punased.
+Are you stupid?	Kas sa oled loll?
+Can you see it?	Kas sa näed seda?
+Did you forget?	Kas sa unustasid?
+Don't touch me!	Ära puuduta mind!
+Don't you know?	Kas sa ei tea?
+Have some more.	Võta juurde.
+Here is a book.	Siin on raamat.
+How's your leg?	Kuidas su jalaga on?
+I have a house.	Mul on maja.
+I have to wait.	Ma pean ootama.
+I love chicken.	Ma armastan kana.
+I love chicken.	Mulle meeldib kana.
+I must do that.	Ma pean seda tegema.
+I study abroad.	Ma õpin välismaal.
+I walked alone.	Ma kõndisin üksi.
+I want to play.	Ma tahan mängida.
+I'm a diabetic.	Mul on suhkruhaigus.
+I'm not bitter.	Ma pole kibestunud.
+I'm not pretty.	Ma ei ole ilus.
+I'm very tired.	Ma olen väga väsinud.
+It was raining.	Sadas.
+It's a hot day.	On kuum päev.
+It's all there.	Kõik on seal.
+Lock the doors.	Pane uksed lukku.
+Louder, please.	Valjemini, palun.
+Please help me.	Palun aidake mind.
+Please help me.	Palun aita mind.
+They are going.	Nad lähevad.
+They quarreled.	Nad vaidlesid.
+This dog bites.	See koer hammustab.
+This is a fish.	See on kala.
+This is a lion.	See on lõvi.
+This is my dog.	See on minu koer.
+Tom drove away.	Tom sõitis minema.
+Tom is staying.	Tom jääb.
+Tom is thirsty.	Tomil on janu.
+We fell asleep.	Me jäime magama.
+We know it now.	Me teame seda nüüd.
+We're not rich.	Me ei ole rikkad.
+We're watching.	Me vaatame.
+Where were you?	Kus sa olid?
+Anybody see you?	Kas keegi nägi sind?
+Ask me anything!	Küsi mult ükskõik mida!
+Congratulations!	Õnnitlused!
+Congratulations!	Palju õnne!
+How old are you?	Kui vana sa oled?
+I chickened out.	Mina lõin araks.
+I didn't see it.	Ma ei näinud seda.
+I have a laptop.	Mul on sülearvuti.
+I have to study.	Ma pean õppima.
+I have two cars.	Mul on kaks autot.
+I have two cats.	Mul on kaks kassi.
+I have two sons.	Mul on kaks poega.
+I like hot soup.	Mulle meeldib kuum supp.
+I live in Japan.	Ma elan Jaapanis.
+I took the book.	Ma võtsin selle raamatu.
+I want a friend.	Ma tahan sõpra.
+I want an apple.	Ma tahan õuna.
+I was a teacher.	Ma olin õpetaja.
+I'm Tom's uncle.	Ma olen Tomi onu.
+I'm a volunteer.	Ma olen vabatahtlik.
+I'm able to run.	Ma suudan joosta.
+I'm an islander.	Ma olen saarlane.
+I'm coming home.	Ma tulen koju.
+I'm not dressed.	Ma pole riides.
+Isn't it boring?	Kas see pole mitte igav?
+It was too easy.	See oli liiga lihtne.
+It's just a toy.	See on kõigest mänguasi.
+Let me taste it.	Las ma maitsen seda.
+Mary is my wife.	Mary on mu naine.
+Merry Christmas!	Häid jõule!
+My cat is black.	Mu kass on musta värvi.
+Nobody stood up.	Mitte keegi ei tõusnud püsti.
+Please hurry up!	Palun kiirustage!
+Remove your hat.	Võta oma müts peast ära.
+Stop it, please.	Lõpeta, palun.
+They won't stay.	Nad ei ütle.
+Tom didn't pray.	Tom ei palvetanud.
+Tom eats slowly.	Tom sööb aeglaselt.
+Tom is friendly.	Tom on sõbralik.
+Tom was my hero.	Tom oli minu kangelane.
+Tom wasn't rich.	Tom ei olnud rikas.
+We were friends.	Me olime sõbrad.
+What am I doing?	Mida ma teen?
+What lies ahead?	Mis ees ootab?
+Where were they?	Kus nad olid?
+Where's my bike?	Kus mu ratas on?
+Who are you all?	Kes te kõik olete?
+Who wrote these?	Kes need kirjutas?
+Who's that girl?	Kes see tüdruk on?
+You did nothing.	Sa ei teinud midagi.
+You're pathetic.	Sa oled hale.
+A cab is waiting.	Takso ootab.
+Are you studying?	Kas sa õpid?
+Ask him his name.	Küsi temalt ta nime.
+Close your mouth.	Pane oma suu kinni.
+Do you know this?	Kas sa tead seda?
+Give me my drink.	Anna mulle mu jook.
+He had long hair.	Tal olid pikad juuksed.
+He hates spiders.	Ta vihkab ämblikke.
+How embarrassing!	Kui piinlik!
+I brought a book.	Ma tõin raamatu.
+I didn't read it.	Ma ei lugenud seda.
+I don't know you.	Ma ei tunne sind.
+I had to sell it.	Ma pidin selle müüma.
+I hate chemistry.	Ma vihkan keemiat.
+I have questions.	Mul on küsimusi.
+I have two books.	Mul on kaks raamatut.
+I live in a city.	Elan linnas.
+I lost my wallet.	Ma kaotasin oma rahakoti.
+I love astronomy.	Mulle meeldib astronoomia.
+I love astronomy.	Ma armastan astronoomiat.
+I need your help.	Ma vajan teie abi.
+I opened one eye.	Ma avasin ühe silma.
+I sell computers.	Ma müün arvuteid.
+I waited for Tom.	Ma ootasin Tomi.
+I'm just teasing.	Ma kiusan ainult.
+I'm not a doctor.	Ma ei ole arst.
+I'm not a pirate.	Ma ei ole piraat.
+I'm not an idiot.	Ma pole idioot.
+Is anybody there?	Kas seal on keegi?
+Is the apple red?	Kas õun on punane?
+Listen carefully.	Kuula hoolikalt.
+Listen carefully.	Kuulake hoolikalt.
+Look at the moon.	Vaata kuud.
+Nobody will know.	Mitte keegi ei saa teada.
+Nothing happened.	Mitte midagi ei juhtunud.
+That isn't a toy.	See pole mänguasi.
+That made me cry.	See pani mu nutma.
+That's not a toy.	See pole mänguasi.
+The car is ready.	Auto on valmis.
+The man is naked.	Mees on alasti.
+They didn't know.	Nad ei teadnud.
+They drink a lot.	Nad joovad palju.
+This dog is mine.	See koer on minu oma.
+This is an order.	See on käsk.
+Tom died in 2009.	Tom suri 2009.
+Tom failed twice.	Tom ebaõnnestus kaks korda.
+Tom has a secret.	Tomil on saladus.
+Tom seems clever.	Tom tundub nutikas.
+We mean business.	Meil on tõsi taga.
+We'll never know.	Me ei saa kunagi teada.
+What could I say?	Mis ma oskan öelda?
+Where is the bar?	Kus on baar?
+Where's my pizza?	Kus mu pitsa on?
+Who brought this?	Kes selle tõi?
+Why should I pay?	Miks ma peaksin maksma?
+Will you do that?	Kas sa teed seda?
+Will you take it?	Kas sa võtad selle?
+You should sleep.	Sa peaksid magama.
+You're very busy.	Sul on väga palju tegemist.
+A heavy rain fell.	Sadas tugevat vihma.
+Are they brothers?	Kas nad on vennad?
+Are you a student?	Kas sa oled õpilane?
+Come into my room.	Tule minu tuppa.
+Did you know this?	Kas sa teadsid seda?
+Didn't I warn you?	Kas ma ei hoiatanud sind?
+Do you drink beer?	Kas sa õlut jood?
+Every vote counts.	Iga hääl on oluline.
+Everybody laughed.	Kõik naersid.
+Everyone is ready.	Kõik on valmis.
+Have you told Tom?	Kas sa oled Tomile öelnud?
+He made me a cake.	Ta tegi kooki mulle.
+He sat on the bed.	Ta istus voodil.
+He wrote a letter.	Ta kirjutas kirja.
+I didn't order it.	Ma ei tellinud seda.
+I didn't see that.	Ma ei näinud seda.
+I drove to school.	Ma sõitsin kooli.
+I feel fine today.	Ma tunnen ennast täna hästi.
+I hate my parents.	Ma vihkan oma vanemaid.
+I have three cats.	Mul on kolm kassi.
+I have three dogs.	Mul on kolm koera.
+I have two nieces.	Mul on kaks vennatütart.
+I need a keyboard.	Mul on klaviatuuri vaja.
+I want more money.	Ma tahan rohkem raha.
+I was tired today.	Olin täna väsinud.
+I'll write a book.	Ma kirjutan raamatut.
+I'm enjoying this.	Ma naudin seda.
+It's a long story.	See on pikk jutt.
+It's just a rumor.	See on kõigest kuulujutt.
+Let's drink to us.	Joome endi terviseks.
+Let's take a rest.	Puhkame.
+My house is small.	Minu maja on väike.
+Nobody noticed me.	Mitte keegi ei märganud mind.
+Please contact us.	Palun võta meiega ühendust.
+Please don't move.	Palun ära liiguta.
+Please don't quit.	Palun ära loobu.
+Please forgive us.	Palun andesta meile.
+Please forgive us.	Palun anna meile andeks.
+Put on your shoes.	Pane kingad jalga.
+Put on your shoes.	Pange kingad jalga.
+Put your shoes on.	Pane kingad jalga.
+Put your shoes on.	Pange kingad jalga.
+Stay here with me.	Jää minuga siia.
+That was too easy.	See oli liiga lihtne.
+The box was empty.	Karp oli tühi.
+The fork is dirty.	Kahvel on räpane.
+The house is cold.	Maja on külm.
+They already knew.	Nad juba teadsid.
+They are watching.	Nad vaatavad.
+They kept walking.	Nad kõndisid edasi.
+They're very good.	Nad on väga head.
+This is my father.	See on minu isa.
+This isn't a fish.	See ei ole kala.
+Tom chickened out.	Tom lõi araks.
+Tom is our friend.	Tom on meie sõber.
+Tom isn't writing.	Tom ei kirjuta.
+Tom saved my life.	Tom päästis mu elu.
+Tom will be angry.	Tom saab vihaseks.
+We aren't enemies.	Me pole vaenlased.
+We don't need him.	Meil pole teda vaja.
+We don't need him.	Me ei vaja teda.
+We heard gunshots.	Me kuulsime püssilaske.
+We were in Boston.	Me olime Bostonis.
+We're not enemies.	Me pole vaenlased.
+What does it cost?	Palju see maksab?
+What does it cost?	Mis see maksab?
+What made you sad?	Mis tegi su kurvaks?
+What should I say?	Mis ma ütlema peaksin?
+When's Tom coming?	Millal Tom tuleb?
+Where's Tom today?	Kus Tom täna on?
+Who told you this?	Kes sulle seda ütles?
+Who's the manager?	Kes on juhataja?
+You did your best.	Sa andsid endast parima.
+You missed a spot.	Sul jäi üks koht vahele.
+You owe me a beer.	Sa oled mulle ühe õlu võlgu.
+Your house is big.	Teie maja on suur.
+Your house is big.	Su maja on suur.
+Are you quite sure?	Oled sa päris kindel?
+Ask Tom for advice.	Küsi Tomilt nõu.
+Children need love.	Lapsed vajavad armastust.
+Did anyone miss me?	Kas keegi tundis minust puudust?
+Did anyone miss me?	Kas keegi igatses mind?
+Do I have to study?	Kas ma pean õppima?
+Do you feel guilty?	Kas sa tunned ennast süüdi?
+Do you have a book?	Kas sul on raamat?
+Everybody hates me.	Kõik vihkavad mind.
+Everything's ready.	Kõik on valmis.
+Give me the report.	Anna raport mulle.
+He has few friends.	Tal on mõned sõbrad.
+He teaches English.	Ta õpetab inglise keelt.
+He won the lottery.	Ta võitis loteriiga.
+He's not my cousin.	Ta ei ole mu tädipoeg.
+He's not my cousin.	Ta ei ole mu onupoeg.
+Hello, how are you?	Tere, kuidas sul läheb?
+Here's the address.	Siin on see aadress.
+How hungry are you?	Kui näljane sa oled?
+I didn't say hello.	Ma ei öelnud tere.
+I fell off my bike.	Ma kukkusin jalgrattalt maha.
+I have a big house.	Mul on suur maja.
+I have a job to do.	Mul on töö, mis vajab tegemist.
+I have a white cat.	Mul on valge kass.
+I have two cameras.	Mul on kaks kaamerat.
+I have two cousins.	Mul on kaks nõbu.
+I have two nephews.	Mul on kaks vennapoega.
+I know you're rich.	Ma tean, et sa oled rikas.
+I saw them kissing.	Ma nägin neid suudlemas.
+I swim once a week.	Käin ujumas korra nädalas.
+I want to kiss you.	Ma tahan sind suudelda.
+I was a bit hungry.	Ma olin natuke näljane.
+I will wash my car.	Ma pesen oma auto ära.
+I would've said no.	Ma oleksin pidanud ei ütlema.
+I'll read the book.	Ma loen raamatut.
+I'm going tomorrow.	Ma lähen homme.
+I'm not mad at you.	Ma pole sinu peale vihane.
+I'm protecting you.	Ma kaitsen sind.
+I'm writing a book.	Ma kirjutan raamatut.
+It was all so easy.	See kõik oli nii lihtne.
+Leaves are falling.	Lehed langevad.
+Life is never easy.	Elu pole kunagi lihtne.
+Life is never easy.	Elu pole kunagi kerge.
+Mars has two moons.	Marsil on kaks kuud.
+My dad is a lawyer.	Mu isa on advokaat.
+My mother is angry.	Minu ema on vihane.
+My wife's pregnant.	Mu naine on rase.
+Please come inside.	Palun tule sisse.
+Please don't argue.	Palun ära vaidle.
+Please don't stand.	Palun ära seisa.
+Please sing a song.	Palun laula laulu.
+She bought chicken.	Ta ostis kana.
+She made me a cake.	Ta tegi kooki mulle.
+Show me your hands.	Näita mulle oma käsi.
+Step aside, please.	Astu kõrvale, palun.
+That was my finger.	See oli minu sõrm.
+That's easy to say.	Seda on lihtne öelda.
+The baby was naked.	Beebi oli paljas.
+The moon is bright.	Kuu on ere.
+The table is green.	Laud on roheline.
+They won't find it.	Nad ei leia seda.
+They're my friends.	Nad on minu sõbrad.
+This fork is dirty.	See kahvel on räpane.
+Those are my pants.	Need on minu püksid.
+Tom bowed politely.	Tom kummardas viisakalt.
+Tom died last year.	Tom suri eelmisel aastal.
+Tom is a socialist.	Tom on sotsialist.
+Tom launders money.	Tom peseb raha.
+Tom made me a cake.	Tom tegi kooki mulle.
+Tom stepped inside.	Tom astus tuppa.
+Tom stepped inside.	Tom astus sisse.
+Tom still hates me.	Tom vihkab mind ikka veel.
+Tom stole my money.	Tom varastas mu raha ära.
+Tom stood silently.	Tom seisis vaikselt.
+Tom stopped crying.	Tom lõpetas nutmise.
+Tom will stay here.	Tom jääb siia.
+Tom's dog bit Mary.	Toomase koer hammustas Marit.
+Was it interesting?	Kas see oli huvitav?
+We were very tired.	Me olime väga väsinud.
+We're all born mad.	Me sünnime kõik hulluna.
+We're all born mad.	Me sünnime kõik hulludena.
+We're millionaires.	Me oleme miljonärid.
+What was happening?	Mis just juhtus?
+What's the problem?	Mis on probleem?
+Where is the hotel?	Kus on hotell?
+Who's at the wheel?	Kes on roolis?
+Whose friend is he?	Kelle sõber ta on?
+Why did you go out?	Miks sa läksid välja?
+Why is Tom so late?	Miks Tom nii hiljaks jääb?
+You broke your arm.	Sa murdsid oma käe.
+You know I'm right.	Sa tead et mul on õigus.
+You're a smart boy.	Sa oled tark poiss.
+You're my princess.	Sa oled mu printsess.
+You're on the list.	Sina oled nimekirjas.
+You're on the list.	Sa oled nimekirjas.
+You've got a fever.	Sul on palavik.
+All of us are happy.	Me kõik oleme õnnelikud.
+Are you lying to me?	Kas sa valetad mulle?
+Are you ready to go?	Kas sa oled valmis minema?
+Can you see it, too?	Kas sa näed seda ka?
+Did you make a wish?	Kas sa soovisid midagi?
+Do you love me, too?	Kas sa armastad mind ka?
+Do you trust anyone?	Kas sa usaldad kedagi?
+Does Tom believe me?	Kas Tom usub mind?
+Does your wife know?	Kas su naine teab seda?
+Don't blame me, Tom.	Ära süüdista mind, Tom.
+He became a pianist.	Ta sai klaverimängijaks.
+He became a pianist.	Temast sai klaverimängija.
+He became a pianist.	Temast sai pianist.
+He has his own room.	Tal on oma tuba.
+How did I miss this?	Kuidas see mul kahe silma vahele jäi?
+I became his friend.	Minust sai tema sõber.
+I became his friend.	Ma sain tema sõbraks.
+I can't accept this.	Ma ei saa seda heaks kiita.
+I can't find my pen.	Ma ei leia oma pastakat.
+I did it for my son.	Ma tegin seda oma poja jaoks.
+I eat a lot of meat.	Ma söön palju liha.
+I have a disability.	Mul on puue.
+I have a great life.	Mul on tore elu.
+I have many friends.	Mul on palju sõpru.
+I have to leave you.	Ma pean sind jätma.
+I have two brothers.	Mul on kaks venda.
+I have two children.	Mul on kaks last.
+I know you are rich.	Ma tean, et sa oled rikas.
+I like love stories.	Mulle meeldivad armastuslood.
+I like what you did.	Mulle meeldib see, mida sa tegid.
+I live too far away.	Ma elan liiga kaugel.
+I love strawberries.	Ma armastan maasikaid.
+I really don't know.	Ma tõesti ei tea.
+I want another beer.	Ma tahan veel õlut.
+I want to drink tea.	Ma tahan teed juua.
+I want to eat pizza.	Ma tahan pitsat süüa.
+I want to visit you.	Ma tahan sulle külla tulla.
+I would've said yes.	Ma oleksin pidanud ütlema jah.
+I'll give it to you.	Ma annan selle sulle.
+I'm a social worker.	Ma olen sotsiaaltöötaja.
+I'm not from Boston.	Ma ei ole Bostonist.
+I'm taller than Tom.	Ma olen pikem kui Tom.
+Is this your family?	Kas see on sinu pere?
+Is your mom at home?	Kas su ema on kodus?
+It's a fact of life.	See on elu tõsiasi.
+It's very effective.	See on väga tõhus.
+Let's talk about it.	Räägime sellest.
+Mary is pretty cute.	Mary on päris nunnu.
+My whole body hurts.	Mu kogu keha valutab.
+She agreed with him.	Ta nõustus temaga.
+She likes ice cream.	Talle meeldib jäätis.
+She won the lottery.	Ta võitis loteriiga.
+Take a few days off.	Võta paar päeva vabaks.
+Take a look at that.	Vaata seda.
+Take off your shoes.	Võta kingad jalast.
+Take off your shoes.	Võtke kingad jalast.
+Thanks for noticing.	Tänud märkamast.
+Thanks for the food.	Aitäh toidu eest.
+The moon is shining.	Kuu särab.
+They are my friends.	Nad on minu sõbrad.
+They won't hurt you.	Nad ei tee sulle liiga.
+This is lemon juice.	See on sidrunimahl.
+This is my daughter.	See on minu tütar.
+This is my own bike.	See on minu enda jalgratas.
+This novel bores me.	See romaan tüütab mind.
+Tom is barely alive.	Tom on vaevu elus.
+Tom passed the exam.	Tom sooritas eksami.
+We swam in the lake.	Ujusime järves.
+We're boiling water.	Me keedame vett.
+We're in the forest.	Me oleme metsas.
+What makes us human?	Mis teeb meist inimesed?
+What should we cook?	Mida me süüa teeme?
+What's Tom watching?	Mida vaatab Toomas?
+Where's your friend?	Kus su sõber on?
+Your friend is here.	Teie sõber on siin.
+Your friend is here.	Sinu sõber on siin.
+Your friend is here.	Su sõber on siin.
+Your knife is rusty.	Su nuga on roostes.
+Your shoes are here.	Su jalatsid on siin.
+Be careful next time.	Ole ettevaatlik järgmisel korral.
+Can you ride a horse?	Kas sa oskad hobusega sõita?
+Did you two break up?	Kas te läksite lahku?
+Didn't you notice it?	Kas sa ei märganud seda?
+Didn't you notice it?	Kas sa ei pannud seda tähele?
+Do it somewhere else.	Tee seda kusagil mujal.
+Do you have a hammer?	Kas sul on haamer?
+Do you have any beer?	Kas sul õlut on?
+Do you have any beer?	Kas teil õlut on?
+Do you have any pets?	Kas sul on lemmikloomi?
+Do you like the plan?	Kas sulle meeldib see plaan?
+Do you like the plan?	Kas teile meeldib see plaan?
+Do you want anything?	Kas sa tahad midagi?
+Everyone looks tired.	Kõik näivad väsinud välja.
+Give me a day or two.	Anna mulle päev või paar.
+Have a drink with me.	Joo minuga.
+He built a new house.	Ta ehitas uue maja.
+He chose a good wife.	Ta valis hea naise.
+He has a sweet voice.	Tal on armas hääl.
+He is a good student.	Ta on hea õpilane.
+He is very sensitive.	Ta on väga tundlik.
+He married my cousin.	Ta abiellus mu nõbuga.
+How did it get there?	Kuidas see sinna sai?
+I am afraid of dying.	Ma kardan surma.
+I ate a cheeseburger.	Ma sõin ühe juustuburgeri.
+I don't hold grudges.	Ma ei pea vimma.
+I forgot to tell Tom.	Ma unustasin Tomile öelda.
+I have a debt to pay.	Mul on võlg maksta.
+I have three cameras.	Mul on kolm kaamerat.
+I have three cousins.	Mul on kolm nõbu.
+I have to wear boots.	Ma pean saapaid kandma.
+I have two daughters.	Mul on kaks tütart.
+I sent you an e-mail.	Ma saatsin teile e-maili.
+I sent you an e-mail.	Ma saatsin sulle e-maili.
+I sleep in a big bed.	Ma magan suures voodis.
+I tell you the truth.	Ma räägin tõtt.
+I'll keep it in mind.	Ma pean seda meeles.
+I'm going to do that.	Ma teen seda.
+I'm learning English.	Ma õpin inglise keelt.
+I'm not a bad person.	Ma ei ole halb inimene.
+I'm staying with you.	Ma jään sinuga.
+I'm writing a letter.	Ma kirjutan kirja.
+It meant a lot to me.	Sel oli mulle suur tähendus.
+Lions are colorblind.	Lõvid on värvipimedad.
+May I ask a question?	Kas ma tohin küsimuse esitada?
+My pen is out of ink.	Mu pastakas sai tühjaks.
+My skirt is too long.	Mu seelik on liiga pikk.
+She burst into tears.	Ta puhkes nutma.
+Take a look at these.	Vaata neid.
+The dog attacked Tom.	Koer ründas Tomi.
+The tumor was benign.	Kasvaja oli healoomuline.
+The wind was howling.	Tuul ulus.
+This watch is broken.	See kell on katki.
+Tom arrived too late.	Tom saabus liiga hilja.
+Tom didn't come home.	Tom ei tulnud koju.
+Tom has a family now.	Tomil on nüüd perekond.
+Tom is a dog trainer.	Tom on koeratreener.
+Tom is already there.	Tom on juba seal.
+Tom is in the shower.	Tom on duši all.
+Tom is one of us now.	Tom on nüüdsest üks meist.
+Tom raised his voice.	Tom tõstis häält.
+Tom sat down to wait.	Tom istus, et oodata.
+Tom stopped by today.	Tom käis täna läbi.
+Tom tends to be late.	Tom kipub hiljaks jääma.
+Tom's making his bed.	Tom teeb oma voodit korda.
+Was that all you saw?	Kas see oli kõik, mida sa nägid?
+We can do that later.	Me võime seda hiljem teha.
+We can still do that.	Me võime seda veel siiski teha.
+We have no more rice.	Meil on riis otsas.
+We went to the beach.	Me läksime randa.
+Where are they going?	Kuhu nad lähevad?
+Where is the problem?	Milles probleem on?
+Where is your father?	Kus on sinu isa?
+Who on earth is that?	Kes see veel on?
+Who took the picture?	Kes selle pildi tegi?
+Why are you sleeping?	Miks sa magad?
+Why are you so tired?	Miks sa nii väsinud oled?
+You didn't invite me.	Sa ei kutsunud mind.
+You didn't invite me.	Te ei kutsunud mind.
+You don't understand.	Sa ei saa aru.
+You're not my mother.	Sa ei ole minu ema.
+You're not my mother.	Sa ei ole mu ema.
+Are you ashamed of me?	Kas sa häbened mind?
+Close all the windows.	Pane kõik aknad kinni.
+Do you enjoy studying?	Kas sulle meeldib õppida?
+Do you have any bread?	Kas sul on leiba?
+He is wearing glasses.	Ta kannab prille.
+I don't do it anymore.	Ma ei tee seda enam.
+I don't like her face.	Ta nägu ei meeldi mulle.
+I don't like swimming.	Mulle ei meeldi ujuda.
+I hate guys like that.	Ma vihkan selliseid mehi.
+I have nothing to eat.	Mul ei ole midagi süüa.
+I have three brothers.	Mul on kolm venda.
+I have three children.	Mul on kolm last.
+I have to go home now.	Ma pean nüüd koju minema.
+I have to go to sleep.	Ma pean magama minema.
+I have to go upstairs.	Ma pean üles minema.
+I ran to the bus stop.	Ma jooksin bussipeatusesse.
+I shave every morning.	Ma ajan habet igal hommikul.
+I think they're right.	Minu meelest on neil õigus.
+I want to sing a song.	Ma tahan laulu laulda.
+I was waiting for Tom.	Ma ootasin Tomi.
+I wish I was with you.	Ma soovin, et ma oleksin sinuga.
+I wish you were wrong.	Soovin et sa eksiks.
+I'd like to go faster.	Ma tahaksin kiiremini minna.
+I'm afraid of heights.	Ma kardan kõrgust.
+I'm at the restaurant.	Ma olen restoranis.
+I'm glad you liked it.	Mul on hea meel, et sulle meeldis.
+I'm not a good person.	Ma ei ole hea inimene.
+I've been fairly busy.	Mul on küllaltki kiire olnud.
+I've never been there.	Ma pole seal kunagi käinud.
+It's a social problem.	See on sotsiaalne probleem.
+Let's talk about this.	Räägime sellest.
+My right hand is numb.	Mu parem käsi on tuim.
+No one knows his name.	Keegi ei tea tema nime.
+Put the baby to sleep.	Pane laps magama.
+She has two daughters.	Tal on kaks tütart.
+Stop bad mouthing Tom.	Lõpeta Tomist halva rääkimine.
+The engine works well.	Mootor töötab hästi.
+The nurse is not here.	Õde ei ole siin.
+The sun will set soon.	Päike loojub varsti.
+The sun will soon set.	Päike loojub varsti.
+The town is beautiful.	Linn on ilus.
+They didn't get along.	Nad ei saanud läbi.
+They don't believe me.	Nad ei usu mind.
+They want to meet you.	Nad tahavad sinuga kohtuda.
+This bag is too heavy.	See kott on liiga raske.
+Tom broke out of jail.	Tom põgenes vanglast.
+Tom has decided to go.	Tom on otsustanud minna.
+Tom is very important.	Tom on väga oluline.
+Tom swims like a fish.	Tom ujub nagu kala.
+Tom was a bit jealous.	Tom oli natuke armukade.
+Tom went to the store.	Tom läks poodi.
+Tom's hands are dirty.	Tomi käed on mustad.
+Tom's hands are dirty.	Tomi käed on räpased.
+We all die in the end.	Lõpuks sureme me kõik.
+We're going to church.	Me lähme kirikusse.
+When is your birthday?	Millal su sünnipäev on?
+Where's the newspaper?	Kus on ajaleht?
+Why do you live alone?	Miks sa üksi elad?
+You have a concussion.	Sul on peapõrutus.
+You weren't listening.	Sa ei kuulanud.
+You will pay for this.	Sa veel maksad selle eest.
+Can I get by the guard?	Kas ma saan valvurist mööda?
+Can you close the door?	Kas sa saad ukse kinni panna?
+Can you give me a hand?	Kas sa saad mind aidata?
+Come with me to Boston.	Tule minuga Bostonisse.
+Dad bought me a camera.	Isa ostis mulle kaamera.
+Do you have a nickname?	Kas sul on hüüdnimi?
+Does Tom like tomatoes?	Kas Tomile meeldivad tomatid?
+Give me back my wallet.	Anna mu rahakott tagasi.
+He fell into the river.	Ta kukkus jõkke.
+He hid behind the door.	Ta peitis end ukse taha.
+He hid behind the tree.	Ta peitis end puu taha.
+He swallowed his pride.	Ta neelas oma uhkuse alla.
+Hope is not a strategy.	Lootus ei ole strateegia.
+How did you guess that?	Kuidas sa selle ära arvasid?
+How old is your sister?	Kui vana on su õde?
+I am a college student.	Ma olen üliõpilane.
+I asked him a question.	Ma küsisin talt küsimuse.
+I can make no promises.	Ma ei saa midagi lubada.
+I didn't hear anything.	Ma ei kuulnud midagi.
+I didn't recognize you.	Ma ei tundnud sind ära.
+I didn't want anything.	Ma ei tahtnud midagi.
+I don't like cucumbers.	Mulle ei meeldi kurgid.
+I don't speak Japanese.	Ma ei räägi jaapani keelt.
+I don't understand you.	Ma ei saa sinust aru.
+I hate people like you.	Ma vihkan sinusuguseid inimesi.
+I have a lot of dreams.	Mul on palju unistusi.
+I have three computers.	Mul on kolm arvutit.
+I hope you can help us.	Ma loodan, et sa saad meid aidata.
+I hope you can help us.	Ma loodan, et te saate meid aidata.
+I just got a promotion.	Mind just edutati.
+I knew before you knew.	Ma teadsin enne sind.
+I learned it in school.	Ma õppisin seda koolis.
+I meet her once a week.	Ma kohtun temaga korra nädalas.
+I meet her once a week.	Ma kohtun temaga kord nädalas.
+I thought you hated me.	Ma arvasin, et sa vihkad mind.
+I want a piece of cake.	Ma tahan torditükki.
+I want to study abroad.	Ma tahan välismaal õppida.
+I want to write a book.	Ma tahan raamatu kirjutada.
+I went to the hospital.	Ma läksin haiglasse.
+I'll go there by plane.	Ma lähen sinna lennukiga.
+Is it a social problem?	Kas see on sotsiaalne probleem?
+Just follow your heart.	Lihtsalt järgne oma südamele.
+My foot's asleep again!	Mu jalg on jälle surnud!
+No one else knows this.	Mitte keegi teine ei tea seda.
+Please don't apologize.	Palun ära vabanda.
+Please don't interfere.	Palun ära sekku.
+She is a famous singer.	Ta on kuulus lauljanna.
+Take the bags upstairs.	Vii kotid üles.
+The situation worsened.	Olukord läks hullemaks.
+There are many factors.	On mitu tegurit.
+There is not much hope.	Seal ei ole palju lootust.
+There was no hot water.	Kuuma vett ei olnud.
+These ties aren't mine.	Need lipsud pole minu omad.
+They'll arrive tonight.	Nad saabuvad õhtul.
+This is a pretty dress.	See on ilus kleit.
+This rose is beautiful.	See roos on ilus.
+Tom bought a new horse.	Tom ostis uue hobuse.
+Tom fell off the horse.	Tom kukkus hobuse seljast maha.
+Tom had better go home.	Tom peaks koju minema.
+Tom is a social worker.	Tom on sotsiaaltöötaja.
+Tom is out of his mind.	Tom on peast segi läinud.
+Tom is playing outside.	Tom mängib õues.
+Tom is sharp, isn't he?	Tom on nutikas, kas pole?
+Tom made a cake for me.	Tom tegi kooki mulle.
+Tom sat down on a rock.	Tom istus kivi peale.
+Tom's looking for work.	Tom otsib tööd.
+We laughed and laughed.	Me naersime ja naersime.
+What are your thoughts?	Millised su mõtted on?
+What else did you want?	Mida sa veel tahtsid?
+What language was that?	Mis keel see oli?
+What more do they want?	Mida nad veel tahavad?
+What's behind the door?	Mis on ukse taga?
+Where did you see them?	Kus sa neid nägid?
+Where is the newspaper?	Kus on ajaleht?
+Who are you going with?	Kellega koos sa lähed?
+Whose umbrella is this?	Kelle vihmavari see on?
+Why are you here today?	Miks sa täna siin oled?
+Why does it bother you?	Miks see sind häirib?
+Why don't you go first?	Miks sa ei lähe esimesena?
+Why should we help you?	Miks me peaksime sind aitama?
+Why should you do that?	Miks sa peaksid seda tegema?
+Will you join our club?	Kas sa liitud meie klubiga?
+You can't kill us both.	Sa ei saa meid mõlemat tappa.
+You don't want to know.	Sa ei taha teada.
+You made a wise choice.	Sa tegid targa valiku.
+You'd better start now.	Parem alusta kohe.
+You're not fast enough.	Sa pole piisavalt kiire.
+You're reading my mind.	Sa loed mu mõtteid.
+Bring along your friend.	Võta oma sõber kaasa.
+Come back in three days.	Tule kolme päeva pärast tagasi.
+Did anybody else see it?	Kas keegi teine nägi seda?
+Do you know how to read?	Kas sa oskad lugeda?
+From now on, try harder.	Pinguta edaspidi rohkem.
+Give me a glass of milk.	Anna mulle klaas piima.
+Has anyone informed Tom?	Kas keegi on Tomi informeerinud?
+He lives near the beach.	Ta elab ranna lähedal.
+I always walk to school.	Ma jalutan alati kooli.
+I barely made the train.	Ma jõudsin vaevu rongile.
+I know that you're rich.	Ma tean, et sa oled rikas.
+I only have one blanket.	Mul on ainult üks tekk.
+I saw a cat on the roof.	Ma nägin katusel kassi.
+I slept well last night.	Ma magasin eile öösel hästi.
+I want to be a linguist.	Ma tahan saada keeleteadlaseks.
+I wish you were with me.	Ma soovin, et sa oleksid minuga.
+I'll be waiting for you.	Ma ootan sind.
+I'll fight to the death.	Ma võitlen surmani.
+I'm sorry I woke you up.	Vabandust, et ma sind üles äratasin.
+It was raining that day.	Sellel päeval sadas vihma.
+It's safer to stay here.	Turvalisem on siia jääda.
+New York is a huge city.	New York on tohutult suur linn.
+No one wants to be poor.	Keegi ei taha vaene olla.
+Nobody wants to be poor.	Keegi ei taha vaene olla.
+Please close the window.	Palun sulge aken.
+Thank you for yesterday.	Aitäh eilse eest.
+That's just the problem.	Just see ongi probleem.
+The box is made of wood.	See karp on puidust.
+The brown horse is fast.	Pruun hobune on kiire.
+The cat caught the rats.	Kass püüdis rotid kinni.
+The cat caught the rats.	Kass püüdis hiired kinni.
+The funeral is tomorrow.	Matused on homme.
+There were no railroads.	Siin ei ole raudteed.
+They are faster than us.	Nad on meist kiiremad.
+They kissed in the rain.	Nad suudlesid vihmas.
+They're friends of mine.	Nad on minu sõbrad.
+This book belongs to me.	See raamat kuulub mulle.
+Tom arrived last Monday.	Tom saabus eelmisel esmaspäeval.
+Tom didn't want to lose.	Tom ei tahtnud kaotada.
+Tom escaped from prison.	Tom põgenes vanglast.
+Tom is alone in his car.	Tom on oma autos üksi.
+Tom is taller than I am.	Tom on pikem kui mina.
+Tom is taller than I am.	Tom on minust pikem.
+Tom likes to drive fast.	Tomile meeldib kiiresti sõita.
+Tom refused to admit it.	Tom keeldus seda tunnistamast.
+Tom said that he'd help.	Tom ütles, et ta aitab.
+Tom takes piano lessons.	Tom võtab klaveritunde.
+Tom tried to protect me.	Tom üritas mind kaitsta.
+Tom was my best student.	Tom oli mu parim õpilane.
+We have snow in January.	Meil on jaanuaris lumi.
+We live in an apartment.	Me elame korteris.
+We'd better go help Tom.	Me peaksime Tomile appi minema.
+We'll have a lot of fun.	Meil saab väga lõbus olema.
+What'll you do tomorrow?	Mida sa teed homme?
+What've you done to Tom?	Mida sa Tomiga teinud oled?
+Who's the better driver?	Kes on parem autojuht?
+Why are you accusing me?	Miks sa mind süüdistad?
+You're a beautiful girl.	Sa oled ilus tüdruk.
+Your apology's accepted.	Su vabandus on vastu võetud.
+Anyone can make mistakes.	Kõik saavad vigu teha.
+Are you ready for dinner?	Kas sa oled õhtusöögiks valmis?
+Can I cancel this ticket?	Kas ma saan selle pileti tühistada?
+Did you brush your teeth?	Kas sa pesid hambaid?
+Did you see anybody else?	Kas sa nägid kedagi teist?
+Do you have a dictionary?	Kas sul sõnastikku on?
+Do you know what this is?	Kas tead mis see on?
+Do you like strawberries?	Kas sulle meeldivad maasikad?
+Do you remember who I am?	Kas sa mäletad, kes ma olen?
+Don't open those windows.	Ära noid aknaid lahti tee.
+Don't open those windows.	Ärge noid aknaid avage.
+Everyone agreed with Tom.	Kõik nõustusid Tomiga.
+Everyone is proud of you.	Kõik on sinu üle uhked.
+Fill out the application.	Täida taotlus ära.
+He has got a good camera.	Tal on hea kaamera.
+He is a very good doctor.	Ta on väga hea arst.
+He seldom goes to church.	Ta käib harva kirikus.
+He slept well last night.	Ta magas eile öösel hästi.
+He swam across the river.	Ta ujus üle jõe.
+He was cleaning his room.	Ta koristas oma tuba.
+Her family is very large.	Tema perekond on väga suur.
+How many hats do you own?	Mitu mütsi sul on?
+How was the French class?	Kuidas prantsuse keele tund oli?
+How're you doing tonight?	Kuidas sul täna õhtul läheb?
+I can't open this bottle.	Ma ei saa seda pudelit avada.
+I can't take you with me.	Ma ei saa sind endaga kaasa võtta.
+I didn't have to move it.	Ma ei pidanud seda liigutama.
+I don't know their names.	Ma ei tea nende nimesid.
+I don't need a boyfriend.	Mul pole poissi vaja.
+I go to church on Sunday.	Ma käin pühapäeviti kirikus.
+I have two older sisters.	Mul on kaks vanemat õde.
+I hope you'll come again.	Loodan, et tulete jälle.
+I know how you guys work.	Ma tean, kuidas te töötate.
+I like to play the piano.	Mulle meeldib mängida klaverit.
+I often go to the movies.	Käin sageli kinos.
+I opened the door slowly.	Ma avasin aeglaselt ukse.
+I think Tom is objective.	Ma arvan, et Tom on objektiivne.
+I thought that went well.	See läks minu arvates hästi.
+I told you Tom was ready.	Ma ütlesin sulle, et Tom on valmis.
+I want a good dictionary.	Ma tahan head sõnaraamatut.
+I want to go there again.	Ma tahan sinna veelkord minna.
+I want to know the facts.	Tahan teada fakte.
+I want to read that book.	Ma tahan seda raamatut lugeda.
+I wonder if he's at home.	Huvitav kas ta on kodus.
+I worked in this factory.	Ma töötasin selles tehases.
+I'd like a glass of wine.	Ma tahaksin klaasikest veini.
+I'd like to travel alone.	Ma tahaksin üksinda reisida.
+I'll stay until tomorrow.	Ma jään homseni.
+I'm very glad to see you.	Mul on väga hea meel sind näha.
+I'm very tired right now.	Ma olen väga väsinud praegu.
+It's better than nothing.	See on parem kui mitte midagi.
+Let's go to my apartment.	Lähme minu korterisse.
+Look out for pickpockets.	Ettevaatust - taskuvargad.
+Mary is a fairy princess.	Mari on haldjaprintsess.
+May I speak to you alone?	Kas ma võiksin sinuga üksi rääkida?
+Please put on your shoes.	Palun pange kingad jalga.
+She began to gain weight.	Ta hakkas kaalus juurde võtma.
+She is a beautiful woman.	Ta on ilus naine.
+She lives near the beach.	Ta elab ranna lähedal.
+Shut up and let me think.	Ole vait ja las ma mõtlen.
+Sorry, I didn't hear you.	Vabandust, ma ei kuulnud sind.
+That makes perfect sense.	See on täiesti loogiline.
+The girls began to laugh.	Tüdrukud hakkasid naerma.
+The room is rather small.	Tuba on pigem väike.
+They are afraid of death.	Nad kardavad surma.
+This castle is beautiful.	See kindlus on ilus.
+This device doesn't work.	See seade ei tööta.
+This garden is beautiful.	See aed on ilus.
+This has happened before.	Seda on varem juhtunud.
+This is my email address.	See on minu meiliaadress.
+This is really delicious.	See on väga maitsev.
+Tom bribed the policeman.	Tom andis politseinikule altkäemaksu.
+Tom didn't do the dishes.	Tom ei pesnud nõusid ära.
+Tom died a natural death.	Tom suri loomulikku surma.
+Tom is making fun of you.	Tom teeb su üle nalja.
+Tom lied about his grade.	Tom valetas oma hinde kohta.
+Unfortunately, it's true.	Kahjuks on see tõsi.
+We can talk on the train.	Me saame rongis rääkida.
+We're having a good time.	Meil on lõbus.
+What do you mean by this?	Mida sa sellega silmas pead?
+What school do you go to?	Kus sa koolis käisid?
+What school do you go to?	Millises koolis sa käisid?
+Where were you yesterday?	Kus sa eile olid?
+Would you like some more?	Kas sa soovid veel?
+You didn't need to hurry.	Sul poleks olnud tarvis kiirustada.
+A fork fell off the table.	Kahvel kukkus laualt maha.
+A horse can run very fast.	Hobune võib joosta väga kiiresti.
+Are you in any difficulty?	Kas sa oled kuidagi hädas?
+Can I have some more milk?	Kas ma saaksin veel piima?
+Can I help with breakfast?	Kas ma saan hommikueinega aidata?
+Children like fruit juice.	Lastele meeldib puuviljamahl.
+Did Tom get the briefcase?	Kas Tom sai kohvri?
+Did you get any work done?	Kas sa jõudsid midagi oma tööst ära teha?
+Do I have to pay you back?	Kas ma pean sulle tagasi maksma?
+Do you eat rice every day?	Kas sa sööd riisi iga päev?
+Do you know what to bring?	Kas sa tead, mida kaasa võtta?
+Do you like the apartment?	Kas sulle meeldib see korter?
+Do you need to drink wine?	Kas sul on vaja veini juua?
+Do you want to go with us?	Kas sa tahad meiega minna?
+Don't ever leave me again.	Ära jäta mind enam kunagi.
+Don't think I won't do it.	Ära arva, et ma seda ei tee.
+Don't worry. I won't tell.	Ära muretse. Ma ei räägi välja.
+Don't you have work to do?	Kas sul ei ole tööd, mida teha?
+Don't you know each other?	Kas te ei tunnegi üksteist?
+Don't you know what it is?	Kas sa ei teagi, mis see on?
+Everybody agreed with Tom.	Kõik nõustusid Tomiga.
+Get some sleep if you can.	Maga natuke, kui sa suudad.
+Get some sleep if you can.	Ürita natuke magada.
+Haven't I suffered enough?	Kas ma pole veel piisavalt kannatanud?
+He didn't find what I hid.	Ta ei leidnud seda, mille ma ära peitsin.
+He is a promising student.	Ta on lootustandev üliõpilane.
+He is a promising student.	Ta on lootustandev tudeng.
+He is a promising student.	Ta on lootustandev õpilane.
+He is a very good teacher.	Ta on väga hea õpetaja.
+He sold all that he owned.	Ta müüs ära kõik, mis tal oli.
+He will be a good husband.	Temast saab hea abikaasa.
+He's sitting on the bench.	Ta istub pingil.
+He's the man of the house.	Tema on perepea.
+He's young and attractive.	Ta on noor ja kena väljanägemisega.
+Here's an even better one.	Näe, see siin on veel parem.
+Here's what you asked for.	Siin on see, mis sa küsisid.
+Hey, give that back to me.	Hei, anna see mulle tagasi.
+Hey, leave me out of this.	Hei, ära mind sellesse sega.
+How about a cup of coffee?	Kuidas oleks ühe tassikese kohviga?
+How did that happen again?	Kuidas see ikkagi juhtus?
+How is this even possible?	Kuidas see üldse võimalik on?
+How's it going over there?	Kuidas teil seal läheb?
+How's it supposed to work?	Kuidas see peaks toimima?
+I bought a book yesterday.	Ma ostsin eile raamatu.
+I can barely move my arms.	Ma suudan vaevu oma käsi liigutada.
+I did good work, didn't I?	See toimis ju kenasti?
+I didn't have much choice.	Mul ei olnud kuigipalju valikut.
+I didn't think you'd mind.	Ma ei arvanud, et sa pahaks paned.
+I didn't unlock that door.	Ma ei teinud seda ust lukust lahti.
+I don't go out very often.	Ma ei käi eriti tihti väljas.
+I don't have any brothers.	Mul ei ole vendi.
+I don't like living alone.	Mulle ei meeldi elada üksi.
+I don't need your charity.	Ma ei vaja su armuande.
+I don't think Tom is busy.	Ma ei usu, et Tom on hõivatud.
+I don't trust you anymore.	Ma ei usalda sind enam.
+I go to church on Sundays.	Ma käin pühapäeviti kirikus.
+I have a big favor to ask.	Mul on suur palve.
+I just got here yesterday.	Ma jõudsin alles eile siia.
+I just wanted to get away.	Ma tahtsin ainult eemale saada.
+I kept walking to the car.	Ma muudkui kõndisin auto juurde.
+I know what this is about.	Ma tean, milles asi on.
+I know what this is about.	Ma tean millest see räägib.
+I know where Tom was born.	Ma tean kus Tom on sündinud.
+I know you don't know Tom.	Ma tean, et sa ei tunne Tomi.
+I saw a baboon at the zoo.	Ma nägin loomaaias paaviani.
+I saw what you were doing.	Ma nägid millega sa tegelesid.
+I saw what you were doing.	Ma nägin mis sa tegid.
+I spotted Tom immediately.	Ma märkasin Tomi kohe.
+I think Tom might be busy.	Ma arvan, et Tom võib olla hõivatud.
+I think that he has mumps.	Ma arvan, et tal on mumps.
+I think the story is true.	Ma arvan, et see jutt on tõsi.
+I thought Tom had my back.	Ma arvasin, et Tom seisab mu eest.
+I told Tom it wasn't mine.	Ma ütlesin Tomile et see polnud minu oma.
+I told you it didn't work.	Ma ütlesin sulle, et see ei toiminud.
+I turned off the computer.	Lülitasin arvuti välja.
+I want to become a doctor.	Ma tahan saada arstiks.
+I wasn't very busy anyway.	Ma ei olnud nagunii eriti hõivatud.
+I went to Boston by train.	Läksin Bostonisse rongiga.
+I'd better call Tom again.	Parem helistan Tomile uuesti.
+I'd better go talk to Tom.	Ma parem lähen ja räägin Tomiga.
+I'd like to give it a try.	Ma tahaks proovida.
+I'd never do that for Tom.	Ma ei teeks seda Tomile iialgi.
+I'll be with Tom and Mary.	Ma olen koos Tomi ja Mariga.
+I'll call you after lunch.	Ma helistan sulle peale lõunat.
+I'll deal with Tom myself.	Ma tegelen Tomiga ise.
+I'll fill you in sometime.	Ma seletan sulle millalgi.
+I'll give Tom the message.	Ma annan Tomile sõnumi edasi.
+I'll have to live with it.	Ma pean sellega leppima.
+I'll help you in a minute.	Ma aitan sind mõne hetke pärast.
+I'll never find true love.	Ma ei leia iial tõelist armastust.
+I'll never leave you, Tom.	Tom, ma ei jäta sind kunagi.
+I'll take Tom at his word.	Ma usaldan, mis Tom ütles.
+I'll take the first shift.	Ma võtan esimese vahetuse.
+I'll talk to Tom about it.	Ma räägin Tomiga sellest.
+I'll tell Tom you're here.	Ma ütlen Tomile, et sa oled siin.
+I'm a pretty good swimmer.	Ma olen päris hea ujuja.
+I'm afraid I may hurt Tom.	Ma kardan, et see võib Tomile haiget teha.
+I'm afraid Tom isn't here.	Kardan, et Tom ei ole siin.
+I'm an excellent listener.	Ma olen suurepärane kuulaja.
+I'm calling Tom right now.	Ma helistan Tomile kohe.
+I'm comfortable with that.	Mulle see sobib.
+I'm doing the speed limit.	Ma ületan kiirust.
+I'm flying back to Boston.	Ma lendan Bostonisse tagasi.
+I'm glad it works for you.	Mul on hea meel, et see sobib sulle.
+I'm glad to be of service.	Mul on hea meel, et sain aidata.
+I'm going to check on Tom.	Ma lähen kontrollin, kuidas Tomil on.
+I'm going to get you home.	Ma viin su koju.
+I'm going to give it a go.	Ma kavatsen proovida.
+I'm going to go join them.	Ma ühinen nendega.
+I'm going to go to Boston.	Ma lähen Bostonisse.
+I'm going to help you now.	Ma aitan sind nüüd.
+I'm happy with the result.	Ma olen rahul tulemusega.
+I'm not going out tonight.	Ma ei lähe täna õhtul välja.
+I'm of no use to you here.	Minust ei ole sulle siin kasu.
+I'm very excited about it.	Ma olen selle üle väga elevil.
+I'm very unhappy just now.	Ma olen praegu väga õnnetu.
+I've got it under control.	Mul on see kontrolli all.
+I've just finished dinner.	Ma just lõpetasin õhtusöögi.
+I've never met Tom's wife.	Ma ei ole kunagi Tomi naist näinud.
+I've only been there once.	Ma olen seal ainult korra olnud.
+In two days, I'll turn 13.	Kahe päeva pärast saan ma 13.
+It was here that Tom died.	See oli siin, kus Tom suri.
+It was here that Tom died.	Siin on see koht, kus Tom suri.
+It's a difficult question.	See on raske küsimus.
+It's a quarter past eight.	Kell on veerand üheksa.
+It's much easier this way.	Sedasi on palju kergem.
+It's not an easy question.	See ei ole lihtne küsimus.
+It's not going to be long.	Enam ei lähe kaua.
+It's not safe to split up.	Lahku minna poleks turvaline.
+It's not such a long list.	See ei ole nii pikk nimekiri.
+It's not the same anymore.	See pole enam seesama.
+Keep focused on your work.	Keskendu oma tööle.
+Let Tom buy the next beer.	Las Tom ostab järgmise õlle.
+Let me give you some cash.	Las ma annan sulle natuke sularaha.
+Let me pay for the dinner.	Las ma maksan õhtusöögi eest.
+Let me see what we can do.	Vaatame mis me teha saame.
+Let me see what we can do.	Las ma vaatan mis me teha saaksime.
+May I have your attention?	Kas ma saaksin su tähelepanu?
+May I have your attention?	Kas ma saaksin teie tähelepanu?
+Maybe I'll see you around.	Ehk näeme veel.
+Maybe you should lie down.	Võibolla peaksid sa pikali heitma.
+My neighbor's dog is dead.	Mu naabri koer on surnud.
+My wife's trying to sleep.	Mu naine üritab magada.
+No one knows where we are.	Keegi ei tea, kus me oleme.
+Nobody trusts Tom anymore.	Keegi ei usalda enam Tomi.
+On Sunday, I go to church.	Ma käin pühapäeviti kirikus.
+Pelicans have large beaks.	Pelikanidel on suured nokad.
+Perhaps Tom had it coming.	Võib-olla oligi Tom selle ära teeninud.
+Perhaps Tom had it coming.	Ehk oligi see Tomile paras.
+Please bathe the children.	Palun vannita lapsed ära.
+Please bathe the children.	Palun vannita lapsed.
+Say hello to your friends.	Tervita oma sõpru.
+Suddenly Tom began to cry.	Järsku hakkas Tom nutma.
+Tell me what I have to do.	Ütle mulle mis ma tegema pean.
+Thank you for your candor.	Tänan sind otsekohesuse eest.
+That is rather unexpected.	See on üsna ootamatu.
+The post office is closed.	Postkontor on suletud.
+The sky looks threatening.	Taevas näeb ähvardav välja.
+The weather is good today.	Täna on hea ilm.
+The workers are on strike.	Töötajad streigivad.
+There's a message for you.	Sulle on sõnum.
+There's food on the table.	Laual on süüa.
+There's food on the table.	Laual on toitu.
+There's no food right now.	Hetkel pole midagi süüa.
+There's nothing out there.	Seal ei ole midagi.
+They don't stand a chance.	Neil pole vähimatki võimalust.
+They went around the lake.	Nad läksid ümber järve.
+They're probably American.	Nad on tõenäoliselt ameeriklased.
+They're probably American.	Arvatavasti on nad ameeriklased.
+This book is not for sale.	See raamat pole müügiks.
+This cave is full of bats.	See koobas on nahkhiiri täis.
+This desk is made of wood.	See kirjutuslaud on puidust.
+This is a very small book.	See on väga väike raamat.
+Tom came through the door.	Tom tuli uksest.
+Tom chain-locked the door.	Tom pani ukse ketti.
+Tom fidgeted in his chair.	Tom niheles oma toolil.
+Tom gives us what we need.	Tom annab meile, mida me vajame.
+Tom got up from the bench.	Tom tõusis pingilt.
+Tom had the wrong address.	Tomil oli vale aadress.
+Tom has a cute girlfriend.	Tomil on armas pruut.
+Tom has a cute girlfriend.	Tomi tüsdruksõber on armas.
+Tom held Mary in his arms.	Tom hoidis Mari oma käte vahel.
+Tom impersonated a doctor.	Tom teeskles, et ta on arst.
+Tom is away on assignment.	Tom on ära tööülesandeid täitmas.
+Tom is going to stay here.	Tom jääb siia.
+Tom is on his lunch break.	Tom on lõunal.
+Tom is the one who's rich.	Tom on see, kes on rikas.
+Tom is the one with a car.	Tom on see, kellel on auto.
+Tom knew Mary wasn't busy.	Tom teadis, et Mari ei olnud hõivatud.
+Tom likes teaching French.	Tomile meeldib prantsuse keelt õpetada.
+Tom looks like he's drunk.	Tom näeb välja nagu oleks ta purjus.
+Tom made that quite clear.	Tom ütles seda üsna selgesti.
+Tom made that quite clear.	Tom tegi selle üsna selgeks.
+Tom moved a little closer.	Tom tuli veidi lähemale.
+Tom never listens to Mary.	Tom ei kuula mitte kunagi Maryt.
+Tom promised me he'd come.	Tom lubas mulle, et ta tuleb.
+Tom really got a raw deal.	Tomi suhtes käituti tõesti väga ebaõiglaselt.
+Tom respects your opinion.	Tom austab sinu arvamust.
+Tom respects your opinion.	Tom austab su arvamust.
+Tom responded immediately.	Tom vastas otsekohe.
+Tom seldom goes to church.	Tom käib harva kirikus.
+Tom set his house on fire.	Tom pani oma maja põlema.
+Tom slammed on his brakes.	Tom lükkas pidurid põhja.
+Tom slept on the top bunk.	Tom magas ülemisel naril.
+Tom smiled appreciatively.	Tom naeratas tunnustavalt.
+Tom started singing along.	Tom hakkas kaasa laulma.
+Tom stumbled out the door.	Tom vaarus uksest välja.
+Tom threw the bottle away.	Tom viskas pudeli ära.
+Tom told Mary he was busy.	Tom ütles Marile et ta on hõivatud.
+Tom tried to kill himself.	Tom proovis enda ära tappa.
+Tom tried to sound casual.	Tom üritas varjata oma erutust.
+Tom wants Mary's approval.	Tom tahtis Mari heakskiitu.
+Tom was in a car accident.	Tom sattus autoõnnetusse.
+Tom was in his bed asleep.	Tom magas oma voodis.
+Tom was wearing moccasins.	Tom kandis mokassiine.
+Tom's not happy with that.	Tom ei ole selle üle õnnelik.
+Tom's not very good at it.	Tom ei ole selles kuigi hea.
+Tom, this isn't about you.	Tom, see ei ole ainult sinu asi.
+Tom, you've got to get up.	Tom, sa pead üles tõusma.
+Tom, you've grown so fast.	Tom, sa oled kõvasti kasvanud.
+Venus doesn't have a moon.	Veenusel pole kuud.
+We can't live without air.	Me ei suuda elada ilma õhuta.
+We can't promise anything.	Me ei saa midagi lubada.
+We don't need Tom anymore.	Meil ei ole Tomi enam vaja.
+We just need to stay calm.	Me peame ainult rahulikuks jääma.
+We need to talk right now.	Meil on vaja kohe rääkida.
+We should talk about this.	Me peaksime sellest rääkima.
+We'll be here for a while.	Me jääme siia mõneks ajaks.
+We'll do fine without you.	Me saame sinuta hakkama.
+We'll have plenty of food.	Meil on piisavalt süüa.
+We'll help you rescue Tom.	Me aitame sul Tomi päästa.
+We'll solve this together.	Me lahendame selle koos ära.
+What are your conclusions?	Millised on su järeldused?
+What did you end up doing?	Mis sa siis lõpuks tegid?
+What do women really want?	Mida naised tegelikult tahavad?
+What have they been doing?	Millega nad on tegelenud?
+What'll you have to drink?	Mida sa juua tahad?
+What're you up to tonight?	Mis sul täna õhtul plaanis on?
+What're you up to tonight?	Mis teil täna õhtul plaanis on?
+What's Tom got against me?	Mis Tomil minu vastu on?
+What's Tom up to nowadays?	Millega Tom viimasel ajal tegeleb?
+What's going on right now?	Mis praegu toimub?
+What's left to talk about?	Millest veel rääkida on?
+What's so wrong with that?	Mis sellel viga on?
+What's the use of talking?	Mis kasu on rääkimisest?
+What's your favorite word?	Mis on su lemmiksõna?
+What's your mother's name?	Mis on su ema nimi?
+When's this going to stop.	Millal küll see lõppeb?
+Where do you want to live?	Kus sa tahad elada?
+Where do you want to live?	Kus te tahate elada?
+Where's my lucky blue cap?	Kus mu sinine õnnemüts on?
+Where's the bottle opener?	Kus on pudeliavaja?
+Where's the nearest store?	Kus asub lähim pood?
+Why are you late to class?	Miks sa tundi hilinesid?
+Why aren't you in college?	Miks sa ülikoolis ei ole?
+Why did Tom go home early?	Miks Tom vara koju läks?
+Without you, I am nothing.	Sinuta ei ole ma midagi väärt.
+You and Tom must be happy.	Sina ja Tom olete vist õnnelikud.
+You both need to get away.	Te peate mõlemad ära minema.
+You can't do that anymore.	Sa ei saa seda enam teha.
+You don't even have a car.	Sul pole isegi autot.
+You have things backwards.	Sul on asjad tagurpidi.
+You have things backwards.	Sul on asjadest täiesti vale arusaamine.
+You were clearly mistaken.	Sul polnud ilmselgelt õigus.
+You would've loved Boston.	Sulle oleks Boston meeldinud.
+You're not even listening.	Sa isegi ei kuula mind.
+You're on the wrong floor.	Sa oled valel korrusel.
+You're on the wrong floor.	Te olete valel korrusel.
+You're too young to marry.	Sa oled liiga noor, et abielluda.
+You're too young to marry.	Sa oled abiellumiseks liiga noor.
+You've really earned this.	Sa oled selle tõesti välja teeninud.
+You've seen what I can do.	Sa oled näinud, milleks ma võimeline olen.
+You've stalled the engine.	Sa jooksutasid mootori kinni.
+Your dress is very pretty.	Teie kleit on väga ilus.
+Are your children with you?	Kas sul on lapsed kaasas?
+Boys are strange sometimes.	Poisid on mõnikord kummalised.
+Boys are strange sometimes.	Poisid on mõnikord veidrad.
+Boys are strange sometimes.	Poisid on mõnikord naljakad.
+Can you all understand Tom?	Kas te kõik saate Tomist aru?
+Can you make a copy for me?	Kas sa saad mulle koopia teha?
+Come on, Tom. It'll be fun.	Tule, Tom. See on lõbus!
+Do you accept credit cards?	Kas te aktsepteerite krediitkaarte?
+Do you have a bank account?	Kas sul pangakonto on?
+Don't fall in love with me.	Ära minusse armu.
+French is my native tongue.	Prantsuse keel on mu emakeel.
+Go to the back of the line.	Mine rivi lõppu.
+He dashed out of the store.	Ta tormas poest välja.
+He doesn't read many books.	Ta ei loe palju raamatuid.
+He is afraid of his father.	Ta kardab oma isa.
+His son is eight years old.	Tema poeg on kaheksa aastane.
+Hold this for me, will you?	Kas sa hoiaks seda minu jaoks?
+How could I ever trust you?	Kuidas võisin ma sind üldse usaldada?
+How long do I have to wait?	Kaua ma pean ootama?
+How many books do you have?	Mitu raamatut sul on?
+How many guards were there?	Mitu valvurit oli seal?
+How often do the buses run?	Kui tihti bussid käivad?
+How often do you go abroad?	Kui tihti sa välismaal käid?
+I bet Tom can speak French.	Ma võin kihla vedada, et Tom oskab prantsuse keelt rääkida.
+I came here to talk to you.	Tulin siia, et sinuga rääkida.
+I can't help you with this.	Ma ei saa teid sellega aidata.
+I couldn't see what it was.	Ma ei näinud, mis see oli.
+I didn't have time to swim.	Mul polnud aega ujuda.
+I handed Tom my flashlight.	Ma andsin Tomile oma taskulambi.
+I have two foreign friends.	Mul on kaks välismaist sõpra.
+I know what you were doing.	Ma tean, mida sa tegid.
+I speak French and English.	Ma räägin prantsuse ja inglise keelt.
+I think we should call Tom.	Ma arvan, et me peaks helistama Tomile.
+I try to do it once a week.	Ma üritan seda kord nädalas teha.
+I want to hear Tom's voice.	Ma tahan Tomi häält kuulda.
+I want you to stay with me.	Ma tahan, et sa jääksid siia koos minuga.
+I wasn't making fun of you.	Ma ei teinud sinu üle nalja.
+I wasn't too sure about it.	Ma polnud selles päris kindel.
+I wish I were by your side.	Ma sooviksin, et ma oleksin su kõrval.
+I wish I were by your side.	Ma sooviksin su kõrval olla.
+I'd like a map of the city.	Ma sooviksin selle linna kaarti.
+I'm not afraid of anything.	Ma ei karda midagi.
+If I were rich, I'd buy it.	Kui oleksin rikas, siis ostaksin selle.
+Is that all right with you?	Kas see kõik sobib sulle?
+Is your uncle still abroad?	Kas su onu on ikka veel välismaal?
+Life is hard for everybody.	Kõigi elu on raske.
+Many people like to travel.	Paljudele inimestele meeldib reisida.
+Mary is a very pretty girl.	Mary on väga ilus tüdruk.
+No one else has complained.	Keegi teine pole kurtnud.
+Nobody else has complained.	Keegi teine pole kurtnud.
+Not many people like opera.	Paljudele inimestele ei meeldi ooper.
+Our boss approved our plan.	Meie ülemus kiitis meie plaani heaks.
+Please don't misunderstand.	Palun ära saa valesti aru.
+Please take off your shoes.	Palun võtke kingad jalast.
+The chicken is undercooked.	Kana pole ära küpsenud.
+The library is to the left.	Raamatukogu jääb vasakule.
+The snake swallowed a frog.	Madu neelas konna alla.
+The teapot is on the table.	Teekann on laual.
+There were no clouds today.	Täna ei olnud pilvi.
+There's nothing back there.	Seal taga pole midagi.
+This car is very expensive.	See auto on väga kallis.
+This is a beautiful flower.	See on ilus lill.
+This is never going to end.	See ei lõpe kunagi.
+Tom is dangerous, isn't he?	Tom on ohtlik, onju?
+Tom is no longer my friend.	Tom ei ole enam mu sõber.
+Tom left everything to you.	Tom jättis kõik oma asjad sulle.
+Tom needs a change of pace.	Tomil on muutust vaja.
+Tom smiled at the waitress.	Tom naeratas ettekandjale.
+Tom talked to Mary quietly.	Tom rääkis vaikselt Maryga.
+Tom wants to be a diplomat.	Tom tahab diplomaadiks saada.
+Tom was sitting next to me.	Tom istus minu kõrval.
+Tom will be going with you.	Tom tuleb sinuga kaasa.
+Tom will explain it to you.	Tom seletab seda sulle.
+We all want to go with you.	Me kõik tahame sinuga kaasa tulla.
+We should probably ask Tom.	Me peaksime tõenäoliselt Tomilt küsima.
+Were there others with you?	Kas sinuga koos oli teisi?
+What's the benefit of this?	Miks on see kasulik?
+What's your marital status?	Mis on su abieluseis?
+What's your marital status?	Mis on teie abieluseis?
+When are you going to call?	Millal sa helistad?
+When are you going to move?	Millal sa hakkad liikuma?
+When was this bridge built?	Millal see sild ehitati?
+When was this temple built?	Millal see tempel ehitati?
+Which country are you from?	Kust sa pärit oled?
+Who gave you your nickname?	Kes pani sulle su hüüdnime?
+Why are you drinking water?	Miks sa vett jood?
+Why should I be mad at you?	Miks ma peaksin su peale vihane olema?
+Will you give me some time?	Kas sa annad mulle aega?
+You can do this, can't you?	Sa suudad ju seda?
+You can do this, can't you?	Sa suudad seda, eks?
+You can take that with you.	Sa võid selle kaasa võtta.
+You're not afraid, are you?	Ega sa ei karda?
+Could you lend me your bike?	Kas sa saaksid mulle oma jalgratast laenata?
+Did Tom really kill himself?	Kas Tom tõesti tappis enda?
+Do you want a cup of coffee?	Kas sa sooviksid tassikest kohvi?
+Do you want anything to eat?	Kas sa tahad midagi süüa?
+Do you want to be my friend?	Kas sa tahad olla minu sõber?
+He rolled over in his sleep.	Ta keeras külge.
+He slipped on a banana peel.	Ta libises banaanikoorel.
+How many shots did you fire?	Kui mitu korda sa tulistasid?
+How many victims were there?	Mitu ohvrit oli seal?
+How often does it rain here?	Kui tihti siin sajab?
+I can manage that on my own.	Ma saan sellega ise hakkama.
+I didn't watch TV yesterday.	Ma ei vaadanud eile televiisorit.
+I don't recognize that name.	Ma ei tunne seda nime.
+I drank as much as I wanted.	Ma jõin nii palju kui tahtsin.
+I have to go to the dentist.	Ma pean hambaarsti juurde minema.
+I like strawberry ice cream.	Mulle meeldib maasikajäätis.
+I need to make some changes.	Mul on vaja mõningaid muudatusi teha.
+I need to stay in Australia.	Ma pean Austraaliasse jääma.
+I should've listened to you.	Oleksin pidanud sind kuulama.
+I showered before breakfast.	Ma käisin enne hommikusööki duši all.
+I think we should celebrate.	Ma arvan, et me peaks tähistama.
+I want to see her very much.	Ma tahan teda väga näha.
+I'll talk to Tom about this.	Ma räägin Tomiga sellest.
+I'm more beautiful than you.	Ma olen ilusam kui sina.
+Is anyone going to eat that?	Kas keegi kavatseb seda süüa?
+It happened three years ago.	See juhtus kolm aastat tagasi.
+It looks like Tom is sleepy.	Näib, et Tom on unine.
+Let's try to make Tom laugh.	Üritame Tomi naerma ajada.
+Oysters don't agree with me.	Austrid ei nõustu minuga.
+She decided to study abroad.	Ta otsustas välismaal õppida.
+She didn't have any pencils.	Tal ei olnud pliiatsit.
+She didn't have any pencils.	Tal ei olnud ühtegi pliiatsit.
+She keeps her hair in curls.	Ta hoiab oma juukseid lokkis.
+Sorry, I didn't notice that.	Vabandust, ma ei pannud seda tähele.
+That flag is very beautiful.	See lipp on väga ilus.
+The problem resolved itself.	Probleem lahenes iseenesest.
+These oranges are very sour.	Need apelsinid on väga hapud.
+This blue backpack is heavy.	See sinine seljakott on raske.
+This bridge is made of wood.	See sild on puidust.
+This house is far too small.	See maja on liiga väike.
+This is better than nothing.	See on parem kui mitte midagi.
+This is the last train, sir.	Härra, see on viimane rong.
+Those who know him like him.	Kes teda teavad, neile ta meeldib.
+Tom didn't tell anyone else.	Tom ei rääkinud kellelegi teisele.
+Tom invited me to his house.	Toomas kutsus mind oma majja.
+Tom is currently unemployed.	Tom on praegu töötu.
+Tom told Mary to be careful.	Tom ütles Maryle, et ta ettevaatlik oleks.
+Tom tried to keep Mary warm.	Tom üritas Maryt soojas hoida.
+Tom was saved from drowning.	Tom päästeti uppumisest.
+What can we expect from you?	Mida võime me sinult oodata?
+What year was your car made?	Mis aastal su auto tehtud on?
+Where did you buy that book?	Kust sa selle raamatu ostsid?
+You have a very good memory.	Sul on väga hea mälu.
+Your death will be painless.	Sinu surm on valutu.
+Can I pay with a credit card?	Kas ma saan kaardiga maksta?
+Can you send me a screenshot?	Kas sa saad mulle ekraanipildi saata?
+Do you know anyone named Tom?	Kas sa tead kedagi Tomi nimelist?
+Do you want to go for a walk?	Kas sa tahad jalutama minna?
+Don't tell anyone about this.	Ära sellest kellelegi räägi.
+Don't turn off your computer.	Ära pane oma arvutit kinni.
+Don't turn off your computer.	Ärge pange oma arvutit kinni.
+French is my native language.	Prantsuse keel on mu emakeel.
+He handed in his resignation.	Ta andis lahkumisavalduse sisse.
+He walked through the forest.	Ta kõndis läbi metsa.
+He was wounded in the battle.	Ta sai lahingus haavata.
+He will become a good doctor.	Temast saab hea arst.
+How many mangoes do you want?	Mitu mangot sa tahad?
+I bear no grudge against you.	Ma ei kanna su vastu vimma.
+I brush my teeth twice a day.	Ma pesen hambaid kaks korda päevas.
+I can't get involved in this.	Ma ei saa sellesse sekkuda.
+I didn't think you'd show up.	Ma ei arvanud, et sa välja ilmud.
+I didn't want my mom to know.	Ma ei tahtnud, et mu ema sellest teada saaks.
+I don't like your suggestion.	Mulle ei meeldi su ettepanek.
+I don't understand this poem.	Ma ei saa sellest luuletusest aru.
+I don't want to go to school.	Ma ei taha kooli minna.
+I have a favor to ask of you.	Mul on sulle üks palve.
+I have three younger sisters.	Mul on kolm nooremat õde.
+I know a good French teacher.	Ma tunnen head prantsuse keele õpetajat.
+I recognised him immediately.	Ma tundsin ta kohe ära.
+I recognised him immediately.	Ma tundsin ta otsekohe ära.
+I recognized him immediately.	Ma tundsin ta kohe ära.
+I recognized him immediately.	Ma tundsin ta otsekohe ära.
+I slept very well last night.	Ma magasin eile öösel väga hästi.
+I think I should go home now.	Ma arvan, et ma peaksin nüüd koju minema.
+I thought you wanted to play.	Ma arvasin, et sa tahad mängida.
+I'll take you to the airport.	Ma viin su lennujaama.
+I'm sorry that I woke you up.	Vabandust, et ma sind üles äratasin.
+Is my French really that bad?	Kas mu prantsuse keel on tõesti nii halb?
+London is smaller than Tokyo.	London on väiksem kui Tokyo.
+My car was stolen last night.	Mu auto varastati eile õhtul ära.
+My father works at a factory.	Mu isa töötab tehases.
+One language is never enough.	Ühest keelest ei piisa kunagi.
+Please make yourself at home.	Tunne ennast kodus.
+Please make yourself at home.	Tundke ennast kodus.
+That's not for you to decide.	See ei ole sinu otsustada.
+The church bells are ringing.	Kirikukellad helisevad.
+These pictures are beautiful.	Need pildid on ilusad.
+This house is too big for us.	See maja on meie jaoks liiga suur.
+Tom has been waiting a while.	Tom on mõnda aega oodanud.
+Tom is faster than you think.	Tom on kiirem kui sa arvad.
+Tom is listening to his iPod.	Tom kuulab oma iPodi.
+Tom isn't a very good driver.	Tom ei ole väga hea autojuht.
+Tom knows how to help people.	Tom oskab inimesi aidata.
+Tom wanted a bigger discount.	Tom tahtis suuremat allahindlust.
+Tom was standing behind Mary.	Tom seisis Mary selja taga.
+Tom was visibly disappointed.	Tom oli ilmselgelt pettunud.
+We import coffee from Brazil.	Me impordime kohvi Brasiiliast.
+What were you thinking about?	Millest sa mõtlesid?
+What's the name of that bird?	Mis selle linnu nimi on?
+What's the title of the book?	Mis on raamatu pealkiri?
+When is the next guided tour?	Millal on järgmine giidiga ekskursioon?
+You don't have to impress me.	Sa ei pea mulle muljet avaldama.
+You need to follow the rules.	Sa pead reegleid järgima.
+You're a very good guitarist.	Sa oled väga hea kitarrist.
+You're in third grade, right?	Sa käid kolmandas klassis, jah?
+Anybody is better than nobody.	Ükskõik kes on parem kui mitte keegi.
+Both of the brothers are dead.	Mõlemad vennad on surnud.
+Did you do a background check?	Kas sa tegid taustauuringu?
+Do you think I still love her?	Kas sa arvad et ma armastan teda ikka veel?
+Don't do two things at a time.	Ära tee kahte asja ühel ajal.
+He hit the ball out of bounds.	Ta lõi palli välja.
+He's a good boy so I like him.	Ta on hea poiss ja seetõttu ta meeldib mulle.
+How did you get your nickname?	Kuidas sa said omale hüüdnime?
+How many survivors were there?	Mitu ellujäänut oli seal?
+I don't want to live with you.	Ma ei taha sinuga koos elada.
+I hope that you'll come again.	Loodan, et tulete jälle.
+I like both of them very much.	Nad mõlemad meeldivad mulle väga.
+I made up my mind to go there.	Ma otsustasin sinna minna.
+I should have told you before.	Ma oleksin pidanud sulle varem rääkima.
+I shouldn't have been so rude.	Ma poleks pidanud nii ebaviisakas olema.
+I think we should go home now.	Ma arvan, et me peaksime nüüd koju minema.
+I warned him about the danger.	Ma hoiatasin teda ohu eest.
+I'll be back in a few minutes.	Mu tulen tagasi mõne minuti pärast.
+I'll drive you to the airport.	Ma viin su lennujaama.
+I'm kind of tied up right now.	Mul on praegu tegemist.
+I'm taking an exam in January.	Ma sooritan jaanuaris eksami.
+I've still got a lot to learn.	Mul on veel palju õppida.
+I've still got a lot to learn.	Mul on ikka veel palju õppida.
+Is Tom aware of what Mary did?	On Tom teadlik sellest, mida Mary tegi?
+It isn't a difficult question.	See ei ole raske küsimus.
+It just doesn't work that way.	See lihtsalt ei toimi sedasi.
+It'll be a difficult decision.	See on raske otsus.
+It'll be interesting for sure.	See on kindlasti huvitav.
+It'll only make matters worse.	See teeb asja ainult hullemaks.
+It's a very important message.	See on väga tähtis sõnum.
+It's not a difficult question.	See ei ole raske küsimus.
+Mary's maiden name is Jackson.	Mary neiupõlvenimi on Jackson.
+My younger brother watches TV.	Mu noorem vend vaatab televiisorit.
+Some people are still worried.	Mõned inimesed on ikka mures.
+Something smells good in here.	Siin lõhnab midagi hästi.
+Sorry, it's not your decision.	Vabandust, see ei ole sinu otsus.
+Thank you for your invitation.	Aitäh kutse eest.
+That pretty girl is my sister.	See kena tüdruk on minu õde.
+That was an excellent article.	See oli suurepärane artikkel.
+That was certainly a surprise.	See oli kindlasti üllatus.
+That wasn't a good experience.	See ei olnud hea kogemus.
+That's a common attitude here.	See on siin tavaline suhtumine.
+That's a very different thing.	See on hoopis teine asi.
+That's a very simple question.	See on väga lihtne küsimus.
+That's apparently not a crime.	Tuleb välja, et see polegi kuritegu.
+That's basically what we want.	See on põhimõtteliselt see, mida me tahame.
+That's very optimistic of you.	See on sinust väga optimistlik.
+The guests are in the kitchen.	Külalised on köögis.
+There is an apple on the desk.	Kirjutuslaua peal on õun.
+These shoes don't fit my feet.	Need kingad ei mahu mulle jalga.
+Tom didn't watch TV yesterday.	Tom ei vaadanud eile televiisorit.
+Tom doesn't like to socialize.	Tomile ei meeldi sotsialiseeruda.
+Tom handed Mary a blue folder.	Tom andis Maryle sinise kausta.
+Tom is hiding behind the door.	Tom on ukse taga peidus.
+Tom is looking for a good job.	Tom otsib head tööd.
+Tom is our new French teacher.	Tom on meie uus prantsuse keele õpetaja.
+Tom is younger than you think.	Tom on noorem kui sa arvad.
+Tom said that he had to leave.	Tom ütles, et ta pidi lahkuma.
+Tom showed us around the city.	Tom näitas meile linnas ringi.
+Tom turned to Mary for advice.	Tom küsis Marylt nõu.
+Tom was often late for school.	Tom jäi tihti kooli hiljaks.
+Tom would help us if he could.	Tom aitaks meid kui ta saaks.
+Tom, what were you looking at?	Tom, mida sa vaatasid?
+What's the best way to travel?	Milline on parim viis reisimiseks?
+You agree with Tom, don't you?	Sa nõustud Tomiga, eks?
+You aren't any better than me.	Sa pole minust parem.
+You should say what you think.	Sa peaksid ütlema, mida sa mõtled.
+You're not aiming high enough.	Sa ei sihi piisavalt kõrgele.
+Your handwriting is illegible.	Su käekiri on loetamatu.
+A dog's nose is very sensitive.	Koera nina on väga tundlik.
+An elephant is a strong animal.	Elevant on tugev loom.
+Bees fly from flower to flower.	Mesilased lendavad lillelt lillele.
+Could you shut up for a second?	Kas sa jääksid korraks vait?
+Could you shut up for a second?	Kas sa võiksid korraks vait jääda?
+Do you have fresh strawberries?	Kas sul on värskeid maasikaid?
+Do you want something to drink?	Kas sa tahad midagi juua?
+Do you want something to drink?	Kas te tahate midagi juua?
+Has Tom spoken to you about me?	Kas Tom on sinuga minust rääkinud?
+He is respected by his friends.	Tema sõbrad austavad teda.
+He lived abroad for many years.	Ta elas mitu aastat välismaal.
+He was sleeping under the tree.	Ta magas puu all.
+I asked Tom to watch my things.	Ma palusin Tomil oma asju valvata.
+I didn't know Tom had a sister.	Ma ei teadnud, et Tomil õde on.
+I don't want to go out tonight.	Ma ei taha täna õhtul välja minna.
+I feel happy when I'm with you.	Ma olen õnnelik, kui ma sinuga koos olen.
+I have a lot of work this week.	Mul on sellel nädalal palju tööd.
+I know I'm a little overweight.	Ma tean, et ma olen natuke ülekaaluline.
+I know you were born in Boston.	Ma tean, et sa sündisid Bostonis.
+I stood at the end of the line.	Ma seisin rivi lõpus.
+I think I added too much sugar.	Mulle tundub, et ma lisasin liiga palju suhkrut.
+I was told to leave this alone.	Mulle öeldi, et ma seda ei puutuks.
+I'm afraid that Tom isn't here.	Kardan, et Tom ei ole siin.
+I'm not always home on Sundays.	Ma pole alati pühapäeviti kodus.
+I'm taking an umbrella with me.	Ma võtan vihmavarju kaasa.
+In other words, he betrayed us.	Teisisõnu, ta reetis meid.
+Is this your first trip abroad?	Kas see on su esimene reis välismaale?
+It's a very big social problem.	See on väga suur sotsiaalne probleem.
+It's obvious that you're wrong.	Ilmselgelt sa eksid.
+Just make sure you talk to Tom.	Lihtsalt räägi kindlasti Tomiga.
+May I ask you to do me a favor?	Tohin ma sult ühte teenet paluda?
+My brother gave me a cute doll.	Mu vend andis mulle armsa nuku.
+Our school is across the river.	Meie kool on üle jõe.
+Perhaps she will come tomorrow.	Ehk tuleb ta homme.
+Please don't interrupt me, Tom.	Tom, palun ära sega mulle vahele.
+Tell me about it. I'm all ears.	Räägi mulle sellest! Olen üks suur kõrv.
+That camera over there is mine.	See kaamera seal on minu oma.
+The boy I love doesn't love me.	Poiss, keda ma armastan, ei armasta mind.
+The investigation is under way.	Uurimine käib.
+The murderer is still at large.	Mõrvar on ikka veel vabaduses.
+The murderer is still at large.	Mõrvar on ikka vabaduses.
+Their wedding will be tomorrow.	Nende pulmad on homme.
+There is no life without water.	Ilma veeta ei ole elu.
+Thousands of people were there.	Seal oli tuhandeid inimesi.
+Tom didn't look all that happy.	Tom ei näinud väga õnnelik välja.
+Tom is hiding behind the couch.	Tom on diivani taga peidus.
+Tom is very worried about Mary.	Tom on Mary pärast väga mures.
+Tom likes most of his teachers.	Tomile meeldivad enamus ta õpetajatest.
+Tom lives alone in a big house.	Tom elab üksinda suures majas.
+Tom overheard our conversation.	Tom kuulis meie vestlust pealt.
+Tom said no one else was there.	Tom ütles, et kedagi teist ei olnud seal.
+Tom said nobody else was there.	Tom ütles, et kedagi teist ei olnud seal.
+Tom shouldn't watch so much TV.	Tom ei peaks televiisorit nii palju vaatama.
+Tom wants to borrow some money.	Tom tahab laenata natuke raha.
+Tom was hiding behind the door.	Tom oli ukse taga peidus.
+Turn up the radio a little bit.	Keera raadio veidi valjemaks.
+What he said was far from true.	Tema öeldu oli kaugel tõest.
+Why is everything so difficult?	Miks kõik on nii keeruline?
+You know who Tom is, don't you?	Sa ju tead, kes on Tom?
+All of us live in the same dorm.	Me kõik elame samas ühiselamus.
+Are we going to eat out tonight?	Kas me sööme täna väljas?
+At that time, I was still awake.	Sel ajal olin ma veel ärkvel.
+Can I pay for the book by check?	Kas ma saan raamatu eest tšekiga maksta?
+Do you think Tom is lying to us?	Kas sa arvad, et Tom valetab meile?
+Earthquakes are common in Japan.	Maavärinad on Jaapanis tavalised.
+Every cloud has a silver lining.	Ei ole halba heata.
+He probably won't become famous.	Ta ei saa tõenäoliselt kuulsaks.
+He's three years older than her.	Ta on temast 3 aastat vanem.
+His horse jumped over the fence.	Tema hobune hüppas üle aia.
+How do I get to the bus station?	Kuidas ma saan bussijaama?
+How long do I have to stay here?	Kaua ma pean siin olema?
+How long have you been in Japan?	Kui kaua oled sa Jaapanis olnud?
+I am very sorry for what I said.	Mul on väga kahju selle üle, mis ma ütlesin.
+I ate a hamburger at McDonald's.	Ma sõin McDonaldsis burgerit.
+I bought this for my girlfriend.	Ma ostsin selle oma tüdrukule.
+I didn't know that he was there.	Ma ei teadnud, et ta seal oli.
+I enjoy long walks on the beach.	Ma naudin pikki jalutuskäike rannas.
+I have to get up early tomorrow.	Ma pean homme varakult üles tõusma.
+I left my dictionary downstairs.	Ma unustasin oma sõnastiku alumisele korrusele.
+I was writing her a love letter.	Kirjutasin talle armastuskirja.
+I will make up for it next time.	Ma teen selle järgmine kord heaks.
+I would never have guessed that.	Ma poleks seda kunagi arvanud.
+I wouldn't allow that to happen.	Ma ei lubaks sel juhtuda.
+I've changed my profile picture.	Ma olen oma profiilipilti vahetanud.
+If Tom calls, what should I say?	Kui Tom helistab, mis ma peaksin ütlema?
+It's already been taken care of.	See on juba korda aetud.
+My girlfriend is very beautiful.	Minu tüdruksõber on väga ilus.
+My girlfriend is very beautiful.	Mu tüdruksõber on väga ilus.
+Say hello to your father for me.	Tervita oma isa minu poolt.
+Something did happen, didn't it?	Midagi on juhtunud, jah?
+That will benefit the community.	See on kogukonnale kasulik.
+That word isn't used very often.	Seda sõna ei kasutata tihti.
+The buses run every ten minutes.	Bussid käivad iga kümne minuti tagant.
+The cat which you found is mine.	Kass, mis sa leidsid, on minu oma.
+The girl had a large red hat on.	Tüdruk kandis suurt punast mütsi.
+The money seems to have run out.	Tundub, et raha on otsa saanud.
+The war began three years later.	Sõda algas kolm aastat hiljem.
+There is an orange on the table.	Laual on apelsin.
+There's nobody else in the room.	Kedagi teist pole toas.
+This is a very beautiful flower.	See on väga ilus lill.
+This is definitely the best way.	See on kahtlemata parim viis.
+Tom did his homework by himself.	Tom tegi oma kodutöö iseseisvalt.
+Tom doesn't go to school by bus.	Tom ei käi koolis bussiga.
+Tom is allergic to strawberries.	Tomil on allergia maasikate vastu.
+Tom said no one else was hungry.	Tom ütles, et keegi teine ei olnud näljane.
+Tom said nobody else was hungry.	Tom ütles, et keegi teine ei olnud näljane.
+We only do what we've been told.	Me teeme ainult seda, mida kästakse.
+What time will dinner be served?	Mis kell õhtusööki serveeritakse?
+Who's hiding behind the curtain?	Kes on kardina taga peidus?
+Why should Tom want to see Mary?	Miks peaks Tom tahtma Mary näha?
+Would you tell Tom I dropped by?	Kas sa ütleksid Tomile, et ma astusin läbi?
+Yesterday my uncle bought a dog.	Mu onu ostis eile koera.
+You seem to have a crush on Tom.	Tundub, et Tom meeldib sulle.
+You're contradicting yourselves.	Te räägite iseendale vastu.
+An ambulance arrived immediately.	Kiirabi saabus koheselt.
+Did you already do your homework?	Kas sa tegid juba oma kodutööd?
+He was wearing a threadbare suit.	Ta kandis kulunud ülikonda.
+He's three years older than I am.	Ta on minust kolm aastat vanem.
+He's three years older than I am.	Ta on kolm aastat vanem kui mina.
+How often does it rain in Boston?	Kui tihti Bostonis sajab?
+I can hear a saxophone somewhere.	Ma kuulen kuskil saksofoni.
+I can't believe I just said that!	Ma ei suuda uskuda, et ma seda ütlesin!
+I cut my finger peeling potatoes.	Ma lõikasin kartuleid koorides sõrme.
+I don't think I love you anymore.	Ma arvan, et ma ei armasta sind enam.
+I know this is difficult for you.	Ma tean, et see on sinu jaoks raske.
+I love you more than you love me.	Ma armastan sind rohkem kui sina mind.
+I need to practice a little more.	Ma pean natuke veel harjutama.
+I want to become a good listener.	Ma tahan saada heaks kuulajaks.
+I want to study abroad next year.	Ma tahan järgmisel aastal välismaal õppida.
+I went there because I wanted to.	Ma läksin sinna, sest ma tahtsin minna.
+I've been hiding behind the barn.	Ma olen lauda taga peidus olnud.
+Is it always a sin to tell a lie?	Kas siis valetamine on ikka alati patt?
+Let me tell you what I did today.	Las ma räägin Sulle, mida ma täna tegin.
+My brother wants to study abroad.	Mu vend tahab välismaal õppida.
+My dad is stronger than your dad.	Minu isa on sinu isast tugevam.
+My dad is stronger than your dad.	Minu isa on tugevam kui sinu isa.
+No one else knows how to do that.	Keegi teine ei oska seda teha.
+Nobody else knows how to do that.	Keegi teine ei oska seda teha.
+One is new, and the other is old.	Üks on uus ja teine on vana.
+Open the door and let the dog in.	Tee uks lahti ja lase koer sisse.
+She picked flowers in the garden.	Ta korjas aias lilli.
+She went to the back of the line.	Ta läks rivi lõppu.
+Stamps aren't sold in this store.	Selles poes ei müüda marke.
+Take this medicine between meals.	Võta seda rohtu söögikordade vahel.
+The box was full of strawberries.	Karp oli maasikaid täis.
+The bus leaves every ten minutes.	Buss väljub iga kümne minuti tagant.
+The office was cleaned yesterday.	Kontorit koristati eile.
+The train leaves at nine o'clock.	Rong läheb kell üheksa välja.
+There's a dictionary on the desk.	Kirjutuslaual on sõnaraamat.
+There's something going on there.	Seal toimub midagi.
+This book contains many pictures.	Selles raamatus on palju pilte.
+This plant grew little by little.	See taim kasvas vähehaaval.
+Tom couldn't answer my questions.	Tom ei saanud mu küsimustele vastata.
+Tom couldn't answer my questions.	Tom ei suutnud mu küsimustele vastata.
+Tom doesn't speak French at home.	Tom ei räägi kodus prantsuse keelt.
+Tom has been waiting for a while.	Tom on mõnda aega oodanud.
+Tom is hiding behind the curtain.	Tom on kardina taga peidus.
+Tom lives alone in a large house.	Tom elab üksinda suures majas.
+Tom said no one else was injured.	Tom ütles, et keegi teine polnud vigastatud.
+Tom said no one had been injured.	Tom ütles, et mitte keegi ei saanud haavata.
+Tom said nobody else was injured.	Tom ütles, et keegi teine polnud vigastatud.
+Tom said nobody had been injured.	Tom ütles, et mitte keegi ei saanud haavata.
+Tom thinks he can save the world.	Tom arvab, et ta suudab maailma päästa.
+Tom wanted this to be a surprise.	Tom tahtis et see oleks üllatus.
+Tom wants to get a part-time job.	Tom tahab saada poole kohaga tööd.
+We have to get up early tomorrow.	Me peame homme varakult üles tõusma.
+We should've been more attentive.	Me peaksime pidanud olema rohkem tähelepanelikumad.
+We're taking Tom to the hospital.	Me viime Tomi haiglasse.
+What else do you know about that?	Mida sa sellest veel tead?
+What exactly is Tom referring to?	Millest Tom täpselt räägib?
+What train you are going to take?	Millise rongiga sa lähed?
+What's your favorite soccer team?	Mis on su lemmik jalgpallimeeskond?
+When was this university founded?	Millal see ülikool asutati?
+Which sport do you like the most?	Milline sport sulle kõige rohkem meeldib?
+Why didn't you apply for the job?	Miks sa sellele tööle ei kandideerinud?
+Will you sing me a Beatles' song?	Kas sa laulaks mulle ühe biitlite laulu?
+You can't come to Boston with me.	Sa ei saa minuga Bostonisse tulla.
+You don't need to worry about me.	Sa ei pea minu pärast muretsema.
+Are we expecting any other guests?	Kas me ootame veel külalisi?
+Are you going to buy a dictionary?	Kas sa kavatsed sõnastiku osta?
+Did you give Tom something to eat?	Kas sa oled Tomile midagi süüa andnud?
+Did you see the eclipse yesterday?	Kas sa nägid eilset varjutust?
+Do you have an English dictionary?	Kas teil on inglise sõnastik?
+Every door in the house is locked.	Maja kõik uksed on lukus.
+He is two inches taller than I am.	Ta on minust kaks tolli pikem.
+He went to the hospital yesterday.	Ta läks eile haiglasse.
+How are you and Tom getting along?	Kuidas te Tomiga läbi saate?
+I didn't know you were interested.	Ma ei teadnud, et sa huvitatud olid.
+I didn't take an umbrella with me.	Ma ei võtnud vihmavarju kaasa.
+I don't have time to take a break.	Mul pole aega puhkuseks.
+I don't know what to do about him.	Ma ei tea, mida temaga ette võtta.
+I have to help Tom clean his room.	Ma pean aitama Tomil oma tuba koristada.
+I heard Tom singing in the shower.	Ma kuulsin Tomi duši all laulmas.
+I never imagined meeting you here.	Ma ei arvanud, et ma sind siin näen.
+I really have nothing else to say.	Mul ei ole midagi muud lisada.
+I think that I should go home now.	Ma arvan, et ma peaksin nüüd koju minema.
+I think we should all go together.	Ma arvan, et me peaks kõik koos minema.
+I think we should be getting back.	Ma arvan, et me peaks tagasi minema hakkama.
+I think we should call the police.	Ma arvan, et me peaks politseisse helistama.
+I was looking for the right words.	Ma otsisin õigeid sõnu.
+I'd like to sleep a little longer.	Mulle meeldiks natuke veel magada.
+I've never told anyone about this.	Ma pole sellest kunagi kellelegi rääkinud.
+Is there a youth hostel near here?	Kas siin lähedal on noorte hosteli?
+It's hard to find work these days.	Tänapäeval on raske tööd leida.
+Look what I found in our basement.	Vaata, mis ma meie keldrist leidsin.
+Maybe I gave Tom the wrong advice.	Võib-olla andsin ma Tomile vale nõu.
+My younger brother is watching TV.	Mu noorem vend vaatab televiisorit.
+October is still three months off.	Oktoober on alles kolme kuu pärast.
+Paper was invented by the Chinese.	Paber leiutati hiinlaste poolt.
+Rome was the capital of the world.	Rooma oli maailma pealinn.
+Sorry, I didn't mean to scare you.	Vabandust, ma ei tahtnud sind ehmatada.
+That man is definitely a bachelor.	See mees on kindlasti poissmees.
+That's a secret. I can't tell you.	See on saladus. Ma ei saa sulle rääkida.
+The bus stop is across the street.	Bussipeatus on üle tänava.
+There is a bus stop down the road.	Mööda teed edasi on bussipeatus.
+There is a dictionary on the desk.	Kirjutuslaual on sõnaraamat.
+This house is full of spider webs.	See maja on ämblikevõrke täis.
+This pair of shoes doesn't fit me.	Need kingad ei mahu mulle jalga.
+Tom doesn't know his own strength.	Tom ei tea oma tugevust.
+Tom explained the situation to me.	Tom selgitas mulle olukorda.
+Tom forged his mother's signature.	Tom võltsis oma ema allkirja.
+Tom is giving you a second chance.	Tom annab sulle teise võimaluse.
+Tom is three months older than me.	Tom on minust kolm kuud vanem.
+Tom pretended to be Mary's friend.	Tom teeskles, et ta on Mary sõber.
+Tom said no one else was laughing.	Tom ütles, et keegi teine ei naernud.
+Tom said nobody else was laughing.	Tom ütles, et keegi teine ei naernud.
+Tom wants to say something to you.	Tom tahab sulle midagi öelda.
+Tom was hiding behind the curtain.	Tom oli kardina taga peidus.
+We have a freezer in the basement.	Meil on keldris sügavkülmik.
+We're going to stay at home today.	Me jääme täna koju.
+What would Tom do if he found out?	Mida Tom teeks, kui ta saaks teada?
+Who's the woman in the brown coat?	Kes on see naine pruunis mantlis?
+Why didn't you eat your chocolate?	Miks sa oma šokolaadi ära ei söönud?
+You have reached your destination.	Jõudsid oma sihtkohta.
+You owe Tom three hundred dollars.	Te olete Tomile kolmsada dollarit võlgu.
+You owe Tom three hundred dollars.	Sa oled Tomile kolmsada dollarit võlgu.
+A cat came out from under the desk.	Kass tuli kirjutuslaua alt.
+Did you have a good time yesterday?	Kas sul oli eile tore?
+Everyone is smiling in the picture.	Kõik naeratavad pildil.
+He abandoned his wife and children.	Ta hülgas oma naise ja lapsed.
+He has more than five dictionaries.	Tal on rohkem kui viis sõnaraamatut.
+He's three years older than she is.	Ta on temast 3 aastat vanem.
+I am married and have two children.	Ma olen abielus ja mul on kaks last.
+I am tired and I want to go to bed.	Ma olen väsinud ja ma tahan magada.
+I can't decide if I'm happy or sad.	Ma ei suuda otsustada, kas ma olen õnnelik või kurb.
+I don't even have time to be tired.	Mul ei ole isegi aega, et väsinud olla.
+I don't know why you're so worried.	Ma ei saa aru, miks sa nii mures oled.
+I invited my neighbor to breakfast.	Kutsusin oma naabri hommikusöögile.
+I need to finish reading this book.	Mul pean selle raamatu lõpuni lugema.
+I think I have a theory about that.	Mul on selle kohta vist teooria.
+I think I have a theory about that.	Arvan, et mul on selle kohta teooria.
+I think that we should go home now.	Ma arvan, et me peaksime nüüd koju minema.
+I wanted to talk to you about that.	Tahtsin sinuga sellest rääkida.
+I was confused about that at first.	See ajas mind alguses segadusse.
+I was young and I needed the money.	Ma olin noor ja mul oli raha vaja.
+I'm Irish, but I don't speak Irish.	Ma olen iirlane, aga ma ei räägi iiri keelt.
+I'm trying to tidy things up a bit.	Ma üritan natuke koristada.
+Is Tom left-handed or right-handed?	Kas Tom on vasaku- või paremakäeline?
+It's hard to find a job these days.	Tänapäeval on raske tööd leida.
+My mother's friends are my friends.	Minu ema sõbrad on minu sõbrad.
+Please use the bathroom downstairs.	Palun kasutage allkorruse vannituba.
+The lion is the king of the jungle.	Lõvi on džungli kuningas.
+The only free seat was next to Tom.	Ainus vaba iste oli Tomi kõrval.
+The whole family is out for a walk.	Terve pere on väljas jalutamas.
+Tom built a treehouse for his kids.	Tom ehitas oma lastele puuonni.
+Tom has a workshop in his basement.	Tomil on keldris töökoda.
+Tom has known Mary since childhood.	Tom tunneb Maryt lapsepõlvest saadik.
+Tom put salt in his tea by mistake.	Tom pani kogemata oma tee sisse soola.
+Tom threw his son out of the house.	Tom viskas oma poja majast välja.
+Tom wants to drink a cup of coffee.	Tom tahab juua tassike kohvi.
+Tom was standing near the entrance.	Tom seisis sissepääsu lähedal.
+We'll have to postpone the meeting.	Me peame koosoleku edasi lükkama.
+When did you start learning French?	Millal sa prantsuse keelt õppima hakkasid?
+When was the last time you ate out?	Millal sa viimati käisid väljas söömas?
+Where's the nearest subway station?	Kus on lähim metroojaam?
+Although it was raining, I went out.	Kuigi sadas, läksin ma välja.
+Are you coming to the store with me?	Kas sa tuled minuga poodi?
+Are you for or against the proposal?	Kas sa oled selle ettepaneku poolt või vastu?
+Are you for or against the proposal?	Kas te olete selle ettepaneku poolt või vastu?
+Do you know which suitcase is Tom's?	Kas sa tead milline kohver on Tomi oma?
+Everybody in the picture is smiling.	Kõik naeratavad pildil.
+He came out from behind the curtain.	Ta tuli kardina tagant välja.
+He finally broke up with that woman.	Ta läks lõpuks lahku sellest naisest.
+He is the black sheep of the family.	Ta on pere must lammas.
+He would be the last to deceive you.	Ta oleks viimane inimene, kes sind alt veaks.
+How long have you two been together?	Kaua te olete koos olnud?
+How many cars have you owned so far?	Kui palju autosid sul on olnud?
+I didn't watch television yesterday.	Ma ei vaadanud eile televiisorit.
+I saw a really good movie yesterday.	Ma vaatasin eile üht väga head filmi.
+I see that you are really very busy.	Ma näen et sa oled tõepoolest väga hõivatud.
+I'm glad that Tom agreed to do that.	Mul on hea meel, et Tom nõustus seda tegema.
+I'm happy you two are friends again.	Mul on hea meel, et te kaks jälle sõbrad olete.
+It's a great way to meet new people.	See on hea viis uute inimestega kohtumiseks.
+Maybe nobody else saw what happened.	Võib-olla keegi teine ei näinud seda, mis toimus.
+My brother lives in a small village.	Mu vend elab väikeses külas.
+Put the package on top of the table.	Pane pakk lauale.
+Take the medicine three times a day.	Võtke rohtu kolm korda päevas.
+Thank you very much for your letter.	Tänan väga sinu kirja eest.
+Thank you very much for your letter.	Tänan väga teie kirja eest.
+The accident happened two hours ago.	Õnnetus juhtus kaks tundi tagasi.
+The new teacher is in the classroom.	Uus õpetaja on klassiruumis.
+Tom and Mary went on a camping trip.	Tom ja Mary läksid matkama.
+Tom kicked his son out of the house.	Tom viskas oma poja majast välja.
+Tom may talk to Mary if he wants to.	Tom võib Mariga rääkida, kui ta seda soovib.
+Tom said no one else could help him.	Tom ütles, et keegi teine ei saanud teda aidata.
+Tom said no one else was on the bus.	Tom ütles, et kedagi teist ei olnud bussis.
+Tom said nobody else could help him.	Tom ütles, et keegi teine ei saanud teda aidata.
+Tom said nobody else was on the bus.	Tom ütles, et kedagi teist ei olnud bussis.
+Tom said that no one else was there.	Tom ütles, et kedagi teist ei olnud seal.
+Tom said that nobody else was there.	Tom ütles, et kedagi teist ei olnud seal.
+Tom told me that Mary was on a diet.	Tom ütles mulle, et Mary on dieedil.
+We managed to swim across the river.	Ta suutis ujuda üle jõe.
+Where is the nearest subway station?	Kus on lähim metroojaam?
+You don't have to thank me for that.	Sa ei pea mind selle eest tänama.
+"Does he like music?" "Yes, he does."	"Kas talle meeldib muusika?" "Jah, talle meeldib."
+All their secrets have been revealed.	Kõik nende saladused on paljastatud.
+Don't do two things at the same time.	Ära tee kahte asja ühel ajal.
+Don't try to do two things at a time.	Ära püüa teha kahte asja korraga
+First, let's talk about what Tom did.	Esiteks räägime sellest, mida Tom tegi.
+He has a basket full of strawberries.	Tal on korvitäis maasikaid.
+He has his reasons for staying there.	Tal on omad põhjused siiajäämiseks.
+He would have succeeded had he tried.	Tal oleks see õnnestunud, oleks ta vaid proovinud.
+I ate lunch two and a half hours ago.	Ma sõin lõunat kaks ja pool tundi tagasi.
+I have nothing to do with the matter.	Mul pole sellega midagi pistmist.
+I'd like to introduce you to my wife.	Ma tahaksin sind oma naisele tutvustada.
+I'll give you a piece of good advice.	Ma annan sulle ühe hea nõuande.
+I'm always forgetting people's names.	Alatasa unustan ma inimeste nimed ära.
+My father takes a walk every morning.	Mu isa käib igal hommikul jalutamas.
+My grandfather died when I was a boy.	Mu vanaisa suri kui ma olin väike poiss.
+Please hurry. I don't have all night.	Palun kiirusta. Mul pole kogu öö aega.
+Please say hello to your wife for me.	Palun tervita oma naist minu poolt.
+Someone is hiding behind the curtain.	Keegi on kardina taga peidus.
+The bus leaves every fifteen minutes.	Buss väljub iga viieteistkümne minuti tagant.
+The hero died at the end of the book.	Kangelane suri raamatu lõpus.
+The students disobeyed their teacher.	Õpilased ei kuulanud oma õpetaja sõna.
+There are fifty members in this club.	Selles klubis on viiskümmend liiget.
+Tom doesn't like the way Mary laughs.	Tomile ei meeldi, kuidas Mary naerab.
+Tom fainted on the school playground.	Tom minestas kooli mänguväljakul.
+Tom grows strawberries in his garden.	Tom kasvatab maasikaid oma aias.
+Tom likes you more than anybody else.	Sa meeldid Tomile rohkem kui keegi teine.
+Tom planted some flowers in his yard.	Tom istutas oma aeda lilli.
+Tom said that no one else was hungry.	Tom ütles, et keegi teine ei olnud näljane.
+Tom said that nobody else was hungry.	Tom ütles, et keegi teine ei olnud näljane.
+Tom talked with his friends about it.	Tom rääkis sellest oma sõpradega.
+Tom used to be the best swimmer here.	Tom oli siin kõige parem ujuja.
+Tom wants to open his own restaurant.	Tom tahab avada oma enda restorani.
+What time will you have to go to bed?	Mis kell sa voodisse pead minema?
+You know how important you are to me.	Sa tead, kui oluline sa minu jaoks oled.
+He gets a haircut three times a month.	Ta käib juuksuris kolm korda kuus.
+How old is the oldest person you know?	Kui vana on kõige vanem inimene, keda sa tead?
+I don't have to get up early tomorrow.	Ma ei pea homme varakult üles tõusma.
+I don't think that I love you anymore.	Ma arvan, et ma ei armasta sind enam.
+I have a fish bone stuck in my throat.	Mul on kalaluu kurgus kinni.
+I have no money to buy the dictionary.	Selle sõnastiku ostmiseks mul tõesti raha pole.
+I never thought it could happen to me.	Ma ei arvanud, et see minuga juhtuda võib.
+I want to go home as soon as possible.	Ma tahan kiiremini koju minna.
+I would like to be an English teacher.	Tahaksin saada inglise keele õpetajaks.
+I'm going to take an umbrella with me.	Ma võtan vihmavarju kaasa.
+Is that what Tom has been telling you?	Kas see on see, mida Tom on sulle rääkinud?
+No one else at the party spoke French.	Keegi teine peol ei rääkinud prantsuse keelt.
+Nobody else at the party spoke French.	Keegi teine peol ei rääkinud prantsuse keelt.
+Somebody is hiding behind the curtain.	Keegi on kardina taga peidus.
+Someone is waiting for you downstairs.	Keegi ootab sind allkorrusel.
+The office is being cleaned right now.	Kontorit koristatakse praegu.
+Tom didn't watch television yesterday.	Tom ei vaadanud eile televiisorit.
+Tom said no one else tried doing that.	Tom ütles, et keegi teine ei proovinud seda teha.
+Tom said no one else tried to do that.	Tom ütles, et keegi teine ei proovinud seda teha.
+Tom said nobody else tried doing that.	Tom ütles, et keegi teine ei proovinud seda teha.
+Tom said nobody else tried to do that.	Tom ütles, et keegi teine ei proovinud seda teha.
+Tom said that no one else was injured.	Tom ütles, et keegi teine polnud vigastatud.
+Tom said that no one had been injured.	Tom ütles, et mitte keegi ei saanud haavata.
+Tom said that nobody else was injured.	Tom ütles, et keegi teine polnud vigastatud.
+Tom said that nobody had been injured.	Tom ütles, et mitte keegi ei saanud haavata.
+What are we having for dinner tonight?	Mida me õhtuks sööme?
+What more do we need to make us happy?	Mida me veel vajame õnnelik olemiseks?
+What would the world be without women?	Mis oleks maailm ilma naisteta?
+"Where do you live?" "I live in Tokyo."	„Kus sa elad?“ „Ma elan Tokyos.“
+Did you feel the earthquake last night?	Kas sa tundsid eile õhtust maavärinat?
+Excuse me, do you know what time it is?	Vabandage mind, aga kas te teate, mis kell on?
+Her house is at the foot of a mountain.	Tema maja on mäe jalamil.
+His daughter has become a pretty woman.	Tema tütrest on saanud kena naine.
+How do you know that he's already dead?	Kuidas sa tead, et ta on juba surnud?
+I fell down the stairs and hit my head.	Kukkusin trepist alla ja lõin pea ära.
+I kept walking until my feet got tired.	Ma jätkasin kõndimist, kuniks mu jalad väsisid ära.
+I often study while listening to music.	Ma õpin tihti muusika taustal.
+I really enjoy helping disabled people.	Ma naudin inimeste aitamist, kel on puue.
+I thought that Tom was studying French.	Ma arvasin, et Tom õpib prantsuse keelt.
+I'll stay until the day after tomorrow.	Ma jään ülehomseni.
+It is impossible to live without water.	Ilma veeta ei ole võimalik elada.
+January is the first month of the year.	Jaanuar on aasta esimene kuu.
+May I see your collection of old books?	Kas ma võin su vanade raamatute kogu vaadata?
+My mom doesn't speak English very well.	Minu ema ei räägi inglise keelt väga hästi.
+My older brother wants to study abroad.	Mu vanem vend tahab välismaal õppida.
+Nobody else was involved in the murder.	Keegi teine polnud mõrvaga seotud.
+Our guest is waiting for us downstairs.	Meie külaline ootab meid allkorrusel.
+Some children are playing on the grass.	Mõned lapsed mängivad murul.
+That would be a waste of their talents.	See oleks nende ande raiskamine.
+The bathroom is at the end of the hall.	Vannituba on koridori lõpus.
+The evidence doesn't support the claim.	Asitõendid ei toeta väidet.
+The game was postponed until next week.	Mäng lükkus järgmisesse nädalasse.
+The hotel is at the foot of a mountain.	Hotell on mäe jalamil.
+There are plenty of guests in the room.	Toas on piisavalt külalisi.
+There's a pool table in Tom's basement.	Tomi keldris on piljardilaud.
+Tom said no one else wanted to do that.	Tom ütles, et keegi teine ei tahtnud seda teha.
+Tom said nobody else wanted to do that.	Tom ütles, et keegi teine ei tahtnud seda teha.
+Tom said that no one else was laughing.	Tom ütles, et keegi teine ei naernud.
+Tom said that nobody else was laughing.	Tom ütles, et keegi teine ei naernud.
+Tom told me his mother never loved him.	Tom ütles mulle, et tema ema ei armastanud teda kunagi.
+Tom would like to live in this country.	Tom tahaks selles riigis elada.
+What's your favorite Harry Potter book?	Mis on su lemmik Harry Pottery raamat?
+Whose girlfriend are you talking about?	Kelle tüdruksõbrast sa räägid?
+China is twenty times as large as Japan.	Hiina on Jaapanist kakskümmend korda suurem.
+Don't be afraid to trust your intuition.	Ära karda oma sisetunnet usaldada.
+He lost his parents in a plane accident.	Ta kaotas oma vanemad lennuõnnetuses.
+He was standing at the side of the road.	Ta seisis tee ääres.
+I know you're hiding behind the curtain.	Ma tean, et sa oled kardina taga peidus.
+I'm happy to see so many friendly faces.	Mul on hea meel näha niivõrd palju sõbralikke nägusid.
+It'd be better if you didn't come today.	Oleks olnud parem, kui sa poleks täna tulnud.
+My mom wants me to study in Switzerland.	Mu ema tahab, et ma Šveitsis õpiksin.
+Nobody else believes Tom is still alive.	Keegi teine ei usu, et Tom on veel elus.
+Please come to see me from time to time.	Palun tule mind aeg-ajalt vaatama.
+Some people think that gambling's a sin.	Mõned inimesed arvavad, et hasartmängude mängimine on patt.
+The basket was filled with strawberries.	Korv oli maasikatega täidetud.
+This is the longest bridge in the world.	See on pikim sild maailmas.
+Tom claims he shot Mary in self-defense.	Tom väidab, et ta tulistas Mary't enesekaitseks.
+Tom pulled a box out from under the bed.	Tom tõmbas voodi alt kasti välja.
+Tom pulled out a box from under the bed.	Tom tõmbas voodi alt kasti välja.
+Tom wants to borrow some money from you.	Tom tahab sinult laenata natuke raha.
+Tom was surprised no one else was there.	Tom oli üllatunud, et kedagi teist ei olnud seal.
+Tom was surprised nobody else was there.	Tom oli üllatunud, et kedagi teist ei olnud seal.
+You don't have to get up early tomorrow.	Sa ei pea homme varakult üles tõusma.
+You should study in an efficient manner.	Sa pead õppima efektiivsel moel.
+At first, I mistook you for your brother.	Alguses ma ajasin sinu su vennaga segamini.
+Fear of death is worse than death itself.	Hirm surma ees on hullem kui surm ise.
+He plays golf two or three times a month.	Ta mängib golfi kaks või kolm korda kuus.
+Her house is at the foot of the mountain.	Tema maja on mäe jalamil.
+I can speak Chinese, but I can't read it.	Räägin küll hiina keelt, aga ei oska seda lugeda.
+I don't have anyone who'd travel with me.	Mul pole kedagi, kes minuga reisile tuleks.
+I failed the exam because I didn't study.	Ma kukkusin eksamil läbi, sest ma ei õppinud.
+I hear Tom is an excellent tennis player.	Ma kuulsin, et Tom on suurepärane tennisemängija.
+I watched television instead of studying.	Ma vaatasin telekat õppimise asemel.
+I went to the store after work yesterday.	Ma läksin eile pärast tööd poodi.
+My mother is making a cake for my father.	Mu ema teeb isale torti.
+Strawberries are expensive in the winter.	Maasikad on talvel kallid.
+That adds a new dimension to our problem.	See lisab uue dimensiooni meie probleemile.
+That's why no one wants to work with you.	Seepärast ei tahagi keegi sinuga koos töötada.
+The group tried to solve social problems.	Grupp püüdis lahendada sotsiaalseid probleeme.
+The group tried to solve social problems.	Grupp püüdis lahendada sotsiaalprobleeme.
+The moon came out from behind the clouds.	Kuu tuli pilvede tagant välja.
+There isn't much milk left in the bottle.	Pudelisse ei ole palju piima järele jäänud.
+Tom and Mary are planning to get married.	Tom ja Mari plaanivad abielluda.
+Tom said that no one else could help him.	Tom ütles, et keegi teine ei saanud teda aidata.
+Tom said that no one else was on the bus.	Tom ütles, et kedagi teist ei olnud bussis.
+Tom said that nobody else could help him.	Tom ütles, et keegi teine ei saanud teda aidata.
+Tom said that nobody else was on the bus.	Tom ütles, et kedagi teist ei olnud bussis.
+Tom wants to know more about Mary's past.	Tom tahab teada rohkem Mari minevikust.
+Tom wants to see you as soon as possible.	Tom tahab sind näha nii ruttu kui võimalik.
+A friend is hard to find and easy to lose.	Sõpra on raske leida ja kerge kaotada.
+At first glance, the question seemed easy.	Esimese silmapilgul paistis küsimus kerge olevat.
+Everyone wants to meet you. You're famous!	Kõik tahavad sinuga kohtuda. Sa oled kuulus!
+He works hard so that he can study abroad.	Ta töötab kõvasti, et välismaal õppida.
+I spent three weeks in Boston last summer.	Ma veetsin eelmisel suvel kolm nädalat Bostonis.
+I would rather starve than work under him.	Enne suren nälga, kui töötan tema alluvuses.
+I'm having lunch with my sister right now.	Ma söön praegu oma õega lõunat.
+My French teacher is the same age as I am.	Minu prantsuse keele õpetaja on sama vana kui mina.
+The lion opened its huge mouth and roared.	Lõvi avas oma hiiglasliku suu ja möirgas.
+The teacher encouraged me to study abroad.	Õpetaja julgustas mind välismaal õppima.
+The young woman under that tree looks sad.	Noor naine selle puu all näib olevat kurb.
+Tom doesn't have to get up early tomorrow.	Tom ei pea homme varakult üles tõusma.
+Tom has been a prison guard for ten years.	Tom on kümme aastat vangivalvur olnud.
+Tom has lived in Boston since he was born.	Toomas on sünnist saati elanud Bostonis.
+Tom hopes you're able to attend the party.	Tom loodab, et sa saad peole tulla.
+Tom thought Mary didn't understand French.	Tom arvas, et Maria ei saa prantsuse keelest aru.
+Is there anything special I can do for you?	Kas on midagi erilist, mida ma sinu heaks teha saaksin?
+It's not as cold today as it was yesterday.	Täna ei ole nii külm kui eile.
+She drank two glasses of wine at the party.	Ta jõi peol kaks klaasi veini.
+Should I make something special for dinner?	Kas ma peaksin õhtusöögiks midagi erilist valmistama?
+That song was very popular three years ago.	See laul oli 3 aastat tagasi väga populaarne.
+That watch is less expensive than this one.	See käekell ei ole nii kallis kui see.
+The actor came out from behind the curtain.	Näitleja tuli kardina tagant.
+There are many benefits to being beautiful.	Ilus olemisel on palju häid külgi.
+There's a little bit of water in the glass.	Klaasis on natuke vett.
+They rented the upstairs room to a student.	Nad üürisid ülakorruse toa tudengile.
+This sweater costs more than fifty dollars.	See sviiter maksab üle viiekümne dollari.
+Tom had expected something quite different.	Tom oli oodanud midagi päris teistsugust.
+Tom said that no one else tried doing that.	Tom ütles, et keegi teine ei proovinud seda teha.
+Tom said that no one else tried to do that.	Tom ütles, et keegi teine ei proovinud seda teha.
+Tom said that nobody else tried doing that.	Tom ütles, et keegi teine ei proovinud seda teha.
+Tom said that nobody else tried to do that.	Tom ütles, et keegi teine ei proovinud seda teha.
+Tom shares an apartment with three friends.	Tom jagab korterit kolme sõbraga.
+You need to do that as quickly as possible.	Sa pead seda tegema nii kiiresti kui võimalik.
+How long does it take to get to the station?	Kui kaua võtab aega jaama jõudmine?
+I don't want to work under these conditions.	Ma ei taha töötada nendes tingimustes.
+I had a really interesting dream last night.	Ma nägin eile öösel hästi huvitavat unenägu.
+It's one of the largest cities in the world.	See on üks maailma suurimaid linnu.
+Let's wait for a while and see what happens.	Ootame mõnda aega ja vaatame, mis juhtub.
+Lithuania is a member of the European Union.	Leedu on Euroopa Liidu liige.
+Somebody told me that I shouldn't trust you.	Keegi ütles mulle, et ma ei peaks sind usaldama.
+There are fifty states in the United States.	Ameerika Ühendriikides on viiskümmend osariiki.
+Tom claimed that he came from a rich family.	Tom väitis, et ta on rikkast perekonnast pärit.
+Tom said that no one else wanted to do that.	Tom ütles, et keegi teine ei tahtnud seda teha.
+Tom said that nobody else wanted to do that.	Tom ütles, et keegi teine ei tahtnud seda teha.
+Tom told me that his mother never loved him.	Tom ütles mulle, et tema ema ei armastanud teda kunagi.
+Tom wants to see if Mary likes his new song.	Tom tahab teada, kas Marile meeldib ta uus laul.
+Try on this new suit to see if it fits well.	Proovi seda uut ülikonda selga, siis näeme, kas see istub.
+You're not the first person to tell me that.	Sa ei ole esimene inimene, kes mulle seda ütleb.
+How many calories are in 100 grams of butter?	Kui palju kaloreid on sajas grammis võis?
+I just wanted to know if you were in trouble.	Ma tahtsin ainult teada kas sa oled hädas.
+I know that you're hiding behind the curtain.	Ma tean, et sa oled kardina taga peidus.
+I want to emphasize this point in particular.	Tahan eriti rõhutada just seda punkti.
+Manchester United won the match, four to two.	Manchester United võitis matši seisuga neli kahele.
+She put all her jewels into a little red box.	Ta pani kõik oma juveelid väikesesse punasesse karpi.
+The whale is the largest animal on the earth.	Vaal on kõige suurem loom maailmas.
+There was a tower on the top of the mountain.	Torn oli mäe otsas.
+There was nobody else in the room except Tom.	Peale Tomi ei olnud seal toas kedagi.
+Things don't always turn out the way we plan.	Asjad ei lähe alati nii, nagu me kavandame.
+Tom doesn't get along with his father-in-law.	Tom ei saa oma äiaga läbi.
+Tom was surprised that no one else was there.	Tom oli üllatunud, et kedagi teist ei olnud seal.
+Tom was surprised that nobody else was there.	Tom oli üllatunud, et kedagi teist ei olnud seal.
+Tom won't call back until the meeting's over.	Tom ei helista enne tagasi, kui koosolek läbi pole.
+We're planning to spend our honeymoon abroad.	Me plaanime oma mesinädalad välismaal veeta.
+Who's the man at the other side of the table?	Kes on see mees teisel pool lauda?
+You think you know me pretty well, don't you?	Sa arvad, et tead mind päris hästi, eks?
+I asked her to make four copies of the letter.	Ma palusin tal kirjast neli koopiat teha.
+I don't want to cause anyone any more trouble.	Ma ei taha rohkem probleeme tekitada.
+I understand you were the last one to see Tom.	Nagu ma aru saan olid sina viimane, kes Tomi nägi.
+It's quite clear to me that this is the truth.	Mulle on üpris selge, et see on tõde.
+Maybe Tom didn't do what everyone says he did.	Võib-olla Tom ei teinud seda, mida kõik ütlevad, et ta tegi.
+This river sometimes overflows after the thaw.	Vahel peale sulasid ujutab see jõgi üle.
+Tom didn't want Mary to call him all the time.	Tom ei tahtnud, et Mari talle pidevalt helistaks.
+Tom is tired of people telling him what to do.	Tomil on kõrini inimestest, kes ütlevad talle, mida ta peab tegema.
+Tom is tired of people telling him what to do.	Tomil on kõrini, et inimesed ütlevad talle, mida ta peab tegema.
+Tom wrote something on the back of the letter.	Tom kirjutas midagi kirja tagaküljele.
+What is the strangest thing you've ever eaten?	Mis on kõige kummalisem asi, mida sa kunagi söönud oled?
+Why do you care so much about what Tom thinks?	Miks sind Tomi arvamus nii palju huvitab?
+A lunar month is shorter than a calendar month.	Kuutsükkel on kalendrikuust lühem.
+Does this letter have to be written in English?	Kas see kiri peab olema kirjutatud inglise keeles?
+Don't forget to return the book to the library.	Ära unusta raamatut raamatukokku tagastada.
+Don't forget to return the book to the library.	Ärge unustage raamatut raamatukokku tagastada.
+During the day, we work, and at night, we rest.	Päeval me töötame ja öösel me puhkame.
+He had a serious illness in the autumn of 1823.	Tal oli raskes haigus 1823 aasta sügisel.
+I don't believe that black cats cause bad luck.	Ma ei usu, et mustad kassid toovad halba õnne.
+I don't think that you understood the question.	Ma arvan, et sa ei saanud küsimusest aru.
+I have to go home and get a good night's sleep.	Ma pean minema koju ja end välja magama.
+That movie wasn't as interesting as I expected.	See film ei olnud nii huvitav kui ma ootasin.
+There's a post office at the end of the street.	Postkontor on tänava lõpus.
+Tom is the only one here that can speak French.	Tom on siin ainuke, kes prantsuse keelt räägib.
+Tom knows what to say to make Mary forgive him.	Tom teab, mida öelda, et Mary talle andestaks.
+Tom thought that Mary didn't understand French.	Tom arvas, et Maria ei saa prantsuse keelest aru.
+Tom used to be the fastest swimmer on our team.	Tom oli meie tiimi kõige kiirem ujuja.
+Tom wanted to eat a couple of slices of salami.	Tom tahtis paar viilu salaamit süüa.
+We were just talking about you when you called.	Siis kui sa helistasid olime me just sinust rääkimas.
+What's your favorite dessert with strawberries?	Milline on su lemmik magustoit maasikatega?
+When we started out, we only had six employees.	Kui me alustasime, oli meil ainult kuus töötajat.
+Why should I say sorry when it wasn't my fault?	Miks ma peaksin vabandust paluma, kui see polnud minu süü?
+"Do you like strawberries?" "Sure. I love them."	"Kas sulle meeldivad maasikad?" "Muidugi. Ma armastan neid."
+A woman whose husband is dead is called a widow.	Naist, kelle mees on surnud, kutsutakse leseks.
+How old were your kids when you moved to Boston?	Kui vanad olid su lapsed, kui te Bostonisse kolisite?
+I can't believe that the pizza still isn't done.	Ma ei suuda uskuda, et pitsa pole ikka veel valmis.
+I don't have any other hobbies besides football.	Mul ei ole teisi hobisid peale jalgpalli.
+I want to eat some Korean food that isn't spicy.	Ma tahaksin süüa korea toitu, mis poleks vürtsikas.
+I want to go to the store Tom went to yesterday.	Ma tahan minna poodi, kus Tom eile käis.
+If Tom finds out I told you this, he'll kill me.	Tom lööb mu maha, kui ta teada saab, et ma sulle sellest rääkisin.
+Tom doesn't often do his homework before dinner.	Tom ei tee tihti oma kodutöid enne õhtusööki.
+Tom has been living abroad for a very long time.	Tom on väga kaua välismaal elanud.
+Why would Tom want to go do something like that?	Miks peaks Tom tahtma midagi sellist teha?
+Everyone says that he looks just like his father.	Kõik ütlevad, et ta näeb välja nagu ta isa.
+It looks like the second floor is a banquet hall.	Tundub, et teine korrus on banketisaal.
+My sunglasses were stolen at the beach yesterday.	Mu päikeseprillid varastati eile rannas ära.
+The period is missing at the end of the sentence.	Lause lõpus puudub punkt.
+This flower is the most beautiful of all flowers.	See lill on kauneim kõigist lilledest.
+Tom grabbed Mary's right hand with his left hand.	Tom haaras oma vasaku käega Mary parema.
+Tom isn't sure what he wants to do with his life.	Tom pole kindel, mida ta oma eluga peale tahab hakata.
+What language do they speak in the United States?	Mis keelt Ameerika Ühendriikides räägitakse?
+Which do you like better, white wine or red wine?	Kumba sa eelistad, kas valget või punast veini?
+Why are you sorry for something you haven't done?	Miks sa palud vabandust millegi pärast, mida sa teinud ei ole?
+How long does it take to get to the train station?	Kui kaua võtab aega rongijaama jõudmine?
+I can't remember the last time I saw Tom so happy.	Ma ei mäleta, millal ma Tomi viimati nii õnnelikuna nägin.
+This was too difficult a problem for her to solve.	See oli liiga raske probleem talle lahendada.
+You seem to have lost sight of original objective.	Tundub, et sa oled algse eesmärgi unustanud.
+Remain in your seats with your seat belts fastened.	Palun jääge oma kohtadele, turvarihmad kinni.
+The judge sentenced him to one year's imprisonment.	Kohtunik mõistis ta aastaks ajaks vangi.
+He is such a bad person that everybody dislikes him.	Ta on niivõrd halb inimene, et ta ei meeldi kellelegi.
+He was wrong in thinking that she'd come to see him.	Ta eksis arvates, et ta tuli teda vaatama.
+I don't have a lot of time. Can you take care of it?	Mul pole palju aega. Kas sa saad selle korda ajada?
+I wish you were wrong, but I know that you're right.	Soovin et sa eksiks, aga tean et sul on õigus.
+I'd explain it to you, but your brain would explode.	Ma seletaksin seda sulle, aga su aju plahvataks.
+It is clear that no one has anything new to suggest.	On selge, et kellelgi ei ole mingeid uusi ettepanekuid.
+Nobody seems to have paid attention to what he said.	Tundub, et keegi ei pööranud tähelepanu sellele, mida ta ütles.
+Please say hello to her if you see her at the party.	Palun ütle talle tere, kui sa näed teda peol.
+That's an interesting proposal. I'll think about it.	See on huvitav pakkumine. Ma mõtlen selle peale.
+I know I left it somewhere down here in the basement.	Ma tean, et ma jätsin selle kuhugi siia keldrisse.
+The children told me they loved strawberry ice cream.	Lapsed ütlesid mulle, et nad armastavad maasikajäätist.
+Tom turned on the water faucet, but nothing came out.	Tom pani kraani tööle, aga sellest ei tulnud midagi.
+It was hard to resist the impulse to wring Tom's neck.	Oli raske vastu panna soovile Tomi kael kahekorra käänata.
+Seen from the sky, the river looked like a huge snake.	Taevast vaadelduna tundus jõgi hiiglasuure maona.
+Tom didn't want to talk to Mary, but he had no choice.	Tom ei tahtnud Mariga rääkida, aga tal polnud teist valikut.
+All horses are animals, but not all animals are horses.	Kõik hobused on loomad, aga mitte kõik loomad pole hobused.
+The view from the top of the mountain was breathtaking.	Vaade mäe otsast oli hingemattev.
+Tom is the only one here who knows how to speak French.	Tom on siin ainus, kes oskab rääkida prantsuse keelt.
+I'd like to borrow about three hundred thousand dollars.	Tahaksin laenata umbes kolmsada tuhat dollarit.
+They sound so similar it's not easy to distinguish them.	Need kõlavad nii sarnaselt, et neid on raske eristada.
+Tom couldn't understand why Mary had made that decision.	Tom ei mõistnud, miks Mary sellise otsuse teinud oli.
+What I remember most about that movie is the last scene.	Mis mulle filmist kõige rohkem meelde jäi, oli viimane stseen.
+Did you see the sunrise earlier? It was really beautiful.	Nägid sa seda päikesetõusu? See oli päris ilus.
+Hello, it's me. Could you come pick me up at the station?	Tsau, mina siin. Kas sa saaksid mu jaamast peale võtta?
+I like eggs for breakfast, but my sister prefers oatmeal.	Mulle meeldib hommikusöögiks süüa mune, kuid mu õde eelistab kaerahelbeputru.
+Is there an English-Japanese dictionary on the bookshelf?	Kas riiulis on inglise-jaapani sõnastik?
+She grabbed him by the hand and pulled him onto the boat.	Ta haaras tal käest ning tõmbas ta paati.
+Tom hopes to inherit a lot of money when his mother dies.	Tom loodab pärast ema surma palju raha pärida.
+I could tell you things about Tom that would surprise you.	Ma võiksin sulle Tomi kohta selliseid asju rääkida, mis sind üllataksid.
+I heard that Tom is supposed to have quite a lot of money.	Kuulsin, et Tomil olevat üsna palju raha.
+I know that I left it somewhere down here in the basement.	Ma tean, et ma jätsin selle kuhugi siia keldrisse.
+Tom didn't want anyone to know that he was deeply in debt.	Tom ei tahtnud, et keegi teaks, et ta on suurtes võlgades.
+You don't have to use a dictionary when you read this book.	Selle raamatu lugemiseks pole sõnastikku vaja kasutada.
+I'm not going to tell you what happened until you calm down.	Ma ei räägi sulle, mis juhtus kui sa maha ei rahune.
+Tom had to leave the movie theater before the movie was over.	Tom pidi enne filmi lõppu kinost lahkuma.
+Did you have to share a bedroom with your brothers or sisters?	Kas sa pidid magamistuba oma õdede-vendadega jagama?
+He worked all night so that he could get the job done in time.	Ta töötas terve öö läbi et jõuda õigeaegselt valmis.
+I don't think you should go to work if you still have a cough.	Ma arvan, et sa ei peaks tööle minema, kui sul ikka veel köha on.
+I have a cat and a dog. The cat is black and the dog is white.	Mul on kass ja koer. Kass on must ja koer on valge.
+My father played the trumpet, and my mother played the violin.	Mu isa mängis trompetit ning mu ema mängis viiulit.
+The most important thing is the ability to think for yourself.	Kõige olulisem asi on oskus oma peaga mõelda.
+The problem is that I don't remember where I've parked my car.	Probleem on selles, et ma ei mäleta, kuhu ma oma auto parkisin.
+I drove all the way to Boston just to give Tom a birthday gift.	Ma sõitsin ainult selleks Bostonisse, et Tomile sünnipäevakingitus teha.
+I think it's time for me to admit that I never cared about you.	Ma arvan, et on aeg tunnistada, et ma ei ole sust kunagi hoolinud.
+Not a drop of rain fell for a month, so they had to dig a well.	Kuu aega ei sadanud tilkagi vihma, seetõttu pidid nad kaevama kaevu.
+Since the bus was late, we had to wait in the rain a long time.	Kuna buss hilines, pidime vihma käes kaua ootama.
+Some people think the president spends too much time traveling.	Mõned inimesed arvavad, et president kulutab liiga palju aega reisimisele.
+Squirrels eat seeds and nuts, as well as insects and mushrooms.	Oravad söövad nii seemned ja pähkleid kui ka putukaid ja seeni.
+Tom wasn't hiding behind the door. He was hiding in the closet.	Tom ei olnud ukse taga peidus. Ta oli kapis peidus.
+They will have been in the United States for ten years next year.	Järgmisel aastal on nad Ameerikas olnud kümme aastat.
+For a while, I was really addicted to cola and drank it every day.	Oli periood, kus ma olin koolast sõltuvuses ja jõin seda iga päev.
+If you would talk less and listen more, you might learn something.	Kui sa räägiksid vähem ja kuulaksid rohkem, võiksid sa midagi õppida.
+If you would talk less and listen more, you might learn something.	Kui sa vähem räägiksid ja rohkem kuulaksid, siis sa võibolla õpiksid ka midagi.
+Maybe next time you'll listen to me when I tell you to be careful.	Vahest järgmine kord sa kuulad, kui ma palun sul ettevaatlik olla.
+This house is ten years old, but that house over there is quite new.	See maja siin on kümne aastane, aga see maja seal on üpris uus.
+You must not like me very much if you won't even answer my messages.	Ma ei meeldi sulle vist väga, kui sa isegi ei vasta mu sõnumitele.
+Tom didn't want any of his friends to know that he was a drug dealer.	Tom ei tahtnud, et ükski ta sõber saaks teada, et ta on narkodiiler.
+Tom wished there was more than just one strawberry in his fruit salad.	Tom soovis, et puuviljasalatis oleks olnud rohkem kui üks maasikas.
+Tom was fed up with eating the low quality food provided by the prison.	Tomil oli vangla halvakvaliteedilisest toidust kõrini.
+By the way, did you find the umbrella you said you'd lost the other day?	Muide, kas sa leidsid selle vihmavarju, mille sa tookord ütlesid, et sa kaotanud olid?
+Could you please get the jar of peanut butter from the top shelf for me?	Palun ulata mulle ülemiselt riiulilt maapähklivõi.
+Tom never forgets to give his wife flowers on their wedding anniversary.	Tom ei unusta kunagi oma naisele lilli tuua nende pulma-aastapäevaks.
+The children sat around the campfire and listened to Tom tell ghost stories.	Lapsed istusid lõkketule ümber ja kuulasid, kuidas Tom kummituslugusid rääkis.
+Tom is irritating because he always has to have the last word in any argument.	Tom on tüütu, sest tema sõna peab igas vaidluses peale jääma.
+Due to unforeseen circumstances, all classes will be held online this semester.	Ettenägematute asjaolude tõttu on kõik tulevased tunnid sellel semestril interneti teel.
+There are a lot of gullible people, so there is a chance that Tom will be elected.	Kergeusklikke inimesi on palju, nii et on võimalus, et Tom saab valituks.
+I know that I should sleep for at least eight hours per day. However, usually I sleep less.	Ma tean, et mul on vaja magada kaheksa tundi ööpäevas, aga tavaliselt ma magan vähem.
+Even though my friend was a vegetarian, I didn't tell him that the soup had some meat in it.	Kuigi mu sõber oli toimetoitlane, ei rääkinud ma talle, et supis oli liha.
+No sooner had Mary broken up with Tom than John was at her front door with a bunch of roses.	Niipea kui Mary oli Tomist lahku läinud oli John roosidega ta ukse ees.
+When we are away from home, nothing gives us more pleasure than to receive a parcel from home.	Kui me kodust ära oleme, siis ei valmista meile miski rohkem rõõmu kui kodust paki saamine.
+It had the head of a woman, the body of a lion, the wings of a bird, and the tail of a serpent.	Sellel oli naise pea, lõvi keha, linnu tiivad ja mao saba.
+I realize that this may sound crazy, but I think that I've fallen in love with your younger sister.	Ma tean, et see võib imelikult kõlada, aga ma arvan, et ma olen sinu nooremasse õesse armunud.

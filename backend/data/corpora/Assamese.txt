@@ -1,0 +1,1963 @@
+Hi.	নমস্কাৰ।
+Hi.	হাই।
+Run!	দৌৰ!
+Run!	দৌৰাঁ!
+Run!	দৌৰক!
+Who?	কোন?
+Wow!	বাঃ!
+Duck!	হাঁহ!
+Fire!	জুই!
+Help!	সহায় কৰাঁ!
+Help!	সহায় কৰক!
+Jump.	জঁপিয়াওক।
+Stop!	ৰ'ব!
+Wait!	ৰ'ব!
+Wait!	ৰ'বা!
+Hello!	নমস্কাৰ!
+Hello!	হেৰা!
+Hurry!	লৰালৰিকৈ!
+Hurry!	সোনকালে!
+Hurry!	খৰধৰকৈ!
+Relax.	শান্ত হোৱা।
+Relax.	আৰাম কৰাঁ।
+Relax.	আৰাম কৰক।
+Attack!	আক্ৰমণ!
+I work.	মই কাম কৰোঁ।
+Listen.	শুন।
+Listen.	শুনা।
+Listen.	শুনক।
+Really?	সঁচানে?
+Really?	সঁচাই?
+Thanks.	ধন্যবাদ।
+Call me.	মোক ফোন কৰিব।
+Goodbye!	যাওঁ দিয়া!
+Goodbye!	যাওঁ দিয়ক!
+Goodbye!	যাওঁ দে!
+Perfect!	উত্তম!
+Perfect!	বঢ়িয়া!
+See you.	আকৌ লগ পাম।
+We know.	আমি জানো।
+Welcome.	আদৰিছোঁ।
+Welcome.	স্বাগতম।
+Welcome.	আদৰণি জনাইছোঁ।
+Get lost!	যা ইয়াৰ পৰা!
+Get lost!	যোৱাঁ ইয়াৰ পৰা!
+Get lost!	ওলা ইয়াৰ পৰা!
+Get lost!	ওলোৱাঁ ইয়াৰ পৰা!
+Grab him.	তাক ধৰ।
+Grab him.	তাক ধৰাঁ।
+Grab him.	তাক ধৰক।
+Grab him.	তেওঁক ধৰক।
+He spoke.	তেওঁ ক'লে।
+Hurry up.	খৰধৰ কৰক।
+Hurry up.	সোনকালে কৰক।
+Hurry up.	লৰালৰি কৰক।
+Hurry up.	খৰধৰ কৰা।
+I'm back.	মই ঘূৰি আহিলোঁ।
+I'm back.	মই উভতি আহিছোঁ।
+Stand up.	থিয় হওক।
+Terrific!	ভয়ংকৰ!
+Try hard.	কঠিন প্ৰয়াস কৰক।
+Try hard.	আৰু কষ্ট কৰা।
+Fantastic!	বঢ়িয়া!
+Fantastic!	অতি সুন্দৰ!
+Forget me.	মোক পাহৰি যোৱা।
+Oh please!	কি যে কোৱা।
+Oh please!	বাদ দিয়াহে!
+Oh please!	বাদ দিয়কহে!
+Say "aah."	"আ" কৰক।
+Seriously?	সঁচাকৈ?
+Wonderful!	অদ্ভুত!
+Breathe in.	উশাহ লওঁক।
+Breathe in.	উশাহ লোৱা।
+Definitely!	নিশ্চয়!
+Eat slowly.	লাহে লাহে খাওক।
+I hate you.	মই তোমাক বেয়া পাওঁ।
+I hate you.	মই আপোনাক বেয়া পাওঁ।
+I hate you.	মই তোক বেয়া পাওঁ।
+I love you.	মই তোমাক ভাল পাওঁ।
+I love you.	মই তোমাক মৰম কৰো।
+Please eat.	কওকচোন।
+Please eat.	খোৱাচোন।
+Please sit.	বহাচোন।
+Please sit.	বহকচোন।
+Say please.	কোৱাচোন।
+Say please.	কওকচোন।
+Did Tom cry?	টমে কান্দিছে নেকি?
+He resigned.	তেওঁ পদত্যাগ কৰিছে।
+How are you?	আপুনি কেনে আছে?
+How are you?	তুমি কেনে আছা?
+How are you?	তই কেনে আছ?
+How are you?	আপোনাৰ ভাল নে?
+How are you?	আপুনি ভালে আছে নে?
+How are you?	তুমি ভালে আছা নে?
+How are you?	কি খবৰ?
+I drank tea.	মই চাহ খালোঁ।
+I loved you.	মই তোমাক ভাল পাইছিলোঁ।
+I want that.	মোক সেইটো লাগে৷
+I was lucky.	মোৰ ভাগ্য ভাল আছিল।
+Is it black?	ক'লা নেকি?
+Is it white?	বগা নেকি?
+Nobody died.	কোনো নমৰিল।
+Nobody died.	কোনো মৰা নাই।
+Nobody died.	কাৰো মৃত্যু ঘটা নাই।
+Please come.	আহকচোন।
+Please come.	আহাচোন।
+Please sing.	গাওঁকচোন।
+Please sing.	গোৱাচোন।
+Please stay.	থাককচোন।
+Please stay.	থাকাচোন।
+Please stop.	ৰ'বচোন।
+Please wait.	ৰ'বচোন।
+Please wait.	ৰ'বাচোন।
+Tea, please.	চাহ দিয়কচোন।
+Tea, please.	চাহ দিয়াচোন।
+Beef, please.	গৰুৰ মাংস দিয়কচোন।
+Beef, please.	গৰুৰ মাংস দিয়াচোন।
+Do your best.	পূৰা জোৰ দিয়া।
+Do your best.	পূৰা জোৰ দিয়ক।
+Fish, please.	মাছ দিয়কচোন।
+Fish, please.	মাছ দিয়াচোন।
+I am curious.	মই জিজ্ঞাসু।
+I am curious.	মই কৌতূহলী।
+I ate caviar.	মই কেভিয়াৰ খাইছোঁ।
+I can't talk.	মই কথা পাতিব নোৱাৰোঁ।
+I understood.	মই বুজিলোঁ।
+I'm homesick.	মই ঘৰগোনা।
+Meat, please.	মাংস দিয়কচোন।
+Please hurry!	সোনকালে কৰকচোন!
+Please hurry.	সোনকালে কৰাচোন।
+Please hurry.	সোনকালে কৰকচোন।
+Please leave.	এৰকচোন।
+Please leave.	এৰাচোন।
+Please leave.	বাদ দিয়াচোন।
+Please relax.	চিন্তা নকৰিবাচোন।
+Please relax.	চিন্তা নকৰিবচোন।
+Stay healthy.	সুস্থ থাকক।
+Unbelievable!	অবিশ্বাস্য!
+We're freaks.	আমি অদ্ভুত।
+Check, please.	চাওঁকচোন।
+Check, please.	বিলখন দিয়কচোন।
+Everyone wins.	সকলো জিকিছে।
+I went aboard.	মই বিদেশলৈ গৈছিলোঁ।
+I'm not angry!	মোৰ খং উঠা নাই!
+It hurts here.	ইয়াত বিষায়।
+It was a joke.	সেইটো ধেমালি আছিল।
+No, he didn't.	নহয়, সি কৰা নাই।
+No, he didn't.	নহয়, তেওঁ কৰা নাই।
+No, he didn't.	নহয়, তেখেতে কৰা নাই।
+Now get going.	এতিয়া গৈ থাক।
+Now get going.	এতিয়া গৈ থাকাঁ।
+Please listen.	শুনকচোন।
+Please listen.	শুনাচোন।
+Quiet, please.	চুপ থাককচোন।
+Quiet, please.	চুপ থাকাচোন।
+Stop worrying.	চিন্তা কৰা এৰক।
+Tom also came.	টমো আহিছে।
+Water, please.	পানী দিয়কচোন।
+Water, please.	পানী দিয়াচোন।
+Both are alive.	দুয়োজন জীয়াই আছে।
+Both are alive.	দুয়োগৰাকী জীয়াই আছে।
+Both are alive.	দুয়োজন জীৱিত।
+Coffee, please.	কফি দিয়কচোন।
+Give me a beer.	মোক এটা বীয়েৰ দিয়া৷
+I can't go yet.	মই এতিয়াই যাব নোৱাৰো৷
+I have a cough.	মোৰ কাহ হৈছে।
+I love lasagna.	মই লাজান্যা ভাল পাওঁ।
+I sneeze a lot.	মই খুব হাঁচিয়াওঁ।
+I want to quit.	মই ত্যাগ কৰিব খোজোঁ।
+I want to quit.	মই এৰিব বিচাৰোঁ।
+Isn't it black?	ক'লা নহয়নে?
+It's not Tom's.	এয়া টম্ নহয়।
+Louder, please.	আৰু জোৰে কওঁকচোন।
+Louder, please.	আৰু জোৰে কোৱাচোন।
+Please proceed.	আগবাঢ়কচোন।
+Please proceed.	আগবাঢ়াচোন
+She is dieting.	তাই ডায়েট কৰি আছে।
+She is dieting.	তেওঁ ডায়েট কৰি আছে।
+Ticket, please.	টিকট দেখুৱাওঁকচোন।
+Tom isn't bald.	টম্‌ টকলা নহয়।
+Turn up the TV.	টিভিৰ ভলিউম বঢ়াওক।
+Turn up the TV.	টিভিৰ ভলিউম বঢ়োৱা।
+What do I have?	মোৰ কি হৈছে?
+Who's that for?	সেইটো কাৰ বাবে?
+Chicken, please.	মুৰ্গীৰ মাংস দিয়কচোন।
+Chicken, please.	মুৰ্গীৰ মাংস দিয়াচোন।
+Congratulations!	অভিনন্দন!
+Fetch me my hat.	মোক মোৰ টুপীটো আনি দিয়া।
+Fetch me my hat.	মোক মোৰ টুপীটো আনি দিয়ক।
+He is my father.	তেওঁ মোৰ দেউতা৷
+How is it going?	কেনে চলি আছে?
+I live in Japan.	মই জাপানত থাকোঁ।
+I love comedies.	মই কৌতুক ভাল পাওঁ।
+I want a guitar.	মোক এটা গীটাৰ লাগে।
+I'll enjoy this.	মই এয়া উপভোগ কৰিম।
+I'll go by taxi.	মই টেক্সিৰে যাম।
+I'm a policeman.	মই এগৰাকী আৰক্ষী।
+I'm a policeman.	মই এজন পুলিচ।
+I'm going to go.	মই গৈ আছোঁ।
+My father is in.	মোৰ দেউতা ভিতৰত আছে।
+My father walks.	মোৰ দেউতাই খোজ কাঢ়ে।
+Please continue.	জাৰি ৰাখকচোন।
+Please continue.	জাৰি ৰাখাচোন।
+Please continue.	কৈ থাককচোন।
+Please continue.	কৈ থাকাচোন।
+Please continue.	কৰি থাককচোন।
+Please continue.	কৰি থাকাচোন।
+Please tell Tom.	টমক কওকচোন।
+That dog is big.	সেই কুকুৰটো ডাঙৰ৷
+This is natural.	এয়া স্বাভাৱিক।
+Tom is disabled.	টম্‌ অক্ষম।
+Turn off the TV.	টিভিটো বন্ধ কৰক।
+Turn off the TV.	টিভিটো বন্ধ কৰা।
+Any seat will do.	যিকোনো ছীট চলিব।
+Attention please!	অনুগ্ৰহ কৰি মন কৰিব!
+Attention please!	মন কৰাচোন!
+How do I do that?	কেনেকৈ কৰোঁ?
+I can do it, too.	ময়ো কৰিব পাৰোঁ।
+I didn't like it.	মোৰ ভাল লগা নাই।
+I hate chemistry.	মই ৰসায়নবিজ্ঞান বেয়া পাওঁ।
+I hate chemistry.	মই কেমিষ্ট্ৰী বেয়া পাওঁ।
+I heard Tom sing.	মই টমে গোৱা শুনিছোঁ।
+I heard Tom sing.	মই টমে গোৱা শুনিলোঁ।
+I still hate you.	মই এতিয়াও তোমাক বেয়া পাওঁ।
+I want you to go.	মই তুমি যোৱাটো বিচাৰোঁ।
+I'll try my best.	মই মোৰ পূৰা জোৰ দিম।
+I'll try my best.	মই যিমান পাৰোঁ চেষ্টা কৰিম।
+I'm going to win.	মই জিকিম।
+It's sunny today.	আজি ৰ'দ দিছে।
+May I smoke here?	মই চিগাৰেট খাব পাৰোঁ নে?
+My cat looks sad.	মোৰ মেকুৰীজনীক উদাস দেখা গৈছে।
+My father is out.	মোৰ দেউতা ওলাই গৈছে।
+My father is out.	মোৰ দেউতা বাহিৰত আছে।
+My father smokes.	মোৰ দেউতাই ধূম্ৰপান কৰে।
+My father smokes.	মোৰ দেউতাই চিগাৰেট খায়।
+My mother is out.	মোৰ মা ওলাই গৈছে।
+My mother is out.	মোৰ মা বাহিৰত আছে।
+Please elaborate.	বহলাই কওঁকচোন।
+Please elaborate.	বহলাই কোৱাচোন।
+Prepare yourself.	নিজকে তৈয়াৰ কৰক।
+Tell me about it!	মোক ইয়াৰ বিষয়ে কওঁক!
+The battery died.	বেটাৰী শেষ হ'ল।
+The battery died.	বেটাৰী শেষ হৈ গ'ল।
+Those are my CDs.	সেই চিডিকেইখন মোৰ।
+Tom and I hugged.	টম্‌ আৰু মই আলিংগন কৰিলোঁ।
+Tom and I hugged.	টম্‌ আৰু মই আলিংগন কৰিছোঁ।
+Tom is a student.	টম্ এজন ছাত্ৰ।
+Tom is a student.	টম্ এজন শিক্ষাৰ্থী।
+Tom is very kind.	টম্ বৰ দয়ালু।
+Tom wasn't first.	টম্‌ প্ৰথম নাছিল।
+Walk ahead of me.	মোৰ আগে-আগে খোজ কাঢ়ক।
+We depend on you.	আমি আপোনাৰ ওপৰত নিৰ্ভৰ কৰোঁ।
+We have no sugar.	আমাৰ চেনী নাই।
+We're in a hurry.	আমাৰ হেতা-ওপৰা লাগিছে।
+We're in a hurry.	আমি লৰালৰি কৰি আছোঁ।
+We're in a hurry.	আমাৰ লৰালৰি লাগিছে।
+What is going on?	কি চলি আছে?
+What is he after?	সি কি বিচাৰি আছে?
+What is he after?	তেওঁ কি বিচাৰি আছে?
+What is he doing?	সি কি কৰি আছে?
+What is he doing?	তেওঁ কি কৰি আছে?
+You are hopeless.	তোমাৰ যে কামেই নাই।
+You are hopeless.	তুমি অযোগ্য।
+You are hopeless.	আপুনি অলায়ক।
+You are wavering.	আপুনি হোঁহকা-পিছলা।
+Champagne, please.	শ্বেম্পেং দিয়াচোন।
+Champagne, please.	শ্বেম্পেং দিয়কচোন।
+Do you have a car?	আপোনাৰ গাড়ী আছেনে?
+Do you have a car?	তোমাৰ গাড়ী আছেনে?
+Give Tom a dollar.	টমক এটা ডলাৰ দিয়ক।
+Give me five days.	মোক পাঁচদিন দিয়া৷
+He has a few pens.	তাৰ কেইটামান কলম আছে।
+He has a few pens.	তেওঁৰ কেইটামান কলম আছে।
+How do I get back?	মই কিদৰে ঘূৰি আহিম?
+How lucky you are!	তোমাৰ কপাল ইমান ভাল!
+How lucky you are!	তুমি ইমান ভাগ্যৱান!
+I have a headache.	মোৰ মূৰ বিষাইছে।
+I have a headache.	মোৰ মূৰ বিষাই আছে।
+I saw him running.	মই তাক দৌৰি থকা দেখিছোঁ।
+I saw him running.	মই তেওঁক দৌৰি থকা দেখিছোঁ।
+I tried to forget.	মই পাহৰিবলৈ চেষ্টা কৰিছোঁ।
+I want a lot more.	মোক আৰু বহুত লাগে।
+I'm going to help.	মই সহায় কৰিম।
+Life is beautiful.	জীৱন ধুনীয়া।
+Life is beautiful.	জীৱন সুন্দৰ।
+My father is busy.	মোৰ দেউতা ব্যস্ত।
+My father is tall.	মোৰ দেউতা ওখ।
+Our money ran out.	আমাৰ টকা শেষ হৈ গ'ল।
+Our money ran out.	আমাৰ পইচা শেষ গৈ গ'ল।
+Please reconsider.	আৰু এবাৰ ভাবি চাবচোন।
+Put on your apron.	আপোনাৰ এপ্র'ন পিন্ধি লওঁক।
+Put on your apron.	তোমাৰ এপ্র'ন পিন্ধি লোৱা।
+Put on your apron.	তোমাৰ এপ্ৰ'ন লগোৱা।
+Put some music on.	অলপ গান লগোৱা।
+Put some music on.	অলপ গান বজাই দিয়া।
+Put some music on.	অলপ সংগীত বজাই দিয়ক।
+Shall we sit down?	আমি বহোঁনে?
+Shall we sit down?	আমি বহিমনে?
+Step on the scale.	মাপনীত উঠক।
+This apple is bad.	এই আপেলটো বেয়া।
+This isn't my bag.	এইটো মোৰ বেগ নহয়।
+This isn't my bag.	এইটো মোৰ মোনা নহয়।
+This isn't my bag.	এইটো মোৰ টোপোলা নহয়।
+Tom was behind me.	টম্‌ মোৰ পিছফালে আছিল।
+Try it once again.	আকৌ এবাৰ চেষ্টা কৰক।
+We are not amused.	আমি আনন্দিত নহয়।
+We believe in God.	আমি ভগৱানক বিশ্বাস কৰোঁ।
+We go there often.	আমি প্ৰায়েই তালৈ যাওঁ।
+We play on Sunday.	আমি দেওবাৰে খেলোঁ।
+We won the battle.	আমি যুঁজ জিকিলোঁ।
+We won the battle.	আমি যুদ্ধ জিকিলোঁ।
+We won the battle.	আমি যুঁজখন জিকিলোঁ।
+What is the story?	কাহিনীটো কি?
+What is your name?	আপোনাৰ নাম কি?
+What is your name?	তোমাৰ নাম কি?
+What is your name?	তোৰ নাম কি?
+What is your name?	আপোনাৰ নামটো কি?
+What is your name?	তোমাৰ নামটো কি?
+What's Tom saying?	টমে কি কৈ আছে?
+When are you busy?	আপুনি কেতিয়া ব্যস্ত?
+When are you busy?	তুমি কেতিয়া ব্যস্ত?
+When do we arrive?	আমি কেতিয়া আহি পাওঁ?
+You are in my way.	তুমি মোৰ বাটত আছা।
+You are in my way.	আপুনি মোৰ বাটত আছে।
+You had better go.	তুমি যোৱাই ভাল আছিল।
+Can I use your pen?	মই তোমাৰ কলম ব্যৱহাৰ কৰিব পাৰোঁনে?
+Come and sit by me.	আহি মোৰ কাষত বহক।
+Come and sit by me.	আহি মোৰ কাষত বহাঁ।
+Don't let Tom fall.	টমক পৰিব নিদিবাঁ।
+Everybody must die.	সকলোৱে মৰিবই লাগিব।
+Everybody must die.	প্ৰত্যেকজনেই মৰিব লাগিব।
+Have you begun yet?	তুমি আৰম্ভ কৰিছানে বাৰু?
+Have you begun yet?	আপুনি আৰম্ভ কৰিছেনে বাৰু?
+He arrived in time.	তেওঁ সময়ত পাইছেহি।
+He arrived in time.	তেওঁ সময়ত আহি পাইছে।
+He arrived in time.	সি সময়ত আহি পাইছে।
+He doesn't like us.	সি আমাক ভাল নাপায়।
+He doesn't like us.	তেওঁ আমাক ভাল নাপায়।
+He hasn't come yet.	তেওঁ এতিয়ালৈ আহি পোৱা নাই।
+He pulled my shirt.	সি মোৰ ছাৰ্ট টানিলে।
+He pulled my shirt.	সি মোৰ চোলাযোৰ টানিলে।
+He pulled my shirt.	তেওঁ মোৰ চোলাযোৰ টানিছে।
+He's a fast walker.	সি বেগাই খোজ কাঢ়ে।
+He's a fast walker.	তেওঁ বেগাই খোজ কাঢ়ে।
+He's a good person.	তেওঁ এজন ভাল মানুহ।
+He's a good person.	সি এজন ভাল মানুহ।
+I can't believe it!	মই বিশ্বাস কৰিব পৰা নাই!
+I can't lie to you.	মই তোমাক মিছা কথা ক'ব নোৱাৰোঁ।
+I dreamt about you.	মই তোমাৰ সপোন চাইছোঁ।
+I expect your help.	মই তোমাৰ সহায়ৰ আশা কৰিছোঁ।
+I give you my word.	মই তোমাক কথা দিছোঁ।
+I give you my word.	মই তোমাক কথা দিলোঁ।
+I have a pain here.	মোৰ এইখিনি বিষায়।
+I heard him go out.	মই তেওঁ বাহিৰলৈ যোৱা শুনিছোঁ।
+I like candlelight.	মোৰ কেণ্ডেললাইট ভাল লাগে।
+I like candlelight.	মোৰ মমবাতিৰ পোহৰ ভাল লাগে।
+I need your advice.	মোক তোমাৰ উপদেশ লাগে।
+I need your advice.	মোক আপোনাৰ উপদেশ লাগে।
+I need your advice.	মোক আপোনাৰ পৰামৰ্শ লাগে।
+I play with my son.	মই মোৰ পুতেকৰ লগত খেলোঁ।
+I play with my son.	মই মোৰ ল'ৰাৰ সৈতে খেলোঁ।
+I ran to my mother.	মই মোৰ মাৰ কাষলৈ দৌৰি গ'লোঁ।
+I ran to my mother.	মই মোৰ মাৰ কাষলৈ লৰ মাৰিলোঁ।
+I wish I were rich.	মই যদি ধনী হ'লোহেঁতেন।
+I'm glad I saw Tom.	মোৰ ভাল লাগিল যে মই টমক দেখা পালোঁ।
+I'm ready for that.	মই তাৰ বাবে সাজু।
+I'm ready for that.	মই তাৰ বাবে সাজু আছোঁ।
+I'm sorry for that.	তাৰ বাবে মই দুঃখিত।
+I'm sorry for that.	তাৰ বাবে ক্ষমা কৰক।
+It rained a little.	অলপ বৰষুণ দিছিল।
+It's a big problem.	এইটো এটা ডাঙৰ সমস্যা।
+It's not important.	গুৰুত্বপূৰ্ণ নহয়।
+Let's try it again.	ব'লা আকৌ চেষ্টা কৰোঁ।
+Let's try it again.	ব'লক আকৌ চেষ্টা কৰোঁ।
+Let's try it again.	আহক পুনৰ চেষ্টা কৰোঁ।
+Maybe they'll lose.	সিহঁত হাৰিব চাগে৷
+My father grew old.	মোৰ দেউতা বুঢ়া হ'ল।
+My father is frank.	মোৰ দেউতা উন্মুক্ত।
+My father was busy.	মোৰ দেউতা ব্যস্ত আছিল।
+Potatoes are cheap.	আলু সস্তা।
+Take a look around.	চৌপাশে এবাৰ চকু ফুৰাওঁক।
+That is intriguing.	এয়া মনোমোহা।
+The coffee's ready.	কফি তৈয়াৰ।
+This book is heavy.	এই কিতাপখন গধুৰ।
+This chair is ugly.	এই চকীখন আপচু।
+This is Mary's dog.	এইটো মেৰীৰ কুকুৰ।
+This is my brother.	এইজন মোৰ দাদা।
+This is my brother.	এইজন মোৰ ককাই।
+This is my brother.	এইজন মোৰ ভাতৃ।
+This is my brother.	এইটো মোৰ ভাইটি।
+This is my brother.	এয়া মোৰ দাদা।
+This is my brother.	এয়া মোৰ ভাইটি।
+This story is true.	এই কাহিনীটো সঁচা।
+Tie your shoelaces.	তোমাৰ জোতাৰ ফিটা বান্ধাঁ।
+Tie your shoelaces.	আপোনাৰ জোতাৰ ফিটা বান্ধক।
+Tom and I embraced.	টম্‌ আৰু মই আলিংগন কৰিলোঁ।
+Tom has a tricycle.	টমৰ এখন ট্ৰাইচাইকেল আছে।
+Tom has no manners.	টমৰ স্বভাৱ বেয়া।
+Tom is in the pool.	টম্‌ পুলত আছে।
+Tom likes to argue.	টমৰ তৰ্ক কৰি ভাল লাগে।
+Tom loves baseball.	টমে বাস্কেটবল ভাল পায়।
+Tom runs very fast.	টমে বৰ বেগাই দৌৰে।
+Tom was also there.	তাত টমো আছিল।
+Turn off the alarm.	এলাৰ্মটো বন্ধ কৰা।
+Turn off the alarm.	এলাৰ্মটো বন্ধ কৰক।
+Turn the volume up.	ভলিউম বঢ়াওক।
+Turn the volume up.	ভলিউম বঢ়োৱা।
+Was the movie good?	চিনেমাখন ভাল আছিলনে?
+Was the movie good?	কথাছবিখন ভাল আছিলনে?
+We ate some apples.	আমি কেইটামান আপেল খালোঁ।
+We can't do it now.	আমি এতিয়া এইতো কৰিব নোৱাৰো৷
+We chartered a bus.	আমি এখন বাছ ভাড়া কৰিছোঁ।
+We found him alive.	আমি তেওঁক জীয়া অৱস্থাত পাইছোঁ।
+We kept them quiet.	আমি সিহঁতক মৌন কৰি ৰাখিছোঁ।
+We kept them quiet.	আমি সিহঁতক নিৰৱ কৰি ৰাখিছোঁ।
+We kept them quiet.	আমি তেওঁলোকক নিমাত কৰি ৰাখিছোঁ।
+We love each other.	আমি ইজনে সিজনক ভাল পাওঁ।
+We love each other.	আমি এজনে আনজনক ভাল পাওঁ।
+We need some money.	আমাক অলপ টকা লাগে।
+We started to walk.	আমি খোজ কাঢ়িবলৈ ধৰিলোঁ।
+We were very tired.	আমাৰ বৰ ভাগৰ লাগিছিল।
+What are you doing?	কি কৰি আছা?
+What are you doing?	আপুনি কি কৰি আছে?
+What are you doing?	তুমি কি কৰি আছা?
+What is over there?	তাত কি আছে?
+Where does it hurt?	ক'ত বিষায়?
+Where was he going?	তেওঁ ক'লৈ গৈ আছিল?
+Where was he going?	সি ক'লৈ গৈ আছিল?
+Why are you in bed?	আপুনি বিছনাত কিয়?
+Why are you in bed?	তুমি বিছনাত কিয়?
+Will it hurt a lot?	বহুত বিষাব নেকি?
+You are very brave.	তুমি বৰ সাহসী।
+You are very brave.	আপুনি খুব সাহসী।
+You can study here.	আপুনি ইয়াত পঢ়িব পাৰে।
+You can study here.	তুমি ইয়াত পঢ়িব পাৰা।
+You can't scare me.	তুমি মোক ভয় দেখুৱাব নোৱাৰা।
+You can't scare me.	আপুনি মোক ভয় দেখুৱাব নোৱাৰে।
+You look very pale.	তোমাক খুব নিস্তেজ দেখা গৈছে।
+You may go at once.	আপুনি এবাৰতে যাব পাৰে।
+You may go at once.	তুমি এবাৰতে যাব পাৰা।
+You must be a fool.	তুমি নিশ্চয় মূৰ্খ।
+Can you drive a car?	আপুনি গাড়ী চলাব পাৰেনে?
+Can you drive a car?	তুমি গাড়ী চলাব পাৰানে?
+Did you leave a tip?	আপুনি টিপ এৰিছেনে?
+Did you leave a tip?	তুমি টিপ এৰিছানে?
+Do you have a fever?	আপোনাৰ জ্বৰ আছে নেকি?
+Does Tom drink beer?	টমে বিয়েৰ খায়নে?
+Freedom is not free.	স্বাধীনতা বিনামূলীয়া নহয়।
+He didn't know that.	তেওঁ সেয়া গম পোৱা নাছিল।
+He doesn't mix well.	সি ভালদৰে নিমিলায়।
+He doesn't mix well.	তেওঁ ভালকৈ নিমিলায়।
+He lives in comfort.	সি আৰামত থাকে।
+He lives in comfort.	তেওঁ আৰামত থাকে।
+Help me make a list.	মোক তালিকা তৈয়াৰ কৰাত সহায় কৰক।
+I can see it coming.	মই ধৰিব পাৰিছোঁ।
+I have a runny nose.	মোৰ নাক বৈ আছে।
+I have a runny nose.	মোৰ চৰ্দী লাগিছে।
+I have my own house.	মোৰ নিজা ঘৰ আছে।
+I know you are rich.	মই জানো যে তুমি ধনী।
+I know you are rich.	মই জানো যে আপুনি ধনী।
+I think Tom is high.	মোৰ মতে টমৰ নিচা লাগিছে।
+I think Tom is high.	মোৰ মতে টম্‌ মতলীয়া হৈছে।
+I will be back soon.	মই সোনকালে ঘূৰি আহিম।
+I wish I could swim.	মই যদি সাঁতুৰিব পাৰিলোহেঁতেন।
+I wish I were young.	মই যদি ডেকা হ'লোহেঁতেন।
+I wish I were young.	মই যদি গাভৰু হ'লোহেঁতেন।
+I wish I were young.	মই যদি তৰুণ হ'লোহেঁতেন।
+I wish I were young.	মই যদি তৰুণী হ'লোহেঁতেন।
+I wish I were young.	মই যদি কাণ সমনীয়া হ'লোহেঁতেন।
+I'll lend it to you.	মই তোমাক এইটো ধাৰত দিম।
+I'm proud of my son.	মই মোৰ ল'ৰাক লৈ গৌৰৱ কৰোঁ।
+I'm proud of my son.	মই মোৰ পূত্ৰক লৈ গৌৰৱ কৰোঁ।
+I'm proud of my son.	মই মোৰ পুতেকক লৈ গৌৰৱ কৰোঁ।
+Is 1 a prime number?	1 মৌলিক সংখ্যা নেকি?
+Is it far from here?	ইয়াৰ পৰা দূৰত আছে নেকি?
+Is it far from here?	ইয়াৰ পৰা দূৰ হয় নেকি?
+Is that your mother?	সেয়া তোমাৰ মা নেকি?
+Is that your mother?	সেয়া আপোনাৰ মা নেকি?
+It was hard for Tom.	টমৰ বাবে টান আছিল।
+It's as good as new.	নতুনৰ দৰেই ভাল।
+It's likely to rain.	বৰষুণ দিয়াৰ সম্ভাৱনা আছে।
+Most people do that.	বেছিভাগ লোকে সেয়া কৰে।
+Mozart died in 1791.	মজাৰ্ট 1791 চনত ঢকাইছিল।
+Mozart died in 1791.	মজাৰ্টৰ মৃত্যু 1791 চনত হৈছিল।
+My mother is active.	মোৰ মা নিপুণ।
+My mother is active.	মোৰ মা তৎপৰ।
+That changes things.	সেইটোৱে বস্তুবোৰ সলনি কৰে।
+The air became warm.	বতাহ গৰম হৈ গ'ল।
+This apple is sweet.	এই আপেলটো মিঠা।
+This beef is tender.	এই গৰুৰ মাংস কোমল।
+This desk is broken.	এই ডেস্কখন ভগা।
+This desk is broken.	এই ডেস্কখন ভঙা।
+This is my daughter.	এইজনী মোৰ জীয়েক।
+This is my daughter.	এইজনী মোৰ ছোৱালী।
+This isn't for sale.	এয়া বিক্ৰীৰ বাবে নহয়।
+This mango is sweet.	এই আমটো মিঠা।
+This novel bores me.	এই উপন্যাসখনে মোক আমনি কৰে।
+This paper is rough.	এই কাগজখন খহটা।
+This winter is warm.	এই জাৰকালি গৰম।
+Time is running out.	সময় কমি গৈ আছে।
+Tom can hardly walk.	টমে কিবাকৈ অলপ-চলপ খোজ কাঢ়িব পাৰে।
+Tom likes hot curry.	টমে জলা তৰকাৰি ভাল পায়।
+Tom likes hot curry.	টমে জলা আঞ্জা ভাল পায়।
+Tom wasn't cautious.	টম্‌ সাৱধান নাছিল।
+Tom wasn't kneeling.	টমে আঁঠু কাঢ়ি থকা নাছিল।
+Tom wasn't reliable.	টম্‌ নিৰ্ভৰযোগ্য নাছিল।
+Try it out yourself.	নিজে পৰীক্ষা কৰি চোৱা।
+Try it out yourself.	নিজে পৰীক্ষা কৰি চাওক।
+Try on this sweater.	এই চুৱেটাৰটো পিন্ধি চোৱা।
+Try to do your best.	তোমাৰ ফালৰ পৰা পূৰা জোৰ দিয়া।
+We all like cycling.	আমি সকলোৱে চাইকেল চলাই ভাল পাওঁ।
+We did it ourselves.	আমি নিজেই কৰিছোঁ।
+We have enough time.	আমাৰ যথেষ্ট সময় আছে।
+We must leave early.	আমি সোনকালে যাবই লাগিব।
+We obeyed the rules.	আমি নিয়ম-নীতি মানি চলিছোঁ।
+We regret his death.	আমি তেওঁৰ মৃত্যুৰ বাবে দুঃখিত।
+We talked until two.	আমি দুটা বজালৈ কথা পাতিছোঁ।
+We traveled on foot.	আমি খোজ কাঢ়ি ফুৰিছিলোঁ।
+We traveled on foot.	আমি খোজ কাঢ়ি ফুৰিছোঁ।
+Welcome to our home.	আমাৰ ঘৰলৈ স্বাগতম।
+What are they after?	সিহঁতে কি বিচাৰি আছে?
+What are they after?	তেওঁলোকে কি বিচাৰি আছে?
+What are they doing?	সিহঁতে কি কৰি আছে?
+What are they doing?	তেওঁলোকে কি কৰি আছে?
+What did you answer?	তুমি কি উত্তৰ দিছা?
+What did you answer?	আপুনি কি উত্তৰ দিছে?
+What do you suggest?	তুমি কি পৰামৰ্শ দিবা?
+What do you suggest?	আপুনি কি পৰামৰ্শ দিব?
+What is this letter?	এইখন কিহৰ চিঠি?
+What is this letter?	এইটো কি অক্ষৰ?
+What time is dinner?	ভাত কেইটা বজাত খায়?
+What time is dinner?	ভাত কেইটা বজাত খাব?
+When did you arrive?	তুমি কেতিয়া আহি পালা?
+When did you arrive?	আপুনি কেতিয়া আহি পালে?
+When did you arrive?	তুমি কেতিয়া আহি পাইছা?
+When did you arrive?	আপুনি কেতিয়া আহি পাইছে?
+Who is your teacher?	তোমাৰ শিক্ষক কোন?
+You all are useless.	তোমালোকৰ কাম নাই।
+You all are useless.	তোমালোক আটাইকেইজন বেকাৰ।
+You have many books.	তোমাৰ বহুতো কিতাপ আছে।
+You have many books.	আপোনাৰ বহুকেইখন কিতাপ আছে।
+You may go home now.	তুমি এতিয়া ঘৰলৈ যাব পাৰা।
+You may go home now.	আপুনি এতিয়া ঘৰলৈ যাব পাৰে।
+You may laugh at me.	তুমি মোৰ ওপৰত হাঁহিবও পাৰা।
+You may laugh at me.	আপুনি মোৰ ওপৰত হাঁহিবও পাৰে।
+You must study hard.	তুমি মন লগাই পঢ়িবই লাগিব।
+You must study more.	তুমি আৰু পঢ়িবই লাগিব।
+You must study more.	তুমি বেছিকৈ পঢ়িবই লাগিব।
+You'd better not go.	আপুনি নোযোৱাই ভাল আছিল।
+You'd better not go.	আপুনি নোযোৱাই ভাল হ'ব।
+You're looking down.	তুমি তলফালে চাই আছা।
+Add sugar to the tea.	চাহত চেনী দিয়ক।
+Add sugar to the tea.	চাহত চেনী ঢালক।
+Add sugar to the tea.	চাহত চেনী দিয়া।
+Are you following me?	তুমি মোক ফ'ল' কৰি আছানে?
+Are you following me?	আপুনি মোক ফ'ল' কৰি আছেনে?
+Are you following me?	তুমি মোৰ পিছে পিছে আহি আছানে?
+Are you following me?	আপুনি মোৰ পিছে পিছে আহি আছেনে?
+Are you following me?	আপুনি মোক অনুসৰণ কৰি আছেনে?
+Are you following me?	তুমি মোক মানি চলি আছানে?
+Are you following me?	আপুনি মোক মানি চলি আছেনে?
+Can you speak French?	আপুনি ফৰাচী ক'ব পাৰেনে?
+Can you speak French?	তুমি ফৰাচী ক'ব পাৰানে?
+Do you study English?	আপুনি ইংৰাজী পঢ়েনে?
+Do you study English?	তুমি ইংৰাজী পঢ়ানে?
+Get them out of here.	সিহঁতক ইয়াৰ পৰা ওলোৱা।
+Go back to your seat.	নিজৰ ছীটলৈ ঘূৰি যোৱাঁ।
+Go back to your seat.	নিজৰ ঠাইত যোৱাঁ।
+Go back to your seat.	নিজৰ ছীটত বহাঁগৈ।
+Have you finished it?	আপুনি শেষ কৰিলেনে?
+Have you finished it?	আপোনাৰ কৰা হ'লনে?
+He doesn't like fish.	তেওঁ মাছ ভাল নাপায়।
+He has two daughters.	তাৰ দুজনী জীয়েক আছে।
+He has two daughters.	তেওঁৰ দুগৰাকী কন্যা আছে।
+He has two daughters.	তেওঁৰ দুজনী জীয়েক আছে।
+His socks are purple.	তাৰ মোজাযোৰ বেঙেনা-বৰণীয়া।
+His socks are purple.	তেওঁৰ মোজাযোৰ বেঙেনা-বৰণীয়া।
+How can we kill time?	আমি কিদৰে সময় কটাব পাৰোঁ?
+I count on your help.	মই তোমাৰ সহায়ৰ ওপৰত নিৰ্ভৰশীল।
+I don't see anything.	মই একো দেখা পোৱা নাই।
+I don't see anything.	মই একোৱেই দেখা নাই।
+I heard the bad news.	মই বেয়া খবৰতো শুনিলো৷
+I knew he didn't die.	মই জানিছিলোঁ যে তেওঁ মৰা নাই।
+I know what you mean.	মই জানোঁ তুমি কি ক'ব খুজিছা।
+I know what you mean.	মই জানোঁ আপুনি কি ক'ব খুজিছে।
+I might be home late.	মই ঘৰ গৈ পোৱাত দেৰি হ'ব পাৰে।
+I might be home late.	মই ঘৰ গৈ পোৱাত পলম হ'ব পাৰে।
+I might be home late.	মই দেৰিকৈ ঘৰ পাব পাৰোঁ।
+I need time to think.	মোক ভাবিবলৈ সময় লাগে।
+I resemble my mother.	মই দেখাই-শুনাই মোৰ মাৰ দৰে।
+I wish you good luck.	আপোনাক শুভকামনা জনালোঁ।
+I wish you good luck.	তোমাক শুভকামনা জনালোঁ।
+I'll get the popcorn.	পপকৰ্ন মই আনিম৷
+I'm in trouble again.	মই আকৌ সমস্যাত পৰিলোঁ।
+I'm not a politician.	মই কোনো ৰাজনীতিবিদ নহয়।
+I'm not at all tired.	মোৰ একেবাৰেই ভাগৰ লগা নাই।
+I'm very, very angry.	মোৰ খুব বেছি খং উঠিছে।
+It is a childish act.	এয়া এক ল'ৰামতীয়া কাণ্ড।
+It is very hot today.	আজি বৰ গৰম দিছে।
+It's partly my fault.	মোৰো অলপ ভুল আছিল।
+May I use your phone?	মই তোমাৰ ফোন ব্যৱহাৰ কৰিব পাৰোঁনে?
+May I use your phone?	মই আপোনাৰ ফোন ব্যৱহাৰ কৰিব পাৰোঁনে?
+Maybe you should ask.	চাগৈ আপুনি সুধি চোৱা উচিত।
+My father grows rice.	মোৰ দেউতাই ধান ৰোৱে।
+My mother can't come.	মোৰ মা আহিব নোৱাৰে।
+My mother cooks well.	মোৰ মাই ভাললৈ ৰান্ধে।
+My mother cooks well.	মোৰ মাই ভাললৈ ৰন্ধা-বঢ়া কৰে।
+My son can tell time.	মোৰ পুতেকে সময় ক'ব নোৱাৰে।
+My son can tell time.	মোৰ ল'ৰাই সময় ক'ব নোৱাৰে।
+No news is good news.	কোনো খবৰেই ভাল খবৰ নহয়।
+Then what did you do?	তেন্তে তুমি কি কৰিলা?
+Then what did you do?	তেন্তে আপুনি কি কৰিলে?
+Then what did you do?	পাছত তুমি কি কৰিলা?
+They went to Tottori.	তেওঁলোক ট'ট'ৰীলৈ গৈছিল।
+They went to Tottori.	সিহঁত ট'ট'ৰীলৈ গৈছিল।
+They went to Tottori.	তেওঁলোক ট'ট'ৰীলৈ গৈছে।
+They went to Tottori.	তেওঁলোক ট'ট'ৰীলৈ গ'ল।
+This book is smaller.	এই কিতাপখন বেছি সৰু।
+This button is loose.	এই বুটামটো ঢিলা।
+This door won't open.	এই দুৱাৰখন নুখুলে।
+This fish smells bad.	এই মাছটো বেয়া গোন্ধাইছে।
+This is homemade jam.	এয়া ঘৰত বনোৱা জাম।
+This is homemade jam.	এয়া ঘৰত তৈয়াৰ কৰা মিঠা আচাৰ।
+This is homemade jam.	এয়া ঘৰত তৈয়াৰ কৰা জেলী।
+This sweater is warm.	এই চুৱেটাৰটো গৰম।
+This watch is broken.	এই ঘড়ীটো ভঙা।
+This watch is broken.	এই ঘড়ীটো ভগা।
+This watch is broken.	এই ঘড়ীটো বেয়া।
+Those apples are big.	সেই আপেলকেইটা ডাঙৰ।
+Those houses are big.	সেই ঘৰকেইখন ডাঙৰ।
+Tom admitted he lied.	টমে মানি ল'লে যে সি মিছা কৈছে।
+Tom admitted he lied.	টমে স্বীকাৰ কৰিছে যে তেওঁ ফাঁকি দিছে।
+Tom broke the window.	টমে খিৰিকীখন ভাঙিলে।
+Tom broke the window.	টমে খিৰিকীখন ভাগিলে।
+Tom entered the bank.	টমে বেংকত প্ৰৱেশ কৰিলে।
+Tom had to stop that.	টমে সেয়া বন্ধ কৰিবলগীয়া হ'ল।
+Tom has a nice voice.	টমৰ মাতটো ধুনীয়া।
+Tom is always absent.	টম্‌ সদায় অনুপস্থিত থাকে।
+Tom speaks no French.	টমে ফৰাচী নকয়।
+Tom wasn't behind me.	টম্‌ মোৰ পিছত নাছিল।
+Tom wasn't in my way.	টম্‌ মোৰ বাটত নাছিল।
+Tom wasn't screaming.	টমে চিঞৰি থকা নাছিল।
+Tom wasn't sent home.	টমক ঘৰলৈ পঠিওৱা হোৱা নাছিল।
+Tom wasn't the first.	টম্‌ প্ৰথমজন নাছিল।
+Tom wasn't whistling.	টমে সুহুৰি মাৰি থকা নাছিল।
+We all make mistakes.	আমি সকলোৱে ভুল কৰে।
+We arrived home late.	আমি দেৰিকৈ ঘৰ আহি পালোঁ।
+We arrived home late.	আমি দেৰিকৈ ঘৰ আহি পাইছোঁ।
+We love our children.	আমি আমাৰ শিশুসকলক ভাল পাওঁ।
+We love our children.	আমি আমাৰ শিশুসকলক মৰম কৰোঁ।
+We need more workers.	আমাক আৰু কৰ্মীৰ প্ৰয়োজন।
+We need more workers.	আমাক আৰু কৰ্মী লাগে।
+We were younger then.	আমি তেতিয়া ডেকা আছিলোঁ।
+We were younger then.	আমি তেতিয়া ডেকা-গাভৰু আছিলোঁ।
+We were younger then.	আমি তেতিয়া গাভৰু আছিলোঁ।
+We'll meet on Sunday.	আমি দেওবাৰে লগ ধৰিম।
+We're baking cookies.	আমি কুকিজ বেক কৰি আছোঁ।
+We're ready to leave.	আমি যাবলৈ সাজু।
+What are you cooking?	আপুনি কি ৰান্ধি আছে?
+What are you cooking?	তুমি কি ৰান্ধি আছা?
+What are you reading?	আপুনি কি পঢ়ি আছে?
+What are you reading?	তুমি কি পঢ়ি আছা?
+What did Bell invent?	বেলে কি আৱিষ্কাৰ কৰিছে?
+What do you want now?	এতিয়া আপুনি কি বিচাৰে?
+What do you want now?	এতিয়া তোমাক কি লাগে?
+What do you want now?	এতিয়া তুমি কি বিচাৰা?
+What is your address?	আপোনাৰ ঠিকনা কি?
+What is your address?	তোমাৰ ঠিকনা কি?
+What's going on here?	ইয়াত কি চলি আছে?
+Where is the problem?	সমস্যাটো ক'ত?
+Where is your school?	তোমাৰ বিদ্যালয়খন ক’ত আছে?
+Where is your school?	তোমাৰ স্কুলখন ক’ত?
+Where is your school?	তোমাৰ স্কুলখন ক’ত আছে?
+Why don't we go home?	আমি ঘৰলৈ নাযাওঁ কিয়?
+You are to stay here.	আপুনি ইয়াত থাকিব লাগিব।
+You can use this car.	আপুনি এই গাড়ীখন ব্যৱহাৰ কৰিব পাৰে।
+You can use this car.	তুমি এই গাড়ীখন ব্যৱহাৰ কৰিব পাৰা।
+You must not come in.	আপুনি ভিতৰলৈ আহিবই নালাগে।
+You're going too far.	আপুনি বহুত দূৰলৈ গৈ আছে।
+You're going too far.	তুমি বহুত দূৰলৈ গৈ আছা।
+You're going too far.	তুমি বেছিয়ে দূৰলৈ গৈ আছা।
+You're going too far.	আপুনি বেছিয়ে দূৰলৈ গৈ আছে।
+Your answer is right.	আপোনাৰ উত্তৰ শুদ্ধ।
+Your answer is right.	তোমাৰ উত্তৰ শুদ্ধ।
+Your answer is wrong.	আপোনাৰ উত্তৰ ভুল।
+Your answer is wrong.	তোমাৰ উত্তৰ ভুল।
+Are they all the same?	তেওঁলোক আটাইকেইজন একেই নেকি?
+Are they all the same?	সিহঁত আটাইকেইজন একেই নেকি?
+Are they all the same?	তেওঁলোক আটাইকেইগৰাকী একেই নেকি?
+Did you get your wish?	তোমাৰ ইচ্ছা পূৰণ হ'লনে?
+Did you get your wish?	আপোনাৰ ইচ্ছা পূৰণ হ'লনে?
+Don't you like apples?	তোমাৰ আপেল ভাল নালাগেনে?
+He came several times.	সি কেইবাবাৰো আহিছে।
+He came several times.	তেওঁ কেইবাবাৰো আহিছে।
+He has turned traitor.	তেওঁ দেশদ্ৰোহী ওলালগৈ।
+He has turned traitor.	তেওঁ বিশ্বাসঘাতক ওলালগৈ।
+He has turned traitor.	সি বিশ্বাসঘাতক ওলালগৈ।
+How high can you jump?	তুমি কিমান ওখ জঁপিয়াব পাৰা?
+How high can you jump?	আপুনি কিমান ওখ জঁপিয়াব পাৰে?
+How long did you stay?	আপুনি কিমান দিন থাকিলে?
+How long did you stay?	আপুনি কিমান দিন থাকিছে?
+How long did you stay?	তুমি কিমান দিন থাকিলা?
+How long did you stay?	তুমি কিমান দিন থাকিছা?
+How long did you stay?	আপুনি কিমান দেৰি থাকিলে?
+How long did you stay?	তুমি কিমান দেৰি থাকিলা?
+I have a plan in mind.	মোৰ মনত এটা যোজনা আছে।
+I have a plan in mind.	মোৰ মনত এটা প্লেন আছে।
+I have no money today.	আজি মোৰ হাতত এটাও টকা নাই।
+I have no money today.	আজি মোৰ হাতত অলপো টকা নাই।
+I have no money today.	আজি মোৰ লগত টকা-পইচা নাই।
+I have to go to sleep.	মই শুব যাব লাগিব।
+I lent Tom some books.	মই টমক কেইখনমান কিতাপ ধাৰত দিছোঁ।
+I must help my mother.	মই মোৰ মাক সহায় কৰিবই লাগিব।
+I thought it was true.	মই সঁচা বুলি ভাবিছিলোঁ।
+I'd like some privacy.	কিছু গোপনীয়তা পালে ভাল পাম৷
+I'd like some privacy.	অলপ গোপনীয়তা পালে ভাল পাম৷
+I'm just a little boy.	মই মাথোঁ এটা কণমানি ল'ৰা।
+Is it time to eat yet?	খোৱা সময় হৈছেনে বাৰু?
+Is your watch correct?	আপোনাৰ ঘড়ী ঠিকেই আছেনে?
+It is true in a sense.	এক অৰ্থত এয়া সঁচা।
+Like father, like son.	যেনে বাপেক, তেনে পুতেক।
+Make yourself at home.	নিজৰ ঘৰ বুলিয়েই ভাবক।
+My father is a doctor.	মোৰ দেউতা এজন ডাক্তৰ।
+My father is a doctor.	মোৰ দেউতা এগৰাকী চিকিৎসক।
+My father loves pizza.	মোৰ দেউতাই পিজা ভাল পায়।
+My mother loves music.	মোৰ মায়ে সংগীত ভাল পায়।
+Nobody understands me.	মোক কোনেও বুজি নাপায়।
+She's in the restroom.	তাই জিৰণিকোঠাত আছে।
+She's in the restroom.	তেওঁ জিৰণিকোঠাত আছে।
+Stick out your tongue.	আপোনাৰ জিভাখন উলিয়াওঁক।
+Tell me what happened.	কি হ'ল মোক কওঁক।
+Tell me what you want.	আপোনাক কি লাগে কওক।
+Tell me what you want.	তোমাক কি লাগে কোৱা।
+Tell me what you want.	আপুনি কি বিচাৰিছে মোক কওক।
+Tell me what you want.	তুমি কি বিচাৰিছা মোক কোৱা।
+That's what I'm doing.	মই সেয়াই কৰি আছোঁ।
+That's what I'm doing.	মই তাকেই কৰি আছোঁ।
+The bus arrived empty.	বাছখন খালী আহি পাইছে।
+Then where did you go?	পাছত তুমি ক'লৈ গ'লা?
+Then where did you go?	তেন্তে তুমি ক'লৈ গ'লা?
+Then where did you go?	তেন্তে তুমি ক'ত গৈছিলা?
+Then where did you go?	পাছত আপুনি ক'ত গৈছিলে?
+This blouse is cotton.	এইটো কটনৰ ব্লাউজ।
+This heater burns gas.	এই হীটাৰটোৱে গেছ জ্বলায়।
+This is the last game.	এইটো অন্তিম খেল।
+This textbook is good.	এই পাঠ্যপুস্তকখন ভাল।
+This work doesn't pay.	এই কামত পইছা নাপায়।
+Those are my trousers.	সেই পেণ্টকেইযোৰ মোৰ।
+Those are my trousers.	সেই পটলুনকেইযোৰ মোৰ।
+Those photos are hers.	সেই ফটোকেইখন তাইৰ।
+Those photos are hers.	সেই ফটোকেইখন তেওঁৰ।
+Tom can't play tennis.	টমে টেনিছ খেলিব নোৱাৰে।
+Tom doesn't like cops.	টমে পুলিচ ভাল নাপায়।
+Tom wasn't in the car.	টম্‌ গাড়ীত নাছিল।
+Tom wasn't in the van.	টম্‌ ভেনত নাছিল।
+Tom wasn't my student.	টম্‌ মোৰ ছাত্ৰ নাছিল।
+Tom works us too hard.	টমে বৰ কষ্ট কৰে।
+Tom works us too hard.	টমে খুব পৰিশ্ৰম কৰে।
+Turn in your homework.	আপোনাৰ হ'মৱৰ্ক জমা দিয়ক।
+Turn in your homework.	আপোনাৰ হ'মৱৰ্ক দাখিল কৰক।
+Turn in your homework.	তোমাৰ হ'মৱৰ্ক জমা দিয়া।
+Turn in your homework.	তোমাৰ হ'মৱৰ্ক দাখিল কৰা।
+Two seats were vacant.	দুখন ছীট খালী আছিল।
+Two seats were vacant.	দুখন আসন খালী আছিল।
+Use your common sense.	নিজৰ সাধাৰণ বুদ্ধি ব্যৱহাৰ কৰক।
+Use your common sense.	নিজৰ সাধাৰণ বুদ্ধি ব্যৱহাৰ কৰা।
+We all want something.	আমি প্ৰত্যেকেই কিবা বিচাৰোঁ।
+We captured the thief.	আমি চোৰটোক ধৰিলোঁ।
+We have two daughters.	আমাৰ দুজনী ছোৱালী আছে।
+We have two daughters.	আমাৰ দুজনী কন্যা আছে।
+We respect them a lot.	আমি তেওঁক বৰ সন্মান কৰোঁ।
+We want something new.	আমি কিবা নতুন বিচাৰোঁ।
+We'll begin work soon.	আমি সোনকালে কাম আৰম্ভ কৰিম।
+We've run out of time.	আমাৰ সময় শেষ হৈছে।
+What are the symptoms?	লক্ষণসমূহ কি কি?
+What did it look like?	দেখাত কিহৰ দৰে আছিল?
+What grade are you in?	তুমি কোন শ্ৰেণীত আছা?
+What you say is right.	আপোনাৰ কথাটো ঠিকেই।
+What you say is right.	আপুনি যি কৈছে ঠিকেই কৈছে।
+What you say is right.	তুমি যি কৈছা ঠিকেই কৈছা।
+What you say is right.	তোমাৰ কথাটো ঠিকেই।
+What'd the doctor say?	ডাক্তৰে কি ক'লে?
+When is your birthday?	তোমাৰ জন্মদিন কেতিয়া?
+Where is the bathroom?	বাথৰুম ক'ত আছে?
+Where is the bathroom?	গোচলখানা ক'ত আছে?
+Where's the money now?	টকাখিনি এতিয়া ক'ত আছে?
+Which is your luggage?	আপোনাৰ বয়-বস্তু কোনটো?
+Which is your luggage?	আপোনাৰ লাগেজ কোনটো?
+Why did Tom come back?	টম্‌ কিয় ঘূৰি আহিছে?
+Why did Tom come back?	টম্‌ কিয় ঘূৰি আহিল?
+Why did Tom come back?	টম্‌ কিয় উভতি আহিছে?
+Will you stay at home?	আপুনি ঘৰতে থাকিবনে।
+Will you stay at home?	তুমি ঘৰতে থাকিবানে।
+You are off the point.	আপুনি মূল বিষয়ৰ পৰা আঁতৰি গৈছে।
+You may keep the book.	আপুনি কিতাপখন ৰাখিব পাৰে।
+You may keep the book.	তুমি কিতাপখন ৰাখিব পাৰা।
+You will stay at home.	আপুনি ঘৰতে থাকিব।
+You will stay at home.	তুমি ঘৰতে থাকিবা।
+You're not very smart.	তুমি বৰ স্মাৰ্ট নহয়।
+Your hair is too long.	আপোনাৰ চুলি খুবেই দীঘল।
+Your hair is too long.	তোমাৰ চুলি বৰ বেছি দীঘল।
+Did you watch the game?	তুমি খেলখন চাইছানে?
+Did you watch the game?	আপুনি খেলখন চাইছেনে?
+Do you think Tom cares?	তুমি ভাবানে টমে কেৰেপ কৰে বুলি?
+Does Tom have children?	টমৰ সন্তান আছেনে?
+Does Tom have children?	টমৰ ল'ৰা-ছোৱালী আছেনে?
+He doesn't like coffee.	তেওঁ কফি ভাল নাপায়।
+He doesn't like coffee.	সি কফি ভাল নাপায়।
+He doesn't mince words.	তেওঁ ঘূৰাই-পকাই কথা নকয়।
+He doesn't mince words.	সি ঘূৰাই-পকাই কথা নকয়।
+He is a budding singer.	তেওঁ এগৰাকী উদীয়মান গায়ক।
+He is a budding singer.	সি এজন উদীয়মান গায়ক।
+He is popular among us.	তেওঁ আমাৰ মাজত জনপ্ৰিয়।
+He is popular among us.	সি আমাৰ মাজত জনপ্ৰিয়।
+How do I get to Gate 5?	মই ৫ নং গেটলৈ কেনেকৈ যাম?
+How much food is there?	কিমানখিনি খাদ্য আছে?
+I don't need your help.	মোক তোমাৰ সহায় নালাগে।
+I need a place to live.	মোক থাকিবলৈ এদোখৰ জাগা লাগে৷
+I need to go get ready.	মই গৈ সাজু হ'ব লাগিব।
+I really enjoy dancing.	মই সঁচাকৈয়ে নাচি মজা পাওঁ।
+I want something sweet.	মোক কিবা মিঠা বস্তু লাগে।
+I'll miss your cooking.	তোমাৰ ৰন্ধা-বঢ়াৰ কথা মোৰ মনত পৰিব।
+I'm not related to you.	মই তোমাৰ সম্বন্ধীয় নহয়।
+I'm proud of my father.	মই মোৰ দেউতাক লৈ গৌৰৱ কৰোঁ।
+It was nice to see you.	আপোনাক লগ পাই ভাল লাগিল।
+It's partly your fault.	তোমাৰো অলপ ভুল আছিল।
+It's partly your fault.	আপোনাৰো অলপ ভুল আছিল।
+It's rather warm today.	আজি বৰঞ্চ গৰম।
+Just follow your heart.	মাথোঁ নিজৰ হিয়াৰ কথা শুনক।
+Just follow your heart.	মাথোঁ তোমাৰ হিয়াৰ কথা শুনা।
+Let's see what happens.	চাওঁ কি হয়।
+Mind your own business!	নিজৰ কামত মন দিয়ক!
+My door is always open.	মোৰ দুৱাৰখন সদায়ে খোলা।
+My father is a teacher.	মোৰ দেউতা এজন শিক্ষক।
+My father is very nice.	মোৰ দেউতা বৰ ভাল।
+My father likes tennis.	মোৰ দেউতাই টেনিছ ভাল পায়।
+My father went fishing.	মোৰ দেউতাই মাছ মাৰিবলৈ গৈছে।
+My father's car is new.	মোৰ দেউতাৰ গাড়ীখন নতুন।
+My mother is a teacher.	মোৰ মা এগৰাকী শিক্ষক।
+My mother is beautiful.	মোৰ মা ধুনীয়া।
+My mother is on a diet.	মোৰ মায়ে ডায়েট কৰি আছে।
+My son can't count yet.	মোৰ ল'ৰাই এতিয়ালৈ গন্তি কৰিব নোৱাৰে।
+My son can't count yet.	মোৰ পূত্ৰই এতিয়ালৈ গন্তি কৰিব নোৱাৰে।
+My son is a journalist.	মোৰ ল'ৰা এজন সাংবাদিক।
+My son is a journalist.	মোৰ পুত্ৰ এগৰাকী সাংবাদিক।
+Tell me which you want.	মোক কওক আপোনাক কোনটো লাগে।
+Tell me which you want.	মোক কোৱা তোমাক কোনটো লাগে।
+That'll change nothing.	সেইটোৰ একো লাভ নাই।
+That'll change nothing.	সেইটোৱে একো সলনি কৰে।
+They say love is blind.	বোলে প্ৰেম অন্ধ।
+They say love is blind.	কোৱা হয় প্ৰেম অন্ধ।
+This car needs washing.	এই গাড়ীখন ধুব লাগিব।
+This carpet feels nice.	এই দলিচাখন চুই ভাল লাগিছে।
+This engine works well.	এই ইঞ্জিনটো ভালেই কাম কৰে।
+This engine works well.	এই ইঞ্জিনটো ভালকৈ কাম কৰে।
+This water tastes good.	এই পানী খাই ভাল লাগে।
+This water tastes good.	এই পানী খাই ভাল লাগিছে।
+Tom is on life support.	টম্‌ লাইফ ছাপ'ৰ্টত আছে।
+Tom was just behind me.	টম্‌ মোৰ পিছফালেই আছিল।
+Tom wasn't in the room.	টম্‌ ৰুমত নাছিল।
+Try as hard as you can.	যিমান পাৰা জোৰ দিয়া।
+Try as hard as you can.	যিমান পাৰে জোৰ দিয়ক।
+Turn toward me, please.	মোৰফালে ঘূৰকচোন।
+We saw nothing strange.	আমি কিবা আচৰিত দেখা পাইছোঁ।
+We saw nothing strange.	আমি কিবা আচৰিত দেখা পালোঁ।
+We saw nothing strange.	আমি কিবা আচৰিত দেখিলোঁ।
+We saw nothing strange.	আমি কিবা আচৰিত দেখিছোঁ।
+We should've done that.	আমি সেয়া কৰিব লাগিছিল।
+What are your symptoms?	আপোনাৰ লক্ষণ কি কি?
+What disease do I have?	মোৰ কি ৰোগ হৈছে?
+What disease do I have?	মোৰ কি বেমাৰ হৈছে?
+What does your aunt do?	তোমাৰ মামীয়ে কি কৰে?
+What does your aunt do?	তোমাৰ খুড়ীয়ে কি কৰে?
+What illness do I have?	মোৰ কি ৰোগ হৈছে?
+What illness do I have?	মোৰ কি বেমাৰ হৈছে?
+What's that over there?	তাত সেয়া কি?
+What's that over there?	তাত সেইটো কি?
+Where are you studying?	তুমি ক'ত পঢ়ি আছা?
+Where are you studying?	আপুনি ক'ত পঢ়ি আছে?
+Where are your manners?	তোমাৰ স্বভাৱ-চৰিত্ৰ ক'ত গ'ল?
+Where do you come from?	আপুনি ক'ৰ পৰা আহিছে?
+Where do you come from?	তুমি ক'ৰ পৰা আহিছা?
+Where do you have pain?	আপোনাৰ বিষ ক'ত হয়?
+Where is everybody now?	সকলো ক'ত আছে এতিয়া?
+Would you like to come?	আপুনি আহিব খোজেনে?
+Would you like to come?	তুমি আহিব খোজানে?
+You must start at once.	আপুনি এবাৰতেই আৰম্ভ কৰিব লাগিব।
+You ought to thank him.	আপুনি তেওঁক ধন্যবাদ জনোৱা উচিত।
+You should know better.	তুমি আৰু ভালকৈ জনা উচিত।
+You took the wrong key.	তুমি ভুল চাবি লৈছা।
+You took the wrong key.	আপুনি ভুল চাবি লৈছে।
+You'd better start now.	আপুনি এতিয়া আৰম্ভ কৰাই ভাল।
+You're not fast enough.	তুমি বৰ দ্ৰুত নহয়।
+You're not fast enough.	আপুনি ইমান এটা দ্ৰুত নহয়।
+You're not fast enough.	তুমি ইমান এটা দ্ৰুত নহয়।
+You're such a cute boy.	তুমি ইমান মৰমলগা ল'ৰা।
+Your o's look like a's.	তোমাৰ o-বোৰ দেখাত a-ৰ দৰে।
+All the lights went out.	আটাইকেইটা লাইট নুমাই গ'ল।
+All the lights went out.	আটাইকেইটা লাইট বন্ধ হৈ গ'ল।
+Are you referring to me?	আপুনি মোৰ কথা কৈ আছে নেকি?
+Are you referring to me?	তুমি মোৰ কথা কৈ আছা নেকি?
+Both men died instantly.	দয়োজন মানুহ থিতাতে ঢুকাল।
+Both men died instantly.	দয়োজন মানুহ লগে লগে ঢুকাল।
+Both men died instantly.	দয়োজন মানুহ থিতাতে মৰি থাকিল।
+Can you fix this for me?	তুমি মোক এইটো ঠিক কৰি দিব পাৰিবানে?
+Can you fix this for me?	আপুনি মোক এইটো ঠিক কৰি দিব পাৰিবনে?
+Do you want fruit juice?	আপুনি ফলৰ চৰবত খাব বিচাৰে নেকি?
+Do you want fruit juice?	তোমাক ফলৰ চৰবত লাগে নেকি?
+Have you heard from him?	আপুনি তেওঁৰ কিবা খবৰ পাইছেনে?
+Have you heard from him?	তুমি তেওঁৰ কিবা খবৰ পাইছানে?
+Have you seen something?	তুমি কিবা দেখিছা নেকি?
+Have you seen something?	আপুনি কিবা দেখিছে নেকি?
+He is not what he seems.	তেওঁ যেনে দেখাত তেনে নহয়।
+He was more than a king.	তেওঁ ৰজাতকৈও অধিক আছিল।
+He will be back shortly.	সি সোনকালে ঘূৰি আহিব।
+He will be back shortly.	তেওঁ সোনকালেই উভতিব।
+He will be back shortly.	তেওঁ সোনকালে উভতি আহিব।
+I didn't dance with Tom.	মই টমৰ লগত নচা নাই।
+I hope to hear from you.	আপোনাৰ উত্তৰৰ বাবে ৰৈ আছোঁ।
+I hope to hear from you.	আপোনাৰ মত জানিবলৈ ৰৈ আছোঁ।
+I still think it's good.	মই এতিয়াও ভাবো যে এইটো ভাল৷
+I thought Tom was alone.	মই ভাবিলোঁ টম্‌ অকলে আছিল।
+I wish to see my father.	মোৰ দেউতাক চাবলৈ মন যায়।
+I'll come to your place.	মই তোমাৰ তালৈ যাম।
+I'll come to your place.	মই তোমাৰ ঘৰলৈ যাম।
+I'm going to report you.	মই তোমাৰ কথা সদৰি কৰিম।
+I'm going to report you.	মই আপোনাৰ কথা সদৰি কৰিম।
+Is it easy to get there?	তালৈ গৈ পোৱাটো সহজনে?
+It's awfully cold today.	আজি বিৰাট ঠাণ্ডা দিছে।
+Let's see what happened.	চাওঁ কি হ'ল।
+Maybe we should go home.	চাগৈ আমি ঘৰলৈ যোৱা উচিত।
+My father is very tired.	মোৰ দেউতাৰ বৰ ভাগৰ লাগিছে।
+My father likes his job.	মোৰ দেউতাই তেওঁৰ কাম ভাল পায়।
+My father seldom smokes.	মোৰ দেউতাই খুব কমেই ধূম্ৰপান কৰে।
+My father seldom smokes.	মোৰ দেউতাই খুব কমেই চিগাৰেট খায়।
+My mother made me a bag.	মোৰ মায়ে মোক এটা বেগ চিলাই দিছে।
+My mother made me study.	মোৰ মায়ে মোক পঢ়িবলৈ দিছে।
+My mother must be angry.	মোৰ মায়ে নিশ্চয় খং কৰিব।
+My mother must be angry.	মোৰ মাৰ নিশ্চয় খং উঠিছে।
+My mother speaks slowly.	মোৰ মায়ে লাহে লাহে কথা পাতে।
+Please lend me your car.	মোক তোমাৰ গাড়ীখন দিয়াচোন।
+Please lend me your car.	মোক আপোনাৰ গাড়ীখন দিয়কচোন।
+Push the button, please.	বুটামটো হেঁচি দিয়কচোন।
+Push the button, please.	অনুগ্ৰহ কৰি, বুটামটো হেঁচি দিয়ক।
+Shoes are sold in pairs.	জোতা যোৰা হিচাপে বিক্ৰী কৰা হয়।
+Show me what you bought.	আপুনি কি কিনিছে মোক দেখুৱাওক।
+So, what's your opinion?	তেন্তে আপোনাৰ মতামত কি?
+The sky is getting dark.	আকাশ ডাৱৰীয়া হৈ গৈ আছে।
+There was a strong wind.	প্ৰবল বতাহ বলি আছিল।
+They are going shopping.	সিহঁত বজাৰ কৰিবলৈ গৈ আছে।
+They are going shopping.	তেওঁলোক বজাৰ কৰিবলৈ গৈ আছে।
+They ate and they drank.	তেওঁলোকে খাই পান কৰিছে।
+They ate and they drank.	সিহঁতে খালে আৰু পিলে।
+This car is my father's.	এইখন মোৰ দেউতাৰ গাড়ী।
+This flower smells nice.	এই ফুলটো ভাল গোন্ধাইছে।
+This flower smells nice.	এই ফুলটো ভাল গোন্ধায়।
+This food smells rotten.	এই খাদ্য গেলা-পচা গোন্ধাইছে।
+This food smells rotten.	এই খাদ্য গেলা-পচা গোন্ধায়।
+This is genuine leather.	এয়া আচল চামৰা।
+This room gets sunshine.	এই ৰুমটোত ৰ'দৰ পোহৰ আহে।
+This turkey tastes good.	এই টাৰ্কীৰ মাংস খাই ভাল লাগে।
+This turkey tastes good.	এই টাৰ্কীৰ মাংস খাই ভাল লাগিছে।
+Those flowers have died.	সেই ফুলবোৰ মৰি গৈছে।
+Tom doesn't like cheese.	টমে চীজ ভাল নাপায়।
+Tom was taking a shower.	টমে গা ধুই আছিল৷
+Tom wasn't in the woods.	টম্‌ জংঘলত নাছিল।
+Tom won't be right back.	টম্‌ এতিয়াই ঘূৰি নাহে।
+Tom won't ever hurt you.	টমে কেতিয়াও তোমাক দোষ নিদিয়ে।
+We are glad to help you.	আপোনাক সহায় কৰি আমাৰ ভাল লাগিল।
+What I need is a shovel.	মোক বেলচা এখন লাগে।
+What an incredible view!	কি যে অবিশ্বাস্য দৃশ্য!
+What is your blood type?	আপোনাৰ ব্লাড গ্ৰুপ কি?
+What's the airmail rate?	বিমান-ডাকৰ দাম কিমান?
+Write your address here.	ইয়াত আপোনাৰ ঠিকনা লিখক।
+Write your address here.	ইয়াত তোমাৰ ঠিকনা লিখা।
+You can swim, can't you?	তুমি সাঁতুৰিব পাৰা, নোৱাৰা জানো?
+You can swim, can't you?	আপুনি সাঁতুৰিব পাৰে, নোৱাৰে জানো?
+You can't swim, can you?	তুমি সাঁতুৰিব নোৱাৰা, পাৰা জানো?
+You can't swim, can you?	আপুনি সাঁতুৰিব নোৱাৰে, পাৰে জানো?
+You dropped your pencil.	তোমাৰ পেঞ্চিলডাল পৰিছে।
+You must face the facts.	আপুনি সত্যৰ সন্মুখীন হ'বই লাগিব।
+You should have done so.	তুমি তেনেকৈয়ে কৰিব লাগিছিল।
+You should have done so.	তুমি সেয়াই কৰিব লাগিছিল।
+You should have seen it.	আপুনি চাব লাগিছিল।
+Your English is perfect.	আপোনাৰ ইংৰাজী উত্তম।
+Did my father really die?	মোৰ দেউতা সঁচাকৈয়ে ঢুকাইছে নেকি?
+Do whatever he tells you.	সি তোমাক যি কয় তাকেই কৰা।
+Do whatever he tells you.	তেওঁ আপোনাক যি কয় তাকেই কৰক।
+Do whatever he tells you.	তেওঁ তোমাক যি কয় তাকেই কৰা।
+Don't you move from here.	ইয়াৰ পৰা নলৰিব।
+Don't you move from here.	ইয়াৰ পৰা নলৰিবাঁ।
+Go and find Tom and Mary.	টম্‌ আৰু মেৰীক বিচাৰকগৈ।
+Go and find Tom and Mary.	টম্‌ আৰু মেৰীক বিচাৰাগৈ।
+Go and tell Tom and Mary.	টম্‌ আৰু মেৰীক কোৱাগৈ।
+Go and tell Tom and Mary.	টম্‌ আৰু মেৰীক কওকগৈ।
+He asked after my mother.	সি মোৰ মাৰ বিষয়ে সুধিলে।
+He asked after my mother.	তেওঁ মোৰ মাৰ বিষয়ে সুধিলে।
+He asked after my mother.	তেওঁ মোৰ মাৰ বিষয়ে সুধিছে।
+How about taking a break?	বিৰতি ল'লে কেনে হ'ব?
+How are we feeling today?	আজি আপুনি কেনে অনুভৱ কৰি আছে?
+How are we feeling today?	আজি তোমাৰ কেনে লাগি আছে?
+I can't fight any longer.	মই আৰু কাজিয়া লাগিব নোৱাৰোঁ।
+I can't fight any longer.	মই এতিয়া আৰু যুঁজিব নোৱাৰোঁ।
+I can't find my umbrella.	মই মোৰ ছাতি বিচাৰি পোৱা নাই।
+I don't know either girl.	মই কোনোজনী ছোৱালীকে চিনি নাপাওঁ।
+I don't like you anymore.	মই এতিয়া আৰু তোমাক ভাল নাপাওঁ।
+I don't like you anymore.	মই এতিয়া আৰু আপোনাক ভাল নাপাওঁ।
+I have another good idea.	মোৰ আৰু এটা ভাল ধাৰণা আছে৷
+I have another good idea.	মোৰ আন এটা ভাল ধাৰণা আছে৷
+I have to help my mother.	মই মোৰ মাক সহায় কৰিব লাগিব।
+I made my son a new suit.	মই মোৰ পুতক এযোৰ নতুন ছুট চিলাই দিলোঁ।
+I made my son a new suit.	মই মোৰ পুতক এযোৰ নতুন ছুট চিলাই দিছোঁ।
+I was born in the winter.	মই শীতকালিত জন্ম পাইছিলো৷
+I'd like to see a doctor.	মই ডাক্তৰ এজনক দেখুৱাব খোজোঁ।
+I'd like to see a doctor.	মই ডাক্তৰ এগৰাকীক দেখুৱাব বিচাৰোঁ।
+I'd like to see the menu.	মই মেনুখন চাব বিচাৰোঁ।
+I'm as tall as my father.	মই মোৰ দেউতাৰ সমানেই ওখ।
+It took forever to do it.	সেয়া কৰিবলৈ চিৰকাল লাগিল।
+It's a little cool today.	আজি অলপ ঠাণ্ডা।
+My father died of cancer.	মোৰ দেউতাৰ কৰ্কট ৰোগ হৈ মৃত্যু হৈছে।
+My father died of cancer.	মোৰ দেউতা কৰ্কট ৰোগ হৈ ঢুকাইছে।
+My father gave me a game.	মোৰ দেউতাই মোক এটা গেম দিছে।
+My father gave me a game.	মোৰ দেউতাই মোক এটা গেম দিলে।
+My father got well again.	মোৰ দেউতা আকৌ সুস্থ হৈ উঠিল।
+My father has many books.	মোৰ দেউতাৰ বহুকেইখন কিতাপ আছে।
+My father is always busy.	মোৰ দেউতা সদায়ে ব্যস্ত থাকে।
+My father is in his room.	মোৰ দেউতা তেওঁৰ ৰুমত আছে।
+My father used to travel.	মোৰ দেউতাই ভ্ৰমণ কৰিছিল।
+My father used to travel.	মোৰ দেউতাই ফুৰিছিল।
+My mother is always busy.	মোৰ মা সদায়ে ব্যস্ত থাকে।
+My mother is sick in bed.	মোৰ মা বেমাৰ হৈ বিছনাত পৰি আছে।
+My mother is sick in bed.	মোৰ মা অসুস্থ হৈ বিছনাত পৰি আছে।
+My son is taller than me.	মোৰ পুত মোতকৈ ওখ।
+My son is taller than me.	মোৰ ল'ৰা মোতকৈ ওখ।
+Never break your promise.	কেতিয়াও নিজৰ প্ৰতিশ্ৰুতি ভংগ নকৰিব।
+Never break your promise.	কেতিয়াও নিজৰ শপত নাভাঙিবা।
+Never break your promise.	কেতিয়াও নিজৰ শপত নাভাঙিব।
+So, what's your decision?	তেন্তে আপোনাৰ সিদ্ধান্ত কি?
+That goes without saying.	সেইটো জনা-শুনা কথা।
+That happened to me, too.	সেইটো মোৰ লগতো হৈছে।
+That toy is made of wood.	সেই খেলনাটো কাঠেৰে তৈয়াৰ কৰা হৈছে।
+That wasn't my intention.	মোৰ সেয়া অভিপ্ৰায় নাছিল।
+The forest is very thick.	বৰ ঘন জংঘল।
+The sky has become clear.	আকাশ ফৰকাল হৈছে।
+This gate needs painting.	এই গেটখন ৰং কৰিব লাগিব।
+This will blow your mind.	ই তোমাক আচৰিত কৰি তুলিব।
+Tom is a really bad cook.	টম সঁচাকৈ এজন বেয়া ৰান্ধনী৷
+Tom is an Asian-American.	টম্‌ এজন এছিয়ান মূলৰ আমেৰিকান।
+Tom is young and foolish.	টম্‌ ডেকা আৰু বুৰ্বক।
+Tom read his son a story.	টমে তাৰ ল'ৰাক কাহিনী পঢ়ি শুনালে।
+Tom read his son a story.	টমে তেওঁৰ পুত্ৰক কাহিনী পঢ়ি শুনালে।
+Tom read his son a story.	টমে তেওঁৰ ল'ৰাক গল্প পঢ়ি শুনালে।
+Tom read his son a story.	টমে তেওঁৰ পুতেকক কাহিনী পঢ়ি শুনালে।
+Tom sent Mary a telegram.	টমে মেৰীলৈ টেলিগ্ৰাম পঠিয়াইছে।
+Turn down the television.	টেলিভিজনৰ ভলিউম কম কৰা।
+Turn down the television.	টেলিভিজনৰ ভলিউম কম কৰক।
+We applauded his honesty.	আমি তেওঁৰ সততাৰ প্ৰশংসা কৰিছোঁ।
+We danced to disco music.	আমি ডিস্ক'ৰ সংগীতত নাচিছোঁ।
+What happened last night?	যোৱাৰাতি কি হৈছিল?
+What happened last night?	যোৱানিশা কি হৈছিল?
+What's your home address?	আপোনাৰ ঘৰৰ ঠিকনা কি?
+What's your home address?	তোমাৰ ঘৰৰ ঠিকনা কি?
+What's your real purpose?	আপোনাৰ আচল উদ্দেশ্য কি?
+You must study every day.	তুমি সদায় পঢ়িব লাগিব।
+A strong wind was blowing.	প্ৰবল বতাহ বলি আছিল।
+Can't you see I'm working?	মই কাম কৰি থকা দেখা নাই?
+Forty people were present.	চল্লিশগৰাকী লোক উপস্থিত আছিল।
+Have you ever played golf?	আপুনি কেতিয়াবা গ'ল্ফ খেলি পাইছেনে?
+Have you ever played golf?	তুমি কেতিয়াবা গ'ল্ফ খেলি পাইছানে?
+He doesn't understand you.	সি তোমাক বুজি নাপায়।
+He doesn't understand you.	তেওঁ আপোনাক বুজি নাপায়।
+He doesn't understand you.	সি তোমাক নুবুজে।
+He doesn't understand you.	তেওঁ আপোনাক নুবুজে।
+He is as old as my father.	তেওঁ মোৰ দেউতাৰ সমানেই বৃদ্ধি।
+He is as old as my father.	সি মোৰ দেউতাৰ সমানেই বুঢ়া।
+I am acting for my father.	মই মোৰ দেউতাৰ বাবে অভিনয় কৰি আছোঁ।
+I bought a red sports car.	মই এখন ৰঙা স্প'ৰ্ট্‌ছ কাৰ কিনিলোঁ।
+I bought a red sports car.	মই এখন ৰঙা স্প'ৰ্ট্‌ছ কাৰ কিনিছোঁ।
+I can't explain it either.	ময়ো বুজাব নোৱাৰোঁ।
+I can't lift my right arm.	মই মোৰ সোঁবাহু দাঙিব নোৱাৰোঁ।
+I can't live without a TV.	মই টিভি নোহোৱাকৈ থাকিব নোৱাৰোঁ।
+I don't understand German.	মই জাৰ্মান বুজি নাপাওঁ।
+I really enjoyed the show.	মনোৰঞ্জনটো সঁচাই উপভোগ কৰিলো৷
+I think that you're wrong.	মোৰ মতে তুমি ভুল কৈছা।
+I think that you're wrong.	মোৰ মতে আপুনি ভুল কৈছে।
+I think that you're wrong.	মোৰ মতে তোমাৰ ভুল।
+I think that you're wrong.	মোৰ মতে আপোনাৰ ভুল।
+I want to dye my hair red.	মই মোৰ চুলি ৰঙা ৰং কৰিব বিচাৰোঁ।
+I watched TV this morning.	আজি ৰাতিপুৱা মই টিভি চালোঁ।
+I'll see you after school.	স্কুলৰ পাছত মই তোমাক লগ ধৰিম।
+I'm looking for a sweater.	মই এটা ছুৱেটাৰ বিচাৰি আছোঁ।
+I'm not eager to meet Tom.	মই টমক লগ ধৰিবলৈ ইচ্ছুক নহয়।
+I'm really busy right now.	মই বৰ্তমান সঁচাকৈয়ে ব্যস্ত আছোঁ।
+I'm slowly getting better.	মই লাহে লাহে ভাল হৈ আছোঁ।
+I'm slowly getting better.	মই লাহে লাহে সুস্থ হৈ আছোঁ।
+I'm up to my ears in debt.	মই ধাৰত ডুবি আছোঁ।
+I'm waiting for my mother.	মই মোৰ মাৰ বাবে ৰৈ আছোঁ।
+I'm waiting for my mother.	মই মোৰ মালৈ বাট চাই আছোঁ।
+If I were you, I'd buy it.	মই তোমাৰ জেগাত হ'লে কিনিলোঁহেঁতেন।
+If I were you, I'd buy it.	মই আপোনাৰ জেগাত হ'লে কিনিলোঁহেঁতেন।
+Isn't it a lovely morning?	এয়া এক মনোমোহা পুৱা নহয়নে বাৰু?
+It depends on the context.	সন্দৰ্ভৰ ওপৰত নিৰ্ভৰ কৰে।
+It's nice to have friends.	বন্ধু-বান্ধৱ থকাতো ভাল৷
+It's not really that easy.	ইমানো সহজ নহয়।
+Most dogs have brown eyes.	বেছিভাগ কুকুৰৰে পিতল চকু।
+My father gave up smoking.	মোৰ দেউতাই চিগাৰেট খোৱা এৰিলে।
+My father gave up smoking.	মোৰ দেউতাই চিগাৰেট খোৱা বাদ দিছে।
+My father gave up smoking.	মোৰ দেউতাই ধূম্ৰপান এৰিছে।
+My father helped me study.	মোৰ দেউতাই মোক পঢ়াত সহায় কৰিছে।
+My father is a bank clerk.	মোৰ দেউতা বেংকৰ কেৰাণী।
+My father is getting bald.	মোৰ দেউতা টকলা হৈ গৈ আছে।
+My father is getting bald.	মোৰ দেউতা তপা হৈ গৈ আছে।
+My father loves my mother.	মোৰ দেউতাই মোৰ মাক মৰম কৰে।
+My father loves my mother.	মোৰ দেউতাই মোৰ মাক ভাল পায়।
+My father manages a store.	মোৰ দেউতাই এখন দোকান পৰিচালনা কৰে।
+My father may be sleeping.	মোৰ দেউতা চাগৈ শুই আছে।
+My father may be sleeping.	মোৰ দেউতা হয়তো শুই আছে।
+My father may be sleeping.	মোৰ দেউতা শুই থাকিবও পাৰে।
+My father stopped smoking.	মোৰ দেউতাই চিগাৰেট খোৱা এৰিলে।
+My father swims very well.	মোৰ দেউতাই বৰ ভালকৈ সাঁতোৰে।
+My father was in the navy.	মোৰ দেউতা নৌসেনাত আছিল।
+My mother cleans the room.	মোৰ মায়ে ৰুমটো চাফা কৰে।
+My mother cleans the room.	মোৰ মায়ে কোঠালীটো চাফা কৰে।
+My mother tasted the milk.	মোৰ মায়ে গাখীৰখিনিৰ সোৱাদ ল'লে।
+Not everyone is dishonest.	প্ৰত্যেকেই অসৎ নহয়।
+Put your hands in the air.	হাত দাঙি দিয়ক।
+She went to Takasu clinic.	তাই টাকাছু ক্লিনিকলৈ গ'ল।
+She went to Takasu clinic.	তাই টাকাছু ক্লিনিকলৈ গৈছিল।
+She went to Takasu clinic.	তেওঁ টাকাছু ক্লিনিকলৈ গ'ল।
+She went to Takasu clinic.	তেওঁ টাকাছু ক্লিনিকলৈ গৈছিল।
+Show me where the pain is.	ক'ত বিষ আছে মোক দেখুৱাওঁক।
+Take any train on track 5.	৫ নং ট্ৰেকৰ যিকোনো এখন ট্ৰেইন ধৰা৷
+The cat ran after the rat.	মেকুৰীটো নিগনিৰ পিছে-পিছে দৌৰিলে।
+They were left speechless.	তেওঁলোক হতবাক হৈ পৰিছিল।
+They were plainly dressed.	তেওঁলোকে সাধা কাপোৰ পিন্ধি আছিল।
+They were plainly dressed.	সিহঁতে সাধা কাপোৰ পিন্ধিছিল।
+This house needs painting.	এই ঘৰখন ৰং কৰিব লাগিব।
+This is my younger sister.	এইয়া মোৰ ভণ্টী।
+This is my younger sister.	এইয়া মোৰ সৰু ভনী।
+This laptop belongs to me.	এই লেপটপটো মোৰ।
+This one's not bad either.	এইটোও বেয়া নহয়।
+Those flowers smell sweet.	সেই ফুলবোৰৰ সুগন্ধ ধুনীয়া।
+Tom asked us to be silent.	টমে আমাক চুপ থাকিবলৈ ক'লে।
+Tom is always watching TV.	টমে সদায় টিভি চাই থাকে।
+Tom jumped into the water.	টমে পানীত জাঁপ মাৰিলে।
+Tom may not be interested.	টমৰ আগ্ৰহ নাথাকিবও পাৰে।
+Tom wasn't ready to fight.	টম্‌ যুঁজিবলৈ সাজু নাছিল।
+What has brought you here?	আপোনাক ইয়াত কিহে আনিছে?
+What has brought you here?	আপোনাক ইয়ালৈ কিহে টানি আনিছে?
+What's that tall building?	সেই ওখ অট্টালিকাখন কিহৰ?
+Why are you in Boston now?	আপুনি এতিয়া ব'ষ্টনত কিয়?
+Why are you in Boston now?	তুমি এতিয়া ব'ষ্টনত কিয় আছা?
+You couldn't count on Tom.	আপুনি টমৰ ওপৰত নিৰ্ভৰ কৰিব নোৱাৰে।
+You should pay your debts.	তুমি নিজৰ ধাৰ আদায় কৰা উচিত।
+You should pay your debts.	আপুনি নিজৰ ঋণ আদায় কৰা উচিত।
+You should pay your debts.	আপুনি নিজৰ ঋণ পৰিশোধ কৰা উচিত।
+You'll see that I'm right.	আপুনি দেখিব যে মই ঠিকেই।
+You'll see that I'm right.	তুমি দেখিবা যে মই ঠিকেই।
+You're on the right track.	আপুনি সঠিক পথত আছে।
+Your English is improving.	তোমাৰ ইংৰাজী ভাল হৈ গৈ আছে।
+Go straight down this road.	এই ৰাস্তাত চিধা যাওক।
+Have you ever eaten turkey?	আপুনি কেতিয়াবা টাৰ্কী খাই পাইছেনে?
+Have you ever eaten turkey?	তুমি কেতিয়াবা টাৰ্কী খাই পাইছানে?
+He hinted at his intention.	তেওঁ নিজৰ ইচ্ছাৰ ইংগিত দিলে।
+He hinted at his intention.	সি তাৰ ইচ্ছাৰ ইংগিত দিলে।
+He is an artist in a sense.	এটা অৰ্থত তেওঁ এগৰাকী শিল্পী।
+He is an artist in a sense.	এটা অৰ্থত তেওঁ এজন শিল্পী।
+He is an artist in a sense.	এটা অৰ্থত সি এজন শিল্পী।
+He is as tall as my father.	সি মোৰ দেউতাৰ সমানেই ওখ।
+He is as tall as my father.	তেওঁ মোৰ দেউতাৰ সমানেই ওখ।
+I built my son a new house.	মই মোৰ পুতক এখন নতুন ঘৰ সাজি দিছোঁ।
+I built my son a new house.	মই মোৰ ল'ৰাক এখন নতুন ঘৰ সাজি দিছোঁ।
+I don't watch TV very much.	মই ইমান টিভি নাচাওঁ।
+I forget your phone number.	মই তোমাৰ ফোন নম্বৰ পাহৰি যাওঁ।
+I forget your phone number.	মই আপোনাৰ ফোন নম্বৰ পাহৰি যাওঁ।
+I forget your phone number.	মই তোমাৰ ফোন নম্বৰ পাহৰিলোঁ।
+I got thirty dollars a day.	মই প্ৰতিদিনে ত্ৰিশ ডলাৰকৈ পাইছিলোঁ।
+I have an even better idea.	মোৰ ইয়াতকৈয়ো ভাল ধাৰণা এটা আছে৷
+I met him at Tokyo Station.	মই তেওঁক টকিঅ' ষ্টেশ্যনত লগ পাইছিলো৷
+I want to see what happens.	মই চাব বিচাৰোঁ কি হয়।
+I want to see what happens.	মই চাব খোজোঁ কি হয়।
+I'll go to Boston with Tom.	মই টমৰ লগত ব'ষ্টনলৈ যাম।
+I'm not kidding about this.	মই ইয়াৰ বিষয়ে ধেমালি কৰি থকা নাই।
+I'm sorry my father is out.	ক্ষমা কৰিব মোৰ দেউতা বাহিৰত আছে।
+It looks like Tom is drunk.	টমক মাতাল যেন দেখা হৈছে৷
+It looks like Tom is tough.	টমক কঠোৰ যেন লাগিছে৷
+It looks like Tom is tough.	টমক বলিষ্ঠ যেন লাগিছে৷
+It looks like Tom is upset.	টমক দুখী যেন লাগিছে৷
+It looks like Tom will win.	এনেকুৱা লাগিছে টম জিকিব৷
+It looks like Tom will win.	টম জিকিব যেন লাগিছে৷
+It seems interesting to me.	মোৰ আমোদজনক যেন লাগিছে।
+It was easy for Tom to win.	জিকাতো টমৰ বাবে সহজ আছিল৷
+It was easy for Tom to win.	জিকাতো টমৰ বাবে উজু আছিল৷
+It was easy for Tom to win.	জিকাতো টমৰ কাৰণে সহজ আছিল৷
+It was easy for Tom to win.	জিকাতো টমৰ কাৰণে উজু আছিল৷
+Let Tom go home by himself.	টমক নিজেই ঘৰলৈ যাব দিয়া৷
+Let me give you an example.	তোমাক এটা উদাহৰণ দিওঁ ৰ'বা।
+Let me give you an example.	আপোনাক এটা উদাহৰণ দিওঁ ৰ'ব।
+Let's see what happens now.	চাওঁ এতিয়া কি হয়।
+My father is a businessman.	মোৰ দেউতা এগৰাকী বেপাৰী।
+My father is a businessman.	মোৰ দেউতা এজন ব্যৱসায়ী।
+My father is becoming gray.	মোৰ দেউতাৰ চুলি পকিবলৈ ধৰিছে।
+My father is busy just now.	মোৰ দেউতা বৰ্তমান ব্যস্ত।
+My father must do the work.	মোৰ দেউতাই কামটো কৰিবই লাগিব।
+My father works for a bank.	মোৰ দেউতাই বেংক এটাৰ বাবে কাম কৰে।
+Perhaps Tom didn't do that.	সম্ভৱত সেয়া টমে কৰা নাছিল৷
+Rome wasn't built in a day.	ভুকুতে কলটো নপকে।
+Someone is here to see you.	তোমাক চাবলৈ কোনোবা আহিছে।
+Someone is here to see you.	আপোনাক চাবলৈ কোনোবা আহিছে।
+Tell Tom that I'll do that.	টমক কোৱা যে সেইতো মই কৰিম৷
+Tell Tom you can't do that.	টমক কোৱা তুমি সেয়া কৰিব নোৱাৰা৷
+That probably is Tom's car.	সেইখন চাগে টমৰ গাড়ী৷
+That won't fit into my bag.	সেইটো মোৰ বেগত নধৰিব।
+The sky is becoming cloudy.	আকাশ ডাৱৰীয়া হৈ গৈ আছে।
+They asked after my father.	তেওঁলোকে মোৰ দেউতাৰ কথা সুধিলে।
+They asked after my father.	তেওঁলোকে মোৰ দেউতাৰ বিষয়ে সুধিছে।
+They asked after my father.	সিহঁতে মোৰ দেউতাৰ কথা সুধিছে।
+They were talking about me.	সিহঁতে মোৰ কথা পাতি আছে।
+They were talking about me.	তেওঁলোকে মোৰ বিষয়ে কথা পাতি আছে।
+They were talking about me.	সিহঁতে মোৰ কথা কৈ আছে।
+They were talking about me.	তেওঁলোকে মোৰ বিষয়ে কৈ আছে।
+This girl changed her look.	এই ছোৱালীজনীয়ে নিজৰ ৰূপ সলনি কৰিছে।
+This yogurt tastes strange.	এই দৈৰ সোৱাদ আচৰিত।
+Tom could help you do that.	সেয়া কৰিবলৈ টমে তোমাক সহায় কৰিব পাৰিলেহেঁতেন৷
+Tom knows Boston very well.	টমে বৰ ভালদৰে বষ্টনখন চিনি পায়।
+Tom shot a kid in the back.	টমে সৰু ল'ৰা এটাৰ পিঠিত গুলি মাৰিলে।
+Tom showed the map to Mary.	টমে নক্সাখন মেৰীক দেখুৱালে।
+Tom showed the map to Mary.	টমে মানচিত্ৰখন মেৰীক দেখুৱালে।
+Tom won't be there tonight.	আজি ৰাতি টম্‌ তাত নাথাকে।
+Tom won't ever forgive you.	টমে তোমাক কেতিয়াও ক্ষমা নকৰে।
+Tom won't help us, will he?	টমে আমাক সহায় নকৰে, কৰিব জানো?
+Tom won't make any changes.	টমে একো সাল-সলনি নকৰে।
+Was Tom really able to win?	টমে সচাঁকৈ জিকিব পাৰিছিলনে?
+We could talk to Tom again.	আমি টমৰ লগত আকৌ কথা পাতিব পাৰোঁ।
+We think that he will come.	আমি ভাবোঁ যে তেওঁ আহিব।
+We think that he will come.	আমি ভাবোঁ যে সি আহিব।
+When was this temple built?	এই মন্দিৰটো কেতিয়া নিৰ্মাণ কৰা হৈছিল?
+Where does Tom really work?	টমে আচলতে ক'ত কাম কৰে?
+Will she come home at five?	তাই পাঁচবজাত ঘৰলৈ আহিব নেকি?
+Will she come home at five?	তাই পাঁচবজাত ঘৰলৈ আহিবনে?
+Will she come home at five?	তেওঁ পাঁচবজাত ঘৰলৈ আহিব নেকি?
+You and I aren't like that.	তুমি আৰু মই তেনেকুৱা নহয়।
+You and I aren't like that.	আপুনি আৰু মই তেনেকুৱা নহয়।
+You couldn't depend on Tom.	আপুনি টমৰ ওপৰত নিৰ্ভৰ কৰিব নোৱাৰিলে।
+You remind me of my mother.	তুমি মোক মোৰ মাৰ কথা মনত পেলোৱা।
+You remind me of my mother.	তুমি মোক মোৰ মাৰ কথা সোঁৱৰোৱা।
+You remind me of my mother.	আপুনি মোক মোৰ মাৰ কথা সোঁৱৰায়।
+You remind me of my mother.	আপুনি মোক মোৰ মাৰ কথা মনত পেলায়।
+You're liable for the debt.	ঋণৰ বাবে আপুনি দায়ী।
+You're to do as I tell you.	মই কোৱামতে তুমি কৰিব লাগিব।
+You're to do as I tell you.	মই কোৱামতে আপুনি কৰিব লাগিব।
+Your name is Tom, isn't it?	তোমাৰ নাম টম্‌, নহয় জানো?
+A nurse took my temperature.	নাৰ্ছ এগৰাকীয়ে মোৰ তাপমাত্ৰা জুখিছে।
+Bring your friends with you.	তোমাৰ বন্ধুসকলক লগত লৈ আনিবা।
+Bring your friends with you.	আপোনাৰ বন্ধুসকলক লগত লৈ আনিব।
+Can't you see that I'm busy?	মই ব্যস্ত দেখা নাই?
+Divide that number by three.	সেই সংখ্যাটো তিনিৰে হৰণ কৰক।
+Enter your password, please.	অনুগ্ৰহ কৰি আপোনাৰ পাছৱৰ্ড লিখক।
+French isn't that difficult.	ফৰাচী ইমানো টান নহয়।
+Gold is heavier than silver.	সোণ ৰূপতকৈ গধুৰ।
+Have you read this book yet?	তুমি এই কিতাপখন পঢ়িলানে?
+Have you read this book yet?	আপুনি এই কিতাপখন পঢ়িলেনে?
+Have you read this book yet?	তুমি এই কিতাপখন পঢ়িছানে বাৰু?
+Have you read this book yet?	আপুনি এই কিতাপখন পঢ়িছেনে বাৰু?
+He blamed me for not coming.	সি নহাৰ বাবে মোক দোষ দিছে।
+He blamed me for not coming.	তেওঁ নহাৰ বাবে মোক দোষ দিছে।
+He blamed me for not coming.	সি নহাৰ বাবে মোক দুষিছে।
+He worked through the night.	সি ওৰে নিশা কাম কৰিছে।
+He worked through the night.	তেওঁ ওৰেটো ৰাতি কাম কৰিছে।
+I asked you not to go there.	মই তোমাক তালৈ নাযাবলৈ কৈছোঁ।
+I asked you not to go there.	মই আপোনাক তালৈ নাযাবলৈ কৈছোঁ।
+I asked you not to go there.	মই তোমাক তালৈ নাযাবলৈ কৈছিলোঁ।
+I have a ringing in my ears.	মোৰ কাণ বাজি থাকে।
+I saw Tom talking with Mary.	মই টমক মেৰীৰ লগত কথা পতা দেখিছোঁ।
+I think Tom just lied to me.	মোৰ মতে টমে মোক মিছা কথাই কৈছে।
+I'm trying to calm Tom down.	মই টমক শান্ত কৰোৱাৰ চেষ্টা কৰি আছোঁ।
+It's been snowing all night.	গোটেই ৰাতি বৰফ পৰিছে।
+It's been snowing all night.	ওৰে নিশা তুষাৰপাত হৈছে।
+It's three blocks from here.	ইয়াৰ পৰা তিনিটা ব্লক দূৰত আছে।
+Most people think I'm crazy.	বেছিভাগ মানুহে ভাবে মই পাগল।
+No one's allowed to do that.	সেইটো কৰাৰ অনুমতি কাৰোৰে নাই।
+Roll up your sleeve, please.	আপোনাৰ চাৰ্টৰ হাত কোচাই লওঁকচোন।
+Thanks for your explanation.	আপোনাৰ ব্যাখ্যাৰ বাবে ধন্যবাদ।
+That's none of our business.	সেইটো আমাৰ কথা নহয়।
+The sky has become overcast.	আকাশ ডাৱৰীয়া হৈছে।
+There's no point doing that.	সেয়া কৰি লাভ নাই।
+There's no point in waiting.	ৰৈ লাভ নাই।
+There's something out there.	তাত কিবা আছে।
+They seem to be photographs.	সিহঁতক ফটোগ্ৰাফ যেন লাগিছে।
+Tom is waiting for somebody.	টমে কাৰোবাৰ বাবে বাট চাই আছে।
+Tom must've seen Mary there.	টমে মেৰীক তাত চাব লাগিছিল।
+Tom was sent back to Boston.	টমক ব'ষ্টনলৈ উভতাই পঠিওৱা হ'ল।
+Tom was sent back to Boston.	টমক ব'ষ্টনলৈ উভতাই পঠিওৱা হৈছিল।
+Tom wasn't altogether wrong.	অকল টমৰেই সকলো ভুল নাছিল৷
+Tom won't do the same thing.	টমে একে কাম নকৰে।
+Tom won't like what you did.	তুমি যি কৰিছা সেয়া টমে ভাল নাপাব।
+Tom won't like what you did.	আপুনি যি কৰিছে সেয়া টমে ভাল নাপাব।
+Tom won't meet Mary at 2:30.	টমে মেৰীক ২:৩০ বজাত লগ নধৰে।
+Tom won't tell us the truth.	টমে আমাক সঁচা কথা নকয়।
+We don't think it's serious.	আমি এইটো গম্ভীৰ বুলি নাভাবো৷
+Well, I'll surely ask again.	বাৰু, মই নিশ্চয় আকৌ সুধিম।
+What was Tom doing in there?	টমে তাত কি কৰি আছিল?
+What's wrong with your eyes?	তোমাৰ চকুত কি হৈছে?
+What's your daughter's name?	তোমাৰ জীয়েৰাৰ নাম কি?
+What's your daughter's name?	আপোনাৰ কন্যাৰ নাম কি?
+Which drinks don't you like?	আপুনি কোনবোৰ পানীয় ভাল নাপায়?
+Why don't you come visit us?	আপুনি আমাৰ ইয়ালৈ ফুৰিবলৈ নাহে কিয়?
+Why don't you come visit us?	তুমি আমাৰ ইয়ালৈ ফুৰিবলৈ নাহা কিয়?
+You don't even know my name.	তুমি মোৰ নাম পৰ্যন্ত গম নোপোৱা।
+You don't even know my name.	আপুনি মোৰ নাম পৰ্যন্ত গম নাপায়।
+You don't even know my name.	তুমি মোৰ নাম পৰ্যন্ত নাজানা।
+You don't even know my name.	আপুনি মোৰ নাম পৰ্যন্ত নাজানে।
+You have to study every day.	তুমি প্ৰতিদিনে পঢ়িব লাগে।
+You have to study every day.	তই প্ৰতিদিনে পঢ়িব লাগে।
+You have to study every day.	আপুনি প্ৰতিদিনে পঢ়িব লাগে।
+You're just as crazy as Tom.	তুমি টমৰ দৰেই বলীয়া।
+You're just as crazy as Tom.	আপুনি টমৰ দৰেই বলীয়া।
+You're just as crazy as Tom.	তুমি টমৰ দৰেই পগলা।
+You're just as crazy as Tom.	তুমি টমৰ নিচিনাই পাগল।
+Your plan has been rejected.	আপোনাৰ পৰিকল্পনা অস্বীকাৰ কৰা হৈছে।
+Your plan has been rejected.	আপোনাৰ যোজনা অস্বীকাৰ কৰা হৈছে।
+Your plan has been rejected.	আপোনাৰ প্লেন অস্বীকাৰ কৰা হৈছে।
+Could we go faster? I'm late.	আমি আৰু বেগেৰে যাব পাৰোঁনে? মোৰ দেৰি হৈছে।
+Do you know what the time is?	কেইটা বাজিছে জানে নেকি?
+Do you know what the time is?	কেইটা বাজিছে জানা নেকি?
+Do you know what the time is?	কেইটা বাজিছে গম পোৱানে?
+Don't leave things half done.	কাম-কাজ আধাতে নেৰিব।
+Don't turn off your computer.	আপোনাৰ কম্পিউটাৰ বন্ধ নকৰিব।
+Don't turn off your computer.	তোমাৰ কম্পিউটাৰ বন্ধ নকৰিব।
+Don't you think it's strange?	তুমি সেয়া আচৰিত বুলি ভাবা নেকি?
+Don't you think it's strange?	আপুনি সেয়া আচৰিত বুলি ভাবে নেকি?
+Don't you think that's weird?	তুমি সেয়া আচৰিত বুলি ভাবা নেকি?
+Don't you think that's weird?	আপুনি সেয়া আচৰিত বুলি ভাবে নেকি?
+Everybody speaks well of him.	প্ৰত্যেকেই তেওঁৰ ভাল কথা কয়।
+Everybody speaks well of him.	সকলোৱে তেওঁৰ ভাল কথা কয়।
+He changed schools last year.	যোৱা বছৰ সি স্কুল সলনি কৰিছে।
+He wants these shirts washed.	তাক এই চাৰ্টকেইটা ধুই দিব লাগে।
+He wants these shirts washed.	তেওঁক এই চাৰ্টকেইটা ধুই দিব লাগে।
+How can you say such a thing?	আপুনি তেনেকুৱা কথা কেনেকৈ ক'ব পাৰে?
+How can you say such a thing?	তুমি তেনেকুৱা কথা কেনেকৈ ক'ব পাৰা?
+How can you say such a thing?	তই তেনেকুৱা কথা কেনেকৈ ক'ব পাৰ?
+How much do the carrots cost?	গাজৰৰ দাম কিমান?
+I did what I promised I'd do.	মই যি কৰাৰ কথা দিছিলোঁ তাকেই কৰিছোঁ।
+I don't have any real choice.	মোৰ কোনো সঁচা পছন্দ নাই।
+I don't want to go to school.	মই স্কুল যাব নিবিচাৰোঁ।
+I don't want to go to school.	মই স্কুল যাব নোখোজোঁ।
+I just spoke with the police.	মই এইমাত্ৰ পুলিচৰ লগত কথা পাতিলোঁ।
+I just spoke with the police.	মই এইমাত্ৰ আৰক্ষীৰ লগত কথা পাতিলোঁ।
+I'd like to see the evidence.	মই প্ৰমাণ চাব বিচাৰোঁ।
+I'm sorry, I can't stay long.	বেয়া নাপাব, মই বেছি দেৰি থাকিব নোৱাৰোঁ।
+I'm sorry, I can't stay long.	বেয়া নাপাবা, মই বেছি দেৰি থাকিব নোৱাৰোঁ।
+It was a glass that he broke.	তেওঁ ভগাটো গিলাচ আছিল।
+It was a glass that he broke.	সি ভঙাটো ছিছা আছিল।
+It's been snowing on and off.	ৰৈ ৰৈ তুষাৰপাত হৈ আছে।
+It's the thought that counts.	চিন্তাধাৰাহে গুৰুত্বপূৰ্ণ।
+Keep your hands off my money.	নিজৰ হাত দুখন মোৰ টকাৰ পৰা দূৰত ৰাখক।
+Keep your hands off my money.	নিজৰ হাত দুখন মোৰ টকাৰ পৰা দূৰত ৰাখাঁ।
+Keep your hands off my money.	আপোনাৰ হাত দুখন মোৰ টকাৰ পৰা আঁতৰাই ৰাখক।
+Keep your hands off my money.	তোমাৰ হাত দুখন মোৰ টকাৰ পৰা আঁতৰাই ৰাখাঁ।
+Let's check Tom's background.	টমৰ নেপথ্য চাওঁ আহক।
+Let's check Tom's background.	টমৰ নেপথ্য পৰীক্ষা কৰোঁ আহক।
+Nobody pays attention to Tom.	টমৰ প্ৰতি কোনেও মনোযোগ নিদিয়ে।
+Please come and look at this.	এইটো আহি চাওকচোন।
+Please don't leave like this.	এনেকৈ এৰি নাযাবানা।
+Please don't leave like this.	এনেকৈ এৰি নাযাবাচোন।
+Please don't leave like this.	এনেকৈ এৰি নাযাবনা।
+Please don't leave like this.	এনেকৈ এৰি নাযাবচোন।
+Please wait for five minutes.	অনুগ্ৰহ কৰি পাঁচমিনিট অপেক্ষা কৰক৷
+She is a most beautiful lady.	তেওঁ আটাইতকৈ ধুনীয়া মহিলা।
+She took part in the contest.	তাই প্ৰতিযোগিতাত অংশগ্ৰহণ কৰিছে।
+She took part in the contest.	তাই প্ৰতিযোগিতাত ভাগ লৈছে।
+She took part in the contest.	তেওঁ প্ৰতিযোগিতাত অংশগ্ৰহণ কৰিছে।
+Tears rolled down his cheeks.	তাৰ গালত চকুপানী বৈ আছিল।
+Tears rolled down his cheeks.	তেওঁৰ দুগালত চকুলো বৈ আছিল।
+Tell me what really happened.	সঁচাকৈ কি হৈছে মোক কোৱাঁ।
+Tell me what really happened.	সঁচাকৈ কি হৈছে মোক কওক।
+That sounds like Tom's voice.	সেয়া টমৰ মাত যেন লাগিছে।
+The crowd filled the streets.	পথসমূহত ভিৰ বাঢ়ি গ'ল।
+The crowd filled the streets.	ৰাস্তাবোৰ মানুহেৰে ভৰি গ'ল।
+There's no point going there.	তালৈ গৈ লাভ নাই।
+There's something back there.	তাত কিবা আছে।
+There's something down there.	তাত কিবা আছে।
+There's something wrong here.	ইয়াত একো ভুল নাই।
+They don't speak French here.	তেওঁলোকে ইয়াত ফৰাচী নকয়।
+They don't speak French here.	সিহঁতে ইয়াত ফৰাচী নকয়।
+They just taught me to swear.	সিহঁতে মোক মাত্ৰ শপত খোৱা শিকাইছে।
+Tom bought Mary a blue scarf.	টমে মেৰীক এখন নীলা ওৰণি কিনি দিলে।
+Tom bought Mary a blue scarf.	টমে মেৰীক এখন নীলা ওৰণি কিনি দিছে।
+Tom developed his own theory.	টমে নিজৰ তত্ব বিকাশিত কৰিছে।
+Tom doesn't know what we did.	টমে নাজানে আমি কি কৰিছোঁ।
+Tom doesn't want to help you.	টমে তোমাক সহায় কৰিব নিবিচাৰে।
+Tom doesn't want to help you.	টমে আপোনাক সহায় কৰিব নিবিচাৰে।
+Tom is mowing his front lawn.	টমে তাৰ সন্মুখৰ চোতালখনৰ ঘাঁহ কাটি আছে।
+Tom is mowing his front lawn.	টমে তেওঁৰ আগচোতালৰ ঘাঁহ কাটি আছে।
+Tom is resting at the moment.	টমে এতিয়া জিৰণি লৈ আছে৷
+Tom knows that I'll call you.	টমে জানে যে মই তোমাক কল কৰিম।
+Tom knows that I'll call you.	টমে জানে যে মই আপোনাক কল কৰিম।
+Tom learned French in school.	টমে স্কুলত ফৰাচী শিকিছে।
+Tom looked like he was ready.	টমক এনে লাগিছিল যেন সি সাজু আছিল।
+Tom showed the forgery to us.	টমে আমাক জালিয়াতিটো দেখুৱাই দিছিল৷
+Tom talked to Mary yesterday.	টমে কালি মেৰীৰ লগত কথা পাতিছে।
+Tom walked through the woods.	টম্‌ বনৰ মাজেদি খোজ কাঢ়ি গ'ল।
+Tom walked through the woods.	টম্‌ জংঘলৰ মাজেদি খোজ কাঢ়ি গ'ল।
+Tom walked through the woods.	টম্‌ হাবিৰ মাজেদি খোজ কাঢ়ি গ'ল।
+Tom won't buy a new computer.	টমে নতুন কম্পিউটাৰ নিকিনে।
+Tom worked through the night.	টমে ওৰে নিশা কাম কৰিছে।
+We don't need three bicycles.	আমাক তিনিখন চাইকেল নালাগে।
+We've been friends for years.	তোমালোক বছৰ বছৰ ধৰি বন্ধু আছিলা।
+We've been friends for years.	আপোনালোক বছৰ বছৰ ধৰি বন্ধু আছিলে।
+What's your boyfriend's name?	তোমাৰ বইফ্ৰেণ্ডৰ নাম কি?
+What's your boyfriend's name?	আপোনাৰ বইফ্ৰেণ্ডৰ নাম কি?
+Where do you want to go, sir?	আপুনি ক'লৈ যাব খোজে, ছাৰ?
+Would you please check those?	আপুনি বেয়া নাপায় যদি সেয়া চাই দিবনে?
+Would you please check those?	আপুনি বেয়া নাপায় যদি সেয়া পৰীক্ষা কৰিবনে?
+You do believe me, don't you?	তুমি মোক বিশ্বাস কৰা, নহয় জানো?
+You do believe me, don't you?	আপুনি মোক বিশ্বাস কৰে, নহয় জানো?
+You do like music, don't you?	তুমি সংগীত ভাল পোৱা, নহয় জানো?
+You do like music, don't you?	আপুনি সংগীত ভাল পায়, নহয় জানো?
+You don't believe it, do you?	তুমি বিশ্বাস নকৰা, নহয় জানো?
+You don't believe it, do you?	আপুনি বিশ্বাস নকৰে, নহয় জানো?
+You don't believe it, do you?	তুমি বিশ্বাস নকৰা, কৰা জানো?
+You don't even know his name.	তুমি তাৰ নাম পৰ্যন্ত গম নোপোৱা।
+You don't even know his name.	আপুনি তেওঁৰ নাম পৰ্যন্ত গম নাপায়।
+You don't even know his name.	আপুনি তেওঁৰ নাম পৰ্যন্ত নাজানে।
+You don't have a gun, do you?	তোমাৰ লগত বন্দুক নাই, আছে জানো?
+You don't have to go, do you?	আপুনি যাব নালাগে, লাগিব জানো?
+You don't have to go, do you?	তুমি যাব নালাগে, লাগিব জানো?
+You don't have to go, do you?	আপুনি যাব নালাগে, নহয় জানো?
+You don't have to go, do you?	তুমি যাব নালাগে, নহয় জানো?
+You don't scare easy, do you?	আপুনি সহজে ভয় নাখায়, নহয় জানো?
+You don't scare easy, do you?	তুমি সহজে ভয় নোখোৱা, নহয় জানো?
+You know that's not possible.	আপুনি জানেনে যে সেয়া সম্ভৱ নহয়।
+You know that's not possible.	তুমি জানানে যে সেয়া সম্ভৱ নহয়।
+You'll find this lesson easy.	আপুনি এই পাঠটো সহজ পাব।
+You'll find this lesson easy.	তুমি এই পাঠটো সহজ পাবা।
+You're Tom's students, right?	তুমি টমৰ ছাত্ৰ, হয়নে?
+You're Tom's students, right?	তুমি টমৰ ছাত্ৰী, হয়নে?
+You're impatient, aren't you?	তুমি অধৈৰ্য্য, নহয় জানো?
+You're impatient, aren't you?	আপুনি অধৈৰ্য্য, নহয় জানো?
+You're lying now, aren't you?	তুমি এতিয়া মিছা কথা কৈ আছা, নহয় জানো?
+You're lying now, aren't you?	আপুনি এতিয়া মিছা কথা কৈ আছে, নহয় জানো?
+You're not thinking straight.	তুমি চিধা ভাবি থকা নাই।
+You're not thinking straight.	আপুনি চিধা ভাবি থকা নাই।
+You've got three months left.	আপোনাৰ হাতত তিনি মাহ বাকী আছে।
+You've got three months left.	তোমাৰ হাতত তিনি মাহ বাকী আছে।
+"Thank you." "You're welcome."	"ধন্যবাদ।" "আপোনাক স্বাগতম।"
+Adjust the microscope's focus.	অণুবীক্ষণ যন্ত্ৰৰ অভিকেন্দ্ৰ সমাযোজন কৰক।
+Adjust the microscope's focus.	মাইক্ৰ'স্কপৰ ফ'কাছ মিলাওঁক।
+Can you do something about it?	এই বিষয়ে আপুনি কিবা কৰিব পাৰিবনে?
+He will return within 3 hours.	সি 3 ঘণ্টাৰ ভিতৰত উভতি আহিব।
+He will return within 3 hours.	তেওঁ 3 ঘণ্টাৰ ভিতৰত উভতি আহিব।
+I feel very lonely these days.	মই এইকেইদিন বৰ অকলশৰীয়া অনুভৱ কৰিছোঁ।
+I learned to live without her.	মই তাইৰ অবিহনে জিয়াবলৈ শিকি গৈছোঁ।
+I love coming here on holiday.	মই বন্ধৰ দিনত ইয়ালৈ আহি ভাল পাওঁ।
+I would never ever betray you.	মই তোমাক কেতিয়াও বিশ্বাসঘাতকতা নকৰোঁ।
+I would never ever betray you.	মই আপোনাক কেতিয়াও বিশ্বাসঘাতকতা নকৰোঁ।
+Is Tom Jackson a patient here?	টম্‌ জেক্‌ছন ইয়াৰ এগৰাকী ৰোগী নেকি?
+Is this your first visit here?	আপুনি ইয়াত প্ৰথমবাৰ আহিছে নেকি?
+It was a very weird situation.	খুবেই অদ্ভুত পৰিস্থিতি আছিল।
+It was great to see you again.	আপোনাক আকৌ লগ পাই বৰ ভাল লাগিল।
+It was great to see you again.	তোমাক আকৌ লগ পাই বৰ ভাল লাগিল।
+Multiply that number by three.	সেই সংখ্যাটো তিনিৰে পূৰণ কৰক।
+Now and then she plays tennis.	তাই মাজে-সময়ে টেনিছ খেলে।
+Now and then she plays tennis.	তেওঁ কেতিয়াবা-কেতিয়াবা টেনিছ খেলে।
+Please help me open this door.	এই দুৱাৰখন খোলাত মোক সহায় কৰকচোন।
+Please help me open this door.	এই দুৱাৰখন খোলাত মোক সহায় কৰাচোন।
+She's really smart, isn't she?	তাই সঁচাকৈ স্মাৰ্ট, নহয় জানো?
+She's really smart, isn't she?	তাই সঁচাকৈ চোকা, নহয় জানো?
+She's really smart, isn't she?	তাই সঁচাকৈ বুধিয়ক, নহয় জানো?
+They worked through the night.	সিহঁতে গোটেই ৰাতি কাম কৰিছে।
+They worked through the night.	তেওঁলোকে গোটেই ৰাতি কাম কৰিছে।
+They worked through the night.	তেওঁলোকে ওৰে নিশা কাম কৰিছে।
+Tom changed schools last year.	টমে যোৱাবছৰ স্কুল সলাইছে।
+Tom never drinks beer at home.	টমে কেতিয়াও ঘৰত বিয়েৰ নাখায়।
+Tom peeked through the blinds.	টমে ব্লাইণ্ডবোৰৰ মাজেদি জুমি চালে।
+Tom peeked through the blinds.	টমে ব্লাইণ্ডবোৰৰ মাজেদি জুপি চালে।
+What's your girlfriend's name?	তোমাৰ গাৰ্লফ্ৰেণ্ডৰ নাম কি?
+You don't know German, do you?	আপুনি জাৰ্মান নাজানে, জানে জানো?
+You'd better not eat too much.	তুমি ইমান বেছি নোখোৱাটোৱে ভাল।
+You'd better not eat too much.	আপুনি ইমান বেছি নোখোৱাটোৱে ভাল।
+You've saved Tom's life twice.	তুমি দুবাৰ টমৰ জীৱন ৰক্ষা কৰিছা।
+You've saved Tom's life twice.	আপুনি দুবাৰ টমৰ জীৱন ৰক্ষা কৰিছে।
+Your order has been submitted.	আপোনাৰ অৰ্ডাৰ দাখিল কৰা হৈছে।
+Buy some milk on your way home.	ঘৰলৈ আহোঁতে অলপ গাখীৰ কিনি আনিব।
+Buy some milk on your way home.	ঘৰলৈ আহোঁতে অলপ গাখীৰ কিনি আনিবা।
+Don't you think that's strange?	তুমি সেয়া আচৰিত বুলি ভাবা নেকি?
+Don't you think that's strange?	আপুনি সেয়া আচৰিত বুলি ভাবে নেকি?
+Five years is too long to wait.	পাঁচ বছৰ অপেক্ষা কৰাতো বহু দীঘলীয়া৷
+Have things changed since then?	তেতিয়াৰে পৰা বস্তুবিলাক সলনি হৈছেনে?
+He visited his uncle yesterday.	সি যোৱাকালি তাৰ মোমায়েকৰ তালৈ গৈছিল।
+He visited his uncle yesterday.	তেওঁ যোৱাকালি তেওঁৰ মোমায়েকৰ ঘৰলৈ গৈছিল।
+He visited his uncle yesterday.	সি কালি তাৰ মোমায়েকক চাবলৈ গৈছিল।
+He visited his uncle yesterday.	তেওঁ কালি তেওঁৰ খুড়ায়েকৰ তালৈ গৈছিল।
+He visited his uncle yesterday.	সি কালি তাৰ খুড়ায়েকক চাবলৈ গৈছিল।
+How do you say that in Italian?	ইটালীয়ানত সেইটো কেনেকৈ কোৱা?
+How do you say that in Italian?	ইটালীয়ানত সেইটো কেনেকৈ কয়?
+I accept the statement as true.	মই বিবৃতি সত্য হিচাপে গ্ৰহণ কৰোঁ।
+I accept the statement as true.	মই বিবৃতি সত্য হিচাপে গ্ৰহণ কৰিছোঁ।
+I can't live that kind of life.	মই তেনেধৰণৰ জীৱন জিয়াব নোৱাৰোঁ।
+I don't want to wait that long.	মই ইমান দেৰি ৰ'বলৈ নিবিচাৰোঁ।
+I don't want to wait that long.	মই ইমান দেৰি অপেক্ষা কৰিবলৈ নিবিচাৰোঁ।
+I don't want to wait that long.	মই ইমান দেৰি বাট চাবলৈ নিবিচাৰোঁ।
+I knew I should've married Tom.	মই জানোঁ মই টমক বিয়া কৰাব লাগিছিল।
+I need to buy something to eat.	মই খাবলৈ কিবা কিনিব লাগিব।
+I only drank one cup of coffee.	মই মাত্ৰ একাপ কফি খালোঁ।
+I only drank one cup of coffee.	মই কেৱল একাপ কফি খালোঁ।
+I only drank one cup of coffee.	মই মাত্ৰ একাপ কফি খাইছোঁ
+I think that Tom is incredible.	মোৰ মতে টম্‌ অবিশ্বাস্য।
+I'd like to stay for one night.	মই এক ৰাতি থাকিবলৈ বিচাৰোঁ।
+It doesn't look so complicated.	ইমান জটিল যেন লগা নাই।
+It's awfully cold this evening.	আজি সন্ধ্যা বিৰাট ঠাণ্ডা দিছে।
+Please check the attached file.	অনুগ্ৰহ কৰি সংলগ্ন নথি পৰীক্ষা কৰক।
+Summer is always hot and humid.	গ্ৰীষ্মকাল সদায় গৰম আৰু আৰ্দ্ৰ হয়।
+There's something strange here.	ইয়াত একো আচৰিত নাই।
+They don't see it as a problem.	সিহঁতে ইয়াক সমস্যা বুলি নাভাবে।
+They don't see it as a problem.	তেওঁলোকে ইয়াক সমস্যা বুলি নাভাবে।
+They're your friends, not mine.	সিহঁত তোমাৰ বন্ধু, মোৰ নহয়।
+This size font is hard to read.	এই আকাৰৰ ফ'ণ্ট পঢ়া টান।
+Tom hugged Mary and kissed her.	টমে মেৰীক আলিংগন কৰি চুমা খালে।
+Tom still thinks we're friends.	টমে এতিয়াও আমি বন্ধু বুলি ভাবে।
+Tom wasn't in a very good mood.	টম্‌ বৰ ভাল মেজাজত নাছিল।
+We had a lot of rain last year.	যোৱাবছৰ খুব বৰষুণ দিছিল।
+We had a lot of snow last year.	যোৱাবছৰ খুব বৰফ পৰিছিল।
+We had a lot of snow last year.	যোৱাবছৰ খুব তুষাৰপাত হৈছিল।
+We had a mild winter last year.	যোৱা বছৰ আমাৰ এইফালে অলপ অলপ জাৰ পৰিছিল।
+What's Tom's girlfriend's name?	টমৰ গাৰ্লফ্ৰেণ্ডৰ নাম কি?
+What's your best friend's name?	তোমাৰ প্রিয় বন্ধুৰ নাম কি?
+Where's the admission's office?	পঞ্জীয়নৰ কাৰ্য্যালয়খন ক'ত আছে?
+Why don't you make it yourself?	আপুনি নিজেই তৈয়াৰ নকৰে কিয়?
+Why don't you make it yourself?	তুমি নিজেই তৈয়াৰ নকৰা কিয়?
+Why don't you make it yourself?	তুমি নিজেই নবনোৱা কিয়?
+You'll get used to the weather.	তোমাৰ এই বতৰৰ অভ্যাস হৈ যাব।
+You'll get used to the weather.	আপোনাৰ এই বতৰৰ অভ্যাস হৈ যাব।
+A fierce battle was fought here.	ইয়াত এখন সহিংস যুদ্ধ হৈছিল।
+All of my classes are in French.	মোৰ সকলো ক্লাছ ফৰাচী ভাষাৰ।
+Are you waiting for me to do it?	তুমি মই কৰালৈ ৰৈ আছা নেকি?
+Are you waiting for me to do it?	আপুনি মই কৰালৈ ৰৈ আছে নেকি?
+Can I go back to my TV show now?	এতিয়া মই মোৰ টিভি শ্ব'লৈ ঘূৰি যাব পাৰোঁনে?
+Can you take me to this address?	আপুনি মোক এই ঠিকনালৈ লৈ যাব পাৰিবনে?
+Creationism is a pseudo-science.	সৃষ্টিবাদ অপ-বিজ্ঞান।
+Do you have your stuff with you?	তোমাৰ লগত তোমাৰ বস্তুবোৰ আছেনে?
+Do you have your stuff with you?	আপোনাৰ লগত আপোনাৰ বস্তুবোৰ আছেনে?
+How long have you had this pain?	আপোনাৰ এই বিষ কিমান দিন ধৰি হৈ আছে?
+I don't like very long holidays.	মোৰ বেছি দিঘলীয়া বন্ধ ভাল নালাগে।
+I don't like very long holidays.	মোৰ বেছি দিঘলীয়া ছুটী ভাল নালাগে।
+I don't like very long holidays.	মোৰ দীঘলীয়া বন্ধ ভাল নালাগে।
+I see Tom hasn't changed at all.	মই দেখিছোঁ টম্‌ একেবাৰে সলনি হোৱা নাই।
+I think you're doing a fine job.	মই ভাবো তুমি এটা বঢ়িয়া কাম কৰি আছা৷
+I think you're hiding something.	মই ভাবো তুমি কিবা লুকুৱাইছা৷
+I thought we could eat together.	মই ভাবিছিলো আমি একেলগে খাব পাৰিলো হয়৷
+I understand French and English.	মই ফ্ৰান্স আৰু ইংৰাজী বুজি পাওঁ৷
+I usually eat three times a day.	মই সাধাৰণতে দিনে তিনিবাৰ খাঁও৷
+I want you to do that on Monday.	মই সেইতো সোমবাৰে কৰিব বিচাৰো৷
+I wanted to do that before 2:30.	২:৩০ বজাৰ আগতেই মই সেইতো কৰিব খুজিছিলো৷
+I wanted to do that before 2:30.	২:৩০ বজাৰ আগতেই মই সেইতো কৰিব বিচাৰিছিলো৷
+I was actually going to do that.	মই সঁচাকৈয়ে সেয়া কৰিব গৈছিলো৷
+I was in Boston for three years.	মই তিনি বছৰৰ বাবে বষ্টনত আছিলো৷
+I was in Boston three weeks ago.	মই তিনি সপ্তাহ আগত বষ্টনত আছিলো৷
+I was surprised when I saw that.	মই আচৰিত হৈ গৈছিলো যেতিয়া মই সেইতো দেখিছিলো৷
+I was surprised when I saw that.	যেতিয়া মই সেইতো দেখিছিলো মই আচৰিত হৈ গৈছিলো৷
+I wasn't able to see the doctor.	মই চিকিৎসকজনক দেখুওৱাত সক্ষম হোৱা নাছিলো৷
+It doesn't snow here very often.	ইয়াত ইমান সঘনাই তুষাৰপাত নহয়।
+It doesn't snow here very often.	ইয়াত ইমান ঘনাই বৰফ নপৰে।
+It hasn't rained yet this month.	এই মাহটোত এতিয়ালৈকে বৰষুণ দিয়া নাই।
+It is written in simple English.	সৰল ইংৰাজীত লিখা আছে।
+It was a new experience for Tom.	টমৰ বাবে সেইটো এক নতুন অভিজ্ঞতা আছিল।
+She poured the milk into a bowl.	তাই বাটি এটাত গাখীৰ ঢালিলে।
+She poured the milk into a bowl.	তাই বাটি এটাত গাখীৰ ঢালিছে।
+She poured the milk into a bowl.	তেওঁ বাটি এটাত গাখীৰখিনি ঢালিলে।
+She poured the milk into a bowl.	তাই বাটি এটাত গাখীৰখিনি ঢালিলে।
+That boy takes after his father.	সেই ল'ৰাটো দেখাই শুনাই তাৰ দেউতাকৰ দৰে।
+That boy takes after his father.	সেই ল'ৰাজন দেখাই শুনাই তেওঁৰ দেউতাকৰ দৰে।
+That's very hot. Don't touch it.	সেইটো বৰ গৰম। নুচুব।
+That's why I accepted the offer.	সেই কাৰণে মই অফাৰটো ল'লোঁ।
+The doctor told me to go to bed.	ডাক্তৰে মোক শুব যাবলৈ কৈছে।
+The express arrives at 6:30 p.m.	সন্ধ্যা 6:30 বজাত এক্সপ্ৰেছ আহি পায়।
+The express arrives at 6:30 p.m.	গধূলি 6:30 বজাত এক্সপ্ৰেছ আহি পায়।
+There wasn't a cloud in the sky.	আকাশত ডাৱৰ নাছিল।
+Tom helped Mary fix her bicycle.	টমে মেৰীক তাইৰ চাইকেল ভাল কৰাত সহায় কৰিছে।
+Tom helped Mary fix her bicycle.	টমে মেৰীক তেওঁৰ চাইকেল ভাল কৰাত সহায় কৰিছে।
+Tom seemed reluctant to do that.	সেয়া কৰিবলৈ টম অনিচ্ছুক যেন লাগিছে৷
+Tom seemed reluctant to help me.	মোক সহায় কৰিবলৈ টম অনিচ্ছুক যেন লাগিছে৷
+Tom seemed to be a little drunk.	টমক অলপ মাতাল যেন লাগিছে৷
+Tom seemed to be a little tense.	টমক অলপ চিন্তিত যেন লাগিছে৷
+Tom seemed to be a little tipsy.	টমক অলপ নিচাত থকা যেন লাগিছে৷
+Tom seemed to be in good health.	টমক সুস্বাস্থ্যত থকা যেন লাগিছিল৷
+Tom seemed to be pretty excited.	টমক খুব উৎসাহিত যেন লাগিছিল৷
+Tom seemed to be pretty excited.	টমক বহুত উৎসাহিত যেন লাগিছিল৷
+Tom seemed to be really annoyed.	টমক সঁচাকৈয়ে বিৰক্ত হোৱা যেন লাগিছিল৷
+Tom seemed to be very desperate.	টমক বহুত নিৰাশ যেন লাগিছিল৷
+Tom seemed to be very impressed.	টম বহুত প্ৰভাৱিত হোৱাযেন লাগিছিল৷
+Tom seemed to be very irritated.	টমক খুব বিৰক্তযেন লাগিছিল৷
+Tom seemed to be very irritated.	টমক বহুত বিৰক্তযেন লাগিছিল৷
+Tom seemed to be very motivated.	টমক খুব অনুপ্ৰাণিত যেন লাগিছিল।
+Tom took his place at the table.	টমে টেবুলত তাৰ জেগা ল'লে।
+Tom took his place at the table.	টমে টেবুলত তেওঁৰ ঠাই ল'লে।
+Tom was the last one to go home.	টম ঘৰলৈ যোৱা অন্তিমজন ব্যক্তি আছিল।
+We expect that Tom will help us.	আমি আশা কৰোঁ যে টমে আমাক সহায় কৰিব।
+We have to postpone our meeting.	আমি আমাৰ বৈঠক মুলতুবী ৰাখিব লাগিব।
+Who's going to help you do that?	আপোনাক সেইটো কৰাত কোনে সহায় কৰিব?
+Why don't you just stop talking?	তুমি কথা পতা বন্ধ নকৰা কিয়?
+Would you like to dance with me?	তুমি মোৰ লগত নাচি ভাল পাবানে?
+Would you like to dance with me?	আপুনি মোৰ লগত নাচি ভাল পাবনে?
+You can't speak French, can you?	আপুনি ফৰাচী ক'ব নোৱাৰে, পাৰে জানো?
+Your English has improved a lot.	তোমাৰ ইংৰাজী আগতকৈ বহুত ভাল হৈছে।
+Are you allergic to any medicine?	আপোনাৰ কোনো ঔষধৰ এলাৰ্জি আছে নেকি?
+Can't you do anything to help me?	তুমি মোক সহায় কৰিবলৈ একো কৰিব নোৱাৰানে?
+I don't have time for that today.	সেইটোৰ বাবে মোৰ আজি সময় নাই।
+I need to talk to Tom right away.	মই এতিয়াই টমৰ লগত কথা পাতিব লাগিব।
+I wish you'd told me that sooner.	তুমি যদি মোক সেয়া আৰু সোনকালে ক'লাহেঁতেন।
+I'd like to run a few more tests.	মই আৰু কেইটামান পৰীক্ষা চলাব বিচাৰোঁ।
+I'd like to run a few more tests.	মই আৰু কেইটামান পৰীক্ষা কৰোৱাব বিচাৰোঁ।
+I'll need to run some more tests.	মই আৰু কেইটামান পৰীক্ষা চলাব লাগিব।
+I'll need to run some more tests.	মই আৰু কেইটামান পৰীক্ষা কৰোৱাব লাগিব।
+I've been arrested several times.	মোক কেইবাবাৰো গ্ৰেপ্তাৰ কৰা হৈছে।
+Many people are against the bill.	বহুতো লোক বিধেয়কখনৰ বিপক্ষে আছে।
+My guess is that it'll rain soon.	মোৰ বোধেৰে সোনকালেই বৰষুণ দিব।
+Please take off your muddy boots.	কৃপা কৰি আপোনাৰ বোকা লাগি থকা বুটযোৰ খুলি থওক।
+Please take off your muddy boots.	কৃপা কৰি তোমাৰ বোকা লাগি থকা বুটযোৰ খুলি থোৱাঁ।
+Please take off your muddy boots.	আপোনাৰ বোকা লাগি থকা বুটযোৰ খুলি থওকচোন।
+Please take off your muddy boots.	তোমাৰ বোকা লাগি থকা বুটযোৰ খুলি থোৱাঁচোন।
+Something has happened to my car.	মোৰ গাড়ীখনৰ কিবা হৈছে।
+The sky became darker and darker.	আকাশখন ক'লীয়া হৈ গৈ থাকিল।
+This book is easy for me to read.	এইখন কিতাপ মোৰ বাবে পঢ়াটো সহজ।
+This book is worth reading twice.	এইখন কিতাপ দুবাৰ পঢ়াৰ যোগ্য।
+Tom and Mary become best friends.	টম্‌ আৰু মেৰী প্রিয় বন্ধু-বান্ধৱী হৈ যায়।
+Tom is a bit taller than Mary is.	টম্‌ মেৰীতকৈ অলপ ওখ।
+Tom told me he's never done that.	টমে মোক কৈছে যে তেওঁ সেয়া কৰি পোৱা নাই।
+Tom told me he's never done that.	টমে মোক কৈছে যে সি সেয়া কৰি পোৱা নাই।
+Tom told me he's never done that.	টমে মোক কৈছে যে তেওঁ কেতিয়াও তেনেকুৱা কৰা নাই।
+Tom will stay after school today.	আজি স্কুল ছুটী হোৱাৰ পাছত টম্‌ থাকিব।
+We banished him from the country.	আমি তেওঁক দেশৰ পৰা খেদি পঠিয়াইছোঁ।
+We banished him from the country.	আমি তেওঁক দেশৰ পৰা খেদি দিছোঁ।
+We've lived here for three years.	আমি ইয়াত তিনি বছৰ থাকিলোঁ।
+When did you get up that morning?	সেইদিনা ৰাতিপুৱা আপুনি কেতিয়া সাৰ পাইছিলে?
+When did you get up that morning?	সেইদিনা ৰাতিপুৱা তুমি কেতিয়া সাৰ পাইছিলা?
+Which do you think would be best?	তোমাৰ মতে কোনটো আটাইতকৈ ভাল হ'ব?
+Which do you think would be best?	আপোনাৰ মতে কোনটো আটাইতকৈ ভাল হ'ব?
+Would you close the door, please?	আপুনি বেয়া নাপায় যদি দুৱাৰখন বন্ধ কৰিবনে?
+You should take the number 5 bus.	আপুনি ৫ নং বাছখন ধৰাতো উচিত৷
+Did Tom have sandwiches for lunch?	টমে লাঞ্চৰ বাবে ছেণ্ডৱিচ্চ বচাইছেনে?
+He visited many countries in Asia.	তেওঁ এছিয়াৰ বহুকেইখন দেশলৈ গৈছে।
+He visited many countries in Asia.	তেওঁ এছিয়াৰ বহুকেইখন দেশলৈ গৈছিল।
+He visited many countries in Asia.	তেওঁ এছিয়াৰ বহুকেইখন দেশ যাত্ৰা কৰিছে।
+He visited many countries in Asia.	তেওঁ এছিয়াৰ কেইবাখনো দেশ যাত্ৰা কৰিছে।
+I lost the hat I bought in Boston.	মই ব'ষ্টনত কিনা টুপীটো হেৰুৱালোঁ।
+I was asked to give you a message.	তোমাক মেছেজ এটা দিবলৈ মোক কোৱা হৈছে।
+I'm going to college in Australia.	মই অষ্ট্ৰেলিয়াৰ কলেজলৈ যাওঁ।
+I'm going to college in Australia.	মই অষ্ট্ৰেলিয়াৰ কলেজলৈ গৈ আছোঁ।
+I've just written a letter to Tom.	মই এইমাত্ৰ টমলৈ এখন চিঠি লিখিছোঁ।
+I've never told anybody about Tom.	মই টমৰ বিষয়ে কেতিয়াও কাকো কোৱা নাই।
+Please don't use Facebook at work.	অনুগ্ৰহ কৰি কাৰ্য্যত ফে'চবুক ব্যৱহাৰ নকৰিব।
+Please don't use Facebook at work.	অনুগ্ৰহ কৰি কামত ফে'চবুক ব্যৱহাৰ নকৰিব।
+Please don't use Facebook at work.	কামত ফে'চবুক ব্যৱহাৰ নকৰিবচোন।
+Poetry doesn't need to be logical.	কবিতা যুক্তিসংগত হ'ব নালাগে।
+That's exactly where you're wrong.	তুমি ঠিক তাতেই ভুল কৰিছা।
+That's exactly where you're wrong.	আপুনি ঠিক তাতেই ভুল কৰিছে।
+That's just what I wanted to hear.	মই সেয়াই শুনিবলৈ বিচাৰিছিলোঁ।
+The king ruled his kingdom justly.	ৰজাজনে ন্যায়পূৰ্ণভাৱে তেওঁৰ ৰাজ্যত শাসন কৰিছিল।
+The king ruled his kingdom justly.	ৰজাজনে ন্যায়পূৰ্ণভাৱে তেওঁৰ ৰাজ্যত ৰাজত্ব চলাইছিল।
+The king ruled his kingdom justly.	ৰজাগৰাকীয়ে ন্যায়পূৰ্ণভাৱে তেওঁৰ ৰাজ্যত শাসন কৰিছে।
+The sky is clear almost every day.	আকাশখন প্ৰায় নিতৌ ফৰকাল হৈ থাকে।
+This beef is very nice and tender.	এই গৰুৰ মাংস খুব ভাল আৰু কোমল।
+Tom got you in trouble, didn't he?	টমে তোমাক সমস্যাত পেলাইছে, নহয় জানো?
+Tom has been in jail for 300 days.	টম্‌ 300 দিন ধৰি কাৰাগাৰত আছে।
+Tom is waiting in the parking lot.	টম্‌ পাৰ্কিং লটত ৰৈ আছে।
+Tom shouldn't have gone yesterday.	টমে কালি যাব নালাগিছিল।
+We should observe the speed limit.	আমি গতিবেগৰ সীমা মানি চলা উচিত৷
+What I need is a little more time.	মোক মাত্ৰ আৰু অলপ সময় লাগে।
+Why didn't Tom tell me about Mary?	টমে মোক মেৰীৰ বিষয়ে কিয় নক'লে?
+Would you like something to drink?	কিবা খাব নেকি?
+Would you like something to drink?	কিবা খাবা নেকি?
+You really should've phoned ahead.	তুমি সঁচাকৈ আগতেই ফোন কৰিব লাগিছিল।
+You really should've phoned ahead.	আপুনি সঁচাকৈ আগতেই ফোন কৰিব লাগিছিল।
+Compared to yours, my car is small.	তোমাৰ তুলনাত মোৰ গাড়ীখন সৰু।
+Don't get angry. It won't help you.	খং নকৰিব। ই আপোনাক সহায় নকৰে।
+Don't get angry. It won't help you.	খং নকৰিবা। ই তোমাক সহায় নকৰে।
+He remained abroad ever since then.	সি তেতিয়াৰে পৰা বিদেশতে থাকিল।
+He remained abroad ever since then.	তেওঁ তেতিয়াৰে পৰা বিদেশত ৰৈ গ'ল।
+How do you know if you were hacked?	তোমাক হেক কৰা হ'লে কেনেকৈ জানিবা?
+How do you know if you were hacked?	আপোনাৰ হেক কৰা হ'লে কেনেকৈ জানিব?
+How long have you had this problem?	আপোনাৰ এই সমস্যাটো কিমান দিন ধৰি হৈ আছে?
+I don't have any problem with that.	সেইটো লৈ মোৰ কোনো আপত্তি নাই।
+I know that you aren't comfortable.	মই জানো যে আপোনাৰ সুবিধা হোৱা নাই।
+I'd never seen such a thing before.	মই তেনেকুৱা বস্তু কেতিয়াও দেখা পোৱা নাই।
+In fact, I'd say just the opposite.	প্ৰকৃতাৰ্থত, মই বিপৰীতটো কম৷
+It is going to rain this afternoon.	আজি বিয়লি বৰষুণ দিব।
+It is going to rain this afternoon.	আজি ভাটীবেলা বৰষুণ দিব।
+It matters little where he is from.	তেওঁ ক'ৰ সেয়া খুব কম গুৰুত্বপূৰ্ণ।
+Please fill this bucket with water.	এই বাল্টিটো পানীৰে ভৰাওঁকচোন।
+Please fill this bucket with water.	এই বাল্টিংটোত পানী ভৰাওঁকচোন।
+Take this medicine every six hours.	প্ৰত্যেক ছঘণ্টাৰ মূৰে মূৰে এই দৰৱটো ল'ব।
+The friend of my enemy is my enemy.	মোৰ শত্ৰুৰ শত্ৰু মোৰ বন্ধু৷
+Tom didn't think Mary was innocent.	টমে ভবা নাই যে মেৰী নিৰ্দোষী আছিল।
+Tom said that he was unable to win.	টমে ক'লে যে সি জিকিব নোৱাৰিলে।
+Where's the nearest subway station?	আটাইতকৈ ওচৰৰ ছাবৱে' ষ্টেশ্যনখন ক'ত আছে?
+Words failed me at the last minute.	শেষ মুহূৰ্তত মই ক'বলৈ শব্দ পোৱা নাছিলোঁ।
+Words failed me at the last minute.	অন্তিম ক্ষণত মোৰ শব্দ কম পৰি গ'ল।
+You don't seem too happy to see me.	আপুনি মোক দেখি বৰ সুখী যেন লগা নাই।
+You have to memorize this sentence.	তুমি এই বাক্যটো মুখস্থ কৰিব লাগিব।
+Are you ready to start your journey?	আপোনাৰ যাত্ৰা আৰম্ভ কৰিবলৈ আপুনি সাজুনে?
+Are you ready to start your journey?	তোমাৰ যাত্ৰা আৰম্ভ কৰিবলৈ তুমি সাজুনে?
+Are you ready to start your journey?	তুমি তোমাৰ যাত্ৰা আৰম্ভ কৰিবলৈ সাজুনে?
+CDs have taken the place of records.	চিডিয়ে ৰেকৰ্ডৰ ঠাই লৈ লৈছে।
+How much sugar do you eat every day?	আপুনি প্ৰতিদিনে কিমান চেনী খায়?
+How much sugar do you eat every day?	তুমি প্ৰতিদিনে কিমান চেনী খোৱা?
+How much sugar do you eat every day?	তই প্ৰতিদিনে কিমান চেনী খাৱ?
+I came here to see how you're doing.	মই আপোনাৰ খবৰ ল'বলৈ ইয়ালৈ আহিছোঁ।
+I'd like to get off at Fifth Avenue.	মই পঞ্চম এভিন্যুত নামি যাব বিচাৰো৷
+It's nice to see you're still alive.	তোমাক এতিয়াও জীয়াই থকা দেখি ভাল লাগিল।
+There was a lot of snow last winter.	যোৱাবাৰ জাৰকালি খুব বৰফ পৰিছিল।
+They will probably handle this well.	তেওঁলোকে হয়তো এইটো ভালদৰে চম্ভালিব।
+They will probably handle this well.	সিহঁতে হ'বলা এইটো ভালদৰে চম্ভালিব।
+This house is registered in my name.	এই ঘৰখন মোৰ নামত পঞ্জীয়ন কৰা আছে।
+This house is registered in my name.	এই ঘৰখন মোৰ নামত পঞ্জীকৃত।
+Tom, John and Mary all speak French.	টম্‌, যোহন আৰু মেৰী আটাইকেইগৰাকীয়ে ফৰাচী কয়।
+We have a lot of things to do today.	আজি আমাৰ বহুতো কাম কৰিবলগীয়া আছে।
+When did you begin studying English?	তুমি ইংৰাজী পঢ়া কেতিয়া আৰম্ভ কৰিছা?
+When did you begin studying English?	তুমি ইংৰাজী পঢ়া কেতিয়াৰ পৰা আৰম্ভ কৰিছা?
+When did you begin studying English?	আপুনি ইংৰাজী পঢ়া কেতিয়াৰ আৰম্ভ কৰিছে?
+He makes mistakes like everyone else.	আন সকলোৰে দৰে সিও ভুল কৰে।
+He makes mistakes like everyone else.	আন সকলোৰে দৰে তেৱোঁ ভুল কৰে।
+I heard something fall to the ground.	মই মাটিত কিবা পৰা শুনিলোঁ।
+I heard something fall to the ground.	মই মাটিত কিবা পৰা শুনিছোঁ।
+I know that Tom is a careless driver.	মই জানো যে টম্ এজন অসাৱধান চালক।
+I know that Tom is a careless driver.	মই জানো যে টম্ এজন বেপৰোৱা চালক।
+I started learning Chinese last week.	যোৱা সপ্তাহ মই চীনা শিকা আৰম্ভ কৰিছোঁ।
+I usually eat less than my boyfriend.	মই সাধাৰণতে মোৰ বইফ্ৰেণ্ডতকৈ কম খাওঁ।
+I won't have time to read everything.	মই সকলোখিনি পঢ়াৰ সময় নাপাম।
+It looked like nothing was happening.	এনে লাগিল যেন একো হৈ থকা নাছিল।
+The hotel he's living in is downtown.	সি থকা হোটেলখন ডাউনটাউনত আছে।
+The hotel he's living in is downtown.	তেওঁ বাস কৰি থকা হোটেলখন ডাউনটাউনত আছে।
+The same thing almost happened to me.	মোৰ লগতো একেই বস্তু হৈছিলেই প্ৰায়।
+Tom admitted that he had killed Mary.	টমে মেৰীক হত্যা কৰা বুলি তেওঁ স্বীকাৰ কৰিছে।
+Tom admitted that he had killed Mary.	টমে মেৰীক মাৰি পেলোৱা বুলি সি স্বীকাৰ কৰিছে।
+Tom baked a cake for Mary's birthday.	টমে মেৰীৰ জন্মদিনৰ বাবে এটা কেক বনালে।
+Tom didn't want anyone to be unhappy.	টমে কোনেও অসুখী হোৱাটো বিচৰা নাছিল।
+Tom doesn't have to do that tomorrow.	টমে কাইলৈ সেইটো কৰিব নালাগে।
+Tom said that he wasn't tired at all.	টমে ক'লে বোলে তাৰ অকণো ভাগৰ লগা নাছিল।
+You know a lot about dogs, don't you?	আপুনি কুকুৰৰ বিষয়ে বহুত কিছু জানে, নহয়নে?
+You know a lot about dogs, don't you?	তুমি কুকুৰৰ বিষয়ে বহুত কিছু জানা, নহয়নে?
+I couldn't hear what they were saying.	সিহঁতে কি কৈ আছিল মই শুনিব নোৱাৰিলোঁ।
+I sometimes have a pain in my stomach.	মোৰ মাজে মাজে পেটত বিষ হয়।
+I sometimes have a pain in my stomach.	মোৰ কেতিয়াবা কেতিয়াবা পেটত বিষ উঠে।
+I think Tom is much smarter than Mary.	মোৰ মতে টম্‌ মেৰীতকৈ খুবেই স্মাৰ্ট।
+I think Tom is much smarter than Mary.	মোৰ মতে মেৰীতকৈ টম্‌ খুবেই বুধিয়ক।
+I'll try my best to finish it in time.	মই যিমান পাৰোঁ সময়মতে শেষ কৰাৰ চেষ্টা কৰিম।
+I'll try my best to finish it in time.	মই সময়ত শেষ কৰিবলৈ পূৰা জোৰ দিম।
+My mother gets up early every morning.	মোৰ মায়ে সদায় ৰাতিপুৱা সোনকালে উঠিছিল৷
+My mother gets up early every morning.	মোৰ মায়ে ৰাতিপুৱা সদায় সোনকালে উঠিছিল৷
+So a new problem soon became apparent.	গতিকে এটা নতুন সমস্যা সোনকালেই স্পষ্ট হৈ পৰিল।
+There was no time to do anything else.	আন একো কৰিবলৈ সময় নাছিল।
+Tom knows that Mary can't eat peanuts.	টমে জানে যে মেৰীয়ে বাদাম খাব নোৱাৰে।
+Tom told me that he's never done that.	টমে মোক কৈছে যে তেওঁ সেয়া কৰি পোৱা নাই।
+Tom told me that he's never done that.	টমে মোক কৈছে যে সি সেয়া কৰি পোৱা নাই।
+Tom told me that he's never done that.	টমে মোক কৈছে যে তেওঁ কেতিয়াও তেনেকুৱা কৰা নাই।
+Tom waited outside for thirty minutes.	টমে বাহিতৰ আধাঘণ্টা অপেক্ষা কৰিছে।
+Tom waited outside for thirty minutes.	টমে বাহিতৰ ত্ৰিশ মিনিট অপেক্ষা কৰিছে।
+Tom waited outside for thirty minutes.	টমে বাহিতৰ আধাঘণ্টা বাট চাইছে।
+We ordered pink, but we received blue.	আমি গুলপীয়া অৰ্ডাৰ দিছিলোঁ কিন্তু নীলা পালোঁ।
+Can you wait until 2:30 this afternoon?	আপুনি আজি দুপৰীয়া 2:30লৈকে ৰ'বনে?
+Can you wait until 2:30 this afternoon?	আপুনি আজি দুপৰীয়া 2:30লৈকে অপেক্ষা কৰিবনে?
+Can you wait until 2:30 this afternoon?	তুমি আজি দুপৰীয়া 2:30লৈকে ৰ'বানে?
+I didn't know Tom was such a good cook.	টম্ ইমান ভাল ৰান্ধনী বুলি জনা নাছিলোঁ।
+I didn't know that Tom used to do that.	টমে সেয়া কৰিছিল বুলি গম পোৱা নাছিলোঁ।
+I didn't know that Tom was lying to me.	বৰষুণ আৰম্ভ হোৱাৰ আগতেই সেইটো সোনকালে কৰি লোৱাঁ।
+I didn't know that Tom was lying to me.	মই নাজানিছিলোঁ যে টমে মোক মিছা কথা কৈ আছিল।
+I didn't know that you were Tom's wife.	তুমি টমৰ পত্নী বুলি জনা নাছিলোঁ।
+I didn't know that you were dating Tom.	তুমি টমৰ লগত ডেটিং কৰি আছিলা বুলি মই জনা নাছিলোঁ।
+I didn't know what Tom was going to do.	মই নাজানিছিলোঁ টমে কি কৰিব গৈ আছিল।
+I didn't know who Tom's girlfriend was.	মই জনা নাছিলোঁ টমৰ গাৰ্লফ্ৰেণ্ড কোন।
+I didn't like any of Tom's suggestions.	মই টমৰ এটাও পৰামৰ্শ ভাল পোৱা নাই।
+I didn't realize Tom needed to do that.	টমে সেইটো কৰিবলগীয়া হ'ল বুলি মই অনুভৱ কৰা নাছিলোঁ।
+I didn't realize Tom shouldn't do that.	টমে সেইটো কৰা উচিত নহয় বুলি মই অনুভৱ কৰা নাছিলোঁ।
+I didn't realize how much Tom loved me.	টমে মোক ইমান ভাল পাইছিল বুলি মই অনুভৱ কৰা নাছিলোঁ।
+I didn't speak to Tom at all yesterday.	কালি মই টমৰ লগত একেবাৰেই কথা পতা নাই।
+I didn't tell Tom I didn't like my job.	মই মোৰ চাকৰিটো ভাল নাপাওঁ বুলি টমক কোৱা নাই।
+I didn't tell Tom how many eggs to buy.	মই টমক কেইটা কণী কিনিব লাগে কোৱা নাই।
+I don't want to wear Tom's old clothes.	মই টমৰ পুৰণা কাপোৰ পিন্ধিব নিবিচাৰোঁ।
+I will help him no matter what you say.	মই তাক সহায় কৰিম তুমি যিয়েই নোকোৱা কিয়।
+I will help him no matter what you say.	মই তেওঁক সহায় কৰিম আপুনি যিয়েই নকয় কিয়।
+I won't be able to finish this by 2:30.	মই এয়া 2:30 বজাৰ আগে আগে শেষ কৰিব নোৱাৰিম।
+My mom doesn't speak English very well.	মোৰ মাই ইমান ভালকৈ ইংৰাজী নকয়।
+That's the reason I accepted the offer.	সেই কাৰণেই মই অফাৰটো ল'লোঁ।
+That's the reason I accepted the offer.	সেই কাৰণেই মই অফাৰটো গ্ৰহণ কৰিলোঁ।
+The contents of the letter were secret.	চিঠিখনৰ সমল গোপন আছিল।
+There's something I forgot to tell you.	মই তোমাক কিবা এটা ক'বলৈ পাহৰি গ'লোঁ।
+There's something I forgot to tell you.	মই তোমাক কিবা ক'বলৈ পাহৰিছোঁ।
+There's something I forgot to tell you.	মই তোমাক কিবা এটা ক'বলৈ পাহৰি গৈছোঁ।
+There's something I forgot to tell you.	মই আপোনাক কিবা এটা ক'বলৈ পাহৰি গ'লোঁ।
+There's something I forgot to tell you.	মই আপোনাক কিবা এটা ক'বলৈ পাহৰিছোঁ।
+There's something I forgot to tell you.	মই তোমাক কিবা এটা ক'বলৈ পাহৰিলোঁ।
+There's something I forgot to tell you.	মই আপোনাক কিবা এটা ক'বলৈ পাহৰিলোঁ।
+There's something I forgot to tell you.	মই তোক কিবা এটা ক'বলৈ পাহৰিলোঁ।
+They called for an end to the fighting.	সিহঁতে কাজিয়াটো শেষ হোৱা বিচাৰিছে।
+Tom said I needed to get more exercise.	টমে ক'লে যে মই আৰু ব্যায়াম কৰাৰ দৰকাৰ।
+We had a good deal of rain last summer.	যোৱাবাৰ গৰমৰ দিনত আমাৰ এইফালে ভালেমান বৰষুণ দিছিল।
+We had a good deal of snow last winter.	যোৱাবাৰ জাৰকালি আমাৰ এইফালে ভালেমান বৰফ পৰিছিল।
+You do know I can't do that, don't you?	মই কৰিব নোৱাৰোঁ বুলি তুমি গম পোৱা, নহয় জানো?
+You do know I can't do that, don't you?	মই কৰিব নোৱাৰোঁ বুলি আপুনি গম পায়, নহয় জানো?
+You do know I can't do that, don't you?	মই কৰিব নোৱাৰোঁ বুলি তই গম পাৱ, নহয় জানো?
+Africa is a continent; Greenland is not.	আফ্ৰিকা এখন মহাদেশ; গ্ৰীনলেণ্ড নহয়।
+Did you know Tom doesn't like chocolate?	তুমি জানানে টমে চকলেট ভাল নাপায়?
+Did you know Tom doesn't like chocolate?	আপুনি জানেনে টমে চকলেট ভাল নাপায়?
+I think your English has improved a lot.	মোৰ মতে তোমাৰ ইংৰাজী আগতকৈ বহুত ভাল হৈছে।
+I'm also dating someone from the office.	ময়ো অফিচৰ কাৰোবাৰ লগত ডেটিং কৰি আছোঁ।
+In English the verb precedes the object.	ইংৰাজীত ক্ৰিয়াপদ বস্তুৰ আগত থাকে।
+No one doubts Tom will do that tomorrow.	নিঃসন্দেহে টমে সেয়া কাইলৈ কৰিব।
+Nobody doubts Tom will do that tomorrow.	নিঃসন্দেহে টমে সেয়া কাইলৈ কৰিব।
+Texas is nearly twice as large as Japan.	টেক্সাছ জাপানতকৈ প্ৰায় দুগুণ ডাঙৰ।
+The bus arrived ten minutes behind time.	বাছখন দহ মিনিট দেৰিকৈ আহি পাইছে।
+There's a possibility I'll die tomorrow.	মই কাইলৈ মৰি যোৱাৰ সম্ভাৱনা আছে।
+This supermarket is open 24 hours a day.	এইখন ছুপাৰমাৰ্কেট দিনৰ ২৪ ঘণ্টাই খোলা থাকে।
+You know I'm not coming back, don't you?	মই ঘূৰি নাহোঁ তুমি জানা, নহয় জানো?
+You know I'm not coming back, don't you?	মই ঘূৰি নাহোঁ আপুনি জানে, নহয় জানো?
+Can you find me a babysitter for tonight?	আপুনি মোক আজি ৰাতিৰ বাবে এগৰাকী আয়া বিচাৰি দিব পাৰিবনে?
+Didn't you know this was going to happen?	এয়া হ'বলৈ গৈ আছিল বুলি নাজানিছিলানে?
+Didn't you know what was going to happen?	কি হ'বলৈ গৈ আছিল নাজানিছিলানে?
+Do that quickly before it starts to rain.	বৰষুণ আৰম্ভ হোৱাৰ আগতেই সেইটো সোনকালে কৰি লোৱাঁ।
+Do you intend to go to Boston in October?	তুমি অক্টোবৰ মাহত ব'ষ্টনলৈ যোৱাৰ কথা ভাবিছা নেকি?
+Do you know anyone who's gotten divorced?	আপুনি বিবাহ-বিচ্ছেদ হোৱা কাৰোবাক চিনি পায় নেকি?
+Do you know anyone who's very overweight?	আপুনি এনে কাৰোবাক চিনি পায় নেকি যাৰ ওজন বৰ বেছি?
+Do you really think it's easy to do that?	আপুনি সঁচাকৈয়ে এয়া কৰাটো সহজ বুলি ভাবেনে?
+Do you really think it's safe to do that?	সেয়া কৰাটো সঁচাকৈয়ে সুৰক্ষিত বুলি ভাবেনে?
+Do you think doing that will really help?	সেইটো কৰিলে সঁচাকৈয়ে কামত দিব বুলি ভাবানে তুমি?
+Do you think it would be safe to do that?	সেইটো কৰাটো সুৰক্ষিত হ'ব বুলি ভাবেনে আপুনি?
+Do you think this water is safe to drink?	এই পানী খোৱাটো সুৰক্ষিত বুলি ভাবেনে আপুনি?
+Do you think you'd be nervous doing that?	আপুনি সেইটো কৰোঁতে নাৰ্ভাছ হ'ব বুলি ভাবে নেকি?
+Doing it that way would be too expensive.	সেইটো তেনেকৈ কৰাটো বৰ দামী হ'ব।
+Doing that is a lot easier than it looks.	সেয়া কৰাটো দেখা যোৱাতকৈ বহুত সহজ।
+Doing that probably won't be interesting.	সেয়া কৰাটো বোধহয় আমোদজনক নহ'ব।
+Doing that will be easier than you think.	সেয়া কৰাটো আপুনি ভবাতকৈ সহজ হ'ব।
+Don't do that again unless I tell you to.	মই তোমাক নোকোৱালৈকে সেয়া আকৌ নকৰিবাঁ।
+I have three years left until retirement.	মই অৱসৰ গ্ৰহণ কৰিবলৈ তিনি বছৰ বাকী আছে।
+I really don't want to live in Australia.	মই সঁচাকৈয়ে অষ্ট্ৰেলিয়াত থাকিব নিবিচাৰোঁ।
+I think Tom is much smarter than Mary is.	মোৰ মতে টম্‌ মেৰীতকৈ খুবেই স্মাৰ্ট।
+I think Tom is much smarter than Mary is.	মোৰ মতে মেৰীতকৈ টম্‌ খুবেই বুধিয়ক।
+I will be back in less than five minutes.	পাঁচমিনিটতকৈ কম সময়ত মই ঘুৰি আহিম৷
+It's not a suitable topic for discussion.	আলোচনাৰ বাবে এয়া উপযুক্ত বিষয় নহয়।
+Seeing me, they suddenly stopped talking.	মোক দেখি সিহঁতে হঠাৎ কথা পতা বন্ধ কৰি দিলে।
+Seeing me, they suddenly stopped talking.	মোক দেখি তেওঁলোকে হঠাৎ কথা পতা বন্ধ কৰিলে।
+Seeing me, they suddenly stopped talking.	মোক দেখা পাই সিহঁতে হঠাতে কথা পতা বন্ধ কৰি দিলে।
+The committee consists of fifteen people.	সমিতিটোত পোন্ধৰজন ব্যক্তি আছে।
+The committee consists of fifteen people.	সমিতিটোত পোন্ধৰগৰাকী লোক আছে।
+Tom didn't need to tell anybody anything.	টমে কাকো একো ক'বলগীয়া হোৱা নাই।
+Tom was the one who gave me this trumpet.	মোক টমেই এই শিংগাটো দিছে।
+Do you prefer the blue one or the red one?	তুমি নীলাটো পছন্দ কৰানে ৰঙাটো?
+Do you prefer the blue one or the red one?	আপুনি নীলাটো পছন্দ কৰেনে ৰঙাটো?
+Five minutes' walk brought us to the park.	পাঁচ মিনিটৰ খোজে আমাক উদ্যানখন পোৱালে৷
+I like summer, but I can't stand the heat.	মোৰ গৰমকালি ভাল লাগে কিন্তু মই গৰম সৰ্হ্য কৰিব নোৱাৰোঁ।
+It seems that there's someone in the cave.	এনে লাগিছে যেন গুহাটোত কোনোবা আছে।
+Open your mouth and stick out your tongue.	আপোনাৰ মুখখন মেলি জিভাখন বাহিৰলৈ উলিয়াওঁক।
+Tom said he was willing to do that for us.	টমে বোলে আমাৰ বাবে সেইটো কৰিব বিচাৰিছে।
+Tom said he was worried about the weather.	টমে কৈছে সি বোলে বতৰক লৈ চিন্তিত আছিল।
+Tom said he wasn't in Boston at that time.	টমে কৈছে সি বোলে সেইসময়ত ব'ষ্টনত নাছিল।
+Tom said he wished he hadn't been so late.	টমে বোলে ইমান পলম নকৰাৰ ইচ্ছা কৰিছিল।
+Tom said he wished he knew how to do that.	টমে বোলে সেইটো কেনেকৈ কৰিব পাৰি সেয়া জনাৰ ইচ্ছা কৰিছিল।
+Tom said he wouldn't be afraid to do that.	টমে বোলে সেইটো কৰিবলৈ ভয় নাখায়।
+Tom said he wouldn't like to do that here.	টমে বোলে সেইটো ইয়াত কৰিব নিবিচাৰে।
+Tom said he wouldn't recommend doing that.	টমে বোলে সেয়া কৰাৰ পৰামৰ্শ নিদিয়ে।
+Tom said he'd be glad to buy that for you.	টমে বোলে তোমাৰ কাৰণে সেইটো কিনি ভাল পাব।
+Tom said he'd be the first one to do that.	টমে বোলে সেইটো কৰা প্ৰথমজন ব্যক্তি হ'ব।
+Tom said he'd do that in a couple of days.	টমে বোলে সেইটো কেইদিনমানৰ ভিতৰত কৰিব।
+Tom said he'd never permit you to do that.	টমে বোলে আপোনাক কেতিয়াও তেনে কৰিবলৈ অনুমতি নিদিয়ে।
+Tom told Mary that she was being childish.	টমে মেৰীক ক'লে যে তাই হেনো ল'ৰামতীয়া ব্যৱহাৰ কৰি আছিল।
+What's your favorite programming language?	তোমালোকৰ প্রিয় প্ৰ'গ্ৰামিং ভাষা কি?
+Mary has become very beautiful, hasn't she?	মেৰী খুব ধুনীয়া হৈ গৈছে, নহয়নে?
+Something must be wrong with the machinery.	যন্ত্ৰ-পাতিৰ নিশ্চয় কিবা সমস্যা হৈছে।
+The only person I know in Australia is Tom.	অষ্ট্ৰেলিয়াত মই চিনি পোৱা একমাত্ৰ ব্যক্তি হৈছে টম্‌।
+There is no stop between Suwon and Incheon.	ছোৱন আৰু ইঞ্চিয়নৰ মাজত কোনো ষ্টপ্ নাই।
+Tom wouldn't have done something like that.	টমে এনেকুৱা কিবা নকৰিলেহেঁতেন।
+We must make a decision on this right away.	আমি এই বিষয়ে এতিয়াই সিদ্ধান্ত ল'ব লাগিব।
+I have a master's degree in music education.	মোৰ সঙ্গীতত স্নাতকোত্তৰ ডিগ্ৰী আছে৷
+Not a single cloud could be seen in the sky.	আকাশত এটাও ডাৱৰ দেখা যোৱা নাই।
+That's the reason that I accepted the offer.	এইটোৱেই কাৰণ যে মই অফাৰটো ল'লোঁ।
+That's the reason that I accepted the offer.	মই সেইকাৰণেই অফাৰটো গ্ৰহণ কৰিলোঁ।
+There are holes in the heels of these socks.	এইযোৰ মোজাৰ গেৰোৱাত ফুটা আছে।
+Tom and Mary played together almost all day.	টম্‌ আৰু মেৰীয়ে প্ৰায় গোটেই দিনটো একেলগে খেলিছিল।
+Tom and Mary played together almost all day.	টম্‌ আৰু মেৰীয়ে প্ৰায় গোটেই দিনটো একেলগে খেলিছে।
+Tom and Mary played together almost all day.	টম্‌ আৰু মেৰীয়ে প্ৰায় ওৰে দিনটো একেলগে খেলিছিল।
+Did you know that Tom doesn't like chocolate?	তুমি জানানে টমে চকলেট ভাল নাপায়?
+Did you know that Tom doesn't like chocolate?	আপুনি জানেনে টমে চকলেট ভাল নাপায়?
+I felt so refreshed after a swim in the pool.	পুখুৰীত সাঁতোৰাৰ পিছত মই ইমান সঁতেজ অনুভৱ কৰিছো৷
+I have five copies, but I need twice as many.	মোৰতাত পাঁচটা প্ৰতিলিপি আছে, কিন্তু মোক ইয়াৰ দুগুণ লাগে৷
+No one doubts that Tom will do that tomorrow.	নিঃসন্দেহে টমে সেয়া কাইলৈ কৰিব।
+The accident happened previous to my arrival.	ঘটনাটো মই আহি পোৱাৰ আগতেই ঘটিছে।
+The scenery was beautiful beyond description.	বৰ্ণনাতকৈও সুন্দৰ দৃশ্য আছিল।
+The scenery was beautiful beyond description.	বৰ্ণনা কৰিব নোৱাৰা সুন্দৰ দৃশ্য আছিল।
+Tom asked Mary to help him reinstall Windows.	টমে মেৰীক উইণ্ড'জ ৰিইনষ্টল কৰাত তাক সহায় কৰিবলৈ কৈছে।
+Tom asked Mary to help him reinstall Windows.	টমে মেৰীক উইণ্ড'জ পুনঃইনষ্টল কৰাত তেওঁক সহায় কৰিবলৈ কৈছে।
+Tom asked Mary to help him reinstall Windows.	টমে মেৰীক উইণ্ড'জ আকৌ ইনষ্টল কৰাত তাক সহায় কৰিবলৈ কৈছে।
+Tom said he'd be willing to do that for free.	টমে বোলে সেইটো বিনামূলীয়াকৈ কৰিব বিচাৰিছে।
+Tom's wife is three years younger than he is.	টমৰ পত্নী তাতকৈ তিনি বছৰ সৰু।
+Tom's wife is three years younger than he is.	টমৰ ঘৈণীয়েক তাতকৈ তিনি বছৰ সৰু।
+We have an office located in downtown Boston.	ব'ষ্টনৰ ডাউনটাউনত আমাৰ এখন কাৰ্যালয় আছে।
+We have an office located in downtown Boston.	ব'ষ্টনৰ ডাউনটাউনত আমাৰ এখন অফিচ আছে।
+You never know when this might come in handy.	এইটো কেতিয়া কামত দিয়ে ক'ব নোৱাৰি।
+Above all, logic requires precise definitions.	সৰ্বোপৰি যুক্তিৰ বাবে সঠিক সংজ্ঞাৰ প্ৰয়োজন।
+I need some apples so I can make an apple pie.	মোক কেইটামান আপেল লাগে যাতে মই এটা আপেল 'পাই' বনাব পাৰো৷
+I sleep in a lot because I often stay up late.	মই বহুত শো কাৰণ মই দেৰিলৈ থাকো৷
+Please put this thermometer under your tongue.	অনুগ্ৰহ কৰি এই থাৰ্ম'মিটাৰটো আপোনাৰ জিভাৰ তলত ৰাখক।
+Please put this thermometer under your tongue.	এই থাৰ্ম'মিটাৰটো আপোনাৰ জিভাৰ তলত ৰাখকচোন।
+Tom refused to admit that he'd made a mistake.	টমে ভুল কৰা বুলি স্বীকাৰ কৰিব খোজা নাছিল।
+Tom told me that he was really good at tennis.	টমে মোক কৈছিল যে সি টেনিচত সচাঁকৈ বহুত ভাল৷
+I don't earn enough money to support my family.	মই মোৰ পৰিয়াল চলাবলৈ পৰ্যাপ্ত ধন উপাৰ্জন নকৰোঁ।
+It makes no difference whether you come or not.	তুমি আহা-নাহা একেই কথা।
+It makes no difference whether you come or not.	আপুনি আহে-নাহে একেই কথা।
+It makes no difference whether you come or not.	আপুনি লাগিলে আহক বা নাহক, কথাটো একেই।
+She gave a narrative of her strange experience.	তাই তাইৰ আচৰ্য্যকৰ অনুভৱৰ বৰ্ণনা কৰিছিল৷
+Tom knows what to say to make Mary forgive him.	টমে জানে মেৰীক কি ক'লে তাই তাক ক্ষমা কৰিব।
+Tom said he wasn't living in Australia anymore.	টমে ক'লে যে তেওঁ আৰু অষ্ট্ৰেলিয়াত বাস কৰি থকা নাছিল।
+We need to take Tom to the hospital right away.	আমি এতিয়াই টমক হাস্পতাললৈ লৈ যাব লাগিব।
+Be especially careful when walking on icy paths.	বৰফৰ পথত খোজ কাঢ়োঁতে বিশেষভাৱে সাৱধান হ'ব।
+Let's go out and do something interesting today.	ব'লা বাহিৰলৈ যাওঁ আৰু আজি কিবা আকৰ্ষণীয় কাৰো৷
+The skies promise better weather in the morning.	আকাশে ৰাতিপুৱা বতৰ ভাল হোৱাৰ আশা কঢ়িয়াই আনিছে।
+The train was delayed because of heavy snowfall.	প্ৰচণ্ড তুষাৰপাতৰ বাবে ৰে'লখন বিলম্বিত হৈছিল।
+The weather was not only cold, it was also damp.	বতৰটো অকল ঠান্ডাই নহয়, সেমেকাও আছিল৷
+Tom is already big enough to do that by himself.	টমে সেয়া নিজেই কৰিবলৈ ইতিমধ্যে যথেষ্ট ডাঙৰ।
+Tom spent all evening trying to memorize a poem.	টমে গোটেই গধূলি এটা কবিতা মুখস্থ কৰাৰ চেষ্টা কৰি কটাইছে।
+You'll soon get accustomed to this cold weather.	তোমাৰ সোনকালেই এই ঠাণ্ডা বতৰৰ অভ্যাস হৈ যাব।
+You'll soon get accustomed to this cold weather.	আপোনাৰ সোনকালেই এই ঠাণ্ডা বতৰৰ অভ্যাস হৈ যাব।
+The strong wind indicates that a storm is coming.	প্ৰবল বতাহে ধুমুহা অহাৰ ইংগিত দিয়ে।
+The strong wind indicates that a storm is coming.	প্ৰবল বতাহে ধুমুহা অহাৰ ইংগিত দিছে।
+Tom had to leave his dog outside the supermarket.	টমে তাৰ কুকুৰটো চুপেৰমাৰ্কেতৰ বাহিৰত এৰি যাবলগিয়া হৈছিল৷
+I don't think that we should rely on Tom too much.	আমি টমৰ ওপৰত ইমান ভৰসা কৰিব লাগে বুলি মই নাভাবোঁ।
+Suddenly, it started to look almost nice and warm.	হঠাতে, প্ৰায় সুন্দৰ আৰু গৰম যেন লাগিবলৈ ধৰিলে।
+Would you rather be fat and ugly or thin and sexy?	তুমি শকত আৰু আপচু হ'বা নে ক্ষীণ আৰু আকৰ্ষণীয়?
+Tom never allowed Mary to see what was in his safe.	টমৰ ছে'ফত কি আছে সেয়া তেওঁ কেতিয়াও মেৰীক চাবলৈ নিদিছিল।
+Was your high school's volleyball team a good team?	তোমাৰ হাই স্কুলৰ ভলীবল দলটো ভাল দল আছিলনে?
+Was your high school's volleyball team a good team?	আপোনাৰ হাই স্কুলৰ ভলীবল দলটো ভাল দল আছিলনে?
+The Jacksons lived in Boston before they moved here.	জেক্‌ছনহঁত ইয়ালৈ অহাৰ আগত ব'ষ্টনত থাকিছিল।
+The Jacksons lived in Boston before they moved here.	জেক্‌ছনহঁত ইয়ালৈ অহাৰ পূৰ্বে ব'ষ্টনত বাস কৰিছিল।
+Tom is dating a girl three years younger than he is.	টমে তাতকৈ তিনি বছৰ কম বয়সৰ এজনী ছোৱালীক ডেট কৰি আছে।
+Tom is dating a girl three years younger than he is.	টমে তেওঁতকৈ তিনি বছৰ কম বয়সৰ এজনী ছোৱালীৰ লগত ডেট কৰি আছে।
+My bag was here five minutes ago, but it is gone now.	পাঁচ মিনিট আগত মোৰ মোনাখন ইয়াত আছিল, কিন্তু এতিয়া নাই৷
+A heavy snow fell in Kyoto for the first time in ages.	বহু যুগৰ পাচত প্ৰথমবাৰৰ বাবে কিয়'ট'ত প্ৰচণ্ড বৰফ পৰিছে।
+Judging from the look of the sky, it is going to snow.	আকাশৰ ৰং-ৰূপ চাই বৰফ পৰিব যেন লাগিছে।
+Judging from the look of the sky, it is going to snow.	আকাশৰ ৰং-ৰূপ চাই তুষাৰপাত হ'ব যেন লাগিছে।
+From the look of the sky, it may begin to snow tonight.	আকাশৰ ৰং-ৰূপ চাই লাগিছে যেন আজি ৰাতি বৰফ পৰা আৰম্ভ হ'ব পাৰে।
+I don't think Tom knew where Mary was going to do that.	মই নাভাবোঁ যে মেৰীয়ে সেইটো ক'ত কৰিবলৈ গৈ আছিল সেয়া টমে জানিছিল।
+It's a little easier to do that now than it used to be.	এইটো কৰিবলৈ আগতকৈ অলপ উজু হৈছে৷
+It's a little easier to do that now than it used to be.	এইটো কৰিবলৈ আগতকৈ অলপ সহজ হৈছে৷
+Tom said that he thought Mary would be able to do that.	টমে বোলে মেৰীয়ে সেয়া কৰিব পাৰিব বুলি ভাবিছিল।
+Some people gave Tom some odd looks, but he didn't care.	কিছুমান মানুহে টমলৈ পেন্দোৱাকৈ চাইছিল, কিন্তু সি গুৰুত্ত নিদিলে৷
+Take one tablet a day until all of the medicine is gone.	গোটেইখিনি ঔষধ শেষ নোহোৱালৈকে এদিনত এটাকৈ বড়ি ল'ব।
+We had hardly waited for five minutes when the bus came.	আমি মাত্ৰ পাঁচ মিনিটমান অপেক্ষা কৰোতেই বাছখন আহিল৷
+"When will you be back?" "It all depends on the weather."	"তুমি কেতিয়া ঘূৰি আহিবা?" "বতৰৰ লগতহে কথা।"
+"When will you be back?" "It all depends on the weather."	"আপুনি কেতিয়া উভতি আহিব?" "বতৰৰ লগতহে কথা।"
+I wonder if I'll really be able to do that without any help.	মই ভাবোঁ যে মই সেই কামটো সঁচাকৈয়ে কোনো সহায় অবিহনে কৰিব পাৰিম নে নাই।
+It's so hot that you could cook an egg on the hood of a car.	ইমানেই গৰম যে আপুনি গাড়ীৰ হুডত কণী সিজাব পাৰিব।
+It's so hot that you could cook an egg on the hood of a car.	ইমানেই গৰম যে তুমি গাড়ীৰ হুডত কণী সিজাব পাৰিবা।
+Judging from the look of the sky, it may rain at any moment.	আকাশৰ ৰং-ৰূপ চাই লাগিছে যেন যিকোনো মুহূৰ্ততে বৰষুণ দিব পাৰে।
+Judging from the look of the sky, we may have snow tomorrow.	আকাশৰ ৰং-ৰূপ চাই লাগিছে যেন কাইলৈ বৰফ পৰিব পাৰে।
+I know Tom is a good singer, but I think that Mary is better.	মই জানো যে টম এজন ভাল গায়ক, কিন্তু মই ভাবো মেৰী বেছি ভাল৷
+Judging from the look of the sky, it may rain this afternoon.	আকাশৰ ৰং-ৰূপ চাই লাগিছে যেন আজি বিয়লি বৰষুণ দিব পাৰে।
+The train was held up for two hours on account of the snowstorm.	তুষাৰপাতৰ কাৰণে ৰে'লখন দুঘণ্টা ধৰি ৰখাই থোৱা হৈছিল।
+The hotel provided a wire in the bathroom for hanging wet clothes.	তিতা কাপোৰবোৰ শুকুৱাবলৈ হোটেলখনে বাথৰুমত এদাল তাৰৰ যোগান ধৰিছিল৷
+The hotel provided a wire in the bathroom for hanging wet clothes.	তিতা কাপোৰবোৰ শুকুৱাবলৈ হোটেলখনে বাথৰুমত এদাল তাৰ দিছিল৷
+I just kept asking Tom the same question, but he never answered me.	মই টমক একেই প্ৰশ্ন সুধিয়েই থাকোঁ কিন্তু সি মোক কেতিয়াও উত্তৰ দিয়া নাই।
+It took me more than two hours to translate a few pages of English.	ইংৰাজীৰ কেইখনমান পৃষ্ঠা অনুবাদ কৰোঁতে মোৰ দুঘণ্টাৰো অধিক সময় লাগিল।
+Tom mentioned that he and Mary were thinking about getting married.	টম্‌ আৰু মেৰীয়ে বিয়া পতাৰ কথা ভাবি আছে বুলি তেওঁ উল্লেখ কৰিলে।
+Judging from the look of the sky, it will clear up in the afternoon.	আকাশৰ ৰং-ৰূপ চাই বিয়লি ফৰকাল হ'ব যেন লাগিছে।
+All of a sudden, large drops of rain began falling from the dark sky.	হঠাতে, ক'লীয়া আকাশৰ পৰা বৰষুণৰ ডাঙৰ ডাঙৰ টোপাল পৰিবলৈ ধৰিলে।
+The story has been passed down from generation to generation by word of mouth.	কাহিনীটো প্ৰজন্মৰ পৰা প্ৰজন্মলৈ মুখে মুখে চলি আহিছে৷

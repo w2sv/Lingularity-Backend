@@ -1,0 +1,666 @@
+Fire!	Янгын!
+Stop!	Тукта!
+Stop!	Стоп!
+I know.	Беләм.
+Really?	Шулаймы?
+Thanks!	Räxmät!
+Ask Tom.	Томнан сорагыз.
+Ask Tom.	Томны сораштырып карагыз.
+Be nice.	Сөел!
+I'm back.	Мин кайттым.
+Let's go!	Әйдәгез!
+Who am I?	Кем мин?
+Who's he?	Кем ул?
+He is ill.	Ул авырый.
+I saw you.	Мин сезне күрдем.
+Of course!	Әлбәттә!
+Who is he?	Кем ул?
+Who's she?	Кем ул?
+Don't rush.	Ашыкма.
+Don't rush.	Кызулама.
+Don't rush.	Кабаланма.
+Forget him.	Оныт аны.
+He is sick.	Ул авырый.
+He's happy.	Ул бәхетле.
+I eat rice.	Мин дөге ашыйм.
+I hear you.	Ишетәм сине.
+I think so.	Минемчә, шулай.
+I'm eating.	Мин ашыйм.
+I'm lonely.	Мин ялгызак.
+That a boy!	Егет икәнсең.
+Who is she?	Кем ул?
+All is well.	Барысы да яхшы.
+He is happy.	Ул бәхетле.
+How are you?	Хәлләрегез ничек?
+I don't eat.	Мин ашамыйм.
+She's happy.	Ул бәхетле.
+Where is he?	Ул кая?
+Are you busy?	Эшегез күпме?
+Are you busy?	Eşegez küpme?
+Come anytime.	Теләсә кайсы вакытта кил.
+Come anytime.	Кайчан теләсәң шунда кил.
+Don't be mad.	Ачуланма мине.
+Don't forget.	Онытмагыз.
+Find the cat.	Песине эзләп тап.
+Find the cat.	Мәчене эзләп тап.
+Good evening.	Хәерле кич.
+I ate apples.	Алма ашадым.
+I don't care.	Миңа барыбер.
+I don't know.	Белмим.
+I have to go.	Миңа китәргә кирәк.
+I need paint.	Миңа буяу кирәк.
+It's raining.	Яңгыр ява.
+She is happy.	Ул бәхетле.
+Should we go?	Китикме инде?
+That will do.	Булдырырбыз.
+That will do.	Килештек.
+That's right!	Дөрес!
+They're kids.	Алар балалар.
+This is fine.	Бу нормаль күренеш.
+We overslept.	Йоклап калганбыз.
+You're right.	Сез хаклы.
+Are you alone?	Сез ялгызмы?
+I have a book.	Минем бер китабым бар.
+I lost my key.	Ачкычымны югалттым.
+I play tennis.	Мин теннис уйныйм.
+I'll help you.	Мин сиңа булышам.
+I'm a student.	Мин студент.
+I'm a tourist.	Мин турист.
+I'm not going.	Бармыйм.
+Is it a river?	Бу елгамы?
+It is raining.	Яңгыр ява.
+Make your bed.	Урыныңны җәй.
+This is a dog.	Бу — эт.
+This is a map.	Бу — харита.
+You're pretty.	Син чибәр.
+Cows eat grass.	Сыерлар үлән ашый.
+Do you hear it?	Ишетәсеңме?
+Does it matter?	Барыбер түгелме?
+Don't be angry.	Ачуланма миңа.
+Everybody lies.	Барысы да алдаша.
+Happy birthday!	Туган көнең белән!
+He has a beard.	Ул сакаллы.
+He is a doctor.	Ул табиб.
+Here is my key.	Менә ачкычым.
+How's it going?	Эшләр ничегрәк?
+I don't get it.	Аңламыйм.
+I don't see it.	Мин аны күрмим.
+I want to know.	Беләсем килә.
+I wasn't alone.	Ялгыз түгел идем.
+I wasn't alone.	Ялгыз булмадым.
+I wasn't alone.	Берүзем генә түгел идем.
+I won't eat it.	Мин моны ашамыйм.
+I'm eating now.	Мин хәзер ашыйм.
+I'm not hiding.	Мин яшеренмим дә.
+I'm not hungry.	Мин ач түгел.
+I'm not hungry.	Ашыйсым килми.
+Is it my fault?	Мин моңа гаеплеме?
+It's hot today.	Бүген кыздыра.
+Let's watch TV.	Әйдә телевизор карыйк.
+Tell the truth.	Дөресен әйт.
+This is a book.	Бу — китап.
+This is a fish.	Бу - балык.
+Try not to cry.	Еламаска тырыш.
+Are you thirsty?	Сусамадыгызмы?
+Are you thirsty?	Сусадыңмы?
+Can you hear me?	Сез мине ишетәсезме?
+Everything's OK.	Барысы да әйбәт.
+I am not eating.	Мин ашамыйм.
+I have two cats.	Ике мәчем бар.
+I have two sons.	Ике улым бар.
+I like football.	Мин футбол яратам.
+I myself did it.	Үзем эшләдем.
+I want to leave.	Китәсем килә.
+I'm eating here.	Мин монда ашыйм.
+It's cold today.	Бүген салкын.
+It's not a game.	Бу уен түгел!
+This is my room.	Бу минем бүлмәм.
+To err is human.	Ялгышу кешеләргә хас әйбер.
+What time is it?	Сәгать ничә?
+What's the news?	Яңалыклар бармы?
+Brush your teeth.	Тешләрегезне чистартыгыз.
+Call me tomorrow.	Миңа иртәгә шалтырат.
+Close the window.	Тәрәзәне яп!
+Close the window.	Тәрәзәне яп.
+Come on, show me.	Әйдә, күрсәтегез.
+Do you feel well?	Үзегезне яхшы хис итәсезме?
+Don't make noise.	Шаулама.
+Everything is OK.	Барысы да әйбәт.
+He's a historian.	Ул тарихчы.
+He's not at home.	Ул өйдә юк.
+I bought bananas.	Банан алдым.
+I don't like him.	Җан тартмый аңа.
+I gave up on Tom.	Мин инде Томга кул селтәдем.
+I gave up on Tom.	Томнан өметемне өздем инде.
+I gave up on Tom.	Томнан өметем өзелде инде.
+I have sore feet.	Аякларым авырта.
+I like lemon tea.	Мин лимонлы чәй яратам.
+I want a blanket.	Юрган алырга телим.
+I'll wash my car.	Машинамны юачакмын.
+I'm eating lunch.	Төшке ашымны ашыйм.
+I'm not a doctor.	Табиб түгелмен.
+I'm not a doctor.	Мин табиб түгел.
+I've lost my key.	Ачкычымны югалттым.
+Is this your car?	Бу сезнең машинагызмы?
+It began to rain.	Яңгыр ява башлады.
+My ears are cold.	Колакларым туңа.
+Please don't cry.	Еламасана, зинһар.
+That's Tom's job.	Бу Том эше.
+The cat is black.	Мәче кара төстә.
+The party's over.	Мәҗлес тәмам.
+The party's over.	Эш бетте.
+The party's over.	Mäcles tämam.
+The party's over.	Eş bette.
+They're children.	Алар балалар.
+Tom was arrested.	Томны кулга алдылар.
+We have two kids.	Безнең ике балабыз бар.
+What did Tom say?	Том нәрсә диде?
+When do we start?	Кайчан башлыйбыз?
+When do we start?	Кайчан керешәбез?
+When do we start?	Кайчан тотынабыз?
+When do we start?	Кайчан китәбез?
+Where's my watch?	Сәгатем кайда?
+Where's your dad?	Әтиең кайда?
+Where's your dog?	Этең кайда?
+You can't not go.	Бармыйча булмый.
+You're beautiful.	Син чибәр.
+You're my friend.	Син минем дустым.
+Did you live here?	Сез монда яшәдегезме?
+Do you have a pen?	Ручкагыз бармы?
+Do you have a son?	Улыгыз бармы?
+Everything's fine.	Барысы да яхшы.
+He lives in Tokyo.	Ул Токиода яши.
+He turned the key.	Ул ачкычны борды.
+Here's my address.	Менә минем адресым.
+How are you doing?	Ничек яшисез?
+I forgot his name.	Аның исемен оныттым.
+I have a question.	Минем бер соравым бар.
+I have many books.	Минем китапларым күп.
+I have no sisters.	Апа-сеңелләрем юк минем.
+I was happy there.	Бу юлы миңа бәхет елмайды.
+I was happy there.	Бу юлы мин бәхеткә тарыдым.
+It was warm today.	Бүген җылы булды.
+It's the same one.	Бу шул ук нәрсә.
+Look into my eyes.	Күземә кара.
+My back went numb.	Аркам оеды.
+Please forgive me.	Зинһар, гафу ит!
+Tell me your name.	Миңа исемегезне әйтегез.
+This is a coconut.	Бу - кокос чикләвеге.
+This isn't a fish.	Бу балык түгел.
+Today is Saturday.	Бүген шимбә.
+Tom didn't get it.	Том аңламады.
+Tom plays outside.	Том урамда уйный.
+Tom, what's wrong?	Том, син нәрсә?
+What do they need?	Сезгә ни кирәк?
+Where is my clock?	Сәгатем кайда?
+Where is my watch?	Сәгатем кайда?
+Where shall we go?	Кая барабыз?
+Where's my family?	Кайда минем гаиләм?
+You are beautiful.	Син чибәр.
+You are beautiful.	Син матур.
+You are my friend.	Син минем дустым.
+Come along with us.	Әйдә, безнең белән бергә.
+Don't overthink it.	Борчылмагыз.
+Don't overthink it.	Хафаланмагыз.
+Everything is fine.	Барысы да әйбәт.
+Everything is fine.	Барысы да яхшы.
+Everything is good.	Барысы да әйбәт.
+He gave her a book.	Ул аңа китап бирде.
+He gave him a book.	Ул аңа китап бирде.
+He's a good person.	Ул яхшы кеше.
+I don't understand.	Аңламыйм.
+I give you my word.	Сүз бирәм сиңа.
+I have lost my key.	Ачкычымны югалттым.
+I have to go there.	Миңа анда барырга кирәк.
+I'll be right back.	Тиздән кайтырмын.
+I'll be right back.	Озакламый кайтырмын.
+Is this a bad time?	Уңайсызрак вакытмы?
+It started to rain.	Яңгыр ява башлады.
+It's snowing today.	Бүген кар ява.
+My stomach rumbled.	Эчем быгырдый башлады.
+Our cause is right.	Без хаклыбыз.
+That's a good idea!	Бу яхшы фикер!
+They won't get far.	Алар ерак китмәс.
+This is not a game.	Бу уен түгел!
+We worked together.	Бердәм эшләдек.
+What are you doing?	Сез ни эшлисез?
+What did you write?	Ни яздың?
+What do you prefer?	Нәрсәне күбрәк ошатасыз?
+What do you prefer?	Нәрсәне күбрәк ошатасың?
+What do you prefer?	Närsäne kübräk oşatasıñ?
+What does GNP mean?	GNP нәрсә аңлата?
+Where are the boys?	Малайлар кайда?
+Where are we going?	Кая барабыз?
+Where will we meet?	Кайда очрашабыз?
+Why are you asking?	Нигә сорыйсың?
+You have two balls.	Ике тубың бар.
+You're still young.	Син әле яшь.
+Answer the question.	Сорауга җавап бир.
+Can I wash my hands?	Кулларымны юып алыйммы?
+Do you have a house?	Өегез бармы?
+I cleared the table.	Өстәлне җыештырдым.
+I'm looking for you.	Мин сине эзлим.
+I've got a question.	Минем бер соравым бар.
+Is it still raining?	Яңгыр явамы әле?
+Is it still raining?	Яңгыр һаман явамы?
+It's Saturday today.	Бүген шимбә.
+Let's try something.	Әйдә, сынап карыйк.
+Let's try something.	Әйдәгез, сынап карыйк.
+My hands are frozen.	Кулларым өшеде.
+My sister is pretty.	Минем сеңлем чибәр.
+Put it on the table.	Аны өстәлгә куегыз.
+Thank you very much.	Мең рәхмәт сиңа!
+That's a great poem.	Шәп шигырь.
+That's thirty euros.	30 евро була.
+This is my daughter.	Бу минем кызым.
+We did it ourselves.	Үзебез эшләдек.
+What should I bring?	Нәрсә алып килим?
+What should I bring?	Нәрсә китерим?
+When did you finish?	Кайчан тәмамлады?
+Where's your school?	Мәктәбең кайда?
+Who am I talking to?	Мин кем белән сөйләшәм?
+Why didn't you come?	Нигә килмәдегез?
+Why didn't you come?	Нигә килмәдең?
+You should eat more.	Сезгә күбрәк ашарга кирәк.
+Are you able to swim?	Йөзә беләсеңме?
+Correct your mistake.	Хатаңны төзәт.
+Didn't you know that?	Белми идеңме?
+Do you speak English?	Инглизчә сөйләшәсезме?
+Do you speak English?	Инглизчә сөйләшәсеңме?
+Don't leave me alone.	Ташлап китмә мине.
+Don't leave me alone.	Берүземне генә калдырма.
+Fish live in the sea.	Балыклар диңгездә яши.
+I ate ice cream, too.	Мин дә туңдырма ашадым.
+I showed her my room.	Мин аңа үз бүлмәмне күрсәттем.
+I'm learning English.	Инглиз телен өйрәнәм.
+I've come a long way.	Мин ерактан килдем.
+It's started raining.	Яңгыр ява башлады.
+My fingers are stiff.	Бармакларым өшеде.
+Sorry for being late.	Соңга калуым өчен гафу итегез.
+Sorry for being late.	Гафу итегез, соңга калдым.
+Sumatra is an island.	Суматра — утрау.
+Tom didn't buy bread.	Том ипи сатып алмады.
+Tom will come anyway.	Том барыбер киләчәк.
+We have two children.	Безнең ике балабыз бар.
+We'll do it tomorrow.	Моны иртәгә эшләрбез.
+What are you cooking?	Нәрсә пешерәсез?
+When will you retire?	Кайчан пенсиягә чыгачаксың?
+Where are we meeting?	Кайда очрашабыз?
+Where are we meeting?	Qayda oçraşabız?
+Who am I speaking to?	Мин кем белән сөйләшәм?
+Why are you laughing?	Нигә көләсең?
+You don't seem happy.	Бәхетле булып күренмисең.
+You need to eat more.	Сезгә күбрәк ашарга кирәк.
+Your answer is right.	Синең җавап дөрес.
+Boston is humid today.	Бостонда дымлы бүген.
+Can you come tomorrow?	Иртәгә бара аласыңмы?
+Come with your father.	Әтиең белән кил.
+Do you have earphones?	Колак тыңлагычың бармы?
+Do you need this book?	Сиңа бу китап кирәкме?
+Everything's in order.	Барысы да тәртиптә.
+He has a lot of money.	Аның акчасы күп.
+He has three children.	Аның өч баласы бар.
+How deep is this lake?	Бу күл тирәнме?
+I come from Australia.	Мин Австралиядан.
+I have a lot of books.	Минем китапларым күп.
+I work at the airport.	Мин аэропортта эшлим.
+I'm a friend of Tom's.	Мин Томның дусты.
+I'm not angry anymore.	Мин ачуланмыйм инде.
+I'm not hungry at all.	Мин гомумән ач түгел.
+It doesn't make sense.	Мәгънәсез нәрсә.
+It doesn't make sense.	Bu - mäğnäsezlek.
+It doesn't make sense.	Mäğnäsez närsä bu.
+It doesn't make sense.	Мәгънәсез нәрсә бу.
+It's freezing outside.	Урамда зәмһәрир суык.
+Life began to improve.	Тормыш рәтләнә башлады.
+She is a good swimmer.	Ул яхшы йөзүче.
+Tell me what you know.	Белгәнеңне сөйлә.
+That book is very old.	Бу бик борынгы китап.
+That one I don't know.	Анысын мин белмим.
+The bookstore is open.	Китап кибете ачык.
+The lake is very deep.	Күл бик тирән.
+What did Tom say then?	Том ул вакыт ни диде?
+Who am I talking with?	Мин кем белән сөйләшәм?
+Whose side are you on?	Сез кем яклы?
+Are these flowers real?	Бу чәчәкләр чынмы?
+Are you getting sleepy?	Йокың киләме әллә?
+Blue looks good on you.	Зәңгәр төс сиңа килешә.
+Do you have a question?	Соравың бармы?
+Do you study every day?	Һәр көн укыйсыңмы?
+Does it sound familiar?	Бу Сезгә танышмы?
+Does it sound familiar?	Бу сиңа танышмы?
+Everything is in order.	Барысы да тәртиптә.
+Have you already eaten?	Ашадыгызмы инде?
+Have you had lunch yet?	Төшке ашны ашадыңмы инде?
+He has three daughters.	Аның өч кызы бар.
+How much is this clock?	Бу сәгать күпме тора?
+How much is this watch?	Бу сәгать күпме тора?
+I completely forgot it.	Бу хакта бөтенләй онытканмын.
+I don't believe in God.	Мин Аллага ышанмыйм.
+I don't understand you.	Мин сине аңламыйм
+I have a cat and a dog.	Бер мәчем һәм бер этем бар.
+I really appreciate it.	Бу минем өчен бик кадерле.
+I really appreciate it.	Моның өчен бик рәхмәтлемен.
+I really appreciate it.	Bu minem öçen bik qäderle.
+I really appreciate it.	Monıñ öçen bik räxmätlemen.
+I thought Tom was dead.	Том үлгән дип уйладым.
+I want to write a book.	Китап язарга җыенам.
+I wish I was in Boston.	Бостонда булсам иде дип хыялландым.
+I'd like a double room.	Ике урынлы номерга урнашыр идем.
+I'm no longer starving.	Тамагым ач түгел инде.
+I'm no longer starving.	Бүтән ашыйсым килми инде.
+I'm not hungry anymore.	Бүтән ашыйсым килми инде.
+It has started raining.	Яңгыр ява башлады.
+My luggage was insured.	Багажым иминләштерелгән.
+My mother is a teacher.	Минем әни укытучы.
+That sounds good to me.	Моны ишетүе миңа бик күңелле.
+That sounds good to me.	Monı işetüe miña bik küñelle.
+The problem isn't ours.	Бу безнең проблем түгел.
+The world is beautiful.	Дөнья гүзәл!
+This means a lot to me.	Бу минем өчен күп нәрсәне аңлата.
+This was not our fault.	Бу безнең ялгышыбыз түгел иде.
+We don't have to hurry.	Без ашыкмасак та була.
+Weddings are expensive.	Туйлар кыйммәткә төшә.
+What does the book say?	Китапта ни язылган?
+Who are you talking to?	Кем белән сөйләшәсең?
+You don't want to know.	Беләсең килми.
+You should go to sleep.	Сиңа йокларга ятарга кирәк.
+You're a good musician.	Син яхшы музыкант.
+Your answer is correct.	Синең җавап дөрес.
+Can't you speak English?	Син инглизчә белмисеңмени?
+Can't you speak English?	Син инглизчә белмисеңме?
+Do you have a cellphone?	Синең мобиль телефоның бармы?
+Do you love your mother?	Әниеңне яратасыңмы?
+Do you love your mother?	Әниегезне яратасызмы?
+How have you been doing?	Хәлләрең ничегрәк?
+I don't mind either way.	Ничек кенә булса да, мин каршы түгел.
+I don't mind either way.	Башкача булса да, мин каршы түгел.
+I don't mind either way.	Niçek kenä bulsa da, min qarşı tügel.
+I don't mind either way.	Başqaça bulsa da, min qarşı tügel.
+I have trouble sleeping.	Йокым качты әле.
+I hope you'll call back.	Тагын шалтыратырсың дип өметләнәм.
+I'm going to the police.	Полициягә барам.
+Just relax and have fun.	Йомшарып китеп ләззәтләнегез.
+Just relax and have fun.	Йомшарып китеп ләззәтлән.
+Thanks for the memories.	Хатирәләр өчен рәхмәт.
+That's very nice of you.	Сез бик илтифатлысыз.
+The clock struck twelve.	Сәгать унике тулды.
+The police released him.	Полиция аны җибәрде.
+They're waiting for you.	Алар сине көтә.
+This is a good textbook.	Бу — яхшы дәреслек.
+Tom is not fond of pets.	Том йорт хайваннарын яратмый.
+Tom is thirty years old.	Томга утыз яшь.
+Tom's house is for sale.	Томның өе сатуда.
+Tomorrow is our day off.	Иртәгә укымыйбыз.
+Water has become scarce.	Су азайды.
+We almost never eat out.	Без беркайчан да кафе-рестораннарда ашамыйбыз диярлек.
+We have no more sausage.	Тутырмабыз беткән.
+What did you do with it?	Моның белән ни эшләдең?
+What will the trip cost?	Сәфәр күпме торачак?
+Where are my newspapers?	Газеталарым кая?
+Did you enjoy the movies?	Фильм ошадымы?
+Did you enjoy the movies?	Фильмны ошаттыңмы?
+Do you have a girlfriend?	Сөйгән кызың бармы?
+Don't turn off the light.	Утны сүндермә.
+Don't worry about my dog.	Этем турында кайгыртмагыз.
+Don't worry about my dog.	Этем турында кайгыртма.
+How much does bread cost?	Ипи күпме тора?
+I don't have any sisters.	Апа-сеңелләрем юк минем.
+I grew up in the country.	Мин авылда үстем.
+I haven't washed my hair.	Чәчемне юмадым.
+I'm a university student.	Мин студент.
+I'm not sure that's true.	Моның дөреслегенә шикләнәм.
+I'm very grateful to you.	Мең рәхмәт Сезгә!
+It's six o'clock already.	Сәгать алты инде.
+Now we're together again.	Без хәзер яңадан бергә.
+The dinner was very good.	Кичке аш бик тәмле булды.
+The universe is infinite.	Галәм чиксез.
+This is interesting news.	Кызыклы яңалыклар бу.
+This is my favorite dish.	Бу минем яраткан ризыгым.
+This is very interesting.	Бу бик мавыктыргыч.
+Tokyo is a very big city.	Токио — бик зур шәһәр.
+Tom boarded the airplane.	Том очкычка менде.
+Tom found a lot of money.	Том күп акча тапты.
+Tom ran all the way home.	Том өенә юл буе чаба-чаба кайтты.
+Tom ran all the way home.	Том өйенә кайтып җиткәнче чапты.
+Turtles don't have teeth.	Ташбакаларның тешләре булмый.
+Turtles don't have teeth.	Ташбакалар тешсез була.
+What time are we meeting?	Кайчан очрашабыз?
+What time are we meeting?	Qayçan oçraşabiz?
+Who are you talking with?	Кем белән сөйләшәсең?
+Do you have any questions?	Сорауларың бармы?
+Do you like San Francisco?	Ошыймы Сезгә Сан-Франциско?
+Do you understand English?	Инглиз телен аңлыйсызмы?
+Do you understand English?	Инглиз телен аңлыйсыңмы?
+Every rose has its thorns.	Гөлчәчәк чәнечкесез булмас.
+Gold is heavier than iron.	Алтын тимердән авыррак.
+He is playing in his room.	Ул үзенең бүлмәсендә уйный.
+I question your sincerity.	Самимилегегезне шик астына куям.
+I usually get up at seven.	Гадәттә мин җидедә торам.
+I want to know the reason.	Минем сәбәбен беләсем килә.
+My cousin is a journalist.	Абыемның баласы - журналист.
+The weather is nice today.	Бүген көн әйбәт.
+There is no TV in my room.	Минем бүлмәдә телевизор юк.
+There's no doubt about it.	Һичшиксез.
+There's no doubt about it.	Бу хакта сүз дә юк.
+Tom has a younger brother.	Томның энесе бар.
+Tom has always been a pig.	Том гелән-гелән дуңгыз булды.
+Tom is as strong as an ox.	Том үгез кебек көчле.
+Tom isn't in the hospital.	Том хастаханәдә түгел.
+Tom wanted his money back.	Том акчасын кире алырга теләде.
+We got caught in the rain.	Без яңгырга эләктек.
+What else can you tell me?	Тагын ни сөйләрсең?
+Where do you usually park?	Машинагызны гадәттә кайда калдырасыз?
+Where do you usually park?	Машинаңны гадәттә кайда калдырасың?
+Who do you think will win?	Кем җиңәр дип уйлыйсың?
+Why didn't you call a cab?	Нигә такси чакыртмадың?
+Come and see us more often.	Кергәләп йөрегез.
+Do you have an interpreter?	Тәрҗемәчегез бармы?
+Do you have an interpreter?	Тылмачыгыз бармы?
+Do you think fish can hear?	Балыклар ишетә дип уйлыйсыңмы?
+Don't forget where you are.	Кайда икәнегезне онытмагыз.
+I've had enough, thank you.	Рәхмәт, туйдым.
+Is this a bad time to chat?	Аралашу өчен уңайсызрак вакытмы?
+Is this a bad time to chat?	Aralaşu öçen uñaysızraq waqıtmı?
+It's easier said than done.	Әйтүе генә җиңел ул.
+Mary is helping her mother.	Мария әнисенә ярдәм итә.
+May I see you for a moment?	Сезне бер генә мизгелгә тоткарларга мөмкинме?
+Most of them are Canadians.	Аларның күпчелеге Канадалы.
+Put the carrots in the pot.	Кишерне казанга сал.
+Thanks for the explanation.	Аңлатмаларыгыз өчен рәхмәт.
+The lake freezes in winter.	Күл кыш көне туңа.
+The pen has run out of ink.	Ручканың карасы беткән.
+The pen has run out of ink.	Каләмнең карасы беткән.
+What's your opinion of Tom?	Том хакында фикерегез нинди?
+When did you learn to swim?	Йөзәргә кайчан өйрәндең?
+Are you going to town today?	Бүген шәһәргә барасыңмы?
+Are you going to town today?	Бүген шәһәргә барасызмы?
+Did you paint this yourself?	Моны үзең буядыңмы?
+He shaves four times a week.	Ул атнага дүрт тапкыр кырына.
+I just love beautiful women.	Нәкъ менә гүзәл хатын-кызны яратам да инде.
+I'm looking for another job.	Башка эш эзлим.
+I'm not sure about the date.	Вакытын төгәлрәк билгелисе иде.
+I'm not sure about the date.	Waqıtın tögälräk bilgelise ide.
+Is Tom one of the finalists?	Tom finalğa çıqqannarnıñ berseme?
+Is Tom one of the finalists?	Том финалга чыкканнарның берсеме?
+Is there anyone in the room?	Бүлмәдә кем дә булса бармы?
+No man is wise at all times.	Гомер буе әүлия була алмыйсың.
+One is red, the other white.	Берсе кызыл, берсе ак.
+Soldiers are used to danger.	Солдатлар куркынычка күнеккән.
+The dog is wagging its tail.	Көчек койрыгын селки.
+They made us work all night.	Алар безне төне буе эшләттеләр.
+Tom is a friend of a friend.	Том - дустымның дусты.
+Tom starts school next year.	Том киләсе ел мәктәпкә бара.
+What are you thinking about?	Нәрсә турында уйлыйсыз?
+December has thirty-one days.	Декабрьдә 31 көн.
+He is preparing for the test.	Ул тестка әзерләнә.
+I don't want to go to school.	Мәктәпкә барасым килми.
+I don't want to go to school.	Мин мәктәпкә барырга теләмим.
+I'll never be able to retire.	Һич пенсиягә чыга алмаячакмын.
+I'm saving up for my old age.	Картлыкка акча җыям.
+Mary likes romantic comedies.	Мария романтик комедияләр карарга ярата.
+My watch is ten minutes fast.	Сәгатем ун минут алда.
+Please stick out your tongue.	Телегезне чыгарыгыз әле.
+Please stick out your tongue.	Телеңне чыгар әле.
+That's easier said than done.	Әйтүе генә җиңел ул.
+The details aren't necessary.	Тәфсиле кирәк түгел.
+There isn't much more to add.	Өстәрлек тагын башка нәрсә юк.
+There's no cause for concern.	Борчылырга җирлек юк.
+Tom doesn't get enough sleep.	Томның йокысы туймый.
+Tom doesn't get enough sleep.	Томга туйганчы йокларга бирмиләр.
+We always eat dinner at home.	Без һәрвакыт кичке ашны өйдә ашыйбыз.
+We have nothing more to lose.	Югалтырлык нәрсә калмады.
+When are you getting married?	Кайчан кияүгә чыгасыз?
+Did I catch you at a bad time?	Уңайсызрак вакытка туры килдемме?
+Did I catch you at a bad time?	Uñaysızraq waqıtqa turı kildemme?
+I don't know how to thank you.	Рәхмәт яусын Сезгә!
+I don't know how to thank you.	Сезгә бик рәхмәтлемен.
+Nobody can solve this problem.	Беркем дә бу проблеманы чишә алмый.
+She is poor, but she is happy.	Ул ярлы, әмма ул бәхетле.
+The solution was quite simple.	Юкәдә икән чикләвек.
+The sun rose over the horizon.	Кояш офыктан күтәрелде.
+There are 31 days in December.	Декабрьдә 31 көн.
+Tom forgot to do his homework.	Том өй эшләрен эшләргә оныткан.
+Why are you asking about that?	Нигә син бу турыда сорашасың?
+Why are you asking about that?	Нигә син моны сорыйсың?
+Do you have a lot of free time?	Буш вакытыгыз күпме?
+Don't step on the broken glass.	Ватык пыялага басмагыз.
+I was afraid of looking stupid.	Юләрсыман булып күренүдән курыктым.
+I was afraid of looking stupid.	Yülärsıman bulıp kürenüdän qurıqtım.
+She can say whatever she wants.	Ул теләсә ни сөйләр.
+The tower is going to collapse.	Манара җимерелә бара.
+The tower is going to collapse.	Манара ишелеп төшәчәк.
+There wasn't a single survivor.	Бер генә кеше дә исән калмады.
+We have the place to ourselves.	Безгә урын бар монда.
+Would you like to come with us?	Безнең белән барасызмы?
+Would you like to play with us?	Безнең белән уйнарга телисеңме?
+Would you like to play with us?	Безнең белән уйнарга телисезме?
+Classes are starting again soon.	Озакламый дәрес яңадан башлана.
+Do you think that fish can hear?	Балыклар ишетә дип уйлыйсыңмы?
+Do you want to go to the movies?	Кинога барасың киләме?
+He is afraid of making mistakes.	Ул хата ясаудан курка.
+I didn't talk to Tom about this.	Бу хакта Том белән сөйләшмәдем.
+I listened, but I heard nothing.	Тыңладым да, бернәрсә ишетмәдем.
+Let's have a drink or something.	Эчәргә берәр нәрсә алыйк әле.
+Ottawa is the capital of Canada.	Оттава — Канада пайтәхете.
+Playing outside is a lot of fun.	Урамда уйнавы күңелле.
+Tom was found dead in his study.	Томны эш бүлмәсендә үлгән килеш таптылар.
+He wants to get a new dictionary.	Ул яңа сүзлек сатып алырга тели.
+He wants to get a new dictionary.	Ul yaña süzlek satıp alırğa teli.
+I don't understand your question.	Соравыңны аңламыйм.
+I'm the owner of this restaurant.	Мин бу ресторанның хуҗасы.
+If you don't want to read, don't.	Укыйсың килми икән, укыма.
+Please pardon me for coming late.	Соңга калуым өчен гафу итегез.
+Please pardon me for coming late.	Соңарып килүем өчен гафу итегез.
+Please pardon me for coming late.	Соңарып килүем өчен гафу ит.
+Please pardon me for coming late.	Соңга калуым өчен гафу ит.
+The bus arrived ten minutes late.	Автобус ун минутка соңга калып килде.
+This problem is a real challenge.	Бу проблема бик катлаулы.
+Tom has a splinter in his finger.	Томның бармагына шырпы кергән.
+Tom speaks French better than me.	Том французча миннән яхшырак сөйләшә.
+Tom's death was ruled a homicide.	Томның үлеме кеше үтерү нәтиҗәсе дип бәяләнде.
+I didn't promise anybody anything.	Мин беркемгә бернинди вәгъдә бирмәдем.
+I didn't promise anybody anything.	Мин беркемгә бернинди сүз бирмәдем.
+Practically every family has a TV.	Телевизор бөтен гаиләләрдә диярлек бар.
+There are many people in the park.	Паркта кеше күп.
+There are no roses without thorns.	Гөлчәчәк чәнечкесез булмас.
+Do you mind if I turn on the radio?	Радио кабызсам, Сезгә комачаулармы?
+Don't be afraid of making mistakes.	Хата ясаудан курыкма.
+Don't be afraid of making mistakes.	Ялгышудан курыкма.
+Don't be afraid of making mistakes.	Хаталанудан курыкма.
+How can someone so rich be unhappy?	Шундый бай кеше ничек бәхетсез була ала икән?
+How can someone so rich be unhappy?	Şundıy bay keşe niçek bäxetsez bula ala ikän?
+How can someone so rich be unhappy?	Şundıy bay keşe niçek bäxetsez bula alsın di?
+How can someone so rich be unhappy?	Шундый бай кеше ничек бәхетсез була алсын ди?
+If you hurry, you'll catch the bus.	Ашыксаң өлгерәсең әле автобуска.
+Please give me a chance to explain.	Ачыкларга мөмкинлек бирсәң иде.
+Texting while driving is dangerous.	Машина йөрткәндә СМС язу куркыныч.
+The pen is mightier than the sword.	Каләм кылычтан үткенрәк.
+We've had a lot of rain this month.	Бу айда бездә яңгыр күп яуды.
+Who would do such a terrible thing?	Мондый коточкыч нәрсәне кем эшләде икән?
+How many times a day do you do that?	Син моны көненә ничә мәртәбә эшлисең?
+How many times a day do you do that?	Сез моны көненә ничә мәртәбә эшлисез?
+I can understand you to some extent.	Мин сине азмы-күпме аңлыйм да инде.
+This watch was given me by my uncle.	Бу сәгатьне миңа абыем бирде.
+Watch out! There's a big hole there.	Сак бул! Биредә зур чокыр бар.
+All their secrets have been revealed.	Бөтен серләре ачып салынды.
+How many times a day do you kiss Tom?	Син Томны көненә ничә тапкыр үбәсең?
+How many times a day do you kiss Tom?	Сез Томны көненә ничә тапкыр үбәсез?
+Close the window before you go to bed.	Йокларга ятканчы тәрәзәне ябыгыз.
+His brother is a famous soccer player.	Аның энесе - атаклы футболчы.
+His brother is a famous soccer player.	Аның абыйсы - данлыклы футболчы.
+How many times a day does Tom do that?	Том моны көненә ничә мәртәбә эшли?
+If you don't want to read, then don't.	Укыйсың килмәсә, укыма.
+It isn't death that I fear, but dying.	Үлемнән курыкмыйм, ләкин үләм.
+It isn't death that I fear, but dying.	Ülemnän qurıqmıym, läkin üläm.
+Someone could walk in here any minute.	Теләсә кайсы вакытта береп керүләре ихтимал иде.
+The house with the green roof is mine.	Яшел түбәле йорт минеке.
+There are a lot of people in the park.	Паркта кеше күп.
+There are two zombies inside my house.	Гаиләмдә ике зомби бар.
+Tom couldn't believe his good fortune.	Том үз уңышына ышанып бетә алмады.
+Why don't you just relax and have fun?	Нигә бераз йомшарып ләззәтләнмисез?
+Why don't you just relax and have fun?	Нигә бераз йомшарып ләззәтләнмисең?
+It is pleasant to sleep under the tree.	Агач астында йоклау рәхәт.
+The enemy dropped bombs on the factory.	Дошман фабриканы бомбага тотты.
+This is the biggest hotel in this city.	Бу - шәһәрдә иң зур кунакханә.
+Who are you and where do you come from?	Син кем һәм кайдан килдең?
+How many times a day do you drink water?	Син көненә ничә тапкыр су эчәсең?
+How many times a day do you drink water?	Сез көненә ничә тапкыр су эчәсез?
+I've decided to give Tom another chance.	Мин Томга тагын бер мөмкинлек бирергә карар кылдым.
+The bus arrived ten minutes behind time.	Автобус ун минутка соңга калып килде.
+There are many galaxies in the universe.	Галәмдә бихисап галактикалар бар.
+Do you want me to buy a sandwich for you?	Сиңа бер сэндвич алыйммы?
+How many girls are there in this picture?	Бу рәсемдә ничә кыз бар?
+Most Hollywood movies have happy endings.	Һолливуд фильмнарының күбесе күңелле тәмамлана.
+Compare the translation with the original.	Тәрҗемәне төп нөсхә белән чагыштырыгыз.
+I have already finished reading this book.	Мин бу китапны укып бетердем инде.
+I wish our classroom were air-conditioned.	Безнең сыйныф бүлмәсенә кондиционер куйсалар иде.
+I'm so tired that I can't walk any longer.	Озаграк җәяү йөри алмавымнан бик алҗыктым.
+The tea is too strong. Add a bit of water.	Чәй бигрәк каты. Су өстә бераз.
+We knew that the teacher wouldn't be late.	Без укытучының соңга калмаячагын белдек.
+I've been saving up to buy a new saxophone.	Яңа саксофон алырга акча җыям.
+Tom tried to kiss me, but I didn't let him.	Том мине үбәргә чамалаган иде дә, мин аңардан йөз чөердем.
+According to the police, no one was injured.	Полиция фикеренчә, беркем дә зыян күрмәгән.
+Do you know anything about computer science?	Син информатикада хәбәрдармы?
+It isn't worth the money they're asking for.	Алар сораган акчага да тормый бу.
+It isn't worth the money they're asking for.	Alar sorağan aqçağa da tormıy bu.
+Tom lost most of his belongings in the fire.	Том әйберләренең күбесе янгында юкка чыкты.
+Tom lost most of his belongings in the fire.	Том янгында күп әйберләрен югалтты.
+Tom surprised us all when he got up to sing.	Җырлап җибәреп, Том безне шаккатырды.
+Tom surprised us all when he got up to sing.	Cırlap cibärep, Tom bezne şaqqatırdı.
+Would you give me the recipe for your salad?	Салатыгызның рецептын бирә алмассызмы?
+You made the mistake on purpose, didn't you?	Син бу хатаны белә торып эшләгәнсең, әйеме?
+Don't throw it away just because it's broken.	Ватык диеп, бернәрсәне ташлама.
+Don't throw it away just because it's broken.	Watıq dıep, bernärsäne taşlama.
+Tom said that he didn't want to be disturbed.	Том, миңа комачауламауларын телим, диде.
+I heard that Tom is going to get married soon.	Том озакламый өйләнәчәк дип ишеттем.
+You have to do it, whether you like it or not.	Теләгең бармы-юкмы, син моны эшләргә тиешсең.
+You have to do it, whether you like it or not.	Телисеңме-юкмы, син моны башкарып чыгарга тиешсең.
+I thought you were going to wear your new suit.	Яңа костюмыңны киярсең, дип уйлаган идем.
+Judging from his expression, he's in a bad mood.	Кыяфәтенә караганда, аның кәефе бик начар шикелле.
+Excuse me, can you tell me the way to the library?	Гафу итегез, Сез миңа китапханәгә юл күрсәтә алмассызмы?
+It's not healthy to drink as much water as you do.	Син эчкән кадәр су эчү ул сәламәтлеккә файдалы түгел.
+My driving instructor says I should be more patient.	Машина йөртергә өйрәтүчем, сиңа сабыррак булырга кирәк, ди.
+She succeeded in crossing the Pacific Ocean by boat.	Ул Тын океанны корабка утырып гизеп чыкты.
+Several gardeners look after the azaleas in the park.	Берничә бакчачы парктагы азалияләр турында кайгырта.
+Excuse me, can you tell me how to get to Central Park?	Гафу итегез, Сез миңа Үзәк паркка юлны күрсәтә алмассызмы?
+Could you water my plants for me while I'm on vacation?	Мин ялда булганда үсемлекләремә су сибә алырсызмы?
+When are you going to pay me back the money I lent you?	Бурычка биргән акчаларымны кайчан кайтарырга җыенасың?
+When are you going to pay me back the money I lent you?	Burıçqa birgän aqçalarımnı qayçan qaytarırğa cıyınasıñ?
+Tom was pacing in his room, unable to calm himself down.	Тынычлана алмыйча, Том бүлмәсендә арлы-бирле йөрде.
+I hear the service there is good and the food is delicious.	Мин, биредә яхшы хезмәт күрсәтәләр һәм ризыклары да тәмле, дип ишеткән идем.
+I hear the service there is good and the food is delicious.	Min, biredä yaxşı xezmät kürsätälär häm rizıqları da tämle, dip işetkän idem.
+Tom usually eats a hamburger in his car on his way to work.	Том гадәттә эшкә барганда машинасында бер һамбургер ашый.
+Tom didn't learn how to play the guitar until he was thirteen.	Том унөч яшенә җиткәнче гитарада уйнарга өйрәнмәде.
+My first job was at a travel agency, and I didn't like it much.	Беренче эшем туристлык ширкәтендә иде, һәм ул миңа бик ошап бетмәде.
+My first job was at a travel agency, and I didn't like it much.	Berençe eşem turistlıq şirkätendä ide, häm ul miña bik oşap betmäde.
+And now, looking back on the experience, I really learned a lot.	Ләкин хәзер, әлеге тәҗрибәне искә алганда, үземнең күп нәрсәләргә өйрәнгәнемне аңлыйм.
+And now, looking back on the experience, I really learned a lot.	Läkin xäzer, älege täcribäne iskä alğanda, üzemneñ küp närsälärgä öyrängänemne añlıym.
+I don't understand what you find so interesting about squirrels.	Аңлый алмыйм, бу тиеннәрнең ни кызыгын табасыздыр.
+I don't understand what you find so interesting about squirrels.	Аңлый алмыйм, бу тиеннәрнең ни кызыгын табасыңдыр.
+The store was so crowded that Tom and Mary lost sight of each other.	Кибеттә кеше шулкадәр күп иде, Том белән Мария хәтта бер-берсен күздән җуйдылар.
+Frankly speaking, I don't think you have what it takes to become a teacher.	Дөресен генә әйткәндә, синең укытучы булырлык сәләтең дә юк.
+Democracy is the worst form of government, except all the others that have been tried.	Демократия, сынап каралган башка идарә алымнарын санамасаң, иң начары.
+Democracy is the worst form of government, except all the others that have been tried.	Demokratiä, sınap qaralğan başqa idarä alımnarın sanamasañ, iñ naçarı.
+Several men got angry with Tom in the bar and Tom told them he wasn't afraid to take them on.	Берничә кеше барда Том белән ызгышып киткәннәр иде дә, Том аларга, мин сездән курыкмыйм, диде.
+Several men got angry with Tom in the bar and Tom told them he wasn't afraid to take them on.	Berniçä keşe barda Tom belän ızğışıp kitkännär ide dä, Tom alarğa, min sezdän qurıqmıym, dide.

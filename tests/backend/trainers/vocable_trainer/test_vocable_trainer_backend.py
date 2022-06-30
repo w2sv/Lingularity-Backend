@@ -3,12 +3,12 @@ from typing import List
 
 import pytest
 
-from backend.trainers.vocable_trainer import VocableEntry, VocableTrainerBackend
+from backend.src.trainers import VocableTrainerBackend
+from backend.src.types.vocable_entry import VocableEntry
 
 
 @pytest.fixture
 def vocable_entries(user_mongo_client) -> List[VocableEntry]:
-    print(user_mongo_client.user, user_mongo_client.language)
     return list(starmap(VocableEntry, user_mongo_client.query_vocabulary()))
 
 

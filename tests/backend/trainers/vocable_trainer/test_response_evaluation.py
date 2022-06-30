@@ -1,10 +1,6 @@
 import pytest
 
-from backend.trainers.vocable_trainer.response_evaluation import (
-    _n_char_deviations,
-    get_response_evaluation,
-    ResponseEvaluation
-)
+from backend.src.trainers.vocable_trainer.response_evaluation import _n_char_deviations, get_response_evaluation, ResponseEvaluation
 
 
 @pytest.mark.parametrize('response,ground_truth,expected', [

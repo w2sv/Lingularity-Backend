@@ -1,0 +1,904 @@
+Come in.	Gaan binne.
+I'm full.	Ek is vol.
+She runs.	Sy hardloop.
+You lost.	Jy verloor.
+Go inside.	Gaan binne.
+I am full.	Ek is vol.
+I promise.	Ek beloof dit.
+Look back.	Kyk agter jou.
+He is poor.	Hy is arm.
+I eat rice.	Ek eet rys.
+Take a bus.	Neem 'n bus.
+Tom is wet.	Tom is nat.
+We all lie.	Ons almal lieg.
+Am I normal?	Is ek normaal?
+I'm thirsty.	Ek is dors.
+That's life.	Dis die lewe.
+Tom hurt me.	Tom het my beseer.
+Tom may die.	Tom kan dalk dood gaan.
+What a pity!	Hoe jammer!
+You've lost.	Jy verloor.
+Find the cat.	Soek die kat.
+I have a car.	Ek het 'n kar.
+I have a pen.	Ek het 'n pen.
+I like beans.	Ek hou van boontjies.
+I read a lot.	Ek lees baie.
+Please hurry!	Maak asseblief gou!
+Stay with us.	Bly by ons.
+We all stood.	Ons almal het gestaan.
+What a shame!	Hoe jammer!
+Even Tom lied.	Selfs Tom het gelieg.
+I'm not blind.	Ek is nie blind nie.
+It's too ugly.	Dis te lelik.
+Let Tom drive.	Laat Tom bestuur.
+Men don't cry.	Mans huil nie!
+Men never cry.	Mans huil nie!
+This is wrong.	Dit is verkeerd.
+Tom had to go.	Tom moes gaan.
+Tom won't die.	Tom sal nie dood gaan nie.
+Was Tom there?	Was Tom daar?
+Wash yourself.	Was jou.
+We need money.	Ons het geld nodig.
+You are drunk!	Jy is dronk!
+You are drunk!	Julle is dronk!
+Cows eat grass.	Koeie vreet gras.
+I hate driving.	Ek haat dit om te bestuur.
+I love driving.	Ek is gaande oor bestuur.
+I need support.	Ek benodig ondersteuning.
+I'm a free man.	Ek is 'n vry man.
+I'm not a poet.	Ek is nie 'n digter nie.
+It's a big job.	Dit is 'n groot werk.
+Let's practice.	Laat ons oefen.
+My desk is old.	My lessenaar is oud.
+She likes wine.	Sy hou van wyn.
+She loves cats.	Sy hou van katte.
+She's not here.	Sy is nie hier nie.
+She's pregnant.	Sy is swanger.
+That was yours.	Dit was joune.
+That's logical.	Dis logies.
+Those are mine.	Dit behoort aan my.
+Tom moved away.	Tom het weg getrek.
+Tom won't help.	Tom sal nie help nie.
+Tom won't lose.	Tom sal nie verloor nie.
+Try this sauce.	Probeer hierdie sous.
+Can you open it?	Kan jy dit oopmaak?
+Cats catch mice.	Katte vang muise.
+Congratulations!	Baie geluk!
+How could it be?	Hoe kan dit wees?
+I caught a cold.	Ek het verkoue gekry.
+I have dry skin.	Ek het 'n droeë vel.
+I will join you.	Ek sal saam met jou kom.
+I've got a cold.	Ek het verkoue gekry.
+Is it necessary?	Is dit nodig?
+Look behind you.	Kyk agter jou.
+Parties are fun.	Partytjies is lekker.
+Please trust me.	Vetrou my asseblief.
+She adores cats.	Sy hou van katte.
+The cup is full.	Die beker is vol.
+Tom already ate.	Tom het reeds geëet.
+Tom got wounded.	Tom het 'n besering opgedoen.
+Tom has secrets.	Tom het geheime.
+Tom kept trying.	Tom het aanhou probeer.
+Tom looked pale.	Tom het bleek gelyk.
+Tom made coffee.	Tom het koffie gemaak.
+Tom never cooks.	Tom kook nooit.
+Tom ought to go.	Tom sal sekerlik gaan.
+Tom will say no.	Tom sal nee sê.
+We don't forget.	Ons vergeet nie.
+We want it back.	Ons wil dit terug hê.
+We were in love.	Ons was verlief.
+We're all going.	Ons almal gaan.
+We're relatives.	Ons is familie.
+What does he do?	Wat doen hy?
+What does he do?	Wat maak hy?
+You are naughty.	Jy is stout.
+Hang on a moment.	Hang aan vir 'n oomblik.
+He hates spiders.	Hy haat spinnekoppe.
+Hold your horses.	Stadig oor die klippe.
+I can't complain.	Ek kan nie kla nie.
+I didn't hug Tom.	Ek het nie vir Tom omhels nie.
+I don't allow it.	Ek laat dit nie toe nie.
+I hate the rules.	Ek haat die voorskrifte.
+I need your help.	Ek kort jou hulp.
+I want Tom to go.	Ek wil hê tom moet gaan.
+I want Tom to go.	Ek wil hê tom moet verlaat.
+I won't be quiet.	Ek sal nie stil wees nie.
+I won't kiss Tom.	Ek sal nie Tom soen nie.
+I won't kiss Tom.	Ek weier om vir Tom te soen.
+It's a good sign.	Dit is 'n goeie teken.
+May I open a can?	Mag ek 'n blikkie oopmaak?
+Music is my life.	Musiek is my lewe.
+My French is bad.	My Fraans is sleg.
+My wallet's gone.	My beursie het verdwyn.
+Please go faster.	Gaan asseblief vinniger.
+She has dry hair.	Sy het droë hare.
+That book's mine.	Daardie boek behoort aan my.
+That book's mine.	Daardie boek is myne.
+The bill, please.	Die rekening asseblief.
+The bus was full.	Die bus was vol.
+They all changed.	Hulle't almal verander.
+This isn't right.	Dit is nie reg nie.
+Tom didn't leave.	Tom het nie verlaat nie.
+Tom didn't leave.	Tom het nie gegaan nie.
+Tom got up early.	Tom het vroeg op gestaan.
+Tom is trembling.	Tom bewe.
+Tom is very hurt.	Tom is baie seer.
+Tom let me drive.	Tom laat my toe om te bestuur.
+Tom must've died.	Tom moes dood gegaan het.
+Tom needed to go.	Tom moes gaan.
+Tom was captured.	Tom was gevangenis geneem.
+Tom was captured.	Tom was gevang.
+Tom will be late.	Tom sal laat wees.
+Tom will miss me.	Tom sal my mis.
+Tom will pay you.	Tom sal jou betaal.
+Tom won't change.	Tom sal nie verander nie.
+Tom won't object.	Tom sal nie beswaar maak nie.
+Tom won't resign.	Tom sal nie oorgee nie.
+Tom won't say no.	Tom sal nie nee sê nie.
+Tom won't see me.	Tom sal my nie sien nie.
+Tom wouldn't cry.	Tom sal nie huil nie.
+Tom wouldn't eat.	Tom sal nie eet nie.
+Was it your idea?	Was dit jou idee?
+We have two kids.	Ons het twee kinders.
+Where's the bank?	Waar is die bank?
+Who is that lady?	Wie is daardie vrou?
+Who is this lady?	Wie is hierdie dame?
+Who's that woman?	Wie is daardie vrou?
+Why is Tom early?	Waarom is Tom vroeg?
+Classes end today.	Klasse eindig vandag.
+Could I get a hug?	Kan ek 'n drukkie kry?
+Do you have a car?	Het jy 'n kar?
+Do you have a car?	Het julle 'n kar?
+Does Tom eat meat?	Eet Tom vleis?
+Don't talk to Tom.	Moenie met Tom praat nie.
+Go there yourself.	Gaan self soontoe!
+God is everywhere.	God is oral.
+He is a gentleman.	Hy is 'n gentleman.
+How are you doing?	Hoe gaan dit met jou?
+How disappointing!	Hoe teleurstellend!
+How was your stay?	Hoe was u verblyf?
+I also kissed Tom.	Ek het ook vir Tom gesoen.
+I have three dogs.	Ek het drie honde.
+I regretted lying.	Ek betreur dat ek gelieg het.
+I'll give it back.	Ek sal dit terug gee.
+Is Mary your wife?	Is Mary jou vrou?
+Is Tom a good guy?	Is Tom 'n goeie vent?
+Is that a problem?	Is dit 'n probleem?
+Is that necessary?	Is dit nodig?
+It's a bit chilly.	Dit is 'n bietjie koel.
+My father is busy.	My vader is besig.
+The check, please.	Die rekening asseblief.
+They want it back.	Hulle soek dit terug.
+This is my friend.	Dit is my vriend.
+Tom came to visit.	Tom het kom kuier.
+Tom can show Mary.	Tom kan Mary wys.
+Tom cried all day.	Tom het heeldag gehuil.
+Tom got home late.	Tom het laat tuis gekom.
+Tom has a rowboat.	Tom het 'n roeiboot.
+Tom has moved out.	Tom het uit getrek.
+Tom is free to go.	Tom is vry om te gaan.
+Tom is in the van.	Tom is in die bus.
+Tom let Mary talk.	Tom laat Mary toe om te praat.
+Tom let Mary talk.	Tom gee Mary 'n spreekbeurt.
+Tom looked closer.	Tom het nader gekyk.
+Tom may have died.	Tom kon dalk dood gegaan het.
+Tom might not die.	Tom mag nie dood gaan nie.
+Tom might've died.	Tom kon dood gegaan het.
+Tom must be angry.	Tom moet kwaad wees.
+Tom probably died.	Tom het heelwaarskynlik dood gegaan.
+Tom saw Mary fall.	Tom het Mary gesien val.
+Tom shot the wolf.	Tom het die wolf geskiet.
+Tom was busy then.	Tom was toe besig.
+Tom was here then.	Tom was toe hier.
+Tom went in there.	Tom het daar in gegaan.
+Tom will be sorry.	Tom sal jammer wees.
+Tom will beat you.	Tom sal jou wen.
+Tom will enjoy it.	Tom sal dit geniet.
+Tom will get hurt.	Tom sal seer kry.
+Tom will have fun.	Tom sal pret hê.
+Tom won't confess.	Tom sal nie bely nie.
+Tom won't hurt me.	Tom sal my nie seer maak nie.
+Tom won't hurt us.	Tom sal ons nie seer makk nie.
+Tom won't make it.	Tom sal dit nie maak nie.
+Tom won't risk it.	Tom sal dit nie waag nie.
+Tom wouldn't care.	Tom sal nie omgee nie.
+We're against war.	Ons is teen oorlog.
+Where is the bank?	Waar is die bank?
+Which is your bag?	Watter een is jou sak?
+Who is that woman?	Wie is daardie vrou?
+Whose car is that?	Wie se kar is dit?
+Whose car is this?	Wie se kar is dit?
+Why are you early?	Waarom is jy vroeg?
+You can't miss it.	Jy kan dit nie mis nie.
+You work too much.	Julle werk te veel.
+Do you like sports?	Hou jy van sport?
+He asked my mother.	Hy het my ma gevra.
+Help! I'm drowning!	Help! Ek verdrink!
+I call Boston home.	Ek noem Boston my tuiste.
+I need an envelope.	Ek benodig 'n koevert.
+I won't be coerced.	I wil nie gedwing wees nie.
+I'll bring it back.	Ek sal dit terug bring.
+I'm giving it back.	Ek gee dit terug.
+I've got a partner.	Ek het 'n maat.
+Mary is Tom's wife.	Mary is Tom se vrou.
+Now, don't be late.	Moet nie nou laat wees nie.
+The paper is white.	Papier is wit.
+They left together.	Hulle is saam weg.
+Tom came home late.	Tom het laat tuis gekom.
+Tom must be lonely.	Toom moet eensellig wees.
+Tom was also drunk.	Tom was ook dronk.
+Tom's a bright boy.	Tom is 'n helder seuntjie.
+We drank some wine.	Ons het wyn gedrink.
+What a coincidence!	Wat 'n toeval!
+What are you doing?	Wat maak julle?
+Where's the toilet?	Waar is die toilet?
+Did you read it all?	Het jy alles gelees?
+Glass breaks easily.	Glas breek maklik.
+He worked very hard.	Hy't hard gewerk.
+I like to eat pears.	Ek eet graag pere.
+I make €100 a day.	Ek verdien 100 euros 'n dag.
+I won't forget that.	Ek sal dit nie vergeet nie.
+I'm not backing out.	Ek gaan nie uittree nie.
+I'm not blaming you.	Ek blameer jou nie.
+I'm thinking of you.	Ek dink aan U.
+I'm thinking of you.	Jy is in my gedagtes.
+My sister is pretty.	My suster is mooi.
+Peaches taste sweet.	Perskes proe soet.
+She went on working.	Sy het aangehou werk.
+That's quite enough!	Dis nou genoeg!
+That's why I'm here.	Dis hoekom ek hier is.
+The radio is broken.	Die radio is stukkend.
+Tom stood up for me.	Tom het vir my opgestaan.
+Tom won't back down.	Tom gaan nie afstaan nie.
+Turn down the radio.	Draai die radio sagter.
+Turn the radio down.	Draai die radio sagter.
+We're in the forest.	Ons is in die woud.
+Where is the school?	Waar is die skool?
+You can go now, sir.	Jy mag nou maar gaan meneer.
+You must be careful.	Jy moet versigtig wees.
+You should meet him.	Jy moet hom ontmoet.
+You're a bright boy.	Jy is 'n helder seuntjie.
+Your tie is crooked.	Jou das is skeef.
+Can I extend my stay?	Kan ek my verblyf verleng?
+Can I take a day off?	Mag ek 'n dag verlof neem?
+Can I turn on the TV?	Kan ek die televisie aanskakel?
+Do you speak English?	Praat jy Engels?
+Have you seen my key?	Het jy my sleutel gesien ?
+He was out of breath.	Hy was uit asem.
+Here's your sandwich.	Hier is jou toebroodjie.
+I believe your story.	Ek glo jou storie.
+I don't scare easily.	Ek skrik nie maklik nie.
+I don't trust myself.	Ek vertrou myself nie.
+I need authorization.	Ek kort toestemming.
+I won't be here long.	Ek gaan nie lank hier wees nie.
+I wouldn't bet on it.	Ek sou nie daarop wed nie.
+I wouldn't blame Tom.	Ek sou nie Tom blameer nie.
+I wouldn't blame you.	Ek sou nie jou blameer nie.
+I'll be very careful.	Ek sal baie versigtig wees.
+Is it hot over there?	Is dit warm daarso?
+Mary is Tom's sister.	Mary is Tom se suster.
+May I turn on the TV?	Kan ek die televisie aanskakel?
+Our fridge is broken.	Ons yskas is stukkend.
+That's pretty normal.	Daai is redelik normaal.
+They laughed quietly.	Hulle het saggies gelag.
+Tom never got better.	Tom het nooit beter geword nie.
+Tom went back inside.	Tom het terug binne gegaan.
+We're opposed to war.	Ons is teen oorlog.
+Welcome to Australia.	Welkom in Australië.
+Where's your luggage?	Waar is jou bagasie?
+You are not a doctor.	Jy is nie 'n dokter nie.
+You can't be serious.	Jy kan nie ernstig wees nie.
+You weren't that bad.	Jy was nie so sleg nie.
+Are you afraid to die?	Is jy bank om te sterf?
+Can I come over later?	Kan ek oorkom later?
+Can I fix you a drink?	Kan ek vir jou 'n drankie maak?
+Can I have this donut?	Kan ek hierdie oliebol kry?
+Can I shake your hand?	Kan ek jou hand skud?
+Can we lock this door?	Kan ons hierdie deur sluit?
+Can you squeeze me in?	Kan jy my indruk?
+Change into your suit.	Trek jou pak aan!
+Did he go to see Mary?	Het hy vir Mary gaan sien?
+Do you believe in God?	Glo jy in God?
+Do you know this lady?	Ken jy hierdie dame?
+Does Tom already know?	Weet Tom al?
+He was snoring loudly.	Hy was besig om hard te snork.
+How much does it cost?	Hoeveel kos dit?
+I go to bed about ten.	Ek gaan slaap om tien.
+I have certain rights.	Ek het sekere regte.
+I plan on being early.	Ek beplan om vroeg te wees.
+I wouldn't be so sure.	Ek sou nie so seker wees nie.
+I wouldn't blame them.	Ek sou nie hulle blameer nie.
+I'll get some glasses.	Ek gaan haal glase.
+I'm just being polite.	Ek probeer net beleefd wees.
+I'm looking for a job.	Ek soek werk.
+I'm used to it by now.	Ek is al gewoond daaraan teen nou.
+I'm used to it by now.	Ek is nou al gewoond daaraan.
+Is breakfast included?	Is ontbyt ingesluit?
+May I shake your hand?	Kan ek jou hand skud?
+No one speaks with me.	Niemand praat met my nie.
+That's the last straw!	Dis die laaste strooi.
+They're able students.	Hulle is bekwame studente.
+They're afraid of him.	Hulle is bang vir hom.
+Tom looks inquisitive.	Tom lyk nuuskierig.
+Tom sat by the window.	Tom het by die venster gesit.
+Tom went back outside.	Tom het terug buitentoe gegaan.
+Tom's hands were cold.	Tom se hande was koud.
+Who wants to go first?	Wie wil eerste wees?
+You were right before.	Jy was voorheen reg gewees.
+Your account is empty.	Jou rekening is leeg.
+Can I bring my friends?	Kan ek my vriende bring?
+Can I get Tom to do it?	Kan ek Tom kry om dit te doen?
+Can you make me a copy?	Kan jy vir my 'n kopie maak?
+Can you open this door?	Kan jy hierdie deur oopmaak?
+Can you take over here?	Kan jy my hierso vat?
+Can you wait that long?	Kan jy so lank wag?
+Do you believe in UFOs?	Glo jy in UFO's?
+Do you read Tom's blog?	Lees jy Tom se blog?
+Have you seen this man?	Het jy hierdie man gesien?
+He is proud of his son.	Hy is trots op sy seun.
+I can't judge distance.	Ek kan nie afstand skat nie.
+I don't share anything.	Ek deel niks.
+I earn 100 Euros a day.	Ek verdien 100 euros 'n dag.
+I earn 100 euros a day.	Ek verdien 100 euros 'n dag.
+I make 100 euros a day.	Ek verdien 100 euros 'n dag.
+I never heard him sing.	Ek het hom nooit hoor sing nie.
+I was right behind Tom.	Ek was reg agter Tom.
+I went back to my seat.	Ek het terug na my sitplek gegaan.
+I won't be blackmailed.	Ek gaan nie afgepers word nie.
+I won't be intimidated.	Ek gaan nie geintimideer word nie.
+I wouldn't bet on that.	Ek sou nie daarop wed nie.
+I'll shoot both of you.	Ek gaan beide van julle skiet.
+I'm mad at both of you.	Ek is kwaad vir beide van julle.
+I'm thinking about you.	Ek dink aan U.
+I'm thinking about you.	Jy is in my gedagtes.
+It doesn't look so bad.	Dit lyk nie so sleg nie.
+It is to his advantage.	Dit is tot sy voordeel.
+May I bring my friends?	Kan ek my vriende bring?
+My brother is an idiot.	My broer is 'n idioot.
+Tom went back upstairs.	Tom is terug op die trappe op.
+We won't be doing that.	Ons gaan nie dit doen nie.
+Where can I buy stamps?	Waar kan ek seëls koop?
+Where can I get stamps?	Waar kan ek seëls koop?
+Which book do you want?	Watse boek wil jy hê?
+You're not bad at this.	Jy is nie sleg met dit nie.
+But wasn't it expensive?	Maar was dit nie duur nie?
+Can you wait right here?	Kan jy reg hier wag?
+Did you read everything?	Het jy alles gelees?
+He sometimes watches TV.	Hy kyk partymal TV.
+I asked where she lived.	Ek het gevra waar sy gewoon het.
+I can't do it by myself.	Ek kan dit nie aan myself doen nie.
+I don't know where I am.	Ek weet nie waar ek is nie.
+I hate my mother-in-law.	Ek haat my skoonma.
+I only want to help you.	Ek wil alleen jou help.
+I was just being polite.	Ek was net beskaaf.
+I wouldn't be surprised.	Ek sou nie verbaas wees nie.
+I'll be back in an hour.	Ek sal terug wees in 'n uur.
+I'll catch the next bus.	Ek sal die volgende bus vang.
+I'm not afraid any more.	Ek is nie meer bang nie.
+I'm not buying anything.	Ek gaan niks koop nie.
+I'm still not buying it.	Ek gaan nogsteeds niks koop nie.
+It happened by accident.	Dit het toevallig gebeur.
+Make it a little larger.	Maak dit 'n bietjie groter.
+My wife is a vegetarian.	My vrou is 'n vegetariër.
+The box is almost empty.	Die boks is amper leeg.
+The dog is in the house.	Die hond is in die huis.
+They are making a salad.	Hulle maak 'n slaai.
+Tom couldn't believe it.	Tom kon dit nie glo nie.
+Tom looks very relieved.	Tom lyk baie verlig.
+Tom wants to be admired.	Tom wil bewonderd word.
+We are both from Boston.	Ons is beide van Boston.
+What Tom said was a lie.	Wat Tom gesê het is 'n leuen.
+What are you doing, Dad?	Wat doen jy, pappa?
+What're you looking for?	Wat soek jy?
+Who are you working for?	Vir wie werk jy?
+You wouldn't believe it.	Jy sou dit nie glo nie.
+You wouldn't believe me.	Jy sou nie my glo nie.
+You're really wonderful.	Jy is regtig wonderlik.
+Can I get a coffee to go?	Kan ek 'n koffie vir die pad kry?
+Can I help you gentlemen?	Kan ek jou help heer?
+Do you know what he said?	Weet jy wat hy gesê het?
+He eats around the clock.	Hy eet sonder ophou.
+Her speech was excellent.	Haar toespraak was uitmuntend.
+I don't love her anymore.	Ek is nie meer lief vir haar nie.
+I have to help my mother.	Ek moet my ma help.
+I make 100 euros per day.	Ek verdien 100 euros 'n dag.
+I wouldn't take that bet.	Ek sou nie weddingskap neem nie.
+I'll be right behind you.	Ek sal reg agter jou wees.
+I'll stay here until ten.	Ek sal hier bly tot tien.
+I'm just being realistic.	Ek is net besig om realisties te wees.
+Let me explain something.	Laat my iets verduidelik.
+Let's stick to the point.	Kom ons hou by die punt.
+Let's wait till he comes.	Kom ons wag tot hy kom.
+My parents are both dead.	My ouers is albei dood.
+South Africa is far away.	Suid-Afrika is ver weg.
+That is such a dumb idea.	Dit is so 'n dom idee.
+This is such a dumb idea.	Dit is so 'n dom idee.
+This is very interesting.	Dit is baie interessant.
+Tom didn't shoot to kill.	Tom het nie geskied om dood te maak nie.
+Tom drives like a maniac.	Tom bestuur soos 'n maniak.
+Tom wasn't wearing socks.	Tom het nie sokkies gedra nie.
+Tom went back downstairs.	Tom is terug af die trappe af.
+Tom won't be cooperative.	Tom sal nie saamwerk nie.
+We are under his command.	Ons staan onder sy bevel.
+We've got too many rules.	Ons het te veel reëls.
+What are you looking for?	Wat soek jy?
+Where did you learn this?	Waar het jy dit geleer?
+You sound like my mother.	Jy klink soos my ma.
+You won't be on your own.	Jy sal nie op jou eie wees nie.
+You've already forgotten.	Jy het reeds vergeet.
+All the benches are taken.	Alle banke is beset.
+All's well that ends well.	Alles goed eindig goed.
+Be polite to your parents.	Wees hoflik teenoor jou ouers.
+Breathe through your nose.	Haal deur die neus asem.
+Can you help me with this?	Kan jy my met hierdie help?
+Did you finish your paper?	Het jy jou vreastel voltooi?
+Don't forget your promise.	Moet nie jou belofte vergeet nie.
+How many pens do you have?	Hoeveel penne het jy?
+I arrived here last night.	Ek het laas nag hier aangekom.
+I can't bend my right arm.	Ek kan nie my regter arm buig nie.
+I don't have time for you.	Ek het geen tyd vir julle nie.
+I'll do what must be done.	Ek sal doen wat gedoen moet word.
+I'm finishing my homework.	Ek maak my huiswerk klaar.
+I'm not being paid enough.	Ek word nie genoeg betaal nie.
+I'm standing in the shade.	Ek staan in die skaduwee.
+It doesn't matter so much.	Dit maak nie soveel saak nie.
+It doesn't seem very fair.	Dit blyk nie regverdig nie.
+It was just the beginning.	Dit was net die begin.
+Now you're being paranoid.	Nou is jy paranoïes.
+Park the car in the shade.	Parkeer die kar in die skaduwee.
+Please answer my question.	Asseblief beantwoord my vraag.
+Tell Tom I won't be there.	Sê vir Tom ek gaan nie daar wees nie.
+That wasn't very romantic.	Dit was nie baie romanties nie.
+The radio is out of order.	Die radio is stukkend.
+There are no broken bones.	Daar is geen gebreekte bene.
+This machine doesn't work.	Hierdie masjien werk nie.
+Tom isn't going to change.	Tom sal nie verander nie.
+Tom often emails me jokes.	Tom stuur vir my dikwels e-pos met grappe.
+Tom threw oil on the fire.	Tom het olie op die vuur gegooi.
+Tom was not wearing socks.	Tom het nie sokkies gedra nie.
+Tom was wearing a sweater.	Tom het 'n trui gedra.
+We aren't very hungry yet.	Ons is nog nie baie honger nie.
+What country are you from?	Van watse land is jy?
+What floor do you live on?	Op watter verdieping woon jy?
+All is well that ends well.	Alles goed eindig goed.
+Be quiet during the lesson.	Wees rustig tydens die les.
+Can you make a copy for me?	Kan jy vir my 'n kopie maak?
+Everything's under control.	Alles is onder beheer.
+I don't have much time now.	Ek het nou nie veel tyd nie.
+I went by there last night.	Ek het daar gegaan gisteraand.
+I will promise you nothing.	Ek beloof jou niks nie.
+I won't be a party to this.	Ek gaan nie 'n party hieraan wees nie.
+I won't be coming with you.	Ek gaan nie saam met jou kom nie.
+I won't be here next month.	Ek gaan nie hier volgende maand wees nie.
+I won't be home for a week.	Ek gaan nie tuis vir 'n week wees nie.
+I won't be ready for weeks.	Ek gaan nie reg wees vir weke nie.
+I'd better get back inside.	Ek moet seker terug ingaan.
+I'd like one stamp, please.	Ek versoek een stempel, asseblief.
+I'd like to ask a question.	Ek sal graag 'n vraag wil vra
+I'll get right back to you.	Ek sal nou terugkom by jou.
+I'm happy to see you again.	Ek is bly om jou weer te sien.
+I'm not being unreasonable.	Ek is nie besig om onredelik te wees nie.
+I'm sorry about being late.	Ek is jammer oor laat wees.
+Is that law still in force?	Is daardie wet nogsteeds in werking getree?
+Japan is full of surprises!	Japan is vol verrassings!
+No one tells me what to do.	Niemand vertel my wat om the doen nie.
+Nobody tells me what to do.	Niemand vertel my wat om the doen nie.
+She has a house by the sea.	Sy het 'n huis by die see.
+Smoking affects our health.	Rook benadeel ons gesondheid.
+The snow has begun melting.	Die sneeu het begin smelt.
+There is a map on the wall.	Daar is 'n kaart op die muur.
+This factory produces toys.	Die fabriek produseer speelgoed.
+This song is easy to learn.	Die liedjie is maklik om te leer.
+Tom and Mary are very busy.	Tom en Mary is baie besig.
+Tom had better not do that.	Tom beter dit nie gedoen het nie.
+Tom has a big day tomorrow.	Tom het 'n groot dag môre.
+Tom has a good imagination.	Tom het 'n goeie verbeelding.
+Tom has a lot on his plate.	Tom het baie op sy bord.
+Tom has a very good memory.	Tom het 'n uitstekende geheue.
+Tom has a well-trained dog.	Tom het 'n goed geleerde hond.
+Tom has accepted our offer.	Tom het ons aanbod aanvaar.
+Tom has already thanked me.	Tom het my reeds gedank.
+Tom has been a good friend.	Tom was 'n goeie vriend.
+Tom has been quite helpful.	Tom was heel behulpsaam.
+Tom has been very tolerant.	Tom was baie verdraagsaam.
+Tom has nowhere left to go.	Tom het nêrens meer om te gaan.
+Tom has to be more careful.	Tom moet meer versigtig wees.
+Tom isn't going to hurt me.	Tom sal my nie seer maak nie.
+Tom wants to become famous.	Tom wil beroemd word.
+Tom won't be afraid of you.	Tom sal nie bang vir jou wees nie.
+Tom wouldn't bother to lie.	Tom sou nie pla om te jok nie.
+We won't be able to escape.	Ons sal nie kan ontsnap nie.
+What are you searching for?	Wat soek jy?
+Which country are you from?	Van watse land is jy?
+Which floor do you live on?	Op watter verdieping woon jy?
+Why don't you wear a dress?	Hoekom dra jy nie 'n rok nie?
+Will you help me with this?	Sal jy my met hierdie help?
+You ain't seen nothing yet.	Jy het nog niks gesien nie.
+You won't be safe anywhere.	Jy gaan nêrens veilig wees nie.
+You've told me that before.	Jy het dit al voorheen vir my gesê.
+Don't be late for the train.	Moenie laat wees vir die trein nie.
+Everything is under control.	Alles is onder beheer.
+He never breaks his promise.	Hy breek nooit sy beloftes nie.
+How old do you think she is?	Hoe oud skat u haar?
+I am happy to see you again.	Ek is bly om jou weer te sien.
+I thought you'd be thrilled.	Ek dog jy sou opgewonde wees.
+I won't be able to help you.	Ek sal nie jou kan help nie.
+I won't be back for a while.	Ek gaan nie terug vir 'n ruk wees nie.
+I wonder what became of Tom.	Ek wonder wat het van Tom geword.
+I'd better get back to work.	I moet beter terug kom by die werk.
+I'm glad it makes you happy.	Ek is bly dat dit jou gelukkig maak.
+I'm not being paid for this.	Ek word nie betaal vir dit nie.
+Is that what Tom would want?	Is dit wat Tom sou wou hê?
+Our best friend is a doctor.	Ons beste vriend is 'n dokter.
+She brought his lunch today.	Sy't vandag sy middagete gebring.
+Tom and Mary sang in unison.	Tom en Marie het eensamig gesing.
+Tom didn't know what to say.	Tom het nie geweet wat om te sê nie.
+Tom plans to go there alone.	Tom is van plan om alleen soontoe te gaan.
+Tom won't be here that long.	Tom gaan nie hier so lank wag nie.
+Tom wouldn't be that stupid.	Tom sou nie so dom wees nie.
+We won't be here after 2:30.	Ons gaan nie hier wees na 2:30 nie.
+We've arrived a little late.	Ons het 'n bietjie laat aangekom.
+When does Tom eat breakfast?	Wanneer eet Tom ontbyt?
+Why do you think he said so?	Hoekom dink jy het hy so gesê?
+You're a long way from home.	Jy is ver van die huis af.
+He went to America last week.	Hy het laasweek na Amerika toe gegaan.
+High tide is at 3 p.m. today.	Hoogwater is vanmiddag om 3 uur.
+His story moved her to tears.	Sy storie het haar tot trane gedryf.
+How much do you make a month?	Hoeveel het jy gemaak 'n maand?
+I am familiar with his music.	Sy musiek is bekend.
+I thought you might back out.	Ek dog jou sou uittree.
+I told Tom I'd be right back.	Ek het Tom gesê ek sal nou-nou wees.
+I was just blowing off steam.	Ek het net 'n bietjie stoom afgeblaas.
+I'll have to get back to you.	Ek sal terug na jou toe moet kom.
+I'll see you when I get back.	Ek sal jou sien wanneer ek terugkom.
+I'm afraid I've got bad news.	Ek het ongelukkig slegte nuus.
+I'm falling in love with you.	Ek is om verlief te val op jou.
+Is your coworker an American?	Is jou kollega 'n Amerikaner?
+May I turn on the television?	Kan ek die televisie aanskakel?
+My grandmother speaks slowly.	My ouma praat stadig.
+She behaved quite abominably.	Sy het haar heel afskuwelik gedra.
+Strong leadership was needed.	Sterk leierskap was nodig.
+That wasn't exactly romantic.	Dit was nie baie romanties nie.
+The conditions are favorable.	Die omstandighede is gunstig.
+They'll do whatever they can.	Hulle sal alles doen wat hulle kan.
+Tom ate breakfast by himself.	Tom het ontbyt geëet op sy eie.
+Tom dumped me over the phone.	Tom het my oor die foon gelos.
+Tom dyed his hair dark brown.	Tom het sy hare donker bruin gekleur.
+Tom must be Mary's boyfriend.	Tom is seker Marie se kêrel.
+Tom said his hands were cold.	Tom het gesê sy hande was koud.
+Tom turned the light back on.	Tom het die lig terug aangesit.
+Tom unscrewed the light bulb.	Tom het die ligbulb ontskroef.
+Tom won't be at school today.	Tom gaan nie vandag by die skool wees nie.
+Tom won't be back for a week.	Tom gaan nie vir 'n week terug wees nie.
+Tom won't be here next month.	Tom gaan nie volgende maand hier wees nie.
+We must clean up the kitchen.	Ons moet die kombuis skoonmaak.
+We must destroy the evidence.	Ons moet die bewyse vernietig.
+What does this sentence mean?	Wat beteken hierdie sin?
+Where does Tom eat breakfast?	Waar eet Tom ontbyt?
+You aggravated the situation.	Jy het die situasie vereger.
+You won't be able to help us.	Jy sal nie ons kan help nie.
+A dog was running after a cat.	'n Hond het agter die kat aan gehardloop.
+Could you turn off the lights?	Kan jy die ligte afskakel?
+I dare you to cross this line.	Ek waag jou om oor die lyn te trap.
+I thought you might be hungry.	Ek dog jy mag honger wees.
+I wish you'd said that before.	Ek wens jy het dit voorheen gesê.
+I wouldn't be so sure of that.	Ek sou nie so seker daarvan wees nie.
+I'll let you get back to work.	Ek sal jou laat terug gaan aan die werk.
+I'll tell you when I get back.	Ek sal jou sê wanneer ek terug is.
+I'm a lot bigger than you are.	Ek is baie groter as wat jy is.
+My conscience is bothering me.	My gewete pla my.
+Please tell me what you think.	Sê my asseblief wat jy dink.
+She was formerly a bank clerk.	Sy was voorheen 'n klerk by die bank.
+The test was rather difficult.	Die toets was nogal moeilik.
+The wind is blowing very hard.	Die wind waai sterk.
+They won't bother you anymore.	Hulle sal jou nie meer steur nie.
+Tom just got back from Boston.	Tom is sopas terug vanaf Boston.
+Tom screwed in the light bulb.	Tom het die ligbulb ingeskroef
+Tom won't be happy to see you.	Tom gaan nie gelukkig wees om jou te sien nie.
+We both have the same problem.	Ons het beide dieselfde probleem.
+You don't know my dad, do you?	Jy ken nie my pa nie, doen jy?
+Do you want to rent your house?	Wil u u huis verhuur?
+He has atrocious table manners.	Hy het gruwelike tafel maniere.
+I don't expect you to remember.	Ek verwag nie van jou om dit te onthou nie.
+I have to think of my children.	Ek moet aan my kinders dink.
+I just went to check something.	Ek wil net iets kyk.
+I thought you might be curious.	Ek dog jy sou nuuskierig wees.
+I wouldn't let that bother you.	Ek sou nie dit jou laat pla nie.
+I'd better get back to my desk.	Ek beter terug kom by my lessenaar.
+I'll be here when you get back.	Ek sal hier wees wanneer jy terugkom.
+I'll get back to you about Tom.	Ek sal terugkom na jou oor Tom.
+I'm just an innocent bystander.	Ek is net 'n onskuldige omstander.
+I've been waiting half an hour.	I wag al vir 'n halfuur.
+Our refrigerator isn't working.	Ons yskas is stukkend.
+Tell Tom that I won't be there.	Sê vir Tom ek gaan nie daar wees nie.
+The food didn't taste that bad.	Die kos het nie so sleg geproe nie.
+This, however, is not possible.	Dit is egter nie moontlik nie.
+Tom won't be showing up at all.	Tom gaan glad nie verskyn nie.
+We'll have a problem, won't we?	Ons gaan 'n probleem hê, gaan ons nie?
+Will you pay attention, please?	Sal jy asseblief aandag gee?
+You don't have to be sarcastic.	Jy hoef nie sarkasties te wees nie.
+You won't believe what I found.	Jy sal nie glo wat ek gevind het nie.
+You won't believe what I heard.	Jy sal nie glo wat ek gehoor het nie.
+Correct the following sentences.	Korrigeer die volgende sinne.
+Do you prefer red or white wine?	Verkies jy rooi of wit wyn?
+I need you to help me with this.	Ek het jou nodig om my met hierdie te help.
+I put it back where it belonged.	Ek het dit terug gesit waar dit behoort.
+I think I might be out of a job.	Ek dink ek mag dalk uit 'n werk wees.
+I thought something was strange.	Ek het gedink iets was vreemd.
+I was offended by the policeman.	Ek het aanstoot geneem van die polisieman.
+I won't be coming back with Tom.	Ek gaan nie saam met Tom terugkom nie.
+I wonder what Tom meant by that.	Ek wonder wat Tom daarmee bedoel het.
+I'll tell you when you get back.	Ek sal jou sê wanneer jy terug kom.
+I'm going to be on the next bus.	Ek gaan op die volgende bus wees.
+I'm not sure I want to see this.	Ek is nie seker of ek dit wil sien nie.
+I'm not telling you to go alone.	Ek sê nie vir jou dat ek alleen wil gaan nie.
+The moon moves around the earth.	Die maan draai om die aarde.
+This book doesn't belong to Tom.	Hierdie boek behoort nie aan Tom nie.
+Tom is worried about being sued.	Tom is bekommerd om gedagvaar te kan word.
+Tom turned on the right blinker.	Tom het sy regter flikkerlig aangesit.
+Tom was a bit freaked out by it.	Tom was 'n bietjie gegril deur dit.
+We can drive as fast as we want.	Ons kan so vinnig ry as wat ons wil.
+Would you move your car, please?	Kan jy jou kar beweeg asseblief?
+Would you move your car, please?	Kan jy asseblief jou kar skuif.
+You won't be needing that again.	Jy gaan nie dit weer nodig hê nie.
+You won't be the only one there.	Jy gaan nie die enigste een daar wees nie.
+You won't believe what I've got.	Jy sal nie glo wat ek het nie.
+You've aggravated the situation.	Jy't die situasie vererger.
+He lives in a village near Osaka.	Hy bly in 'n dorpie naby Osaka.
+He was wearing a threadbare suit.	Hy het 'n afgeleefde pak aangehad.
+I hope I'm not bothering anybody.	Ek hoop nie ek pla iemand nie.
+I thought you might be mad at me.	Ek dog jy sou kwaad vir my wees.
+I was up all night brainstorming.	Ek was die hele nag besig om te dinkskrum.
+I won't be able to sleep tonight.	Ek sal nie vanaand kan slaap nie.
+I wouldn't be so sure about that.	Ek sou nie so seker daarvan wees nie.
+I'll get back to you in a moment.	Ek sal terugkom na jou in 'n ruk.
+I'm going to help you get better.	Ek gaan jou help beter te word.
+I'm sure I won't be of much help.	Ek is seker ek gaan nie van veel hulp wees nie.
+It is expensive to live in Japan.	Dit is duur om in Japan te woon.
+Our refrigerator is out of order.	Ons yskas is stukkend.
+These trees were planted by them.	Die bome was deur hulle geplant.
+Tom is an extremely charming guy.	Tom is 'n verskriklike sjarmante ou.
+Tom seldom writes to his parents.	Tom skryf selde aan sy ouers.
+Tom watched television yesterday.	Tom het gister televisie gekyk.
+Tom won't be helping us tomorrow.	Tom gaan nie ons môre help nie.
+Tom won't be staying much longer.	Tom gaan nie meer baie langer bly nie.
+We sat in front of the fireplace.	Ons het voor die kaggel gesit.
+We spent the day in the open air.	Ons het die dag in die buitelug spandeer.
+We won't be able to eat all this.	Ons gaan nie alles kan opeet nie.
+Where does your grandmother live?	Waar woon jou ouma?
+Which sport do you like the most?	Van watse sport hou jy die meeste van?
+He invested 500,000 yen in stocks.	Hy het 500,000 ten in aandele belê.
+I don't think your plan will work.	Ek dink nie jou plan sal werk nie.
+I never thought I'd be doing this.	Ek het nooit kon dink dat ek dit sou doen nie.
+I thought it might be complicated.	Ek dog sit mag dalk ingewikkeld wees.
+I thought it might be significant.	Ek dog dit mag dalk beduidend wees.
+I was waiting for you to get back.	Ek het vir jou gewag om terug te kom.
+I won't be sorry to see Tom leave.	Ek gaan nie jammer wees om Tom te sien verlaat nie.
+I wouldn't be too sure about that.	Ek sou nie te seker wees daaroor nie.
+I'll put it back where it belongs.	Ek sal dit terug sit waar dit behoort.
+I'm glad you finally made it back.	Ek is bly jy het uiteindelik terug gekom.
+I'm really flattered to hear that.	Ek is regtig gevlei om dit te hoor.
+I'm sorry I can't be of more help.	Ek is jammer dat nie van meer hulp kan wees nie.
+Naturally, that's why we are here.	Natuurlik, dis hoekom ons hier is.
+She left her son alone in the car.	Sy het haar seun alleen in die kar gelos.
+Tom died with a knife in his back.	Tom het gesterf met 'n mes in sy rug.
+Tom was bullied when he was a kid.	Tom was geboelie toe hy 'n kind was.
+Tom won't be back for a few hours.	Tom gaan nie terug wees vir 'n paar ure nie.
+Tom won't be here for a long time.	Tom gaan nie hier wees vir 'n lang tyd nie.
+We can't afford any more mistakes.	Ons kan nie nog foute bekostig nie.
+What time and where could we meet?	Wanneer en waar kan ons ontmoet?
+You won't be needing this anymore.	Jy gaan dit nie meer nodig hê nie.
+You won't be needing this anymore.	Jy gaan dit nie meer benodig nie.
+A thousand meters is one kilometer.	'n Duisend meter is een kilometer.
+Aren't you being a little paranoid?	Is jy nie 'n bietjie skrikkerig nie?
+I can't think of his name just now.	Ek kan nie nou aan sy naam dink nie.
+I don't like living in the country.	Ek hou nie daarvan om in die platteland te woon nie.
+I thought this was just between us.	Ek dog dit was net tussen ons gewees.
+I thought we could make it by 2:30.	Ek dog ons kon dit maak teen 2:30.
+I was born and brought up in Tokyo.	Ek is in Tokio gebore en getoë.
+I wish I could be more spontaneous.	Ek wens ek was meer spontaan.
+I won't be bullied into doing that.	Ek gaan nie in dit geboelie word om dit te doen nie.
+I'm assuming it won't be a problem.	Ek neem aan dit gaan nie 'n probleem wees nie.
+I'm glad we put all that behind us.	Ek is bly dat ons dit agter ons gesit het.
+I'm surprised Tom isn't busy today.	Ek is verbaas dat Tom nie vandag besig is nie.
+I'm trying to figure out something.	Ek probeer om iets uittevind.
+Maybe I shouldn't be so suspicious.	Dalk moet ek nie so verdag wees nie.
+Our interests conflict with theirs.	Ons belangstelle is in konflik met hulle s'n.
+Saturday is when my father is free.	Saterdag is my pa oop.
+That isn't how I want things to be.	Dis nie hoe ek wil hê dinge moet wees nie.
+That's not how I want things to be.	Dis nie hoe ek wil hê dinge moet wees nie.
+That's the way the cookie crumbles.	Dis die lewe.
+The cook is sitting in the kitchen.	Die kok sit in die kombuis.
+The food didn't taste all that bad.	Die kos het glad nie so sleg geproe nie.
+The walls were painted light brown.	Die mure was 'n ligte bruin geverf.
+There's too much salt in this soup.	In hierdie sop is te veel sout.
+This house is too small to live in.	Hierdie huis is te klein om in te bly.
+Tom told us not to do that anymore.	Tom het gesê dat ons moes ophou daarmee.
+Tom won't be bothering you anymore.	Tom gaan jou nie meer steur nie.
+Tom won't be making a speech today.	Tom gaan nie vandag 'n toespraak voer nie.
+Tom won't be that easy to convince.	Tom gaan nie so maklik oorreed word nie.
+Tom won't be that hard to convince.	Tom gaan nie so moeilik oorreed word nie.
+Tom wouldn't be interested in Mary.	Tom sal nie belangstel in Mary nie.
+Was he still here when you arrived?	Was hy nog hier wanneer julle aangekom het?
+We don't want you to hurt yourself.	Ons wil nie hê jy moet jouself seer maak nie.
+Why don't you all just take a seat?	Hoekom neem almal nie 'n sitplek nie?
+You can use my car, if you want to.	Jy kan my kar gebruik as jy wil.
+You don't seem too happy to see me.	Jy lyk nie te gelukkig om vir my te sien nie.
+You won't be able to see Tom today.	Jy sal nie Tom vandag kan sien nie.
+A hundred years is called a century.	'n Honderd jaar word 'n eeu genoem.
+He lives in a small town near Osaka.	Hy bly in 'n dorpie naby Osaka.
+I don't want to hear about it again.	Ek wil nie weer daarvan hoor nie.
+I don't want to talk about my child.	Ek wil nie oor my kind praat nie.
+I had hoped we might become friends.	Ek het gehoop ons kan vriende word.
+I like the slow rhythm of that song.	Ek hou van die stadige ritme van daai liedjie.
+I thought it might be a possibility.	Ek dog dit mag dalk 'n moontlikheid wees.
+I was wondering when you'd get back.	Ek het gewonder wanneer jy gaan terugkom.
+I was your mother's first boyfriend.	Ek was jou ma se eerste kerêl.
+I'll be right back with your drinks.	Ek is nou terug met julle drankies.
+Pour melted butter over the popcorn.	Gooi gesmelte botter oor die springmielies.
+She is able to answer your question.	Sy kan jou vraag beantwoord.
+The only one who isn't going is you.	Die engiste een wat nie gaan nie is jy.
+The smallest continent is Australia.	Die kleinste kontinent is Australië.
+You won't believe who came by today.	Jy gaan nie glo wie vandag verby gekom het nie.
+Does anyone have any other questions?	Het enigiemand enige ander vrae?
+Don't believe anything Tom tells you.	Moet niks glo van Tom vir jou vertel nie.
+I think you might be able to help me.	Ek dink jy mag dalk vir my kan help.
+I thought that something was strange.	Ek het gedink iets was vreemd.
+I won't be able to visit for a while.	Ek gaan nie kan kom kuier vir 'n ruk nie.
+I wouldn't be too sure if I were you.	Ek sou nie so seker wees as ek jy was nie.
+I'll be right back with refreshments.	Ek is nou-nou terug met verversings.
+I'll make it back in time for supper.	Ek sal dit terug maak vir aandete.
+I'm afraid Tom won't be able to come.	Ongelukkig sal Tom nie kan kom nie.
+I'm going to have to get back to you.	Ek sal moet terugkom na jou.
+I've told you that before, haven't I?	Ek het dit voorheen vir jou gesê, het ek nie?
+Let the chocolate melt in your mouth.	Laat die sjokolade in die mond smelt.
+There was a bus schedule on the wall.	Daar was 'n bus skedule op die muur.
+There was a bus schedule on the wall.	Op die muur was daar 'n bus skedule.
+There's so much I want to say to you.	Daar is soveel wat ek vir jou wil sê.
+This is something I need to do alone.	Dit is iets wat ek alleen moet doen.
+Tom went back inside to get his coat.	Tom het terug binnegegaan om sy jas te kry.
+He bought eggs and milk from a farmer.	Hy het eiers en melk by 'n boer gekoop.
+I always wondered what that smell was.	Ek het altyd gewonder wat daardie reuk was.
+I didn't think this would be possible.	Ek het nie gedink dat hierdie moontlik sou wees nie.
+I don't have much interest in cooking.	Ek stel nie vreeslik belang in kook nie.
+I thought Tom might be your boyfriend.	Ek dog Tom was dalk jou kêrel.
+I'll get back to you as soon as I can.	Ek sal so gou as moontlik terugkom na jou.
+I'll put my passport back in the safe.	Ek sal my paspoort terug in die kluis sit.
+Is there anything you want to tell us?	Is daar enigiets wat jy vir ons wil vertel?
+My mother put clean sheets on the bed.	My ma het skoon lakens op my bed gesit.
+My older sister plays the guitar well.	My ouer suster speel goed kitaar.
+Ping pong is also called table tennis.	Ping pong word ook tafeltennis genoem.
+Thank you for your beautiful postcard.	Dankie vir jou pragtige poskaart.
+Tom sat by the window, reading a book.	Tom sit by venster besig om 'n boek te lees.
+Tom won't be able to keep up with you.	Tom sal nie met jou kan byhou nie.
+What was the last concert you went to?	Wat was die laaste konsert waarntoe jy gegaan het?
+What's your favorite leisure activity?	Wat is jou gunsteling ontspanningsaktiwiteit?
+Are you sure you don't want to do that?	Is jy seker jy wil nie daai doen nie?
+Could I talk to you alone for a second?	Kan ek met jou praat vir 'n sekonde?
+Crossing the river was a piece of cake.	Om oor die revier te gaan was gans te maklik.
+He died as he was returning to England.	Hy het gesterf gedurende sy terugkeer na Engeland.
+I thought that it might be significant.	Ek dog dit mag dalk beduidend wees.
+I'm sorry that I can't be of more help.	Ek is jammer dat nie van meer hulp kan wees nie.
+The two towns are separated by a river.	Die twee dorpe is geskei deur 'n rivier.
+There are a lot of fires in the winter.	Daar is baie vure in die winter.
+Tom wouldn't be interested in this job.	Tom sal nie belangstel in hierdie werk nie.
+Which is the more expensive of the two?	Wat is die duurder een van die twee?
+I have three times as much money as you.	Ek het drie keer soveel geld as jy.
+I might be able to come and pick you up.	Ek kan dalk jou kom optel.
+I want to know what's going on out here.	Ek wil weet daar buite aan gaan.
+I want you to know we can stop worrying.	Ek wil hê jy moet weet dat ons kan ophou bekommerd wees.
+I won't be more than two or three hours.	Ek sal nie langer as twee of drie ure neem nie.
+I'd like to mail this package to Canada.	Ek sal graag hierdie pakkie na Kanada toe wil pos.
+If you don't like it, then you can quit.	As jy nie daarvan hou nie kan jy opgee.
+Tom couldn't believe what was happening.	Tom kon nie glo wat aan die gang is nie.
+Tom drinks more than anyone else I know.	Tom drink meer as enigiemand wat ek ken.
+Tom won't be getting any help from Mary.	Tom gaan nie meer hulp deur Mary verkry nie.
+We must separate politics from religion.	Ons moet politiek van geloof skei.
+You won't be able to do that without me.	Jy sal nie dit kan doen sonder my nie.
+A green banana is not ripe enough to eat.	'n Groen piesang is nie ryp genoeg om te eet nie.
+Apples are usually green, yellow, or red.	Appels is gewoonlik groen, geel of rooi.
+I wish we didn't have to do this anymore.	Ek wens dat ek dit nie meer hoef te doen nie.
+I won't be ready to do that until Monday.	Ek gaan nie gereed wees om dit te doen tot Maandag nie.
+I wonder if you might be able to help me.	Ek wonder of jy my dalk sal kan help.
+I've never seen anything quite like this.	Ek het nooit enigiets soos dit gesien nie.
+My father has recently returned to Japan.	My pa het onlangs na Japan teruggekeer.
+The girl in the blue coat is my daughter.	Die meisie in die blou jas is my dogter.
+Tom won't be making any deliveries today.	Tom gaan nie enige aflewerings vandag maak nie.
+Tom wouldn't be here if it wasn't for me.	Tom sou nie hier wees as dit nie vir my was nie.
+We won't be able to get out of this cell.	Ek gaan nie uit hierdie sel kan kom nie.
+Can you make out what he is trying to say?	Kan jy verstaan wat hy probeer sê?
+Farmers always complain about the weather.	Boere kla konstant oor die weer.
+I always wondered whether you'd come back.	I het altyd gewonder of jy gaan terug kom.
+I don't think anyone noticed what you did.	Ek dink nie enigiemend het agtergekom wat jy gedoen het nie.
+I thought you might be interested in this.	Ek dog jy sou hierin belangstel.
+I want to show you something in my office.	Ek wil vir jou iets wys in my kantoor.
+I wouldn't be surprised if Tom left early.	Ek sou nie verbaas wees as Tom vroeg verlaat het nie.
+I'm guessing you didn't buy this yourself.	Ek raai jy het dit nie vir jouself gekoop nie.
+My uncle has been diagnosed with leukemia.	My oom is gediagnoseer met bloedkanker.
+Please leave next Saturday afternoon free.	Los volgende Saterdag middag oop asseblief.
+The waiter filled our glasses to the brim.	Die kelner het ons glase tot die randjie gevul.
+Tom assumed Mary wouldn't be at the party.	Tom het aangeneem dat Mary nie by die partytjie gaan wees nie.
+Tom won't be staying with us next weekend.	Tom gaan nie volgende naweek by ons bly nie.
+Tom wondered where he was supposed to sit.	Tom wonder waar hy veronderstel is om te sit.
+When he came to, he was lying in the park.	Toe hy bykom, het hy in die park gelê.
+You can turn on the heater if you're cold.	Jy kan die verwarmer aanskakel indien jy koud kry.
+You wouldn't be any happier if I told you.	Jy sou nie minder gelukkig gewees het as ek jou vertel het nie.
+Farmers separate good apples from bad ones.	Boere skei goeie appels van slegtes.
+His meeting began at five in the afternoon.	Sy vergadering het teen vyf in die middag begin.
+I didn't want to make a big deal out of it.	Ek wou nie 'n groot saak hiervan maak nie.
+I don't want you to think about it anymore.	Ek wil nie meer daaroor dink nie.
+I know that Tom knew that I should do that.	Ek weet dat Tom weet dat ek dit moes doen.
+I want to talk to you about something else.	I wil met jou aanspreek oor iets anders.
+I wouldn't be surprised if Tom didn't come.	Ek sou nie verbaas wees as Tom nie gekom het nie.
+I'm afraid I wouldn't be very good company.	Ek sou ongelukkig nie baie goeie geselskap wees nie.
+I'm sure Tom knows enough French to get by.	Ek is seker Tom ken genoeg Frans om verby te kom.
+January is the first month of the calendar.	Januarie is die eerste maand op die kalender.
+No matter what he may say, don't trust him.	Dit maak nie saak wat hy sê nie, moet hom nie vertrou nie.
+Tom isn't planning to come home for dinner.	Tom beplan nie om huis toe te kom vir aandete nie.
+Tom read an article about the solar system.	Tom het 'n artikkel oor die sonnestelsel gelees.
+Tom wasn't given the chance you and I were.	Tom het nie die kans gehad wat jy en ek gehad het nie.
+Whatever you do, don't drop your new phone.	Wat jy ook al doen, moenie die nuwe foon laat val nie.
+A madman is not accountable for his actions.	'n Gek is nie verantwoordelik vir sy dade nie.
+Don't you want to know why I didn't do that?	Wil jy nie weet hoekom ek dit nie gedoen het nie?
+I'm saving up so that I can go to Australia.	Ek is besig om te bespaar sodat ek Australië toe kan gaan.
+You're the most beautiful girl in the world.	Jy is die pragtigste meisie ter wêreld.
+Tom and his uncle walked together in silence.	Tom en sy oom het in stilte saam geloop.
+Tom might be able to do that, but I doubt it.	Tom mag dit dalk kan doen, maar ek betwyfel dit.
+Why would you want to do something like that?	Hoekom sou jy wou iets soos dit doen?
+Do you plan to join us for a drink afterwards?	Beplan jy om saam met ons daarna 'n drankie te kom kry?
+I had to walk there because my car broke down.	Ek moes daarntoe loop, omdat my kar afgebreek het.
+I'm going to open the wine and let it breathe.	Ek gaan die wyn oopmaak sodat dit kan asemhaal.
+I'm surprised that building is still standing.	Ek is verbaas daardie gebou staan nogsteeds.
+I'm trying to find out why we need to do that.	Ek probeer uitvind waarom ons dit moet doen.
+Maybe all of Tom's suggestions weren't stupid.	Miskien was al Tom se voorstelle nie dom nie.
+This book is about a king who loses his crown.	Die boek gaan oor die koning wat sy kroon verloor.
+Tom always seems to be wearing the same thing.	Tom lyk altyd of hy dieselfde ding dra.
+Tom doesn't like people who manipulate others.	Tom hou van die mense wat andere manipuleer nie.
+Tom went back to his car and got a flashlight.	Tom het terug na sy kar gegaan en 'n flitslig gaan haal.
+You can do whatever you want to do, of course.	Jy kan natuurlik doen wat okal jy wil doen.
+I checked into a hotel and went right to sleep.	Ek het my in 'n hotel bespreek en reguit gaan slaap.
+I won't be able to carry Tom across the bridge.	Ek gaan nie Tom oor die brug kan dra nie.
+No matter what you say, I won't change my mind.	Ek gaan nie my keuse verander nie maak nie saak wat jy sê nie.
+Why don't you just tell us what's on your mind?	Hoekom sê jy nie net vir ons wat op joy gedagtes is nie?
+I know Tom and Mary were more than just friends.	Ek weet dat Tom en Mary meer as vriende was.
+I like grapes, but I can't eat too many of them.	Ek hou van druiwe, maar kan nie te veel daarvan eet nie.
+That company has been very successful up to now.	Daardie maatskappy was nog baie suksesvol tot nou toe.
+Tom wasn't given the chance that you and I were.	Tom het nie die kans gehad wat jy en ek gehad het nie.
+Tom wasn't wearing socks, so his feet were cold.	Tom het nie sokkies gedra nie so sy voete was koud.
+My friend sent me a letter to find out how I was.	My vriend het vir my 'n brief geskryf om uit te vind hoe ek was.
+The period is missing at the end of the sentence.	Die punt aan die einde van die sin kort.
+What's the real reason you don't want to do this?	Wat is die ware rede waarom jy dit nie wil doen nie?
+I didn't know that you could speak French so well.	Ek het nie geweet jy kan so goed Frans praat nie.
+She is proud of never having been late for school.	Sy is trots om nog nooit laat vir skool te gewees het nie.
+The pension is not sufficient for living expenses.	Die pensioen is nie genoeg vir die lewenskoste nie.
+Is this the reason you didn't want to come with me?	Is hierdie die rede hoekom jy nie wil saam kom nie?
+Out of twenty students, only one has read the book.	Uit twintig studente het net een die book gelees.
+I think that most people want to do the right thing.	Ek dink die meeste mense wil die regte ding doen.
+I don't think I could spend six hours alone with you.	Ek dink ek sal ses ure met jou kan spandeer nie.
+I hate to interrupt you, but I need to say something.	Ek haat dit om jou te onderbreek, maar ek moet iets sê.
+I know that Tom and Mary were more than just friends.	Ek weet dat Tom en Mary meer as vriende was.
+Properly used, certain poisons will prove beneficial.	Met die korrekte gebruik is sommige gifstowwe voordelig.
+Yesterday at this time, we were at the movie theater.	Gister hierdie tyd was on by die bioskoop.
+If you really want to know, all you have to do is ask.	As jy regtig sou wou weet moet jy net vra.
+Tom poured cold water over himself to wake himself up.	Tom het koue water oor homself gegooi om homself wakker te maak.
+Tom doesn't want to spend the rest of his life in jail.	Tom wil nie die res van sy lewe in die tronk spandeer nie.
+Tom went for a walk and took pictures of things he saw.	Tom het gaan wandel en fotos geneem van wat hy gesien het.
+"Can I speak to Tom, please?" "I'm sorry, he just left."	"Kan ek assebleif met Tom praat?" "Ek is jammer, hy het sopas gegaan."
+Are you sure you want me to help you with your homework?	Is jy seker jy wil hê dat ek jou moet help met jou huiswerk?
+I have always identified hard work with success in life.	Ek het nog altyd harde werk met sukses in die lewe assosieer.
+He tried getting close to her using every means possible.	Hy het alles in sy mag probeer om naby haar te kom.
+Land covers about 30 percent of the surface of the earth.	Grond bedek omtrent 30 persent van die wêreld se oppervlakte.
+After lunch today, our plan is to take a walk in the park.	Ons plan is om 'n loop deur die park te neem na middagete.
+He reached for an English-Japanese dictionary on the desk.	Hy reik uit na a Engelse-Japanese woordeboek op die lessenaar.
+I want everything you just said written into the contract.	Ek soek alles wat jy sopas gesê het in die kontrak.
+We recommend cutting off all further contact with the rebels.	Ons stel voor alle kontak met die rebelle word afgesny.
+I don't know if I've ever told you, but you have beautiful eyes.	Ek weet nie of ek jou ooit gesê het nie, maar jy het mooi oë.
+If you want more details about that, you'll have to ask my boss.	As jy meer besonderhede oor dit versoek sal jy my baas moet vra.
+Tom said that he thought Mary was still living with her parents.	Tom het gesê dat hy dink dat Mary steeds by haar ouers woon.
+What we know of health we have learned from the study of disease.	Wat ons weet oor gesondheid het ons deur die studie van siektes geleer.
+As time went on, people grew less and less concerned about the matter.	Met die verloop van tyd, het mense hulle minder bekommer oor die saak.
+A 5% consumption tax is levied on purchases of most goods and services.	'n Verbruiksbelasting van 5% word gehef op die aankoop van die meeste goedere en dienste.
+Since you have a sore throat and a fever, you should probably stay in bed.	Aangesien jy 'n seer keel en koors het moet jy eerder in die bed bly.
+In the past, the boys were taught to fend for themselves while still very young.	In die verlede was die seuns geleer om vir hulself te verdedig terwyl hulle nog baie jonk was.
+These three hours of driving have worn me out. Let's stop at the first rest area we see.	Hierdie drie ure van bestuur het my uitgeput. Kom ons stop by die eerste rusplek wat ons sien.
+I had an appointment at 2:30, but I got caught in traffic and couldn't get there in time.	Ek het 'n afspraak gehad om 2:30, maar ek was vasgevang in die verkeer en kon nie daar kom in tyd nie.

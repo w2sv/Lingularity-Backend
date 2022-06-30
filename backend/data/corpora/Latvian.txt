@@ -1,0 +1,1302 @@
+Hello!	Sveiki!
+He tried.	Viņš mēģināja.
+Calm down.	Nomierines.
+Do it now.	Dariet to tagad.
+I'm timid.	Esmu kautrīgs.
+It's free.	Tas ir bezmaksas.
+Who is he?	Kas viņš ir?
+Wonderful!	Brīnišķīgi!
+I love you.	Es mīlu tevi.
+I miss you.	Man tevis pietrūkst.
+I sat down.	Es apsēdos.
+I'm so fat.	Es esmu tāds tusnis.
+Take cover!	Slēpes!
+Who did it?	Kurš to izdarīja?
+I buy tapes.	Es nopirku lentes.
+I was wrong.	Es kļūdījos.
+I was wrong.	Man nebija taisnība.
+I'll attend.	Es ieradīšos.
+Life is fun.	Dzīve ir smieklīga.
+Tom is dead.	Toms ir miris.
+Tom is sure.	Toms ir pārliecināts.
+Are you sure?	Vai tu esi pārliecināts?
+I am curious.	Es esmu ziņkārīgs.
+I can't sing.	Es nevaru dziedāt.
+It's too big.	Tas ir par lielu.
+Stop arguing.	Beidz strīdēties!
+Stop arguing.	Beidziet strīdēties!
+Tom sat down.	Toms apsēdās.
+Unbelievable!	Neticami!
+We're shaken.	Mēs esam satriekti
+Who's hungry?	Kāds ir izsalcis?
+Everyone dies.	Visi mirst.
+Get back here.	Nāc atpakaļ.
+I hate coffee.	Es ienīstu kafiju.
+I need a plan.	Man vajadzīgs plāns.
+It was a gift.	Tā bija dāvana.
+It's improved.	Tās ir uzlabojies.
+That's a fake.	Tas ir neīsts.
+That's a pipe.	Tā ir caurule.
+The bell rang.	Zvans nozvanīja.
+Tom is stable.	Toms ir stabils.
+Tom rushed in.	Toms ieskrēja iekšā.
+Tom said that.	Toms pateica to.
+Tom sat alone.	Toms sēdēja viens.
+You can do it.	Tu to vari.
+You may speak.	Tu vari runāt.
+You won't win.	Tu neuzvarēsi.
+Do you have it?	Vai tev tas ir?
+Get out of bed.	Ārā no gultas!
+Happy New Year!	Laimīgu Jauno gadu!
+He looks tired.	Viņš izskatās noguris.
+I borrow money.	Es aizņēmos naudu.
+I hate arguing.	Man riebjas strīdēties.
+I love bananas.	Es mīlu banānus.
+I love parties.	Es mīlu ballītes.
+I wasn't fired.	Mani neatlaida.
+I went outside.	Es izgāju ārā.
+I won't eat it.	Es to neēdīšu.
+I won't starve.	Es nenomiršu badā.
+I wore a hoody.	Es valkāju kapuci.
+I work indoors.	Es strādāju iekštelpās.
+I write poetry.	Es rakstu poēmu.
+I'm a believer.	Es esmu ticīgais.
+I'm a romantic.	Es esmu romantiķis.
+It's too large.	Tas ir par lielu.
+It's very cold.	Ir ļoti auksti.
+Please come in.	Ludzu nāc iekšā.
+They have wine.	Viņiem ir vīns.
+Tom sat calmly.	Toms sēdēja mierīgi.
+Tom sat nearby.	Toms apsēdās tuvu.
+Walking is fun.	Pastaigas ir jautras.
+Clean your room.	Iztīri savu istabu.
+Congratulations!	Apsveicam!
+Has he come yet?	Vai viņš jau ir atnācis?
+He likes to run.	Viņam patīk skriet.
+I'm going to go.	Es iešu.
+Large, isn't it?	Liels, vai ne?
+Lemons are sour.	Citroni ir skābi.
+That feels good.	Tas šķiet labi.
+That's too much!	Tas ir par daudz.
+They helped Tom.	Viņi palīdzēja Tomam.
+They won't come.	Viņi nenāks.
+Tom came closer.	Toms pienāca tuvāk.
+Tom helped Mary.	Toms palīdzēja Marijai.
+Tom is a coward.	Toms ir gļēvulis.
+Tom is confused.	Toms ir apjucis.
+Tom kept silent.	Toms turpināja klusēt.
+Tom seems bored.	Toms izskatās garlaikots.
+Tom was frantic.	Toms bija izmisis.
+We have bananas.	Mums ir banāni.
+We're dedicated.	Mēs esam izlēmuši.
+Were you crying?	Vai tu raudāji?
+What do you say?	Ko jūs sakāt?
+Ask someone else.	Pajautājiet kādam citam.
+He kept his word.	Viņš turēja savu vārdu.
+I dislike coffee.	Man nepatīk kafija.
+I drink to relax.	Es dzeru, lai relaksētos.
+I had to go back.	Man vajadzēja iet atpakaļ.
+I left a message.	Es atstāju ziņu.
+I like green tea.	Man garšo zaļā tēja.
+I like them both.	Man patīk viņi abi.
+I play the piano.	Es spēlēju klavieres.
+I wrote a letter.	Es uzrakstīju vēstuli.
+I'm really sorry.	Man ir ļoti žēl.
+It's just a cold.	Tā ir tikai saaukstēšanās.
+Let's have lunch.	Ēdīsim pusdienas!
+No one will know.	Neviens nezinās.
+The feud is over.	Naids ir beidzies.
+The line is busy.	Līnija ir aizņemta.
+This is above me.	Tas ir pāri manām spējām.
+Tom is an orphan.	Toms ir bārenis.
+Tom is angry now.	Toms ir dusmīgs.
+Tom kept running.	Toms turpināja skriet.
+Tom kept sighing.	Toms turpināja dziedāt.
+Tom kept singing.	Toms turpināja dziedāt.
+Tom kept smiling.	Toms turpināja smaidīt.
+Tom kept staring.	Toms turpināja lūkoties.
+Tom kept staring.	Toms turpināja skatīties.
+Tom kept talking.	Toms turpināja runāt.
+Tom went bananas.	Toms pārgāja uz banāniem.
+Turn off the gas.	Izslēgt gāzi!
+Turn off the gas.	Izslēdziet gāzi!
+What could it be?	Kas tas varētu būt?
+Whose turn is it?	Kura kārta ir?
+You must join me.	Tev vajag man piebiedroties.
+You should sleep.	Tev vajadzētu gulēt.
+You'll stay here.	Tu paliksi šeit.
+You're depressed.	Tu esi nomākts.
+You're in danger.	Jūs esat briesmās.
+Are you surprised?	Vai tu esi pārsteigts?
+Give me your book.	Iedod man savu grāmatu!
+How are you going?	Kā jums klājas?
+I didn't even ask.	Es pat nejautāju.
+I hope we find it.	Es ceru, ka mēs to atradīsim.
+I need to find it.	Man vajag to atrast.
+I prefer comedies.	Es dodu priekšroku komēdijām.
+I saw you outside.	Es tevi redzēju ārpusē.
+I'll set you free.	Es tevi atbrīvošu.
+I'll set you free.	Es jūs atbrīvošu.
+It's not my fault.	Tā nav mana vaina.
+Life is enjoyable.	Dzīve ir patīkama.
+My father is busy.	Mans tēvs ir aizņemts.
+Now, that's funny.	Lūk, tas bija smieklīgi.
+October was worse.	Oktobris bija slikts.
+Shouldn't we help?	Vai mums nevajadzētu palīdzēt?
+The pizza is here.	Pica ir klāt.
+They are our cars.	Tās ir mūsu mašīnas.
+This is Tom's cat.	Šis ir Toma kaķis.
+Tom is a crusader.	Toms ir krustnesis.
+Tom is at the bar.	Toms ir pie bāra.
+Tom is behind you.	Toms ir aiz tevis.
+Tom loved bananas.	Toms mīlēja banānus.
+Tom returned fire.	Toms šāva pretīm.
+Tom returned home.	Toms atgriezās mājās.
+Tom served dinner.	Toms pasniedza vakariņas.
+Tom won't find me.	Toms mani neatradīs.
+Tom won't find us.	Toms mūs neatradīs.
+Tom won't help me.	Toms man nepalīdzēs.
+Tom won't stop me.	Toms mani neapturēs.
+Tom's dog is dead.	Toma suns ir miris.
+We agreed to that.	Mēs tam piekritām.
+We've all seen it.	Mēs visi to esam redzējuši.
+Were you prepared?	Jūs bijāt gatavi?
+What's biting you?	Kas tev kož?
+When will Tom eat?	Kad Toms ēdīs?
+Who's at the door?	Kas ir pie durvīm?
+Will Tom help you?	Vai Toms tev palīdzēs?
+Will you kiss Tom?	Vai tu noskūptīsi Tomu?
+Will you warn Tom?	Vai tu brīdināsi Tomu?
+You can wait here.	Tu vari gaidīt šeit.
+You deserved that.	Tu to biji pelnījis.
+All apples are red.	Visi āboli ir sarkani.
+Bananas are yellow.	Banāni ir dzelteni.
+Bring me the flute.	Atnes man flautu.
+Can you forgive me?	Vai vari man piedot?
+Do you have a plan?	Vai tev ir plāns?
+Do you like apples?	Vai tev garšo āboli?
+Good job, everyone.	Labi darīts, visi.
+Hand me that phone.	Paspiedz man to telefonu.
+Hand me that sword.	Padod man to zobenu.
+Here are your bags.	Šeit ir jūsu somas.
+How did he find us?	Kā viņš mūs atrada?
+I brought you this.	Es tev atnesu šo.
+I don't have a cow.	Man nav govs.
+I entered her room.	Es iegāju viņas istabā.
+I found a good job.	Es atradu labu darbu.
+I haven't paid yet.	Es vēl neesmu samaksājis.
+I just sold my car.	Es tikko pārdevu savu mašīnu.
+I left Tom at home.	Es atstāju Tomu mājās.
+I like candlelight.	Man patīk sveču gaisma.
+I live near a park.	Es dzīvoju netālu no parka.
+I need a corkscrew.	Man vajag korķviļķi.
+I never drink beer.	Es nekad nedzeru alu.
+I won't bother you.	Es tevi netraucēšu.
+I'd like to try it.	Es labprāt to izmēģinātu.
+I'll find somebody.	Es kādu atradīšu.
+I'll help you, too.	Es tev arī palīdzēšu.
+I'm Tom's neighbor.	Es esmu Toma kaimiņš.
+I'm working harder.	Es strādāju cītīgāk.
+Is this book yours?	Vai šī grāmata ir tava?
+It really happened.	Es patiešām esmu laimīgs.
+It's just not fair.	Tas vienkārši nav godīgi.
+It's now your turn.	Tagad ir tava kārta.
+Let me pay tonight.	Ļauj man spēlēt šovakar.
+Please don't argue.	Lūdzu, nestrīdieties!
+Please don't argue.	Lūdzu, nestrīdies!
+She has seven sons.	Viņai ir septiņi dēli.
+That won't be easy.	Tas nebūs viegli.
+Tom called me back.	Toms pasauca mani atpakaļ.
+Tom has passed out.	Toms ir atslēdzies.
+Tom is a great kid.	Toms ir labs puika.
+Tom is a smart kid.	Toms ir gudrs zēns.
+Tom is about to go.	Toms tulīt ies.
+Tom is at the door.	Toms ir pie durvīm.
+Tom is coming back.	Toms atgriezīsies.
+Tom kept screaming.	Toms turpināja kliegt.
+Tom leaned forward.	Toms paliecās uz priekšu.
+Tom might be upset.	Toms varētu būt apbēdināts.
+Tom said goodnight.	Toms pateica ar labunakti.
+Tom said something.	Toms pateica kaut ko.
+Tom stayed outside.	Toms palika ārā.
+Wait just a moment.	Pagaidi mirkli.
+We're just friends?	Mēs esam tikai draugi?
+What is it made of?	No kā tas ir izgatavots?
+Where will I sleep?	Kur es gulēšu?
+Whose room is this?	Kuram ir šī istaba?
+You've lost weight.	Tu pazaudēji svaru.
+Are these your skis?	Šīs ir tavas slēpes?
+Do you like cycling?	Vai tev patīk riteņbraukšana?
+He has a loud voice.	Viņam ir skaļa balss.
+He lives next to me.	Viņš dzīvo blakus man.
+He seemed to be ill.	Viņš izskatījās saslimis.
+How can people help?	Kā cilvēki var palīdzēt?
+I am sad to hear it.	Man ir skumji to dzirdēt.
+I bought milk today.	Es šodien nopirku pienu.
+I don't have a list.	Man nav saraksta.
+I don't like flying.	Man nepatīk lidot.
+I have to go to bed.	Man vajag iet gulēt.
+I know what I'll do.	Es zinu, ko es darīšu.
+I need some hangers.	Man vajag dažus pakaramos.
+I painted the house.	Es nokrāsoju māju.
+I sent you a letter.	Es tev nosūtīju vēstuli.
+I think you're nice.	Es domāju, ka tu esi jauks.
+I wanted an apology.	Es gribēju atvainoties.
+I'm tired of losing.	Es esmu noguris no zaudēšanas.
+I'm worried for you.	Es esmu noraizējies par tevi.
+I've never hurt Tom.	Es nekad neesmu sāpinājis Tomu.
+I've never hurt Tom.	Es nekad neesmu sāpinājusi Tomu.
+Is it even possible?	Vai tas maz ir iespējams?
+It is white as snow.	Tas ir balts kā sniegs.
+It's a long journey.	Tas ir garš ceļojums.
+Keep away from that.	Turies pa gabalu no tā.
+May I ask your name?	Vai es varētu pajautāt kā tevi sauc?
+My dad will kill me.	Mans tēvs mani nogalinās.
+Please give me that.	Lūdzu iedod man to.
+Read the book aloud.	Lasi grāmatu skaļi.
+Tell Tom I'm joking.	Pasaki Tomam, ka es jokoju.
+That's an imitation.	Tā ir imitācija.
+That's not a secret.	Tas nav noslēpums.
+That's not my fault.	Tā nav mana vaina.
+That's really weird.	Tas tiešām ir dīvaini.
+That's your opinion.	Tā ir tava izvēle.
+The news isn't good.	Ziņas nav labas.
+They aren't like us.	Viņi nav tādi kā mēs.
+They really did win.	Viņi tiešām neuzvarēja.
+Tom can't fire Mary.	Toms nevar atlaist Mariju.
+Tom could be groggy.	Toms varētu būt grīļīgs.
+Tom is a polite man.	Toms ir pieklājīgs cilvēks.
+Tom is a tour guide.	Toms ir gids.
+Tom is a tour guide.	Toms ir ceļvedis.
+Tom is back in town.	Toms ir atgriezies.
+Tom is barely alive.	Toms ir knapi dzīvs.
+Tom is disappointed.	Toms ir vīlies.
+Tom kicked the ball.	Toms iespēra pa bumbu.
+Tom let Mary escape.	Toms ļāva Marijai aizmukt.
+Tom often says that.	Toms bieži to saka.
+Tom rushed upstairs.	Toms steidzās augšup pa kapnēm.
+Tom sat impatiently.	Toms apsēdās uzreiz.
+Tom was pretty open.	Toms bija diezgan atklāts.
+We'll send somebody.	Mēs kādu aizsūtīsim.
+We're still nervous.	Mēs vēl esam nervozi.
+We're trying to win.	Mēs mēģinam uzvarēt.
+We're unimaginative.	Mēs neesam izdomas bagāti.
+What did you answer?	Ko tu atbildēji?
+Where's Tom's watch?	Kur ir Toma pulkstenis?
+You don't work here.	Tu šeit nestrādā.
+You have bad breath.	Tev ir slikta elpa.
+Call Tom immediately.	Zvani Tomam nekavējoties.
+Do you speak English?	Vai jūs runājat angliski?
+Do you speak English?	Vai tu runā angliski?
+Go and see who it is.	Ej un paskaties, kas tas ir.
+How many do you want?	Cik daudz tu gribi?
+I forget who said it.	Es aizmirsu kurš to teica.
+I know that he knows.	Es zinu, ka viņš zin.
+I like silent movies.	Man patīk mēmās filmas.
+I still think of Tom.	Es aizvien domāju par Tomu.
+I want to go skating.	Es gribu doties slidot.
+I wanted to meet Tom.	Es gribēju satikt Tomu.
+I wasn't too worried.	Es nebiju parāk uztraucies.
+I went out by myself.	Es izgāju viens pats.
+I wish I were famous.	Es vēlos kaut es būtu slavens.
+I won't eat anything.	Es neēdīšu neko.
+I won't sing tonight.	Es šonakt nedziedāšu.
+I'll always miss you.	Man tevis vienmēr pietrūks.
+I'll let you do that.	Es tev atļauju to darīt.
+I'm already a father.	Es jau esmu tēvs.
+I'm closing the door.	Es aizveru durvis.
+I'm happy to hear it.	Es priecājos to dzirdēt.
+It's a stupid system.	Tā ir stulba sistēma.
+It's an easy victory.	Tā ir viegla uzvara.
+It's an open meeting.	Tā ir atklāta tikšanās.
+Look at that red car.	Paskaties uz to sarkano mašīnu.
+Monkeys like bananas.	Pērtiķiem garšo banāni.
+Please lock the safe.	Lūdzu aizslēdz seifu.
+Should I include Tom?	Vai man vajadzētu iekļaut Tomu?
+They resumed walking.	Viņi turpināja iet.
+Tom is a good friend.	Toms ir labs draugs.
+Tom is already there.	Toms jau ir šeit.
+Tom is an old friend.	Toms ir mans vecs draugs.
+Tom needed your help.	Tomam vajag tavu palīdzību.
+Tom resumed speaking.	Toms atsāka runāt.
+Tom wore a straw hat.	Toms valkāja salmu cepuri.
+We can't give up now.	Mēs nevaram padoties.
+We did nothing wrong.	Mēs neizdarījām neko sliktu.
+We didn't do a thing.	Mēs neko nedarījām.
+We need your support.	Mums vajag jūsu atbalsu.
+We're being cautious.	Mēs esam piesardzīgi.
+We're being cautious.	Mēs esam uzmanīgi.
+When's your birthday?	Kad ir tava dzimšanas diena?
+Where is the problem?	Kur ir problēma?
+Who's Tom looking at?	Uz ko skatās Toms?
+Who's Tom looking at?	Uz ko Toms skatās?
+Why should they hide?	Kāpēc viņiem būtu jāslēpjas?
+Will you come or not?	Tu nāksi vai nenāksi?
+Yesterday was Sunday.	Vakar bija Svētdiena.
+Your son is a genius.	Tavs dēls ir ģēnijs.
+Your son is a genius.	Jūsu dēls ir ģēnijs.
+Are pies hard to make?	Vai pīrāgus ir grūti pagatavot?
+Are you in a bad mood?	Vai tev ir slikts garastāvoklis?
+Bananas are delicious.	Banāni ir gardi.
+Do you need this book?	Vai tev vajag šo grāmatu?
+Does Tom have an iPad?	Vai Tomam ir iPad?
+Everyone else does it.	Visi citi to dara.
+How long did you stay?	Cik ilgi tu paliki?
+How much is rye flour?	Cik maksā rudzu milti?
+I didn't want to lose.	Es negribēju zaudēt.
+I know Tom lied to us.	Es zinu, ka Toms mums sameloja.
+I know what Tom likes.	Es zinu kas Tomam patīk.
+I met her an hour ago.	Es viņu satiku pirms stundas.
+I need a box of nails.	Man vajag naglu kasti.
+I need to feed my dog.	Man ir jāpabaro mans suns.
+I usually get up at 8.	Es parasti ceļos astoņos.
+I'd like to know more.	Es gribētu uzzināt vairāk.
+I'll be there at 2:30.	Es tur būšu pulksten 2:30.
+I'll do that for sure.	Es to noteikti izdarīšu.
+I'll show you my room.	Es tev parādīšu savu istabu.
+I'll tell you a story.	Es tev pastāstīšu stāstu.
+I'm sure I'll do that.	Esmu pārliecināts, ka es to izdarīšu.
+Is your daughter here?	Vai tava meita ir šeit?
+It seems warm outside.	Šķiet ka ārā ir silts.
+Let's not go to class.	Neiesi uz klasi.
+That's good, isn't it?	Tas ir labi, vai ne?
+That's not an illness.	Tā nav slimība.
+They should apologize.	Viņiem vajadzētu atvainoties.
+This is going too far.	Tas ir aizgājis par tālu.
+Tom appeared confused.	Toms izskatījās apmulsis.
+Tom doesn't live here.	Toms šeit nedzīvo.
+Tom gave me that book.	Toms man iedeva to grāmatu.
+Tom has a good excuse.	Tomam ir labs attaisnojums.
+Tom has good eyesight.	Tomam ir laba redze.
+Tom hung up the phone.	Toms nolika klausuli.
+Tom is at the airport.	Toms ir pie lidostas.
+Tom resuscitated Mary.	Toms atdzīvināja Mariju.
+We climbed to the top.	Mēs uzkāpām līdz virsotnei.
+Who's Tom looking for?	Ko Toms meklē?
+Who's the best lawyer?	Kurš ir labākais jurists?
+You always seem tired.	Tu vienmēr izskaties noguris.
+Better late than never.	Labāk vēlu nekā nekad.
+Can you close the door?	Vai tu vari aizvērt durvis?
+Do you come here often?	Vai tu šeit nāc bieži?
+Has something happened?	Vai kaut kas ir noticis?
+He can't walk any more.	Viņš vairs nevar pastaigāt.
+He can't walk any more.	Viņš vairs nevar paiet.
+He didn't even read it.	Viņš pat to neizlasīja
+He said he could do it.	Viņš teica, ka varētu to izdarīt.
+How was your day today?	Kā tev šodien gāja?
+I can't help you today.	Es tev šodien nevaru palīdzēt.
+I don't agree with him.	Es viņam nepiekrītu.
+I don't have any plans.	Man nav nekādu plānu.
+I don't know the cause.	Es nezinu iemeslu.
+I don't like this show.	Man šis šovs nepatīk.
+I hope that it'll work.	Es ceru, ka tas strādās.
+I never had much money.	Man nekad nav bijis daudz naudas.
+I want to get involved.	Es gribu iesaistīties.
+I was happy I did that.	Es biju priecīgs, ka to izdarīju.
+I will gladly help you.	Es tev ar prieku palīdzēšu.
+I'll go meet them soon.	Drīz došos viņus satikt.
+I'll go meet them soon.	Es drīz tikšos ar viņiem.
+I'll stay if I want to.	Es palikšu, ja gribēšu.
+It doesn't surprise me.	Tas mani nepārsteidz.
+My TV has quit working.	Mans TV ir pārstājis darboties.
+Now, this is a problem.	Tagad tā ir problēma.
+Tell it to him, not me!	Saki to viņam, nevis man!
+That was really stupid.	Tas bija patiesi muļķīgi.
+That's a good question.	Tas ir labs jautājums.
+They suspected nothing.	Viņi neko nenojauš.
+Tom cut the wrong wire.	Toms pārgrieza nepareizo vadu.
+Tom doesn't believe me.	Toms man netic.
+Tom is all alone again.	Toms atkal ir pilnīgi viens.
+Tom is studying French.	Toms mācās Franču valodu.
+Tom needs our guidance.	Tomam ir vajadzīgas mūsu padoms.
+We haven't started yet.	Mēs vēl neesam sākuši.
+Well, where do I start?	Tātad, kur lai es sāku?
+What're we waiting for?	Ko mēs gaidām?
+What're we waiting for?	Ko jūs gaidāt?
+Why aren't you at work?	Kāpēc tu neesi darbā?
+Why do I feel this way?	Kāpēc es šādi jūtos?
+Will she get well soon?	Vai viņa drīz atlabs?
+You asked for our help.	Tu lūdzi mūsu palīdzību.
+You can't hypnotize me.	Tu nespēj mani hipnotizēt.
+You must do it at once.	Tev vajag beidzot to izdarīt.
+Can you fly an airplane?	Vai varat lidot ar lidmašīnu?
+Did he support her idea?	Vai viņš atbalstīja viņas ideju.
+Do you require our help?	Vai tev vajag mūsu palīdzību?
+He does not like tennis.	Viņam nepatīk teniss.
+He runs a lot of hotels.	Viņš vada daudzas viesnīcas.
+Her kindness touched me.	Viņas laipnība mani aizkustināja.
+How can you be so naive?	Kā tu vari būt tik naivs?
+How do you tolerate Tom?	Kā jūs paciešat Tomu?
+I can't just do nothing.	Es varu nedarīt neko.
+I don't blame you a bit.	Es tev neko nepārmetu.
+I don't blame you a bit.	Es jūs nemaz nevainoju.
+I don't care either way.	Man vienalga jebkurā gadījumā.
+I don't want to eat now.	Es tagad negribu ēst.
+I go there all the time.	Es tur eju visu laiku.
+I hope we'll meet again.	Es ceru, ka mēs tiksimies vēlreiz.
+I love to take pictures.	Man patīk fotogrāfēt.
+I think you're mistaken.	Es domāju, ka tu kļūdies.
+I'm good at many things.	Man padodas daudzas lietas.
+I've seen Tom in action.	Es esmu redzējis Tomu darbībā.
+If you want to cry, cry.	Ja tu gribi raudāt, raudi.
+It isn't the same thing.	Tas nav viens un tas pats.
+It was nice knowing you.	Bija jauki tevi pazīt.
+It's time for Tom to go.	Tomam ir laiks doties.
+She didn't need to come.	Viņai nevajadzēja nākt.
+She knocked on the door.	Viņa pieklauvēja pie durvīm.
+The skeptics were right.	Skeptiķiem bija taisnība.
+They know what happened.	Viņi zin, kas notika.
+Tom has no friends here.	Tomam šeit nav draugu.
+Tom is a visual thinker.	Toms ir vizuāls domātājs.
+Tom is my second cousin.	Toms ir mans otrais brālēns.
+Tom isn't being careful.	Toms nav piesardzīgs.
+Tom just didn't like it.	Tomam tas nepatika.
+Tom sat down on a bench.	Toms apsēdās uz soliņa.
+Tom stayed home all day.	Toms visu dienu palika mājās.
+Tom takes a bus to work.	Toms uz darbu dodas ar autobusu.
+Tom was driving a truck.	Toms vadīja kravas automašīnu.
+We don't even need this.	Mums pat to nevajag.
+We don't have any proof.	Mums nav nekādu pierādījumu.
+We wasted a lot of time.	Mēs izniekojām daudz laika.
+We've been kind of busy.	Mēs esam bijuši diezgan aizņemti.
+We've been there before.	Mēs jau tur esam bijuši.
+What did Tom talk about?	Par ko Toms runāja?
+What do you think of me?	Ko tu domā par mani?
+What're you looking for?	Ko tu meklē?
+Who are you calling for?	Uz ko jūs aicinājāt?
+Will you talk to me now?	Vai tu tagad runāsi ar mani?
+Will you talk to me now?	Vai jūs tagad runāsiet ar mani?
+You didn't miss a thing.	Tu neko nenokavēji.
+You don't look too good.	Tu neizskaties pārāk labi.
+You explained that well.	Tu to labi izskaidroji.
+You have plenty of time.	Tev ir daudz laika.
+All the supplies ran out.	Visi krājumi izsīka.
+Can you help me a little?	Vai tu man varētu nedaudz palīdzēt?
+Curiosity replaced shock.	Ziņkārība aizvietoja šoku.
+He drank a lot yesterday.	Viņš dzēra daudz vakar.
+He has never been abroad.	Viņš nekad nav bijis ārzemēs.
+He is too tired to study.	Viņš ir pārāk noguris, lai mācītos.
+He missed the last train.	Viņš nokavēja pēdējo vilcienu.
+He'll be glad to see you.	Viņš priecāsies tevi redzēt.
+He'll be glad to see you.	Viņš priecāsies jūs redzēt.
+How tall is your brother?	Cik garš ir tavs brālis?
+I advised Tom to go home.	Es ieteicu Tomam doties mājās.
+I can help if you'd like.	Es varu palīdzēt ja tu gribi.
+I can't help you do that.	Es nevaru tev palīdzēt to izdarīt.
+I don't like cold coffee.	Man nepatīk auksta kafija.
+I don't like you anymore.	Man tu vairs nepatīc.
+I go to school by subway.	Es dodos uz skolu ar metro.
+I hope she will get well.	Es ceru, ka viņai paliks labi.
+I knew Tom meant no harm.	Es zinu, ka Toms nedomāja ļaunu.
+I knew that we'd be late.	Es zināju, ka būsim vēlu.
+I saw it from the window.	Es to ieraudzīju no loga.
+I wonder if this is love.	Es domāju vai tā ir mīlestība.
+I'll call you right back.	Es tev tūlīt atzvanīšu.
+I'll study hard tomorrow.	Es rīt cītīgi mācīšos
+I'm glad you reminded me.	Es esmu priecīgs, ka tu man atgādināji.
+I'm not excited about it.	Es neesmu par to sajūsmā.
+I'm really glad you came.	Esmu ļoti priecīgs, ka tu atnāci.
+I've got nothing to hide.	Man nav nekas slēpjams.
+Mary is Tom's girlfriend.	Marijas draugs ir Toms.
+Maybe we should be quiet.	Varbūt mums vajadzētu būt klusiem.
+My room is next to Tom's.	Mana istaba atrodas blakus Toma istabai.
+That wasn't my intention.	Tas nebija mans nodoms.
+That's not going to help.	Tas nelīdzēs.
+The two boys are cousins.	Šie zēni ir brālēni.
+They became very nervous.	Viņi kļuva ļoti nervozi.
+This watch is waterproof.	Šis rokaspulkstenis ir ūdensizturīgs.
+Tom didn't say Mary lied.	Toms neteica, ka Mērija meloja.
+Tom is already in Boston.	Toms jau ir Bostonā.
+Tom returned immediately.	Toms atgriezās uzreiz.
+Tom went there yesterday.	Toms vakar tur devās.
+Tom will come back later.	Toms atgriezīsies vēlāk.
+Turtles don't have teeth.	Bruņurupučiem nav zobu.
+We appreciate his talent.	Mēs novērtējam viņa talantu.
+We should study together.	Mums vajadzētu mācīties kopā.
+Weigh yourself every day.	Nosveries katru dienu.
+What do you mean by that?	Ko tu ar to domā?
+Would you like to see it?	Vai tu gribētu redzēt to?
+You don't have to eat it.	Tev nevajag to ēst.
+You've already forgotten.	Jūs esat jau aizmirsis.
+Are you busy Friday night?	Vai tu esi aizņemts piektdienas vakarā?
+Are you busy Friday night?	Vai esat aizņemts piektdienas vakarā?
+Everyone, please be quiet.	Visi lūdz esat klusi.
+He can speak Russian, too.	Viņš ari var runāt Krieviski.
+He is a methodical person.	Viņš ir metodisks cilvēks.
+He seems to be in trouble.	Šķiet, ka viņam ir nepatikšanas.
+How do you pronounce this?	Kā tu šo izrunā?
+How many keys do you have?	Cik atslēgu jums ir?
+I can get anything I want.	Es varu dabūt visu, ko es gribu.
+I don't have many friends.	Man nav daudz draugu.
+I don't know how I did it.	Es nezinu kā es to izdarīju.
+I don't want you to worry.	Es negribu lai tu uztrauktos.
+I just couldn't afford it.	Es vienkārši nespēju to atļauties.
+I just want a normal life.	Es tikai vēlos normālu dzīvi.
+I need to know everything.	Man jāzin viss.
+I was terribly frightened.	Es biju ļoti nobijies.
+I won't need that anymore.	Man to vairs nevajadzēs.
+I'm having a heart attack.	Man ir sirdstrieka.
+I've been writing letters.	Es rakstīju vēstules.
+Our plan was unsuccessful.	Mūsu plāns bija neveiksmīgs.
+Please give me this money.	Lūdz iedod man šo naudu.
+Tell me what you find out.	Pastāsti man ko esi atklājis.
+They should ask Tom first.	Viņiem vispirms vajadzētu pajautāt Tomam.
+They're young and healthy.	Viņi ir jauni un veselīgi.
+Tom and I have a daughter.	Mums ar Tomu ir meita.
+Tom didn't look too happy.	Toms neizskatījās pārāk priecīgs.
+Tom isn't like other boys.	Toms nav tāds kā citi puiši.
+Tom lived for a long time.	Toms dzīvoja ilgi.
+Tom must've been tortured.	Toms droši vien tika spīdzināts.
+Tom plays volleyball well.	Toms labi spēlē volejbolu.
+Tom seems different today.	Toms šodien izskatās savādāk.
+Tom wanted to stay inside.	Toms gribēja palikt iekšpusē.
+Tom wants to set it right.	Toms grib to izlabot.
+Watch out for pickpockets.	Uzmanies no zagļiem.
+We were forced to do that.	Mēs tikām spiesti to darīt.
+What are you listening to?	Ko jūs klausāties?
+What do you suppose it is?	Kā tu domā, kas tas ir?
+What do you want for that?	Ko tu vēlies par to?
+What's your cousin's name?	Kads ir tava brālēna vārds?
+What's your cousin's name?	Kāds ir tavas māsīcas vārds?
+Why do we have to go home?	Kāpec mums vajag iet mājās?
+Wow, look at these prices!	Oho, paskaties uz šīm cenām!
+You don't need to explain.	Tev nav jāpaskaidro.
+You don't need to explain.	Jums nevajag paskaidrot.
+You must be really hungry.	Tu noteikti esi ļoti izsalcis.
+Your brother won't buy it.	Tavs brālis to nepirks.
+Can you guess what this is?	Vai vari uzminēt, kas šis ir?
+Can you guess what this is?	Vai varat uzminēt, kas šis ir?
+Did you see where Tom went?	Vai tu redzēji kur palika Toms?
+Do they have any good news?	Vai tev ir labi jaunumi.
+Do you ever wear a bow tie?	Vai tu kādreiz velc tauriņu?
+Do you know the bus driver?	Vai tu pazīsti autobusa vadītāju?
+He didn't order dinner yet.	Es vel nepasūtīju vakariņas.
+He is a teacher of English.	Viņš ir angļu valodas skolotājs.
+I assume that won't happen.	Es pieņemu, ka tas nenotiks.
+I can hear someone singing.	Es dzirdu kādu dziedam.
+I don't care what it costs.	Man vienalga, cik tas maksā.
+I don't have a spare shirt.	Man nav lieka krekla.
+I don't know what you mean.	Es nezinu ko tu ar to domā.
+I had a great time tonight.	Man bija lieliski šonakt.
+I heard you the first time.	Es tevi dzirdēju pirmo reizi.
+I started writing the book.	Es sāku rakstīt grāmatu.
+I think that it's sensible.	Manuprāt, tas ir prātīgi.
+I wish I could go to Japan.	Es vēlos kaut es varētu doties uz Japānu.
+I'd like to live in Europe.	Man patīk dzīvot Eiropā.
+I'll let you have this pen.	Es tev iedošu šo pildspalvu.
+I'll let you have this pen.	Es iedošu jums šo pildspalvu.
+I'll never make it in time.	Es nekad neuzspēšu laikā.
+I'll stay at home tomorrow.	Es rīt palikšu mājās.
+I'm not going to die today.	Es netaisos mirt šodien.
+Is your brother's name Tom?	Vai tava brāļa vārds ir Toms?
+It seems interesting to me.	Man tas liekas interesanti!
+It was one of those things.	Tā bija viena no tām lietām.
+Japan is full of surprises!	Japāna ir pārsteigumu pilna!
+Keep this to yourself, Tom.	Paturi šo pie sevis, Tom.
+No one lives in this house.	Šajā mājā neviens nedzīvo.
+Nobody lives in this house.	Šajā mājā neviens nedzīvo.
+She was washing the dishes.	Viņa mazgāja traukus.
+Should I wait for you here?	Vai man tevi vajadzēja gaidīt šeit?
+The cows are milked at six.	Govis tiek slauktas sešos.
+The flowers cheered her up.	Ziedi viņu uzmundrināja.
+They are eating a sandwich.	Viņi ēd sendviču.
+This car is very expensive.	Šī automašīna ir ļoti dārga.
+Tom has never milked a cow.	Toms nekad nav slaucis govi.
+Tom has to change his plan.	Tomam ir jāmaina savs plāns.
+Tom is already on the list.	Toms jau ir sarakstā.
+Tom is asleep on the bench.	Toms ir aizmidzis uz soliņa.
+Tom is asleep on the couch.	Toms ir aizmidzis uz dīvāna.
+Tom is awfully quiet today.	Toms šodien ir diezgan kluss.
+Tom is quite shy, isn't he?	Toms ir diezgan kautrīgs, vai ne?
+Tom traveled around Europe.	Toms ceļoja apkārt Eiropai.
+Tom walked around the farm.	Toms apgāja apkārt fermai.
+Tom works in a coffee shop.	Toms strādā kafejnīcā.
+Tom's death was unexpected.	Toma nāve bija negaidīta.
+We have to be very careful.	Mums jābūt ļoti uzmanīgiem.
+We'll certainly invite Tom.	Mēs noteikti ielūgsim Tomu.
+We've all been here before.	Mēs visi šeit jau esam bijuši.
+Well, I'm just checking in.	Es tikai piereģistrējos.
+What are you talking about?	Par ko tu runā.
+Ask her when she comes back.	Pajautā viņai kad viņa atgriezīsies.
+Do you want to go somewhere?	Vai vēlies kaut kur doties?
+Do you want to go somewhere?	Vai vēlaties kaut kur doties?
+Everyone should've listened.	Visiem vajadzēja klausīties.
+Everyone should've listened.	Ikvienam vajadzēja klausīties.
+He is almost always at home.	Viņš gandrīz vienmēr ir mājās.
+He was extremely mad at him.	Viņš bija ārkārtīgi dusmīgs uz viņu.
+He was extremely mad at him.	Viņš bija ārkārtīgi nikns uz viņu.
+How could you be so certain?	Kā tu vari būt tik drošs?
+I can teach you if you want.	Es varu jūs iemācīt, ja jūs to gribat.
+I don't know how I did that.	Es nezinu kā es to izdarīju.
+I enlisted in the Air Force.	Es brīvprātīgi pievienojos Gaisa spēkiem.
+I have to cook dinner today.	Man šodien jāpagatavo vakariņas
+I must go back to Australia.	Man jāatgriežas Austrālijā.
+I shouldn't have logged off.	Man nevajadzēja izlogoties.
+I try not to think about it.	Es mēģinu par to nedomāt.
+I will wait until she comes.	Es gaidīšu kamēr viņa atnāks.
+I won't try to convince Tom.	Es nemēģināšu pārliecināt Tomu.
+I'd like to get out of here.	Man gribētos no šejienes izkļūt.
+I'm an actress, not a model.	Es esmu aktrise, nevis modele.
+I'm sorry you feel that way.	Man ir žēl, ka tu jūties tā.
+I've never seen you so busy.	Es nekad neesmu redzējis tevi tik aizņemtu.
+It is said that she is rich.	Ir teikts, ka viņa ir bagāta.
+Let's not waste this chance.	Neizniekosim šo iespēju.
+She was almost hit by a car.	Viņu gandrīz notrieca mašīna.
+Stop playing with your hair.	Beidz spēlēties ar saviem matiem.
+Thanks for your explanation.	Paldies par paskaidrojumu.
+That was pretty interesting.	Tas bija diezgan interesanti.
+The dog didn't eat the meat.	Suns neapēda gaļu.
+They don't want you to know.	Viņi nevēlas, lai tu zini.
+Tom is good at playing golf.	Toms labi spēlē golfu.
+Tom said he's in Boston now.	Toms teica, ka viņš tagad ir Bostonā.
+Tom was obviously disgusted.	Tomam acīmredzami bija riebums.
+Tom's bank account is empty.	Toma bankas konts ir tukšs.
+We don't have time for this.	Mums tam nav laika.
+We really enjoyed ourselves.	Mēs tiešām izbaudījām paši sevi.
+Where are your credit cards?	Kur ir tava kredītkarte?
+Why don't you come visit us?	Kāpēc tu neapciemo mūs?
+You'll sleep better tonight.	Šonakt tu gulēsi labāk.
+You're a sailor, aren't you?	Jūs esat jūrnieks, vai ne?
+All beginnings are difficult.	Visi sākumi ir grūti.
+Can you tell me what this is?	Vai tu vari man pateikt, kas tas ir?
+Did you try to listen to her?	Vai tu mēģināji viņā ieklausīties?
+Dublin is located in Ireland.	Dublina atrodas Īrijā.
+Give me the report on Monday.	Atdodiet man ziņojumu Pirmdien.
+How's it going? Are you busy?	Kā iet? Vai tu esi aizņemts?
+I can't answer this question.	Es nevaru atbildēt uz šo jautājumu.
+I can't get Tom to slow down.	Es nevaru dabūt lai Toms piebremzētu.
+I can't get this lock opened.	Es nevaru šo slēdzeni atvērt.
+I can't recall who said that.	Es nevaru atcerēties kurš to teica.
+I don't think you understand.	Es nedomāju, ka tu saproti.
+I have to stay here with you.	Man ar tevi jāpaliek šeit.
+I just wanted to be near you.	Es tikai gribēju būt tev tuvumā.
+I wish I had a better memory.	Es vēlos, lai man būtu labāka atmiņa.
+I'd rather stay in the house.	Es labāk paliktu mājā.
+I've got a connecting flight.	Man ir lidojums ar pārsēšanos.
+It seemed strange to me, too.	Man arī tas likās savādi.
+My husband gave me a red car.	Mans vīrs man iedeva sarkanu mašīnu.
+Prices have dropped recently.	Cena ir kritusies nesen.
+She advised me where to stay.	Viņa man ieteica, kur palikt.
+She dressed up for the party.	Viņa ir saģērbusies ballītei.
+She let him drive on his own.	Viņa viņam ļāva braukt pašam.
+Some people relax by reading.	Daži cilvēki atpūšas lasot.
+That bed is very comfortable.	Tā gulta ir ļoti ērta.
+That shop has many customers.	Veikalam ir daudz apmeklētāju.
+That's got to stop right now.	Tam tūlīt jābeidzas.
+That's the only way to do it.	Ir tikai viens veids, kā to izdarīt.
+The car has just been washed.	Tikko nomazgāta automašīna.
+There are also fish that fly.	Ir arī zivs kas lido.
+Tom and Mary want to see you.	Toms un Marija vēlas jūs redzēt.
+Tom drove to the supermarket.	Toms piebrauca pie lielveikala.
+Tom hasn't changed very much.	Toms nav daudz mainījies.
+Tom is a bit older than Mary.	Toms ir mazliet vecāks par Mariju
+Tom is a martial arts expert.	Toms ir cīņas mākslu eksperts.
+Tom is vacuuming his bedroom.	Toms ar putekļsūcēju tīra savu guļamistabu.
+Tom says Mary is seldom late.	Toms saka, ka Marija reti kavējas.
+Tom wanted to wash his hands.	Toms gribēja nomazgāt rokas.
+Tom was inattentive in class.	Klasē Toms bija neuzmanīgs.
+Tom was inattentive in class.	Toms klasē bija nevērīgs.
+We all need to stay together.	Mums visiem jāpaliek kopā.
+We don't know where Tom went.	Mēs nezinam kur Toms palika.
+You're an artist, aren't you?	Tu esi mākslinieks, vai ne?
+Your daughters are beautiful.	Tava meita ir skaista.
+Has that ever happened before?	Vai tas jebkad ir noticis pirms tam?
+He climbed down from the tree.	Viņš nokāpa no koka.
+I admitted I'd made a mistake.	Es atzinu, ka esmu pieļāvusi kļūdu.
+I can do it without your help.	Es varu to izdarīt bez tavas palīdzības.
+I can only stay a few minutes.	Es varu palikt tikai uz dažām minūtēm.
+I didn't know what that meant.	Es nezinu ko tas nozīmē.
+I didn't know what to believe.	Es nezinu kam ticēt.
+I didn't want to shoot my dog.	Es nevēlos nošaut savu suni.
+I don't have to do that today.	Man to šodien nevajag darīt.
+I don't know what to tell you.	Es nezinu, ko lai tev saku.
+I don't like punk rock at all.	Man nemazs nepatīk roks.
+I don't want to die in prison.	Es nevēlos mirt cietumā.
+I don't want to do it anymore.	Es to vairs negribu darīt.
+I had intended to go shopping.	Es biju domājis doties iepirkties.
+I had to wait for a long time.	Man vajadzēja gaidīt ilgu laiku.
+I know how much money Tom has.	Es zinu, cik naudas Tomam ir.
+I know that Tom is a gardener.	Es zinu, ka Toms ir dārznieks.
+I plan to tell them about you.	Manos plānos ir viņiem pastāstīt par tevi.
+I think he was speaking Latin.	Es domāju, ka viņš runāja latīniski.
+I think that Tom is dangerous.	Es domāju, ka Toms ir bīstams.
+I'm sorry, I'm busy right now.	Es atvainojos, es šobrīd esmu aizņemts.
+Nothing much is happening yet.	Nekas nav noticis pagaidām.
+People should love each other.	Cilvēkiem vajadzētu mīlēt citam citu.
+Pick a letter of the alphabet.	Izvēlieties alfabēta burtu.
+Please take me to the airport.	Lūdzu aizvediet mani uz lidostu.
+Read it one more time, please.	Lūdzu, nolasiet to vēlreiz.
+She's really smart, isn't she?	Viņa ir ļoti gudra, vai ne?
+Streetcars run on electricity.	Ielu automobiļi darbojas ar elektrību.
+Thank you very much, everyone.	Liels paldies, visiem.
+That's what Tom will be doing.	Tas ir tas, ko Toms darīs.
+The cops won't find you there.	Policisti neatradīs tevi šeit.
+The meeting will end tomorrow.	Sanāksme beigsies rīt.
+The rain washed away the soil.	Lietus aizskaloja augsni.
+The topic is worth discussing.	Šo tēmu ir vērts apspriest.
+They did not have enough gold.	Viņiem nebija pietiekoši daudz zelta.
+They like to play in the snow.	Viņiem patīk spēlēties sniegā.
+This flower is very beautiful.	Šis zieds ir ļoti skaists.
+This place is large, isn't it?	Šī vieta ir liela, vai ne?
+Tom has never tried to escape.	Toms nekad nav mēģinājis izbēgt.
+Tom is Mary's current husband.	Toms ir Marijas pašreizējais vīrs.
+Tom is playing the violin now.	Toms šobrīd spēle vijoli.
+Tom went to school by bicycle.	Toms ar velosipēdu devās uz skolu.
+What are you doing here today?	Ko tu šodien te dari?
+What are you doing here today?	Ko jūs šodien šeit darāt?
+Why are you talking like that?	Kāpēc tu tā runā?
+Why are you talking like that?	Kāpēc jūs tā runājat?
+You should clean your glasses.	Jums vajadzētu notīrīt brilles.
+You still haven't answered me.	Tu joprojām neesi man atbildējis.
+All of my attempts have failed.	Visi mani mēģinājumi ir izgāzušies.
+Can't this wait until tomorrow?	Vai šitas nevar pagaidīt līdz rītdienai?
+He earns his living by writing.	Viņš nopelna viņa dzīvei rakstot.
+He sent his luggage in advance.	Viņš jau iepriekš nosūtīja savu bagāžu.
+How do you know this is a fake?	Kā jūs zināt, ka šitas ir viltojums?
+How do you know this is a fake?	Kā tu zini, ka šitas ir viltojums?
+I can't have any more children.	Man vairs nevar būt bērnu.
+I don't know when Tom met Mary.	Nezinu, kad Toms satika Mariju.
+I don't want to live by myself.	Es negribu dzīvot viens pats.
+I don't want to wait that long.	Es negribu gaidīt tik ilgi.
+I forgot to send you an e-mail.	Es aizmirsu jums nosūtīt e-pastu.
+I think you've come a long way.	Es domāju, ka jūs esat nogājis garu ceļu.
+I thought I put it right there.	Man likās, ka es to noliku tur.
+I'll be waiting at the station.	Es gaidīšu stacijā.
+It will cost around 10,000 yen.	Tas maksās aptuveni 10000 jēnu.
+It's not possible to stop here.	Ir neiespējami šeit apstāties.
+My husband is a very good cook.	Mans vīrs ir ļoti labs pavārs.
+Please start up the motor, Tom.	Lūdzu, iedarbini motoru, Tom.
+Put the cornbread on the table.	Noliec kukurūzas maizi uz galda.
+Say it clearly in a loud voice.	Saki to skaidri skaļā balsī.
+She asked how to cook the fish.	Viņa jautāja, kā pagatavot zivi.
+That surprises you, doesn't it?	Tas tevi pārsteidz, vai ne?
+There are some eggs in the box.	Tur ir dažas olas kastē.
+They're doing it by themselves.	Viņi to dara paši.
+Tom just couldn't help himself.	Toms nevarēja palīdzēt sev.
+Tom listened to some sad music.	Toms klausījās skumju mūziku.
+Tom locked his keys in his car.	Toms ieslēdza savas atslēgas mašīnā.
+Tom seems to have lost his key.	Toms izskatās, ka ir pazaudējis savas atslēgas.
+Tom stepped over the threshold.	Toms pārkāpa pār slieksni
+Tom stepped over the threshold.	Toms pārkāpa pāri slieksnim
+Tom wants to remodel his house.	Toms vēlas pārveidot savu māju.
+We don't want to take anything.	Mēs neko nevēlamies ņemt.
+We know that Tom is a busy man.	Mēs zinām, ka Toms ir aizņemts cilvēks.
+We were surprised by that news.	Mēs bijām pārsteigti par šo ziņu.
+We'll have time for that later.	Mums tam laiks būs vēlāk.
+What language are you speaking?	Kādā valodā jūs runājat?
+What language are you speaking?	Kādā valodā tu runā?
+What part don't you understand?	Kuru daļu tu nesaproti?
+Ask Tom if he'll stay in Boston.	Pajautā Tomam, vai viņš paliks Bostonā.
+Do not cast pearls before swine.	Neber cūkām pērles
+How often do you watch the news?	Cik bieži tu skaties ziņas?
+I already know a lot about that.	Es par to jau daudz zinu.
+I can't let Tom keep doing that.	Es nevaru ļaut Tomam turpināt to darīt.
+I didn't quite know what to say.	Es īsti nezināju, ko teikt.
+I guess it's too late to say no.	Šķiet, ka ir par vēlu atteikties.
+I have a house in the mountains.	Man kalnos ir māja.
+I have no time even for reading.	Man nav laika pat lasīšanai.
+I heard her singing in her room.	Dzirdēju, ka viņa dzied savā istabā.
+I never want to leave Australia.	Es nekad nevēlos pamest Austrāliju.
+I'm excited about the challenge.	Esmu saviļņots par izaicinājumu.
+I'm going to miss that somewhat.	Man tas mazliet pietrūks.
+I'm sure you can do even better.	Esmu pārliecināts ka tu to vari izdarīt vel labāk.
+I'm trying very hard not to cry.	Es ļoti cenšos neraudāt.
+It's not healthy to eat and run.	Nav veselīgi ēst un skriet.
+Learning French isn't difficult.	Mācīties franču valodu nav grūti.
+Look at that little hummingbird.	Paskat uz to mazo kolibri.
+That restaurant's too expensive.	Tas restorāns ir pārāk dārgs.
+That would be counterproductive.	Tas būtu neproduktīvi.
+The bride looked very beautiful.	Līgava izskatījās ļoti skaista.
+Tom really likes chocolate cake.	Tomam ļoti garšo šokolādes kūka.
+Tom told his dad what he'd done.	Toms savam tēvam pateica, ko izdarīja.
+Tom told his dad what he'd done.	Toms savam tēvam pateica ko esot izdarījis.
+Tom told his dad what he'd done.	Toms pastāstīja tētim, ko izdarījis.
+Tom wants the money you owe him.	Toms vēlas naudu, ko tu viņam esi parādā.
+Tom was beaming from ear to ear.	Toms staroja no auss līdz ausij.
+Tom wasn't wearing a lifejacket.	Toms nebija uzvilcis drošības vesti.
+We agonized over that for weeks.	Mēs par to mocījāmies vairākas nedēļas.
+We can depend on her to help us.	Mēs varam paļauties, ka viņa mums palīdzēs.
+We have to generate new revenue.	Mums ir jārada jauni ieņēmumi.
+We often talk about the weather.	Mēs bieži runājam par laika apstākļiem.
+We want you to have a good time.	Mēs gribam, lai jūs labi pavadītu laiku.
+We went for a walk on the beach.	Mēs devāmies pastaigā pa pludmali.
+What time do you arrive at work?	Cikos tu ierodies darbā?
+You can't put a price on a life.	Uz dzīvības nevar uzlikt cenu.
+You made fewer mistakes than me.	Jūs pieļāvāt mazāk kļūdu nekā es.
+Could you turn that down, please?	Vai tu, lūdzu, varētu to izslēgt?
+He has a brother and two sisters.	Viņam ir brālis un divas māsas.
+He's a professional photographer.	Viņš ir profesionāls fotogrāfs.
+How can these problems be solved?	Kā šīs problēmas var atrisināt?
+I can't make Tom wait any longer.	Es nevaru likt Tomam ilgāk gaidīt.
+I could come to Boston next week.	Bostonā es varētu ierasties nākamnedēļ.
+I could come to Boston next week.	Bostonā es varētu ierasties nākošnedēļ.
+I could come to Boston next week.	Es nākamnedēļ varētu atbraukt uz Bostonu.
+I haven't seen this movie before.	Šo filmu es neesmu pirmstam redzējis.
+I love you more than you love me.	Es mīlu tevi vairāk nekā tu mani mīli.
+I take the bus to work every day.	Es ar autobusu uz darbu dodos katru dienu.
+I thought the show was excellent.	Es domāju, ka šovs bija lielisks.
+I tore the newspaper into pieces.	Es saplēsu avīzi druskās.
+I've had a lot on my mind lately.	Es pēdējā laikā esmu daudz ko pārdomājis.
+Our original plan was to do that.	Mūsu sākotnējais plāns bija to darīt.
+She had the decency to apologize.	Viņai pietika pieklājības, lai atvainotos.
+Some even accused him of treason.	Daži pat apsūdzēja viņu nodevībā.
+The door is opened every morning.	Durvis ir atvērtas katru rītu.
+This poem was written last night.	Šis dzejolis tika uztakstīts pagājušonakt.
+Tom did that entirely on his own.	Toms to visu paveica pats.
+Tom didn't have any money on him.	Tomam nebija naudas.
+Tom has three gorgeous daughters.	Tomam ir trīs skaistas meitas.
+Tom has to do that before Monday.	Tomam tas ir jāizdara līz pirmdienai.
+Tom is likely to need to do that.	Tomam, visticamāk, tas būs jādara.
+Tom made us believe in ourselves.	Toms lika mums sev noticēt.
+We all had different assignments.	Mums katram bija atšķirīgi uzdevumi.
+We protested, but it was in vain.	Mēs protestējām, bet tas bija veltīgi.
+You're still a pilot, aren't you?	Tu joprojām esi pilots, vai ne?
+You've got to get me out of here.	Tev vajadzētu mani dabūt ārā no šejienes.
+Fortunately, the weather was good.	Par laimi, laiks ir labs.
+He came from a tiny mountain town.	Viņš nāca no mazas kalnu pilsētiņas.
+I had a horrible dream last night.	Man bija slikts sapnis pagājušajā naktī.
+I have no idea what that might be.	Man nav ne jausmas, kas tas varētu būt.
+I have to help Tom move the piano.	Man jāpalīdz Tomam pārvietot klavieres.
+I haven't done that yet this year.	Šogad to vēl neesmu izdarījis.
+I used to want to be an architect.	Es mēdzu gribēt kļūt par arhitektu.
+I want to buy a necklace for Mary.	Priekš Marijas es gribu nopirkt kaklarotu.
+It was a really interesting movie.	Tā bija patiešām interesanta filma.
+It's great! You'll laugh for sure.	Tas ir lieliski! Jūs smieties, noteikti.
+It's hard to get people to change.	Ir grūti panākt, lai cilvēki mainītos.
+Italy is a very beautiful country.	Itālija ir ļoti skaista valsts.
+Just look at the mess you've left.	Paskaties uz to bardaku, ko esi atstājis.
+My uncle lives next to the school.	Mans onkulis dzīvo blakus skolai.
+The plate slipped out of my hands.	Šķīvis izslīdēja viņam no rokām.
+The teacher told us a funny story.	Skolotājs mums izstāstīja smieklīgu stāstu.
+The world is full of crazy people.	Pasaule ir pilna ar trakiem cilvēkiem.
+Tom doesn't know when it happened.	Toms nezina, kad tas notika.
+Tom has a high threshold for pain.	Tomam ir augsts sāpju slieksnis
+Tom is both a doctor and a writer.	Toms ir gan ārsts, gan rakstnieks.
+Tom is safe and in good condition.	Toms ir drošībā un labā stāvoklī.
+Tom isn't like other boys his age.	Toms nav līdzīgs citiem zēniem viņa vecumā.
+Tom knew what he'd done was wrong.	Toms zināja, ka tas ko viņš tika darījis, bija aplami.
+We have a lot of snow in February.	Februārī mums ir daudz sniega.
+We must stand up for what's right.	Mums ir jāiestājas par to, kas ir pareizi.
+We've been here for quite a while.	Mēs šeit esam jau labu laiku.
+What you're suggesting won't work.	Tas, ko jūs iesakāt, nedarbosies.
+What's the best sleeping position?	Kāds ir labākais gulēšanas veids?
+What's the title of your new book?	Kāds ir Tavas jaunās grāmatas nosaukums?
+When you're done, you can go home.	Kad esi pabeidzis, vari doties mājās.
+You've got a great sense of humor.	Tev piemīt lieliska humora izjūta.
+Choose the color you like the best.	Izvēlies krāsu, kura tev patīk vislabāk.
+Do Tom and Mary know that I'm here?	Vai Toms un Marija zina, ka esmu šeit?
+Do they have water in their houses?	Vai viņu mājās ir ūdens?
+Don't forget to buy some eggs, too.	Neaizmirsti nopirkt arī dažas olas.
+He tends to ask a lot of questions.	Viņš mēdz uzdot daudz jautājumu.
+Helsinki is the capital of Finland.	Helsinki ir Somijas galvaspilsēta.
+I can't understand why he did that.	Es nesaprotu, kāpēc viņš tā darija.
+I don't think things will end well.	Nedomāju, ka viss beigsies labi.
+I don't want to get you in trouble.	Es nevēlos tevi ievilkt nepatikšanās.
+I know that money isn't everything.	Es zinu, ka nauda nav viss.
+I love you and I want to marry you.	Es mīlu tevi un gribu tevi precēt.
+I told Tom why I went to Australia.	Pastāstīju Tomam, kāpēc es devos uz Austrāliju.
+I want you to know that I love you.	Es gribu, lai tu zini, ka es tevi mīlu.
+I was glad to hear of your success.	Es priecājos dzirdēt par taviem panākumiem.
+I'll always remember your kindness.	Es vienmēr atcerēšos tavu laipnību.
+I'm three years younger than he is.	Es esmu trīs gadus jaunāks par viņu.
+It's not much of a surprise, is it?	Tas nav daudz priekš pārsteiguma, vai ne?
+It's too dark to play baseball now.	Ir pārāk tumšs, lai tagad spēlētu beisbolu.
+Maybe she wasn't talking about you.	Varbūt viņa nerunāja par tevi.
+Not all Germans like to drink beer.	Ne visiem Vāciem patīk dzert alu.
+That looks fun. I'd like to try it.	Tas izskatās jautri. Es labprāt to izmēģinātu.
+The daffodils are starting to wilt.	Narcises sāk vīst.
+This problem is difficult to solve.	Šo problēmu ir grūti atrisināt.
+Tom bought new laces for his shoes.	Toms nopirka jaunas šņores savām kurpēm.
+Tom enjoys listening to live music.	Tomam patīk klausīties dzīvajā mūzikā.
+Tom finally found his missing keys.	Toms beidzot atrada savas pazudušās atslēgas.
+Tom is always making witty remarks.	Toms vienmēr izsaka asprātīgas piezīmes.
+Tom kissed Mary gently on the lips.	Toms maigi noskūpstīja Mariju uz lūpām.
+Tom said he enjoys studying French.	Toms teica, ka viņam patīk mācīties franču valodu.
+Tom was caught sleeping on the job.	Toms tika pieķerts darbā guļot.
+Tom was very surprised at the news.	Toms bija ļoti pārsteigts par šiem jaunumiem.
+We couldn't find a public bathroom.	Mēs nevarējām atrast publisko tualeti.
+Why do you want to borrow my knife?	Kāpēc jūs vēlaties aizņemties manu nazi?
+You don't seem too happy to see me.	Tu neizskaties priecīgs mani redzot.
+From now on, we'll do that your way.	No šī brīža mēs to darīsim jūsu veidā.
+He came in and immediately sat down.	Viņš atnāca un uzreiz apsēdās.
+How often do you use your telephone?	Cik bieži tu izmanto savu telefonu?
+How often should you wash your hair?	Cik bieži vajadzētu mazgāt matus.
+How well do you know your neighbors?	Cik labi tu pazīsti savus kaimiņus?
+How will we get this done by Monday?	Kā mēs paspēsim to izdarīt līdz pirmdienai?
+How will we overcome these problems?	Kā mēs parvarēsim šo problēmu?
+How worried should we be about that?	Cik satrauktiem mums vajadzētu būt par to?
+How would you handle this situation?	Kā tu tiktu galā ar šo situāciju?
+How would your friends describe you?	Kā tavi draugi tevi aprakstītu?
+I know Tom isn't a very good artist.	Es zinu, ka Toms nav pārāk labs mākslinieks.
+I spent a few days in the mountains.	Es pavadīju dažas dienas kalnos.
+I thought that I put it right there.	Man likās, ka es to noliku tur.
+I want you to take it away from Tom.	Es gribu lai tu to atņem Tomam.
+I won't ask you anything else today.	Es tev šodien neko citu neprasīšu.
+I'll cook for you if you want me to.	Es tev pagatavošu ēst, ja vēlies.
+It's time to stock up on provisions.	Ir laiks papildināt krājumus
+Mother is in bed. She caught a cold.	Māte ir gultā. Viņai ir temperatūra.
+My hope is that that doesn't happen.	Es ceru, ka tas nenotiks.
+Please get there as fast as you can.	Lūdzu, tiec tur, cik ātri vien vari.
+Please go to the playground to play.	Lūdzu, ej uz spēļu laukumu spēlēties.
+Rescuing Tom will be very difficult.	Tomu glābt būs ļoti grūti.
+She has a delightful sense of humor.	Viņai ir brīnišķīga humora izjūta.
+Someone should've called the police.	Kādam vajadzēja izsaukt policiju.
+Spend some time with your kids, too.	Pavadi kādu laiku arī kopā ar saviem bērniem.
+The Rosetta Stone was found in 1799.	Rosetta akmens tika atrasts 1799 gadā.
+The clock is showing the wrong time.	Pulkstenis rāda nepareizu laiku.
+The fund was set up to help orphans.	Fonds tika izveidots, lai palīdzētu bāreņiem.
+The white boat went down the stream.	Baltā laiva devās lejup pa straumi.
+This wasn't an easy decision for us.	Šis mums nebija viegls lēmums.
+To be honest, I don't understand it.	Godīgi sakot, es to nesaprotu.
+To tell the truth, I don't like him.	Es saku taisnību, man viņš nepatīk.
+Tom had to learn French for his job.	Tomam priekš sava darbu bija jāmācās franču valoda.
+Tom said last night he might retire.	Toms vakar vakarā teica, ka varētu doties pensijā.
+Tom told me that he found something.	Toms man teica, ka ir kaut ko atradis.
+Tom was never very friendly to Mary.	Toms nekad nebija draudzīgs pret Mariju.
+Tom wasn't the one who gave me that.	Toms nebija tas kurš man to iedeva.
+Tom wasn't the one who told me that.	Toms nebija tas kurš to man pateica.
+Tom wrote Mary's number on a napkin.	Toms uz salvetes uzrakstīja Marijas numuru.
+We want to take your blood pressure.	Mēs vēlamies pārbaudīt jūsu asinsspiedienu.
+What do you think of our collection?	Ko tu domā par mūsu kolekciju?
+What was that song you were singing?	Kas tā par dziesmu, ko tu dziedāji?
+Why are people afraid of the police?	Kāpēc cilvēki baidās no policijas?
+Words can't convey my true feelings.	Vārdi nevar izteikt manas patiesās jūtas.
+You may come with us if you want to.	Tu vari nākt ar mums, ja vēlies.
+Are you saying that Tom is a traitor?	Vai tu saki, ka Toms ir nodevējs?
+Have you noticed anything suspicious?	Vai tu esi ievērojis kaut ko aizdomīgu.
+He is too young to go swimming alone.	Viņš ir pārāk jauns, lai dotos peldēties viens pats.
+I can't believe Tom really said that.	Es nespēju noticēt ka Toms to pateica.
+I didn't want to tell Tom about this.	Es nevēlējos Tomam stāstīt par šo.
+I don't care how much money you have.	Man ir vienalga, cik daudz naudas tev ir.
+I don't think Tom would've done that.	Es domāju ka Toms to nebūtu darijis.
+I had a hard time finding your house.	Man bija grūti atrast jūsu māju.
+I know him by sight, but not by name.	Es viņu pazīstu pēc skata, bet ne pēc vārda.
+I left the key at the reception desk.	Es atstāju atslēgu reģistratūrā.
+I'll probably study French next year.	Es, iespējams, nākamgad mācīšos franču valodu.
+I'm sorry. I didn't do it on purpose.	Man žēl. Es to negribēju darīt ar nolūku.
+Is it true that Tom wants to do that?	Vai tā ir taisnība, ka Toms vēlas to darīt?
+One cannot embrace the unembraceable.	Neviens nevar apskaut neapskaujamo.
+Shouldn't Tom be in Australia by now?	Vai Tomam jau nevajadzētu būt Austrālijā?
+The sidewalk is still a bit slippery.	Ietve joprojām ir mazliet slidena.
+Tom is hoping that Mary will do that.	Toms cer, ka Marija to izdarīs.
+Tom knew what was hidden in the cave.	Toms zināja, kas alā slēpjas.
+Tom looked more surprised than angry.	Toms izskatījās vairāk pārsteigts nekā dusmīgs.
+Tom prefers to park behind the house.	Toms labāk izvēlas novietot mašīnu aiz mājas.
+Tom pushed Mary off the diving board.	Toms nogrūda Mēriju no tramplīna.
+Tom ran so fast I couldn't catch him.	Toms skrēja tik ātri, ka es nespēju viņu noķert.
+Tom wanted to buy a present for Mary.	Toms gribēja nopirkt dāvanu Marijai.
+Tom will be able to do that, I think.	Es domāju, ka Toms spēs to izdarīt.
+We don't want anyone to find us here.	Mēs negribam, lai mūs šeit kāds atrod.
+We'll get through the jungle somehow.	Mēs kaut kā tiksim cauri džungļiem.
+Why would you do something like that?	Kāpēc lai tu kaut ko tādu darītu?
+Why would you do something like that?	Kāpēc lai jūs kaut ko tādu darītu?
+Wouldn't you like to know who she is?	Vai tev patiktos zināt, kas viņa ir?
+You apparently don't need to do that.	Tev acīmredzot to nevajag darīt.
+A wise man would not say such a thing.	Gudrs cilvēks neko tādu neteiktu.
+At least cereal has a long shelf life.	Vismaz graudaugu uzglabāšanas laiks ir ilgs.
+Can you show me where the bathroom is?	Vai varat man parādīt, kur ir vannas istaba?
+Do you know how to get to Tom's house?	Vai jūs zināt, kā tikt līdz Toma mājai?
+He is the fastest runner in our class.	Viņš ir ātrākais skrējējs mūsu klasē.
+How did you know Tom was going to die?	Kā tu zināji ka Toms nomirs?
+I asked him where I could park my car.	Es viņam jautāju, kur es varētu novietot mašīnu.
+I could hardly make out what she said.	Es tik tikko spēju saprast, ko viņa saka.
+I never dreamed that I would meet you.	Es nekad nesapņoju, ka tevi satikšu.
+I think that I can help you with that.	Es domāju, ka ar to es varu jums palīdzēt.
+I wonder how much you know about this.	Es domāju cik daudz tu zini par šo.
+I'll be out of town until next Monday.	Es būšu izbraucis līdz nākošajai pirmdienai.
+I'm getting tired of your complaining.	Es sāku nogurt no taviem pārmetumiem.
+I'm too old to do something like that.	Es esmu par vecu, lai darītu kaut ko tādu.
+I've already seen that movie, I think.	Es domāju, ka es esmu jau redzējis to filmu.
+I've probably already seen that movie.	Es droši vien esmu jau redzējis to filmu.
+It's not something that anyone can do.	Tas nav kaut kas tāds, ko var izdarīt jebkurš.
+The donkeys were carrying heavy packs.	Ēzeļi nesa smagas nastas.
+There is a traffic jam on the highway.	Uz šosejas ir satiksmes sastrēgums.
+This book isn't as heavy as that book.	Šī grāmata nav tik smaga kā tā grāmata.
+This is a picture of Tom and his wife.	Šī ir Toma un viņa sievas bilde.
+Tom almost always goes to work by car.	Toms gandrīz vienmēr uz darbu dodas ar mašīnu.
+Tom cut the wire and defused the bomb.	Toms pārgrieza vadu un atmīnēja bumbu.
+Tom said he knew it was time to leave.	Toms teica, ka zina, ka ir pienācis laiks doties prom.
+Tom said he wasn't allowed to do that.	Toms teica, ka viņam nebija ļauts to darīt.
+Tom wasn't able to solve that problem.	Toms nevarēja atrisināt to problēmu.
+Watch your step. The stairs are steep.	Skaties, kur liec kāju. Kāpnes ir stāvas.
+We should lock the door when we leave.	Mums vajadzētu aizslēgt durvis, kad mēs aizejam.
+We won't leave until the game is over.	Mēs nedosimies prom, kamēr spēle nebūs beigusies.
+Whatever you do, don't pull this rope.	Lai ko tu darītu, nevelc šo virvi!
+Would you like to drink a bit tonight?	Vai tu gribētu dzert šovakar?
+Are you going to eat that piece of pie?	Vai tu ēdīsi to pīrāga gabalu?
+Don't believe everything Tom tells you.	Netici visam, ko Toms tev saka.
+Have you ever been to a surprise party?	Vai esi kādreiz bijis uz pārsteiguma ballīti?
+Have you ever slipped on a banana peel?	Vai esat kādreiz paslīdējis uz banānu mizas?
+I didn't like my name when I was young.	Man nepatika mans vārds, kad es biju jauns.
+I found the key in Tom's jacket pocket.	Es atradu atslēgu Toma jakas kabatā.
+I want to send this by registered mail.	Es gribu nosūtīt šo no reģistrēta epasta.
+Let's stay calm and think this through.	Paliksim mierīgi un pārdomāsim visu līdz galam.
+She advised him to cut down on smoking.	Viņa ieteica viņam mazāk smēķēt.
+She is a member of the basketball club.	Viņa ir basketbola kluba biedre.
+The child was hiding behind a big tree.	Bērns slēpās aiz liela koka.
+The child was hiding behind a big tree.	Bērns slēpās aiz lielā koka.
+Tom also teaches geography and history.	Toms arī pasniedz ģeogrāfiju un vēsturi.
+Tom has been my friend for a long time.	Toms jau ilgu laiku ir mans draugs.
+Tom is going to do that in the morning.	Toms to izdarīs no rīta.
+Tom knew that what he'd done was wrong.	Toms zināja, ka tas ko viņš tika darījis, bija aplami.
+Tom said he often thinks about leaving.	Toms teica, ka bieži domā par aiziešanu.
+We had to wait for him for ten minutes.	Mums vajadzēja viņu gaidīt desmit minūtes.
+Are you sure it wasn't just an accident?	Vai esat pārliecināts, ka tas nebija tikai nelaimes gadījums?
+Do you think I haven't anticipated that?	Tu domā ka es to negaidiju.
+I know what you're thinking about doing.	Es zinu, ko tu domā darīt.
+I'd like to know why Tom has to do that.	Man gribētos zināt, kāpēc Tomam tas jādara.
+I'd like to know why you didn't do that.	Man patiktos zināt, kādēļ tu to nedarīji.
+I've been practising my serve for weeks.	Es praktizēju savu servi nedēļām ilgi.
+She got to the other side in 10 minutes.	Desmit minūšu laikā viņa nonāca otrā pusē.
+That's what I've always loved about you.	Tas ir tas, ko es vienmēr esmu mīlējis tevī.
+The last time I saw Tom he was barefoot.	Pēdējo reizi, kad es redzēju Tomu, viņš bija basām kājām.
+The roads are already covered with snow.	Ceļus jau pārklāj sniegs.
+There are more important things in life.	Dzīvē ir svarīgākas lietas.
+Tom and I weren't the ones who got lost.	Mēs ar Tomu nebijām tie, kas apmaldījās.
+Tom had nothing to do with that scandal.	Tomam ar to ķildu nebija nekāda sakara.
+Tom is in the kitchen, mashing potatoes.	Toms ir virtuvē un mīca kartupeļus.
+Tom is the tallest student in the class.	Garākais students klasē ir Toms.
+Tom obviously needs someone to help him.	Tomam noteikti vajag kādu, kas viņam palīdzētu.
+Tom was so moved that he started crying.	Toms bija tik aizkustināts, ka sāka raudāt.
+Why do you care what other people think?	Kāpēc tu uztraucies ko cilvēki domā?
+A green banana is not ripe enough to eat.	Zaļš banāns nav pietiekoši nogatavojies, lai to ēstu.
+Could you teach me how to play the piano?	Vai tu man iemācīsi kā spēlēt klavieres?
+He goes to sleep with the lights left on.	Viņš iet gulēt, atstājot gaismas ieslēgtas.
+He told me to meet him at the restaurant.	Viņš pateica, lai es viņu satieku restorānā.
+How did you manage to beat Tom at tennis?	Kā tev izdevās pārspēt Tomu tenisā?
+I clicked the link, but nothing happened.	Es klikšķināju uz mājaslapas, bet nekas nenotika.
+I know that Tom used to be a disc jockey.	Es zinu, ka Toms mēdza būt diskžokejs.
+I pray that you'll have the best of luck.	Es lūdzu, lai jums būtu veiksme.
+I spent a lot of time listening to music.	Daudz laika pavadīju, klausoties mūziku.
+I want the same jacket as you're wearing.	Es gribu to pašu jaku, kuru tu valkā.
+I want you to know you can stop worrying.	Es gribu, lai jūs zināt, ka varat pārtraukt satraukties.
+I've taken a job as a substitute teacher.	Es esmu ieņēmis darbu kā skolotāja aizstājējs.
+It would be a shame for you to miss this.	Tas būtu negods, ja tu to palaistu garām.
+That's mine. I don't know where yours is.	Tas ir mans. Es nezinu, kur ir tavs.
+The arrangement proved highly profitable.	Vienošanās izrādījās ļoti ienesīga.
+This is the house where she used to live.	Šī ir tā māja, kurā viņa dzīvoja.
+What was your first impression of Boston?	Kāds bija jūsu pirmais iespaids par Bostonu?
+What was your first impression of Boston?	Kāds bija tavs pirmais iespaids par Bostonu?
+You're a construction worker, aren't you?	Jūs taču esat celtnieks, vai ne?
+You've bitten off more than you can chew.	Tu esi nokodies vairāk nekā tu vari sakošļāt.
+I don't think that Tom would've done that.	Es domāju ka Toms to nebūtu darijis.
+I don't understand why Tom has to do that.	Es nesaprotu, kāpēc Tomam tas jādara.
+I don't understand why Tom should do that.	Es nesaprotu, kāpēc Tomam tas būtu jādara.
+I really don't understand what's so funny.	Es tiešām nesaprotu, kas tik smieklīgs.
+I suspect Tom won't wait very much longer.	Man ir aizdomas, ka Toms vairs ilgāk negaidīs.
+I'm not the only one here who can do that.	Es neesmu vienīgais, kurš to spēj izdarīt.
+In comparison with Tokyo, London is small.	Salīdzinājumā ar Tokiju, Londona ir maza.
+It's been a long time since I've seen you.	Ir pagājis ilgs laiks, kopš esmu tevi redzējis.
+It's been a long time since I've seen you.	Ir pagājis ilgs laiks, kopš esmu jūs redzējis.
+Let me introduce you to my beautiful wife.	Ļauj man tevi iepazīstināt ar manu skaisto sievu.
+My father gave it to me when I was little.	Tēvs man to iedeva, kad biju mazs.
+That guy got married and started a family.	Tas vīrietis apprecējās un sāka dibināt ģimeni.
+This bakery has the best pastries in town.	Šai maiznīcai ir vislabākās smalkmaizītes pilsētā.
+Tom promised to give me anything I wanted.	Toms man apsolīja dot visu, ko es gribu.
+Tom said Mary is going to help us do that.	Toms teica, ka Marija palīdzēs mums to izdarīt.
+Tom wouldn't laugh at something like that.	Toms nesmietos par kaut ko tādu.
+What kind of birds are there in Australia?	Kādi putni ir Austrālijā?
+When are your friends coming to Australia?	Kad tavi draugi ierodas Austrālijā?
+Why's Tom angry about something like that?	Kāpēc Toms ir dusmīgs par kaut ko tādu?
+He looked small next to my heavyset father.	Viņš izskatījās mazs stāvot blakus manam lielajam tēvam.
+He was standing at the top of the mountain.	Viņš stāvēja kalna galotnē.
+I don't want to hear another word about it!	Es nevēlos dzirdēt nevienu vārdu par to!
+I think you could've done this by yourself.	Es domāju, ka tu to būtu varējis izdarīt viens pats.
+I went rock climbing with Tom last weekend.	Pagājušajā nedēļas nogalē kopā ar Tomu devāmies klinšu kāpšanā.
+I wish I hadn't tried to do that by myself.	Kaut es nebūtu mēģinājis to izdarīt pats.
+I wish I hadn't tried to do that by myself.	Kaut es nebūtu mēģinājusi to izdarīt pati.
+I wonder if I'll really be able to do that.	Es brīnos, vai tiešām spēšu to izdarīt.
+If he'd known the truth, he'd have told me.	Ja viņš būtu zinājis patiesību, viņš man būtu pateicis.
+Let me know if you are in need of anything.	Dari man zināmu, ja tev kaut kas ir vajadzīgs.
+There used to be big trees around the pond.	Apkārt dīķim kādreiz bija lieli koki.
+Tom and Mary rode on the ski lift together.	Toms un Marija kopā brauca uz slēpošanas pacēlāja.
+Tom and Mary soon became very good friends.	Toms un Marija drīz kļuva par ļoti labiem draugiem.
+Tom said he knew that it was time to leave.	Toms teica, ka zina, ka ir pienācis laiks doties prom.
+Tom said that he knew it was time to leave.	Toms teica, ka zina, ka ir pienācis laiks doties prom.
+Tom said that he wasn't allowed to do that.	Toms teica, ka viņam nebija ļauts to darīt.
+We also did amputations. We had to do them.	Mēs arī veicām amputācijas. Mums tas bija jādara.
+We haven't seen you in the past four years.	Pēdējos četrus gadus mēs neesam tevi redzējuši.
+As soon as the dog saw me, it began to bark.	Tiklīdz kā suns mani ieraudzīja, tas sāka riet.
+He encouraged his son to do something great.	Viņš iedrošināja savu dēlu pasākt kaut ko lielisku.
+He has been studying French for eight years.	Viņš ir mācījies Franču valodu astoņus gadus.
+How much longer do you think this will take?	Kā jūs domājat, cik ilgi vēl tas prasīs?
+I can't believe I didn't even think of that.	Nespēju noticēt, ka es pat par to neiedomājos.
+I finished reading this novel in three days.	Šo romānu pabeidzu lasīt trīs dienu laikā.
+I found the banana on a steep mountain road.	Es uz stāva kalnu ceļa atradu banānu.
+I wonder how long this is going to continue.	Es brīnos, cik ilgi tas turpināsies.
+I'd like to get married to someone like you.	Es gribētu apprecēties ar tādu cilvēku kā tu.
+I'll lend you the tools you need to do that.	Es aizdošu jums nepieciešamos rīkus, lai to izdarītu.
+I'll tell you everything from the beginning.	Es tev izstāstīšu visu no paša sākuma.
+I'm looking forward to having some time off.	Ar nepacietību gaidu kādu laiku atpūsties.
+I've always wanted to visit another country.	Es vienmēr esmu gribējis apmeklēt citu valsti.
+If you don't enyoy it, why are you doing it?	Ja tas tev nesagādā prieku, tad kādēļ tu to dari?
+My hobby is taking pictures of wild flowers.	Mans hobijs ir fotografēt savvaļas puķes.
+Real friendship is more valuable than money.	Patiesa draudzība ir vērtīgāka par naudu.
+The police got to the scene of the accident.	Policija nokļuva negadījuma vietā.
+Tom plays the guitar almost as well as Mary.	Toms spēlē ģitāru gandrīz tikpat labi kā Marija.
+Tom pushed the button, but nothing happened.	Toms piespieda pogu, bet nekas nenotika.
+Tom says he doesn't wash his hair every day.	Toms saka, ka viņš nemazgā matus katru dienu.
+We'll probably need to talk to someone else.	Droši vien mums vajadzēs runāt ar kādu citu.
+What is the unemployment rate at the moment?	Kāds šobrīd ir bezdarba līmenis?
+Will you take care of my dog while I'm away?	Vai tu parūpēsies par manu suni kamēr es būšu prom?
+You'll find that doing that is a lot of fun.	Jūs sapratīsiet, ka to darīt ir ļoti jautri.
+You've given this some thought, haven't you?	Jūs par to esat mazliet padomājuši, vai ne?
+Are there any Japanese restaurants near here?	Vai šeit tuvumā ir kāds Japāņu restorāns?
+Don't talk about business while we're eating.	Nerunājiet par biznesu, kamēr mēs ēdam.
+Even though he apologized, I'm still furious.	Pat tad kad viņš atvainojis es joprojām esmu nikns.
+I didn't know you wanted to do that with Tom.	Es nezināju, ka ar Tomu tu vēlies to darīt.
+I had the same thing happen to me last month.	Pagājušajā mēnesī ar mani notika tas pats.
+I wonder whether Tom knew you had to do that.	Nez vai Toms zināja, ka tev tas jādara.
+She made a promise to write to me every week.	Viņa man solīja rakstīt katru nedēļu.
+The bad weather is responsible for the delay.	Par kavēšanos atbild sliktie laikapstākļi.
+Tom asked Mary to pick him up at the station.	Toms lūdza Marijai viņu sagaidīt stacijā.
+Tom doesn't think I'll be allowed to do that.	Toms nedomā, ka man to atļaus.
+Tom doesn't think he really needs to do that.	Toms nedomā, ka viņam tas patiešām ir jādara.
+Tom has been doing that for over three years.	Toms to dara jau vairāk kā trīs gadus.
+Tom isn't the only person who had to do that.	Toms nav vienīgais, kam tas bija jādara.
+Tom wondered what had made Mary start crying.	Toms brīnījās, kas Marijai lika sākt raudāt.
+You don't really want me to kiss you, do you?	Tu īsti nevēlies, lai es tevi nobučoju, vai ne?
+You'll have to learn all these dates by rote.	Tev būs jāpatur prātā visi šie datumi.
+Young people wear their hair long these days.	Mūsdienās jaunieši nēsā garus matus.
+As you can see, the roof needs to be replaced.	Kā var redzēt, jumts ir jānomaina.
+Has anyone ever told you what really happened?	Vai kāds tev kādreiz ir teicis, kas patiešām notika?
+How can you avoid the dangers of the Internet?	Kā var izvairīties no interneta briesmām?
+If Tom had time to do that, I'm sure he would.	Ja Tomam būtu laiks to darīt, esmu pārliecināta, ka viņš to darītu.
+It's going to be very lonely here without Tom.	Bez Toma šeit būs ļoti vientuļi.
+One of them is drunk. Can you guess which one?	Viens no viņiem ir piedzēries. Vai varat uzminēt, kurš?
+People die, but the things they create endure.	Cilvēki mirst, bet liekas, kuras viņi rada, paliek.
+She walked past him without even noticing him.	Viņa pagāja viņam garām, pat viņu neievērojot.
+They wanted to live in peace with the Indians.	Viņi ar Indiāņiem gribēja dzīvot mierā.
+This medicine is still not sold in pharmacies.	Šīs zāles joprojām netiek pārdotas aptiekās.
+Tom claimed he had been captured by the enemy.	Toms apgalvoja, ka ienaidnieks viņu sagūstījis.
+Tom said he'd be afraid to do that by himself.	Toms teica, ka viņam būtu bail pašam to darīt.
+When I got home, I found I had lost my wallet.	Atnākot mājās, es atklāju, ka esmu pazaudējis savu maku.
+Can you come to the meeting tomorrow afternoon?	Vai jūs varat ierasties uz sanāksmi rīt pēcpusdienā?
+He had to share the hotel room with a stranger.	Viesnīcas numuru viņam nācās dalīt ar svešinieku.
+He's making a lot of money in the stock market.	Viņš pelna daudz naudas akciju tirgū.
+I didn't think that we'd be allowed to do that.	Es nedomāju, ka mums to atļautu to darīt.
+I didn't think you really had to do that today.	Es nedomāju, ka tev šodien to tiešām vajadzēja darīt.
+I knew that Tom wasn't a reckless young fellow.	Es zināju, ka Toms nav pārgalvīgs jauneklis.
+My uncle lives in Madrid, the capital of Spain.	Mans onkulis dzīvo Spānijas galvaspilsētā Madridē.
+Sometimes things that happen do not make sense.	Dažreiz notiekošais ir neizprotams.
+That doesn't look like Tom's handwriting to me.	Man tas neizskatās pēc Toma rokraksta.
+Tom said he couldn't remember where Mary lived.	Toms teica, ka viņš nevarēja atcerēties, kur Marija dzīvoja.
+What kind of farm machinery do you need to buy?	Kāda saimniecības tehnika jums ir jāpērk?
+When I got home, I had a nice, ice-cold shower.	Kad es tiku mājās, es iegāju jaukā, ledainā dušā.
+Do you really have free tickets for the concert?	Vai patiešām ir bezmaksas biļetes uz šo koncertu.
+His words excited everyone, even the opposition.	Viņa vārdi aizrāva visus, pat opozīciju.
+I can't go to work today because I have the flu.	Es nevaru šodien iet uz darbu, jo man ir gripa.
+I don't think Tom wants to be my friend anymore.	Nedomāju, ka Toms vairs gribētu būt mans draugs.
+I feel the need to do something different today.	Es jūtu vajadzību darīt kautko citu šodien.
+If this doesn't work, we can try something else.	Ja tas nesanāk, varam pamēģināt ko citu.
+She asked him to stay, but he had to go to work.	Viņa lūdza viņam palikt, bet viņam bija jāiet uz darbu.
+That guy is always asking his parents for money.	Tas puisis vienmēr prasa saviem vecākiem naudu.
+Tom said that he knew that it was time to leave.	Toms teica, ka zina, ka ir pienācis laiks doties prom.
+You can have the seat by the window if you want.	Ja vēlaties, varat sēdēt pie loga.
+You will soon get accustomed to your new school.	Tu drīz iejutīsies savā jaunajā skolā.
+Everyone's waiting to see what's going to happen.	Visi gaida, lai redzētu, kas notiks.
+I thought Tom said he didn't want to get married.	Man likās, ka Toms teica, ka nevēlas precēties.
+I wonder if we'll ever figure out how to do that.	Nez, vai mēs kādreiz izdomāsim, kā to izdarīt.
+It doesn't matter to me. I'll leave it up to you.	Man tas nav svarīgi. Es to atstāšu jūsu ziņā.
+The queen was wearing a magnificent silver dress.	Karaliene bija ģērbusies krāšņā sudraba kleitā.
+This is the pen that he signed the document with.	Šī ir tā pildspalva ar kuru viņš parakstīja dokumentus.
+Tom plays the guitar almost as well as Mary does.	Toms spēlē ģitāru gandrīz tikpat labi kā Marija.
+Tom said he thought that the wine was quite good.	Toms teica, ka, viņaprāt, vīns bija diezgan garšīgs.
+Tom says that he doesn't wash his hair every day.	Toms saka, ka viņš nemazgā matus katru dienu.
+A gang of three robbed the bank in broad daylight.	Trīs cilvēku banda skaidrā dienas laikā aplaupīja banku.
+I did not watch TV but studied English last night.	Es vakarnakt neskatījos televizoru, bet mācījos angļu valodu.
+I hate when other people make me wait a long time.	Man nepatīk, ka citi cilvēki liek man ilgi gaidīt.
+I know that Tom doesn't want to do that right now.	Es zinu, ka Toms nevēlas to pašlaik darīt.
+I know that Tom doesn't want to do that right now.	Es zinu, ka Toms šobrīd negrib to darīt.
+My parents and I moved to Boston when I was three.	Kad man bija trīs gadi, mēs ar vecākiem pārcēlāmies uz Bostonu.
+My physics teacher doesn't care if I skip classes.	Manu fizikas skolotāju neuztrauc, ja es bastoju stundas.
+Tom said that Mary didn't have a driver's license.	Toms teica, ka Marijai nebija autovadītāja apliecības.
+We wondered what would happen after Tom showed up.	Mēs prātoju, kas notiktu pēc tam, kad Toms atnāktu.
+I don't think that we have to do that this morning.	Es nedomāju, ka mums tas ir jādara šorīt.
+This is an express train. It won't make many stops.	Šis ir ātrvilciens. Tam nebūs daudz pieturu.
+Tom didn't know that Mary had already bought bread.	Toms nezināja, ka Marija jau bija nopirkusi maizi.
+Tom doesn't have to go there if he doesn't want to.	Tomam uz turieni nav jādodas, ja viņš to nevēlas.
+Would you like for me to make you something to eat?	Vai gribi, lai pagatavoju tev kaut ko ēdamu?
+I assumed there must be something else we had to do.	Es pieņemu, ka bija vēl kaut kas, ko mums vajadzēja izdarīt.
+I drank more than I should've at last night's party.	Es izdzēru vairāk, nekā man būtu vajadzējis iepriekšējā vakara ballītē.
+I'm very grateful for everything you've done for me.	Esmu ļoti pateicīgs par visu, ko esi darījis manā labā.
+Tom stayed in Australia with the rest of the family.	Toms palika Austrālijā ar visu ģimeni.
+Tom took Mary to a beachfront restaurant for dinner.	Toms aizveda Mariju uz pludmales restorānu vakariņās.
+We shouldn't judge people based on their appearance.	Mums nevajadzētu spriest par cilvēkiem, balstoties uz to, kā viņi izskatās.
+All I want to do is close my eyes and get some sleep.	Es gribu tikai aizvērt acis un iemigt
+I don't have much money, but I can get along somehow.	Man nav daudz naudas, bet es kaut kā varu iztikt.
+The last few days have been very busy for both of us.	Pēdējās dienas mums abiem ir bijušas ļoti noslogotas.
+Addition and subtraction are functions of mathematics.	Saskaitīšana un atņemšana ir matemātiskās funkcijas.
+I heard Tom speak French yesterday for the first time.	Vakar pirmo reizi dzirdēju Tomu runājam franču valodā.
+I know that Tom already knows why Mary didn't do that.	Es zinu, ka Toms jau zina, kāpēc Marija to nedarīja
+Tom is left-handed, but he writes with his right hand.	Toms ir kreilis, bet viņš raksta ar labo roku.
+Tom quietly opened the door and tiptoed into the room.	Toms klusi atvēra durvis un uz pirkstgaliem iegāja istabā.
+We have an hour's recess for lunch from twelve to one.	Mums ir stundas pārtraukums pusdienās no divpadsmitiem līdz vieniem.
+Can you remember the first word you learned in English?	Vai tu atceries pirmo vārdu, kuru tu iemācījies angļu valodā?
+Finishing the report by tomorrow is next to impossible.	Līdz rītdienai pabeigt atskaiti ir gandrīz neiespējami.
+Small businesses are often absorbed by a major company.	Mazus uzņēmumus bieži pārņem liela kompānija.
+There was nothing but sand as far as the eye could see.	Bija tikai smiltis manā redzeslokā.
+There was nothing but sand as far as the eye could see.	Tik tālu, cik vien acis varēja saskatīt, bija tikai smiltis.
+Tom said that he didn't want to see or speak to anyone.	Toms teica, ka nevēlas ne redzēt, ne runāt ar kādu.
+Tom wanted Mary to play his favorite song on the piano.	Toms vēlējās, lai Marija uz klavierēm atskaņo viņa iecienītāko dziesmu.
+He is not the sort of man who counts on others for help.	Viņš nav tāds cilvēks, kurš paļaujas uz citu palīdzību.
+I had a feeling something like that was going to happen.	Man bija priekšnojauta, ka kaut kas tāds notiks.
+It was such an interesting book that I read it in a day.	Tā bija tik interesanta grāmata, ka es to izlasīju vienā dienā.
+Tom might've been there yesterday, but I didn't see him.	Toms iespējams tur bija vakar, bet es viņu neredzēju.
+"Could you do this instead of me?" "Sorry, I'm too busy."	''Vai tu to varētu izdarīt manā vietā?'' ''Piedod, es esmu pārāk aizņemts.''
+I don't think I'll ever be able to afford to buy a house.	Nedomāju, ka kādreiz varēšu atļauties nopirkt māju.
+I've kept you waiting for a long time. Please forgive me.	Es tev liku ilgi gaidīt. Lūdzu piedod man.
+Tom said that he doesn't think Mary should do that again.	Toms teica, ka viņš neuzskata, ka Marijai tas būtu jādara atkal.
+What percentage of the students are admitted to colleges?	Procentuāli cik studentu tiek uzņemti koledžās?
+He was wearing black trousers and a beautiful white shirt.	Viņš valkāja melnas bikses un skaistu baltu kreklu.
+His mother has been running a drugstore for fifteen years.	Viņa māte jau piecpadsmit gadus vada aptieku.
+I have to tell her that the phone rang while she was gone.	Man viņai jāpasaka, ka telefons iezvanījās, kamēr viņa bija prom.
+It almost scared me not to see you online for a whole day.	Neredzot tevi tiešsaistē veselu dienu, tu mani gandrīz pārbiedēji.
+Now's the time to decide if you want to go with us or not.	Tagad ir laiks izlemtu vai tu vēlies iet ar mums, vai nē.
+Tom is having trouble deciding whether or not to go there.	Tomam ir grūti izlemt, vai doties uz turieni vai ne.
+Would you read my letter and correct the mistakes, if any?	Vai tu izlasītu manu vēstuli un izlabotu kļūdas, ja tādas būtu?
+If you get scared during the night, just turn on your light.	Ja tu nobīsties pa nakti, vienkārši ieslēdz gaismu.
+I certainly had no idea that Tom was going to move to Boston.	Man noteikti nebija ne jausmas, ka Toms pārcelsies uz Bostonu.
+I didn't have enough money to buy everything I wanted to buy.	Man nepietika naudas, lai nopirktu visu, ko gribēju nopirkt.
+It's unlikely that tomorrow's meeting will last over an hour.	Maz ticams, ka rītdienas tikšanās ilgs vairāk kā stundu.
+We wouldn't have asked Tom to come if we didn't want him here.	Mēs nebūtu lūguši Tomu ierasties, ja mēs viņu šeit negribētu.
+And if we have time, I'd like to take a look at their cosmetics.	Un, ja mums ir laiks, es gribētu apskatīt viņu kosmētiku.
+He's a good guy now, so he'll make a good husband in the future.	Viņš ir labs vīrietis tagad tātad viņš būs labs vīrs nākotnē.
+Tom said that the doctor told him Mary wasn't likely to recover.	Toms teica, ka ārsts viņam teica, ka Marija, visticamāk, neatveseļosies.
+Tom is looking for someone who can babysit his kids Monday night.	Toms meklē kādu, kas varētu auklēt viņa bērnus pirmdienas vakarā.
+Tom said Mary would be willing to babysit our kids Monday evening.	Toms teica, ka Marija būtu ar mieru pirmdienas vakarā auklēt mūsu bērnus.
+I think that it'll taste better if you add a little salt and pepper.	Es domāju, ka tas garšos labāk, ja pievienosi mazliet sāli un piparus.
+Tom put his bags in the trunk, then hopped in the car and drove off.	Toms ielika savas somas bagāžniekā, tad ieleca mašīnā un aizbrauca.
+I hate myself for not having the will power to quit eating junk food.	Es ienīstu sevi, ka man nav gribasspēka lai atmests ātro ēdienu ēšanu.
+I know that Tom is a detective, but I don't know much else about him.	Es zinu, ka Toms ir detektīvs, bet neko citu par viņu nezinu.
+I don't think that we're going to be able to be at your party tonight.	Es nedomāju, ka mēs šovakar varēsim būt jūsu ballītē.
+In addition to water, sunshine is absolutely necessary for plant life.	Papildus ūdenim saules gaisma ir absolūti nepieciešama augu dzīvībai.
+You don't need to lower the price. People will pay what you're asking.	Nevajag pazemināt cenu. Cilvēki maksās to, ko prasāt.
+Tom said that he thought Mary might be permitted to do that by herself.	Toms teica, ka, viņaprāt, Marijai varētu būt atļauts to darīt pašai.
+You are supposed to take off your shoes when entering a house in Japan.	Ir pieņemts, ka jānovelk apavi, ieejot Japānas mājā.
+I don't think that I'm the only one who's worried about what Tom might do.	Es nedomāju, ka esmu vienīgais, kurš uztraucas par to, ko Toms varētu darīt.
+I was going to try to get into Tokyo University, but I've changed my mind.	Es grasījos doties uz Tokijas universitāti, taču esmu pārdomājis.
+I think that I'm going to get the chance to do that the day after tomorrow.	Domāju, ka man būs iespēja to izdarīt parīt.
+I wonder if keeping your head down and living safely is a survival instinct.	Es brīnos, vai turot savu galvu uz leju un dzīvojot droši ir izdzīvošanas instinkts?
+Tom seems to be unwilling to even consider the possibility that he is wrong.	Šķiet, ka Toms nevēlas pat apsvērt iespēju, ka viņam nav taisnība.
+You need to stop talking all the time and start listening to what others say.	Tev vajadzētu beigt runāt visu laiku un sākt klausīties to, ko es saku.
+You need to stop talking all the time and start listening to what others say.	Jums jāpārtrauc visu laiku runāt un jāsāk klausīties citu teiktajā.
+The country must import a high proportion of its food, mainly from New Zealand.	Valstij ir jāieved liela daļa savas pārtikas, galvenokārt no Jaunzēlandes.
+What I really want is for Tom to teach me how to play a few chords on my guitar.	Ko es patiešām gribu, lai Toms man iemāca, kā spēlēt dažus akordus uz mana ģitāras.
+In September 2017, Hurricane Irma destroyed 95% of the French side of Saint Martin.	2017. gada septembrī viesuļvētra Irma iznīcināja 95% no Senmartēnas Francijas puses.
+Mogadishu's main market offers a variety of goods, from food to electronic gadgets.	Mogadišu galvenais tirgus piedāvā dažādas preces, sākot no pārtikas līdz elektroniskiem sīkrīkiem.
+The Panama Canal was built by the US Army Corps of Engineers between 1904 and 1914.	Panamas kanālu laikā no 1904. līdz 1914. gadam uzbūvēja ASV armijas inženieru korpuss.
+An estimated 40% of the world's offshore oil production comes from the Indian Ocean.	Aptuveni 40% pasaules naftas ieguves jūrā tiek iegūti Indijas okeānā.
+As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972.	Kā Ceilona tā kļuva neatkarīga 1948. gadā; tās nosaukums tika mainīts uz Šrilanku 1972. gadā.
+Basutoland was renamed the Kingdom of Lesotho upon independence from the UK in 1966.	Pēc neatkarības no Apvienotās Karalistes 1966. gadā Basutolande tika pārdēvēta par Lesoto Karalisti.
+Costa Rica's impressive biodiversity also makes it a key destination for ecotourism.	Kostarikas iespaidīgā bioloģiskā daudzveidība padara to arī par galveno ekotūrisma galamērķi.
+From 2010 to 2017, the number of tourists visiting Iceland increased by nearly 400%.	No 2010. līdz 2017. gadam tūristu skaits, kas apmeklēja Islandi, palielinājās par gandrīz 400%.
+I know that Tom isn't the one who's supposed to tell Mary that she shouldn't do that.	Es zinu, ka Toms nav tas, kuram vajadzētu pateikt Marijai, ka viņai to nevajadzētu darīt.
+Where else are you going to find a guitar of this quality for such a reasonable price?	Kur vēl jūs atradīsit šādas kvalitātes ģitāru par tik pieņemamu cenu?
+In 1397, Norway was absorbed into a union with Denmark that lasted more than four centuries.	1397. gadā Norvēģija tika iekļauta savienībā ar Dāniju, kas ilga vairāk nekā četrus gadsimtus.
+In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China.	1931.-32. gadā Japāna okupēja Mandžūriju un 1937. gadā uzsāka pilna mēroga iebrukumu Ķīnā.
+In 1991, Croatia, Slovenia, and Macedonia declared independence, followed by Bosnia in 1992.	1991. gadā neatkarību pasludināja Horvātija, Slovēnija un Maķedonija, kam 1992. gadā sekoja Bosnija.
+A Malay trading port known as Temasek existed on the island of Singapore by the 14th century.	Malajiešu tirdzniecības osta, kas pazīstama kā Temaseka, pastāvēja Singapūras salā līdz 14. gadsimtam.
+In 1697, Spain ceded to the French the western third of the island, which later became Haiti.	1697. gadā Spānija atdeva frančiem salas rietumu trešdaļu, kas vēlāk kļuva par Haiti.
+Norway is a leading producer and the world's second-largest exporter of seafood, after China.	Norvēģija ir vadošā jūras velšu ražotāja un pasaulē otrā lielākā jūras velšu eksportētāja pēc Ķīnas.
+In 1971, Norway designated Bouvet Island and the adjacent territorial waters a nature reserve.	Norvēģija 1971. gadā Buvē salu un tai blakus esošos teritoriālos ūdeņus noteica par dabas rezervātu.

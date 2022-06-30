@@ -1,0 +1,1159 @@
+Help!	Sakóru!
+Really?	Tutô?
+Ask him.	Kutáng mu kayá.
+Go away.	Makó ka ken.
+Me, too.	Yákū man.
+Shut up!	Patúgut ka!
+Get lost!	Mabáting ka!
+Hurry up.	Lagwá mu.
+I'm sick.	Másakít ku.
+Let's go!	Makó tána!
+Let's go!	Tará na!
+Stand up!	Tálakád ka!
+Stand up!	Tikdó ka!
+Tom wept.	Kínyak ya i Tom.
+Use this.	Gamítan me iní.
+Don't ask.	Ému kukutáng.
+Excuse me.	Makílábas ku.
+Excuse me.	Panúpáya yukú.
+Of course!	Siémpre!
+Thank you.	Salámat.
+I am happy.	Masayá ku.
+I love you.	Kalugurán daká.
+I need you.	Kaylángan daká.
+She's mine.	Káku ya.
+Take a bus.	Mag-bus ka.
+We lost it.	Ábáting miyá.
+What is it?	Nánu ya?
+Who's free?	Nínung librí?
+Who's free?	Nínung timáwa?
+Are you mad?	Mamuláng ka?
+Don't worry.	Éka migáganakâ.
+How are you?	Kómustá ka?
+How are you?	Nínu íka?
+I live here.	Kéni ku makátuknáng.
+I'm at home.	Atyú ku king balé.
+I'm at home.	Atyú ku king kékamí.
+I'm at home.	Atyú ku king balé mi.
+I'm falling.	Mananábu ku.
+I'm thirsty.	Máwa kung danúm.
+Is it yours?	Kéka ya?
+Let's do it!	Gáwan táya!
+Let's do it.	Gáwan táya.
+Shall we go?	Makó tána?
+Tom is busy.	Okupádu ya i Tom.
+Tom is busy.	Abalá ya i Tom.
+Tom is down.	Atyú king lálam i Tom.
+What's this?	Nánu ya iní?
+Are you sure?	Sigúrádu ka?
+Can you come?	Miratáng ka?
+Do you drink?	Míminúm kang álak?
+Good evening.	Máyap a béngi.
+I don't know.	Éku bálû.
+I don't know.	Tabálû.
+I don't know.	Tabálu tâ .
+I like candy.	Burí ku ing kéndi.
+I read a lot.	Mapamásá ku.
+I want to go.	Bísa kung muntá.
+It was a lie.	Kaláramán itá.
+It's raining.	Múmurán.
+Let's not go.	E támu púpuntá.
+They all sat.	Línuklúk la ngan.
+They came in.	Línub la.
+They gave up.	Sínúku la.
+You go first.	Múna ka.
+Are you ready?	Makasadyá na ka?
+Are you tired?	Mapagál ka?
+I believe you.	Pániwalán daká.
+I believe you.	Pániwalán dakayú.
+I put it back.	Siblí ke.
+It was a gift.	Regálu ya.
+Just get back.	Bastá mibálik ka.
+Let's open it.	Busní táya.
+Listen to Tom.	Pakirámdamán me i Tom.
+Now you do it.	Gáwan mu na.
+That's enough.	Ustú na.
+That's my dog.	Yan ing ásu ku.
+They all died.	Méte la ngan.
+They all knew.	Bálu ra ngan.
+They all know.	Bálu ra ngan.
+They all left.	Méko la ngan.
+They all rose.	Tínikdo la ngan.
+They can help.	Makásáup la.
+They can wait.	Makápanayá la.
+They fixed it.	Linárin de.
+They found us.	Ikít dakamí.
+They found us.	Ápayntún dakamí.
+Tom is voting.	Mágbótu ya i Tom.
+We have plans.	Atín kamíng plánu.
+We have plans.	Atín támung plánu.
+Where are you?	Núkarín ka?
+You can do it.	Agyú mu.
+You're paying.	Íka ing mamáyad.
+Are you hungry?	Danúpan ka?
+Are you hungry?	Maránup ka?
+Can I help you?	Malyári dakáng sópan?
+Can we stop it?	Agyú táyang sabatán?
+Do we know you?	Kilála raká?
+Do you love me?	Kalugurán mukó?
+Don't get lost.	Éka mabábáting.
+Happy New Year!	Masáplálang Báyung Banwá!
+Hide that book.	Isalikút me ing librúng yan.
+I ate too much.	Míparakál ku péngan.
+I have no time.	Alá kung panaún.
+I need to work.	Kaylángan kung magóbra.
+I study Korean.	Mánigáral kung Koreanu.
+Is it safe now?	Ligtás na ngéne?
+Is that edible?	Malyári yang kanán yan?
+Isn't it scary?	E mákatákot?
+It's too large.	Masyádu yang maragúl.
+Leave me alone!	Lakwán mukú!
+Let me explain.	Burén mukúng mag-ispliká.
+Let me explain.	Burén yukúng mag-ispliká.
+Open your eyes.	Imulágat mo reng matá mu.
+They all drank.	Mínum la ngan.
+They all stood.	Tínikdo la ngan.
+They both died.	Paréu lang méte.
+They both work.	Paréu lang mágóbra.
+They bother me.	Pángabalánan dáku.
+They bought it.	Séli de.
+They buried it.	Kitkút de.
+They called me.	Ináus dáku.
+They came back.	Míbálik la.
+They caught me.	Árakáp dáku.
+They found Tom.	Ápayntún de i Tom.
+They found Tom.	Ikít de i Tom.
+Tom drank milk.	Mínum yang gátas i Tom.
+You're too big.	Masyádu kang maragúl.
+Are you married?	Talásáwa ka?
+Call the police!	Máus kang pulís!
+Congratulations!	Págmanánwan daká.
+Congratulations!	Págmanánwan dakayú.
+Did Tom go home?	Minúli ya i Tom?
+Do you eat meat?	Mámangán kang kárne?
+Do you know her?	Kilála me?
+Do you like tea?	Bisa kang tsa?
+How old are you?	Pilán nakáng banwá?
+I am very tired.	Mapagál kung mapagál.
+I have two cats.	Atín kung adwáng púsâ.
+I want that cat.	Burí ke ing púsang yan.
+I was a teacher.	Méstru ku kaníta.
+I was a teacher.	Méstra ku kaníta.
+I was a teacher.	Taláturú ku kaníta.
+I'll be waiting.	Manáya ku.
+I'm not chicken.	Éku matalóti.
+I've been wrong.	Migkámalí ku.
+I've had enough.	Sínáwá náku.
+It looked funny.	Lúpa yang mákatúlâ.
+It was freezing.	Mágyélu.
+It's phenomenal.	Mákapágmulála ya.
+Merry Christmas!	Paskwa Nin' Dispu!
+Natto is sticky.	Mapékat ing Natto.
+They all gasped.	Sínungá la ngan.
+They all looked.	Línáwe la ngan.
+They all smiled.	Tíníman la ngan.
+They all talked.	Migsalíta la ngan.
+They all walked.	Línákad la ngan.
+They believe it.	Pániwalán da.
+They can change.	Mályári lang magbáyu.
+They caught Tom.	Árakáp de i Tom.
+They didn't run.	Éla mílayî.
+They don't care.	Alá lang pakyalám.
+They don't help.	Éla sásáup.
+They drove home.	Migmanéu la paúlî.
+They found this.	Ikít de iní.
+This is a horse.	Kabáyu ya iní.
+Tom is clueless.	Alá yang kabalú-bálû i Tom.
+Tom is swimming.	Kákawé ya i Tom.
+Tom looks angry.	Lúpa yang mwa i Tom.
+Tom may be back.	Malyáring míbálik ne i Tom.
+Tom may be hurt.	Malyáring ménasakít ya i Tom.
+Tom was blinded.	Mébúlag ya i Tom.
+We can't see it.	E miyá ákákit.
+Where is my dog?	Núkarín ya ing ásu ku?
+You look stupid.	Lúpa kang makmák.
+Did I write that?	Sinúlat ku yan?
+Do you live here?	Kéni ka makátuknáng?
+Do you live here?	Kéni kayú pû makátuknáng?
+Do you live here?	Kéni ko pû makátuknáng?
+He loves fishing.	Burí na ing mámadwás.
+He loves fishing.	Burí na ing mánasán.
+I didn't like it.	Éke burî.
+I think Tom died.	King palagé ku méte ya i Tom.
+I want some food.	Bísa kung pámangán.
+I'm not a doctor.	Éku dóktor.
+I'm proud of you.	Págmaragúl daká!
+I'm taking notes.	Kúkwa kung "notes".
+Is this possible?	Posíbli iné?
+Is your mom home?	Atyú king balé ing imá mo?
+It was his fault.	Kasalánan na.
+It was his fault.	Kasaláná'na.
+No one here pays.	Aláng mámáyad kéni.
+They all entered.	Línub la ngan.
+They all giggled.	Gínalikgík la ngan.
+They all stopped.	Tínuknang la ngan.
+They all watched.	Ménalbé la ngan.
+They appear dead.	Lúpa lang mété na.
+They aren't dead.	Éla mête.
+They aren't here.	Alá lu kéni.
+They aren't rich.	Éla makwálta.
+They believe you.	Pániwalán daká.
+They believe you.	Pániwalán dakayú.
+They both smiled.	Paréu lang tíníman.
+They'll find Tom.	Ápayntún de i Tom.
+This dog is mine.	Káku ya iníng ásu.
+We close at 2:30.	Alás médya kamíng manyará.
+We have pictures.	Atín kamíng letratu.
+We'll be waiting.	Manáya kamí.
+What do you want?	Nánung burí mu?
+Where is the dog?	Núkarín ya ing ásu?
+Who did you kill?	Nínung péte mu?
+Who's in command?	Nínung mánibálâ.
+You wouldn't lie.	Éka maglarám.
+Your mom is here.	Atyú kéni ing imá mu.
+Are you a student?	Istúdyánti ka?
+Can you stay long?	Makāpaglambát ka?
+Did you know that?	Bálu mu itá?
+He died yesterday.	Méte ya nápun.
+I also like candy.	Yáku man burí ku ing kéndi.
+I am free of debt.	Librí ku king útang.
+I don't blame you.	E raká sasangkánan.
+I have a headache.	Másakít ku buntúk.
+I like candy, too.	Yáku man burí ku ing kéndi.
+I remember it all.	Átatandánan ku ngan.
+I see you reading.	Ákákit dakáng mámásâ.
+I'll wait for you.	Panáyan daká.
+I'll write to Tom.	Sulatánan ke i Tom.
+I'm as old as you.	Kasíngkatwá daká.
+It cannot be true.	E malyáring tutú itá
+It's a dictionary.	Tálabaldúgan ya.
+It's not my fault.	Éku kasalánan.
+Let's get it open.	Busní táya.
+She must be angry.	Sigúru mwa ya.
+Take the medicine.	Inumán me ing panúlu.
+They all listened.	Mékiramdám la ngan.
+They all screamed.	Gínulísak la ngan.
+They already knew.	Bálu ra na.
+They already know.	Bálu ra na.
+They already left.	Méko na la.
+They aren't there.	Alá lu karín.
+They aren't twins.	Éla kambál.
+They arrested Tom.	Dékap de i Tom.
+They arrested her.	Dékap de.
+They arrested him.	Dékap de.
+They arrested him.	Inaréstu de.
+They believed Tom.	Péniwalán de i Tom.
+They both coughed.	Paréu lang méngúkû.
+They both giggled.	Paréu lang gínalikgík.
+They can't escape.	Éla makátákas.
+They captured Tom.	Árakáp de i Tom.
+They don't listen.	Éla mákiramdám.
+They drank coffee.	Mínum lang kapé.
+They executed Tom.	Biníte de i Tom.
+They finally left.	Bandáng tawlí méko la.
+They followed Tom.	Tíkyan de i Tom.
+They followed you.	Tíkyan daká.
+They need to talk.	Kaylángan dang magsalítâ.
+Tom eats too fast.	Masyádu yang mabilís mangán i Tom.
+Tom gave it to us.	Binyé neng Tom kékamí.
+Tom got here late.	Tawlí yang míratáng kéni i Tom.
+We can solve this.	Álutás táya iní.
+We can solve this.	Álutás miyá iní.
+We were prisoners.	Présu kamí.
+We were prisoners.	Makásúkul kamí.
+We won the battle.	Sínambut kamí king labanán.
+What got into you?	Nínánu ka?
+What is your name?	Nánu ka lagyû?
+What is your name?	Nánu ka lagyú?
+Where do you live?	Núkarín ka makátuknáng?
+Whose bag is this?	Kanínu ya bag iní?
+Why would that be?	Óbat makanyán?
+You are my friend.	Kálugúran daká.
+Come along with us.	Túki ka kékamí.
+Come in, it's open.	Lungúb ka, makábusní ya.
+Do you like apples?	Burí mo reng mansánas?
+Do you remember me?	Átatandánan mukó?
+Don't tell my wife.	Ému sasabián king asáwa ku.
+Everyone likes him.	Burí re ngan.
+Everyone likes him.	Deng eganáganá burí re.
+He is a mere child.	Anák yā mû.
+Horses are animals.	Animál la reng kabáyu.
+I can't see my dad.	Éke ákit ing táta ku.
+I don't have a cat.	Alá kung púsâ.
+I don't understand.	Éku áintindián.
+I know your father.	Kilála ke ing tátang mu.
+I saw him just now.	Ikít ke pámu ngéni.
+I, too, like candy.	Yáku man maburí kung kéndi.
+Is this Tom's wife?	Iní ing asáwa nang Tom?
+It's too expensive.	Masyádu yang mal!
+Somebody is eating.	Atíng mámangán.
+That's the message.	Itá ing mensáhi.
+The bottle is full.	Sapák ya ing bóti.
+The bottle is full.	Mitmú ya ing bóti.
+They aren't stupid.	Éla makmák.
+They both screamed.	Paréu lang gínulísak.
+They came together.	Míabé-ábe la.
+They didn't answer.	Éla mékíbat.
+They found nothing.	Alá lang ápayntún.
+They found nothing.	Alá lang ikít.
+They work at night.	Béngi lang magóbra.
+This is Mary's dog.	Iní ing ásu nang Mary.
+This is Mary's dog.	Iní ing ásu nang Maria.
+This is Mary's dog.	Iní ing ásu nang Bayang.
+Tom drank too much.	Matálik yang mínum i Tom.
+Tom has green eyes.	Bérdi ya matá i Tom.
+Tom is a gentleman.	Métung yang máginû i Tom.
+Tom is in recovery.	Kákáyap ya i Tom.
+Watch them closely.	Pakálon mulá.
+Watch them closely.	Pakábantén mulá.
+We listen to music.	Mákiramdám keng músika.
+We urged Tom to go.	Pinílit miyáng muntá i Tom.
+We urged Tom to go.	Inamúyut miyáng muntá i Tom.
+We were retreating.	Mámatrás kamí.
+We're studying now.	Mágáral nakamí.
+What are you doing?	Nánánu ka?
+Where are you from?	Tagá núkarín ka?
+Where are you from?	Nu ka táu?
+Where did I put it?	Núkarín ke binílî?
+You are very brave.	Taganáng matápang ka.
+You're still young.	Anák ka pâ.
+Answer the question.	Pakíbatán me ing kutáng.
+Are you ready to go?	Makásadyá nakáng makó?
+Can you drive a car?	Byása kang magmanéung kótse?
+Could we meet again?	Malyári tang míkit pasibáyo?
+Do we need a Plan B?	Mángaylángan támung Plan B?
+Do you drink coffee?	Míminúm kang kapé?
+Don't you hear that?	Ému darámdamán itá?
+Get dressed quickly.	Lagwá mung miblás.
+Give me a ride home.	Isaké mukú paúlî.
+He gets up at seven.	Alás syéti yang migígísing.
+He made no response.	E mékíbat.
+Here's one I forgot.	Óyni ing métung a ákalingwán ku.
+I did it on purpose.	Sasaryán ku itá.
+I have to go to bed.	Kaylángan ku nang matudtúd.
+I know you are rich.	Bálu kung makwáltá ka.
+I made that for you.	Géwa ke yan pará kéka.
+I will be back soon.	Gad kung mibálik.
+I won't do it again.	Ékuna daptán pasíbáyu itá.
+I'll give it to Tom.	Ibyé ke kang Tom.
+I'll give it to you.	Ibyé ke kéka.
+I'll go and ask Tom.	Kutáng ku kang Tom.
+I'll make it simple.	Gáwan keng simplí.
+I'll make you happy.	Pasayán daká.
+Isn't it remarkable?	E mákapágmulálá itá?
+It's Tom's decision.	Kang Tom ya ing disisyún.
+It's just a fantasy.	Pantásya yā mú.
+My foot fell asleep.	Mépáta ya ing bitís ku.
+Take a look at that.	Lon me yan.
+The bottle is empty.	Alá yang lamán ing bóti.
+This is kind of fun.	Manyáman iní.
+Tom has a moustache.	Atín yang bigóti i Tom.
+Tom must be winning.	Sigúru sásambút ya i Tom.
+Tom used to be lazy.	Matamád ya i Tom kaníta.
+Tom used to be lazy.	Sadyá yang matamád i Tom.
+Tom's not a bad kid.	E ya marók a anák i Tom.
+What a lazy teacher!	Katamád a mestró!
+What have you taken?	Nánung ínum mu?
+What street is this?	Nánu yang dálan iní?
+Where are you going?	Núkarín ka muntá?
+Where does Tom live?	Núkarín ya makátuknáng i Tom?
+Where have you gone?	Núkarín ka mintá?
+Where is the toilet?	Núkarín ya ing kasilyás.
+You will be ignored.	Éraká sikasuán.
+Are you at home, too?	Atyú ka murín king kékayó?
+Do I have to pay you?	Kaylángan dakáng bayaránan?
+Do you speak English?	Byása kang Inglís?
+Do you study English?	Mánigáral kang Inglís?
+Everybody got scared.	Mítakútan la ngan.
+Everybody got scared.	Mítakútan la reng sablá.
+I can't fix the seat.	Éke alárin ing luklúkan.
+I think Tom did this.	King palagé ku i Tom ing gínawá kaníti.
+I was out for a walk.	Linwál ku bang maglakád-lakád.
+I'll be watching you.	Albén daká.
+Is this your bicycle?	Iní ing bisíkléta mo?
+It's a piece of cake.	Alá yang sákit.
+It's a waste of time.	Sáyang mu ing panaún.
+Life begins at forty.	Neng kwarénta mágumpisá ing bye.
+So what does it mean?	Nung makanyán, nánung kabáldúgan na?
+That was unrealistic.	E makatutwánan itá.
+They exchanged gifts.	Mípaglíbe lang rigálu.
+They finished eating.	Méyári lang mámángan.
+They stopped talking.	Tínuknáng lang sásabi.
+Tom can barely speak.	E maybúg makásábi i Tom.
+Tom won that contest.	Sínambút ya i Tom king liglígan a itá.
+We kissed each other.	Mípanúmâ kamí.
+Where is your father?	Núkarin ya ing táta mu?
+Where is your school?	Núkarín ya ing iskwéla mu?
+You've changed a lot.	Maragúl ing minaliwá kéka.
+A new idea came to me.	Atín kung aísip a báyung ideyá.
+A new idea came to me.	Atín kung aísip a báyung úkul.
+Are you free tomorrow?	Librí ka búkas?
+Did you see something?	Atín kang ikét?
+Do you believe in God?	Mániwála ka king Dios?
+Do you like to travel?	Burí mu ing mágbyáhe?
+Does anybody know him?	Atíng mákákilála kayá?
+Don't forget about us!	Émuké kakálingwán!
+He is not a physician.	Éya dóktor.
+He won't listen to me.	E bísang makíramdám káku.
+I have to go to sleep.	Kaylángan kung matudtúd.
+I hope it'll be quiet.	Sána tahímik ya.
+I've missed something.	Atín kung álaktón.
+Is your watch correct?	Istú ya ing riló mo?
+Is your watch correct?	Ustú ya ing riló mo?
+It could rain tonight.	Malyáring murán pótang béngi.
+It only happened once.	Mísan mu milyári.
+It wasn't you, was it?	Aliwá íka, e wárî?
+Like father, like son.	Nung makanánú ya ing táta, makanyán yā namán ing anák.
+Many people shop here.	Dakál lang táung mányalí kéni.
+My car ran out of gas.	Kégísanán yang gasolína ing kótsi ku.
+Nobody likes bad news.	Aláng makí burí king marók a balítâ.
+Nobody understands me.	Aláng mákáintindí káku.
+Nothing is impossible.	Aláng impusíbli.
+Please close the door.	Pakísará me ing pasbúl.
+Please iron the shirt.	Pakíplantsá me ing kamiséta.
+Summer is almost over.	Álus yarí na ing kaléldo.
+That's true, isn't it?	Tutú itá, e warî?
+They continued eating.	Sindú da ing pámamangán.
+They don't understand.	Éra áintindyán.
+They exchanged smiles.	Mípaglíbe lang tíman.
+They made me go there.	Pépapuntán dáku karín.
+This is a big mistake.	Maragúl a kamalián iní.
+Tom is drinking water.	Míminúm yang danúm i Tom.
+We can't go right now.	Éta makápuntá ngéni.
+We'll get another one.	Kumá tang aliwâ.
+What else do you need?	Nánu pang kaylángan mu?
+What's in these boxes?	Nánung lamán daréng kahún a réni?
+What's in these boxes?	Nánung atyú karéning kahún?
+What's your last name?	Nánu ka pilídu?
+What's your last name?	Nánu kayú pû pilídu?
+Where can we meet you?	Nu raká malyáring pakíkitán?
+Where can we meet you?	Nu rakayú malyáring pakíkitán?
+Where is the bathroom?	Núkarín ya ing bányu?
+You're stronger today.	Mas masikán ka ngéni.
+Did anybody follow you?	Atíng tínuki kéka?
+Did you lose something?	Atíng mébáting kéka?
+Do I have to do it now?	Kaylángan ku nang gáwan ngéne?
+Do whatever's required.	Gáwan mu ing anggáng kaylángan.
+Do you know the answer?	Bálu me ing pakíbat?
+Do you think I'm crazy?	King palagé mu mamuláng ko?
+Do you think Tom knows?	King palagé mu bálu nang Tom?
+He is good at handball.	Byása ya king handball.
+He isn't alone anymore.	Éne mágdilídíli.
+He said he could do it.	Agyú na kanú ngána.
+He's young and healthy.	Anák ya pâ ampóng masantíng ya katáwan ya.
+He's young and healthy.	Anák ya pâ ampóng masantíng ya mabúlas ya.
+I am off duty tomorrow.	Alá kung óbra búkas.
+I can't authorize that.	Éku malyáring paintulútan itá.
+I don't have any money.	Alá kung péra.
+I don't like it either.	Éke múrin burî.
+I don't speak Japanese.	Éku byásang Apón.
+I just want to hug you.	Burí raká mung kawlán.
+I know it's impossible.	Bálu kung imposíbli itá.
+I know it's impossible.	Bálu kung e malyári itá.
+I make lunch every day.	Aldó-aldó kung máglútung paugtwán.
+I said leave Tom alone.	Sábi ku paburén me i Tom.
+I spoke with my family.	Pékisabyán ke ing pamilyá ku.
+I was in the mountains.	Atyú ku king kabundúkan.
+I was in the mountains.	Atyú ku king kabundúkan kaníta.
+I wish I was in Boston.	Burí ku sâ atyú ku Boston.
+Is it a recent picture?	Báyu yang letráto?
+It doesn't surprise me.	Éku mágtaká.
+Look out of the window.	Tandó ka king áwang.
+Oh, don't be like that.	Ay, éka makanyán.
+She is a famous singer.	Métung yang sikát a mágkantá.
+She is younger than me.	Mas anák ya késa káku.
+Should we wait for you?	Panáyan daká?
+Thanks for the support.	Salámat king sáup.
+Thanks for the support.	Salámat king supórta.
+The clock is defective.	Atín yang diperénsya ing riló.
+The matter was settled.	Méyarégla na ing pisásabián.
+They burned themselves.	Sílab da ing saríli da.
+They continued walking.	Sindú da ing pámaglákad.
+They continued working.	Sindú da ing pámagóbra.
+They're waiting for it.	Pánáyan de.
+This is what'll happen.	Iní ing malyári.
+Tom is deaf in one ear.	Maklák ya king métung a balugbúg i Tom.
+Tom is still at school.	Atyú pa king iskwéla i Tom.
+Tom is watching TV now.	Mánalbé yang TV i Tom ngéni.
+Tom is watching TV now.	Lálbe yang TV i Tom ngéni.
+Tom made three changes.	Atlú lang pámagbáyu deng géwa nang Tom.
+Tom seems discontented.	Balámu e kunténtu i Tom.
+Tom will never do that.	Éna gáwan Tom itá.
+We are doing something.	Atíng keng gagáwan.
+We don't know just yet.	E mi pa bálû.
+What was the violation?	Nánu ing pámaglabág?
+What's your son's name?	Nánu ya lágyu ing anák mung laláki?
+Why don't you like Tom?	Ot éme burí i Tom?
+You can't possibly win.	Éka malyáring sumambút.
+You won't believe this!	Ému paniwalán iní!
+You won't believe this!	Éyu paniwalán iní!
+You're a strong person.	Masikán kang táu.
+All my friends like you.	Burí raká ngan deng kálugúran ku.
+Don't forget the ticket.	Éme kakálingwán ing tíket.
+He asked me where to go.	Kitnán náku nung núkarín muntá.
+He called a taxi for me.	Pénaus nákung táksi.
+He is eager for success.	Sabík yang magtagumpé.
+He was blind from birth.	Bulág ya kabaít na.
+How did Tom manage that?	Makanánu nang ápalyáring Tom itá?
+I asked Tom to call you.	Pépayáus daká kang Tom.
+I asked for grape juice.	Ményad kung katás ning úbas.
+I can't do this anymore.	Ékuná agyúng gáwan iní.
+I know Tom isn't guilty.	Bálu kung alá yang kasalánan i Tom.
+I want Tom to read this.	Burí ku básan neng Tom iní.
+I want to see you smile.	Burí rakáng ákit a títíman.
+I want to talk with Tom.	Burí keng pakísabián i Tom.
+I want you to follow me.	Burí kung tukyán mukú.
+I'm Tom's new secretary.	Yáku ing báyu nang sekrétaryang Tom.
+I'm at a loss for words.	Éku bálû nung nánung sabián ku.
+I've got to do this now.	Kaylángan keng gáwan iní ngéni.
+I've never flown before.	Éku pa mékasulagpó.
+Is my explanation clear?	Malíno ing kákung pámag-ispliká?
+Is my explanation clear?	Malíno ing kákung kapatágan?
+It's no longer that way.	Éna makanyán.
+It's time for the truth.	Panaún na pára king katutuán.
+My room has two windows.	Adwá ya áwang ing kwártu ku.
+My room is always clean.	Pané yang malínis ing kwártu ku.
+Now, take a deep breath.	Sigí, mangísnáwa kang malámam.
+That doesn't seem right.	Balámu e ustú itá.
+That was the scary part.	Itá ing dákeng mákatákut.
+The news made him happy.	Mésayá ya king balítâ.
+They entered cautiously.	Pakákalále lang línub.
+They looked down on him.	Mábabá la pagláláwe kayá kaníta.
+Tom didn't kill anybody.	Alá yang péte i Tom.
+Tom doesn't have a home.	Alá yang tuknángan i Tom.
+Tom got a bargain price.	Mékámura ya i Tom.
+What kind of man was he?	Nánu yang klásing táu?
+Who are you waiting for?	Ninúng pánáyan mu?
+Workers lost their jobs.	Mílakó la óbra deng mágobra.
+You never said anything.	Alá kang sinábi.
+"Tom's crying." "I know."	"Kíkyak ya i Tom." "Bálu ku."
+A glass of water, please.	Manyád nákung métung a básung danóm?
+Can't you go by yourself?	Éka makápuntáng dilí mo?
+Did I say I was finished?	Sinábi kung yarí náko?
+Do you believe in ghosts?	Mániwála ka karéng máglagé?
+Few people have two cars.	Dítak la mung táung makí adwáng kótsi.
+He doesn't have a sister.	Alá yang kapatád a babái.
+He has nobody to consult.	Alá yang kutnanán.
+He was happy being a Jew.	Masayá ya king pánga-Húdyu na.
+I can't live without you.	Éku kumabyé nung alá ka.
+I don't know what I know.	Éku bálu nung nánung bálu ku.
+I had some calls to make.	Atin kung kaylangang ausan.
+I'll call you back later.	Awsán daká king teléponú kaybát.
+I'll tell you everything.	Sabián ku ngan kéka.
+I'm ready for a vacation.	Makasadyá nákung magbakasyún.
+In a word, life is short.	King makúyad a salítâ, makúyad ing bye.
+It's still light outside.	Masálá pa king kilwál.
+Let's look in the closet.	Lumáwe ta king malatíng silíd.
+My prayers were answered.	Mípakíbatán la reng pangadí ku.
+No one's going to see us.	Aláng manákit kékatámu.
+Should I call the doctor?	Máus kung dóktor?
+Some people never listen.	Éla mákiramdám deng áliwang táu.
+Take a taxi to the hotel.	Mag-táxi ka papuntá king hotél.
+That's what I've ordered.	Yan ing inórder ku.
+The babies are screaming.	Mángulísak la reng bíngut.
+The book is on the table.	Atyú king bábo lamésa ing librú.
+The window was wide open.	Mábusní ya ing áwang.
+They continued searching.	Sindú da ing pámanintún.
+This car runs on alcohol.	Ing alcohol ing mágpagána king kótsing iní.
+Tom certainly was polite.	Taganáng magálang ya i Tom.
+Tom didn't recognize her.	Éne ákilálang Tom.
+Tom doesn't like me much.	Énáku makáing buríng Tom.
+Tom had a company to run.	Atín yang kumpanyáng pánibalán i Tom.
+Tom is out of the office.	Aláyu king upisína i Tom.
+Tom turned off the music.	Pitdá neng Tom ing músika.
+We didn't talk yesterday.	Éke mísabi nápun.
+We didn't talk yesterday.	E kamí mísabi nápun.
+What are you looking for?	Nánung páyntunán mu?
+Who turned off the light?	Nínung mématda king sulû?
+Who turned the light off?	Nínung mématda king sulû?
+Why don't we order pizza?	Ot e támu mag-order pizza?
+You can drive, can't you?	Makápagmanéu ka, e warî?
+Aren't you going to dance?	Éka tumérak?
+Can we really afford that?	Agyú táyá pin yan?
+Did you get Tom's message?	Ikwá me ing mensáhi nang Tom?
+Did you get Tom's message?	Ikwá ye ing mensáhi nang Tom?
+He said, "Leave me alone."	"Lakwán mukúng díli ku," ngána.
+I have a fear of the dark.	Tátákut ku king madalumdúm.
+I have no home to live in.	Alá kung baléng tuknangán.
+I knew I'd seen it before.	Bálu ku nang ikít ku ne.
+I left my shoes at school.	Likwán ko reng sapátus king iskwéla.
+I neither drink nor smoke.	Éku míminúm o sísindî.
+I walk twenty miles a day.	Lálákad kung adwáng púlung mílya aldó'ldo.
+I'm sure you're very busy.	Sigúrádu kung dakál ka gagáwan.
+I'm sure you're very busy.	Sigúrádu kung taganáng okúpádu ka.
+It rained hard last night.	Minurán masikán nabéngi.
+Maybe I could go with you.	Sigúru malyári kung makiyagnán kéka.
+She has psychic abilities.	Atín yang kagíwan a "psychic".
+That's what everyone says.	Itá ing sasabyán ning bálang métung.
+The cook broiled the meat.	Ningnáng ne ning kusinéru ing kárni.
+Today is Independence Day.	Aldó ning Katimawán ngéni.
+Tom accepted Mary's offer.	Tinggáp neng Tom ing alúk nang Mary.
+Tom did an incredible job.	Mákapágmulálâ ing óbrang géwa nang Tom.
+Tom escaped from his cell.	Tínakas ya i Tom king kayáng sélda.
+Tom is allowed to do that.	Makí paintúlut i Tom a gáwan itá.
+Tom knows what this means.	Bálu nang Tom ing kabáldúgan na níti.
+Tom went back to his seat.	Míbálik ya i Tom king luklúkan na.
+We had Tom paint the wall.	Pépapintúra miyá kang Tom ing dingdíng.
+We had Tom paint the wall.	Pépapintúra miyá kang Tom ing padér.
+We haven't tried that yet.	E miyá pa síbúkan yan.
+We're looking for Tom now.	Páyntunán miyá i Tom ngéni.
+What do you like about it?	Nánung burí mu kayá?
+What do you want me to do?	Nánung burí mung pagawá káku?
+Who are you talking about?	Nánung pányabyán mu?
+Who are you talking about?	Nánung pányabyán yu?
+Yesterday was my birthday.	Aldó kung kébaytán nápun.
+You can tear the box open.	Malyári meng gisyán ing kahún ba yang ibusnî.
+You will do no such thing.	Éka gáwang antí kanyán.
+Can you predict the future?	Agyú mung ulán ing payntungúlan?
+Can you wait about an hour?	Makápanáya kang mangá métung a óras?
+Do all of you speak French?	Byása ko ngang magsalítang Pransés?
+Do we have to pay anything?	Atín támung kaylángang bayáran?
+Do you want me to call Tom?	Burí mukúng awsáng Tom?
+Don't give up your day job.	Éme tatábílî ing óbra mu neng aldó.
+Eternal love doesn't exist.	Aláng lugúd king aláng anggá.
+Friends do things together.	Agnán-agnán la karéng gagáwan da deng mikálugúran.
+Have you seen this already?	Ikít muné iné?
+Hurry up, or we'll be late.	Lagwá mu, mitawlí támu.
+I came here to play soccer.	Mintá ku kéni bang mamyálung soccer.
+I have to wake Tom up soon.	Kaylángan ku neng gisíngan i Tom pinándit.
+I know it's important work.	Bálu kung maúlagáng óbra itá.
+I need a cup of hot coffee.	Kaylángan ke ing métung a tása ning mapáling kapé.
+I think we've eaten enough.	King palagé ku ustú na ing péngan támu.
+I thought you were serious.	Baláku siryósu ka.
+I was up all night reading.	Kabúkas kung makágising a mámásâ.
+I'll certainly talk to Tom.	Taganáng pakisabyán ke i Tom.
+I'm not sure if Tom saw it.	Éku sigurádu nung ikít neng Tom.
+I'm not talking about that.	Aliwá itá ing ámanwán ku.
+It was really embarrassing.	Taganáng mákaríne.
+Maybe they'll come for you.	Sigúru dakítan daká.
+Perhaps you should get one.	Sigúru dápat kang kumáng métung.
+She decided to be a doctor.	Migpasyá yang magdóktor.
+She decided to be a doctor.	Migdisisyún yang magdóktor.
+She is a well-known singer.	Métung yang bantúg a mágkantá.
+She is a well-known singer.	Métung yang kabálítan a mágkantá.
+She is a well-known singer.	Métung yang bunyíng mágkantá.
+Stay with Tom for a moment.	Abáyan me ságulî i Tom.
+Stay with Tom in this room.	Abáyan me i Tom kéning kwártu.
+Suddenly, it began to rain.	Kábirá-birá, migumpisáng minurán.
+Tell Tom Mary's on the way.	Sabyán mu kang Tom papuntá ne i Mary.
+Thank you for your opinion.	Salámat king kékang pamálak.
+Thank you for your support.	Salámat king supórta.
+Thanks for the advice, Tom.	Salámat king úsuk, Tom.
+Thanks for the advice, Tom.	Salámat king páyu, Tom.
+Thanks for the inspiration.	Salámat king inspirasyún.
+Thanks for the opportunity.	Salámat king pámikatágun.
+The bathroom's on the left.	Atyú king kaylî ing bányu.
+The train was almost empty.	Álus alá yang lamán ing tren.
+The worst is still to come.	Alá pa ing pékamarók.
+This is my life's ambition.	Iní ing ambisyún ku king bye.
+This is never going to end.	Éna mayári iní.
+This is your bag, isn't it?	Bag me iní, alê?
+This isn't my fault, is it?	Éku kasalánan iní, alê?
+This isn't my fault, is it?	Éku kasalánan iní, e wári?
+This isn't your fault, Tom.	Ému kasalánan iní, Tom.
+This movie is really scary.	Taganáng mákatákut ya ing pelíkulá.
+This was left on the porch.	Mélakwán ya iní king barkún.
+This'll only take a minute.	Métung mung minútu iní.
+Tom and I are both nervous.	Paréu kamíng nerbyósung Tom.
+Tom and I are both nervous.	Paréu kamíng manérbyus Tom.
+Tom and I had an agreement.	Míkásundú keng Tom.
+Tom and I'll both be there.	Paréu keng muntá karing Tom.
+Tom doesn't know the truth.	Éna bálung Tom ing katutwán.
+Tom has come to a decision.	Mékápag-disisyún ne i Tom.
+Tom should be home by 2:30.	Dápat 2:30 mékaúli ne i Tom.
+Tom's patience has run out.	Mégísan na ing pasénsya nang Tom.
+We have a lot to celebrate.	Dakál támu súkat pagmasusián.
+We need Tom's strength now.	Kaylángan támu ngéni ing síkanán nang Tom.
+We sometimes make mistakes.	í Neng kái mágkámali kamí.
+We sometimes make mistakes.	Neng kái mágkámali támu.
+What would you like to eat?	Nánung burí mung kanán?
+Who doesn't like the beach?	Nínung e makí burî king bébe dayátmálat?
+Why don't you both give up?	Ot éko paréung sumúku?
+You are always complaining.	Pané kang mágreklámu.
+You're probably right, Tom.	Ustú ka sigúru, Tom.
+You've told me that before.	Sinábi mu na yan káku.
+Do you know much about that?	Dakál ka bálu tungkúl kaníta?
+Don't expose it to the rain.	Éme páburéng miyuránan.
+He always told me the truth.	Agyáng kapilán sasabyán na ing tutú káku.
+He failed the entrance exam.	Mibagsak ya king pamagsulit bang matanggap.
+He failed the entrance exam.	Mibagsak ya king "entrance examination".
+I came to Boston last month.	Mintá ku king Boston anyáng mílabásan a búlan.
+I could scarcely believe it.	Éku maybúg paníwalán.
+I don't have any cash on me.	Alá kung dadaláng kwálta.
+I like milk more than juice.	Mas burí ku ing gátas késa king katás ning prútas.
+I pushed Tom into the water.	Tinúlak ke i Tom king danúm.
+I'm leaving early next week.	Makó ku keng tútukíng Duminggú.
+I'm more beautiful than you.	Mas malagú ku késa kéka.
+I've heard this song before.	Dimdám kuné iníng kantá kaníta.
+It isn't that big of a deal.	E maragúl a báge itá.
+It looks like Tom was right.	Balámu ustú ya i Tom.
+It's not that big of a deal.	E maragúl a báge itá.
+Let me walk you to your car.	Burén mung yatád daká king kótsi mu.
+My parents were proud of me.	Págmaragúl dáku deng péngári ku.
+Please excuse my being late.	Panúpáya mung mítawlí ku.
+Please excuse my being late.	Panúpáya yung mítawlí ku.
+Please excuse my being late.	Panúpáya yu pung mítawlí ku.
+That's a good-looking woman.	Malagú yang babái yan.
+Their flag is blue and gold.	Iró ya ampóng gintú ing karélang bandéra.
+Their flag is blue and gold.	Asúl ya ampóng gintú ing karélang bandéra.
+Tom kind of looks like John.	Kawángis neng Tom i John.
+Tom took his headphones off.	Léko nong Tom deng headphone na.
+Tom wished he was with Mary.	Burí nang Tom kayabé ne i Mary.
+What does Tom eat for lunch?	Nánung kakanán nang Tom neng paugtwán?
+Are you looking for somebody?	Atín kang páyntunán?
+Can we talk about this later?	Malyári táyang pisabyán iní kaybát?
+Do your best and don't worry.	Gáwan mu ing agyú mu at éka migáganakâ.
+Have you ever been to Mexico?	Mintá naká Mexico?
+Have you seen Tom's passport?	Ikít mu ne ing pasápórti nang Tom?
+He laid his bag on the table.	Timpák ne ing bag na king lamésa.
+He plays the piano very well.	Taganáng masalése yang tigtíg piánu.
+He put some coins in the box.	Mangíbilí kang sisilyú king kahún.
+How many times have you gone?	Mékatapilán naká mintá?
+I cannot afford to buy a car.	Éku agyúng sáling kótsi.
+I don't want to go to school.	Éku bísang muntá king iskwéla.
+I don't want to go to school.	Éku bísang lungúb.
+I have a lot of credit cards.	Dakál ku credit card.
+I have to study for the exam.	Kaylángan kung manigáral pará king pámagsúlit.
+I haven't found anything yet.	Alá ku pang ápayntún.
+I know it's important to you.	Bálu kung maúlagá kéka.
+I was home all day yesterday.	Patingápun ku king kékami nápun.
+I'm not frightened of ghosts.	Éku tátakút karéng máglalagé
+I'm tired of waiting in line.	Mapagál nákung mánáya king píla.
+I'm trying to get some sleep.	Susúbúkan kung makátudtúd.
+May I borrow your dictionary?	Malyári keng andamán ing diksyunáryu mo?
+May I borrow your dictionary?	Páramá'nang diksyunáryo?
+Nobody seems to be in charge.	Balámu aláng mánibálâ.
+Now we don't know what to do.	E tana balu nung nanung gawan tamu.
+One language is never enough.	Kúlang ya ing métung a amánu.
+She has a flower in her hand.	Atín yang tatalnán a sampága.
+That car is really expensive.	Taganáng mal ya ing kótsing yan.
+That's just how I was raised.	Makanyán dákung péparagúl.
+Tom visited Boston last year.	Tínágun ya king Boston banwáng métung i Tom.
+Tom wanted to save the world.	Burí neng sagipán Tom ing yátu.
+Tom wanted to save the world.	Burí neng iligtás Tom ing yátu.
+Tom wanted us to talk to you.	Burí nakamíng makisábi kékang Tom.
+Tom wasn't listening to Mary.	E mákiramdám kang Mary i Tom.
+What did we do to each other?	Nánung géwa támu king métung at métung?
+You have thirty minutes left.	Atín kang trénta minútus a mitátágan.
+You'll go to school tomorrow.	Magáral ka búkas.
+"Thank you." "You're welcome."	"Salámat." "Aláng nánu namán."
+All that glitters is not gold.	E bálang kíkisláp gintû.
+Do you want to do this or not?	Burí mung gáwan iné o alî?
+He comes here every five days.	Bálang limá yang aldóng dáratang kéni.
+How did Tom solve the problem?	Makanánu neng álutás Tom ing prubléma?
+How many moons does Mars have?	Pilán ya búlan ing Mars?
+I am thankful for my children.	Pásalámat ku karéng ának ku.
+I am thankful for my children.	Pásalámat ku karéng áná'ku.
+I bought a book about animals.	Sínalí kung librú tungkúl karéng animál.
+I had never been there before.	Éku pa míras karín.
+I have plans with Tom tonight.	Atin kung plánu kayábe ya i Tom pótang béngi.
+I just don't know what to say.	Taganáng éku bálu ing sabián ku.
+I need to buy some rat poison.	Kaylángan kung sáling lásun dagís.
+I think Tom forgot his camera.	King palagé ku ákalingwán neng Tom ing kayáng camera.
+I thought Tom was from Boston.	Balá ku tagá Boston ya i Tom.
+I thought Tom was from Boston.	Balá ku táu ya Boston i Tom.
+I'd like to ask you about Tom.	Burí rakáng kutnán tungkúl kang Tom.
+I'm old, but I'm not that old.	Matwá ku, óneng ékupá makanyán katwá.
+No one respected men like him.	Éro gágalang karéng táung kalúpa na.
+That's the crux of the matter.	Itá ing búsal ning pisásabián.
+The old man stood on the hill.	Tínikdó ya ing matwáng laláki king bábo talímundúk.
+The old man stood on the hill.	Tínikdó ya ing matwáng laláki king bábo bundúk-bundúkan.
+Tom didn't get what he wanted.	Éna ikwáng Tom ing burí na.
+Tom didn't go to the hospital.	E mintá king óspital i Tom.
+Tom didn't look like a doctor.	E lúpang dóktor i Tom.
+Tom didn't show up for dinner.	E migpaltó anyáng apúnan i Tom.
+Tom doesn't appear to hear us.	Balámu e nakatámu darámdamán Tom.
+Tom doesn't eat a lot of meat.	E mapamangán kárni i Tom.
+Tom doesn't even know my name.	Éne man bálung Tom ing lagyú ku.
+Tom doesn't have a girlfriend.	Alá yang táu i Tom.
+Tom doesn't have long to wait.	E kaylángang manáyang malambát i Tom.
+Tom doesn't know Mary is here.	Éná bálung Tom a atyú i Mary.
+Tom doesn't know what that is.	Éná bálung Tom nung nánu itá.
+Tom doesn't like me very much.	Énáku masyádung buríng Tom.
+Tom doesn't seem tired at all.	Balámu e bitasáng mapagál i Tom.
+Tom drove along a desert road.	Migmanéu ya i Tom king métung a dálan king disyértu.
+Tom finished doing the dishes.	Áyári nong inós Tom deng pinggán.
+Tom had something in his hand.	Atín yang tatalnán i Tom.
+Tom has a wife and three kids.	Atín yang asáwa ampóng atlúng ának i Tom.
+Tom is married to a foreigner.	Dáyu ya ing asáwa nang Tom.
+Tom knows time is running out.	Bálu nang Tom a magigísan na ing panaún.
+Tom might not make it in time.	Pota e miratang king ustung oras i Tom.
+We have made friends with Tom.	Méki-kalugúran tána kang Tom.
+We have made friends with Tom.	Méki-kalugúran nakamí kang Tom.
+We reported his disappearance.	Pépabálû mi ing kayáng pángawalâ.
+We reported his disappearance.	Bélítâ mi ing kayáng pángawalâ.
+We reported his disappearance.	Simbúng mi ing kayáng pángawalâ.
+What did you do to each other?	Nánung géwa yu king métung at métung?
+What did you do to each other?	Mípagnánu kayú?
+What do you think I was doing?	King palagé mu nánánu ku?
+When do you usually eat lunch?	Kéraklán nánu kang óras máugtu?
+Which group is your friend in?	Núkarín yang grúpu ing kálugúran mu?
+Why isn't Tom doing something?	Ot alá yang gagáwan i Tom?
+Are you going to do that again?	Gáwan mung pasíbáyu itá?
+Are you going to do that again?	Gáwan mung pasíbáyu yan?
+Everyone has their own opinion.	Atín lang pamálak deng sablá.
+How do I get to the other side?	Makanánu kung mirás king sumángid?
+How do you say that in Italian?	Makanánu mung sabyán itá king Italiánu?
+I didn't like what Tom gave me.	Éké burí ing binyé na kákung Tom.
+I wish I'd never told Tom that.	Ékuná sâ sinábi kang Tom itá.
+I wish I'd never told Tom that.	Sána ékuná sinábi kang Tom itá.
+It's a waste of time and money.	Sáyang ing panaún ampó ing péra.
+Mary probably knows I like her.	Bálu na sigúrung Maryng burí ke.
+Nothing is as precious as love.	Alá yang kasíng-ulagá ing lugúd.
+She carried off all the prizes.	Simbút no ngan deng prémyu.
+She carried off all the prizes.	Simbút no ngan deng galál.
+She has quite a lot of clothes.	Dakál ya imálan.
+She quickly went up the stairs.	Mabilís yang ménik king éran.
+She will return within an hour.	Mibálik ya kilúb ning métung a óras.
+Show me what you're capable of.	Pákit mu káku ing agyú mung daptán.
+So far he has admitted nothing.	Alá ya ang inámin.
+The city was destroyed by fire.	Mésíra ya ing lakánbalén úling king siláb.
+The city was destroyed by fire.	Mésíra ya ing syudád úling king siláb.
+The shop carried leather goods.	Atín yang bágeng gawá king balát ing tindáhan.
+This is what's going to happen.	Iní ing malyári.
+This is what's going to happen.	Iní ing marapát.
+Tom certainly is knowledgeable.	Taganáng maténákan ya i Tom.
+Tom doesn't feel like studying.	E maybúg manígáral i Tom.
+Tom got stuck in a traffic jam.	Mésípit ya i Tom king trápik.
+Tom is a little taller than me.	Mas mátas yang bagyá késa káku i Tom.
+Tom is driving to the hospital.	Mágmanéu ya papuntá king óspital i Tom.
+Tom worked until late at night.	Mégobrá ya i Tom anggáng malálam ing béngi.
+What happened to Tom's parents?	Nánung milyári karéng péngari nang Tom?
+When he arrived, I made coffee.	Karatáng na, ményangkáp kung kapé.
+Why did you quit using Twitter?	Ot línwal ka king Twitter?
+You're the tallest person here.	Íka ing pékamátas a táu kéni.
+A baby craves its mother's milk.	Pánintunán ning bíngut ing gátas ning imá na.
+Did you hear about Tom and Mary?	Ábalitán mu na ing tungkúl kang Tom ampó kang Mary?
+Didn't you see Tom at the party?	Éme ikít i Tom king party?
+Didn't you see Tom at the party?	Éme ikít i Tom king sulú-sulú?
+Don't let him keep this picture.	Ému páburéng isínup ne iníng letrátu.
+Don't you want to see your kids?	Émo buríng ákit deng ának mo?
+Everybody has their own opinion.	Atín lang pamálak deng sablá.
+He was asking about your health.	Kokómustán na ing kékang pamikákatán.
+He was asking about your health.	Kokómustán na ing kékang kabúlásan.
+I don't know if I have the time.	Éku bálû nung atín kung óras.
+I don't know if I have the time.	Tabálu nung atín kung óras.
+I want to buy a dozen doughnuts.	Bísa kung sáling métung a dusénang dónat.
+I won't let anything bad happen.	Éku paburéng atíng malyáring marók.
+I'll be with you in ten minutes.	Puntalán daká kilúb ning apúlung minútu.
+I'm exhausted. I'm going to bed.	Sínáyad ku. Matudtúd náku.
+I'm sorry I'm late. I overslept.	Panúpáya yu, mítawlí ku. Éku gad mígísing.
+I'm sure this is only temporary.	Sigurádu kung pansamántalá mû iní.
+It's not going to happen to Tom.	E marapát kang Tom itá.
+It's not going to happen to Tom.	E malyári kang Tom itá.
+She shut herself up in her room.	Migkulúng ya king kwártu na.
+They usually sleep in this room.	Kéraklán kéni lang kwártu mátudúd.
+This truck is in need of repair.	Kaylángan yang larínan iníng trak.
+Tom couldn't suppress his anger.	Éna ápígil Tom ing kayang mwâ.
+Tom didn't buy me what I needed.	Énáku pényalíng Tom king kaylángan ku.
+What kind of mushrooms are they?	Nánu lang klásing kwat?
+Why don't you just let Tom help?	Ot ému ne mû paburéng sumáup i Tom?
+You all remember Tom, don't you?	Átatandánan ye ngan i Tom, e warí?
+You don't know a thing about me.	Alá kang bitasáng bálu káku.
+Armenia is a mountainous country.	Mabundúk yang bangsá ing Armenia.
+He's three years older than I am.	Mas matwá yang atlúng banwá késa káku.
+I couldn't sleep well last night.	Éku mékatudtúd masálése nabéngi.
+I have a brand new pair of socks.	Atín kung báyung páris a médyas.
+I thought Tom would buy that car.	Baláku salwán neng Tom ing kótsing yan.
+I want you to turn off the radio.	Burí ku patdán me ing rádyu.
+I would like to buy some aspirin.	Bísa kung sáling aspirin.
+I'll loan you the money you want.	Páram ku kéka ing pérang burí mu.
+I'll loan you the money you want.	Páramán daká kétang pérang burí mu.
+Mary thinks I'm in love with her.	Balá nang Mary malsintá ku kayá.
+She could feel her knees shaking.	Pánamdamán nong gágalgál deng tud na.
+She was scared to cross the road.	Tátákut yang lumípat king dálan.
+Something is better than nothing.	Mas masantíng ing atín késa king alâ.
+There are 50 members in the club.	Limá lang púlû deng kayánib king águman.
+Tom almost never asks about that.	Álus e mángutáng tungkúl kaníta i Tom.
+Tom had never seen Mary so happy.	Éne pa ikít Tom makanyán kasayâ i Mary.
+Tom jumped out of the helicopter.	Línundág ya i Tom palwál king helicopter.
+Tom told me to give this to Mary.	Pépabyé ne kákung Tom kang Mary iní.
+Tom waited for Mary to come back.	Pénaya neng mibálik Tom i Mary.
+Tom waited in front of the house.	Ménaya ya king aráp ning balé i Tom.
+Tom went into a corner and cried.	Mintá ya king súluk i Tom at kínyak ya.
+What did you call me in here for?	Ot ináus mukú kéni?
+You're in better shape than I am.	Mas masantíng ka katáwan késa káku.
+Almost all of us can speak French.	Álus íkamí ngan byásang magsalítang Pransés.
+Are your parents going to be home?	Atyú la king kékayú deng péngári mo?
+Do you think it's safe to do that?	King palagé mu ligtás gáwan itá?
+He refused to shake hands with me.	E ya mekigalame kaku.
+How will you manage without a job?	Makánánu ka nung alá kang óbra?
+I didn't know Tom lived in Boston.	Éku bálung makátuknáng ya king Boston i Tom.
+I didn't know anything about this.	Alá kung kabalú-bálu tungkúl kaníti.
+I think Tom did the best he could.	King palagé ku géwa nang Tom ing agyú na.
+I'm going to miss being a teacher.	Payntunán ku ing pángaméstru.
+I'm going to miss being a teacher.	Payntunán ku ing pángaméstra.
+I'm going to miss being a teacher.	Payntunán ku ing pángataláturû.
+My boss called me into his office.	Ináus náku ning bos ku king káyang upisína.
+She got him to eat his vegetables.	Ápakán no kayá deng gúle na.
+The city wants to extend the road.	Buri neng pakabán ning syudád ing dálan.
+The city wants to extend the road.	Buri neng pakabán ning lakánbalén ing dálan.
+The city wants to extend the road.	Buri neng pakabán ning ciudad ing dálan.
+The river is widest at this point.	Kéni ya pékamalápad ing ílug.
+The store might be closed already.	Pota makasara ne ing tindahan.
+There's nothing I can do about it.	Alá kung ákarapát kaníta.
+They stayed one more day together.	Métung la pang aldóng míyabé-ábe.
+This house has a solid foundation.	Matíbe ya pundasyún ing baléng iní.
+Tom carried Mary on his shoulders.	Binwat neng Tom i Maria kareng pago na.
+Tom has something he wants to say.	Atín yang buríng sabián i Tom.
+Tom laid the racket on the ground.	Kinéra neng Tom ing rakéta king gabún.
+Tom lives on a farm in California.	Mánuknángan ya king maranglé king California.
+Tom should've asked Mary for help.	Dápat pépasáup ya i Tom kang Mary.
+Tom took everything to his office.	Déla nang Tom ing éganáganá king upísína na.
+Tom took everything to his office.	Déla nang Tom ing sablá king upísína na.
+We arrived at the station at five.	Alás singkú keng míras king istasyún.
+When Tom drinks, everybody drinks.	Neng míminúm ya i Tom, deng éganáganá míminúm la.
+Would you like something to drink?	Bísa kang inumán?
+Would you like something to drink?	Bísa kang minóm?
+Would you like something to drink?	Atín kang buríng inumán?
+Are you sure you're ready for this?	Sigúrádu kang makásadyá ka kaníne?
+Are you sure you're ready for this?	Sigúrádu kang makásadyá ka kaníte?
+Can you get this trash out of here?	Pakílakó mu iníng basúra kéni.
+Could you please turn the radio on?	Pakísalangyán mu ne mo ing rádyo?
+Do you have any problems with that?	Atín kang probléma kaníta?
+Have they given you a nickname yet?	Dinínan danakáng paláyo?
+How do you plan on paying for that?	Makanánu mung babalákang bayáran itá?
+How many close friends do you have?	Pilán la reng malápit mung kálugúran?
+I can speak many African languages.	Mákápagsalíta kung dakál a amánu ning Africa.
+I don't think Tom has met Mary yet.	King palagé ku éne pa ikít Tom i Mary.
+I never should've brought you here.	Éraka dápat déla kéni.
+It is said that she is a good cook.	Magalíng ya kanúng maglútû.
+She goes to the movies once a week.	Misán ya parúminggúng mánalbeng síne.
+Some kinds of food make us thirsty.	Mákakáwa lang dánum deng áliwáng klásing pámangán.
+Termites are destroying the houses.	Sisirán dong áne deng balé.
+They want to know what's happening.	Burí rang ábálû nung nánung malilyári.
+Tom didn't want to live any longer.	Éne bísang kumabyé i Tom.
+Tom got some money from his father.	Kínangwa yang kwálta kang táta na i Tom.
+Tom helped Mary escape from prison.	Sinópan neng Tom tumákas king sukúlan i Mary.
+Tom is getting ready to go to work.	Mágsadyá yang magóbra i Tom.
+Tom never goes to places like that.	E bitasáng púnta karéng lugál a antí kaníta i Tom.
+Tom went to Boston three years ago.	Mintá ya king Boston i TOm atlú nang banwá ing mílábas.
+Tom won't be that easy to convince.	E makanyán kalagwáng kumbinsyán i Tom
+We can't pretend it never happened.	Éta malyáring magkanwaríng e milyári itá.
+We'll have a French test on Monday.	Miká pámagsúlit támu king Pransés keng Lúnis.
+We're concerned about Tom's future.	Makí masabál kamí king payntungúlan nang Tom.
+We're concerned about Tom's future.	Migáganaká kamí king payntungúlan nang Tom.
+What are you shaking your head for?	Ot pípilíng ka?
+Why don't you want to come with us?	Ot éka bísang túki kékami?
+You're going to tell us everything.	Sabián mu kékamí ing éganáganá.
+You're the one who brought me here.	Íka ing migdalá káku kéni.
+Could you find a room for my sister?	Ápanintún meng kwártu ing kapatád kung babái?
+Have you ever had your fortune told?	Pépaulá naká?
+He showed me how to use this camera.	Pépákit na káku nung makanánu yang gamítan iníng kámera.
+He's not the same man he used to be.	Aliwa neng tau ketang kakilala ku.
+His wife was killed in the accident.	Méte ya ing asáwa na king aksidénti.
+I think you know what we have to do.	King palagé ku bálu mu ing kaylángan tang gáwan.
+I was in bed all day long yesterday.	Patingápun kung atyú king pagkéran nápun.
+If Tom is really alive, where is he?	Nung taganáng mabyé ya i Tom, núkarín ya?
+Is that all you're going to tell me?	Yan mu ing sabián mu kakó?
+Let's discuss that problem tomorrow.	Búkas táya pisabyán ing prublémang itá.
+She was educated by her grandfather.	Pépagáral ne ning ingkúng na.
+Take things a little more seriously.	Siryósuan mong bagyá deng báge.
+The answer was right in front of me.	Atyú mû king aráp ku ing pakíbat.
+The jets took off one after another.	Tukí-tukí lang sínulagpó deng jet.
+We looked down at the beautiful sea.	Lináwe miyá ing masantíng a dáyatmálat.
+An old woman limped along the street.	Tínikúl ya king dálan ing métung a matwáng babái.
+Don't worry. It won't take very long.	Éka migáganakâ. E lumbát iní.
+Don't worry. This won't happen again.	Éka migáganakâ.Éna marapát pasíbáyu iní.
+He earns three times as much as I do.	Makatatlú karakál ing pánakitá'na késa káku.
+I couldn't do this without your help.	Éku ágawâ iní nuné king sáup mu.
+I didn't want to appear hypocritical.	Éku bísang luntóng ipókritu.
+I want you to get started right away.	Burí ku tambíng kang magúmpisá.
+If you're looking for a job, call me.	Nung mánintún kang óbra, awsán mukú.
+Necessity is the mother of invention.	Ing pámangaylángan ing indú pámaglaláng.
+Should I tell Tom you're unavailable?	Sabyán ku kang Tom a éka malyáre?
+Tell me again who will be helping us.	Sabián mung pasibáyu káku nung nínung sumáup kékatámu.
+There are no flowers growing on Mars.	Aláng sampágang tútúbu king Mars.
+Tom came over to my house last night.	Mintá ya king balé ku i Tom nabéngi.
+Tom doesn't know why Mary isn't here.	Éna bálung Tom ot alá yu kéni i Mary.
+Tom's dirty clothes are on the floor.	Atyú la king landé deng marinát nang imálang Tom.
+We're leaving the day after tomorrow.	Keng makadwá kamí makó.
+We're leaving the day after tomorrow.	Keng makadwá támu makó.
+What did Tom say about what happened?	Nánung sinábi nang Tom kétang milyári?
+You should report this to the police.	Kaylángan isumbúng mu iní king pulís.
+Your watch seems to be very valuable.	Lúpa yang taganáng maulagá ing riló mu.
+Your watch seems to be very valuable.	Lúpa yang asnáng kamál ing riló mu.
+Can you think of anyone more suitable?	Atín kang áisip a táung mas báge?
+Do you have a crowbar in your toolbox?	Atín kang balwát king kékang kahún kasangkápan?
+Does anybody have a problem with this?	Atíng makí prubléma kanité?
+Few people seem to have read the book.	Balámu dítak la pámung táu deng mékapamása na king librú.
+How many people are on board the ship?	Pilán lang táu deng makásaké king bapór?
+I'm tired of living this kind of life.	Mapagál nákung mabibyéng antí kaníni.
+The children ran toward the classroom.	Memulayi la reng ának papunta king clasi.
+The children ran toward the classroom.	Memulayi la reng ának papunta king classroom.
+Tom doesn't really mean that, does he?	Éna taganáng sasaryán Tom itá, alé?
+Tom may have been there. I don't know.	Malyáring atyú karín i Tom. Éku bálû.
+Tom took some money out of the drawer.	Miglwál yang péra i Tom king kahún lamésa.
+Where do you think all the money goes?	King palagé mu, nukarín ngan mirarás ing péra?
+Where do you think all the money goes?	King palagé mu, nukarín ngan mirarás ing cuálta?
+Which would you prefer, coffee or tea?	Sánung burí mu, kapé o tsa?
+As far as I know, Tom is still married.	Ing bálu ku, talásáwa ya pa i Tom.
+Have you ever seen one of these before?	Atín nakáng ikít métung man karéne?
+I have no idea where Tom hid the money.	Alá kung kabalú-bálâ nung nung núkarín na sélikút Tom ing péra.
+I have to get home before it gets dark.	Kaylángan kung múlî báyu dálumdúm.
+I told Tom everything I could think of.	Sinábi ku ngan kang Tom ing áisip ku.
+It is very important to keep your word.	Maúlagáng tuparán mu ing kékang sinábi.
+Maybe it's a good thing Tom isn't here.	Sigúru masantíng a alá yu kéni i Tom.
+Thank you for inviting me to the party.	Salamat king pamanagkat kaku king party.
+The boy was accompanied by his parents.	Inabáyan de reng péngari na ing anák a laláki.
+The entire nation was glad at the news.	Masayá ya ing mabílug a bangsâ king balítâ.
+These are my shoes and those are yours.	Déni deng sapátus ku at déta deng kéka.
+Tom and I are the only ones still here.	I Tom námu ampó yáku ing atyú pa kéni.
+Tom and I used to play tennis together.	Mipág-tennis keng Tom kaníta.
+Tom used to go fishing with his father.	Tútukí yang mámadwás i Tom kang táta na kaníta.
+Tom wouldn't do what I asked him to do.	Éna gáwang Tom ing pépagawá ku kayá.
+We've been wondering where you've been.	Mágtaká kamí nung núkarín ka ibát.
+Come here. I want to show you something.	Mékéni. Atín kung buríng pákit kéka.
+Do you think Tom knows how to get there?	King palagé mu byása yang muntá karín i Tom?
+I bought this book in Boston last month.	Séli ke iníng librú king Boston anyáng mílabásan a búlan.
+I didn't know you were from Boston, too.	Éku bálung ibát ka namán Boston.
+I lived in Boston for about three years.	Atlú kung banwáng ménuknángan king Boston.
+Tom came in and handed Mary an envelope.	Dínatáng ya i Tom at dinínan neng sóbri i Mary.
+Tom hasn't written to me in a long time.	Malambát neng e súsúlat káku i Tom.
+Tom translated the contract into French.	Liníkas neng Tom king Pransés ing kontráta.
+Cats have the ability to see in the dark.	Mánákit la king madalumdúm deng púsâ.
+Did you know Tom was seeing someone else?	Bálu mung atín yang aliwáng pákikitán i Tom?
+He proposed that we should start at once.	Pépamunikála nang magumpisá keng tambíng.
+He proposed that we should start at once.	Pépamunikála nang magumpisá támung tambíng.
+He proposed that we should start at once.	Pépawagá nang magumpisá keng tambíng.
+He proposed that we should start at once.	Pépawagá nang magumpisá támung tambíng.
+I don't remember where I put my car keys.	Éku átatandánan nung nu ko biníli deng súsi ning kótsi ku.
+I just want you to know that Tom is safe.	Burí kū mung ábálu mung ligtás ya i Tom.
+I will tell it to him at the proper time.	Sabián ku kayá king ustúng panaún.
+It was Tom who told me what had happened.	I Tom ing sínabi káku king milyári.
+Please explain the rules of soccer to me.	Pakí-ispliká mo káku deng pátakarán ning soccer.
+The time bomb exploded with a loud noise.	Masikan yang memakbung ing "time bomb".
+There were few children in the classroom.	Dítak la reng ának king kwártu.
+You can mix different foods in a blender.	Ápisamút-sámut mo reng miyáyaliwáng pámangán king blender.
+You have told Tom the truth, haven't you?	Sinábi mu na kang Tom ing tutú, e warí?
+He does nothing but watch TV all day long.	Alá yang gagáwan nuné manalbéng TV patingápun.
+He graduated from high school this spring.	Méyári ya king mátas a pipágarálan ngéning kasíbul.
+I don't even know what Tom's last name is.	Éke man bálu ing pilídu nang Tom.
+I don't want them to take advantage of me.	Éku burí ing samántalánan dáku.
+I don't want them to take advantage of me.	Éku bísang pasámantalá karéla.
+I exercise because I want to stay healthy.	Mág-exercise ku úling bísa kung manátíling masánting katáwan.
+I exercise because I want to stay healthy.	Mág-exercise ku úling bísa kung manátíling masánting mabúlas.
+I will lend you as much money as you want.	Páramán daká nung makanánu karakál a péra ing burí mu.
+Tom doesn't have to be at today's meeting.	E kaylángang tumágun king púlung ngéni i Tom.
+Tom finished his coffee and left for work.	Gísan neng Tom ing kapé na at méko ya bang magóbra.
+Tom thinks that I was in Boston last week.	Balá nang Tom atyú ku Boston anyáng mílabásan a Dumínggu.
+We always play tennis on Saturday morning.	Pané keng mámyálung tennis neng Sábadung ábak.
+We disputed for hours about what to write.	Pilán kamíng óras mipámakíbat tungkúl king isúlat.
+We've been married more than thirty years.	Maygít nakéng atlúng púlung banwáng miyásáwa.
+What's going to happen that's so terrible?	Nánung malyáring misnáng kagrábi?
+You won't find a dog bigger than this one.	Éka manákit ásung mas maragúl késa kaníti.
+Do you think I'd look good with a mustache?	King palagé mu báge káku ing atíng bigóte?
+He was arrested because he stole the money.	Mérakap ya ulíng pénako na ing péra.
+He will arrive on the afternoon of the 5th.	Dátang ya keng gatpanápun ning a-singkú.
+I didn't know Tom didn't understand French.	Éku bálung e mákáintindíng Pransés i Tom.
+I have to find out when Tom plans to leave.	Kaylángan kung ábálû nung kapilán ya mágbálak makó i Tom.
+It looks like Tom isn't interested in that.	Balámu e interesádu kanyán i Tom.
+My parents still haven't met my girlfriend.	E re pa ikít deng péngári ku ing táu ku.
+Tom and Mary split up after their son died.	Míkawáni ya i Tom ampó i Mary kaybát nang méte ning anák dang laláki.
+Tom is the only person who can help me now.	I Tom mû kabúd ing táung makásáup káku ngéni.
+We made use of the maps during our journey.	Gínámit kamíng mápa king byáhi mi.
+We'll tell Tom everything he needs to know.	Sabyán támu kang Tom ing éganáganáng kaylángan nang ábálû.
+What should we do during our next vacation?	Numánu támu keng tútuki tang bakasyún?
+Would you like another helping of potatoes?	Bísa ka pang patátas?
+Could you send me more information by email?	Makápagparlá kang karágdagágan impormasyún king e-mail?
+He came late, as is often the case with him.	Tawlí yang dínatáng, antí ing maralás nang gagáwan.
+I don't want to work under these conditions.	Éku bísang magóbra nung makanyán ing kábilyán.
+I told them they didn't have to do anything.	Sábi ku karéla alá lang kaylángang gáwan.
+I was about to leave when the doorbell rang.	Palakó náku anyáng tigtíg ya ing tímbre.
+New York State is almost as large as Greece.	Álus kasíndagúl ne ning Grécia ing Estádo ning New York.
+Take the one you like best, whichever it is.	Kwanán me ing pékaburí mu, anggyáng sánu.
+Those are the children you gave the book to.	Déta deng ának a dinínan mung librú.
+What does Tom eat for a mid-afternoon snack?	Nánung kakanán nang Tom neng minindál?
+How many more pages do you have left to read?	Pilán la pang bilungan deng básan mu pa?
+I don't think my gift meant very much to Tom.	Palagé ku e masyádung makabaldúgan kang Tom ing regálu ku.
+I don't think we'll reach Boston before dark.	King palagé ku éta mirás Boston báyu dálumdum.
+Much of what they wrote about never happened.	E milyári ing dakál king karélang sinúlat.
+The new bridge is in process of construction.	Gagáwan de ing báyung téte.
+They decided to settle in a suburb of London.	Migdisisyún lang mandatún king karulún ning London.
+Tom was at the gym for three hours yesterday.	Atlú yang óras king gym i Tom nápun.
+You'll soon get used to eating Japanese food.	E lumbát misáne kang mámangán pámangán Apón.
+Doctors did everything they could to cure him.	Géwa da reng dóctor ing éganáganá ba yang maúlu.
+I didn't know that you used to live in Boston.	Éku bálung sadyá kang makátuknáng king Boston.
+The Pacific is the largest ocean in the world.	Ing Pacifico ing pékamaragúl a kadayátmalátan king yátu
+What happened in Vietnam was like a bad dream.	Balámu bangúngut ing milyári king Vietnam.
+A tsunami is coming, so please be on the alert.	Atíng dáratáng a tsunami, anyá sána magsadyá kayú.
+Broccoli is one of the best vegetables for you.	Ing broccoli ing métung karéng pékamasantíng a gúle pará kéka.
+I got to know my current girlfriend at the gym.	Ákilála ke ing táu ku ngeni king gym.
+They went to an expensive restaurant for lunch.	Mintá la king mal a restóran bang maugtú.
+Tom and Mary didn't invite me to their wedding.	Éraku inagkát di Tom ampóng king karélang kasál.
+Tom obviously feels very passionate about this.	Malínong masikán ya kapanámdáman kaníti i Tom.
+Tom used to play the piano when he was younger.	Títigtíg yang pyánu i Tom anyáng mas anák ya pa.
+Tom wanted to stick around for a few more days.	Bísa ya pang maglambát piláng aldó i Tom.
+My sister has three times as many books as I do.	Makatátlu la karakál deng librú ning kapatád kung babái késa káku.
+There's a helicopter waiting for us on the roof.	Atíng helicopter a mánáya kékatámu king bubúngan.
+Tom doesn't take very good care of his children.	Éno íngátan masáléseng Tom deng ának na.
+We hope Tom sticks around for a couple of weeks.	Sána lumbát yang adwáng duminggú i Tom.
+What should you do if you are bitten by a cobra?	Nánung dápat mung gáwan nung méket kang cobra?
+What were you dreaming about when I woke you up?	Nánung páninápan mu anyáng ginísing daká?
+He was set free after doing five years in prison.	Míbúlus ya kaybát ning limáng banwáng pángasúkul.
+How come you know so much about Japanese history?	Ot karakál mu bálu king kasálesáyan ning Japan?
+How many hotels do you think there are in Boston?	King palagé mu, pilán laréng hotél king Boston?
+I really like him, but not his circle of friends.	Taganáng burí ke, óneng deng barkáda na alí kulá.
+I will have him call you the moment he gets back.	Payáus daká kayá kabúd dátang ya.
+I'll try to explain it to the best of my ability.	Ispliká ku anggá king agyú ku.
+How are you coming along with your French lessons?	Kómusta la reng lisyún mu king Pransés?
+I hear he was released after five years in prison.	Míbúlus ya kanú kaybát ning limáng banwá king sukúlan.
+I want some beautiful flowers to put on the table.	Bísa kung mangásantíng a sampága king lamésa.
+I want you to take care of Tom for a little while.	Burí ku ingátan me pámû i Tom.
+If anything happens, we'll be in in three seconds.	Nung atíng malyári, dátang kamí kilúb ning atlúng minútu.
+Tom peeked out the door to see what was happening.	Sínílip ya i Tom king pasbúl ba nang ákit ing malilyári.
+We have not seen each other since our school days.	Éke pa míkit manibát anyáng mágarál kamí.
+I didn't even know that you used to live in Boston.	Éku man bálung sadyá kang makátuknáng king Boston.
+I forgot to tell Tom I wasn't planning to be there.	Ákalingwán kung sabián kang Tom a éku bálak muntá karín.
+I've been waiting for a friend of mine for an hour.	Métung ku neng óras pánáyan ing kálugúran ku.
+Out of twenty students, only one has read the book.	Karéng adwáng púlung istúdyánti, métung ya mû ing mékabása king librú.
+Tom can't remember his kindergarten teacher's name.	Éne átatandánan Tom ing lagyú ning méstra na anyáng kindergarten.
+Tom didn't even text Mary to tell her he'd be late.	Éne man tinext Tom i Mary a mitawlí ya.
+Tom was about to get into his car when he was shot.	Pasaké ne king kótsi na i Tom anyáng mébaríl ya.
+You're the most beautiful woman in the whole world.	Íka ing pékamalagúng babái king yátu.
+Let's not forget that Tom doesn't understand French.	Éta kakalingwán a e mákáintindíng Pransés i Tom.
+That boy over there looks about the same age as you.	Balámu kasíng-idád me ing anák a laláki bandá karín.
+The cop went through his pockets, but found nothing.	Kilkál ne bulsá ning pulís, óneng alá yang ikít.
+Tom is talking with someone right now. Can you wait?	Atín yang pákisabián i Tom ngéni. Makāpanáya ka?
+Tom probably won't even notice that Mary isn't here.	Sigúru éna man ápansínan Tom a aláyu kéni i Mary.
+All the passengers were killed in the airplane crash.	Méte la ngan deng pasáhérus anyáng míbagsák ya ing éruplánu.
+I forgot to shutter the windows before the storm hit.	Ákalingwán kong isará deng áwang báyu minagyú.
+My mom bought me this toy when I was eight years old.	Penyali nakung ima ku kaniting pyalungan anyang walu kung banwa.
+The government was earning more money than it needed.	Mas dákal ing pánákitán ning gubyérnu késa king kailángan na.
+The government was earning more money than it needed.	Mas dákal ing pánákitán ning kapámahalán késa king kailángan na.
+Tom doesn't know how to treat his employees properly.	Éno bálung itrátung masaléng Tom deng empléyádu na.
+I've never had a beer in the middle of the day before.	Éku pa mínum beer neng ugtú.
+Can you see the woman standing behind Tom? That's Mary.	Ákakit me ing babáing makátikdó king gúlut nang Tom? I Mary itá.
+How is it that you know so much about Japanese history?	Óbat karakál mu bálu tungkúl king kasalésáyan ning Hapón?
+My friend copied my homework and the teacher found out.	Kinópya ne ning kálugúran ku ing kákung págarálan balé, at ábálu ning méstra.
+My friend copied my homework and the teacher found out.	Kinópya ne ning kálugúran ku ing kákung págarálan balé, at ábálu ning taláturû.
+Next time you come to see me, I will show you the book.	Keng tútukí mukúng puntalán, pákit ke ing librú.
+A mother is responsible for the conduct of her children.	Kapakíbatán ning imá ing panúgáli daréng ának na.
+Both of my kids have already graduated from high school.	Paréu nong miyári king mátas a pipágarálan deng adwá kung ának.
+He doesn't want to talk to me now, and I don't know why.	Énáku buríng pakisabián ngéni, at éku bálu nung bákit.
+He went out of the room without being noticed by anyone.	Ére ápansínang línwal king kwártu.
+In this game, players were not allowed to kick the ball.	King pyálung a iní, ére malyáring paldakán deng mámyalung ing bóla.
+More than half of the residents are opposed to the plan.	Kóntra la king plánu deng maygít kapitná karéng residénti.
+We're finding it difficult deciding on which one to buy.	Mágkasákit keng magdisisyún nung sánung salwán.
+If God did not exist, it would be necessary to invent him.	Nung aláng Dios, kaylángan yang imbéntuan.
+It's not only Tom that has to study. I have to study, too.	Aliwá mu i Tom ing kaylángang magáral. Anggá yáku kaylángan.
+I watched the birds on the balcony while drinking my coffee.	Inalbén ko reng áyup king barkún kábang ínumán ke ing kapé ku.
+If it had not been for civil war, they would be wealthy now.	Nung e king géra sibíl, makwálta no sâ ngéni.
+If you leave now, I'm sure you'll be caught in a traffic jam.	Nung makó ka ngéni, sigúrádu kung mirásan kang trápik.
+Our captain got sick, so I attended the meeting in his place.	Mésakít ya ing kapitán mi, anyá yáku ing ménalíli kayá king púlung.
+The more people you know, the less time you have to see them.	Kuntóru dárakál la reng kakílála mu, lakwás dírítak ing panaún mung makíkit karéla.
+Burj Khalifa is currently the tallest skyscraper in the world.	Ing Burj Khalifa ing pékamátas a skyscraper ngéni.
+I have a cat and a dog. The cat is black and the dog is white.	Atín kung púsâ ampóng ásu. Matulíng ya ing púsâ at maputí ya ing ásu.
+If you work too long without a rest, it begins to tell on you.	Nung masyádu kang malambát mágobrang e mágpaynáwa, panámdamán mu.
+You shouldn't read people's private letters without permission.	Émo dápat babásan deng súlat daréng táu nung aláng paintúlut.
+I think you're the most beautiful woman in the whole wide world.	Palagé ku, íka ing pékamalagúng babái king mabílug a yátu.
+It is not safe for a girl to go out by herself so late at night.	E ligtás keng babái ing lumwál dilí na nung mábéngi na.
+I have some questions to ask, but I don't want to bother you now.	Atín ku sang ikutáng, óneng e raká buríng pangábalánan.
+I thought Tom was supposed to be in Boston. What's he doing here?	Balá ku atyú dápat king Boston i Tom. Nánánu ya kéni?
+Let's not forget we never could have done this without Tom's help.	Éta kakalingwáng e támu agawá iní nuné king sáup nang Tom.
+As a result of the collision, one of the passengers was thrown out.	Úli ning pámisápungán, míbalugsé ya paluál ing métung karíng pasáhérus.
+Everyone is anxious to know what has become of the former champion.	Migáganaká la reng sablá king milyári king sadyáng kampyún.
+First, let us talk about the experiments conducted in laboratories.	Múmúna, pisabyán tála deng ekspériméntung gagáwan da karéng laboratóryu.
+Tom moved the flower pot to the left and the secret door slid open.	Dinusúg neng Tom ing pasú king kaylî, at míbusní ya ing sikrétung pasbúl.
+Tom moved the flower pot to the left and the secret door slid open.	Dinusúg neng Tom ing pasú king kaylî, at míbusní ya ing líhim a pasbúl.
+In the mountain area, snow has fallen more than fifty centimeters deep.	King kabundúkan, maygít singkwénta sentímétrung nyébe ing ménábû

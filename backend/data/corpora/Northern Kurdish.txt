@@ -1,0 +1,436 @@
+I'm stuck.	Ez hilawîstî me.
+Let me go.	Bihêle ez heřim.
+Stay home.	Li malê bimîne.
+I want you.	Ez, te dixwazim.
+I'm a hero.	Ez leheng im.
+Is Tom out?	Tom derketî ye?
+Taste this.	Viya tahm bike.
+How are you?	Çawa yî?
+I confessed.	Min aşart.
+I'll attend.	Ez ê lê beşdar bibim.
+Tom is poor.	Tom belengaz e.
+Tom told me.	Tom bi min ra got.
+May I attend?	Dibe ez beşdar bim.
+My eyes hurt.	Çavên min diêşin.
+My eyes itch.	Çavên min dixurin.
+You're wrong.	Tu şaş ê/î.
+He is out now.	Ew naka li derva ye.
+I was running.	Ez dibezîm.
+I've got eyes.	Çavên min hene.
+What can I do?	Ez çi kanim bikim?
+Comb your hair.	porê xwe şe bike.
+Comb your hair.	Porê min şe bike
+He became rich.	Ew zengîn bû.
+My heart hurts.	Dilê min diêşe.
+My tooth hurts.	Diranê min diêşe
+Tom hated Mary.	Dilê Tom ji Marî řeş bû.
+We're a couple.	Em jinûmêrê hev in.
+Bees make honey.	Mêşhinguva hinguva çê dikin.
+Bees make honey.	Mêşhingiv hingiv çê dikin.
+Brush your hair.	Porê xwe bişo.
+Close your eyes.	Çavên xwe bigire.
+Her hair is dry.	Porê wê hişk e.
+I had no doubts.	Gumana min tunebû.
+I have dry skin.	Çermê min hişk e.
+I want a doctor.	Ez toxtirek dixwezim.
+It tasted sweet.	Çêja wî şîrîn e.
+That is a heart.	Ew dilek e.
+That is a heart.	Ew dil e.
+Tom cut my hair.	Tom porê min kur kir.
+We're relatives.	Em xizm in.
+Did you help Tom?	Te hare Tomî kir?
+He had long hair.	Porê wî dirij bû.
+He has long hair.	Porê wî dirêj e.
+Her hair is long.	Porê wê dirêj e.
+How are the kids?	Qiçik çawa ne?
+How was your day?	Řoja te çawa bû?
+I closed my eyes.	Min çavên xwe girt.
+I feel so lonely.	Ez piř bi tenêtîyê dihesêm.
+I like your hair.	Ez ji porê te hez dikim.
+I opened my eyes.	Min çavên xwe vekir.
+My eyes are blue.	Çavên min şîn e.
+My eyes are sore.	Çavên min diêşê
+My heart is weak.	Dilê min sisit e.
+My heart is weak.	Dilê min lawaz e.
+My heart stopped.	Dilê min sekinî.
+My stomach hurts.	Gedeya min diêşe.
+She has dry hair.	Porê wê hişk e.
+She has wet hair.	Porê wê şil e.
+This tastes good.	Tahma viya xweş e.
+This tooth hurts.	Ev diran diêşe
+Tom has red hair.	Tom bi porê sor e.
+Tom isn't stupid.	Tom ne ehmeq e.
+Tom wanted money.	Tom pera xwest.
+Are your eyes bad?	Çavên te baş nin in?
+Christmas is soon.	Serê salê nêzîk e.
+Do it by yourself.	Bi xwe bike.
+He broke my heart.	Wî dilê min şikand.
+He has brown eyes.	Ew bi çavên qehweyî ye.
+He keeps his word.	Ew li ser peyvêd xwe dimîne
+He killed himself.	Ew xwe kuşt.
+He speaks English.	Ew bi Înglîzî dipeyive.
+He stole my heart.	Wî dilê min dîzî.
+Her eyes are blue.	Çavên wê şîn e.
+Her skin was warm.	Çermê wê hênik bû.
+His skin was warm.	Çermê wî hênik bû.
+I agreed with her.	Ez vê řa me.
+I broke his heart.	Min dilê wî şikand.
+I brushed my hair.	Min porê xwe firçe kir.
+I burnt the toast.	Min tostê şewitand.
+I like short hair.	Ez ji porê kin hez dikim
+I want some water.	Ez hinek av dixazim.
+It broke my heart.	Ew dilê min şikand.
+It's an emergency!	Ev rewşeke acîl e!
+Look into my eyes.	Li çavên min binêre.
+My eyes are itchy.	Çavên min dixurên
+My eyes are tired.	Çavên min qerimîn.
+My heart is yours.	Dilê min yê te ye.
+Protect your eyes.	Çavên xwe biparêze.
+She has blue eyes.	Ew bi çavên şîn e.
+She has long hair.	Porê wê dirêj e.
+Tom dyed his hair.	Tom porê xwe boyax kir.
+Tom dyes his hair.	Tom porê xwe boyax kir.
+Tom had blue eyes.	Tom bi çavên şîn bû.
+Tom has blue eyes.	Tom bi çavên şîn e.
+Tom has gray hair.	Tom bi porê gewr e.
+Tom has long hair.	Tom bi porê dirêj e.
+Tom shut his eyes.	Tom çavên xwe girt.
+Tom's eyes opened.	Çavên Tom vebûn.
+Who cut your hair?	Kî porê te jê kir?
+Who did your hair?	Kî porê te çê kir?
+You have no heart.	Tu bêwijdan î.
+You're free to go.	Tu kanê derkevê.
+Your door is open.	Derîyê te vekirî ye.
+Are your eyes open?	Çavên te vekirî ne?
+Are your eyes open?	Çavên we vekirî ne?
+Go brush your hair.	Her porê xwe bişo.
+He closed his eyes.	Çavên xwe girt.
+He wants a new car.	Ew makîneka nû dixwaze
+Her hair grew back.	Porê wê dîsa derket
+Her skin is smooth.	Çermê wê lûs e.
+I couldn't find it.	Min nikanî ew bidîtîya.
+I have to get home.	Ez divêt heřim malê.
+I'm broken-hearted.	Ez dilşikestî me.
+It breaks my heart.	Ew dilê min dişikîne.
+My eyes were tired.	Çavên min westiyayî bûn.
+My heart is broken.	Dilê min şikestî.
+My stomach is full.	Gedeya min tijî ye.
+Please cut my hair.	Ji kerema xwe porê min jê bike.
+Please cut my hair.	Ji kerema xwe porê min kur bike.
+She broke my heart.	Wê dilê min şikand.
+She has short hair.	Porê wê kin e.
+That is not my pen.	Ew ne pênûsa min e.
+Tom broke my heart.	Tom dilê min şikand.
+Tom closed one eye.	Tom çavakî girt.
+Tom has black hair.	Tom bi porê reş e.
+Tom has brown eyes.	Tom bi çavên qehweyî ye.
+Tom has brown hair.	Tom bi porê qehweyî ye.
+Tom has green eyes.	Tom bi çavên kesk e.
+Tom has short hair.	Tom bi porê kin e.
+Tom opened the box.	Tom sondiqê vekir.
+Tom stole my heart.	Tom dilê min dizî.
+Tom was astonished.	Tom şaş bû.
+Tom was astonished.	Tom matmayî mabû.
+You broke my heart.	Te dilê min şikand.
+You have cute eyes.	Çavên te şîrîn e.
+You stole my heart.	Te dilê min dizî.
+You'll lose anyway.	Tu kê bi herhalî derdî.
+He entered his room.	Ew kete oda xwe.
+He has a warm heart.	Dilekî wî yê germ heye.
+He is an honest man.	Ew mêrekî dilsoz e.
+His heart is broken.	Dilê wî şikesti ye.
+I can ride with Tom.	Ez dikarim bi Tom řa bajom.
+I give you my heart.	Ez dilê xwe didim te.
+I have an emergency.	Rewşa min a acîl heye.
+I know your brother.	Ez birayê te nas dikim.
+Keep your eyes open.	Çavên xwe vekirî bihêle.
+Now, open your eyes.	Niha, çavên xwe veke.
+Now, open your eyes.	Niha, çavên xwe vekin.
+She is still a girl.	Ewa hên qîz e.
+She rubbed her eyes.	Çavên xwe mist da.
+Thanks for the show.	Sipas bona bernamê.
+This apple is wormy.	Ev sêva kurmî ye.
+This won't help Tom.	Eva harî Tomî nake.
+Tom closed his eyes.	Tom çavên xwe girt.
+Tom combed his hair.	Tom porê xwe şe kir.
+Tom has a bad heart.	Tom xwediyê dilek xirab e.
+Tom is good-hearted.	Tom dilpak e.
+Tom is sitting down.	Tom rûdinê.
+Tom opened his eyes.	Tom çavên xwe vekir.
+Tom stopped talking.	Tomî dev ji axaftinê berda.
+We thought you knew.	Ji me ye jî te zanîbû.
+What are you eyeing?	Tu li çi çav digerînî?
+Why isn't Tom going?	Tom çima naçe?
+Close your eyes, Tom.	çavên xwe bigire,Tom.
+Do you need the book?	Tu piřtûkê dixwazî?
+Don't break my heart.	Dilê min neşkîne.
+He caught three fish.	Ew bi sê masîya giřt.
+He caught three fish.	Ew sê masîya nêçîrkir.
+He committed suicide.	Ew xwe kuşt.
+He is young at heart.	Ew ji dil ciwan e.
+I crossed the street.	Min řêkê qut kir.
+I have a stomachache.	Gedeyê min diêşe.
+I was at the theater.	Ez li şanoyê bûm.
+Just brush your hair.	Tenê porê xwe firçe bike.
+Listen to your heart.	Guh bide dilê xwe.
+My heart beat faster.	Dilê min leztir lê da.
+She bought a chicken.	Ew mirîşkekê kiřîye.
+She brushed her hair.	Wê porê xwe firçe kir.
+She has a pure heart.	Dilek wê yê pak heye.
+There's an emergency.	Rewşek acîl heye.
+They have black hair.	Porê wan reş e.
+This breaks my heart.	Ev dilê min dişikîne.
+This is a good stove.	Ev soba baş e.
+Tom brushed his hair.	Tom porê xwe firçe kir.
+Tom has a weak heart.	Tom xwediyê dilek lawaz e.
+What day is it today?	Îro ji rojan çi ye?
+Who broke your heart?	Kî dilê te şikand?
+You have lovely eyes.	Çavên te xweşik in.
+You live in my heart.	Tu di dilê min de dijî.
+Your hair looks nice.	Porê te xweş dixuyê.
+Cats don't like water.	Pisîk ji avê hez nakin.
+Close your eyes again.	Çavên xwe cardin bigire.
+Close your eyes again.	Cardin çavên xwe bigirin.
+Every dog has his day.	Her kûçikekî řoka xwe heye.
+He lived in obscurity.	Ew di tariyê de dijiya.
+He lived in obscurity.	Ew di nihînęn dijiyan.
+He seems to be asleep.	Xuya dike ew di xew da ye.
+His heart beat slowly.	Dilê wî bi hêdî lê da.
+His heart beat slowly.	Dilê wî hêdî hedî lê da
+I don't need a doctor.	Ez ti bijîşkî naxwazim.
+I found an empty seat.	Min cîyekî boş dît.
+I have heart problems.	Pirsgirêkên min ên dil hene.
+I suggest you shut up.	Ez pêşniyar dikim ku tu bêdeng bibî.
+I think you're pretty.	Ez bawer dikim tu řindikê.
+I've always been fair.	Ez tim dadmend bûm.
+Keep your eyes closed.	Çavên xwe girtî bihêle.
+Keep your eyes closed.	Çavên xwe girtî bihêlin.
+Let's go to the beach.	Ka em heřin beravê.
+The heart is a muscle.	Dil masûlkeyek e.
+Think with your heart.	Bi dilê xwe bifikre.
+Think with your heart.	Bi dilê xwe bifikirin.
+Tom has a good guitar.	Gîtareka hêja li ber destê Tomî heye.
+Tom is getting closer.	Tom nêzîk dibe.
+You have a good heart.	Dilekî te yê pak heye.
+You need to follow me.	Divêt tu bi dû min kevî.
+Your hair looks great.	Porê te pir xweş dixuyê.
+Did you lose something?	Te tiştî hinda kir?
+Exactly how old is Tom?	Tom tam çend salî ye?
+He gave the dog a bone.	Wî hestiyek da kûçik.
+I know you can hear me.	Ez zanim ku tu dikarî min bibihîsî.
+I'll go there by plane.	Ez ê bi balafirê biçim wê derê.
+I'm not going to Tom's.	Ez nařim cem Tom
+Just follow your heart.	Tenê guh bide dilê xwe.
+Open your eyes, please.	Ji kerema xwe, çavên xwe ve bike.
+She has a gentle heart.	Ew xwediyê dilek nerm e.
+She has beautiful eyes.	Çavên wê pir xweş e.
+The flowers are yellow.	Çîçek zer in.
+There is a yellow rose.	Guleka zer heye.
+This is not acceptable.	Ev ne pejirandî ye.
+Tom broke Mary's heart.	Tom dilê Maryê şikand.
+Tom had heart problems.	Pirsgirêkên dil li Tom heye.
+Tom has a special gift.	Diyariyeka taybet a Tomî heye.
+Tom has heart problems.	Pirsgirêkên dil bi Tom heye.
+Tom is going to escape.	Tom wê biřeve.
+Your hair is beautiful.	Porê te pir xweş e.
+Bacteria are everywhere.	Bakterî li her derê ne.
+Close your eyes, please.	Ji kerema xwe, çavên xwe bigire.
+Do you really trust Tom?	Tu bi Tomî piştřast ê?
+How was that restaurant?	Ew xwarinxana çawa bû?
+I showed Tom who's boss.	Min pêşe Tom kir ku kî serok e.
+Many hearts were broken.	Gelek dil şikestin.
+My heart almost stopped.	Dilê min hema hema sekinî.
+Not every day is Sunday.	Ne her roj yekşem e.
+She is eighteen at most.	Çiqas mezin be bila heyjdeh salî be.
+The proverb is familiar.	Pîrepend aşina ye.
+Tom gave Mary his heart.	Tom dil daye Maryê.
+Tom gave his dog a bone.	Tom hestiyek da kûçikê xwe.
+Tom kept the room clean.	Tom ode pak hîşt.
+What are we going to do?	Em dê çi bikin?
+What are we going to do?	Em ê çi bikin?
+You have beautiful hair.	Porê te pir xweş e.
+Are these your daughters?	Evana qîzêd te ne?
+I don't love her anymore.	Ez êdî wê naevînim.
+I haven't met him before.	Min ti carî wî nedîtîye.
+I was frozen to the bone.	Heta hestiyê xwe cemidî bûm.
+My heart is beating fast.	Dili min bilez lê dide.
+Nobody asked me to dance.	Ti kesî ji min nexwest ez bireqsim.
+That just broke my heart.	Ew tenê dilê min şikand.
+The news broke her heart.	Nûçe dilê wê şikand.
+The news broke his heart.	Nûçe dilê wî şikand.
+There's no need to fight.	Gerekîya şeřkirinê tune ye.
+Tom taught Mary to paint.	Tom fêrî Marî kir çawa nîgar bike.
+Tom visited me on Monday.	Tom Duşemê hat cem min.
+Tom's plan isn't working.	Pilana Tomî kar nake.
+We're going to visit Tom.	Em kê heřin bona serdana Tomî.
+You're breaking my heart.	Tu dilê min dişkînî.
+You're breaking my heart.	Hûn dilê min dişkînin.
+A bone stuck in my throat.	Hestiyek di qirrika min de ma.
+Do as your heart dictates.	Hema dilê te çi divê wî bike.
+I love learning languages.	Ez ji fêrbûna zimana hez dikim.
+I sure hope that Tom wins.	Ez piştrast im ku Tom wê vexwe.
+It really breaks my heart.	Bi rastî jî viya dilê min şikand.
+The funeral was yesterday.	Sersaxkirin duhu bû.
+There are no broken bones.	Tû hestiyên şikestî tune.
+Tom looked up and laughed.	Tom nihêrî û kenîya.
+Tom said he saw something.	Tom got ew tiştekî dîtibû.
+We are basketball players.	Em gişka yarîkerên baskêtbolê ne.
+We'd like to speak to you.	Em dixwazin bi te re bipeyivin.
+You don't have to do this.	Tu ne neçarî wisa bikî.
+He is the older of the two.	Ewa ji herduya mezintir e.
+I didn't dare say anything.	Min newêrî ez tiştekî bibêjim.
+I know Tom works very hard.	Ez zanim ku Tom gelekî dixebite.
+I want you to stay with me.	Ez dixwazim bi te řa bimînim.
+Learn these names by heart.	Evan navan ji dil ve fêr bibe.
+She died of stomach cancer.	Ew ji ber şêrpenceya gedeyê mir.
+Tom laughed half-heartedly.	Tom bêdil keniya.
+Tom traveled around Europe.	Tom li dora Ewropa geřîya.
+We celebrated his birthday.	Me řojbûna wî pîroz kir.
+Your hair smells wonderful.	Bêhna porê te pir xweş e.
+Have you ever broken a bone?	Te qet hestiyek şikesti yî?
+I can't tell you who we are.	Ez nikanim bi te řa bibêm em kî ne.
+I have no idea how it works.	Ez nizanim ew çawa kar dike.
+I tried to explain my ideas.	Min hewl da ez ramanên xwe şîrovekim.
+I'll see if Tom can help us.	Ezê se kim ger Tom kane destekê xwe bide me.
+I'm not afraid of lightning.	Ez ji birûska natiřsim.
+Obviously, it's not working.	Aşkere ye, ew naşuxle.
+Please tell me your opinion.	Bi xêra xwe dîtina xwe ji min řa bêje.
+The phone's stopped working.	Têlêfon pûç bû.
+The room is full of flowers.	Ode tijî ye bi kulîlka.
+You need a heart transplant.	Pêdiviya te bi dilguhestinê heye.
+I know a good French teacher.	Ez mamostakî řind yê frensî nasdikim.
+Mary likes both Tom and John.	Marî ji herduyan hez dike Tom û Jon.
+My stomach hurts after meals.	Piştê xwarinê, gedeya min diêşe
+She has a strong personality.	kesayetîya wê bihêz e.
+The enemy blew up the bridge.	Dijmin piřê teqand.
+They've been unusually quiet.	Ewana ne wek her car bêdeng mane.
+This fish has a lot of bones.	Wî masî gellek hestî li xwe digire.
+Tom is seldom busy on Monday.	Tom kêm cara roja Duşemê mijûl e.
+Could you repeat that, please?	Tu dikarî wê gotinê dubare kî, ji camêrîya xwe?
+Does Tom still like Australia?	Tom hên ji Ostralîyayê hezdike?
+I support you whole-heartedly.	Ez bi dil û can piştgiriyê didim te.
+People say that life is short.	Xelk dibêjin ku jîyan kin e.
+Tom has never heard Mary sing.	Tom stirana Marî tewr nebihîstibû.
+Tom said that Mary kissed him.	Tomî got ku Marî wî maç kir.
+What time did you wake Tom up?	Te kînga Tomî ji xewê řakir?
+Where did you buy this guitar?	Te ji kuderê vê gîtarê kiřîye?
+You should take this medicine.	Gerek e tu vî dermanî bibî.
+Are you sure it's a human bone?	Tu bêgumanî ko viya hestiyek mirov e?
+Did you speak to Tom yesterday?	Te duhu bi tomî řa deykir?
+Do you believe that God exists?	Bawerîya te bi xwedê heye?
+Her dream is to become a nurse.	Xewna wê ku bi perestar be.
+I arrived on the night he left.	Sêvê ew çûyê ez gihîştim.
+I could do that if I wanted to.	Minê bikira ger min bixwesta.
+I found a dollar in the street.	Min dolarekê li ser řekê dît.
+She fainted when she saw blood.	Çaxê wê xûn dît, ji bîr va çû.
+She wore heart-shaped earrings.	Ew guharên bi şeweyî dil li xwe kir.
+They left the problem unsolved.	wana piřsgirêkê berda bê çareserî.
+Tom had a problem with his car.	Tom pirsgirêkek di makînê wî da hebû.
+Tom is a pretty amazing person.	Tom merivekî piř hêja ye.
+We won't be back any time soon.	Em venagerin di demeka nêzîk da.
+What Tom said made Mary giggle.	Tiştê Tom gotîyê Marî hêrskir.
+What medicine do you recommend?	Tu çi dermanî me pêşnîyar dikê?
+He is my brother, not my father.	Ew birayê min e, ne bavê min e.
+I get so stressed out sometimes.	Ez carna piř ditengijim.
+I thought you were Tom's friend.	Ji min e tu hevalê Tomî bûyî.
+Italian is the language of love.	Îtalî zimanê evînîyê ye.
+Our hotel is on the next street.	Otêla me li ser cada tê ye.
+Please call the fire department.	Ji camêrîya xwe ji agirkujîyê řa lêxe.
+There's nothing under the chair.	Ti tiştî tine ye li binî kursîyê.
+Tom made the same mistake again.	Tom şaştîya xwe dubare kir.
+Why is it that Tom looks so sad?	Çima Tomî zêde xemgîn e?
+Your team is stronger than ours.	Koma we ji ya me bihêztir e.
+She didn't give me my money back.	Ew perêd min venegeřand.
+Tom will come to see us tomorrow.	Tom kê siba were bona me bibîne.
+I haven't read both of her novels.	Min herdu řomanêd wê nexwendine.
+I'm going to get you out of there.	Ezî têm te ji wir derxim.
+If it doesn't rain, we'll do that.	Ger baran lênekir, emê hane bikin.
+One of Tom's friends told me that.	Yek ji hevalêd Tomî usa gote min.
+There are many bones in your body.	Di laşê we de gelek hestî hene
+There are many bones in your body.	Di laşê te de gelek hestî heye.
+Tom was the only one in the house.	Tom tenê li malê bû.
+We found human bones in this cave.	Me hestiyên mirov li vî şkeftê de dît.
+Animal bodies are made up of cells.	Laşê ajalan ji xaneyan pêk tê.
+Bacteria are microscopic organisms.	Bakterî zîndewerên mikroskobî ne.
+How was your first night in Boston?	Şeva te ya yekem a li Bostonê çawa bû?
+I don't have the energy to do that.	Hêla min tine ye ku ez usa bikim.
+Our dog buries bones in the garden.	Kûçikê me hesti vedişêre hewşê.
+That disease is caused by bacteria.	Ew nexweşi ji ber bakteriyan e.
+Tom bought a large bag of potatoes.	Tom tûrekî mezin ji peteta kiřî.
+Tom came home drunk from the party.	Tom serxweş ji ahengê vegeřî malê.
+We were all present at her wedding.	Em gişka li dewata wê amade bûn.
+You can trust him to keep his word.	Tu dikarî piştrast bî; ew şořa xwe nake dudu.
+Did you find out anything about Tom?	Te di derbarê Tomî da tiştek dît?
+I can hardly see without my glasses.	Ez bi çetinayî kanim bibînim bê berçavka xwe.
+Is French an easy language to learn?	Frensî ji bo fêrbûnê zimaneke hêsan e?
+It's up to you to decide what to do.	Biryar bi dest te ye.
+One day, all this will become yours.	Řojekê, ev hemû kê bibe yê te.
+Hardly anyone ever comes to visit me.	Kêm e ku kesekî were seredana min.
+I don't like fish with lots of bones.	Ji masiyên pir bi dasî hez nakim.
+I'm always forgetting people's names.	Ez tim navên xelkê ji bîr dikim.
+The bones remained frozen in the ice.	Hestî di nav cemedê de cemidî man.
+The human skull consists of 23 bones.	Kiloxê mirov ji 23 hestiyan pêk tê.
+What do your brothers and sisters do?	Xûşk û birayêd te çi dikin?
+I don't think you've broken any bones.	Zen nakim tu hestiyêk te şikestî be.
+I have a fish bone stuck in my throat.	Dasiyê masî di qirrika min da ma.
+I wouldn't forgive Tom if he did that.	Ger Tom wiya bikira ez ê efû nekim.
+I'm sure that I'll be able to do that.	Ez ewledar im ku ezê kanibim usa bikim.
+Tom broke one of the bones in his leg.	Tom hestiyek lingê xwe şikandiye.
+I don't think Tom has one of these yet.	Ez bawer nakim ku Tom bi wî řa yek ji vana heye ta niha.
+I thought Tom's mother's name was Mary.	Ji min e jî navê dîya Tomî Marî bû.
+My success is largely due to your help.	Serkeftina min sebebeka jê; alîkarîya te bû.
+This conference takes place every year.	Ev civîna her salî çê dibe.
+Tom thought that Mary looked exhausted.	Tom ji wî bû ku Marî westîyayî xuya bûbû.
+Viruses are much smaller than bacteria.	Vîrus ji bakteriyan gellek hûriktir in.
+Bacteria are invisible to the naked eye.	Bakterî bi çavên tazî nayên dîtin.
+Blood cells are made in the bone marrow.	Xaneyên xwînê di moxê hestî de tên çêkirin.
+I want to know when you plan to do that.	Ez dixwazim zanibim tu kîçaq dixwazê wî tiştî bikê.
+The man who wrote this book is a doctor.	Kesê ku vê piřtûkê nivîsandîyê bijîşk e.
+Tom is supposed to be at home with Mary.	Tom gerek e li malê be tev marî va.
+Why does everyone need to learn English?	Çima herkes gerek e fêrî Înglîzî bibe?
+Everybody is immune to smallpox nowadays.	Di van rojan da hemû kes bergirîne li dij xurîkê.
+His brother had been missing for a while.	Birakê min demeka kurt hinda bû.
+Why didn't you tell Tom you were thirsty?	Ji çi ra te bi Tomî ra negot ku tu tî yî?
+Why don't you try on this yellow sweater?	Tu çima vî kenzî zer li xwe nakî?
+Would you please look after the children?	Xêra xwe tu kanê li ber zaroka bê?
+He was accused of stealing dinosaur bones.	Ew ji ber dizîna hestiyê dînazorê tê tawanbarkirin.
+I've learned a lot of techniques from Tom.	Ez piř řêgeha ji Tomî hêvosîm.
+X rays are used to locate breaks in bones.	Tîrojên Xê ji bo diyarkirina cihê şikestî yên hestiyan tê bikaranîn.
+You'll learn how to do it sooner or later.	Tê fêr bibî cawa tu bikî, naka ya paşê.
+I don't think we can do anything right now.	Ez nabînim ku em naka kanin tiştek bikin.
+Hand washing is one way to control bacteria.	Şûştina destan riyek e ji boy konrolkirina bakteriyan.
+I just thought that I might be able to help.	Ez naka ramîm ku dibe ez kanibim alîkarîyê bikim.
+I would've done it if you hadn't stopped me.	Min ê bi dawî bikira ger wî ez nerawestandama.
+They tried to hide what was really going on.	Wana hewl da ku tiştê dibe veşêrin.
+I saw the old man feed his dog chicken bones.	Min kalê ko hestiyên mirîşkan dida kûçikê xwe dît.
+Tom told Mary that he didn't have to do that.	Tom gote Marî ku gerek e wî usa nekira.
+Tom told me that he's immune to that disease.	Tom ji min re got ko bergiriya wî heye ji bo wê nexweşiyê.
+I owned a small bar in Boston for a few years.	Çend salan min li Boston barekî piçûk hebû.
+Tom already knows I'm not very happy about it.	Tom bi xwe zane ez ji vê yekê ne pir şa me.
+He couldn't bring himself to believe her story.	Wî nikanî xwe bi çîroka wê bawerkirin bida.
+His only wish was to see his son one last time.	Xwesteka wî tenê ew bû ku lawê xwe careka din bibîne.
+The small intestine is about seven meters long.	Dirêjiya rûviya zirav bi qasî heft metre ye.
+Tom goes for a walk with his dog every morning.	Tom deře dimeşe tev kûçikê xwe sibe bi sibe.
+Tom has been living in Australia since October.	Tom li Ostralîyayê dijî ji Kewçêrê da.
+As far as I can tell, there are no broken bones.	Bi qasî ko ez dikarim bibêjim, hestiyên şikestî tune.
+I gave the dog a bone. That stopped its barking.	Min hestiyek da kûçik ko ewtiya wê da sekinandin.
+The show was wonderful. You should have seen it.	Řapêşî hêja bû. Gerek e te bidîtîya.
+This isn't the first time Tom has broken a bone.	Ev ne cara yekem e hestiyê Tok şikestiye.
+Tom told me he didn't want to move to Australia.	Tom gote min ku ewî nedixwest heře Ostralyayê.
+Tom told me that he wasn't going back to Boston.	Tom'î ji min re got ku ew ê venegere Boston'ê.
+We were glad when we saw a light in the distance.	Em şa bûn çaxê me ji dûr va ronayîyekê dît.
+He got his arm broken while he was playing soccer.	Çaxê wî bi gogê dilîst, destê xwe şikand.
+We just want to know whether Tom is coming or not.	Em tenê dixwazin zanibin heger Tom kê were lê na.
+You don't understand what's really happening here.	Tênagihîşte te çi bi rastî li vir dibe.
+The spinal column is composed of twenty-four bones.	Birrbirreya piştê ji bîst û çar hestiyan pêk tê.
+Tom and Mary usually speak to each other in French.	Tom û Marî piřcara bi hev řa bi fransî dipeyvin.
+If that guitar weren't so expensive, I could buy it.	Ger ew gîtara ne awqas biha ba, minê kanîba bikiřîya.
+London, where I live, used to be famous for its fog.	London, cîyê ez dijîm, navdar e bi mijdûmanê xwe.
+The human body is composed of billions of small cells.	Laşê mirov ji milyaran xaneyan pêk tê
+I thought that it'd be more comfortable if we sat here.	Ez ramîm ku wê çêtir be heger em li wir rûniştin.
+There were a lot of people on both sides of the street.	Li her du alîyêd kolanê pir kes hebûn.
+For breakfast, I had two eggs and a burnt piece of toast.	Bona taştê, Min du hêka û perçak şewitî ji tostê danî.
+If it were me, I think I'd try going to a different hospital.	Ez li şona wê bama, ez bawer dikim ezê biçûma nexweşxanakê din.
+Tom is three years older than I am, but he's shorter than I am.	Tom bi sê sala ji min mezintir e, lê ji min kintir e.
+Antibiotics kill bacteria, but won't do anything against viruses.	Dijaten bakteriyan dikujin, lê li dij vîrusan wê tiştek nekin.
+Tom and Mary broke up, so they won't be going to the dance together on Friday.	Tom û Marî hevdu berdan, loma ewana wê roja înê bi hev ra nerin reqsê.

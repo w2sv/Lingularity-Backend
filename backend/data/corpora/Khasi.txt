@@ -1,0 +1,1304 @@
+Go.	Leit.
+Go.	Khie.
+Hi.	Ei.
+Run!	Mareh!
+Who?	Mano?
+Wow!	Ani!
+Fire!	Siat!
+Help!	Iarap!
+Hide.	Rieh.
+Jump.	Kynthih.
+Jump.	Ryngkoh.
+Stay.	Shong.
+Stay.	Sah.
+Stop!	Sangeh!
+Wait.	Ap.
+Hello!	Kumno!
+Hello!	Ei!
+Hurry!	Kloi!
+Hurry!	Wut!
+Hurry!	Kloi wut!
+Hurry!	Dabaw!
+Hurry!	Pynstet!
+Relax.	Jaijai.
+Shoot!	Siat!
+Smile.	Rkhie.
+Smile.	Rymmuiñ.
+Freeze!	Sangeh!
+Freeze!	Wat khih!
+Get up.	Khie joit.
+Get up.	Ïeng joit.
+He ran.	U mareh.
+I know.	Nga tip.
+I lost.	Nga rem.
+I work.	Nga trei.
+Listen.	Sngap.
+Really?	Shisha!
+We try.	Ngi pyrshang.
+Ask Tom.	Kylli ia u Tom.
+Ask Tom.	Kylli na u Tom.
+Be cool.	Long jaijai
+Call me.	Call ianga.
+Come in.	Rung.
+Come in.	Wan shapoh.
+Come in.	Rung shapoh.
+Goodbye!	Ho!
+Goodbye!	Mo!
+Goodbye!	Lah leit mo!
+Goodbye!	Sa leit ho!
+He came.	U wan.
+He came.	U lah wan.
+He runs.	U mareh.
+Help me.	Iarap ianga.
+I agree.	Nga mynjur.
+Keep it.	Buh.
+Kiss me.	Doh ianga.
+Me, too.	Nga ruh.
+Perfect!	Biang!
+Shut up!	Sngapjar!
+Shut up!	Wat balaiñ!
+Shut up!	Nai balaiñ!
+Shut up!	Balaiñ!
+Take it.	Shim.
+Tell me.	Iathuh ianga.
+Wake up!	Khie!
+Wake up!	Khie joit!
+Wake up!	Khie noh!
+We know.	Ngi tip.
+Why not?	Balei?
+You run.	Phi mareh.
+Back off.	Shadien.
+Be still.	Shong khop.
+Be still.	Ïeng khop.
+Beats me.	Tip.
+Cool off!	Pynjaijai.
+Get away!	Shuh!
+Get down.	Nguh.
+Get lost.	Shatai.
+Grab him.	Bat ia u.
+How cute!	Ka jingiskuin.
+How deep?	Katno jingjylliew?
+How nice!	Jingsngewtynnad!
+Hurry up.	Kloi.
+Hurry up.	Wut.
+Hurry up.	Kloi kloi.
+Hurry up.	Wut wut.
+I forgot.	Nga klet.
+It's hot.	Ka shit.
+It's hot.	Ka khluit.
+Leave it.	Iehnoh.
+Leave me.	Iehnoh ianga.
+Sit down.	Shong.
+Speak up!	Kren eh.
+Stand up!	Ieng!
+Stand up!	Ieng joit!
+They won.	Ki jop.
+Too late.	Slem palat.
+We agree.	Ngi mynjur.
+After you.	Maphi shwa.
+Answer me.	Jubab ianga.
+Calm down.	Jaijai.
+Catch him.	Bat ia u.
+Catch him.	Kem ia u.
+Come here.	Wan shane.
+Come here.	Wan hangne.
+Come here.	Ale shane.
+Come here.	Ale hangne.
+Come home.	Wan sha ïing.
+Follow me.	Bud ianga.
+Good luck.	Donbok!
+Goodnight.	Thiah suk.
+I laughed.	Nga rkhie.
+I'm sorry.	Map.
+I'm sorry.	Map ianga.
+Leave now.	Mih mynta.
+Lie still.	Thiah beit.
+Lie still.	Thiah khop.
+Look back!	Peit shadien!
+Look back!	Phai shadien!
+Of course.	Haoid kein.
+Pardon me?	Kaei?
+Pardon me?	Aiu?
+Seriously?	Shisha?
+She cried.	Ka ïam.
+She cried.	I ïam.
+She walks.	Ka iaid.
+She walks.	I iaid.
+Sign here.	Soi hangne.
+Sit tight.	Shong khop.
+Sit tight.	Shong beit.
+Stay calm.	Jaijai.
+Stay down!	Dem!
+Stay down!	Nguh!
+Step back.	Shadien.
+Stop that!	Wat leh kumto!
+Take care.	Da sumar bha.
+Try again.	Pyrshang biang.
+Turn left.	Phai sha kadiang.
+Watch out!	Da peit!
+Watch out!	Leh bha!
+Watch out!	Da peit bha!
+Who cares?	Dep shato.
+Who cares?	Mat dep.
+Who cares?	Mat dep shato.
+You tried.	Phi la pyrshang.
+Choose one.	Jied iwei.
+Choose one.	Jied uwei.
+Choose one.	Jied kawei.
+Come along.	Wan lang.
+Come along.	Ale lang.
+Come quick!	Wan kloi!
+Eat slowly.	Bam suki.
+Follow him.	Bud ia u.
+God exists.	U Blei u don.
+Hello, Tom.	Tom!
+Hey, relax.	Ei, jaijai.
+How lovely!	Jingsngewtynnad!
+How lovely!	Jingitynnad!
+I love you.	Nga ieid iaphi.
+I love you.	Nga ieid iapha.
+I love you.	Nga ieid iame.
+I need you.	Nga donkam iaphi.
+Jesus wept.	U Jisu u iam.
+Look there.	Peit hangto.
+Look there.	Peit shato.
+Look there.	Peit shatai.
+Look there.	Peit hangtai.
+Look there.	Peit hangtei.
+Look there.	Peit shatei.
+Never mind!	Lah biang.
+No kidding?	Oh kumta?
+No problem!	Ym leilei.
+Pick it up.	Tam.
+Pick it up.	Khar.
+Please sit.	Sngewbha shong.
+Quiet down.	Jarjar.
+Stay there.	Ap hangto.
+Stay there.	Shong hangto.
+Step aside.	To khyndiat.
+Study hard.	Pule tyngeh.
+Study hard.	Minot tyngeh.
+Take cover!	Rieh!
+That hurts.	Ka pang.
+That hurts.	Ka pang kato.
+Tom cooked.	U Tom u shet.
+Tom nodded.	U Tom u kohnguh.
+Tom shaved.	U Tom u lah khur.
+Turn right.	Phai sha kamon.
+We'll fail.	Ngin rem.
+We'll fail.	Ngin sa rem.
+We'll fail.	Ngin sa ia rem.
+Who cooked?	Mano ba shet?
+Wood burns.	Ka dieng ka ing.
+You called?	Phi khot?
+You decide.	Rai maphi.
+You decide.	Rai phi.
+You decide.	Ong maphi.
+You decide.	Ong phi.
+Don't worry.	Wat khuslai.
+He is eight.	U don phra snem.
+He is eight.	U lah don phra snem.
+How are you?	Kumno phi long?
+I need this.	Nga donkam ia kane.
+I need this.	Nga donkam kane.
+I thank you.	Nga khublei iaphi.
+It's pretty.	Tynnad.
+Just get up.	Shu khie joit.
+Keep trying.	Ïai pyrshang.
+Nobody came.	Ym don ba wan.
+Nobody died.	Ym don ba iap.
+Please come.	Sngewbha wan.
+Please come.	Wan seh.
+Remember it.	Da kynmaw.
+Stand aside.	Shuh.
+Stand aside.	Shuh shatai.
+Stand aside.	Wat wit.
+Stand aside.	Shuh nangne.
+Stand still!	Ieng beit!
+Stand still!	Ieng khop!
+Turn around.	Phai shadien.
+Walk slowly.	Iaid suki.
+Who are you?	Phi dei mano?
+Who are you?	Phi dei iei?
+Wood floats.	Ka dieng ka per.
+Work slowly.	Trei suki.
+Are you deaf?	Phi kyllut?
+Are you deaf?	Phi kyllut ne?
+Are you deaf?	Pha kyllut?
+Are you deaf?	Pha kyllut ne?
+Are you deaf?	Me kyllut?
+Are you deaf?	Me kyllut ne?
+Are you sure?	Lah thikna?
+Bear with me.	Iaishah bad nga.
+Bear with me.	Iashah bad nga.
+Beef, please.	Ai dohmasi.
+Come outside.	Wan shabar.
+Come quickly.	Wan wut.
+Come quickly.	Ale wut.
+Drive safely.	Ñiah bha.
+Drive slowly.	Ñiah suki.
+Fish, please.	Ai dohkha.
+Ghosts exist.	Ki rngai ki don.
+He kicked it.	U kynjat iaka.
+How annoying!	Ni wit!
+How annoying!	Wit!
+I don't know.	Ngam tip.
+I don't know.	Tip.
+I understand.	Nga sngewthuh.
+It's raining.	Ka slap.
+It's too hot.	Ka shit palat.
+It's too hot.	Ka khluit palat.
+Keep reading.	Ïai pule.
+Ladies first.	Kynthei shwa.
+Move quietly.	Iaid jarjar.
+Please hurry.	Sngewbha kloi.
+Please hurry.	Sngewbha pynstet.
+Please leave.	Sngewbha mih.
+Please relax.	Sngewbha jaijai.
+Pull it open.	Tan kan plie.
+Speak softly.	Kren jem.
+Speak softly.	Kren suki.
+Stop filming.	Wat ring.
+Stop filming.	Nai ring.
+Stop reading.	Sangeh ka pule.
+Stop reading.	Lahbiang ka pule.
+Stop yelling!	Wat hylla!
+Sweet dreams!	Thiahsuk!
+That is mine.	Une udei u jongnga.
+This is good.	Ka bha kane.
+This is good.	Ka best kane.
+Unbelievable!	Bymlah ngeit.
+Who's hungry?	Mano thngan?
+Who's hungry?	Mano ba thngan?
+Who's hungry?	Mano ba lah thngan?
+Are you crazy?	Lah bieij?
+Are you crazy?	Phi lah bieij ne?
+Are you crazy?	Me lah bieij ne?
+Are you crazy?	Pha lah bieij ne?
+Everyone dies.	Baroh ki iap.
+Help yourself.	Ia bam.
+How beautiful!	Jingbhabriew!
+How wonderful!	Ka jingsngewtynnad!
+I just got up.	Nga dang shu khie.
+I was so cold.	Ka khriat bha.
+I've got beer.	Nga ioh beer.
+It is raining.	Ka slap.
+My name's Tom.	Nga kyrteng Tom.
+Speak clearly.	Kren shai.
+Speak clearly.	Kren bha.
+Stop meddling.	Wat pynthut.
+Stop meddling.	Wat pyndik.
+Stuff happens.	Shait long.
+Stuff happens.	Shait long kumto.
+Suit yourself.	Katba me mon.
+Suit yourself.	Katba phi mon.
+Suit yourself.	Katba pha mon.
+Tom looks sad.	U Tom u i sngewsih.
+Tom wants you.	U Tom u kwah iaphi.
+We understand.	Ngi sngewthuh.
+What happened?	Jia aiu?
+When was that?	Mynno kata?
+When's dinner?	Lano ka bammiet?
+Where are you?	Hangno phi don?
+Where are you?	Haei phi don?
+Where are you?	Shano phi don?
+Where are you?	Shaei phi don?
+You look hurt.	Phi i kumba phi pang.
+You look hurt.	Me i kumba me pang.
+You look hurt.	Pha u kumba pha pang.
+Cows eat grass.	Ki masi ki bam phlang.
+Cows give milk.	Ki masi ki ai dud.
+Eat everything.	Bam lut.
+Eat everything.	Bam baroh.
+Eat everything.	Bam barohkhoit.
+Happy birthday!	Sngikha bakmen!
+I'm OK for now.	Nga biang ia mynta.
+It's hot today.	Ka shit mynta.
+It's hot today.	Ka shit mynta ka sngi.
+It's not weird.	Kam khyllah re.
+It's not weird.	Kam kynsha re.
+It's not weird.	Kam long kynsha re.
+It's not weird.	Kam long khyllah re.
+Louder, please.	Kham jam, seh.
+Louder, please.	Kham jam, sngewbha.
+Louder, please.	Kham eh, seh.
+Louder, please.	Kham eh, sngewbha.
+My name is Tom.	Nga kyrteng Tom.
+Pack your bags.	Song ki tiar.
+Pack your bags.	Song ki pla.
+Pack your bags.	Lum ki pla.
+Pack your bags.	Lum ki tiar.
+Please try one.	Sngewbha try iwei.
+Please try one.	Sngewbha try uwei.
+Please try one.	Sngewbha try kawei.
+Please try one.	Sngewbha pyrshang uwei.
+Please try one.	Sngewbha pyrshang kawei.
+Please try one.	Sngewbha pyrshang iwei.
+Read this book.	Pule kane ka kot.
+She teased him.	Ka pyndom ia u.
+She teased him.	Ka pynshrai ia u.
+Smoke appeared.	Ka mih ka tdem.
+Smoke appeared.	Ka paw ka tdem.
+Stop grumbling.	Nai thnum.
+These are pens.	Kine ki dei ki khulom.
+They quarreled.	Ki ia mai.
+They quarreled.	Ki ia tim.
+They quarreled.	Ki ia nia.
+Wash your face.	Bta ka khmat.
+Wash your face.	Sait ka khmat.
+Watch the road.	Da peit ka lynti.
+Watch the road.	Da peit ka surok.
+Watch yourself.	Peit ialade.
+What are those?	Kiei kito?
+What are those?	Kito kidei kiei?
+What'll change?	Kaei ka ban kylla?
+You're welcome.	Ym lei lei.
+Can you hear me?	Phi lah ban iohsngew ianga?
+Can you hear me?	Iohsngew ianga?
+Cover your eyes.	Tap ki khmat.
+He has ten cows.	U don shiphew tylli ki masi.
+How old are you?	Phi lah don katno snem?
+I found the key.	Nga lah lap u shabi.
+I found the key.	Nga lah shem u shabi.
+I have dandruff.	Nga don thyllieh.
+I have two cats.	Nga don artylli ki miaw.
+I remember that.	Nga kynmaw ia kata.
+I remember that.	Nga kynmaw ia kato.
+I remember that.	Nga kynmaw ia katei.
+I remember that.	Nga kynmaw ia katai.
+I want to fight.	Nga kwah ban iashoh.
+I want you, Tom.	Nga kwah iaphi, Tom.
+I want you, Tom.	Nga kwah iame, Tom.
+I'm a Christian.	Nga dei ka kristan.
+I'm just asking.	Nga shu kylli.
+I'm just joking.	Nga shu ongkai.
+It's refreshing.	Ka pyngngad.
+Jesus loves you.	U Jisu u ieid iaphi.
+Leave it behind.	Ieh shadien.
+Let me off here.	Sangeh hangne mo.
+Let me off here.	Sangeh hakhmat.
+Look behind you.	Peit shadien jong phi.
+Look behind you.	Peit shadien jong me.
+Look behind you.	Peit shadien jong pha.
+Look behind you.	Peit hadien jong phi.
+Look behind you.	Peit hadien jong me.
+Look behind you.	Peit hadien jong pha.
+Merry Christmas!	Krismas basuk.
+Pass me the pen.	Ai sha nga u khulom.
+Pass me the pen.	Ai ha nga u khulom.
+Read this first.	Pule shuwa iakane.
+Read this first.	Pule iakane shuwa.
+Read this first.	Iakane shuwa pule.
+They called you.	Ki la khot iaphi.
+Wash the dishes.	Khlieng ki tiar.
+Wash the dishes.	Sait ki tiar.
+Wash the dishes.	Khlieng ki pliang.
+Wash the dishes.	Sait ki pliang.
+Wash your hands.	Thet ki kti.
+Wash your hands.	Sait ki kti.
+We work for Tom.	Ngi trei na bynta u Tom.
+We've come home.	Ngi la wan iing.
+Did anybody come?	Don ba wan?
+Did anybody come?	Don mano mano ba wan?
+Everyone laughed.	Baroh ki rkhie.
+Give me the keys.	Ai ianga u shabi.
+Give me the keys.	Ai u shabi ianga.
+Give me the keys.	Ai u shabi ha nga.
+Give me the keys.	Ai ha nga u shabi.
+I am eating rice.	Nga dang bam ja.
+I don't know him.	Ngam ithuh ia u
+I don't know yet.	Ngam pat tip.
+I have no energy.	Ngam don bor.
+I'm here to stay.	Nga don hangne ban sah.
+It needs washing.	Ka donkam ban sait.
+Listen carefully.	Sngap bha.
+Prepare yourself.	Pynkhreh ialade.
+See you tomorrow.	Sa iapeit lashai.
+She looked at me.	Ka peit ianga.
+She looked at me.	I peit ianga.
+The moon has set.	U bnai u lah sep.
+There's one more.	Don sa kawei.
+There's one more.	Don sa iwei.
+There's one more.	Don sa uwei.
+Tom hit me first.	U Tom u shoh shwa ianga.
+Tom was kneeling.	U Tom u demkhohsiew.
+Tom was kneeling.	U Tom u dang demkhohsiew.
+Tom's phone rang.	Ka phone u Tom ka pah.
+What do you want?	Phi kwah aiu?
+What do you want?	Aiu phi kwah?
+What do you want?	Kaei phi kwah?
+What's your name?	Phi kyrteng aiu?
+When do you open?	Ha kano ka por phi plie?
+Why are you late?	Balei phi slem?
+You're dishonest.	Me thok.
+You're dishonest.	Phi thok.
+You're dishonest.	Pha thok.
+You're dishonest.	Pha sla.
+You're dishonest.	Me sla.
+You're dishonest.	Phi sla.
+Are they Japanese?	Ki dei ki nongjapan?
+Cows give us milk.	Ki masi ki ai iangi ka dud.
+Cows give us milk.	Ki masi ki ai dud iangi.
+Did you wait long?	Phi lah ap slem?
+Goodnight, Mother.	Mei, thiahsuk.
+He can't stop him.	Um lah ban pynsangeh ia u.
+How should I know?	Kumno ngan shu tip?
+How should I know?	Ngan shu tip kumno?
+How should I know?	Ngan tip kumno?
+How weird is that?	Ka jingkhyllah!
+I didn't know why.	Nga khlem tip balei.
+I didn't know why.	Ngam tip balei.
+I don't have time.	Ngam don por.
+I love that chair.	Nga ieid ia katai ka shuki.
+Is Tom in surgery?	U Tom u don ha ka surgery?
+Is this lake deep?	Ka jylliew kane ka nan?
+It didn't go well.	Ka khlem iaid bha.
+It didn't go well.	Ka khlem long bha.
+That's impossible.	Bymlahlong!
+The earth rotates.	Ka pyrthei ka shad pyllun.
+This is difficult.	Ka eh kane.
+This is difficult.	Kane ka eh.
+This is difficult.	Kane ka long kaba eh.
+This is difficult.	Kane ka long kaba jynjar.
+This is difficult.	Kane ka jynjar.
+This is difficult.	Ka jynjar kane.
+This is very good.	Ka bha bha kane.
+This is very good.	Ka best bha kane.
+Tom began to move.	U Tom u sdang ban khih.
+Tom bikes to work.	U Tom u leit trei da ka cycle.
+Tom bikes to work.	U Tom u leit sha jingtrei da ka cycle.
+Tom seems sincere.	U Tom u i hok.
+Tom wants answers.	U Tom u kwah jubab.
+What do you go by?	Khot kumno iaphi?
+What is your name?	Phi kyrteng aiu?
+What is your name?	Kaei ka kyrteng jongphi?
+What is your name?	Phi kyrteng kumno?
+What is your name?	Kumno phi kyrteng?
+What is your name?	Kyrteng kumno phi?
+What is your name?	Kyrteng kumno maphi?
+What is your name?	Kyrteng aiu phi?
+What is your name?	Kyrteng aiu maphi?
+Where are you now?	Haei phi don mynta?
+Where do you live?	Haei phi sah?
+Why did you agree?	Balei phi mynjur?
+He leaves at eight.	U mih phra baje.
+He leaves at eight.	U mih por phra baje.
+I couldn't bear it.	Ngam lah shah.
+I detest hypocrisy.	Nga isih ia ka jingarsap.
+I don't understand.	Ngam sngewthuh.
+I know how to swim.	Nga nang ban jngi.
+It's still crowded.	Ka dang khapñiah.
+Let go of the rope.	Pyllait ia u tyllai.
+My dog is obedient.	U ksew jong nga u long uba ngeit sneng.
+My dog is obedient.	U ksew jong nga u ngeit sneng.
+My shoes are brown.	Ki juti nga ki long rong brown.
+My shoes are brown.	Ki juti nga ki brown.
+She picked flowers.	Ka kheit syntiew.
+She picked flowers.	Ka phut syntiew.
+She picked flowers.	Ka tam syntiew.
+She picked flowers.	Ka khar syntiew.
+Stop. That tickles.	Sangeh. Ka smieij.
+Sushi is delicious.	U sushi u bang.
+The sky brightened.	Ka bneng ka shai.
+The stars came out.	Ki khlur ki mih.
+These pens are his.	Kine ki khulom kidei jong u.
+These pens are his.	Kine ki dei ki khulom jong u.
+They want Tom back.	Ki kwah biang ia u Tom.
+This belongs to me.	Kane ka dei ka jongnga.
+This chair is ugly.	Kane ka shuki ka isih.
+Tom never saw Mary.	U Tom um ju iohi ia ka Mary.
+What are you doing?	Phi leh aiu?
+What else is there?	Sa kaei don hangto?
+What're they doing?	Ki ialeh aiu?
+What're they doing?	Aiu ki ialeh?
+What're you saying?	Phi ong aiu?
+What're you saying?	Phi kren aiu?
+When does it begin?	Lano kan sdang?
+You're the biggest.	Phi dei uba heh tam.
+You're the biggest.	Phi long uba heh tam.
+Can I have a minute?	Long phin ap khyndiat?
+Glass breaks easily.	Ka ïit ka pait suk.
+I didn't pick it up.	Nga khlem tam.
+I didn't pick it up.	Nga khlem khar.
+I feel bad for them.	Nga sngew sieh iaki.
+I'll kick your butt!	Ngan kynjat jingshong jongphi.
+I'm losing business.	Nga dang duhnong.
+It's different here.	Ka pher hangne.
+Look at the picture.	Peit ha ka dur.
+Step into the light.	Ïeng haba shai.
+Step into the light.	Ïeng ha ka jingshai.
+The moon is shining.	U bnai u shai.
+The moon is shining.	U bnai u phyrnai.
+This chair is light.	Kane ka shuki ka sting.
+We've got something.	Ngi don aiu-re-aiu.
+We've got something.	Ngi don aiu-aiu.
+We've got something.	Ngi don kaei-re-kaei.
+We've got something.	Ngi don uei-re-uei.
+What time is it now?	Katno baje mynta?
+When is school over?	Katno baje wai skul?
+When is school over?	Lano kut skul?
+Where is the toilet?	Shaei ka painkhana?
+Where is the toilet?	Haei ka painkhana?
+Where is the toilet?	Shano ka painkhana?
+Where is the toilet?	Hangno ka painkhana?
+You didn't break it.	Phi khlem pynpait iaka.
+You didn't break it.	Phim shym pynpait iaka.
+You must keep quiet.	Phi dei ban sngapjar.
+Are these your shoes?	Kine kidei ki juti jongphi?
+Are these your shoes?	Kine kidei ki juti jongme?
+Are these your shoes?	Kine kidei ki juti jongpha?
+Are these your shoes?	Ki juti jongphi kine?
+Are these your shoes?	Ki juti jongme kine?
+Are these your shoes?	Ki juti jongpha kine?
+Children need loving.	Ki khynnah ki donkam jingieid.
+Do you speak English?	Phi kren english?
+Do you speak English?	Phi kren phareng?
+Does anybody hear me?	Don ba iohsngew ianga?
+I could hardly stand.	Ngam lah tang ban ïeng ruh.
+I walked up the hill.	Ngi iaid shajrong u lum.
+I was jealous of you.	Nga bishni iaphi.
+I'll see you at home.	Ngan sa iakynduh iaphi ha ïng.
+I'll see you at home.	Ngan sa iakynduh iame ha ïng.
+I'll see you at home.	Ngan sa iakynduh ia pha ha ïng.
+I'll see you at home.	Sa iakynduh ha ïng.
+I'll take the jacket.	Ngan shim ka jacket.
+It's really annoying.	Ka pynshrai bha.
+It's still breathing.	Ka dang ring mynsiem.
+She looks very happy.	Ka i kmen bha.
+She looks very happy.	I i kmen bha.
+Tell me a true story.	Iathuh ianga kawei ka khana ba shisha.
+That news got around.	Kato ka khubor ka lah saphriang lut.
+That was unfortunate.	Kata kalong kaba sniewbok.
+The river overflowed.	Ka wah ka lah shlei.
+They live downstairs.	Ki sah shapoh.
+Tom cut his own hair.	U Tom u khap hi ia u shñiuh.
+Tom is the strongest.	U Tom u dei u bakhlaiñ tam.
+Tom is the strongest.	U Tom u dei u ba khlaiñ tam.
+Tom is the strongest.	U Tom u dei uba khlaiñ tam.
+Tom is the strongest.	U Tom u long u ba khlaiñ tam.
+Tom is the strongest.	U Tom u long uba khlaiñ tam.
+Tom was only teasing.	U Tom u shu pynshrai.
+Tom was only teasing.	U Tom u shu pyndom.
+Tom won the election.	U Tom u jop iaka election.
+Where's the director?	Shaei u director?
+Where's the director?	Shaei ka director?
+Where's the director?	Shaei i director?
+Why aren't they here?	Balei kim don hangne?
+Bears can climb trees.	Ki dngiem ki lah ban kiew dieng.
+Does Tom want to come?	U Tom u kwah ban wan?
+Does Tom want to come?	U kwah ban wan u Tom?
+He is tall and strong.	U jrong bad khlaiñ.
+He must have been ill.	U lah ban ioh pang.
+How does that song go?	Ka long kumno kumto kato ka jingrwai?
+How much is admission?	Katno bai rung?
+I didn't vote for you.	Nga khlem vote iaphi.
+I extended my holiday.	Nga lah pynjrong iaka shuti.
+I extended my holiday.	Nga lah pynjlan iaka shuti.
+I hate voice messages.	Nga isih ia ki voice message.
+I want you to kiss me.	Nga kwah iaphi ban doh ianga.
+I'll be right in here.	Ngan don hangne.
+Is this biodegradable?	Une dei ba pyut?
+Is this biodegradable?	Kane dei ba pyut?
+It is very cold today.	Ka khriat bha mynta ka sngi.
+My house is very cold.	Ka ïng jongnga ka khriat bha.
+Please cover yourself.	Sngewbha tap ialade.
+Should we try to help?	Ngin pyrshang ban iarap?
+Thanks for everything.	Khublei na ka bynta baroh.
+That was really sweet.	Ka sngewieid bha.
+They exchanged hellos.	Ki iakylliang jingaikhublei.
+Tom can't do it alone.	U Tom um lah ban leh marwei.
+Tom cuts his own hair.	U Tom u khap shñiuh hi.
+Tom cuts his own hair.	U Tom u khap hi ia u shñiuh jong lajong.
+Tom said he knew Mary.	U Tom u ong ba u ithuh ia ka Mary.
+Tom said he knew Mary.	I Tom i ong ba i ithuh ia i Mary.
+What are those called?	La khot kumno ia kito?
+What are those called?	La khot aiu ia kito?
+What are those called?	Khot kumno ia kito?
+What are those called?	Khot aiu ia kito?
+What is wrong with me?	Jia aiu ia nga?
+When is your birthday?	Lano sngikha jongphi?
+Where else would I go?	Shaei de ngan leit?
+Why don't you like me?	Balei phim sngewtynnad ianga?
+You can't afford this.	Phim lah ban thied iakane.
+You didn't protect me.	Phi khlem iada ianga.
+He asked me a question.	U kylli ianga ka jingkylli.
+He asked me a question.	U kylli ianga kawei ka jingkylli.
+He asked me a question.	U kylli jingkylli ianga.
+He found me a good job.	U pynioh ianga ka kam ba biang.
+He is in need of money.	U donkam pisa.
+He is in need of money.	U don ha ka jingdonkam pisa.
+He jumped over a ditch.	U kynthih ia ka thliew.
+He wouldn't hurt a fly.	U dei u ba jemnud.
+I didn't mean to stare.	Nga khlem mut ban peitseh.
+I didn't want to do it.	Nga khlem kwah ban leh.
+I gave it my best shot.	Nga lah leh katba nga leh.
+I was just making sure.	Nga shu pynthikna.
+I've lost my briefcase.	Nga lah jah ia ka briefcase.
+I've lost my briefcase.	Nga lah pynjah ia ka briefcase.
+Is it true you bit Tom?	Dei shisha me dait ia u Tom?
+Is it true you bit Tom?	Dei shisha phi dait ia u Tom?
+Is it true you bit Tom?	Dei shisha pha dait ia u Tom?
+It took me by surprise.	Ka pynkyndit ia nga.
+It took me by surprise.	Ka pynlyngngoh ianga.
+It's impossible to fix.	Ka long ka bymlahlong ban shna.
+My car's in the garage.	Ka kali jong nga ka don ha sem kali.
+Pull yourself together!	Pyneh!
+Pull yourself together!	Pyneh ialade!
+The ship began to sink.	Ka jhat ka sdang ban ngam.
+The toilet is upstairs.	Ka painkhana ka don shajrong.
+The toilet is upstairs.	Ka painkhana ka don hajrong.
+The toilet is upstairs.	Ka painkhana ka don shalor.
+The toilet is upstairs.	Ka painkhana ka don halor.
+Tom almost always wins.	U Tom u jan jop beit man ka por.
+Tom just saved my life.	U Tom u pynlait im ianga.
+Tom used to have a dog.	U Tom u ju don ksew.
+What are those numbers?	Kito kidei ki nombar aiu?
+What are those numbers?	Kiei kito ki nombar?
+Where did you see that?	Haei phi iohi ia kato?
+Where did you see that?	Naei phi iohi ia kato?
+Where did you see that?	Haei phi iohi ia kata?
+Where did you see that?	Naei phi iohi ia kata?
+Why can't animals talk?	Balei ki mrad kim lah ban kren?
+You haven't even tried.	Phim pat pyrshang hi.
+You should let Tom win.	Phi hap ban ai lad ia u Tom ba un jop.
+You should let Tom win.	Me hap ban ai lad ia u Tom ba un Jop.
+Can I make a phone call?	Long ngan call?
+Did you buy me anything?	Phi thied eiei ianga?
+I don't find this funny.	Ym samrkhie eiei.
+I no longer need a loan.	Ngam donkam shuh iaka loan.
+I promise to do my best.	Nga kular nga ngan leh bha.
+I think that Tom is fat.	Nga tharai u Tom u sngaid.
+I wonder what Tom wants.	U Tom u kwah aiu tip.
+It was only a bad dream.	Dei tang ka jingruma.
+That book is a new book.	Kane ka kot kadei ka kot thymmai.
+That book is a new book.	Kane ka kitab kadei ka kitab thymmai.
+That man stole my purse.	Utai u briew u tuh ia ka pla jong nga.
+That man stole my purse.	Utei u briew u tuh ia ka pla jong nga.
+That man stole my purse.	Uto u briew u tuh ia ka pla jong nga.
+That man stole my purse.	Uta u briew u tuh ia ka pla jong nga.
+The storm sank the boat.	Ka eriong ka pynngam ia ka lieng.
+Tom has lots of friends.	U Tom u don bun ki paralok.
+We were pretty thorough.	Ngi lah leh bniah bha.
+Where is the taxi stand?	Haei jaka ïeng taxi?
+Why are you all shocked?	Balei phi ia lyngngoh?
+Give me a piece of chalk.	Ai chalk.
+I didn't drink the water.	Nga khlem dih ka um.
+I don't know how to swim.	Ngam nang ban jngi.
+I just need some aspirin.	Nga shu donkam katto-katne u aspirin.
+I'll never understand it.	Ngan ym sngewthuh ia kata.
+I'm not eating this fish.	Ngam bam re kane ka dohkha.
+I'm not going to go back.	Ngan nym leit phai biang.
+It didn't just affect me.	Ka khlem ktah tang ianga.
+Next time, don't drop it.	Ha kawei pat ka por, wat pynhap iaka.
+Only Tom would know that.	Tang u Tom un tip.
+That's impossible for me.	Ka long ka bymlahlong ianga.
+These pants don't fit me.	Kine ki patlun kim biang ianga.
+These pants don't fit me.	Kine ki patlun kim ñiam ianga.
+These pants don't fit me.	Kane ka patlun kam biang ianga.
+These pants don't fit me.	Kane ka patlun kam ñiam ianga.
+Tom and Mary are outside.	Tom bad Mary ki don shabar.
+Tom and Mary are outside.	U Tom bad Ka Mary ki don shabar.
+Tom denied that happened.	U Tom u len ba ka jia.
+Tom fell down the stairs.	U Tom u hap naki mawstep.
+Tom is going to hurt you.	U Tom un pynmynsaw ia phi.
+Tom is going to hurt you.	U Tom un pynmynsaw ia pha.
+Tom is going to hurt you.	U Tom un pynmong ia me.
+Tom is going to hurt you.	U Tom un pynmong ia phi.
+Tom is going to hurt you.	U Tom un pynmynsaw ia me.
+Tom is going to hurt you.	U Tom un pynmong ia pha.
+Tom will be here with me.	U Tom un sa don hangne bad nga.
+What did you get exactly?	Phi ïoh aiu shisha?
+What did you get exactly?	Shisha phi ïoh aiu?
+Where can I get some ice?	Naei ngan ïoh thah?
+Where's the fitting room?	Haei jaka kylliang jaiñ?
+Where's the fitting room?	Hangno jaka kylliang jaiñ?
+Will you go out tomorrow?	Phin mih lashai?
+Will you please go there?	Phim sngewbha leit re shata?
+You can tell me tomorrow.	Phi lah ban iathuh ia nga lashai.
+You can't escape from me.	Phim lah ban lait nanga.
+You can't escape from me.	Phim lah ban phet nanga.
+You can't escape from me.	Phin ym lah ban lait nanga.
+You can't escape from me.	Phin ym lah ban phet nanga.
+You can't escape from me.	Phin nym lah ban lait nanga.
+You can't escape from me.	Phin nym lah ban phet nanga.
+You can't escape from me.	Men ym lah ban lait nanga.
+You can't escape from me.	Mem lah ban lait nanga.
+You can't escape from me.	Men nym lah ban lait nanga.
+You can't escape from me.	Men ym lah ban phet nanga.
+You can't escape from me.	Men nym lah ban phet nanga.
+You can't escape from me.	Pham lah ban lait nanga.
+You can't escape from me.	Phan ym lah ban lait nanga.
+You can't escape from me.	Phan nym lah ban lait nanga.
+You may do what you wish.	Phi lah ban leh katba phi mon.
+Am I still your boyfriend?	Nga dang dei u samla jong phi?
+Can you give me some time?	Long phin ai por ianga khyndiat?
+Did you have a good sleep?	Phi iohthiah bha?
+Do you have time tomorrow?	Phi don por lashai?
+He plays beach volleyball.	U lehkai beach volleyball.
+How did you get down here?	Kumno phi poi shane sha poh?
+How lucky can one guy get?	Lah shu donbok.
+How lucky can one guy get?	Lah shu bhabok.
+I'll do what must be done.	Ngan leh ia kaei kaba dei ban leh.
+I'm going to Tom's office.	Ngan leit sha office u Tom.
+I'm not sure what I'll do.	Ngam thikna ngan leh aiu.
+I'm sure you're very busy.	Nga thikna phi bunkam bha.
+I'm sure you're very busy.	Nga thikna pha bunkam bha.
+I'm sure you're very busy.	Nga thikna me bunkam bha.
+It's too late to try that.	Ka lah slem ban leh iakata.
+It's too late to try that.	Ka lah dier ban leh iakata.
+Tell me where the wine is.	Iathuh ianga haei ka waiñ ka don.
+Tell me where the wine is.	Iathuh ianga haei ka don ka waiñ.
+The truth is I told a lie.	Ka jingshisha ka long ba nga thok.
+They're all scared of Tom.	Ki ia tieng lut i'u Tom.
+Tom knew he had hurt Mary.	U Tom u tip ba u la pynmong ia ka Mary.
+Tom put on his sunglasses.	U Tom u deng ka iitkhmat jongu.
+Tom shooed away the flies.	U Tom u beh ia ki skaiñ.
+We must leave immediately.	Ngi dei ban mih noh mynta mynta.
+We should be getting back.	Ngi lah dei ban iapoi biang.
+We should give this a try.	Ngi dei ban pyrshang ia kane.
+We're going to the market.	Ngi leit sha iew.
+You agree with Tom, right?	Phi ia mynjur bad u Tom, dei?
+You can go if you want to.	Phi lah ban leit lada phi kwah.
+You can go if you want to.	Phi lah ban ia leit lada phi ia kwah.
+You can go if you want to.	Me lah ban leit lada me kwah.
+You can go if you want to.	Me lah ban ia leit lada me ia kwah.
+You can go if you want to.	Pha lah ban leit lada pha kwah.
+You can go if you want to.	Pha lah ban ia leit lada pha ia kwah.
+You don't know the system.	Phim tip iaka system.
+Ask Tom what his plans are.	Kylli i'u Tom kiei ki plan jong u.
+Do I have to make a speech?	Nga hap ai jingkren?
+Don't you want to stop Tom?	Phim kwah pynsangeh ia u Tom?
+Everyone has been affected.	Baroh lah shah ktah.
+He stood there for a while.	U ieng hangto shiphang.
+How do you use this camera?	Kumno la pyndonkam iakane ka kamera.
+I can't get anything right.	Ngam ju dei kaei-kaei ruh.
+I didn't give Tom anything.	Nga khlem ai eiei ia u Tom.
+I didn't give Tom anything.	Ngam shem ai eiei ia u Tom.
+I have to go to the toilet.	Nga hap ban leit sha ka painkhana.
+I know Tom is a bus driver.	Nga tip u Tom u dei u nong ñiah bos.
+It's all you can really do.	Ka dei baroh ba phi lah ban leh shisha.
+Pick the one you like best.	Jied ia iba phi sngewtynnad tam.
+Pick the one you like best.	Jied ia iba phi best tam.
+She wrote me a long letter.	Ka thoh ianga ka shithi bajrong.
+Thank you for volunteering.	Khublei ba phi pyniarap lem.
+There won't be a next time.	Yn ym don da kawei ka por.
+These animals are friendly.	Kine ki mrad ki long paralok bha.
+These chairs are different.	Kine ki shuki ki pher.
+Tom died a miserable death.	U Tom u ïap ka jingïap ba sngewjynjar.
+Tom lives in his own world.	U Tom u don ha la ka jong ka pyrthei.
+Tom said Mary wasn't happy.	U Tom u ong ba ka Mary kam kmen.
+Tom wanted Mary to go away.	U Tom u kwah baka Mary kan leit noh.
+Tom was the one who cooked.	U dei u Tom uba shet.
+What languages do you know?	Kiei ki ktien ba phi nang?
+What languages do you know?	Phi nang ktien aiu?
+Where would you like to go?	Shano phi kwah ban leit?
+Where would you like to go?	Shano me lwah ban leit?
+Where would you like to go?	Shano pha kwah ban leit?
+Where would you like to go?	Shaei phi kwah ban leit?
+Where would you like to go?	Shaei pha kwah ban leit?
+Where would you like to go?	Shaei me kwah ban leit?
+Why did you buy this horse?	Balei phi thied ia une u kulai?
+You should use a deodorant.	Phi dei ban pyndonkam deo.
+How are we going to do that?	Kumno ngin leh iakata?
+How are we going to do that?	Ngin leh kumno iakata?
+I don't want to disturb you.	Ngam kwah ban pynthut iaphi.
+I know Tom is a new student.	Nga tip ba u Tom u dei u khynnah pule ba thymmai.
+I know Tom is a strange guy.	Nga tip ba u Tom u long u briew uba khyllah.
+I know you have it with you.	Nga tip phi don maphi kato.
+I'm going to drive you home.	Ngan leit on iaphi sha ïing.
+I'm very pleased to be here.	Nga sngewbha shibun ban don hangne.
+I've got one just like that.	Nga don kum ito.
+I've got one just like that.	Nga don kum kato.
+I've got one just like that.	Nga don kum uto.
+Metal contracts when cooled.	Ka nar ka ran ynda lah pjah.
+My car is parked over there.	Nga park ia ka kali hangtei.
+Please keep your voice down.	Sngewbha jarjar.
+This is extremely important.	Kane kadei kaba donkam bha.
+This is extremely important.	Kane ka dei kaba donkam palat.
+This is extremely important.	Kane ka dei kaba donkam shibun.
+Tom is liked by his friends.	I'u Tom la sngewtynnad da ki paralok jong u.
+Tom told Mary to try harder.	U Tom u ong iaka Mary ba kan pyrshang kham tyngeh.
+Tom's own father killed him.	U kpa jong u Tom hi u pyniap ia u.
+We need to get this weighed.	Ngi donkam thew ia kane.
+We need to get this weighed.	Ngi donkam ban thew jngkhia ia kane.
+We want what's best for you.	Ngi kwah kaba bha iaphi.
+We want what's best for you.	Ngi kwah kaba bha na ka bynta jong phi.
+What do you do for the team?	Phi leh aiu na ka bynta ka team?
+Each of them has his own car.	Uwei-pa-uwei naki u don kali.
+How do you know Tom is there?	Kumno phi tip u Tom u don hangto?
+How do you know Tom is there?	Kumno me tip u Tom u don hangto?
+How do you know Tom is there?	Kumno pha tip u Tom u don hangto?
+How many tickets do you need?	Katno tylli ticket phi donkam?
+How many tickets do you want?	Katno tylli ticket phi kwah?
+I don't want to go to school.	Ngam kwah ban leit skul.
+I don't want to go to school.	Ngam kwah ban leit sha skul.
+I saw Tom give a flower Mary.	Nga i i'u Tom ba ai syntiew iaka Mary.
+I told my parents everything.	Nga iathuh lut ia i mei i pa.
+I told my parents everything.	Nga la iathuh lut ia i mei i pa.
+I want you to read this book.	Nga kwah iaphi ba phin pule kane ka kot.
+Just tell me what's going on.	Shu iathuh ianga jia aiu.
+Tom didn't do anything wrong.	U Tom u khlem leh eiei ba bakla.
+Tom didn't do anything wrong.	U Tom u khlem leh bakla eiei.
+Tom didn't provide an answer.	U Tom u khlem ai jubab.
+Tom lives alone with his dog.	U Tom u sah marwei bad u ksew jong u.
+Tom soon caught up with Mary.	Sa shiphang u Tom u lap ia ka Mary.
+Can I see your ticket, please?	Sngewbha pyni ticket.
+Do you really want Tom to die?	Phi kwah shisha ia u Tom ba un ïap?
+Do you want to come sit by me?	Phi kwah ban wan shong bad nga?
+Don't you want to sit with me?	Phim kwah shong bad nga?
+Don't you want to sit with me?	Mem kwah shong bad nga?
+Don't you want to sit with me?	Pham kwah shong bad nga?
+He spoke to me when he saw me.	U Kren ianga mynba u ïohi ianga.
+He spoke to me when he saw me.	U kren ianga por ba u ïohi ianga.
+How am I going to impress Tom?	Kumno ngan pyniapbieij ia u Tom?
+I don't have any children yet.	Ngam pat don khun.
+I should visit Australia, too.	Nga ruh dei ban leit jngohkai ia ka Australia.
+I understand why you're angry.	Nga sngewthuh balei phi dom.
+I'm pretty sure Tom can do it.	Nga thikna ba u Tom u lah ban leh.
+Please get out of the kitchen.	Sngewbha mih na kamrashet.
+Please write that down for me.	Thoh seh.
+Please write that down for me.	Thoh lem seh.
+Tom fell off his mother's lap.	U Tom u hap na lybong kmie jong u.
+Tom is still paying attention.	U Tom u dang pynleit jingmut.
+Tom lost his camera in Boston.	U Tom u lah pynjah ia ka kamera jong u ha Boston.
+We eat together every evening.	Ngi bam lang man ka janmiet.
+What do you like to be called?	Phi kwah ban shah khot kumno?
+What kind of a person are you?	Phi dei jait briew ba kumno?
+Why do I need to learn French?	Balei ba nga hap ban nang french.
+Why does this have to be done?	Balei ia kane hap ban pyndep?
+You agree with Tom, don't you?	Phi ia mynjur bad u Tom, dei?
+Do you have a steady boyfriend?	Phi don samla ba biang?
+Have you washed your hands yet?	Phi lah sait ki kti?
+He remained silent for a while.	U sngapjar shiphang.
+I don't know what I want to do.	Ngam tip nga kwah ban leh aiu.
+I don't know what I want to do.	Ngam tip kaei kaba nga kwah ban leh.
+I just want to forget about it.	Nga kwah klet noh shaphang kato.
+I'd visit Boston if I were you.	Lada dei nga ngan leit kai sha Boston.
+I'm very proud of our students.	Nga sngewsarong shibun ïa la ki jong ki khynnah.
+I've been up all night writing.	Nga shong baroh shi miet thoh jingthoh.
+It's hotter than usual tonight.	Ka kham shit ban ia barabor mynta ka miet.
+Please stop talking about that.	Sngewbha nai ia kren shaphang kata.
+They seem to know all about us.	Ki i kumba ki tip lut shaphang jongngi.
+Tom and Mary weren't much help.	U Tom bad ka Mary kim da iarap than.
+Tom has asked Mary to help him.	U Tom u kyrpad iaka Mary ban iarap ia u.
+Tom hasn't seen Mary in months.	U Tom u khlem iohi ia ka Mary da ki bnai.
+Tom is Mary's cousin, isn't he?	U Tom u dei u para-arkmie jong ka Mary, dei?
+Tom is Mary's cousin, isn't he?	U Tom u dei u hymmen-arkmie jong ka Mary, dei?
+Tom is Mary's cousin, isn't he?	U Tom u dei u para-bakha jong ka Mary, dei?
+Tom is Mary's cousin, isn't he?	U Tom u dei u hymmen-bakha jong ka Mary, dei?
+Tom isn't going to do it again.	U Tom um leh shuh.
+Tom was even busier than I was.	U Tom u kham bunkam ban ia nga.
+Tom will die without your help.	U Tom un sa iap khlem jingiarap jongphi.
+We often eat fish raw in Japan.	Bunsien ngi bam im ia ka dohkha ha Japan.
+We often eat fish raw in Japan.	Ha Japan bunsien ngi bam im ia ka dohkha.
+We often eat fish raw in Japan.	Bunsien ha Japan ngi bam im ia ka dohkha.
+What is the name of this river?	Kyrteng aiu kane ka wah?
+What is the name of this river?	Kane ka wah ka kyrteng aiu?
+What is the name of this river?	Aiu ka kyrteng kane ka wah?
+What is the name of this river?	Kaei ka kyrteng jong kane ka wah?
+Where are you trying to get to?	Phi mut ban leit shano?
+Where are you trying to get to?	Phi mut ban leit shaei?
+Do you know who Tom's mother is?	Phi tip mano ba dei kmie u Tom?
+Do you know who Tom's mother is?	Phi tip i kmie u Tom dei mano?
+Give Tom everything he asks for.	Ai ia u Tom katba u pan.
+Give Tom everything he asks for.	Ai katba pan u Tom.
+I know that Tom isn't in Boston.	Nga tip ba u Tom um don ha Boston.
+I thought that you already knew.	Nga mut phi lah tip.
+I want to go back to my friends.	Nga kwah ban leit biang sha la ki paralok.
+I would like you to sing a song.	Nga kwah iaphi ba phin rwai kawei ka jingrwai.
+I'm too busy to talk to you now.	Nga dang bunkam palat ban kren iaphi mynta.
+I've spent most of my life here.	Nga lah pynlut bun ka jingim jongnga hangne.
+Is the tap water here drinkable?	Long ban dih kato ka um kor?
+Pardon me, but that's my racket.	Sngewbha, tangba kato kadei ka racket jongnga.
+She will give a party next week.	Kan sa ai party la shem taiew.
+Take me to this address, please.	Ïalam ianga shane seh.
+Take me to this address, please.	Ïalam ianga shane ka jaka seh.
+Tom borrowed some money from us.	U Tom u pankylliang pisa na ngi.
+Tom didn't come home until 2:30.	U Tom u khlem wan ïng haduh 2:30.
+Tom didn't come home until 2:30.	U Tom um shym wan ïng haduh 2:30.
+Tom has no idea what he's doing.	U Tom um tip eiei u leh aiu.
+Tom has no idea what he's doing.	U Tom um tip eiei aiu u leh.
+Tom has no idea what he's doing.	U Tom um tip eiei ba u leh.
+Tom hired me to paint his house.	U Tom u aikam ianga ban airong iaka iing jong u.
+Tom isn't going to buy that car.	U Tom un ym thied ia kato ka kali.
+Tom wants everybody to like him.	U Tom u kwah ba baroh kin sngewtynnad ia u.
+Tom wants everybody to like him.	U Tom u kwah ia baroh ba kin sngewtynnad ia u.
+We must work as long as we live.	Ngi dei ban trei katba ngi dang im.
+We must work as long as we live.	Katba ngi dang im ngi dei ban trei.
+Could you write that down for me?	Long phin thoh?
+He showed us how to ride a horse.	U pyni iangi kumno ban ñiah kulai.
+How long do we have to wait here?	Haduh katno ngi hap ban ap hangne?
+I did that the way Tom suggested.	Nga leh kumba u Tom u bthah.
+I did that the way Tom suggested.	Nga leh kumba bthah u Tom.
+I did that the way Tom suggested.	Nga leh kumba u phah u Tom.
+I did that the way Tom suggested.	Nga leh kumba u Tom u phah.
+I was looking for the barbershop.	Nga dang wad dukan khapsñiuh.
+I'm not usually picky about food.	Ngam jied bam.
+I'm not usually picky about food.	Nga bam naphang.
+Not everything Tom said was true.	Ym baroh ba ong u Tom dei ba shisha.
+Not everything Tom said was true.	Ym baroh ba u Tom u ong dei ba shisha.
+This book is easy for me to read.	Kane ka kot ka suk ianga ban pule.
+Tom and Mary were waiting for me.	U Tom bad ka Mary ki ap ianga.
+Tom is just finishing setting up.	U Tom u dang shu dep pynkhreh.
+Tom knows about this, doesn't he?	U Tom u tip shaphang kane, hato um tip re?
+Tom said he didn't remember much.	U Tom u ong ba um da kynmaw bha.
+Tom said it was all like a dream.	U Tom u ong ba dei tang ka jingphohsniew.
+Tom stepped on some broken glass.	U Tom u iuh ha ki iit ba lah pait.
+Tom would never leave his family.	U Tom un ym mih noh na kane ka longïing.
+What else are you planning to do?	Phi mut ban leh aiu-aiu de?
+What were you doing at that time?	Phi leh aiu katto baje?
+What were you doing at that time?	Phi leh aiu ha kato ka por?
+What were you doing at that time?	Me leh aiu ha kato ka por?
+What were you doing at that time?	Me leh aiu katto baje?
+What were you doing at that time?	Pha leh aiu katto baje?
+What were you doing at that time?	Pha leh aiu ha kato ka por?
+When I woke up, I was in the car.	Ynda nga lah kyndit, nga lah don ha kali.
+Why did you stop studying French?	Balei me sangeh pule French?
+Why didn't you ever tell me that?	Balei phim ju iathuh ianga shaphang kata?
+Why didn't you ever tell me that?	Balei pham ju iathuh ianga shaphang kata?
+Why didn't you ever tell me that?	Balei mem ju iathuh ianga shaphang kata?
+Why do you need a new television?	Balei phi donkam TV ba thymmai?
+Do you know how to use chopsticks?	Phi nang ban pyndonkam ia ki chopsticks?
+Do you know how to use chopsticks?	Phi nang kumno ban pyndonkam ia ki chopsticks?
+Do you think I'm making a mistake?	Phi mut ba nga leh bakla?
+Do you think I'm making a mistake?	Me mut ba nga leh bakla?
+Do you think I'm making a mistake?	Pha mut ba nga leh bakla?
+Everybody's got something to hide.	Baroh ki don eiei ban buhrieh.
+He gave the same answer as before.	U ai kajuh ka jubab kum kaba hashuwa.
+I feel like going to Boston again.	Kwah leit biang sha Boston.
+I feel like going to Boston again.	Nga sngew kwah leit biang sha Boston.
+I know you have an essay to write.	Nga tip phi don essay ban thoh.
+I need to put the children to bed.	Nga hap ban pynthiah ia ki khun.
+I need to put the children to bed.	Nga hap ban pynïohthiah ia ki khun.
+I saw Tom running down the street.	Nga iohi ia ia u Tom ba u mareh shathie.
+I saw Tom running down the street.	Nga iohi u Tom u mareh shathie.
+I'm not sure who has my suitcases.	Ngam thikna mano ba bat ka suitcase nga.
+I'm not sure who has my suitcases.	Ngam thikna mano ba bat ka suitcase jong nga.
+I'm not the only one who's hungry.	Ngam dei tang manga ba thngan.
+The store will be closed tomorrow.	Ka dukan ka khang lashai.
+There are only books on the shelf.	Don tang ki kot ha duli.
+Tom didn't want to go there alone.	U Tom um kwah ban leit shato marwei.
+Tom didn't want to go there alone.	U Tom um kwah ban leit shatei marwei.
+Tom didn't want to go there alone.	U Tom um kwah ban leit shatai marwei.
+Tom has found out Mary can't read.	U Tom u lap ba ka Mary kam nang pule.
+Tom has found out Mary can't read.	U Tom u lap ba ka Mary kam lah ban pule.
+Tom is more gullible than Mary is.	U Tom u kham ngeit biej ban ia ka Mary.
+Tom was glad to hear Mary's voice.	U Tom u kmen ban iohsngew iaka sur jong ka Mary.
+Who runs the fastest of the three?	Mano ba stet tam naki lai ngut?
+Who runs the fastest of the three?	Mano ba mareh stet tam na ki lai ngut?
+Would you mind calling Tom for me?	Long phin khot ia u Tom?
+A cat appeared from under the desk.	Ka miaw ka paw na khrum ka mieij.
+Aren't you going to give me a kiss?	Phin nym doh ianga?
+Do you know what this is all about?	Phi tip dei shaphang kaei kine baroh?
+How soon will the next bus be here?	Lano kan poi ka bus hangne?
+I am asking questions to my father.	Nga dang kylli jingkylli ia i pa.
+I don't believe they would do that.	Ngam ngeit ba kin ia leh kumta.
+I don't believe they would do that.	Ngam ngeit ba kin leh ia kata.
+I knew Tom wouldn't do that for us.	Nga tip ba u Tom un ym leh kato na ka bynta jong ngi.
+I knew Tom wouldn't do that for us.	Nga tip ba u Tom un nym leh kato na bynta jong ngi.
+I'm here because I have to be here.	Nga don hangne namar nga hap ban don hangne.
+I'm pretty sure that Tom can do it.	Nga thikna ba u Tom u lah ban leh.
+I've been to Boston numerous times.	Nga lah poi sha Boston katto katne sien.
+I've been to Boston numerous times.	Nga lah leit sha Boston katto katne sien.
+If you want peace, prepare for war.	Lada phi kwah Jinsuk, pynkhreh iaka thma.
+Mr. Jackson was a very bad teacher.	U Sir Jackson u long u nonghikai bym ler.
+Nowadays no one believes in ghosts.	Mynta ki por ym don ba ngeit rngai.
+Tom handed the photo album to Mary.	U Tom u ai ia ka albom dur ha ka Mary.
+Tom must've been very disappointed.	U Tom u lah dei ban sngewsih bha.
+Tom smiled when Mary looked at him.	U Tom u rkhie mynba ka Mary ka peit ia u.
+Tom smiled when Mary looked at him.	U Tom u rymmuin mynba ka Mary ka peit ia u.
+Tom threw a rock at one of my dogs.	U Tom u kawang maw ia uwei na ki ksew jongnga.
+We've been to Australia many times.	Ngi lah poi bunsien sha Australia.
+We've been to Australia many times.	Ngi lah poi sha Australia bunsien.
+What would you like me to call you?	Phi kwah ianga ba ngan khot kumno iaphi?
+What would you like me to call you?	Phi kwah ngan khot kumno iaphi?
+Will you guys please stop fighting?	Phin ia sngewbha sangeh iashoh.
+Did you happen to see her yesterday?	Phi poi iohi iaka mynnin?
+Do you know how much profit we made?	Phi tip katno ngi lah iohnong?
+Do you know who left that box there?	Phi tip mano ba iehnoh ia kato ka synduk hangto?
+Have you already bought your ticket?	Phi lah thied lypa ka ticket jong phi?
+How many nights will you be staying?	Katno miet phin sah?
+I don't like talking with strangers.	Ngam sngewtynnad ban iakren bad ki nongwei.
+I just say what Tom tells me to say.	Nga shu ong ia kaei kaba u Tom u ong ianga ban ong.
+I just say what Tom tells me to say.	Nga shu ong ia kaei kaba u Tom u ong hanga ban ong.
+I just say what Tom tells me to say.	Nga shu ong katba u Tom u phah ianga ban ong.
+I should've told Tom why I was late.	Nga lah dei ban iathuh ia u Tom balei nga slem.
+Is there a tennis court around here?	Don tennis court hangne?
+Tom and I both want to go to Boston.	U Tom bad nga ngi kwan ban ia leit sha Boston.
+Tom is a friend of a friend of mine.	U Tom u dei u paralok jong u paralok jong nga.
+Tom put his pistol under the pillow.	U Tom u buh iaka suloi hapoh u syngkhlieh.
+Your room is twice the size of mine.	Ka kamra jongphi ka heh arshah ia ka jongnga.
+I can't believe we're all still here.	Ngam lah ngeit ngi dang ia don hangne.
+I don't know if Tom is coming or not.	Ngam tip u Tom un wan ne em.
+I think I may know where to find Tom.	Nga tharai nga lah ban tip haei ban wad i'u Tom.
+I think I may know where to find Tom.	Nga tharai nga tip hangno ban wad i'u Tom
+I think I may know where to find Tom.	Nga tharai nga tip shaei ban wad i'u Tom.
+I think I may know where to find Tom.	Nga tharai nga tip shano ban wad i'u Tom.
+People are speaking at the same time.	Ki briew ki iakren ha kajuh ka por.
+They're looking for Tom in Australia.	Ki ia wad ia u Tom ha Australia.
+They're looking for Tom in Australia.	Ki ia wad ia u Tom sha Australia.
+They're looking for Tom in Australia.	Ki dang ia wad ia u Tom ha Australia.
+They're looking for Tom in Australia.	Ki dang ia wad ia u Tom sha Australia.
+Tom can speak French better than you.	U Tom u kham nang ban kren French ban ia phi.
+Tom gave his seat to an elderly lady.	U Tom u ai ia ka jakashong jong u ha I tymmen kynthei.
+Tom got out of prison after 30 years.	U Tom u ioh mih na patok hadien 30 snem.
+Tom has lots of friends in Australia.	U Tom u don bun ki paralok ha Australia.
+Tom says he wants to do that as well.	U Tom u ong ba ma u ruh u kwah leh ia kato.
+Tom was the one who cooked breakfast.	U dei u Tom uba shet ja step.
+Tom wasn't very motivated to do that.	U Tom um shem la ioh mynsiem ban leh ia kato.
+Where can I get some ice for my knee?	Naei ngan ioh thah na ka bynta ka khohsiew jong nga?
+Who's your favorite Disney character?	Iei i Disney character ba best tam maphi?
+You're not the only one who's hungry.	Phim dei tang maphi ba thngan?
+You're not the only one who's hungry.	Mem dei tang mame ba thngan.
+How did you get permission to do that?	Kumno phi ioh jingbit ban leh ia kata?
+I came because of something you wrote.	Nga wan namar me thoh aiu re.
+I don't go anywhere without my camera.	Ngam ju leit shaei shaei khlem ka kamera jong nga.
+I know that Tom is a Canadian citizen.	Nga tip ba u Tom u dei nong Canada.
+They won't permit you to do that here.	Kim shah iaphi ba phin leh kumto hangne.
+They won't permit you to do that here.	Kin ym shah iaphi ba phin leh kumto hangne.
+Tom acknowledges that he was defeated.	U Tom u pdiang ba u lah shah pynrem.
+Tom and John pretended to be brothers.	U Tom bad u John ki ia ak kumba dei shipara.
+Tom and John pretended to be brothers.	U Tom bad u John ki ia leh kumba dei shipara.
+Tom didn't keep Mary waiting too long.	U Tom u khlem pynap slem ia ka Mary.
+Tom is Mary's older brother, isn't he?	U Tom u dei u hymmen ka Mary, dei?
+Tom is way too young to be doing this.	U Tom u dang rit palat ban leh iakane.
+We need to do that while we still can.	Ngi hap ban leh katba ngi dang lah ban leh.
+You'll cook for us tonight, won't you?	Phin shet na ka bynta jongngi mynta ka miet, em?
+How many patients do you see in a week?	Katno ngut ki nongpang phi shait peit man ka taïew?
+I don't want anyone to see me with Tom.	Ngam kwah ban shah iohi ianga bad u Tom.
+Most Japanese temples are made of wood.	Bun naki iingmane Japan la shna da ki dieng.
+That's something I'll never understand.	Kata kadei kaei kaei kaba ngan ym sngewthuh.
+There were many of us who opposed that.	Ki don bun na ngi kiba pyrshah ia ka.
+There were many of us who opposed that.	Ki don bun na ngi kiba pyrshah ia kata.
+There were many of us who opposed that.	Ki don bun na ngi kiba pyrshah ia kato.
+Tom is the only guy I know from Boston.	Nga ithuh tang ia u Tom na Boston.
+Tom is the only guy I know from Boston.	Na Boston nga ithuh tang ia u Tom.
+Tom went without food for a whole week.	U Tom u leit khlem jingbam baroh shi taiew.
+We've studied French for several years.	Ngi lah pule ktien french lah katto-katne snem.
+What was the first capital of Portugal?	Kaei kaba ju dei ka nongbah jong ka Portugal?
+You seem to ask Tom a lot of questions.	Phi i kumba phi kylli ia u Tom bun jingkylli bha.
+I don't like this paper. It's too shiny.	Ngam sngewtynnad iakane ka kot. Ka phyrnai palat.
+I don't like this paper. It's too shiny.	Ngam sngewtynnad iakane ka kot. Ka shai palat.
+I don't want to know anything about Tom.	Ngam kwah ban tip eiei shaphang u Tom.
+I wish you'd quit throwing things at me.	Nga kwah ba phin sangeh kawang tiar ha nga.
+I wish you'd quit throwing things at me.	Nga kwah ba phin sangeh pashat tiar ha nga.
+I wonder whether Tom would let me drive.	Tip u Tom un ai nym ai ianga ba ngan ñiah.
+I wonder whether Tom would let me drive.	Tip u Tom un ai ne kumno ianga ban ñiah.
+I'll get him to carry this box upstairs.	Ngan sa phah rah ha u ia kane ka synduk shalor.
+I'll get him to carry this box upstairs.	Ngan sa phah rah ha u ia kane ka synduk shajrong.
+The situation is worse than we believed.	Ka jinglong ka kham sniew ban ia kaba ngi ngeit.
+The student refused to obey his teacher.	U khynnah u saitlah ban ngeit iau nonghikai.
+The student refused to obey his teacher.	U khynnah u saitlah ban ngeit ia ka nonghikai.
+The student refused to obey his teacher.	U khynnah u kyntait ban ngeit ia i nonghikai.
+The student refused to obey his teacher.	Ka khynnah ka saitlah ban ngeit ia u nonghikai.
+Tom hasn't been swimming in a long time.	Lah slem u Tom um pat jngi.
+Tom was the first one to get here today.	U Tom u long uba nyngkong ban poi shane mynta ka sngi.
+Tom was the first one to get here today.	U Tom u long uba nyngkong ban poi hangne mynta ka sngi.
+Why do you always ask so many questions?	Balei phi shait kylli bun jingkylli bha?
+You don't have to go to school tomorrow.	Phim donkam ban leit skul lashai.
+He entered the bank disguised as a guard.	U rung ha bank da kaba riam kum u nongap.
+I bought a pen for your birthday present.	Nga thied u khulom na bynta ka sngikha jongphi.
+I don't want to know anything about that.	Ngam kwah tip eiei shaphang kata.
+I had a suspicion that he would leave me.	Nga lah don ka jingsngew ba un sa iehnoh ianga.
+I just laughed because everyone else did.	Nga shu rkhie namar baroh ki ia rkhie.
+I put my gloves on inside out by mistake.	Nga phong bakla da lyndet ia ki gloves.
+My grandmother suffers from osteoporosis.	I meiieid jong nga i pang osteoporosis.
+My grandmother suffers from osteoporosis.	I meikha jong nga i pang osteoporosis.
+She's attractive, but she talks too much.	Ka bhabriew, tangba ka kren palat.
+She's attractive, but she talks too much.	Ka bhabriew, tangba ka bun nia palat.
+She's attractive, but she talks too much.	Ka bhabriew, tangba ka heh tang ka kren.
+There is no necessity for you to do that.	Ym donkam ban leh iakato.
+There is no necessity for you to do that.	Ym donkam ban leh iakata.
+Tom and Mary own the house up the street.	U Tom bad ka Mary ki dei ki trai jong katei ka ïing hangtei.
+Tom didn't take the kids to school today.	U Tom u khlem ialam ia ki khynnah sha skul mynta ka sngi.
+Tom has already taught me how to do that.	U Tom u lah dep lypa ban hikai ianga ban leh kato.
+Why doesn't he eat lunch with me anymore?	Balei um ju bamjasngi shuh bad nga?
+You don't like it when I do that, do you?	Phim sngewtynnad re ba nga leh kumto dei?
+About how many days will you be in Boston?	Kumba katno sngi phin don ha Boston?
+About how many days will you be in Boston?	Kumba katno sngi phan don ha Boston?
+About how many days will you be in Boston?	Kumba katno sngi men don ha Boston?
+I didn't know Tom had been married before.	Nga khlem tip ba u Tom u lah da dep ïathoh.
+I know that Tom would allow us to do that.	Nga tip ba u Tom un shah ianga ba ngin leh.
+I know that Tom would allow us to do that.	Nga tip ba u Tom un shah iangi ban leh.
+I know this is hard for you to understand.	Nga tip ba ka jynjar iaphi ba phin sngewthuh.
+I know this is hard for you to understand.	Nga tip ba ka jynjar iame ba men sngewthuh.
+I know this is hard for you to understand.	Nga tip ba ka jynjar iapha ba phan sngewthuh.
+I wish that I were in Australia right now.	Nga kwah ban don ha Australia mynta.
+I won't be staying in Australia very long.	Ngam sah slem re ha Australia.
+I'm quite certain Tom has never done that.	Nga thikna ba u Tom um pat ju leh kumta.
+Tell me how you found out that I did that.	Iathuh ianga kumno phi tip ba nga keh ia kato.
+Things aren't going as well as I expected.	Ki kam ki jam kim da iaid bha re kumba nga mut.
+Tom has promised he won't do that anymore.	U Tom u lah smai ba un nym leh shuh iakato.
+Tom knew that Mary didn't need to do that.	U Tom u tip ba ka Mary ka khlem leh.
+Tom said that he wanted to sit next to me.	U Tom u ong ba u kwah shong ha syndah jong nga.
+Tom said that he wanted to sit next to me.	U Tom u ong ba u kwah shong syndah ianga.
+Tom said that he wanted to sit next to me.	U Tom u ong u kwah shong ha syndah jong nga.
+Tom said that he wanted to sit next to me.	U Tom u ong u kwah shong syndah ianga.
+We thought you might want to come with us.	Ngi tip ba phin sa kwah ban wan bad ngi.
+We thought you might want to come with us.	Ngi tip ba men sa kwah ban wan bad ngi.
+We thought you might want to come with us.	Ngi tip ba phan sa kwah ban wan bad ngi.
+You guys have too much time on your hands.	Phi sia phi ia pahuh por shibun.
+You shouldn't believe everything Tom says.	Phim dei ban ngeit lut kat kaba u Tom u ong.
+You shouldn't believe everything Tom says.	Mem dei ban ngeit lut kat kaba u Tom u ong.
+You shouldn't believe everything Tom says.	Pham dei ban ngeit lut kat kaba u Tom u ong.
+A lot of people drowned when the ship sank.	Bun ngut ki briew ki la ngam jyllop por ba ngam ka jhat.
+A telephone is more useful than a necklace.	Ka telephone ka kham myntoi ban ia u kpieng.
+I want to eat something that's good for me.	Nga kwah ban bam aiu re aiu ba bha na bynta jong nga.
+I'm sorry. I didn't mean to imply anything.	Map. Nga khlem mut ban mut eiei.
+I'm sorry. I didn't mean to imply anything.	Wat sngew eiei. Nga khlem mut ban mut eiei.
+There's gum stuck to the bottom of my shoe.	Don chewing-gum ba sahkut ha dien juti nga.
+Tom pulled out his key and opened the door.	U Tom u sei ia u shabi bad u plie ia ka jingkhang.
+Tom tried to restart the car, but couldn't.	U Tom u lah pyrshang ban sdang biang ia ka kali hynrei um leh.
+Tom was surprised how well Mary could swim.	U Tom u la lyngngoh kumno ka Mary ka nang bha ban jngi.
+Do you remember where Tom left his umbrella?	Phi kynmaw haei u Tom u buh ka shatri?
+Do you remember where Tom left his umbrella?	Me kynmaw haei u Tom u buh ka shatri?
+Do you remember where Tom left his umbrella?	Pha kynmaw haei u Tom u buh ka shatri?
+Do you remember where Tom left his umbrella?	Pha kynmaw hangno u Tom u buh ka shatri?
+Do you remember where Tom left his umbrella?	Phi kynmaw hangno u Tom u buh ka shatri?
+Do you remember where Tom left his umbrella?	Me kynmaw hangno u Tom u buh ka shatri?
+How many miles is it from Boston to Chicago?	Katno miles na Boston sha Chicago?
+I doubt that I could swim across this river.	Nga artatien ba ngan lah ban jngi sha shiliang kane ka wah.
+I'm going to Australia the month after next.	Ngan leit sha Australia lashembnai.
+I'm going to Australia the month after next.	Ngan leit sha Australia ha u bnai ban sa wan.
+Tom confessed that he had broken the window.	U Tom u la phla ba u la pynpait ia ka jingkhangït.
+Tom confessed that he had broken the window.	U Tom u la phla ba u la pynpra ia ka jingkhangït.
+Tom didn't tell anyone he wanted to do that.	U Tom u khlem iathuh iano iano ba u kwah ban leh ia kato.
+Tom didn't tell anyone he wanted to do that.	U Tom u khlem iathuh iano iano ba u kwah ban leh ia kata.
+Tom splashed Mary and she splashed him back.	U Tom u kynshait ia ka Mary bad ka kynshait kylla ia u.
+Tom tried to kiss Mary, but she leaned back.	U Tom u pyrshang ban doh iaka Mary, hynrei ka ran dien.
+A pair of earrings is a nice present for her.	Shijur ki sohshkor ki long ki jingai ba itynnad iaka.
+How could this sort of thing possibly happen?	Kumno kum kane ka jait jingjia ka lah ban jia?
+I can't decide which route to take to Boston.	Ngam lah rai da kano ka lad ban leit sha Boston.
+I don't know how to prove I wasn't in Boston.	Ngam nang kumno ba ngan sakhi ba ngam don ha Boston.
+I don't think I've ever seen Tom here before.	Ngam tharai re ba nga lah ïohi ia u Tom hangne mynno mynno.
+It impresses me that you know how to do that.	Ka pynsngewtynnad ianga ba phi nang kumno ban leh ia kato.
+It impresses me that you know how to do that.	Ka pynsngewtynnad ianga ba pha nang kumno ban leh ia kato.
+It impresses me that you know how to do that.	Ka pynsngewtynnad ianga ba me nang kumno ban leh ia kato.
+Tom didn't tell anybody he wanted to do that.	U Tom u khlem iathuh iano iano ba u kwah ban leh ia kato.
+Tom didn't tell anybody he wanted to do that.	U Tom u khlem iathuh iano iano ba u kwah ban leh ia kata.
+Are you sure that it's OK to drink this water?	Phi thikna ka biang ban dih ia kane ka um?
+Are you sure that it's OK to drink this water?	Me thikna ka biang ban dih ia kane ka um?
+Are you sure that it's OK to drink this water?	Pha thikna ka biang ban dih ia kane ka um?
+He was drunk and forgot to shut the back door.	U lah buaid bad u klet ban khang ka jingkhang shadien.
+I may have put the key somewhere in this room.	Nga buh ia u shabi haei re haei hangne ka kamra.
+I still can't remember the words to that song.	Ngam pat lah re ban kynmaw iaki kyntien kato ka jongrwai.
+I told Tom I needed his help, so he helped me.	Nga iathuh ia u Tom ba nga donkam jingïarap na u, te u la ïarap.
+My guess is that Tom isn't going to want that.	Nga tharai u Tom un nym kwah ia kato.
+Tom knew he was supposed to do that yesterday.	U Tom u tip ba u dei ban leh mynnin.
+Tom knew he was supposed to do that yesterday.	U Tom u tip ba u dei ban leh ia kato mynnin.
+Tom knew he was supposed to do that yesterday.	U Tom u tip ba u dei ban leh ia kata mynnin.
+Tom was the first one to volunteer to help us.	U Tom u dei u ba nyngkong ban iarap iangi.
+Tom went on a picnic with Mary and her family.	U Tom u leit bamkhana lem bad ka Mary bad ku bahaïing jongka.
+Who was taking care of Tom when this happened?	Mano ba sumar i'u Tom mynba kane ka jia.
+You should probably buy a ticket for Tom, too.	Phi dei ban thied ticket ia u Tom ruh.
+You're just not the person I thought you were.	Phim dei u briew uba nga mut ba phi dei.
+You're just not the person I thought you were.	Mem dei u briew uba nga mut ba me dei.
+You're just not the person I thought you were.	Pham dei ka briew kaba nga mut ba pha dei.
+Her mother lives in the country all by herself.	Ka kmie jong ka ka sah sha nongkyndong dalade.
+I know we can take care of ourselves if we try.	Nga tip ngi lah ban sumar hi ialade lada ngi pyrshang.
+I'll figure out a way to fix this. Don't worry.	Ngan sa wad hi ka lad ban pynbeit iakane. Wat khuslai.
+It didn't work out quite like I intended it to.	Ka khlem da long kumba nga mut.
+Nuclear weapons are a threat to the human race.	Ki tiarthma nuclear ki long ka jingma ia ka jaitbynriew.
+One day, she told me that she wanted a pet cat.	Shisien ka sngi, ka iathuh ianga ba ka kwah miaw.
+Tom doesn't walk to school with the other kids.	U Tom um ju iaid sha skul bad kiwei kiwei ki khynnah.
+We will clarify what is true and what is false.	Ngin sa pynshai kaei kaba dei bad kaei kaba lait.
+The hospital where Tom was born is in Australia.	Ka hospital ha kaba la kha ia u Tom ka don ha Australia.
+Tom can't believe Mary is really planning to go.	U Tom um lah ngeit ba ka Mary ka mut shisha ban leit.
+Tom is a couple of years older than me, I think.	U Tom u heh ia nga tang katto-katne snem.
+Tom is the only one who really knows what to do.	Dei tang u Tom uba tip aiu ban leh.
+Tom is the only one who really knows what to do.	Dei tang u Tom uba tip ban leh kumno.
+You really do ask a lot of questions, don't you?	Phi kylli bun jingkylli bha, hato kam dei?
+How do people like you get to be people like you?	Kumno sa don ki jaid briew kum maphi?
+How do people like you get to be people like you?	Kumno sa don ki jaid briew kum mame?
+How do people like you get to be people like you?	Kumno sa don ki jaid briew kum mapha?
+I can't put up with Tom's bad manners any longer.	Ngam lah shah shuh iaka jingkhkemakor u Tom.
+Tom didn't tell anyone that he wanted to do that.	U Tom u khlem iathuh iano iano ba u kwah ban leh ia kato.
+Tom didn't tell anyone that he wanted to do that.	U Tom u khlem iathuh iano iano ba u kwah ban leh ia kata.
+Tom put his arm around Mary and kissed her cheek.	U Tom u kdup ia ka Mary bad u doh iaka ngap jongka.
+You should not do that kind of thing by yourself.	Phim dei ban leh kum kato da lade.
+You should not do that kind of thing by yourself.	Mem dei ban leh kum kato da lade.
+You should not do that kind of thing by yourself.	Pham dei ban leh kum kato da lade.
+He is one of the greatest scientists in the world.	U dei uwei na ki scientist kiba khraw tam ha pyrthei.
+I denied that I was the one who wrote that letter.	Nga len ba nga dei uba thoh ia kato ka shithi.
+I didn't have any money and couldn't buy any food.	Ngam don pisa eiei bad ngam shem lah ban thied jingbam eiei.
+I had already eaten before I arrived at the party.	Nga lah bam lypa shuwa ba ngan poi ha jingkhawai.
+I know that Tom doesn't know anyone who does that.	Nga tip ba u Tom um ithuh iano-iano ba leh ia kata.
+I know that Tom doesn't know anyone who does that.	Nga tip ba u Tom um ithuh iano-iano ba leh ia kato.
+It has been ten years since my father passed away.	Lah don shiphew snem naduh ba khlad i pa.
+She sat on the bed as her mother braided her hair.	Ka shong ha jingthiah katba ka kmie jong ka ka pynthaiñ ia u shnñiuh jong ka.
+She sat on the bed as her mother braided her hair.	I shong ha jingthiah katba i kmie jong i i pynthaiñ ia u shñiuh jong i.
+Sometimes my dog barks in the middle of the night.	Don ki por u ksew nga u wiar shiteng miet.
+Tom didn't tell anybody that he wanted to do that.	U Tom u khlem iathuh iano iano ba u kwah ban leh ia kato.
+Tom didn't tell anybody that he wanted to do that.	U Tom u khlem iathuh iano iano ba u kwah ban leh ia kata.
+Tom isn't sure that Mary knows she has to do that.	U Tom um thikna ba ka Mary ka tip ba ka hap leh ia kato.
+Tom wanted to be the first one to get off the bus.	U Tom u kwah long ba nyngkong ban hiar na bus.
+If possible, I'd like to read more about the issue.	Lada long, ngan sngewtynnad eh ban pule shuh shuh shaphang kane ka kam.
+Tom quickly opened the drawer and pulled out a gun.	U Tom u plie sted iaka duli bad u sei ka suloi.
+I didn't really think Tom did that without any help.	Ngam tharai ba u Tom u leh ia kato khlem kano-kano ka jingiarap.
+I don't think Tom knows that I'm not single anymore.	Ngam tharai ba u Tom u tip ba ngam marwei shuh.
+If they were Canadians, this problem wouldn't exist.	Lada ki dei ki nong-Canada, kane ka jingeh kan nyn don.
+Tom has already spent all the money that I gave him.	U Tom u lah da pynlut baroh ka pisa ba nga ai ia u.
+I needed to talk to Tom, so I went over to his house.	Nga donkam ban kren ia u Tom, te nga leit mih sha iing jong u.
+I needed to talk to Tom, so I went over to his house.	Nga donkam ban ia kren bad u Tom, te nga leit sha iing jong u.
+She chatted with her friends about the baseball game.	Ka iakren bad ki paralok jongka shaphang ka baseball game.
+We don't need to waste money on things we don't need.	Ngim donkam ban pynsepei pisa ha ki tiar ba ngim donkam.
+We don't need to waste money on things we don't need.	Ngim donkam ban pynlehnohei pisa ha ki tiar kiba ngim donkam.
+I advised Tom not to waste his time trying to do that.	Nga bthah ia u Tom ba un ym pynlut por ban leh ia kato.
+I thought that you weren't supposed to be helping Tom.	Nga mut ba phim dei ban iarap ia u Tom.
+I thought that you weren't supposed to be helping Tom.	Nga pyrkhat ba phim dei ban iarap ia u Tom.
+Tom and I became friends when we both lived in Boston.	U Tom bad nga, ngi ia long paralok mynba ngi sah ha Boston.
+Tom apologized for not doing what he promised he'd do.	U Tom u panmap ba u khlem leh ia kaei kaba u lah kular ban leh.
+Tom wasn't able to figure out how to get the box open.	U Tom u khlem lah kumno ban plie ia ka synduk.
+Even if my house catches fire it would soon be put out.	Watla ka ïing jongnga ka kem ding tang shiphang kan sa shah pynlip.
+I can't believe that you did all this without any help.	Ngam lah ngeit phi leh ia kane baroh khlem jingïarap.
+I can't believe that you did all this without any help.	Ngam lah ban ngeit phi leh ia kane baroh khlem jingïarap.
+I can't believe that you did all this without any help.	Ngam lah ngeit ba phi leh ia kane baroh khlem jingïarap.
+I can't believe that you did all this without any help.	Ngam lah ban ngeit ba phi leh ia kane baroh khlem jingïarap.
+Tom asked me a lot of questions that I couldn't answer.	U Tom u kylli ianga bun ki jingkylli kiba ngam lah jubab.
+Tom asked me a lot of questions that I couldn't answer.	U Tom u kylli ianga bun ki jingkylli ba haduh ngam lah jubab.
+Tom said that he didn't want to live in Boston anymore.	U Tom u ong ba um kwah shuh ban sah ha Boston.
+We often do what we have to do, not what we want to do.	Barabor ngi leh ia kaei ba ngi hap ban leh, ym dei ia kaei ba ngi kwah.
+A mother rabbit keeps her babies warm with her own body.	Ka kmie rabbit ka pynsyaid ia ki khunkhun lyngba ka jingsyaid ka met jong ka.
+Didn't you know Tom lived in Boston when he was a child?	Phim tip ba u Tom u sah ha Boston mynba u dang khynnah?
+Didn't you know Tom lived in Boston when he was a child?	Phim tip ba u Tom u sah ha Boston por ba u dang khynnah?
+If you know the answer to this question, please tell me.	Lada phi tip ka jubab iakane ka jingkylli, sngewbha iathuh ianga.
+Tom still hasn't told me why he doesn't want to do that.	U Tom um pat iathuh ianga balei um kwah ban leh.
+My mother used to read me stories when I was a young kid.	I mei jong nga i ju iathuh khana ianga por ba nga dang khynnah.
+My mother used to read me stories when I was a young kid.	I mei jong nga i ju iathuh khana ianga por ba nga dang rit.
+My mother used to read me stories when I was a young kid.	I mei jong nga i ju iathuh khana ianga mynba nga dang khynnah.
+My mother used to read me stories when I was a young kid.	I mei jong nga i ju iathuh khana ianga mynba nga dang rit.
+My mother used to read me stories when I was a young kid.	I mei jong nga i shait iathuh khana ianga mynba nga dang khynnah.
+My mother used to read me stories when I was a young kid.	I mei jong nga i shait iathuh khana ianga mynba nga dang rit.
+My mother used to read me stories when I was a young kid.	I mei jong nga i shait iathuh khana ianga por ba nga dang khynnah.
+My mother used to read me stories when I was a young kid.	I mei jong nga i shait iathuh khana ianga por ba nga dang rit.
+The captain was the last person to leave the sinking ship.	U Kapten udei uba khatduh ban mih na ka Jhat ba ngam.
+Tom locked himself in his room and closed all the windows.	U Tom u khangkut ialade ha kamra bad u khang lut ki jingkhangïit.
+We could say that both of those balls are the same weight.	Ngi lah ban ong ba kito ki ball ki don katjuh ka jingkhia.
+When the house caught fire, an awful feeling came over me.	Mynba ka ïng ka ing, ka jingsngewma ka wan ha nga.
+In fact, Tom told me never to come back to his house again.	Ha ka jingshisha, u Tom u iathuh ia nga ba ngam dei ban wan shuh ha iing jong u.
+This book isn't as interesting as the one I read last week.	Kane ka kot kam da sngewtynnad kum kato kawei ka kot kaba nga pule mynshymtaïew.
+Tom had to pay a fine because he parked in the wrong place.	U Tom u hap ban siew ka kuna namar ba u pynieng kali ha bymdei.
+You might get fired if you do that the way Tom told you to.	Phi lah ban shah behkam lada phi leh kumba bthah u Tom iaphi.
+You might get fired if you do that the way Tom told you to.	Me lah ban shah behkam lada me leh kumba bthah u Tom iame
+You might get fired if you do that the way Tom told you to.	Pha lah ban shah behkam lada pha leh kumba bthah u Tom iapha.
+Tom told Mary that he didn't know how to play the saxophone.	U Tom u iathuh ia ka Mary ba um nang ban put saxophone.
+Will you please explain to me the exact meaning of the word?	Sngewbha batai ianga ka jingmut ba iahap tam jong ka kyntien.
+It never occurred to me that Tom wouldn't want to go with us.	Kam pat ju jia ha nga ba u Tom um kwah ban leit bad ngi.
+Tom doesn't live far from me, but I don't see him very often.	U Tom um sah jngai na nga, tangba ngam ju iohi than ia u.
+Tom doesn't live far from me, but I don't see him very often.	U Tom um sah jngai na nga, tangba ngam da iohi than ia u.
+Burj Khalifa is currently the tallest skyscraper in the world.	U Burj Khalifa mynta u dei u jingtei ba jrong tam ha ka pyrthei.
+We'll go to any length to send our child to a good university.	Ngin leh katba lah ban phah ia i khun jongngi sha ka iuniversity ba bha.
+I hope that Tom isn't going to be the one who does the driving.	Nga kyrmen ba u Tom un nym ñiah ia ka kali.
+I hope that Tom isn't going to be the one who does the driving.	Donbok ba u Tom un nym dei u ban ñiah ia ka kali.
+Why did you tear the cloth instead of cutting it with scissors?	Balei me tar iaka jaiñ haka jaka ban khap ia ka da ka khanshi?
+British and Japanese cars have steering wheels on the right side.	Ki kali jong ki Nongengland bad ki Nongjapan ki don steering sha kamon.
+The other day I ran out of gas in the middle of a busy Interstate.	Kato ka sngi nga lut umphniang ha pdeng kawei ka khap jylla.
+Tom read the Bible in its entirety, from the beginning to the end.	U Tom u pule lut ia ka Bibl, naduh ba sdang shaduh ba kut.
+Tennis is difficult. I never know which way the ball is going to fly.	Ka tennis ka jynjar. Ngam lah tip shaei ka ball kan her.
+Tom couldn't go to Boston with us because he didn't have enough money.	U Tom um shem lah ban leit sha Boston bad ngi namar ba um shem dap pisa.
+I don't think that Tom would be stupid enough to do something like that.	Ngam tharai re ba u Tom un bieij haduh katta katta ba un leh kumto.
+A long time ago when Pluto was still a planet, there was a boy named Tom.	Mynshuwa haka por ba u Pluto u dang dei u planet, don u khynnah ba kyrteng Tom.
+I don't remember if Tom lent me the book or if I borrowed it from the library.	Ngam kynmaw ba dei u Tom uba aikylliang ha nga ia ka kot ne dei ba nga shimkylliang na library.
+Tom had no idea that Mary was planning to stay in Australia for three more days.	U Tom um bna eiei ba ka Mary ka mut sah sha Australia sa lai sngi.
+It took Tom several hours to assemble a bunk bed that the instructions said would take less than an hour to assemble.	Ka shim i'u Tom katto-katne kynta ban pyndait ia ka jingthiah ba ki jingbatai ki ong ba kan shim shikynta duna ban pyndait.
+January, February, March, April, May, June, July, August, September, October, November and December are the twelve months of the year.	Kyllalynkot, Rymphang, Lber, Iaiong, Jymmang, Jylliew, Naitung, Nailar, Nailur, Risaw, Naiwieng bad Nohprah kidei ki khat-ar tylli ki bnai jong u snem.

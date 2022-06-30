@@ -1,6 +1,6 @@
 import pytest
 
-from backend.trainers.base import ForenameConvertor
+from backend.src.components.forename_convertor import ForenameConvertor
 
 
 @pytest.fixture
