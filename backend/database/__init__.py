@@ -8,6 +8,7 @@ from typing import Iterator, Type
 from monostate import MonoState
 import pymongo
 from pymongo import MongoClient
+from pymongo.collection import Collection
 from pymongo.database import Database
 from pymongo.errors import ConfigurationError, ServerSelectionTimeoutError
 
@@ -88,12 +89,27 @@ class UserTranscendentMongoDBClient(_MongoDBClient):
     def usernames(self) -> list[str]:
         return self._cluster.list_database_names()
 
+    def _general_user_collection(self, username: str) -> Collection:
+        return self._cluster[username]['general']
+
+    def query_password(self, username: str) -> str:
+        return self._general_user_collection(username).find_one({'_id': 'unique'})['password']  # type: ignore
+
     @property
     def mail_addresses(self) -> Iterator[str]:
-        return (self._cluster[username]['general'].find_one(filter={'_id': 'unique'})['emailAddress'] for username in self.usernames)  # type: ignore
+        return (self._general_user_collection(username).find_one(filter={'_id': 'unique'})['emailAddress'] for username in self.usernames)  # type: ignore
 
     def mail_address_taken(self, mail_address: str) -> bool:
         return mail_address in self.mail_addresses
+
+    def initialize_user(self, username: str, email_address: str, password: str):
+        self._general_user_collection(username).insert_one(
+            {
+                '_id': 'unique',
+                'emailAddress': email_address,
+                'password': password
+            }
+        )
 
 
 class UserMongoDBClient(_MongoDBClient):
@@ -136,12 +152,6 @@ class UserMongoDBClient(_MongoDBClient):
 
         return self.data_base['general']
 
-    def initialize_user(self, user: str, email_address: str, password: str):
-        self.user = user
-        self.general_collection.insert_one({'_id': 'unique',
-                                            'emailAddress': email_address,
-                                            'password': password})
-
     def update_last_session_statistics(self, trainer: str, faced_items: int):
         self.general_collection.update_one(
             filter={'_id': 'unique'},
@@ -151,9 +161,6 @@ class UserMongoDBClient(_MongoDBClient):
                                              'language': self.language}}},
             upsert=True
         )
-
-    def query_password(self) -> str:
-        return self.general_collection.find_one({'_id': 'unique'})['password']  # type: ignore
 
     def query_last_session_statistics(self) -> LastSessionStatistics | None:
         try:
