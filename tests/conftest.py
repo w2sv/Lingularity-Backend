@@ -2,7 +2,8 @@ from functools import lru_cache
 
 import pytest
 
-from backend.src.database import connect_database_client, UserMongoDBClient
+from backend.src.database import connect_database_client
+from backend.src.database.user_client import UserMongoDBClient
 from backend.src.types.bilingual_corpus import BilingualCorpus
 
 

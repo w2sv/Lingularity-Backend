@@ -100,3 +100,4 @@ class VocableEntry:
 
 
 VocableEntries: TypeAlias = list[VocableEntry]
+VocableEntryDictRepr: TypeAlias = dict[str, VocableData]

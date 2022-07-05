@@ -4,7 +4,7 @@ from typing import Optional
 from playsound import playsound
 
 from backend.src.components.tts._google_client import GoogleTTSClient
-from backend.src.database import UserMongoDBClient
+from backend.src.database.user_client import LanguageMetadataCollection, UserMongoDBClient
 from backend.src.utils import either_or
 
 
@@ -16,13 +16,13 @@ class TTS:
     def __init__(self, language: str):
         self._language = language
 
-        self._mongodb_client: UserMongoDBClient = UserMongoDBClient.instance()
+        self._language_metadata_db_collection: LanguageMetadataCollection = UserMongoDBClient.instance().language_metadata_collection
         self._google_tts_client = GoogleTTSClient(language)
 
         self._accent: Optional[str] = self._retrieve_previous_accent()
 
         self._playback_speed: float = self._get_playback_speed(self._accent)  # TODO
-        self._enabled: bool = either_or(self._mongodb_client.query_tts_enablement(), True)
+        self._enabled: bool = either_or(self._language_metadata_db_collection.query_tts_enablement(), True)
 
         self._audio: Optional[_TemporaryFileWrapper] = None
 
@@ -32,7 +32,7 @@ class TTS:
 
     @property
     def audio_available(self) -> bool:
-        return self._audio is not None
+        return bool(self._audio)
 
     # -----------------
     # Language Variety
@@ -40,7 +40,7 @@ class TTS:
     def _retrieve_previous_accent(self) -> Optional[str]:
         if not self._google_tts_client.language_variety_choices:
             return None
-        return self._mongodb_client.query_accent()
+        return self._language_metadata_db_collection.query_accent()
 
     @property
     def accent(self) -> Optional[str]:
@@ -55,7 +55,7 @@ class TTS:
 
         if new_value != self._accent:
             self._accent = new_value
-            self._mongodb_client.upsert_accent(new_value)
+            self._language_metadata_db_collection.upsert_accent(new_value)
 
     # -----------------
     # Enablement
@@ -65,13 +65,13 @@ class TTS:
         return self._enabled
 
     @enabled.setter
-    def enabled(self, enable: bool):
+    def enabled(self, new_value: bool):
         """ Triggers deletion of _audio file if switching from enabled to disabled,
             enters change into database """
 
-        if enable != self._enabled:
-            self._enabled = enable
-            self._mongodb_client.set_tts_enablement(self._enabled)
+        if new_value != self._enabled:
+            self._enabled = new_value
+            self._language_metadata_db_collection.upsert_tts_enablement(new_value)
 
     # -----------------
     # Playback Speed
@@ -83,7 +83,7 @@ class TTS:
 
         DEFAULT_PLAYBACK_SPEED = 1
 
-        if accent and (stored_playback_speed := self._mongodb_client.query_playback_speed(accent)) is not None:
+        if accent and (stored_playback_speed := self._language_metadata_db_collection.query_playback_speed(accent)) is not None:
             return stored_playback_speed
         return DEFAULT_PLAYBACK_SPEED
 
@@ -95,7 +95,7 @@ class TTS:
     def playback_speed(self, value: float):
         if value != self._playback_speed:
             self._playback_speed = value
-            self._mongodb_client.upsert_playback_speed(self._language_identifier, self._playback_speed)
+            self._language_metadata_db_collection.upsert_playback_speed(self._language_identifier, self._playback_speed)
 
     @staticmethod
     def is_valid_playback_speed(playback_speed_input: str) -> bool:

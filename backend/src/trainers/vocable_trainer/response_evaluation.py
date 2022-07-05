@@ -105,12 +105,12 @@ def _n_char_deviations(response: str, ground_truth: str) -> int:
         elif adjusted_response[i] != ground_truth[i]:
             n_deviations += 1
 
-            # enable covering of cases in which one character has been omitted,
+            # new_value covering of cases in which one character has been omitted,
             # such as in sopare <-> scopare
             if len(ground_truth) > len(adjusted_response) and adjusted_response[i] == ground_truth[i+1]:
                 adjusted_response = adjusted_response[:i] + ' ' + adjusted_response[i:]
 
-            # enable covering of cases in which character has been incorrectly inserted,
+            # new_value covering of cases in which character has been incorrectly inserted,
             # such as in scopaare <-> scopare
             elif len(adjusted_response) > len(ground_truth) and adjusted_response[i+1] == ground_truth[i]:
                 adjusted_response = adjusted_response[:i] + adjusted_response[i + 1:]

@@ -41,7 +41,7 @@ class VocableTrainerBackend(TrainerBackend[VocableEntry, VocableEntries]):
     def _vocable_entries_to_be_trained(self) -> list[VocableEntry]:
         tokens_with_vocable_data: Iterator[tuple[str, VocableData]] = filter(
             lambda token_with_data: not VocableEntry.is_perfected(data=token_with_data[1]),
-            self.user_mongo_client.query_vocabulary()
+            self.user_db_client.vocabulary_collection.query_vocabulary()
         )
         return list(starmap(VocableEntry, tokens_with_vocable_data))
 

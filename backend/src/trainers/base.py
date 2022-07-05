@@ -7,7 +7,7 @@ from typing import Generic, Iterator, TypeVar
 import numpy as np
 
 from backend.src.components.forename_convertor import ForenameConvertor
-from backend.src.database import UserMongoDBClient
+from backend.src.database.user_client import UserMongoDBClient
 from backend.src.string_resources import string_resources
 from backend.src.types.bilingual_corpus import BilingualCorpus, SentencePair
 from backend.src.types.vocable_entry import VocableEntries, VocableEntry
@@ -24,7 +24,7 @@ class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
         self._train_english = train_english
 
         user_mongo_client.language = self.language
-        self.user_mongo_client = user_mongo_client
+        self.user_db_client = user_mongo_client
 
         self._item_iterator: Iterator[_TrainingItem]
         self.n_training_items: int
@@ -46,7 +46,6 @@ class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
     @abstractmethod
     def set_item_iterator(self):
         """ Sets item iterator, n training items """
-        pass
 
     def _set_item_iterator(self, items: _TrainingItems):
         self.n_training_items = len(items)
@@ -68,25 +67,21 @@ class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
     # Training
     # -----------------
     def get_training_item(self) -> _TrainingItem | None:
-        """
-            Returns:
+        """ Returns:
                  None in case of depleted iterator """
 
         assert self._item_iterator is not None
-
-        try:
-            return next(self._item_iterator)
-        except StopIteration:
-            return None
+        return next(self._item_iterator, None)
 
     # -----------------
     # Post Training
     # -----------------
     def enter_session_statistics_into_database(self, n_trained_items: int):
-        update_args = (str(self), n_trained_items)
+        update_args = (self.shortform, n_trained_items)
 
-        self.user_mongo_client.update_last_session_statistics(*update_args)
-        self.user_mongo_client.inject_session_statistics(*update_args)
+        self.user_db_client.general_collection.upsert_last_session_statistics(*update_args)
+        self.user_db_client.training_chronic_collection.inject_session_statistics(*update_args)
 
-    def __str__(self):
+    @property
+    def shortform(self) -> str:
         return self.__class__.__name__[0].lower()

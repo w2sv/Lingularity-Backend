@@ -4,7 +4,7 @@ import logging
 from backend.src.utils.io import PathLike
 
 
-# enable logging
+# new_value logging
 logging.basicConfig(filename='logging.txt', level=logging.INFO)
 
 
