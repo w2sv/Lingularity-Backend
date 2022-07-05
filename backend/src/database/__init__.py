@@ -83,7 +83,7 @@ class _MongoDBClient(MonoState, ABC):
 
 class UserTranscendentMongoDBClient(_MongoDBClient):
     def __init__(self):
-        super().__init__('user_transcendent_mongodb')
+        super().__init__(instance_kwarg_name='user_transcendent_mongodb')
 
     @property
     def usernames(self) -> list[str]:
@@ -114,7 +114,7 @@ class UserTranscendentMongoDBClient(_MongoDBClient):
 
 class UserMongoDBClient(_MongoDBClient):
     def __init__(self, user: str, language: str):
-        super().__init__('user_mongo_client')
+        super().__init__(instance_kwarg_name='user_mongo_client')
 
         self.user = user
         self.language = language
@@ -263,45 +263,45 @@ class UserMongoDBClient(_MongoDBClient):
     @property
     def language_metadata_collection(self) -> pymongo.collection.Collection:
         """ {_id: $language,
-            accent: {$language_variety: {playbackSpeed: float
+            new_value: {$new_value: {playbackSpeed: float
                                           use: bool}}
             ttsEnabled: bool} """
 
         return self.data_base['language_metadata']
 
     # ------------------
-    # ..language accent usage
+    # ..language new_value usage
     # ------------------
-    def set_language_variety_usage(self, variety_identifier: str, value: bool):
-        self.language_metadata_collection.update_one(filter={'_id': self.language},
-                                                     update={'$set': {f'accent.{variety_identifier}.use': value}},
-                                                     upsert=True)
+    def upsert_accent(self, accent: str):
+        self.language_metadata_collection.update_one(
+            filter={'_id': self.language},
+            update={'$set': {'accent': accent}},
+            upsert=True
+        )
 
-    def query_language_variety(self) -> str | None:
+    def query_accent(self) -> str | None:
         """ assumes existence of varietyIdentifier sub dict in case of
             existence of language related collection """
 
         if (language_metadata := self.language_metadata_collection.find_one(filter={'_id': self.language})) is None:
             return None
-
-        elif variety_2_usage := language_metadata.get('accent'):
+        if variety_2_usage := language_metadata.get('accent'):
             for identifier, value_dict in variety_2_usage.items():
                 if value_dict['use']:
                     return identifier
-
         return None
 
     # ------------------
     # ..playback speed
     # ------------------
-    def set_playback_speed(self, variety: str, playback_speed: float):
+    def upsert_playback_speed(self, accent: str, playback_speed: float):
         self.language_metadata_collection.update_one(filter={'_id': self.language},
-                                                     update={'$set': {f'accent.{variety}.playbackSpeed': playback_speed}},
+                                                     update={'$set': {f'accent.{accent}.playbackSpeed': playback_speed}},
                                                      upsert=True)
 
-    def query_playback_speed(self, variety: str) -> float | None:
+    def query_playback_speed(self, accent: str) -> float | None:
         try:
-            return self.language_metadata_collection.find_one(filter={'_id': self.language})['accent'][variety]['playbackSpeed']  # type: ignore
+            return self.language_metadata_collection.find_one(filter={'_id': self.language})['accent'][accent]['playbackSpeed']  # type: ignore
         except (AttributeError, KeyError, TypeError):
             return None
 

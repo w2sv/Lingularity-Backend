@@ -67,7 +67,7 @@ def asciiized(string: str) -> str:
 def accent_stripped(string: str) -> str:
     """ Returns:
             original string in case of string not being of latin script,
-            otherwise accent stripped string
+            otherwise new_value stripped string
 
         Special characters have no impact of the working of this function whatsoever and are returned
             as are
