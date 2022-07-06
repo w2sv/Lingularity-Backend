@@ -4,7 +4,7 @@ from typing import Optional
 from playsound import playsound
 
 from backend.src.components.tts._google_client import GoogleTTSClient
-from backend.src.database.user_client import LanguageMetadataCollection, UserMongoDBClient
+from backend.src.database.user_database import LanguageMetadataCollection, UserDatabase
 from backend.src.utils import either_or
 
 
@@ -16,7 +16,7 @@ class TTS:
     def __init__(self, language: str):
         self._language = language
 
-        self._language_metadata_db_collection: LanguageMetadataCollection = UserMongoDBClient.instance().language_metadata_collection
+        self._language_metadata_db_collection: LanguageMetadataCollection = UserDatabase.instance().language_metadata_collection
         self._google_tts_client = GoogleTTSClient(language)
 
         self._accent: Optional[str] = self._retrieve_previous_accent()

@@ -39,7 +39,7 @@ class VocableTrainerBackend(TrainerBackend[VocableEntry, VocableEntries]):
     def _vocable_entries_to_be_trained(self) -> Iterator[VocableEntry]:
         return filter(
                 is_perfected,
-                self.user_db_client.vocabulary_collection.entries()
+                self.user_database.vocabulary_collection.entries()
             )
 
     @staticmethod

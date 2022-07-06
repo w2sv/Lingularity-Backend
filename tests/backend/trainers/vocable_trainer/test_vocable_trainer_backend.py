@@ -4,8 +4,8 @@ from backend.src.trainers import VocableTrainerBackend
 
 
 @pytest.fixture
-def vocable_entries(user_mongo_client):
-    return user_mongo_client.vocabulary_collection.entries()
+def vocable_entries(user_database):
+    return user_database.vocabulary_collection.entries()
 
 
 def test_find_paraphrases(vocable_entries):

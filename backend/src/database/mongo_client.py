@@ -1,23 +1,20 @@
 from __future__ import annotations
 
-from abc import ABC
 import os
 from pathlib import Path
 
 from monostate import MonoState
-import pymongo
 from pymongo import MongoClient
 
 from backend.src.utils.io import load_config
 
 
-class MongoDBClientBase(MonoState, ABC):
-    _cluster: MongoClient
-
-    @classmethod
-    def launch_cluster(cls, server_selection_timeout=1_500):
-        cls._cluster = pymongo.MongoClient(
-            host=cls._client_endpoint(),
+class Client(MongoClient, MonoState):
+    def __init__(self, server_selection_timeout: int):
+        MonoState.__init__(self)
+        MongoClient.__init__(
+            self,
+            host=self._client_endpoint(),
             serverSelectionTimeoutMS=server_selection_timeout
         )
 
@@ -40,9 +37,8 @@ class MongoDBClientBase(MonoState, ABC):
             os.environ['MONGODB_HOST'],
         )
 
-    @classmethod
-    def assert_connection(cls):
+    def assert_connection(self):
         """ Triggers errors.ServerSelectionTimeoutError in case of its
             foundation being present """
 
-        cls._cluster.server_info()
+        self.server_info()

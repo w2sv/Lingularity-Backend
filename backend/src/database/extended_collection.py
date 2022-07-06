@@ -9,7 +9,7 @@ from backend.src.database._utils import ID
 from backend.src.utils.strings.splitting import split_at_uppercase
 
 
-class CollectionBase(Collection, ABC):
+class ExtendedCollection(Collection, ABC):
     def __init__(self, database: Database):
         super().__init__(
             database,

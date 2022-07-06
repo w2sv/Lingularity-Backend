@@ -2,30 +2,26 @@ from __future__ import annotations
 
 from abc import ABC
 from itertools import starmap
-from typing import Iterator
+from typing import Iterator, TypedDict
 
-from pymongo.database import Database
 from typing_extensions import TypeAlias
 
-from backend.src.database import MongoDBClientBase
 from backend.src.database._utils import ID, id_popped, UNIQUE_ID_FILTER
-from backend.src.database.collection_base import CollectionBase
-from backend.src.database.document_types import LastSessionStatistics, TrainingChronic, VocableDataCorpus
+from backend.src.database.extended_collection import ExtendedCollection
+from backend.src.database.extended_database import ExtendedDatabase
 from backend.src.types.vocable_entry import VocableEntry
 from backend.src.utils import date
 
 
-class UserMongoDBClient(MongoDBClientBase):
+class UserDatabase(ExtendedDatabase):
     def __init__(self, user: str, language: str):
-        super().__init__(instance_kwarg_name='user_mongo_client')
+        super().__init__(name=user)
 
-        self.user = user
         self.language = language
 
-        database = self._cluster[user]
-        self.vocabulary_collection = VocabularyCollection(database, self)
-        self.training_chronic_collection = TrainingChronicCollection(database, self)
-        self.language_metadata_collection = LanguageMetadataCollection(database, self)
+        self.vocabulary_collection = VocabularyCollection(self)
+        self.training_chronic_collection = TrainingChronicCollection(self)
+        self.language_metadata_collection = LanguageMetadataCollection(self)
 
         self._collections: list[_UserCollectionBase] = [
             self.vocabulary_collection,
@@ -33,24 +29,28 @@ class UserMongoDBClient(MongoDBClientBase):
             self.language_metadata_collection
         ]
 
+    @property
+    def user(self) -> str:
+        return self.name
+
     def remove_language_related_documents(self):
         for collection in self._collections:
             collection.remove_language_related_documents()
 
 
-class _UserCollectionBase(CollectionBase, ABC):
-    def __init__(self, database: Database, user_mongo_client: UserMongoDBClient):
+class _UserCollectionBase(ExtendedCollection, ABC):
+    def __init__(self, database: UserDatabase):
         super().__init__(database=database)
 
-        self._user_mongo_client = user_mongo_client
+        self._user_database = database
 
     @property
     def language(self) -> str:
-        return self._user_mongo_client.language
+        return self._user_database.language
 
     @property
     def user(self) -> str:
-        return self._user_mongo_client.user
+        return self._user_database.user
 
     def remove_language_related_documents(self):
         self.delete_one(filter=self._language_id_filter)
@@ -62,7 +62,15 @@ class _UserCollectionBase(CollectionBase, ABC):
 
 _DOCUMENT_ACCESS_EXCEPTIONS = (KeyError, TypeError)
 
-_VocableEntryDocument: TypeAlias = dict[str, VocableDataCorpus]
+
+class _VocableDataCorpus(TypedDict):
+    t: str
+    tf: int
+    s: float
+    lfd: str | None
+
+
+_VocableEntryDocument: TypeAlias = dict[str, _VocableDataCorpus]
 
 
 class VocabularyCollection(_UserCollectionBase):
@@ -181,6 +189,16 @@ class TrainingChronicCollection(_UserCollectionBase):
         document: dict | None = self.find_one(self._language_id_filter)
         assert document is not None
         return TrainingChronic(id_popped(document))
+
+
+TrainingChronic = dict[str, dict[str, int]]
+
+
+class LastSessionStatistics(TypedDict):
+    trainer: str
+    nFacedItems: int
+    date: str
+    language: str
 
 
 class LanguageMetadataCollection(_UserCollectionBase):

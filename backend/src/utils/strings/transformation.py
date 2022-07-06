@@ -110,3 +110,16 @@ def snake_case_to_title(snake_case_string: str) -> str:
     'Snake Case String' """
 
     return ' '.join(map(lambda split: split.title(), snake_case_string.split('_')))
+
+
+def class_case_to_snake_case(string: str) -> str:
+    """
+    >>> class_case_to_snake_case('SomeString')
+    'some_string' """
+
+    return '_'.join(
+            map(
+                lambda token: token.lower(),
+                split_at_uppercase(string)
+            )
+        )

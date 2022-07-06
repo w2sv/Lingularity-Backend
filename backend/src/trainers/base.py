@@ -7,7 +7,7 @@ from typing import Generic, Iterator, TypeVar
 import numpy as np
 
 from backend.src.components.forename_convertor import ForenameConvertor
-from backend.src.database.user_client import UserMongoDBClient
+from backend.src.database.user_database import UserDatabase
 from backend.src.string_resources import string_resources
 from backend.src.types.bilingual_corpus import BilingualCorpus, SentencePair
 from backend.src.types.vocable_entry import VocableEntries, VocableEntry
@@ -18,13 +18,13 @@ _TrainingItems = TypeVar('_TrainingItems', BilingualCorpus, VocableEntries)
 
 
 class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
-    @UserMongoDBClient.receiver
-    def __init__(self, non_english_language: str, train_english: bool, user_mongo_client: UserMongoDBClient):
+    @UserDatabase.receiver
+    def __init__(self, non_english_language: str, train_english: bool, user_database: UserDatabase):
         self._non_english_language = non_english_language
         self._train_english = train_english
 
-        user_mongo_client.language = self.language
-        self.user_db_client = user_mongo_client
+        user_database.language = self.language
+        self.user_database = user_database
 
         self._item_iterator: Iterator[_TrainingItem]
         self.n_training_items: int
@@ -79,8 +79,8 @@ class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
     def enter_session_statistics_into_database(self, n_trained_items: int):
         update_args = (self.shortform, n_trained_items)
 
-        self.user_db_client.general_collection.upsert_last_session_statistics(*update_args)
-        self.user_db_client.training_chronic_collection.upsert_session_statistics(*update_args)
+        self.user_database.general_collection.upsert_last_session_statistics(*update_args)
+        self.user_database.training_chronic_collection.upsert_session_statistics(*update_args)
 
     @property
     def shortform(self) -> str:
