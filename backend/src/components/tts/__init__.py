@@ -13,10 +13,11 @@ class TTS:
     def available_for(language: str) -> bool:
         return GoogleTTSClient.available_for(language)
 
-    def __init__(self, language: str):
+    @UserDatabase.receiver
+    def __init__(self, language: str, user_database: UserDatabase):
         self._language = language
 
-        self._language_metadata_db_collection: LanguageMetadataCollection = UserDatabase.instance().language_metadata_collection
+        self._language_metadata_db_collection: LanguageMetadataCollection = user_database.language_metadata_collection
         self._google_tts_client = GoogleTTSClient(language)
 
         self._accent: Optional[str] = self._retrieve_previous_accent()
@@ -41,6 +42,10 @@ class TTS:
         if not self._google_tts_client.language_variety_choices:
             return None
         return self._language_metadata_db_collection.query_accent()
+
+    @property
+    def accent_choices(self) -> list[str]:
+        return self._google_tts_client.language_variety_choices
 
     @property
     def accent(self) -> Optional[str]:

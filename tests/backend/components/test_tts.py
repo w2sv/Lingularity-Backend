@@ -20,6 +20,17 @@ def test_text_to_speech(language, text):
     assert suspension_duration > 0.2
 
 
+@pytest.mark.parametrize('accent', [
+    'Brazil',
+    'Portugal'
+])
+def test_download_audio_with_accent(accent):
+    tts = TTS('Portuguese')
+    tts._accent = accent
+
+    tts.download_audio('O que voce faz?')
+
+
 class TestGoogleTTS:
     @pytest.mark.parametrize('language,language_variety_choices', [
         ('French', {"Canada", "France"}),

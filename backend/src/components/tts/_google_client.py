@@ -1,5 +1,6 @@
+from __future__ import annotations
+
 from tempfile import _TemporaryFileWrapper, NamedTemporaryFile
-from typing import Dict, List, Optional, Set
 
 from gtts import gTTS, lang
 from gtts.tokenizer import Tokenizer
@@ -9,17 +10,17 @@ from backend.src.paths import DATA_DIR_PATH
 from backend.src.utils import dictionary, io
 
 
-_LANGUAGE_2_ACCENT_2_TLD: Dict[str, Dict[str, str]] = io.load_json(DATA_DIR_PATH / 'google-tts-accents.json')
+_LANGUAGE_2_ACCENT_2_TLD: dict[str, dict[str, str]] = io.load_json(DATA_DIR_PATH / 'google-tts-accents.json')
 
 
 class GoogleTTSClient(GoogleOperationClient):
     _LANGUAGE_2_IETF_TAG = dictionary.items_reversed(lang.tts_langs())
-    AVAILABLE_LANGUAGES: Set[str] = set(_LANGUAGE_2_IETF_TAG.keys())
+    AVAILABLE_LANGUAGES: set[str] = set(_LANGUAGE_2_IETF_TAG.keys())
 
     def __init__(self, language: str):
         super().__init__(language)
 
-    def get_audio(self, text: str, accent: Optional[str] = None) -> _TemporaryFileWrapper:
+    def get_audio(self, text: str, accent: str | None = None) -> _TemporaryFileWrapper:
         temp_file = NamedTemporaryFile()
 
         gTTS(
@@ -34,8 +35,8 @@ class GoogleTTSClient(GoogleOperationClient):
 
         return temp_file
 
-    def _get_variety_choices(self) -> List[str]:
+    def _get_variety_choices(self) -> list[str]:
         try:
-            return list(_LANGUAGE_2_ACCENT_2_TLD[self.language].keys())
+            return list(_LANGUAGE_2_ACCENT_2_TLD[self.language])
         except KeyError:
             return list()
