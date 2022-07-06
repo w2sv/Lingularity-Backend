@@ -14,6 +14,10 @@ MONGODB_TEST_LANGUAGE = 'Italian'
 @pytest.fixture(scope='module', autouse=True)
 def launch_database_client():
     connect_database_client(server_selection_timeout=2_000)
+    initialize_user_mongo_client()
+
+
+def initialize_user_mongo_client():
     UserMongoDBClient(MONGODB_TEST_USER, MONGODB_TEST_LANGUAGE)
 
 

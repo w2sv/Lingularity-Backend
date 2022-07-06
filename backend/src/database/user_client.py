@@ -1,18 +1,21 @@
 from __future__ import annotations
 
 from abc import ABC
+from itertools import starmap
 from typing import Iterator
 
 from pymongo.database import Database
+from typing_extensions import TypeAlias
 
-from backend.src.database import AbstractMongoDBClient, LastSessionStatistics, TrainingChronic, VocableData
-from backend.src.database._utils import ID, UNIQUE_ID_FILTER
-from backend.src.string_resources import string_resources
-from backend.src.types.vocable_entry import VocableEntryDictRepr
+from backend.src.database import MongoDBClientBase
+from backend.src.database._utils import ID, id_popped, UNIQUE_ID_FILTER
+from backend.src.database.collection_base import CollectionBase
+from backend.src.database.document_types import LastSessionStatistics, TrainingChronic, VocableDataCorpus
+from backend.src.types.vocable_entry import VocableEntry
 from backend.src.utils import date
 
 
-class UserMongoDBClient(AbstractMongoDBClient):
+class UserMongoDBClient(MongoDBClientBase):
     def __init__(self, user: str, language: str):
         super().__init__(instance_kwarg_name='user_mongo_client')
 
@@ -20,94 +23,96 @@ class UserMongoDBClient(AbstractMongoDBClient):
         self.language = language
 
         database = self._cluster[user]
-        self.vocabulary_collection = VocabularyCollection(database, 'vocabulary', self)
-        self.general_collection = VocabularyCollection(database, 'general', self)
-        self.training_chronic_collection = VocabularyCollection(database, 'training_chronic', self)
-        self.language_metadata_collection = VocabularyCollection(database, 'language_metadata', self)
+        self.vocabulary_collection = VocabularyCollection(database, self)
+        self.training_chronic_collection = TrainingChronicCollection(database, self)
+        self.language_metadata_collection = LanguageMetadataCollection(database, self)
 
-    def remove_user(self):
-        self._cluster.drop_database(self.user)
+        self._collections: list[_UserCollectionBase] = [
+            self.vocabulary_collection,
+            self.training_chronic_collection,
+            self.language_metadata_collection
+        ]
 
-    def remove_language_data(self, language: str):
-        _filter = {ID: language}
-
-        self.vocabulary_collection.delete_one(filter=_filter)
-        self.training_chronic_collection.delete_one(filter=_filter)
-        self.language_metadata_collection.delete_one(filter=_filter)
+    def remove_language_related_documents(self):
+        for collection in self._collections:
+            collection.remove_language_related_documents()
 
 
-class AbstractCollection(ABC):
-    def __init__(self, database: Database, name: str, user_mongo_client: UserMongoDBClient):
-        self._collection = database[name]
+class _UserCollectionBase(CollectionBase, ABC):
+    def __init__(self, database: Database, user_mongo_client: UserMongoDBClient):
+        super().__init__(database=database)
+
         self._user_mongo_client = user_mongo_client
 
-    def __getattr__(self, item):
-        try:
-            return getattr(self._collection, item)
-        except AttributeError:
-            return getattr(self._user_mongo_client, item)
+    @property
+    def language(self) -> str:
+        return self._user_mongo_client.language
+
+    @property
+    def user(self) -> str:
+        return self._user_mongo_client.user
+
+    def remove_language_related_documents(self):
+        self.delete_one(filter=self._language_id_filter)
 
     @property
     def _language_id_filter(self) -> dict:
         return {ID: self.language}
 
-    def _ids(self) -> list:
-        return list(self.find().distinct(ID))
+
+_DOCUMENT_ACCESS_EXCEPTIONS = (KeyError, TypeError)
+
+_VocableEntryDocument: TypeAlias = dict[str, VocableDataCorpus]
 
 
-class GeneralCollection(AbstractCollection):
-    """ {_id: 'unique',
-                 emaiLAddress: email_address,
-                 password: password,
-                 lastSession: {trainer: trainer,
-                               nFacedItems: n_faced_items,
-                               date: date,
-                               language: language}} """
-
-    def upsert_last_session_statistics(self, trainer: str, faced_items: int):
-        self.update_one(
-            filter=UNIQUE_ID_FILTER,
-            update={'$set': {'lastSession': {'trainer': trainer,
-                                             'nFacedItems': faced_items,
-                                             'date': str(date.today),
-                                             'language': self.language}}},
-            upsert=True
-        )
-
-    def query_last_session_statistics(self) -> LastSessionStatistics | None:
-        try:
-            return self.find_one(UNIQUE_ID_FILTER)['lastSession']  # type: ignore
-        except KeyError:
-            return None
-
-
-class VocabularyCollection(AbstractCollection):
+class VocabularyCollection(_UserCollectionBase):
     """ {'_id': language,
                  $target_language_token: {t: translation_field
                                           tf: times_faced
                                           s: score
                                           lfd: last_faced_date}} """
 
-    def query_vocabulary_possessing_languages(self) -> set[str]:
+    @staticmethod
+    def _entry_2_document(entry: VocableEntry) -> _VocableEntryDocument:
+        return {
+            entry.vocable: {
+                't': entry.translation,
+                'tf': entry.times_faced,
+                's': entry.score,
+                'lfd': entry.last_faced_date
+            }
+        }
+
+    @staticmethod
+    def _to_entry(vocable: str, entry_corpus: dict) -> VocableEntry:
+        return VocableEntry(
+            vocable=vocable,
+            translation=entry_corpus['t'],
+            times_faced=entry_corpus['tf'],
+            score=entry_corpus['s'],
+            last_faced_date=entry_corpus['lfd']
+        )
+
+    def vocabulary_possessing_languages(self) -> set[str]:
         return set(self._ids())
 
-    def query_vocabulary(self) -> Iterator[tuple[str, VocableData]]:
-        vocable_entries: dict | None = self.find_one(self.language)
-        assert vocable_entries is not None
-        vocable_entries.pop(ID)
-        return iter(vocable_entries.items())
+    def entries(self) -> Iterator[VocableEntry]:
+        vocable_entry_document: dict | None = self.find_one(self.language)
+        assert vocable_entry_document is not None
+        vocable_entry_documents = id_popped(vocable_entry_document)
+        return starmap(self._to_entry, vocable_entry_documents.items())
 
-    def upsert_vocable_entry(self, vocable_entry: VocableEntryDictRepr):
+    def upsert_entry(self, entry: VocableEntry):
         self.update_one(
             filter=self._language_id_filter,
-            update={'$set': vocable_entry},
+            update={'$set': self._entry_2_document(entry)},
             upsert=True
         )
 
-    def delete_vocable_entry(self, vocable_entry: VocableEntryDictRepr):
+    def delete_entry(self, entry: VocableEntry):
         self.update_one(
             filter=self._language_id_filter,
-            update={'$unset': vocable_entry}
+            update={'$unset': self._entry_2_document(entry)}
         )
 
     def update_vocable_entry(self, vocable: str, new_score: float):
@@ -116,54 +121,69 @@ class VocabularyCollection(AbstractCollection):
             update={
                 '$inc': {f'{vocable}.tf': 1},
                 '$set': {
-                    f'{vocable}.lfd': str(date.today),
+                    f'{vocable}.lfd': str(date.today()),
                     f'{vocable}.s': new_score
                 }
             }
         )
 
-    def alter_vocable_entry(self, old_vocable: str, altered_vocable_entry: VocableEntryDictRepr):
+    def alter_entry(self, old_vocable: str, altered_vocable_entry: VocableEntry):
         # delete old sub document corresponding to old_vocable regardless of whether the vocable,
         # that is the sub document key has changed
         self.find_one_and_update(
             filter=self._language_id_filter,
             update={'$unset': {old_vocable: 1}}
         )
+        self.upsert_entry(altered_vocable_entry)
 
-        self.upsert_vocable_entry(altered_vocable_entry)
 
-
-class TrainingChronicCollection(AbstractCollection):
+class TrainingChronicCollection(_UserCollectionBase):
     """ {_id: language,
-                 $date: {$trainer_abbreviation: n_faced_items}} """
+                 $date: {$trainer_shortform: n_faced_items}} """
 
-    def insert_dummy_entry(self, language: str):
+    def upsert_last_session_statistics(self, trainer: str, faced_items: int):
+        self.update_one(
+            filter=UNIQUE_ID_FILTER,
+            update={'$set': {'lastSession': {'trainer': trainer,
+                                             'nFacedItems': faced_items,
+                                             'date': str(date.today()),
+                                             'language': self.language}}},
+            upsert=True
+        )
+
+    def query_last_session_statistics(self) -> LastSessionStatistics | None:
+        try:
+            return self.find_one(UNIQUE_ID_FILTER)['lastSession']  # type: ignore
+        except _DOCUMENT_ACCESS_EXCEPTIONS:
+            return None
+
+    def upsert_language_placeholder_document(self, language: str):
         """ In order to persist language after selection however without having
             actually conducted any training actions on it yet """
 
         self.update_one(
             filter={ID: language},
-            update={'$set': {str(date.today): None}},
+            update={'$set': {str(date.today()): None}},
             upsert=True
         )
 
-    def query_languages(self) -> list[str]:
+    def languages(self) -> list[str]:
         return self._ids()
 
-    def inject_session_statistics(self, trainer_abbreviation: str, n_faced_items: int):
+    def upsert_session_statistics(self, trainer_shortform: str, n_faced_items: int):
         self.update_one(
             filter=self._language_id_filter,
-            update={'$inc': {f'{date.today}.{trainer_abbreviation}': n_faced_items}},
+            update={'$inc': {f'{date.today()}.{trainer_shortform}': n_faced_items}},
             upsert=True
         )
 
-    def query_training_chronic(self) -> TrainingChronic:
-        training_chronic = next(iter(self.find(self._language_id_filter)))
-        training_chronic.pop('_id')
-        return training_chronic
+    def training_chronic(self) -> TrainingChronic:
+        document: dict | None = self.find_one(self._language_id_filter)
+        assert document is not None
+        return TrainingChronic(id_popped(document))
 
 
-class LanguageMetadataCollection(AbstractCollection):
+class LanguageMetadataCollection(_UserCollectionBase):
     """ {_id: $language,
                 new_value: {$new_value: {playbackSpeed: float
                                               use: bool}}
@@ -185,7 +205,7 @@ class LanguageMetadataCollection(AbstractCollection):
 
         try:
             return self.find_one(filter=self._language_id_filter)['accent']  # type: ignore
-        except (KeyError, AttributeError, IndexError):
+        except _DOCUMENT_ACCESS_EXCEPTIONS:
             return None
 
     # ------------------
@@ -194,14 +214,14 @@ class LanguageMetadataCollection(AbstractCollection):
     def upsert_playback_speed(self, accent: str, playback_speed: float):
         self.update_one(
             filter=self._language_id_filter,
-            update={'$set': {f'accent.{accent}.playbackSpeed': playback_speed}},
+            update={'$set': {f'playbackSpeed.{accent}': playback_speed}},
             upsert=True
         )
 
     def query_playback_speed(self, accent: str) -> float | None:
         try:
-            return self.find_one(filter=self._language_id_filter)['accent'][accent]['playbackSpeed']  # type: ignore
-        except (AttributeError, KeyError, TypeError):
+            return self.find_one(filter=self._language_id_filter)['playbackSpeed'][accent]  # type: ignore
+        except _DOCUMENT_ACCESS_EXCEPTIONS:
             return None
 
     # ------------------
@@ -220,21 +240,21 @@ class LanguageMetadataCollection(AbstractCollection):
 
     def query_tts_enablement(self):
         try:
-            return self.find_one(filter=self._language_id_filter).get('ttsEnabled')  # type: ignore
-        except AttributeError:
+            return self.find_one(filter=self._language_id_filter)['ttsEnabled']  # type: ignore
+        except _DOCUMENT_ACCESS_EXCEPTIONS:
             return None
 
     # ------------------
     # English Training
     # ------------------
-    _ENGLISH_FILTER_ID = {ID: string_resources['english']}
+    _ENGLISH_TRAINING_FILTER = {ID: 'englishTraining'}
 
-    def set_reference_language(self, reference_language: str):
+    def upsert_reference_language(self, reference_language: str):
         self.update_one(
-            filter=self._ENGLISH_FILTER_ID,
+            filter=self._ENGLISH_TRAINING_FILTER,
             update={
                 '$set': {
-                    f'referenceLanguage': reference_language
+                    'referenceLanguage': reference_language
                 }
             },
             upsert=True
@@ -242,6 +262,6 @@ class LanguageMetadataCollection(AbstractCollection):
 
     def query_reference_language(self) -> str | None:
         try:
-            return self.find_one(filter=self._ENGLISH_FILTER_ID)['referenceLanguage']  # type: ignore
-        except TypeError:
+            return self.find_one(filter=self._ENGLISH_TRAINING_FILTER)['referenceLanguage']  # type: ignore
+        except _DOCUMENT_ACCESS_EXCEPTIONS:
             return None

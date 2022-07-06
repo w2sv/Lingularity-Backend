@@ -50,7 +50,7 @@ class Token2ComprisingSentenceIndices(TokenMap[list[int]], ABC):
     # ------------------
     @abstractmethod
     def comprising_sentence_indices(self, vocable: str) -> list[int] | None:
-        """ Queries indices of sentences in which the relevant types of the passed vocable_entry occur
+        """ Queries indices of sentences in which the relevant types of the passed entry occur
 
             Args:
                 vocable: raw, unprocessed vocable of the same language as the types present in map;

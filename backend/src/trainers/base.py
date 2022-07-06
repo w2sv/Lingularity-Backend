@@ -80,7 +80,7 @@ class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
         update_args = (self.shortform, n_trained_items)
 
         self.user_db_client.general_collection.upsert_last_session_statistics(*update_args)
-        self.user_db_client.training_chronic_collection.inject_session_statistics(*update_args)
+        self.user_db_client.training_chronic_collection.upsert_session_statistics(*update_args)
 
     @property
     def shortform(self) -> str:

@@ -5,6 +5,7 @@ import unicodedata
 from backend.src.utils.strings import classification
 from backend.src.utils.strings._char_sets import APOSTROPHES, DASHES
 from backend.src.utils.strings._re_utils import join_to_pattern
+from backend.src.utils.strings.splitting import split_at_uppercase
 
 
 def replace_multiple(text: str, strings: Iterable[str], replacement: str) -> str:

@@ -1,7 +1,10 @@
 import datetime
 
 
-today: datetime.date = datetime.date.today()  # e.g. 2020-08-12
+def today() -> datetime.date:
+    """ e.g. 2020-08-12 """
+
+    return datetime.date.today()
 
 
 def n_days_ago(date: str) -> int:

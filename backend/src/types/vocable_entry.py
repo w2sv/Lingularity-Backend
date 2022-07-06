@@ -1,103 +1,55 @@
 from __future__ import annotations
 
+from dataclasses import dataclass
+
 from typing_extensions import TypeAlias
 
-from backend.src.database.document_types import VocableData
 from backend.src.utils.date import n_days_ago
 
 
+@dataclass
 class VocableEntry:
-    """ Vocable Entry abstraction providing additional properties as well as
-    transformation capabilities """
-
     @classmethod
     def new(cls, vocable: str, translation: str):
         return cls(
             vocable,
-            data=VocableData(
-                {
-                    't': translation,
-                    'tf': 0,
-                    's': 0.0,
-                    'lfd': None
-                }
-            )
+            translation,
+            0,
+            0,
+            None
         )
 
-    def __init__(self, vocable: str, data: VocableData):
-        self.vocable: str = vocable
-        self._data: VocableData = data
-
-    @property
-    def as_dict(self) -> dict[str, VocableData]:
-        return {self.vocable: self._data}
-
-    # ----------------
-    # Vocable/Meaning
-    # ----------------
-    @property
-    def meaning(self) -> str:
-        return self._data['t']
+    vocable: str
+    translation: str
+    times_faced: int
+    score: float
+    last_faced_date: str | None
 
     @property
     def the_stripped_meaning(self):
-        return self.meaning.lstrip('the ')
-
-    def __str__(self) -> str:
-        """ Returns:
-                dash joined line repr. i.e. '{vocable} - {meaning}' """
-
-        return ' - '.join([self.vocable, self.meaning])
-
-    def alter(self, new_vocable: str, new_meaning: str):
-        self.vocable = new_vocable
-        self._data['t'] = new_meaning
-
-    # ----------------
-    # Last Faced Date
-    # ----------------
-    @property
-    def last_faced_date(self) -> str | None:
-        return self._data['lfd']
+        return self.translation.lstrip('the ')
 
     @property
     def is_new(self) -> bool:
         return self.last_faced_date is None
 
-    # ----------------
-    # Times Faced
-    # ----------------
-    @property
-    def times_faced(self) -> int:
-        return self._data['tf']
+    def alter(self, new_vocable: str, new_meaning: str):
+        self.vocable = new_vocable
+        self.translation = new_meaning
+        self.times_faced = 0
+        self.score = 0
+        self.last_faced_date = None
 
-    def _increment_times_faced(self):
-        self._data['tf'] += 1
+    def update_post_training_encounter(self, increment: float):
+        self.score += increment
+        self.times_faced += 1
 
-    # ----------------
-    # Score
-    # ----------------
-    @property
-    def score(self) -> float:
-        return self._data['s']
 
-    def update_score(self, increment: float):
-        self._data['s'] += increment
-        self._increment_times_faced()
-
-    # ----------------
-    # Perfection
-    # ----------------
-    @property
-    def perfected(self) -> bool:
-        return self.is_perfected(self._data)
-
-    @staticmethod
-    def is_perfected(data: VocableData) -> bool:
-        if data['lfd'] is None:
-            return False
-        return data['s'] >= 5 and n_days_ago(data['lfd']) < 50
+def is_perfected(entry: VocableEntry) -> bool:
+    if not entry.times_faced:
+        return False
+    assert entry.last_faced_date is not None
+    return entry.score >= 5 and n_days_ago(entry.last_faced_date) < 50
 
 
 VocableEntries: TypeAlias = list[VocableEntry]
-VocableEntryDictRepr: TypeAlias = dict[str, VocableData]

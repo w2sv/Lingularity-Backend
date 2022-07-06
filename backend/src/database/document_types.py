@@ -1,4 +1,4 @@
-from typing import Dict, Optional
+from __future__ import annotations
 
 from mypy_extensions import TypedDict
 
@@ -10,11 +10,11 @@ class LastSessionStatistics(TypedDict):
     language: str
 
 
-TrainingChronic = Dict[str, Dict[str, int]]
+TrainingChronic = dict[str, dict[str, int]]
 
 
-class VocableData(TypedDict):
+class VocableDataCorpus(TypedDict):
     t: str
     tf: int
     s: float
-    lfd: Optional[str]
+    lfd: str | None

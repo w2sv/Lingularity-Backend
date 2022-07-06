@@ -11,7 +11,7 @@ from pymongo import MongoClient
 from backend.src.utils.io import load_config
 
 
-class AbstractMongoDBClient(MonoState, ABC):
+class MongoDBClientBase(MonoState, ABC):
     _cluster: MongoClient
 
     @classmethod

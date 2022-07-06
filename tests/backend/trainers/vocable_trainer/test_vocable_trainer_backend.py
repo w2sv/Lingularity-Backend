@@ -1,15 +1,11 @@
-from itertools import starmap
-from typing import List
-
 import pytest
 
 from backend.src.trainers import VocableTrainerBackend
-from backend.src.types.vocable_entry import VocableEntry
 
 
 @pytest.fixture
-def vocable_entries(user_mongo_client) -> List[VocableEntry]:
-    return list(starmap(VocableEntry, user_mongo_client.query_vocabulary()))
+def vocable_entries(user_mongo_client):
+    return user_mongo_client.vocabulary_collection.entries()
 
 
 def test_find_paraphrases(vocable_entries):

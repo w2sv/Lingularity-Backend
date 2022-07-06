@@ -1,14 +1,13 @@
 from collections import defaultdict
-from itertools import starmap, tee
-from typing import Iterator
+from itertools import tee
+from typing import Iterable, Iterator
 
 import numpy as np
 
-from backend.src.database import VocableData
 from backend.src.trainers.base import TrainerBackend
 from backend.src.types.bilingual_corpus import BilingualCorpus
 from backend.src.types.token_maps import get_token_sentence_indices_map, Token2ComprisingSentenceIndices
-from backend.src.types.vocable_entry import VocableEntries, VocableEntry
+from backend.src.types.vocable_entry import is_perfected, VocableEntries, VocableEntry
 
 
 class VocableTrainerBackend(TrainerBackend[VocableEntry, VocableEntries]):
@@ -19,12 +18,11 @@ class VocableTrainerBackend(TrainerBackend[VocableEntry, VocableEntries]):
         self._token_2_sentence_indices: Token2ComprisingSentenceIndices = get_token_sentence_indices_map(self.language, load_normalizer=True)
 
         self.paraphrases: dict[str, list[str]] = None  # type: ignore
-        self.new_vocable_entries: Iterator[VocableEntry] = None  # type: ignore
+        self.new_vocable_entries: VocableEntries = []
 
     @property
     def new_vocable_entries_available(self) -> bool:
-        self.new_vocable_entries, teed = tee(self.new_vocable_entries)
-        return next(teed, None) is not None
+        return bool(self.new_vocable_entries)
 
     # ---------------
     # Pre Training
@@ -32,21 +30,20 @@ class VocableTrainerBackend(TrainerBackend[VocableEntry, VocableEntries]):
     def set_item_iterator(self):
         """ Additionally sets paraphrases, new_vocable_entries iterator """
 
-        vocable_entries_to_be_trained = self._vocable_entries_to_be_trained()
+        vocable_entries_to_be_trained = list(self._vocable_entries_to_be_trained())
 
         self.paraphrases = self._find_paraphrases(vocable_entries_to_be_trained)
-        self.new_vocable_entries = filter(lambda entry: entry.is_new, vocable_entries_to_be_trained)
+        self.new_vocable_entries = list(filter(lambda entry: entry.is_new, vocable_entries_to_be_trained))
         self._set_item_iterator(vocable_entries_to_be_trained)
 
-    def _vocable_entries_to_be_trained(self) -> list[VocableEntry]:
-        tokens_with_vocable_data: Iterator[tuple[str, VocableData]] = filter(
-            lambda token_with_data: not VocableEntry.is_perfected(data=token_with_data[1]),
-            self.user_db_client.vocabulary_collection.query_vocabulary()
-        )
-        return list(starmap(VocableEntry, tokens_with_vocable_data))
+    def _vocable_entries_to_be_trained(self) -> Iterator[VocableEntry]:
+        return filter(
+                is_perfected,
+                self.user_db_client.vocabulary_collection.entries()
+            )
 
     @staticmethod
-    def _find_paraphrases(vocable_entries: list[VocableEntry]) -> dict[str, list[str]]:
+    def _find_paraphrases(vocable_entries: Iterable[VocableEntry]) -> dict[str, list[str]]:
         """ Returns:
                 Dict[english_meaning: [synonym_1, synonym_2, ..., synonym_n]]
 
