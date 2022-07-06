@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from backend.src.trainers.base import TrainerBackend
+from backend.src.trainers.trainer_backend import TrainerBackend
 from backend.src.components.tts import TTS
 from backend.src.trainers.sentence_translation import modes
 from backend.src.types.bilingual_corpus import BilingualCorpus, SentencePair

@@ -1,4 +1,4 @@
-from backend.src.trainers.base import TrainerBackend
+from backend.src.trainers.trainer_backend import TrainerBackend
 
 
 class VocableAdderBackend(TrainerBackend):

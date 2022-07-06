@@ -23,7 +23,7 @@ class UserDatabase(ExtendedDatabase):
         self.training_chronic_collection = TrainingChronicCollection(self)
         self.language_metadata_collection = LanguageMetadataCollection(self)
 
-        self._collections: list[_UserCollectionBase] = [
+        self._collections: list[_UserCollection] = [
             self.vocabulary_collection,
             self.training_chronic_collection,
             self.language_metadata_collection
@@ -38,7 +38,7 @@ class UserDatabase(ExtendedDatabase):
             collection.remove_language_related_documents()
 
 
-class _UserCollectionBase(ExtendedCollection, ABC):
+class _UserCollection(ExtendedCollection, ABC):
     def __init__(self, database: UserDatabase):
         super().__init__(database=database)
 
@@ -73,7 +73,7 @@ class _VocableDataCorpus(TypedDict):
 _VocableEntryDocument: TypeAlias = dict[str, _VocableDataCorpus]
 
 
-class VocabularyCollection(_UserCollectionBase):
+class VocabularyCollection(_UserCollection):
     """ {'_id': language,
                  $target_language_token: {t: translation_field
                                           tf: times_faced
@@ -145,7 +145,7 @@ class VocabularyCollection(_UserCollectionBase):
         self.upsert_entry(altered_vocable_entry)
 
 
-class TrainingChronicCollection(_UserCollectionBase):
+class TrainingChronicCollection(_UserCollection):
     """ {_id: language,
                  $date: {$trainer_shortform: n_faced_items}} """
 
@@ -201,7 +201,7 @@ class LastSessionStatistics(TypedDict):
     language: str
 
 
-class LanguageMetadataCollection(_UserCollectionBase):
+class LanguageMetadataCollection(_UserCollection):
     """ {_id: $language,
                 new_value: {$new_value: {playbackSpeed: float
                                               use: bool}}

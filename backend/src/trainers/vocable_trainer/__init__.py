@@ -4,7 +4,7 @@ from typing import Iterable, Iterator
 
 import numpy as np
 
-from backend.src.trainers.base import TrainerBackend
+from backend.src.trainers.trainer_backend import TrainerBackend
 from backend.src.types.bilingual_corpus import BilingualCorpus
 from backend.src.types.token_maps import get_token_sentence_indices_map, Token2ComprisingSentenceIndices
 from backend.src.types.vocable_entry import is_perfected, VocableEntries, VocableEntry
