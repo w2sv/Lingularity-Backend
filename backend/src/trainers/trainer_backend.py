@@ -70,17 +70,16 @@ class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
         """ Returns:
                  None in case of depleted iterator """
 
-        assert self._item_iterator is not None
         return next(self._item_iterator, None)
 
     # -----------------
     # Post Training
     # -----------------
     def enter_session_statistics_into_database(self, n_trained_items: int):
-        update_args = (self.shortform, n_trained_items)
-
-        self.user_database.general_collection.upsert_last_session_statistics(*update_args)
-        self.user_database.training_chronic_collection.upsert_session_statistics(*update_args)
+        self.user_database.training_chronic_collection.upsert_session_statistics(
+            self.shortform,
+            n_faced_items=n_trained_items
+        )
 
     @property
     def shortform(self) -> str:

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from abc import ABC
+import datetime
 from itertools import starmap
 from typing import Iterator, TypedDict
 
@@ -129,7 +130,7 @@ class VocabularyCollection(_UserCollection):
             update={
                 '$inc': {f'{vocable}.tf': 1},
                 '$set': {
-                    f'{vocable}.lfd': str(date.today()),
+                    f'{vocable}.lfd': str(datetime.date.today()),
                     f'{vocable}.s': new_score
                 }
             }
@@ -149,12 +150,21 @@ class TrainingChronicCollection(_UserCollection):
     """ {_id: language,
                  $date: {$trainer_shortform: n_faced_items}} """
 
-    def upsert_last_session_statistics(self, trainer: str, faced_items: int):
+    def upsert_session_statistics(self, trainer_shortform: str, n_faced_items: int):
+        self.update_one(
+            filter=self._language_id_filter,
+            update={'$inc': {f'{datetime.date.today()}.{trainer_shortform}': n_faced_items}},
+            upsert=True
+        )
+
+        self._upsert_last_session_statistics(trainer_shortform, n_faced_items)
+
+    def _upsert_last_session_statistics(self, trainer_shortform: str, n_faced_items: int):
         self.update_one(
             filter=UNIQUE_ID_FILTER,
-            update={'$set': {'lastSession': {'trainer': trainer,
-                                             'nFacedItems': faced_items,
-                                             'date': str(date.today()),
+            update={'$set': {'lastSession': {'trainer': trainer_shortform,
+                                             'nFacedItems': n_faced_items,
+                                             'date': str(datetime.date.today()),
                                              'language': self.language}}},
             upsert=True
         )
@@ -171,19 +181,12 @@ class TrainingChronicCollection(_UserCollection):
 
         self.update_one(
             filter={ID: language},
-            update={'$set': {str(date.today()): None}},
+            update={'$set': {str(datetime.date.today()): None}},
             upsert=True
         )
 
     def languages(self) -> list[str]:
         return self._ids()
-
-    def upsert_session_statistics(self, trainer_shortform: str, n_faced_items: int):
-        self.update_one(
-            filter=self._language_id_filter,
-            update={'$inc': {f'{date.today()}.{trainer_shortform}': n_faced_items}},
-            upsert=True
-        )
 
     def training_chronic(self) -> TrainingChronic:
         document: dict | None = self.find_one(self._language_id_filter)
