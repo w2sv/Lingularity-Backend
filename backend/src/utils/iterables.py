@@ -4,10 +4,10 @@ from itertools import zip_longest
 from typing import Iterable, Sequence, Sized, TypeVar
 
 
-T = TypeVar('T')
+_T = TypeVar('_T')
 
 
-def none_stripped(iterable: Iterable[T]) -> list[T]:
+def none_stripped(iterable: Iterable[_T]) -> list[_T]:
     """
     >>> none_stripped([None, 4, 'a', None, None, False])
     [4, 'a', False] """
@@ -15,7 +15,7 @@ def none_stripped(iterable: Iterable[T]) -> list[T]:
     return list(filter(lambda el: el is not None, iterable))
 
 
-def intersection(sets: Iterable[set[T]]) -> set[T]:
+def intersection(sets: Iterable[set[_T]]) -> set[_T]:
     """
     >>> intersection([{1, 5, 8, 3}, {1, 3, 98, 34}, {2, 22, 3}])
     {3}
@@ -25,10 +25,10 @@ def intersection(sets: Iterable[set[T]]) -> set[T]:
     return set.intersection(*sets)
 
 
-T_Sized = TypeVar('T_Sized', bound=Sized)
+_T_Sized = TypeVar('_T_Sized', bound=Sized)
 
 
-def longest_value(iterable: Iterable[T_Sized]) -> T_Sized:
+def longest_value(iterable: Iterable[_T_Sized]) -> _T_Sized:
     """
     >>> longest_value(['', 'aa', 'tfff', 'dd', 'ghhhhj'])
     'ghhhhj' """
@@ -46,11 +46,11 @@ def length_parity(*sequence: Sequence) -> bool:
     return contains_unique_value(map(len, sequence))
 
 
-def unzip_longest(nested_list: Iterable[Iterable[T]]):
+def unzip_longest(nested_list: Iterable[Iterable[_T]]):
     return zip_longest(*nested_list)
 
 
-def comprises_index(sequence: Sequence[T], index: int) -> bool:
+def comprises_index(sequence: Sequence[_T], index: int) -> bool:
     """
     >>> comprises_index(list(range(9)), index=9)
     False
@@ -60,7 +60,7 @@ def comprises_index(sequence: Sequence[T], index: int) -> bool:
     return index <= len(sequence) - 1
 
 
-def contains_unique_value(iterable: Iterable[T]) -> bool:
+def contains_unique_value(iterable: Iterable[_T]) -> bool:
     """
     >>> contains_unique_value(range(3))
     False
@@ -70,7 +70,7 @@ def contains_unique_value(iterable: Iterable[T]) -> bool:
     return unique_contained_value(iterable) is not None
 
 
-def unique_contained_value(iterable: Iterable[T]) -> T | None:
+def unique_contained_value(iterable: Iterable[_T]) -> _T | None:
     """
     >>> unique_contained_value([3] * 5)
     3

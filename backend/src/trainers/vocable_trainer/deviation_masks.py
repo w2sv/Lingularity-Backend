@@ -2,7 +2,7 @@ from itertools import chain, islice, repeat, starmap, zip_longest
 from typing import Generator, Iterator
 
 from backend.src.utils import iterables
-from backend.src.utils.generators import return_value_capturing_generator
+from backend.src.utils.return_value_capturing_generator import ReturnValueCapturingGenerator
 
 
 _DeviationMask = Iterator[bool]
@@ -14,11 +14,11 @@ def deviation_masks(response: str, ground_truth: str) -> Iterator[_DeviationMask
             emphasis mask, indicating chars which have been missed) whose lengths are at
             parity with the one of their underlying string """
 
-    zipped_deviation_mask = _ith_char_mask_iterator(response, ground_truth)
+    zipped_deviation_mask = ReturnValueCapturingGenerator(_ith_char_mask_iterator(response, ground_truth))
 
     comparator_masks = zip(*zipped_deviation_mask)
     comparators = [response, ground_truth]
-    start_offsets = [zipped_deviation_mask.return_value, 0]
+    start_offsets = [zipped_deviation_mask.value, 0]
 
     # unzip ith char masks, indent response by found start offset
     return starmap(
@@ -38,7 +38,6 @@ def deviation_masks(response: str, ground_truth: str) -> Iterator[_DeviationMask
 _IthCharMask = tuple[bool, bool]
 
 
-@return_value_capturing_generator
 def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_start_offset=0) -> Generator[_IthCharMask, None, int]:
     """ Yields:
             ZippedCharMasks, one of which is a mask of 2 boolean values
