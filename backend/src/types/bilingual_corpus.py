@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import collections
 from functools import cached_property
+from mmap import ACCESS_READ, mmap
 from typing import Callable, Counter, Iterable, Iterator
 
 import numpy as np
@@ -12,7 +13,7 @@ from typing_extensions import TypeAlias
 from backend.src.components.forename_convertor import DEFAULT_FORENAMES
 from backend.src.paths import corpora_path
 from backend.src.utils import iterables
-from backend.src.utils.io import PathLike
+from backend.src.utils.io import PathLike, read_mmapped
 from backend.src.utils.iterables import intersection
 from backend.src.utils.strings.classification import comprises_only_roman_chars, n_non_roman_chars
 from backend.src.utils.strings.extraction import longest_continuous_partial_overlap, meaningful_types, quoted_substrings
@@ -52,10 +53,9 @@ class BilingualCorpus(np.ndarray):
     @staticmethod
     def _load(path: PathLike, train_english: bool) -> np.ndarray:
         def cleaned_sentence_pairs() -> Iterator[SentencePair]:
-            with open(path, 'r', encoding='utf-8') as f:
-                for row in f.readlines():
-                    newline_char_stripped_row = row[:-1]
-                    yield newline_char_stripped_row.split('\t')
+            for row in read_mmapped(path):
+                newline_char_stripped_row = row[:-1]
+                yield newline_char_stripped_row.split('\t')
 
         ndarray = np.asarray(list(cleaned_sentence_pairs()))
 
@@ -302,7 +302,7 @@ class BilingualCorpus(np.ndarray):
                         (intersections := translation_candidates.intersection(
                                 continuous_substrings(
                                         foreign_language_sentence,
-                                        lengths=set(map(len, translation_candidates))
+                                        lengths=iter(set(map(len, translation_candidates)))
                                 )
                         ))
                 ):

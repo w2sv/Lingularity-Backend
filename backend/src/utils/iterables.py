@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from itertools import zip_longest
-from typing import Iterable, Sequence, TypeVar
+from typing import Iterable, Sequence, Sized, TypeVar
 
 
 T = TypeVar('T')
@@ -9,8 +9,8 @@ T = TypeVar('T')
 
 def none_stripped(iterable: Iterable[T]) -> list[T]:
     """
-    >>> none_stripped([None, 4, 'a', None, None])
-    [4, 'a'] """
+    >>> none_stripped([None, 4, 'a', None, None, False])
+    [4, 'a', False] """
 
     return list(filter(lambda el: el is not None, iterable))
 
@@ -25,22 +25,25 @@ def intersection(sets: Iterable[set[T]]) -> set[T]:
     return set.intersection(*sets)
 
 
-def longest_value(iterable: Iterable[T]) -> T:
+T_Sized = TypeVar('T_Sized', bound=Sized)
+
+
+def longest_value(iterable: Iterable[T_Sized]) -> T_Sized:
     """
     >>> longest_value(['', 'aa', 'tfff', 'dd', 'ghhhhj'])
     'ghhhhj' """
 
-    return next(iter(sorted(iterable, key=len, reverse=True)))  # type: ignore
+    return max(iterable, key=len)
 
 
-def length_parity(*iterable) -> bool:
+def length_parity(*sequence: Sequence) -> bool:
     """
-    >>> length_parity([None] * 4, [7] * 4)
+    >>> length_parity([''] * 4, [''] * 4)
     True
-    >>> length_parity([None] * 4, [7] * 3)
+    >>> length_parity([''] * 4, [''] * 3)
     False """
 
-    return contains_unique_value(map(len, iterable))
+    return contains_unique_value(map(len, sequence))
 
 
 def unzip_longest(nested_list: Iterable[Iterable[T]]):
@@ -77,5 +80,4 @@ def unique_contained_value(iterable: Iterable[T]) -> T | None:
     unique_values = set(iterable)
     if len(unique_values) == 1:
         return next(iter(unique_values))
-    else:
-        return None
+    return None

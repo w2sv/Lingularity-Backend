@@ -1,16 +1,16 @@
-from itertools import chain
-from typing import Iterable, Iterator, Optional
+from __future__ import annotations
+
+from typing import Iterator
 
 from more_itertools import windowed
 
 
-def continuous_substrings(string: str, lengths: Optional[Iterable[int]] = None, min_length=2) -> Iterator[str]:
+def continuous_substrings(string: str, lengths: Iterator[int] | None = None) -> Iterator[str]:
     """
         Args:
             string: string to extract substrings from
             lengths: Iterable of desired substring lengths,
                 may contain lengths > len(string) which will be automatically ignored
-            min_length: of researched continuous substring
 
         Returns:
             Iterator of entirety of continuous substrings of min length comprised by string
@@ -20,11 +20,12 @@ def continuous_substrings(string: str, lengths: Optional[Iterable[int]] = None, 
         ['pa', 'at', 'th', 'pat', 'ath', 'path'] """
 
     if lengths is None:
-        lengths = range(min_length, len(string) + 1)
-    else:
-        lengths = filter(lambda val: val >= min_length, lengths)
-
-    return map(str().join, chain.from_iterable(map(lambda length: windowed(string, length), lengths)))  # type: ignore
+        lengths = iter(range(2, len(string) + 1))
+    try:
+        yield from map(str().join, windowed(string, n=next(lengths), fillvalue=str()))
+        yield from continuous_substrings(string, lengths=lengths)
+    except StopIteration:
+        pass
 
 
 def start_including_substrings(string: str) -> Iterator[str]:

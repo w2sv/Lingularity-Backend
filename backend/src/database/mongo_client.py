@@ -6,7 +6,7 @@ from pathlib import Path
 from monostate import MonoState
 from pymongo import MongoClient
 
-from backend.src.utils.io import load_config
+from backend.src.utils.io import load_config_section
 
 
 class Client(MongoClient, MonoState):
@@ -25,7 +25,7 @@ class Client(MongoClient, MonoState):
         template = 'mongodb+srv://{}:{}@{}'
 
         if (credentials_fp := Path(__file__).parent / 'credentials.ini').exists():
-            credentials = load_config(credentials_fp)
+            credentials = load_config_section(credentials_fp)
             return template.format(
                 credentials['user'],
                 credentials['password'],

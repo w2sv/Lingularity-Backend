@@ -71,7 +71,7 @@ def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_star
             if not all(chars_i):
                 # -----Length of one of the strings has been exceeded-------
 
-                zipped_char_mask: list[bool] = [False, False]
+                zipped_char_mask = [False, False]
 
                 # iterate over chars_i to determine exceeded string
                 # and thus the zipped_char_mask for the remaining indices
@@ -99,17 +99,23 @@ def _ith_char_mask_iterator(response: str, ground_truth: str, response_mask_star
                 def check_for_superfluous_char() -> Generator[_IthCharMask, None, bool]:
                     """ e.g. response=impiaccio, ground_truth=impiccio """
 
-                    if iterables.comprises_index(response, i + 1) and response[i + 1] == ground_truth[i]:
-                        yield from chain([(True, False)], _ith_char_mask_iterator(response[i + 1:], ground_truth[i:], response_mask_start_offset=-1))
-                        return True
+                    try:
+                        if response[i + 1] == ground_truth[i]:
+                            yield from chain([(True, False)], _ith_char_mask_iterator(response[i + 1:], ground_truth[i:], response_mask_start_offset=-1))
+                            return True
+                    except IndexError:
+                        pass
                     return False
 
                 def check_for_missing_char() -> Generator[_IthCharMask, None, bool]:
                     """ e.g. response=impicco, ground_truth=impiccio """
 
-                    if iterables.comprises_index(ground_truth, i + 1) and response[i] == ground_truth[i + 1]:
-                        yield from chain([(False, True)], _ith_char_mask_iterator(response[i:], ground_truth[i + 1:], response_mask_start_offset=-1))
-                        return True
+                    try:
+                        if response[i] == ground_truth[i + 1]:
+                            yield from chain([(False, True)], _ith_char_mask_iterator(response[i:], ground_truth[i + 1:], response_mask_start_offset=-1))
+                            return True
+                    except IndexError:
+                        pass
                     return False
 
                 # sort checks wrt comparator length discrepancy since

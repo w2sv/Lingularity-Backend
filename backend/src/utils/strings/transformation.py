@@ -5,7 +5,6 @@ import unicodedata
 from backend.src.utils.strings import classification
 from backend.src.utils.strings._char_sets import APOSTROPHES, DASHES
 from backend.src.utils.strings._re_utils import join_to_pattern
-from backend.src.utils.strings.splitting import split_at_uppercase
 
 
 def replace_multiple(text: str, strings: Iterable[str], replacement: str) -> str:
@@ -102,24 +101,3 @@ def special_characters_stripped(string: str, include_apostrophe=False, include_d
         strip_characters += DASHES
 
     return strip_multiple(string, strings=list(strip_characters))
-
-
-def snake_case_to_title(snake_case_string: str) -> str:
-    """
-    >>> snake_case_to_title('snake_case_string')
-    'Snake Case String' """
-
-    return ' '.join(map(lambda split: split.title(), snake_case_string.split('_')))
-
-
-def class_case_to_snake_case(string: str) -> str:
-    """
-    >>> class_case_to_snake_case('SomeString')
-    'some_string' """
-
-    return '_'.join(
-            map(
-                lambda token: token.lower(),
-                split_at_uppercase(string)
-            )
-        )

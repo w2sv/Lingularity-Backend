@@ -1,15 +1,13 @@
-from typing import Any, Optional
+from __future__ import annotations
 
-from . import (
-    date,
-    iterables,
-    strings,
-    time
-)
+from typing import TypeVar
 
 
-def either_or(value: Optional[Any], fallback: Any) -> Any:
+_T = TypeVar('_T')
+
+
+def either_or(value: _T | None, fallback: _T) -> _T:
     """ Returns:
             value if != None, else fallback """
 
-    return [value, fallback][value is None]
+    return value if value is not None else fallback

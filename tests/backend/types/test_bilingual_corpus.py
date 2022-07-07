@@ -11,7 +11,6 @@ from tests.conftest import get_bilingual_corpus
 
 def test_numpy_properties():
     bilingual_corpus = get_bilingual_corpus('Bulgarian', train_english=False)
-
     assert bilingual_corpus.shape == (15138, 2)
     assert isinstance(bilingual_corpus[0], np.ndarray)
     assert bilingual_corpus.dtype == np.dtype('<U262')
