@@ -72,7 +72,7 @@ class LemmaSentenceIndicesMap(NormalizedToken2SentenceIndicesMap[SpacyToken]):
 
     @staticmethod
     def is_available_for(language: str) -> bool:
-        return language in spacy_models.LANGUAGE_2_MODEL_IDENTIFIERS.keys()
+        return language in spacy_models.LANGUAGE_2_MODEL_PARAMETERS.keys()
 
     def __init__(self, data: dict | None, language: str, load_normalizer=True):
         super().__init__(data)

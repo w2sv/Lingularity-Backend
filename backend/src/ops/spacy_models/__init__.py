@@ -11,13 +11,13 @@ def load_model(language: str) -> spacy.Language:
 
 def model_name(language: str, model_size='sm') -> str:
     """ Args:
-            language: one of LANGUAGE_2_MODEL_IDENTIFIERS keys
+            language: one of LANGUAGE_2_MODEL_PARAMETERS keys
             model_size: sm | md | lg """
 
-    return f'{LANGUAGE_2_MODEL_IDENTIFIERS[language][0]}_core_{LANGUAGE_2_MODEL_IDENTIFIERS[language][1]}_{model_size}'
+    return f'{LANGUAGE_2_MODEL_PARAMETERS[language][0]}_core_{LANGUAGE_2_MODEL_PARAMETERS[language][1]}_{model_size}'
 
 
-LANGUAGE_2_MODEL_IDENTIFIERS = {
+LANGUAGE_2_MODEL_PARAMETERS = {
     'Chinese': ['zh', 'web'],
     'Danish': ['da', 'news'],
     'Dutch': ['nl', 'news'],
@@ -35,4 +35,4 @@ LANGUAGE_2_MODEL_IDENTIFIERS = {
     'Spanish': ['es', 'news']
 }
 
-AVAILABLE_LANGUAGES = set(LANGUAGE_2_MODEL_IDENTIFIERS.keys())
+AVAILABLE_LANGUAGES = set(LANGUAGE_2_MODEL_PARAMETERS.keys())

@@ -3,7 +3,6 @@ from __future__ import annotations
 from tempfile import _TemporaryFileWrapper, NamedTemporaryFile
 
 from gtts import gTTS, lang
-from gtts.tokenizer import Tokenizer
 
 from backend.src.ops.google import GoogleOperationClient
 from backend.src.paths import DATA_DIR_PATH
@@ -27,9 +26,7 @@ class GoogleTTSClient(GoogleOperationClient):
             text,
             lang=self._language_identifier,
             lang_check=False,
-            tld='com' if accent is None else _LANGUAGE_2_ACCENT_2_TLD[self.language][accent],
-            pre_processor_funcs=[],
-            tokenizer_func=Tokenizer([]).run
+            tld='com' if accent is None else _LANGUAGE_2_ACCENT_2_TLD[self.language][accent]
         )\
             .write_to_fp(temp_file)
 

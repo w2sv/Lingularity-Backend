@@ -3,22 +3,26 @@ from time import time
 import pytest
 
 from backend.src.components.tts import GoogleTTSClient, TTS
+from backend.src.utils.io import file_size
 
 
-@pytest.mark.parametrize('language, text', [
-    ('Italian', 'Ma che fai ?'),
-    ('French', "Voulez-vous aller nager ?"),
-    ('Italian', 'Macche?')
+@pytest.mark.parametrize('language, text, expected_play', [
+    ('Italian', 'Ma', False),
+    ('Italian', 'Ma che fa?', False),
+    ('Italian', 'Ma che fai?', True),
 ])
-def test_text_to_speech(language, text):
+def test_text_to_speech(language, text, expected_play):
     tts = TTS(language)
 
     tts.download_audio(text=text)
 
     t1 = time()
-    tts.play_audio()
-    suspension_duration = time() - t1
-    assert suspension_duration > 0.2
+    played = tts.play_audio()
+    assert played == expected_play
+
+    if played:
+        suspension_duration = time() - t1
+        assert suspension_duration > 0.2
 
 
 @pytest.mark.parametrize('accent', [
@@ -66,8 +70,13 @@ class TestGoogleTTS:
     def test_available_for(self, language, expected):
         assert GoogleTTSClient.available_for(language) == expected
 
-    def test_get_audio(self):
-        audio = GoogleTTSClient('Italian').download_audio('Mamma mia!')
+    @pytest.mark.parametrize('text', [
+        'Mamma mia!',
+        'Ma che cazzo?',
+    ])
+    def test_get_audio(self, text):
+        audio = GoogleTTSClient('Italian').download_audio(text)
 
         assert audio.readable()
+        assert file_size(audio)
         assert not audio.closed

@@ -1,9 +1,10 @@
 from configparser import ConfigParser, SectionProxy
 import json
 from mmap import ACCESS_READ, mmap
+import os
 from pathlib import Path
 import pickle
-from typing import Any, Iterator, TypeVar
+from typing import Any, IO, Iterator, TypeVar
 
 
 PathLike = TypeVar("PathLike", str, Path)
@@ -14,6 +15,10 @@ def read_mmapped(file_path: PathLike) -> Iterator[str]:
         mmap_obj = mmap(file_obj.fileno(), length=0, access=ACCESS_READ)
         while line := mmap_obj.readline():  # type: ignore
             yield line.decode('utf-8')  # type: ignore
+
+
+def file_size(file_obj: IO) -> int:
+    return os.fstat(file_obj.fileno()).st_size
 
 
 def write_json(data: dict, file_path: PathLike):

@@ -191,7 +191,7 @@ class TrainingChronicCollection(_UserCollection):
 
     def training_chronic(self) -> TrainingChronic | None:
         try:
-            return TrainingChronic(id_popped(self.find_one(self._language_id_filter)))
+            return TrainingChronic(id_popped(self.find_one(self._language_id_filter)))  # type: ignore
         except TypeError:
             return None
 

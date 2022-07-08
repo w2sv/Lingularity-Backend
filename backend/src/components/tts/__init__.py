@@ -8,6 +8,7 @@ from backend.src.components.optional_component import OptionalComponent
 from backend.src.components.tts._google_client import GoogleTTSClient
 from backend.src.database.user_database import LanguageMetadataCollection, UserDatabase
 from backend.src.utils import either_or
+from backend.src.utils.io import file_size
 
 
 class TTS(OptionalComponent):
@@ -117,11 +118,14 @@ class TTS(OptionalComponent):
     def download_audio(self, text: str):
         self._audio = self._google_tts_client.download_audio(text, self._accent)
 
-    def play_audio(self, suspend_for_playback_duration=True):
+    def play_audio(self, suspend_for_playback_duration=True) -> bool:
         """ Suspends program for playback duration, deletes _audio file subsequently """
 
         assert self._audio is not None
 
-        playsound(self._audio.name, block=suspend_for_playback_duration)
+        if played := bool(file_size(self._audio)):
+            playsound(self._audio.name, block=suspend_for_playback_duration)
         self._audio.close()
         self._audio = None
+
+        return played

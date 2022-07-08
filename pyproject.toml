@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "backend"
-version = "0.1.8"
+version = "0.1.9"
 description = "Lingularity Backend"
 authors = ["Janek Zangenberg <zangenbergjanek@googlemail.com>"]
 license = "GPL-3.0"
@@ -16,11 +16,11 @@ tqdm = "*"
 dnspython = "*"
 playsound = "*"
 cryptography = "3.1"
-gTTS = "*"
 spacy = "*"
 monostate = "*"
-textacy = "*"  # mining
+textacy = "*"  # only for mining
 more_itertools = "*"
+gTTS = { git = "https://github.com/w2sv/gTTS.git"}
 
 [tool.poetry.scripts]
 install-spacy-models = "backend.src.ops.spacy_models.download:download_models"
