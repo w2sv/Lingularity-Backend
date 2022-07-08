@@ -43,3 +43,49 @@ def test_training_chronic_collection(user_database):
     entirety_of_unique_trainer_shortforms = set(chain.from_iterable(trainer_2_n_faced_items.keys() for trainer_2_n_faced_items in training_chronic.values()))
     assert not entirety_of_unique_trainer_shortforms - {'s', 'v'}
     assert not training_chronic[today_str][trainer] % n_faced_items
+
+
+def test_training_chronic_comprised_languages(user_database):
+    assert user_database.training_chronic_collection.comprised_languages() == {
+        'Albanian',
+        'Arabic',
+        'Assamese',
+        'Bulgarian',
+        'Chinese',
+        'Czech',
+        'Dutch',
+        'Estonian',
+        'French',
+        'German',
+        'Greek',
+        'Hebrew',
+        'Hungarian',
+        'Icelandic',
+        'Ilocano',
+        'Italian',
+        'Japanese',
+        'Kannada',
+        'Kapampangan',
+        'Latvian',
+        'Macedonian',
+        'Malayalam',
+        'Maori',
+        'Norwegian',
+        'Persian',
+        'Portuguese',
+        'Romani',
+        'Romanian',
+        'Russian',
+        'Serbian',
+        'Slovak',
+        'Spanish',
+        'Swedish',
+        'Tamil',
+        'Tatar',
+        'Turkish',
+        'Turkmen',
+        'Ukrainian',
+        'Urdu',
+        'Vietnamese',
+        'Waray'
+    }

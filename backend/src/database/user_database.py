@@ -123,7 +123,7 @@ class VocabularyCollection(_UserCollection):
             update={'$unset': self._entry_2_document(entry)}
         )
 
-    def update_vocable_entry(self, vocable: str, new_score: float):
+    def update_entry(self, vocable: str, new_score: float):
         self.find_one_and_update(
             filter=self._language_id_filter | {vocable: {'$exists': True}},
             update={
@@ -186,8 +186,8 @@ class TrainingChronicCollection(_UserCollection):
             upsert=True
         )
 
-    def languages(self) -> list[str]:
-        return self._ids()
+    def comprised_languages(self) -> set[str]:
+        return set(self._ids()) - {'unique'}
 
     def training_chronic(self) -> TrainingChronic | None:
         try:
