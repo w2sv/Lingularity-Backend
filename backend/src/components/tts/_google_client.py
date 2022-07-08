@@ -20,7 +20,7 @@ class GoogleTTSClient(GoogleOperationClient):
     def __init__(self, language: str):
         super().__init__(language)
 
-    def get_audio(self, text: str, accent: str | None = None) -> _TemporaryFileWrapper:
+    def download_audio(self, text: str, accent: str | None = None) -> _TemporaryFileWrapper:
         temp_file = NamedTemporaryFile()
 
         gTTS(

@@ -115,7 +115,7 @@ class TTS(OptionalComponent):
     # Downloading / Playing
     # -----------------------
     def download_audio(self, text: str):
-        self._audio = self._google_tts_client.get_audio(text, self._accent)
+        self._audio = self._google_tts_client.download_audio(text, self._accent)
 
     def play_audio(self, suspend_for_playback_duration=True):
         """ Suspends program for playback duration, deletes _audio file subsequently """

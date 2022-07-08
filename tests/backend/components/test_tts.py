@@ -7,7 +7,8 @@ from backend.src.components.tts import GoogleTTSClient, TTS
 
 @pytest.mark.parametrize('language, text', [
     ('Italian', 'Ma che fai ?'),
-    ('French', "Voulez-vous aller nager ?")
+    ('French', "Voulez-vous aller nager ?"),
+    ('Italian', 'Macche?')
 ])
 def test_text_to_speech(language, text):
     tts = TTS(language)
@@ -66,7 +67,7 @@ class TestGoogleTTS:
         assert GoogleTTSClient.available_for(language) == expected
 
     def test_get_audio(self):
-        audio = GoogleTTSClient('Italian').get_audio('Mamma mia!')
+        audio = GoogleTTSClient('Italian').download_audio('Mamma mia!')
 
         assert audio.readable()
         assert not audio.closed

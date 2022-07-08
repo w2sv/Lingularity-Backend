@@ -150,13 +150,15 @@ class TrainingChronicCollection(_UserCollection):
                  $date: {$trainer_shortform: n_faced_items}} """
 
     def upsert_session_statistics(self, trainer_shortform: str, n_faced_items: int):
+        self._add_to_training_chronic(trainer_shortform, n_faced_items)
+        self._upsert_last_session_statistics(trainer_shortform, n_faced_items)
+
+    def _add_to_training_chronic(self, trainer_shortform: str, n_faced_items: int):
         self.update_one(
             filter=self._language_id_filter,
             update={'$inc': {f'{datetime.date.today()}.{trainer_shortform}': n_faced_items}},
             upsert=True
         )
-
-        self._upsert_last_session_statistics(trainer_shortform, n_faced_items)
 
     def _upsert_last_session_statistics(self, trainer_shortform: str, n_faced_items: int):
         self.update_one(
@@ -168,7 +170,7 @@ class TrainingChronicCollection(_UserCollection):
             upsert=True
         )
 
-    def query_last_session_statistics(self) -> LastSessionStatistics | None:
+    def last_session_statistics(self) -> LastSessionStatistics | None:
         try:
             return self.find_one(UNIQUE_ID_FILTER)['lastSession']  # type: ignore
         except _DOCUMENT_ACCESS_EXCEPTIONS:
@@ -187,10 +189,11 @@ class TrainingChronicCollection(_UserCollection):
     def languages(self) -> list[str]:
         return self._ids()
 
-    def training_chronic(self) -> TrainingChronic:
-        document: dict | None = self.find_one(self._language_id_filter)
-        assert document is not None
-        return TrainingChronic(id_popped(document))
+    def training_chronic(self) -> TrainingChronic | None:
+        try:
+            return TrainingChronic(id_popped(self.find_one(self._language_id_filter)))
+        except TypeError:
+            return None
 
 
 TrainingChronic = dict[str, dict[str, int]]
