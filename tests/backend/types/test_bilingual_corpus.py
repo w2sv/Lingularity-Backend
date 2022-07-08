@@ -1,11 +1,10 @@
 import re
-from typing import Iterator, List
 
 import numpy as np
 import pytest
 
-from backend.src.types.bilingual_corpus import BilingualCorpus
-from backend.src.utils.strings.transformation import asciiized, special_characters_stripped, UNICODE_POINT_PATTERN
+from backend.src.types.bilingual_corpus import bilaterally_present_quote_stripped
+from backend.src.utils.strings.transformation import asciiized, UNICODE_POINT_PATTERN
 from tests.conftest import get_bilingual_corpus
 
 
@@ -74,58 +73,14 @@ def test_language_assignment(train_english):
 # ----------------
 # Quote Stripping
 # ----------------
-@pytest.mark.parametrize('language, bilaterally_present_quotes', [
-    # ('Italian', [
-    #     '"Dang Me"',
-    #     '"Chug-A-Lug"',
-    #     '"Jingle Bells"',
-    #     '''"You Don't Want My Love"''',
-    #     '"In the Summer Time"',
-    #     '"password"',
-    #     '"Jailhouse Rock"'
-    # ]),
-    ('German', [
-        '"Star Wars"',
-        '"Tatoeba"',
-        '"hipster"',
-        '"Jingle Bells"'])
-])
-def test_bilaterally_present_quote_stripping(language, bilaterally_present_quotes):
-    bilingual_corpus = BilingualCorpus(language)  # dont use 'get_bilingual_corpus' since data modification occurring
-    bilingual_corpus.strip_bilaterally_present_quotes()
-
-    assert not list(
-        _bilaterally_present_strings(
-            bilingual_corpus,
-            query_strings=bilaterally_present_quotes,
-            remove_special_characters=True
-        )
+@pytest.mark.parametrize('sentence_pair, expected', [
+    (
+        ('I have seen "Star Wars" twice.', 'Ich habe "Star Wars" zweimal gesehen.'),
+        ('I have seen twice.', 'Ich habe zweimal gesehen.'),
     )
-
-
-def _bilaterally_present_strings(
-        sentence_data: BilingualCorpus,
-        query_strings: List[str],
-        remove_special_characters: bool) -> Iterator[str]:
-
-    for sentence_pair in sentence_data:
-        if remove_special_characters:
-            sentence_pair = list(map(special_characters_stripped, sentence_pair))
-
-        for query_string in query_strings:
-            if query_string in sentence_pair[0] and query_string in sentence_pair[1]:
-                query_strings.remove(query_string)
-                yield query_string
-
-
-# def find_sentences_comprising_string_bilaterally(sentence_data: BilingualCorpus, string: str) -> List[str]:
-#     sentences = []
-#
-#     for english_sentence, foreign_language_sentence in sentence_data._sentence_pair_iterator:
-#         if string in english_sentence and string in foreign_language_sentence:
-#             sentences.append(' - '.join([english_sentence, foreign_language_sentence]))
-#
-#     return sentences
+])
+def test_bilaterally_present_quote_stripped(sentence_pair, expected):
+    assert bilaterally_present_quote_stripped(sentence_pair) == expected
 
 
 class TestCorpus:
@@ -153,9 +108,12 @@ class TestCorpus:
         assert get_bilingual_corpus(language).non_english_corpus.employs_latin_script == expected
 
     @pytest.mark.parametrize('language,tokens,expected', [
-        ('German', ["c'est-à-dire"], False),
-        ('French', ['Tom', 'Mary'], True),
-        ('Italian', ['faccia', 'prigione', 'abbraccerà'], True),
+        ('Danish', ["c'est-à-dire"], False),
+        ('Hebrew', ['HUUUUPEN', 'glocken'], False),
+        ('Basque', ['giltza', 'Giltza'], False),
+        ('Basque', ['giltza'], True),
+        ('Greek', ['Επίθεση', 'Τομ'], True),
+        ('Georgian', ['შენ', 'დარეკე'], True),
         ('Korean', ['고마워', '잡아'], True)
     ])
     def test_comprises_tokens(self, language, tokens, expected):

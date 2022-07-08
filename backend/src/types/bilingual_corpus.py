@@ -2,8 +2,7 @@ from __future__ import annotations
 
 import collections
 from functools import cached_property
-from mmap import ACCESS_READ, mmap
-from typing import Callable, Counter, Iterable, Iterator
+from typing import Callable, Counter, Iterable, Iterator, Sequence
 
 import numpy as np
 from textacy.similarity import levenshtein
@@ -16,18 +15,26 @@ from backend.src.utils import iterables
 from backend.src.utils.io import PathLike, read_mmapped
 from backend.src.utils.iterables import intersection
 from backend.src.utils.strings.classification import comprises_only_roman_chars, n_non_roman_chars
-from backend.src.utils.strings.extraction import longest_continuous_partial_overlap, meaningful_types, quoted_substrings
+from backend.src.utils.strings.extraction import longest_continuous_partial_overlap, meaningful_types, contained_quotes
 from backend.src.utils.strings.substrings import continuous_substrings
 from backend.src.utils.strings.transformation import special_characters_stripped, strip_multiple
 
 
 # TODO: move mining related stuff to Miner
 
-SentencePair: TypeAlias = list[str]
+SentencePair: TypeAlias = Sequence[str]
 
 
 def percentage_sliced(ndarray: np.ndarray, percentage: float) -> np.ndarray:
     return ndarray[:int(len(ndarray) * percentage)]
+
+
+def bilaterally_present_quote_stripped(sentence_pair: SentencePair) -> tuple[str, str]:
+    _quoted_substrings: Iterator[Iterator[str]] = map(contained_quotes, sentence_pair)
+    bilaterally_present_quoted_substrings: set[str] = intersection(map(set, _quoted_substrings))
+
+    stripped = lambda sentence: strip_multiple(sentence, strings=bilaterally_present_quoted_substrings).replace('  ', ' ')
+    return stripped(sentence_pair[0]), stripped(sentence_pair[1])
 
 
 class BilingualCorpus(np.ndarray):
@@ -74,28 +81,17 @@ class BilingualCorpus(np.ndarray):
             would be converted to:
                 'They called me the ' - 'Mi hanno chiamato il ' """
 
-        for i_sentence_pair, sentence_pair in enumerate(self):
-            _quoted_substrings: Iterator[list[str]] = map(quoted_substrings, sentence_pair)
-            _special_characters_stripped: Iterator[Iterator[str]] = ((special_characters_stripped(quote) for quote in quotes) for quotes in _quoted_substrings)
-            bilaterally_present_quoted_substrings: set[str] = intersection(map(set, _special_characters_stripped))
+        for i, sentence_pair in enumerate(self):
+            self[i] = np.asarray(bilaterally_present_quote_stripped(sentence_pair))
 
-            for i_corpus, sentence in enumerate(sentence_pair):
-                self[i_sentence_pair, i_corpus] = strip_multiple(
-                    sentence,
-                    strings=map(
-                        lambda quoted_substring: f'"{quoted_substring}"',
-                        bilaterally_present_quoted_substrings
-                    )
-                )
-
-    def dialog_sentences(self) -> Iterator[SentencePair]:
-        """ Unused as of now, just-in-case provision """
-
-        is_dialog_sentence = lambda sentence: sentence.count('"') == 4
-
-        for sentence_pair in self:
-            if is_dialog_sentence(sentence_pair[0]) and is_dialog_sentence(sentence_pair[1]):
-                yield sentence_pair
+    # def dialog_sentences(self) -> Iterator[SentencePair]:
+    #     """ Unused as of now, just-in-case provision """
+    #
+    #     is_dialog_sentence = lambda sentence: sentence.count('"') == 4
+    #
+    #     for sentence_pair in self:
+    #         if is_dialog_sentence(sentence_pair[0]) and is_dialog_sentence(sentence_pair[1]):
+    #             yield sentence_pair
 
     class Corpus(np.ndarray):
         """ Abstraction of entirety of sentence data pertaining to one language

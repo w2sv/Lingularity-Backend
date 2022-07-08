@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import re
-from typing import Iterable
+from typing import Iterable, Iterator
 
 from more_itertools import unzip
 
@@ -107,13 +107,13 @@ def longest_continuous_partial_overlap(strings: Iterable[str], min_length=1) -> 
     return [None, buffer][len(buffer) > min_length]
 
 
-def quoted_substrings(string: str) -> list[str]:
+def contained_quotes(string: str) -> Iterator[str]:
     """ Returns:
-            string parts located between double(!) quotation marks without marks themselves
+            string parts located between double(!) quotation marks
 
-    >>> quoted_substrings('He told me to "bugger off" and called me a "filthy skank", whatever that means.')
-    ['bugger off', 'filthy skank']
-    >>> quoted_substrings("He told me to 'bugger off'")
+    >>> list(contained_quotes('He told me to "bugger off" and called me a "filthy skank", whatever that means.'))
+    ['"bugger off"', '"filthy skank"']
+    >>> list(contained_quotes("He told me to 'bugger off'"))
     [] """
 
-    return re.findall('"(.*?)"', string)
+    return map(lambda quoted_substring: f'"{quoted_substring}"', re.findall('"(.+?)"', string))
