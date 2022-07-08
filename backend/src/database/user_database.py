@@ -11,11 +11,10 @@ from backend.src.database._utils import ID, id_popped, UNIQUE_ID_FILTER
 from backend.src.database.extended_collection import ExtendedCollection
 from backend.src.database.extended_database import ExtendedDatabase
 from backend.src.types.vocable_entry import VocableEntry
-from backend.src.utils import date
 
 
 class UserDatabase(ExtendedDatabase):
-    def __init__(self, user: str, language: str):
+    def __init__(self, user: str, language: str = str()):
         super().__init__(name=user)
 
         self.language = language

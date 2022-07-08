@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from abc import ABC, abstractmethod
 import random
-from typing import Generic, Iterator, TypeVar
+from typing import Callable, Generic, Iterator, TypeVar
 
 import numpy as np
 
@@ -20,25 +20,14 @@ _TrainingItems = TypeVar('_TrainingItems', BilingualCorpus, VocableEntries)
 class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
     @UserDatabase.receiver
     def __init__(self, non_english_language: str, train_english: bool, user_database: UserDatabase):
-        self._non_english_language = non_english_language
-        self._train_english = train_english
-
+        self.language = [non_english_language, string_resources['english']][train_english]
         user_database.language = self.language
-        self.user_database = user_database
 
         self._item_iterator: Iterator[_TrainingItem]
+        self._get_bilingual_corpus: Callable[[], BilingualCorpus] = lambda: BilingualCorpus(non_english_language, train_english=train_english)
         self.n_training_items: int
 
-        self.forename_converter: ForenameConvertor | None = self._get_forename_converter()
-
-    def _get_forename_converter(self) -> ForenameConvertor | None:
-        if ForenameConvertor.available_for(self._non_english_language):
-            return ForenameConvertor(self._non_english_language, train_english=self._train_english)
-        return None
-
-    @property
-    def language(self) -> str:
-        return [self._non_english_language, string_resources['english']][self._train_english]
+        self.forename_converter: ForenameConvertor | None = ForenameConvertor.get_if_available_for(self.language, train_english=train_english)
 
     # ----------------
     # Pre Training
@@ -60,9 +49,6 @@ class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
 
         return iter(items)  # type: ignore
 
-    def _get_sentence_data(self) -> BilingualCorpus:
-        return BilingualCorpus(self._non_english_language, self._train_english)
-
     # -----------------
     # Training
     # -----------------
@@ -71,16 +57,3 @@ class TrainerBackend(ABC, Generic[_TrainingItem, _TrainingItems]):
                  None in case of depleted iterator """
 
         return next(self._item_iterator, None)
-
-    # -----------------
-    # Post Training
-    # -----------------
-    def enter_session_statistics_into_database(self, n_trained_items: int):
-        self.user_database.training_chronic_collection.upsert_session_statistics(
-            self.shortform,
-            n_faced_items=n_trained_items
-        )
-
-    @property
-    def shortform(self) -> str:
-        return self.__class__.__name__[0].lower()

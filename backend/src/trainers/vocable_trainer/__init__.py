@@ -1,9 +1,9 @@
 from collections import defaultdict
-from itertools import tee
 from typing import Iterable, Iterator
 
 import numpy as np
 
+from backend.src.database.user_database import UserDatabase
 from backend.src.trainers.trainer_backend import TrainerBackend
 from backend.src.types.bilingual_corpus import BilingualCorpus
 from backend.src.types.token_maps import get_token_sentence_indices_map, Token2ComprisingSentenceIndices
@@ -14,7 +14,7 @@ class VocableTrainerBackend(TrainerBackend[VocableEntry, VocableEntries]):
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 
-        self._sentence_data: BilingualCorpus = self._get_sentence_data()
+        self._sentence_data: BilingualCorpus = self._get_bilingual_corpus()
         self._token_2_sentence_indices: Token2ComprisingSentenceIndices = get_token_sentence_indices_map(self.language, load_normalizer=True)
 
         self.paraphrases: dict[str, list[str]] = None  # type: ignore
@@ -36,10 +36,12 @@ class VocableTrainerBackend(TrainerBackend[VocableEntry, VocableEntries]):
         self.new_vocable_entries = list(filter(lambda entry: entry.is_new, vocable_entries_to_be_trained))
         self._set_item_iterator(vocable_entries_to_be_trained)
 
-    def _vocable_entries_to_be_trained(self) -> Iterator[VocableEntry]:
+    @staticmethod
+    @UserDatabase.receiver
+    def _vocable_entries_to_be_trained(user_database: UserDatabase) -> Iterator[VocableEntry]:
         return filter(
                 is_perfected,
-                self.user_database.vocabulary_collection.entries()
+                user_database.vocabulary_collection.entries()
             )
 
     @staticmethod

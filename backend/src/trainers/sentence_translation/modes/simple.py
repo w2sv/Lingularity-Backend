@@ -6,8 +6,8 @@ from backend.src.types.token_maps import get_token_maps, Token2ComprisingSentenc
 from backend.src.utils import iterables
 
 
-def filter_sentence_data(sentence_data: BilingualCorpus, language: str) -> BilingualCorpus:
-    sentence_indices_map, occurrences_map = get_token_maps(language)
+def filter_sentence_data(sentence_data: BilingualCorpus, non_english_language: str) -> BilingualCorpus:
+    sentence_indices_map, occurrences_map = get_token_maps(non_english_language)
 
     sentence_indices_with_comprising_occurrences = _sentence_indices_with_comprising_tokens(sentence_indices_map, occurrences_map)
     sentence_indices = (sentence_index for sentence_index, comprising_occurrences in sentence_indices_with_comprising_occurrences if all((occurrence >= occurrences_map.occurrence_mean for occurrence in comprising_occurrences)))

@@ -1,16 +1,18 @@
+from __future__ import annotations
+
 from tempfile import _TemporaryFileWrapper
-from typing import Optional
 
 from playsound import playsound
 
+from backend.src.components.optional_component import OptionalComponent
 from backend.src.components.tts._google_client import GoogleTTSClient
 from backend.src.database.user_database import LanguageMetadataCollection, UserDatabase
 from backend.src.utils import either_or
 
 
-class TTS:
+class TTS(OptionalComponent):
     @staticmethod
-    def available_for(language: str) -> bool:
+    def _available_for(language: str) -> bool:
         return GoogleTTSClient.available_for(language)
 
     @UserDatabase.receiver
@@ -20,12 +22,12 @@ class TTS:
         self._language_metadata_db_collection: LanguageMetadataCollection = user_database.language_metadata_collection
         self._google_tts_client = GoogleTTSClient(language)
 
-        self._accent: Optional[str] = self._retrieve_previous_accent()
+        self._accent: str | None = self._retrieve_previous_accent()
 
         self._playback_speed: float = self._get_playback_speed(self._accent)  # TODO
         self._enabled: bool = either_or(self._language_metadata_db_collection.query_tts_enablement(), True)
 
-        self._audio: Optional[_TemporaryFileWrapper] = None
+        self._audio: _TemporaryFileWrapper | None = None
 
     @property
     def _language_identifier(self) -> str:
@@ -38,7 +40,7 @@ class TTS:
     # -----------------
     # Language Variety
     # -----------------
-    def _retrieve_previous_accent(self) -> Optional[str]:
+    def _retrieve_previous_accent(self) -> str | None:
         if not self._google_tts_client.language_variety_choices:
             return None
         return self._language_metadata_db_collection.query_accent()
@@ -48,7 +50,7 @@ class TTS:
         return self._google_tts_client.language_variety_choices
 
     @property
-    def accent(self) -> Optional[str]:
+    def accent(self) -> str | None:
         return self._accent
 
     @accent.setter
@@ -81,7 +83,7 @@ class TTS:
     # -----------------
     # Playback Speed
     # -----------------
-    def _get_playback_speed(self, accent: Optional[str]) -> float:
+    def _get_playback_speed(self, accent: str | None) -> float:
         """" Returns:
                 previously stored playback speed corresponding to new_value if existent
                     otherwise default of 1.0 """
@@ -93,7 +95,7 @@ class TTS:
         return DEFAULT_PLAYBACK_SPEED
 
     @property
-    def playback_speed(self) -> Optional[float]:
+    def playback_speed(self) -> float | None:
         return self._playback_speed
 
     @playback_speed.setter

@@ -20,7 +20,6 @@ from backend.src.trainers.sentence_translation import modes, SentenceTranslation
 def test_sentence_translation_trainer(language, train_english, tts_available, sentence_data_filter, n_traverse_sentences):
     backend = SentenceTranslationTrainerBackend(language, train_english=train_english)
     assert tts_available == backend.tts_available
-    assert backend.shortform == 's'
 
     backend.sentence_data_filter = sentence_data_filter
     backend.set_item_iterator()

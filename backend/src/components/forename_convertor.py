@@ -1,9 +1,9 @@
 from __future__ import annotations
 
-from collections.abc import Mapping
 import random
-from typing import Iterable, Iterator
+from typing import Iterable, Iterator, Mapping
 
+from backend.src.components.optional_component import OptionalComponent
 from backend.src.metadata import (
     data_beset_countries_language_employed_in,
     get_substitution_forenames_map,
@@ -17,9 +17,9 @@ from backend.src.utils.strings.splitting import split_multiple
 DEFAULT_FORENAMES = ('Tom', 'John', 'Mary', 'Alice')  # _DEFAULT_SURNAME = 'Jackson'
 
 
-class ForenameConvertor:
+class ForenameConvertor(OptionalComponent):
     @staticmethod
-    def available_for(language: str) -> bool:
+    def _available_for(language: str) -> bool:
         if not len(language_metadata[language]['translations']):
             return False
         return bool(data_beset_countries_language_employed_in(language=language))
@@ -33,8 +33,7 @@ class ForenameConvertor:
 
         self.demonym: str | None = substitution_forenames_map['demonym']
         self.country: str = substitution_forenames_map['country']
-        self._replacement_forenames: list[list[list[str]]] = self._unmap_replacement_forenames(
-            substitution_forenames_map)
+        self._replacement_forenames: list[list[list[str]]] = self._unmap_replacement_forenames(substitution_forenames_map)
 
         self._default_forename_translations: list[list[str]] = self._unmap_default_forename_translations(language)
         self._uses_latin_script: bool = language_metadata[language]['properties']['usesLatinScript']

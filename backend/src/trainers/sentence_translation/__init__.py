@@ -10,26 +10,20 @@ class SentenceTranslationTrainerBackend(TrainerBackend[SentencePair, BilingualCo
     def __init__(self, non_english_language: str, train_english: bool):
         super().__init__(non_english_language, train_english)
 
-        self.tts: TTS | None = TTS(self.language) if TTS.available_for(self.language) else None
-        self._sentence_data_filter: modes.SentenceDataFilter = None  # type: ignore
+        self._non_english_language = non_english_language
+
+        self.tts: TTS | None = TTS.get_if_available_for(self.language)
+        self.sentence_data_filter: modes.SentenceDataFilter = None  # type: ignore
 
     @property
     def tts_available(self) -> bool:
         return self.tts is not None
 
-    @property
-    def sentence_data_filter(self) -> modes.SentenceDataFilter:
-        return self._sentence_data_filter
-
-    @sentence_data_filter.setter
-    def sentence_data_filter(self, _filter: modes.SentenceDataFilter):
-        self._sentence_data_filter = _filter
-
     def set_item_iterator(self):
         # get sentence data
-        sentence_data = self._get_sentence_data()
+        bilingual_corpus = self._get_bilingual_corpus()
 
         # get mode filtered sentence data
-        filtered_sentence_data = self._sentence_data_filter(sentence_data, self._non_english_language)
+        filtered_sentence_data = self.sentence_data_filter(bilingual_corpus, self._non_english_language)
 
         self._set_item_iterator(items=filtered_sentence_data)
